@@ -1,0 +1,30 @@
+{
+  "imagenes_zip_anterior": 9363,
+  "imagenes_leidas_del_rar": 3851,
+  "duplicados_exactos_entre_packs": 21,
+  "imagenes_nuevas_agregadas_desde_rar": 3830,
+  "conflictos_mismo_nombre_distinto_contenido": 0,
+  "imagenes_unicas_finales": 13193,
+  "cantidad_carpetas": 14,
+  "maximo_imagenes_por_carpeta": 1000,
+  "distribucion_carpetas": {
+    "grupo_MG7IV0P6": 1000,
+    "grupo_DOYKS2I6": 1000,
+    "grupo_C7T5H8GO": 1000,
+    "grupo_98OLMHNB": 1000,
+    "grupo_Y4G7A9BZ": 1000,
+    "grupo_1LTK65N5": 1000,
+    "grupo_PJZU6FX0": 1000,
+    "grupo_KHATWEET": 1000,
+    "grupo_T3SH9X1U": 1000,
+    "grupo_MJ7EVATA": 1000,
+    "grupo_0ZVZ2ODN": 1000,
+    "grupo_WZNNIH3C": 1000,
+    "grupo_5XRDJ1RW": 1000,
+    "grupo_ZVA2YXM2": 193
+  },
+  "archivos_mapeo": [
+    "rutas_imagenes.json",
+    "rutas_imagenes.csv"
+  ]
+}
