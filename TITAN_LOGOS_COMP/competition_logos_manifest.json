@@ -1,0 +1,727 @@
+{
+  "schema_version": "incastats.competition_logos.v1",
+  "generated_at": "2026-08-12T21:54:59.444Z",
+  "provider": "sofascore",
+  "preferred_theme": "dark",
+  "input_json_files": [
+    "TITAN_31_COMPETITIONS_APP_FAST.json"
+  ],
+  "competition_count": 31,
+  "downloaded": 31,
+  "failed": 0,
+  "competitions": [
+    {
+      "competition_id": 98,
+      "name": "1. Lig",
+      "country": "TURQUÍA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/98/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 14879,
+      "sha256": "ee97b67e65bc457db867da7a7f60db5e6a31c366dd3a89a5db727a499b30c5f3",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/98/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/98/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/98/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/98/image"
+      ]
+    },
+    {
+      "competition_id": 44,
+      "name": "2. Bundesliga",
+      "country": "ALEMANIA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/44/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 9829,
+      "sha256": "26f82a591141604fdde07728e8a8f1d27ae6b482c13bf2fd23383b3cde27cf01",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/44/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/44/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/44/image"
+      ]
+    },
+    {
+      "competition_id": 40,
+      "name": "Allsvenskan",
+      "country": "SUECIA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/40/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 20494,
+      "sha256": "21e6eed9e924a7eaf69cbb724f98d21a7eb5aaadacf600b84d8c1104a32fd949",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/40/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/40/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/40/image"
+      ]
+    },
+    {
+      "competition_id": 45,
+      "name": "Austrian Bundesliga",
+      "country": "AUSTRIA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/45/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 16675,
+      "sha256": "6e32803ed98850ec7e2847c1755244fec11a93b4bd4fb901ba0ccea520fbed26",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/45/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/45/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/45/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/45/image"
+      ]
+    },
+    {
+      "competition_id": 38,
+      "name": "Belgian Pro League",
+      "country": "BÉLGICA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/38/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 11590,
+      "sha256": "66e335808f93e3e1e3c52f1ea80c09c8968f008ab5237dcfbc363bf7077c054d",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/38/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/38/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/38/image"
+      ]
+    },
+    {
+      "competition_id": 325,
+      "name": "Brasileirão Série A",
+      "country": "BRASIL",
+      "region": "AMÉRICA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/325/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 23099,
+      "sha256": "8ef0179e3830d8097571cfad99aec2d20ed0d0990c127d0b9d1e665f13a5673b",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/325/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/325/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/325/image"
+      ]
+    },
+    {
+      "competition_id": 390,
+      "name": "Brasileirão Série B",
+      "country": "BRASIL",
+      "region": "AMÉRICA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/390/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 14034,
+      "sha256": "b1323f901ad6d43da6cc3ceedafc252b62391578886b9aeaf1229159316984f9",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/390/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/390/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/390/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/390/image"
+      ]
+    },
+    {
+      "competition_id": 35,
+      "name": "Bundesliga",
+      "country": "ALEMANIA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/35/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 6949,
+      "sha256": "a4eeaf99dcecebc3a7a7d25418a9a595062aab47f2cb79f25f610d0c45243db7",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/35/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/35/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/35/image"
+      ]
+    },
+    {
+      "competition_id": 18,
+      "name": "Championship",
+      "country": "INGLATERRA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/18/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 16545,
+      "sha256": "a213878d3a503482e4d52df4df2584575ec27c0bce694ba3c92fa3600ae1adc9",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/18/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/18/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/18/image"
+      ]
+    },
+    {
+      "competition_id": 39,
+      "name": "Danish Superliga",
+      "country": "DINAMARCA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/39/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 5278,
+      "sha256": "e9714e11cc93db52ee19442eff37db12a607d6e623d62855bf580351bca3f36a",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/39/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/39/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/39/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/39/image"
+      ]
+    },
+    {
+      "competition_id": 131,
+      "name": "Eerste Divisie",
+      "country": "PAÍSES BAJOS",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/131/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 14337,
+      "sha256": "439832f5e07e957640975eac3c8d65c3875fd0402e0c316a5899e364cc00dd6b",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/131/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/131/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/131/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/131/image"
+      ]
+    },
+    {
+      "competition_id": 20,
+      "name": "Eliteserien",
+      "country": "NORUEGA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/20/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 7534,
+      "sha256": "c1ca300004f09e4753fd5ea7c6f72f81d3f4ffbadc552165ed282ec557e12b96",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/20/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/20/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/20/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/20/image"
+      ]
+    },
+    {
+      "competition_id": 37,
+      "name": "Eredivisie",
+      "country": "PAÍSES BAJOS",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/37/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 12750,
+      "sha256": "41b0bdcf5a4c7ff0f0de6f0d90d9c76126ed0b136991950d7a3d4ed00842cdb2",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/37/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/37/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/37/image"
+      ]
+    },
+    {
+      "competition_id": 8,
+      "name": "LaLiga EA Sports",
+      "country": "ESPAÑA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/8/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 5392,
+      "sha256": "381e8374586c667302b966e83eedcdaf36e56b46acd330138ea5dfc6fa43bb17",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/8/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/8/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/8/image"
+      ]
+    },
+    {
+      "competition_id": 54,
+      "name": "LaLiga Hypermotion",
+      "country": "ESPAÑA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/54/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 5952,
+      "sha256": "c3b8ff36d50628af52bc3cdf07a4e52bbcddc0eed3420cc8511ea2c632442535",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/54/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/54/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/54/image"
+      ]
+    },
+    {
+      "competition_id": 24,
+      "name": "League One",
+      "country": "INGLATERRA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/24/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 16564,
+      "sha256": "069c78b844a5c52d5566dc47f92211e79b82c4ae8c3e40f2b54267d1ec132a34",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/24/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/24/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/24/image"
+      ]
+    },
+    {
+      "competition_id": 25,
+      "name": "League Two",
+      "country": "INGLATERRA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/25/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 16305,
+      "sha256": "50cd8e02603edf2cbf0859c2a462d02bc538ffb7523ce03d4d5eb6cbff8bfc39",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/25/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/25/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/25/image"
+      ]
+    },
+    {
+      "competition_id": 406,
+      "name": "Liga 1 Perú",
+      "country": "PERÚ",
+      "region": "AMÉRICA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/406/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 9084,
+      "sha256": "ddf4ad83d4f76c91545317e0c12eed302e2f8a8abe1a6ec71f6839e74f7618b0",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/406/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/406/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/406/image"
+      ]
+    },
+    {
+      "competition_id": 152,
+      "name": "Liga I",
+      "country": "RUMANÍA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/152/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 7292,
+      "sha256": "30342bbe489510171ebb41d33ed6a519c0fe5406202c5b0603ea0eac094fb79c",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/152/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/152/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/152/image"
+      ]
+    },
+    {
+      "competition_id": 238,
+      "name": "Liga Portugal",
+      "country": "PORTUGAL",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 18948,
+      "sha256": "f12cfa2c48aedb2ed00799c31027e5de2266d92ddb663ca3e002dc8e44ea2910",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/238/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/238/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/238/image"
+      ]
+    },
+    {
+      "competition_id": 239,
+      "name": "Liga Portugal 2",
+      "country": "PORTUGAL",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/239/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 14658,
+      "sha256": "fd970fcd19fa6bfdcf37669cc8dbb9957d666581a6b835d2af3f9443e6fb3313",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/239/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/239/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/239/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/239/image"
+      ]
+    },
+    {
+      "competition_id": 155,
+      "name": "Liga Profesional Argentina",
+      "country": "ARGENTINA",
+      "region": "AMÉRICA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 12339,
+      "sha256": "fd80133cea87fa2bdba1a47ad87ff467d2597fea480f9497d512b663ba222fa2",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/155/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/155/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/155/image"
+      ]
+    },
+    {
+      "competition_id": 34,
+      "name": "Ligue 1",
+      "country": "FRANCIA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 4274,
+      "sha256": "0ab44d5a8f2cafedea4b7eb1315a2f1805f982d4de0727f7e769dae648d8fb5c",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/34/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/34/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/34/image"
+      ]
+    },
+    {
+      "competition_id": 182,
+      "name": "Ligue 2",
+      "country": "FRANCIA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/182/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 7542,
+      "sha256": "8eac2ac9b8d97788db61dc8a20ba05c046f13bc23f405217f10e93b0d7881387",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/182/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/182/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/182/image"
+      ]
+    },
+    {
+      "competition_id": 242,
+      "name": "MLS",
+      "country": "EE. UU. / CANADÁ",
+      "region": "AMÉRICA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/242/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 15137,
+      "sha256": "7c1a7b16b2028bb9e4b6311b71a4d4ae0d09e348c69d75b0b8421d9a163b5707",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/242/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/242/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/242/image"
+      ]
+    },
+    {
+      "competition_id": 17,
+      "name": "Premier League",
+      "country": "INGLATERRA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 9388,
+      "sha256": "b97334737e5188a2bf4a637775f01c569d63180472b6e58198089e1c14aec956",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/17/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/17/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/17/image"
+      ]
+    },
+    {
+      "competition_id": 23,
+      "name": "Serie A",
+      "country": "ITALIA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 12546,
+      "sha256": "0e7fc11e171c28a4a360e7a9753e5fd08a33f7499fa82068c3d17899ce1917dd",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/23/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/23/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/23/image"
+      ]
+    },
+    {
+      "competition_id": 53,
+      "name": "Serie B",
+      "country": "ITALIA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/53/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 8922,
+      "sha256": "b9ae1b9eeebe4b8555c5e2826daab451788e2526e6b568a6de4fa7fc9f5159b8",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/53/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/53/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/53/image"
+      ]
+    },
+    {
+      "competition_id": 185,
+      "name": "Super League Greece",
+      "country": "GRECIA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/185/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 14153,
+      "sha256": "f7db20ee8cd75fbf877243f406cebfd4dfec9210c0629c3fc5ba49706941ac7f",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/185/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/185/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/185/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/185/image"
+      ]
+    },
+    {
+      "competition_id": 52,
+      "name": "Süper Lig",
+      "country": "TURQUÍA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/52/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 8655,
+      "sha256": "569ea70847a4bc55fd4a673385227c40039e69d75481266b3b7c640aeaab4313",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/52/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/52/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/52/image"
+      ]
+    },
+    {
+      "competition_id": 215,
+      "name": "Swiss Super League",
+      "country": "SUIZA",
+      "region": "EUROPA",
+      "source_files": [
+        "TITAN_31_COMPETITIONS_APP_FAST.json"
+      ],
+      "ok": true,
+      "url": "https://img.sofascore.com/api/v1/unique-tournament/215/image",
+      "width": 150,
+      "height": 150,
+      "source_type": "image/png",
+      "output_type": "image/png",
+      "bytes": 10884,
+      "sha256": "528578ede481a9065e40a6ad4ac7d90ed6ab3ce84cd3d4efabe4197d04bf3e47",
+      "tried": [
+        "https://api.sofascore.com/api/v1/unique-tournament/215/image/dark",
+        "https://api.sofascore.com/api/v1/unique-tournament/215/image/light",
+        "https://api.sofascore.com/api/v1/unique-tournament/215/image",
+        "https://img.sofascore.com/api/v1/unique-tournament/215/image"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "1. Lig": {
+    "competition_id": 98,
+    "file": "98_1. Lig.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/98/image"
+  },
+  "2. Bundesliga": {
+    "competition_id": 44,
+    "file": "44_2. Bundesliga.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/44/image"
+  },
+  "Allsvenskan": {
+    "competition_id": 40,
+    "file": "40_Allsvenskan.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/40/image"
+  },
+  "Austrian Bundesliga": {
+    "competition_id": 45,
+    "file": "45_Austrian Bundesliga.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/45/image"
+  },
+  "Belgian Pro League": {
+    "competition_id": 38,
+    "file": "38_Belgian Pro League.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/38/image"
+  },
+  "Brasileirão Série A": {
+    "competition_id": 325,
+    "file": "325_Brasileirão Série A.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/325/image"
+  },
+  "Brasileirão Série B": {
+    "competition_id": 390,
+    "file": "390_Brasileirão Série B.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/390/image"
+  },
+  "Bundesliga": {
+    "competition_id": 35,
+    "file": "35_Bundesliga.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/35/image"
+  },
+  "Championship": {
+    "competition_id": 18,
+    "file": "18_Championship.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/18/image"
+  },
+  "Danish Superliga": {
+    "competition_id": 39,
+    "file": "39_Danish Superliga.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/39/image"
+  },
+  "Eerste Divisie": {
+    "competition_id": 131,
+    "file": "131_Eerste Divisie.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/131/image"
+  },
+  "Eliteserien": {
+    "competition_id": 20,
+    "file": "20_Eliteserien.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/20/image"
+  },
+  "Eredivisie": {
+    "competition_id": 37,
+    "file": "37_Eredivisie.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/37/image"
+  },
+  "LaLiga EA Sports": {
+    "competition_id": 8,
+    "file": "8_LaLiga EA Sports.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/8/image"
+  },
+  "LaLiga Hypermotion": {
+    "competition_id": 54,
+    "file": "54_LaLiga Hypermotion.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/54/image"
+  },
+  "League One": {
+    "competition_id": 24,
+    "file": "24_League One.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/24/image"
+  },
+  "League Two": {
+    "competition_id": 25,
+    "file": "25_League Two.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/25/image"
+  },
+  "Liga 1 Perú": {
+    "competition_id": 406,
+    "file": "406_Liga 1 Perú.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/406/image"
+  },
+  "Liga I": {
+    "competition_id": 152,
+    "file": "152_Liga I.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/152/image"
+  },
+  "Liga Portugal": {
+    "competition_id": 238,
+    "file": "238_Liga Portugal.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/238/image"
+  },
+  "Liga Portugal 2": {
+    "competition_id": 239,
+    "file": "239_Liga Portugal 2.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/239/image"
+  },
+  "Liga Profesional Argentina": {
+    "competition_id": 155,
+    "file": "155_Liga Profesional Argentina.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/155/image"
+  },
+  "Ligue 1": {
+    "competition_id": 34,
+    "file": "34_Ligue 1.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/34/image"
+  },
+  "Ligue 2": {
+    "competition_id": 182,
+    "file": "182_Ligue 2.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/182/image"
+  },
+  "MLS": {
+    "competition_id": 242,
+    "file": "242_MLS.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/242/image"
+  },
+  "Premier League": {
+    "competition_id": 17,
+    "file": "17_Premier League.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/17/image"
+  },
+  "Serie A": {
+    "competition_id": 23,
+    "file": "23_Serie A.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/23/image"
+  },
+  "Serie B": {
+    "competition_id": 53,
+    "file": "53_Serie B.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/53/image"
+  },
+  "Super League Greece": {
+    "competition_id": 185,
+    "file": "185_Super League Greece.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/185/image"
+  },
+  "Süper Lig": {
+    "competition_id": 52,
+    "file": "52_Süper Lig.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/52/image"
+  },
+  "Swiss Super League": {
+    "competition_id": 215,
+    "file": "215_Swiss Super League.png",
+    "source_url": "https://img.sofascore.com/api/v1/unique-tournament/215/image"
+  }
+}
