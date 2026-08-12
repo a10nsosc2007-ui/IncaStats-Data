@@ -1,1 +1,2121 @@
-{"schema":"titan.competitions.v1","count":148,"competitions":[{"competition_id":44,"name":"2. Bundesliga","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37168,42269,52607,63514,77354,97406]},{"competition_id":135,"name":"2. Liga","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37159,42416,52545,62657,77531,97202]},{"competition_id":491,"name":"3. Liga","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37235,42444,52815,63786,77744,98012]},{"competition_id":10294,"name":"Alagoano","competition_type":"LEAGUE","regions":["America"],"season_ids":[47665,57120]},{"competition_id":11702,"name":"Amazonense","competition_type":"LEAGUE","regions":["America"],"season_ids":[47692,57268,69801,86867]},{"competition_id":45,"name":"Austrian Bundesliga","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37145,42386,52524,62629,77382,97043]},{"competition_id":374,"name":"Baianão Mansão Green 2026","competition_type":"LEAGUE","regions":["America"],"season_ids":[40121,47686,57035,69575,86656]},{"competition_id":26771,"name":"Bayerischer Totopokal","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[78378,95985]},{"competition_id":326,"name":"Belgian Cup","competition_type":"CUP","regions":["Europe"],"season_ids":[38321,45423,54798,66012,81462]},{"competition_id":47,"name":"Betinia Liga","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[36843,42055,52329,61669,77031,96186]},{"competition_id":325,"name":"Brasileirão Betano","competition_type":"LEAGUE","regions":["America"],"season_ids":[36166,40557,48982,58766,72034,87678]},{"competition_id":390,"name":"Brasileirão Série B","competition_type":"LEAGUE","regions":["America"],"season_ids":[36162,40560,49058,59015,72603,89840]},{"competition_id":1281,"name":"Brasileirão Série C","competition_type":"LEAGUE","regions":["America"],"season_ids":[40640,49328,59016,72841,90642]},{"competition_id":10326,"name":"Brasileirão Série D","competition_type":"LEAGUE","regions":["America"],"season_ids":[40711,49355,72842,92447]},{"competition_id":35,"name":"Bundesliga","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37166,42268,52608,63516,77333]},{"competition_id":498,"name":"CONCACAF Champions Cup","competition_type":"INTERNATIONAL","regions":["America"],"season_ids":[35618,40113,47653,57303,69806,87494]},{"competition_id":384,"name":"CONMEBOL Libertadores","competition_type":"INTERNATIONAL","regions":["America"],"season_ids":[35576,40174,47974,57296,70083,87760]},{"competition_id":490,"name":"CONMEBOL Recopa","competition_type":"INTERNATIONAL","regions":["America"],"season_ids":[35468,40182,47962,57048,69954,87761]},{"competition_id":480,"name":"CONMEBOL Sudamericana","competition_type":"INTERNATIONAL","regions":["America"],"season_ids":[35645,40175,47968,57297,70070,87770]},{"competition_id":10093,"name":"Campeonato de Portugal","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37748,45201,53806,79033]},{"competition_id":11454,"name":"Campeones Cup","competition_type":"CUP","regions":["America"],"season_ids":[52705,79229]},{"competition_id":9230,"name":"Canadian Championship","competition_type":"LEAGUE","regions":["America"],"season_ids":[37706,40884,48747,58745,72442,88838]},{"competition_id":92,"name":"Carioca","competition_type":"CUP","regions":["America"],"season_ids":[35086,40024,47664,56974,69574,86674]},{"competition_id":18644,"name":"Carioca, Série A2","competition_type":"CUP","regions":["America"],"season_ids":[41022]},{"competition_id":376,"name":"Catarinense","competition_type":"LEAGUE","regions":["America"],"season_ids":[40009,47687,57072,69737,86675]},{"competition_id":378,"name":"Cearense","competition_type":"LEAGUE","regions":["America"],"season_ids":[47690,57045,69558,86657]},{"competition_id":216,"name":"Challenge League","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37160,42277,52365,61670,77150,96585]},{"competition_id":9,"name":"Challenger Pro League","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[42422,52384,61412,77849]},{"competition_id":18,"name":"Championship","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37154,42401,52367,61961,77347]},{"competition_id":19813,"name":"Copa Alagoas","competition_type":"CUP","regions":["America"],"season_ids":[47966,57174,69728,87228]},{"competition_id":1024,"name":"Copa Argentina","competition_type":"CUP","regions":["America"],"season_ids":[40289,48253,57968,70664,88177]},{"competition_id":373,"name":"Copa Betano do Brasil","competition_type":"CUP","regions":["America"],"season_ids":[35829,40438,48876,58134,71944,89353]},{"competition_id":20620,"name":"Copa FGF","competition_type":"CUP","regions":["America"],"season_ids":[82013,94315]},{"competition_id":27958,"name":"Copa Governo do Estado de Sergipe","competition_type":"CUP","regions":["America"],"season_ids":[78307]},{"competition_id":10383,"name":"Copa Paulista","competition_type":"CUP","regions":["America"],"season_ids":[42246,51332,75371]},{"competition_id":20547,"name":"Copa Rio","competition_type":"CUP","regions":["America"],"season_ids":[52033]},{"competition_id":20898,"name":"Copa Santa Catarina","competition_type":"CUP","regions":["America"],"season_ids":[53923,79263]},{"competition_id":33495,"name":"Copa Sul-Sudeste ","competition_type":"CUP","regions":["America"],"season_ids":[91673]},{"competition_id":10158,"name":"Copa Verde","competition_type":"CUP","regions":["America"],"season_ids":[45759,48077,57712,71015,91312]},{"competition_id":25609,"name":"Copa de Catalunya ","competition_type":"CUP","regions":["Europe"],"season_ids":[73525,87445]},{"competition_id":13475,"name":"Copa de la Liga Profesional","competition_type":"CUP","regions":["America"],"season_ids":[35486,40377,47644,57487,"UNKNOWN_SEASON"]},{"competition_id":329,"name":"Copa del Rey","competition_type":"CUP","regions":["Europe"],"season_ids":[39457,46493,55373,66885,82988]},{"competition_id":1596,"name":"Copa do Nordeste","competition_type":"CUP","regions":["America"],"season_ids":[47716,57252,69430,91324]},{"competition_id":328,"name":"Coppa Italia","competition_type":"CUP","regions":["Europe"],"season_ids":[37611,42742,53505,63668,77308]},{"competition_id":824,"name":"Coppa Italia Serie C","competition_type":"CUP","regions":["Europe"],"season_ids":[46081,55215,63521,79372]},{"competition_id":20001,"name":"Coppa Italia Serie D","competition_type":"CUP","regions":["Europe"],"season_ids":[79889]},{"competition_id":335,"name":"Coupe de France","competition_type":"CUP","regions":["Europe"],"season_ids":[39554,47014,56287,68468,85565]},{"competition_id":355,"name":"Cupa României Betano","competition_type":"CUP","regions":["Europe"],"season_ids":[38283,45837,53460,64681,79014]},{"competition_id":217,"name":"DFB Pokal","competition_type":"CUP","regions":["Europe"],"season_ids":[37289,41962,52284,61132,76910]},{"competition_id":39,"name":"Danish Superliga","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[36834,41914,52172,61326,76491,95785]},{"competition_id":21,"name":"EFL Cup","competition_type":"CUP","regions":["Europe"],"season_ids":[37177,42443,52393,62483,77500,96185]},{"competition_id":16841,"name":"Eccellenza Piemonte","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[83017]},{"competition_id":131,"name":"Eerste Divisie","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[36893,42258,52556,61667,77156,96187]},{"competition_id":24029,"name":"England National League Cup","competition_type":"CUP","regions":["Europe"],"season_ids":[68371,80114]},{"competition_id":330,"name":"Eurojackpot KNVB Beker","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[39040,46333,55337,67562,81932]},{"competition_id":19,"name":"FA Cup","competition_type":"CUP","regions":["Europe"],"season_ids":[39384,41913,55978,67958,82557]},{"competition_id":628,"name":"FA Trophy","competition_type":"SUPER_CUP","regions":["Europe"],"season_ids":[39536,67771,84411]},{"competition_id":357,"name":"FIFA Club World Cup","competition_type":"CUP","regions":["America"],"season_ids":[39952,48107,54799,69619]},{"competition_id":23674,"name":"FIFA Intercontinental Cup","competition_type":"CUP","regions":["America"],"season_ids":[67051,78702]},{"competition_id":10709,"name":"Florida Cup","competition_type":"CUP","regions":["America"],"season_ids":[44277]},{"competition_id":334,"name":"Football League Trophy","competition_type":"SUPER_CUP","regions":["Europe"],"season_ids":[37498,42689,53537,63542,78817]},{"competition_id":20862,"name":"Gamma Ethniki","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[79769]},{"competition_id":377,"name":"Gaúcho","competition_type":"LEAGUE","regions":["America"],"season_ids":[35413,40027,47663,57116,70069,86736]},{"competition_id":18643,"name":"Gaúcho, Série A2","competition_type":"LEAGUE","regions":["America"],"season_ids":[98402]},{"competition_id":381,"name":"Goiano","competition_type":"LEAGUE","regions":["America"],"season_ids":[47682,57046,69523,86814]},{"competition_id":375,"name":"Greek Football Cup","competition_type":"CUP","regions":["Europe"],"season_ids":[46285,54800,66746,79874,99857]},{"competition_id":23039,"name":"Hessenpokal","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[77870]},{"competition_id":8,"name":"LaLiga","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37223,42409,52376,61643,77559]},{"competition_id":54,"name":"LaLiga 2","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37225,42410,52563,62048,77558]},{"competition_id":24,"name":"League One","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37155,42402,52370,61959,77352]},{"competition_id":25,"name":"League Two","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37156,42403,52368,61960,77351]},{"competition_id":13783,"name":"Leagues Cup","competition_type":"CUP","regions":["America"],"season_ids":[49648,59128,72227,91033]},{"competition_id":406,"name":"Liga 1 Te Apuesto","competition_type":"LEAGUE","regions":["America"],"season_ids":[35813,40118,48078,57741,70962,88529]},{"competition_id":10297,"name":"Liga 2","competition_type":"LEAGUE","regions":["America"],"season_ids":[41004,49652,73655,91917]},{"competition_id":562,"name":"Liga 2 Casa Pariurilor","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37605,44387,53285,64111,79020,99070]},{"competition_id":17101,"name":"Liga 3","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37745,44488,53224,63870,78950,98660]},{"competition_id":29030,"name":"Liga 3","competition_type":"LEAGUE","regions":["America"],"season_ids":[81449,95006]},{"competition_id":239,"name":"Liga Portugal 2","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37424,42663,52770,63676,77801,97470]},{"competition_id":238,"name":"Liga Portugal Betclic","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37358,42655,52769,63670,77806,97436]},{"competition_id":155,"name":"Liga Profesional de Fútbol","competition_type":"LEAGUE","regions":["America"],"season_ids":[37231,41884,47647,57478,70268,77826,87913]},{"competition_id":34,"name":"Ligue 1","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37167,42273,52571,61736,77356]},{"competition_id":182,"name":"Ligue 2","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37169,42272,52572,61737,77357,96109]},{"competition_id":183,"name":"Ligue 3","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37550,42921,53055,64124,78599,97457]},{"competition_id":242,"name":"MLS","competition_type":"LEAGUE","regions":["America"],"season_ids":[35964,40071,47955,57317,70158,86668]},{"competition_id":11664,"name":"Maranhense","competition_type":"LEAGUE","regions":["America"],"season_ids":[48026,57347,69738,86791]},{"competition_id":11670,"name":"Mato-Grossense","competition_type":"LEAGUE","regions":["America"],"season_ids":[47691,57445,69524,86857]},{"competition_id":379,"name":"Mineiro, Módulo I","competition_type":"LEAGUE","regions":["America"],"season_ids":[35129,40005,47947,57302,69955,87236]},{"competition_id":28153,"name":"National 1","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[64364,78985]},{"competition_id":173,"name":"National League","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37339,42666,52783,63807,78229,98160]},{"competition_id":176,"name":"National League North","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37346,52782,63806,98275]},{"competition_id":97,"name":"Nesine 2. Lig","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37743,42784,64858,78237]},{"competition_id":11415,"name":"Nesine 3. Lig, Grup 3","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[78480]},{"competition_id":15938,"name":"Nesine 3. Lig, Grup 4","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[78481]},{"competition_id":76,"name":"Oddset Pokalen","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37610,42690,52793,63715,78081,97532]},{"competition_id":11669,"name":"Paraense","competition_type":"LEAGUE","regions":["America"],"season_ids":[48040,57495,69972,87575]},{"competition_id":382,"name":"Paranaense","competition_type":"LEAGUE","regions":["America"],"season_ids":[40010,48061,57047,69576,86658]},{"competition_id":372,"name":"Paulista Série A1","competition_type":"LEAGUE","regions":["America"],"season_ids":[35402,40001,47661,57170,69522,86993]},{"competition_id":1234,"name":"Paulista, Série A2","competition_type":"LEAGUE","regions":["America"],"season_ids":[47660,57117,69587,87118]},{"competition_id":380,"name":"Pernambucano","competition_type":"LEAGUE","regions":["America"],"season_ids":[40126,48060,57251,69763,87395]},{"competition_id":35067,"name":"Peru Copa de la Liga ","competition_type":"CUP","regions":["America"],"season_ids":[95197]},{"competition_id":11663,"name":"Potiguar, 1ª Divisão ","competition_type":"LEAGUE","regions":["America"],"season_ids":[47681,57467,87780]},{"competition_id":17,"name":"Premier League","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37036,41886,52186,61627,76986]},{"competition_id":20048,"name":"Premier League International Cup","competition_type":"CUP","regions":["Europe"],"season_ids":[65608,80876]},{"competition_id":1347,"name":"Primera B Metropolitana","competition_type":"LEAGUE","regions":["America"],"season_ids":[87941]},{"competition_id":17073,"name":"Primera Federación","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37627,44519,53271,64430,77727]},{"competition_id":703,"name":"Primera Nacional","competition_type":"LEAGUE","regions":["America"],"season_ids":[40485,48079,57782,71009,87940]},{"competition_id":38,"name":"Pro League","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[36894,42404,52383,61459,77040,96616]},{"competition_id":19812,"name":"Recopa Catarinense","competition_type":"SUPER_CUP","regions":["America"],"season_ids":[47957,57050,70669]},{"competition_id":19814,"name":"Recopa Gaúcha","competition_type":"SUPER_CUP","regions":["America"],"season_ids":[47967,58431]},{"competition_id":19850,"name":"Recopa Mineira","competition_type":"SUPER_CUP","regions":["America"],"season_ids":[48119]},{"competition_id":1083,"name":"Regionalliga Nordost","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37292,42582,52794]},{"competition_id":1079,"name":"Regionalliga Südwest","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37340,42517,78007]},{"competition_id":493,"name":"Regionalliga West","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37456,42605]},{"competition_id":21769,"name":"Riyadh Season Cup","competition_type":"INTERNATIONAL","regions":["America"],"season_ids":[57211]},{"competition_id":399,"name":"Schweizer Cup","competition_type":"CUP","regions":["Europe"],"season_ids":[37421,42691,52784,63399,77527]},{"competition_id":544,"name":"Segunda Federación","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[38012,64479,77733]},{"competition_id":11665,"name":"Sergipano","competition_type":"LEAGUE","regions":["America"],"season_ids":[47680,57008,86866]},{"competition_id":23,"name":"Serie A","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37475,42415,52760,63515,76457]},{"competition_id":53,"name":"Serie B","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37642,44226,52947,63812,79502]},{"competition_id":11445,"name":"Serie C, Girone A","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[45566,53814,63975,79377]},{"competition_id":11447,"name":"Serie C, Girone B","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[45565,53815,63976,79378]},{"competition_id":11446,"name":"Serie C, Girone C","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[45567,53816,63973,79379]},{"competition_id":13579,"name":"Serie C, Play-out","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[51521]},{"competition_id":1390,"name":"Serie D, Girone I","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[65454,80238]},{"competition_id":185,"name":"Stoiximan Super League","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37707,44513,53223,64052,78175]},{"competition_id":186,"name":"Super League 2","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[39153,46716,54993]},{"competition_id":152,"name":"SuperLiga României","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37234,42576,52541,62837,77312,97124]},{"competition_id":1618,"name":"Supercopa Argentina","competition_type":"SUPER_CUP","regions":["America"],"season_ids":[49059,58897,70679]},{"competition_id":19841,"name":"Supercopa Internacional","competition_type":"SUPER_CUP","regions":["America"],"season_ids":[48056,61595,76517]},{"competition_id":14602,"name":"Supercopa do Brasil","competition_type":"SUPER_CUP","regions":["America"],"season_ids":[36202,40284,48263,57287,70291,88072]},{"competition_id":16779,"name":"Superscore Liga 3 Seria 4","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[65403]},{"competition_id":16787,"name":"Superscore Liga 3 Seria 5","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[80940]},{"competition_id":80,"name":"Svenska Cupen","competition_type":"CUP","regions":["Europe"],"season_ids":[36975,42259,51878,60631,75545]},{"competition_id":215,"name":"Swiss Super League","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37158,42276,52366,61658,77152,96589]},{"competition_id":20546,"name":"Taça Fares Lopes","competition_type":"CUP","regions":["America"],"season_ids":[81688]},{"competition_id":327,"name":"Taça da Liga","competition_type":"CUP","regions":["Europe"],"season_ids":[37422,46348,52840,63772,77807]},{"competition_id":336,"name":"Taça de Portugal","competition_type":"CUP","regions":["Europe"],"season_ids":[38468,45157,53979,65040,80287]},{"competition_id":41567,"name":"Torneo de Promoción y Reservas","competition_type":"LEAGUE","regions":["America"],"season_ids":["UNKNOWN_SEASON"]},{"competition_id":98,"name":"Trendyol 1.Lig","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37482,42678,53276,64425,77977,98149]},{"competition_id":52,"name":"Trendyol Süper Lig","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[37466,42632,53190,63814,77805]},{"competition_id":18436,"name":"Trofeo de Campeones de la Liga Profesional","competition_type":"SUPER_CUP","regions":["America"],"season_ids":[48962,57269,69936,87606]},{"competition_id":96,"name":"Türkiye Kupası","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[38334,45795,55202,66253,81187]},{"competition_id":7,"name":"UEFA Champions League","competition_type":"INTERNATIONAL","regions":["Europe"],"season_ids":[36886,41897,52162,61644,76953,96518]},{"competition_id":17015,"name":"UEFA Conference League","competition_type":"INTERNATIONAL","regions":["Europe"],"season_ids":[37074,42224,52327,61648,76960,96529]},{"competition_id":679,"name":"UEFA Europa League","competition_type":"INTERNATIONAL","regions":["Europe"],"season_ids":[37725,44509,53654,61645,76984,96522]},{"competition_id":495,"name":"US Open Cup","competition_type":"CUP","regions":["America"],"season_ids":[40595,48837,58896,71737,90046]},{"competition_id":37,"name":"VriendenLoterij Eredivisie","competition_type":"LEAGUE","regions":["Europe"],"season_ids":[36890,42256,52554,61666,77012,96143]},{"competition_id":445,"name":"ÖFB Cup","competition_type":"CUP","regions":["Europe"],"season_ids":[37229,42541,52552,61671,77237,96965]}]}
+{
+  "schema": "titan.competitions.v1",
+  "count": 150,
+  "competitions": [
+    {
+      "competition_id": 44,
+      "name": "2. Bundesliga",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37168,
+        42269,
+        52607,
+        63514,
+        77354,
+        97406
+      ]
+    },
+    {
+      "competition_id": 135,
+      "name": "2. Liga",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37159,
+        42416,
+        52545,
+        62657,
+        77531,
+        97202
+      ]
+    },
+    {
+      "competition_id": 491,
+      "name": "3. Liga",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37235,
+        42444,
+        52815,
+        63786,
+        77744,
+        98012
+      ]
+    },
+    {
+      "competition_id": 10294,
+      "name": "Alagoano",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        47665,
+        57120
+      ]
+    },
+    {
+      "competition_id": 40,
+      "name": "Allsvenskan",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        87925
+      ]
+    },
+    {
+      "competition_id": 11702,
+      "name": "Amazonense",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        47692,
+        57268,
+        69801,
+        86867
+      ]
+    },
+    {
+      "competition_id": 45,
+      "name": "Austrian Bundesliga",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37145,
+        42386,
+        52524,
+        62629,
+        77382,
+        97043
+      ]
+    },
+    {
+      "competition_id": 374,
+      "name": "Baianão Mansão Green 2026",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        40121,
+        47686,
+        57035,
+        69575,
+        86656
+      ]
+    },
+    {
+      "competition_id": 26771,
+      "name": "Bayerischer Totopokal",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        78378,
+        95985
+      ]
+    },
+    {
+      "competition_id": 326,
+      "name": "Belgian Cup",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        38321,
+        45423,
+        54798,
+        66012,
+        81462
+      ]
+    },
+    {
+      "competition_id": 47,
+      "name": "Betinia Liga",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        36843,
+        42055,
+        52329,
+        61669,
+        77031,
+        96186
+      ]
+    },
+    {
+      "competition_id": 325,
+      "name": "Brasileirão Betano",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        36166,
+        40557,
+        48982,
+        58766,
+        72034,
+        87678
+      ]
+    },
+    {
+      "competition_id": 390,
+      "name": "Brasileirão Série B",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        36162,
+        40560,
+        49058,
+        59015,
+        72603,
+        89840
+      ]
+    },
+    {
+      "competition_id": 1281,
+      "name": "Brasileirão Série C",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        40640,
+        49328,
+        59016,
+        72841,
+        90642
+      ]
+    },
+    {
+      "competition_id": 10326,
+      "name": "Brasileirão Série D",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        40711,
+        49355,
+        72842,
+        92447
+      ]
+    },
+    {
+      "competition_id": 35,
+      "name": "Bundesliga",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37166,
+        42268,
+        52608,
+        63516,
+        77333
+      ]
+    },
+    {
+      "competition_id": 10093,
+      "name": "Campeonato de Portugal",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37748,
+        45201,
+        53806,
+        79033
+      ]
+    },
+    {
+      "competition_id": 11454,
+      "name": "Campeones Cup",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        52705,
+        79229
+      ]
+    },
+    {
+      "competition_id": 9230,
+      "name": "Canadian Championship",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        37706,
+        40884,
+        48747,
+        58745,
+        72442,
+        88838
+      ]
+    },
+    {
+      "competition_id": 92,
+      "name": "Carioca",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        35086,
+        40024,
+        47664,
+        56974,
+        69574,
+        86674
+      ]
+    },
+    {
+      "competition_id": 18644,
+      "name": "Carioca, Série A2",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        41022
+      ]
+    },
+    {
+      "competition_id": 376,
+      "name": "Catarinense",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        40009,
+        47687,
+        57072,
+        69737,
+        86675
+      ]
+    },
+    {
+      "competition_id": 378,
+      "name": "Cearense",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        47690,
+        57045,
+        69558,
+        86657
+      ]
+    },
+    {
+      "competition_id": 216,
+      "name": "Challenge League",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37160,
+        42277,
+        52365,
+        61670,
+        77150,
+        96585
+      ]
+    },
+    {
+      "competition_id": 9,
+      "name": "Challenger Pro League",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        42422,
+        52384,
+        61412,
+        77849
+      ]
+    },
+    {
+      "competition_id": 18,
+      "name": "Championship",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37154,
+        42401,
+        52367,
+        61961,
+        77347
+      ]
+    },
+    {
+      "competition_id": 498,
+      "name": "CONCACAF Champions Cup",
+      "competition_type": "INTERNATIONAL",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        35618,
+        40113,
+        47653,
+        57303,
+        69806,
+        87494
+      ]
+    },
+    {
+      "competition_id": 384,
+      "name": "CONMEBOL Libertadores",
+      "competition_type": "INTERNATIONAL",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        35576,
+        40174,
+        47974,
+        57296,
+        70083,
+        87760
+      ]
+    },
+    {
+      "competition_id": 490,
+      "name": "CONMEBOL Recopa",
+      "competition_type": "INTERNATIONAL",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        35468,
+        40182,
+        47962,
+        57048,
+        69954,
+        87761
+      ]
+    },
+    {
+      "competition_id": 480,
+      "name": "CONMEBOL Sudamericana",
+      "competition_type": "INTERNATIONAL",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        35645,
+        40175,
+        47968,
+        57297,
+        70070,
+        87770
+      ]
+    },
+    {
+      "competition_id": 19813,
+      "name": "Copa Alagoas",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        47966,
+        57174,
+        69728,
+        87228
+      ]
+    },
+    {
+      "competition_id": 1024,
+      "name": "Copa Argentina",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        40289,
+        48253,
+        57968,
+        70664,
+        88177
+      ]
+    },
+    {
+      "competition_id": 373,
+      "name": "Copa Betano do Brasil",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        35829,
+        40438,
+        48876,
+        58134,
+        71944,
+        89353
+      ]
+    },
+    {
+      "competition_id": 25609,
+      "name": "Copa de Catalunya ",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        73525,
+        87445
+      ]
+    },
+    {
+      "competition_id": 13475,
+      "name": "Copa de la Liga Profesional",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        35486,
+        40377,
+        47644,
+        57487,
+        "UNKNOWN_SEASON"
+      ]
+    },
+    {
+      "competition_id": 329,
+      "name": "Copa del Rey",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        39457,
+        46493,
+        55373,
+        66885,
+        82988
+      ]
+    },
+    {
+      "competition_id": 1596,
+      "name": "Copa do Nordeste",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        47716,
+        57252,
+        69430,
+        91324
+      ]
+    },
+    {
+      "competition_id": 20620,
+      "name": "Copa FGF",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        82013,
+        94315
+      ]
+    },
+    {
+      "competition_id": 27958,
+      "name": "Copa Governo do Estado de Sergipe",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        78307
+      ]
+    },
+    {
+      "competition_id": 10383,
+      "name": "Copa Paulista",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        42246,
+        51332,
+        75371
+      ]
+    },
+    {
+      "competition_id": 20547,
+      "name": "Copa Rio",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        52033
+      ]
+    },
+    {
+      "competition_id": 20898,
+      "name": "Copa Santa Catarina",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        53923,
+        79263
+      ]
+    },
+    {
+      "competition_id": 33495,
+      "name": "Copa Sul-Sudeste ",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        91673
+      ]
+    },
+    {
+      "competition_id": 10158,
+      "name": "Copa Verde",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        45759,
+        48077,
+        57712,
+        71015,
+        91312
+      ]
+    },
+    {
+      "competition_id": 328,
+      "name": "Coppa Italia",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37611,
+        42742,
+        53505,
+        63668,
+        77308
+      ]
+    },
+    {
+      "competition_id": 824,
+      "name": "Coppa Italia Serie C",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        46081,
+        55215,
+        63521,
+        79372
+      ]
+    },
+    {
+      "competition_id": 20001,
+      "name": "Coppa Italia Serie D",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        79889
+      ]
+    },
+    {
+      "competition_id": 335,
+      "name": "Coupe de France",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        39554,
+        47014,
+        56287,
+        68468,
+        85565
+      ]
+    },
+    {
+      "competition_id": 355,
+      "name": "Cupa României Betano",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        38283,
+        45837,
+        53460,
+        64681,
+        79014
+      ]
+    },
+    {
+      "competition_id": 39,
+      "name": "Danish Superliga",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        36834,
+        41914,
+        52172,
+        61326,
+        76491,
+        95785
+      ]
+    },
+    {
+      "competition_id": 217,
+      "name": "DFB Pokal",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37289,
+        41962,
+        52284,
+        61132,
+        76910
+      ]
+    },
+    {
+      "competition_id": 16841,
+      "name": "Eccellenza Piemonte",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        83017
+      ]
+    },
+    {
+      "competition_id": 131,
+      "name": "Eerste Divisie",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        36893,
+        42258,
+        52556,
+        61667,
+        77156,
+        96187
+      ]
+    },
+    {
+      "competition_id": 21,
+      "name": "EFL Cup",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37177,
+        42443,
+        52393,
+        62483,
+        77500,
+        96185
+      ]
+    },
+    {
+      "competition_id": 20,
+      "name": "Eliteserien",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        87809
+      ]
+    },
+    {
+      "competition_id": 24029,
+      "name": "England National League Cup",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        68371,
+        80114
+      ]
+    },
+    {
+      "competition_id": 330,
+      "name": "Eurojackpot KNVB Beker",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        39040,
+        46333,
+        55337,
+        67562,
+        81932
+      ]
+    },
+    {
+      "competition_id": 19,
+      "name": "FA Cup",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        39384,
+        41913,
+        55978,
+        67958,
+        82557
+      ]
+    },
+    {
+      "competition_id": 628,
+      "name": "FA Trophy",
+      "competition_type": "SUPER_CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        39536,
+        67771,
+        84411
+      ]
+    },
+    {
+      "competition_id": 357,
+      "name": "FIFA Club World Cup",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        39952,
+        48107,
+        54799,
+        69619
+      ]
+    },
+    {
+      "competition_id": 23674,
+      "name": "FIFA Intercontinental Cup",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        67051,
+        78702
+      ]
+    },
+    {
+      "competition_id": 10709,
+      "name": "Florida Cup",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        44277
+      ]
+    },
+    {
+      "competition_id": 334,
+      "name": "Football League Trophy",
+      "competition_type": "SUPER_CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37498,
+        42689,
+        53537,
+        63542,
+        78817
+      ]
+    },
+    {
+      "competition_id": 20862,
+      "name": "Gamma Ethniki",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        79769
+      ]
+    },
+    {
+      "competition_id": 377,
+      "name": "Gaúcho",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        35413,
+        40027,
+        47663,
+        57116,
+        70069,
+        86736
+      ]
+    },
+    {
+      "competition_id": 18643,
+      "name": "Gaúcho, Série A2",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        98402
+      ]
+    },
+    {
+      "competition_id": 381,
+      "name": "Goiano",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        47682,
+        57046,
+        69523,
+        86814
+      ]
+    },
+    {
+      "competition_id": 375,
+      "name": "Greek Football Cup",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        46285,
+        54800,
+        66746,
+        79874,
+        99857
+      ]
+    },
+    {
+      "competition_id": 23039,
+      "name": "Hessenpokal",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        77870
+      ]
+    },
+    {
+      "competition_id": 8,
+      "name": "LaLiga",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37223,
+        42409,
+        52376,
+        61643,
+        77559
+      ]
+    },
+    {
+      "competition_id": 54,
+      "name": "LaLiga 2",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37225,
+        42410,
+        52563,
+        62048,
+        77558
+      ]
+    },
+    {
+      "competition_id": 24,
+      "name": "League One",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37155,
+        42402,
+        52370,
+        61959,
+        77352
+      ]
+    },
+    {
+      "competition_id": 25,
+      "name": "League Two",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37156,
+        42403,
+        52368,
+        61960,
+        77351
+      ]
+    },
+    {
+      "competition_id": 13783,
+      "name": "Leagues Cup",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        49648,
+        59128,
+        72227,
+        91033
+      ]
+    },
+    {
+      "competition_id": 406,
+      "name": "Liga 1 Te Apuesto",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        35813,
+        40118,
+        48078,
+        57741,
+        70962,
+        88529
+      ]
+    },
+    {
+      "competition_id": 10297,
+      "name": "Liga 2",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        41004,
+        49652,
+        73655,
+        91917
+      ]
+    },
+    {
+      "competition_id": 562,
+      "name": "Liga 2 Casa Pariurilor",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37605,
+        44387,
+        53285,
+        64111,
+        79020,
+        99070
+      ]
+    },
+    {
+      "competition_id": 17101,
+      "name": "Liga 3",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37745,
+        44488,
+        53224,
+        63870,
+        78950,
+        98660
+      ]
+    },
+    {
+      "competition_id": 29030,
+      "name": "Liga 3",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        81449,
+        95006
+      ]
+    },
+    {
+      "competition_id": 239,
+      "name": "Liga Portugal 2",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37424,
+        42663,
+        52770,
+        63676,
+        77801,
+        97470
+      ]
+    },
+    {
+      "competition_id": 238,
+      "name": "Liga Portugal Betclic",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37358,
+        42655,
+        52769,
+        63670,
+        77806,
+        97436
+      ]
+    },
+    {
+      "competition_id": 155,
+      "name": "Liga Profesional de Fútbol",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        37231,
+        41884,
+        47647,
+        57478,
+        70268,
+        77826,
+        87913
+      ]
+    },
+    {
+      "competition_id": 34,
+      "name": "Ligue 1",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37167,
+        42273,
+        52571,
+        61736,
+        77356
+      ]
+    },
+    {
+      "competition_id": 182,
+      "name": "Ligue 2",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37169,
+        42272,
+        52572,
+        61737,
+        77357,
+        96109
+      ]
+    },
+    {
+      "competition_id": 183,
+      "name": "Ligue 3",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37550,
+        42921,
+        53055,
+        64124,
+        78599,
+        97457
+      ]
+    },
+    {
+      "competition_id": 11664,
+      "name": "Maranhense",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        48026,
+        57347,
+        69738,
+        86791
+      ]
+    },
+    {
+      "competition_id": 11670,
+      "name": "Mato-Grossense",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        47691,
+        57445,
+        69524,
+        86857
+      ]
+    },
+    {
+      "competition_id": 379,
+      "name": "Mineiro, Módulo I",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        35129,
+        40005,
+        47947,
+        57302,
+        69955,
+        87236
+      ]
+    },
+    {
+      "competition_id": 242,
+      "name": "MLS",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        35964,
+        40071,
+        47955,
+        57317,
+        70158,
+        86668
+      ]
+    },
+    {
+      "competition_id": 28153,
+      "name": "National 1",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        64364,
+        78985
+      ]
+    },
+    {
+      "competition_id": 173,
+      "name": "National League",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37339,
+        42666,
+        52783,
+        63807,
+        78229,
+        98160
+      ]
+    },
+    {
+      "competition_id": 176,
+      "name": "National League North",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37346,
+        52782,
+        63806,
+        98275
+      ]
+    },
+    {
+      "competition_id": 97,
+      "name": "Nesine 2. Lig",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37743,
+        42784,
+        64858,
+        78237
+      ]
+    },
+    {
+      "competition_id": 11415,
+      "name": "Nesine 3. Lig, Grup 3",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        78480
+      ]
+    },
+    {
+      "competition_id": 15938,
+      "name": "Nesine 3. Lig, Grup 4",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        78481
+      ]
+    },
+    {
+      "competition_id": 76,
+      "name": "Oddset Pokalen",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37610,
+        42690,
+        52793,
+        63715,
+        78081,
+        97532
+      ]
+    },
+    {
+      "competition_id": 11669,
+      "name": "Paraense",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        48040,
+        57495,
+        69972,
+        87575
+      ]
+    },
+    {
+      "competition_id": 382,
+      "name": "Paranaense",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        40010,
+        48061,
+        57047,
+        69576,
+        86658
+      ]
+    },
+    {
+      "competition_id": 372,
+      "name": "Paulista Série A1",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        35402,
+        40001,
+        47661,
+        57170,
+        69522,
+        86993
+      ]
+    },
+    {
+      "competition_id": 1234,
+      "name": "Paulista, Série A2",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        47660,
+        57117,
+        69587,
+        87118
+      ]
+    },
+    {
+      "competition_id": 380,
+      "name": "Pernambucano",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        40126,
+        48060,
+        57251,
+        69763,
+        87395
+      ]
+    },
+    {
+      "competition_id": 35067,
+      "name": "Peru Copa de la Liga ",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        95197
+      ]
+    },
+    {
+      "competition_id": 11663,
+      "name": "Potiguar, 1ª Divisão ",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        47681,
+        57467,
+        87780
+      ]
+    },
+    {
+      "competition_id": 17,
+      "name": "Premier League",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37036,
+        41886,
+        52186,
+        61627,
+        76986
+      ]
+    },
+    {
+      "competition_id": 20048,
+      "name": "Premier League International Cup",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        65608,
+        80876
+      ]
+    },
+    {
+      "competition_id": 1347,
+      "name": "Primera B Metropolitana",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        87941
+      ]
+    },
+    {
+      "competition_id": 17073,
+      "name": "Primera Federación",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37627,
+        44519,
+        53271,
+        64430,
+        77727
+      ]
+    },
+    {
+      "competition_id": 703,
+      "name": "Primera Nacional",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        40485,
+        48079,
+        57782,
+        71009,
+        87940
+      ]
+    },
+    {
+      "competition_id": 38,
+      "name": "Pro League",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        36894,
+        42404,
+        52383,
+        61459,
+        77040,
+        96616
+      ]
+    },
+    {
+      "competition_id": 19812,
+      "name": "Recopa Catarinense",
+      "competition_type": "SUPER_CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        47957,
+        57050,
+        70669
+      ]
+    },
+    {
+      "competition_id": 19814,
+      "name": "Recopa Gaúcha",
+      "competition_type": "SUPER_CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        47967,
+        58431
+      ]
+    },
+    {
+      "competition_id": 19850,
+      "name": "Recopa Mineira",
+      "competition_type": "SUPER_CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        48119
+      ]
+    },
+    {
+      "competition_id": 1083,
+      "name": "Regionalliga Nordost",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37292,
+        42582,
+        52794
+      ]
+    },
+    {
+      "competition_id": 1079,
+      "name": "Regionalliga Südwest",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37340,
+        42517,
+        78007
+      ]
+    },
+    {
+      "competition_id": 493,
+      "name": "Regionalliga West",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37456,
+        42605
+      ]
+    },
+    {
+      "competition_id": 21769,
+      "name": "Riyadh Season Cup",
+      "competition_type": "INTERNATIONAL",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        57211
+      ]
+    },
+    {
+      "competition_id": 399,
+      "name": "Schweizer Cup",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37421,
+        42691,
+        52784,
+        63399,
+        77527
+      ]
+    },
+    {
+      "competition_id": 544,
+      "name": "Segunda Federación",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        38012,
+        64479,
+        77733
+      ]
+    },
+    {
+      "competition_id": 11665,
+      "name": "Sergipano",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        47680,
+        57008,
+        86866
+      ]
+    },
+    {
+      "competition_id": 23,
+      "name": "Serie A",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37475,
+        42415,
+        52760,
+        63515,
+        76457
+      ]
+    },
+    {
+      "competition_id": 53,
+      "name": "Serie B",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37642,
+        44226,
+        52947,
+        63812,
+        79502
+      ]
+    },
+    {
+      "competition_id": 11445,
+      "name": "Serie C, Girone A",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        45566,
+        53814,
+        63975,
+        79377
+      ]
+    },
+    {
+      "competition_id": 11447,
+      "name": "Serie C, Girone B",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        45565,
+        53815,
+        63976,
+        79378
+      ]
+    },
+    {
+      "competition_id": 11446,
+      "name": "Serie C, Girone C",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        45567,
+        53816,
+        63973,
+        79379
+      ]
+    },
+    {
+      "competition_id": 13579,
+      "name": "Serie C, Play-out",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        51521
+      ]
+    },
+    {
+      "competition_id": 1390,
+      "name": "Serie D, Girone I",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        65454,
+        80238
+      ]
+    },
+    {
+      "competition_id": 185,
+      "name": "Stoiximan Super League",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37707,
+        44513,
+        53223,
+        64052,
+        78175
+      ]
+    },
+    {
+      "competition_id": 186,
+      "name": "Super League 2",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        39153,
+        46716,
+        54993
+      ]
+    },
+    {
+      "competition_id": 1618,
+      "name": "Supercopa Argentina",
+      "competition_type": "SUPER_CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        49059,
+        58897,
+        70679
+      ]
+    },
+    {
+      "competition_id": 14602,
+      "name": "Supercopa do Brasil",
+      "competition_type": "SUPER_CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        36202,
+        40284,
+        48263,
+        57287,
+        70291,
+        88072
+      ]
+    },
+    {
+      "competition_id": 19841,
+      "name": "Supercopa Internacional",
+      "competition_type": "SUPER_CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        48056,
+        61595,
+        76517
+      ]
+    },
+    {
+      "competition_id": 152,
+      "name": "SuperLiga României",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37234,
+        42576,
+        52541,
+        62837,
+        77312,
+        97124
+      ]
+    },
+    {
+      "competition_id": 16779,
+      "name": "Superscore Liga 3 Seria 4",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        65403
+      ]
+    },
+    {
+      "competition_id": 16787,
+      "name": "Superscore Liga 3 Seria 5",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        80940
+      ]
+    },
+    {
+      "competition_id": 80,
+      "name": "Svenska Cupen",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        36975,
+        42259,
+        51878,
+        60631,
+        75545
+      ]
+    },
+    {
+      "competition_id": 215,
+      "name": "Swiss Super League",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37158,
+        42276,
+        52366,
+        61658,
+        77152,
+        96589
+      ]
+    },
+    {
+      "competition_id": 327,
+      "name": "Taça da Liga",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37422,
+        46348,
+        52840,
+        63772,
+        77807
+      ]
+    },
+    {
+      "competition_id": 336,
+      "name": "Taça de Portugal",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        38468,
+        45157,
+        53979,
+        65040,
+        80287
+      ]
+    },
+    {
+      "competition_id": 20546,
+      "name": "Taça Fares Lopes",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        81688
+      ]
+    },
+    {
+      "competition_id": 41567,
+      "name": "Torneo de Promoción y Reservas",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        "UNKNOWN_SEASON"
+      ]
+    },
+    {
+      "competition_id": 98,
+      "name": "Trendyol 1.Lig",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37482,
+        42678,
+        53276,
+        64425,
+        77977,
+        98149
+      ]
+    },
+    {
+      "competition_id": 52,
+      "name": "Trendyol Süper Lig",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37466,
+        42632,
+        53190,
+        63814,
+        77805
+      ]
+    },
+    {
+      "competition_id": 18436,
+      "name": "Trofeo de Campeones de la Liga Profesional",
+      "competition_type": "SUPER_CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        48962,
+        57269,
+        69936,
+        87606
+      ]
+    },
+    {
+      "competition_id": 96,
+      "name": "Türkiye Kupası",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        38334,
+        45795,
+        55202,
+        66253,
+        81187
+      ]
+    },
+    {
+      "competition_id": 7,
+      "name": "UEFA Champions League",
+      "competition_type": "INTERNATIONAL",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        36886,
+        41897,
+        52162,
+        61644,
+        76953,
+        96518
+      ]
+    },
+    {
+      "competition_id": 17015,
+      "name": "UEFA Conference League",
+      "competition_type": "INTERNATIONAL",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37074,
+        42224,
+        52327,
+        61648,
+        76960,
+        96529
+      ]
+    },
+    {
+      "competition_id": 679,
+      "name": "UEFA Europa League",
+      "competition_type": "INTERNATIONAL",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37725,
+        44509,
+        53654,
+        61645,
+        76984,
+        96522
+      ]
+    },
+    {
+      "competition_id": 495,
+      "name": "US Open Cup",
+      "competition_type": "CUP",
+      "regions": [
+        "America"
+      ],
+      "season_ids": [
+        40595,
+        48837,
+        58896,
+        71737,
+        90046
+      ]
+    },
+    {
+      "competition_id": 37,
+      "name": "VriendenLoterij Eredivisie",
+      "competition_type": "LEAGUE",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        36890,
+        42256,
+        52554,
+        61666,
+        77012,
+        96143
+      ]
+    },
+    {
+      "competition_id": 445,
+      "name": "ÖFB Cup",
+      "competition_type": "CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        37229,
+        42541,
+        52552,
+        61671,
+        77237,
+        96965
+      ]
+    }
+  ]
+}
