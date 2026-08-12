@@ -1,0 +1,859 @@
+﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+10689024,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,ALL,06/11/2022,12,2,,,,,,5,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689024,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,1ST,06/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689024,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,2ND,06/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689024,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,117412,Gelbison,Visita,ALL,06/11/2022,12,1,,,,,,2,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689024,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,117412,Gelbison,Visita,1ST,06/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689024,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,117412,Gelbison,Visita,2ND,06/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689092,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,ALL,13/11/2022,13,1,,,,,,4,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689092,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,1ST,13/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689092,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,2ND,13/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689092,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Visita,ALL,13/11/2022,13,0,,,,,,1,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689092,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Visita,1ST,13/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689092,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Visita,2ND,13/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688628,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Local,ALL,21/11/2022,14,2,,,,,,7,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688628,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Local,1ST,21/11/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688628,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Local,2ND,21/11/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688628,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,ALL,21/11/2022,14,3,,,,,,2,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688628,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,1ST,21/11/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688628,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,2ND,21/11/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719151,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,ALL,27/11/2022,15,0,,,,,,8,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719151,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,1ST,27/11/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719151,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,2ND,27/11/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719151,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2796,Catanzaro,Visita,ALL,27/11/2022,15,3,,,,,,3,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719151,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2796,Catanzaro,Visita,1ST,27/11/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719151,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2796,Catanzaro,Visita,2ND,27/11/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689071,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205719,Virtus Francavilla,Local,ALL,30/11/2022,16,3,,,,,,4,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689071,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205719,Virtus Francavilla,Local,1ST,30/11/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689071,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205719,Virtus Francavilla,Local,2ND,30/11/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689071,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,ALL,30/11/2022,16,2,,,,,,8,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689071,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,1ST,30/11/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689071,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,2ND,30/11/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688626,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,ALL,05/12/2022,17,0,,,,,,5,,,,,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688626,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,1ST,05/12/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688626,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,2ND,05/12/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688626,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Visita,ALL,05/12/2022,17,2,,,,,,1,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688626,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Visita,1ST,05/12/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688626,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Visita,2ND,05/12/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689038,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Local,ALL,11/12/2022,18,1,,,,,,2,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689038,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Local,1ST,11/12/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689038,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Local,2ND,11/12/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689038,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,ALL,11/12/2022,18,2,,,,,,2,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689038,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,1ST,11/12/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689038,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,2ND,11/12/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688984,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,ALL,18/12/2022,19,0,,,,,,4,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688984,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,1ST,18/12/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688984,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,2ND,18/12/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688984,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Visita,ALL,18/12/2022,19,1,,,,,,0,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688984,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Visita,1ST,18/12/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688984,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Visita,2ND,18/12/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649885,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,23/12/2022,20,1,,,,,,4,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649885,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,23/12/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649885,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,23/12/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649885,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,ALL,23/12/2022,20,0,,,,,,3,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649885,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,1ST,23/12/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649885,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,2ND,23/12/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719157,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,ALL,07/01/2023,21,2,,,,,,4,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719157,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,1ST,07/01/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719157,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,2ND,07/01/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719157,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Visita,ALL,07/01/2023,21,2,,,,,,3,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719157,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Visita,1ST,07/01/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719157,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Visita,2ND,07/01/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719171,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Local,ALL,16/01/2023,22,1,,,,,,6,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719171,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Local,1ST,16/01/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719171,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Local,2ND,16/01/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719171,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,ALL,16/01/2023,22,0,,,,,,4,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719171,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,1ST,16/01/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719171,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,2ND,16/01/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719183,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,ALL,22/01/2023,23,1,,,,,,5,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719183,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,1ST,22/01/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719183,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,2ND,22/01/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719183,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,36588,US Viterbese,Visita,ALL,22/01/2023,23,0,,,,,,3,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719183,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,36588,US Viterbese,Visita,1ST,22/01/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719183,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,36588,US Viterbese,Visita,2ND,22/01/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719199,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,230737,Guidonia Montecelio 1937,Local,ALL,01/02/2023,25,0,,,,,,7,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719199,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,230737,Guidonia Montecelio 1937,Local,1ST,01/02/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719199,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,230737,Guidonia Montecelio 1937,Local,2ND,01/02/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719199,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,ALL,01/02/2023,25,0,,,,,,7,,,,,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719199,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,1ST,01/02/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719199,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,2ND,01/02/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719214,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,ALL,05/02/2023,26,5,,,,,,3,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719214,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,1ST,05/02/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719214,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,2ND,05/02/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719214,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Visita,ALL,05/02/2023,26,0,,,,,,4,,,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719214,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Visita,1ST,05/02/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719214,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Visita,2ND,05/02/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719223,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2798,Fidelis Andria,Local,ALL,12/02/2023,27,0,,,,,,7,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719223,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2798,Fidelis Andria,Local,1ST,12/02/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719223,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2798,Fidelis Andria,Local,2ND,12/02/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719223,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,ALL,12/02/2023,27,0,,,,,,3,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719223,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,1ST,12/02/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719223,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,2ND,12/02/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719232,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,ALL,19/02/2023,28,1,,,,,,2,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719232,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,1ST,19/02/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719232,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,2ND,19/02/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719232,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Visita,ALL,19/02/2023,28,1,,,,,,5,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719232,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Visita,1ST,19/02/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719232,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Visita,2ND,19/02/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719252,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,ALL,04/03/2023,30,2,,,,,,3,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719252,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,1ST,04/03/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719252,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,2ND,04/03/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719252,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,5324,Juve Stabia,Visita,ALL,04/03/2023,30,2,,,,,,6,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719252,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,5324,Juve Stabia,Visita,1ST,04/03/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719252,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,5324,Juve Stabia,Visita,2ND,04/03/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719263,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,117412,Gelbison,Local,ALL,12/03/2023,31,1,,,,,,4,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719263,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,117412,Gelbison,Local,1ST,12/03/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719263,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,117412,Gelbison,Local,2ND,12/03/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719263,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,ALL,12/03/2023,31,2,,,,,,8,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719263,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,1ST,12/03/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719263,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,2ND,12/03/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721906,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Local,ALL,15/03/2023,32,1,,,,,,12,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721906,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Local,1ST,15/03/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721906,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Local,2ND,15/03/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721906,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,ALL,15/03/2023,32,0,,,,,,4,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721906,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,1ST,15/03/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721906,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,2ND,15/03/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721917,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,ALL,19/03/2023,33,3,,,,,,6,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721917,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,1ST,19/03/2023,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721917,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,2ND,19/03/2023,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721917,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Visita,ALL,19/03/2023,33,1,,,,,,1,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721917,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Visita,1ST,19/03/2023,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721917,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Visita,2ND,19/03/2023,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721938,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,ALL,02/04/2023,35,4,,,,,,3,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721938,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,1ST,02/04/2023,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721938,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,2ND,02/04/2023,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721938,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205719,Virtus Francavilla,Visita,ALL,02/04/2023,35,1,,,,,,10,,,,,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721938,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205719,Virtus Francavilla,Visita,1ST,02/04/2023,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721938,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205719,Virtus Francavilla,Visita,2ND,02/04/2023,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722001,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,ALL,16/04/2023,37,2,,,,,,1,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722001,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,1ST,16/04/2023,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722001,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Local,2ND,16/04/2023,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722001,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Visita,ALL,16/04/2023,37,1,,,,,,6,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722001,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Visita,1ST,16/04/2023,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722001,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Visita,2ND,16/04/2023,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722013,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Local,ALL,23/04/2023,38,0,,,,,,10,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722013,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Local,1ST,23/04/2023,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722013,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Local,2ND,23/04/2023,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722013,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,ALL,23/04/2023,38,3,,,,,,3,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722013,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,1ST,23/04/2023,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722013,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,2ND,23/04/2023,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516801,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,02/09/2023,1,3,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516801,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,02/09/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516801,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,02/09/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516801,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,294884,Juventus Next Gen U23,Visita,ALL,02/09/2023,1,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516801,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,294884,Juventus Next Gen U23,Visita,1ST,02/09/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516801,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,294884,Juventus Next Gen U23,Visita,2ND,02/09/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516906,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2698,Perugia,Local,ALL,10/09/2023,2,1,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516906,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2698,Perugia,Local,1ST,10/09/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516906,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2698,Perugia,Local,2ND,10/09/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516906,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,10/09/2023,2,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516906,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,10/09/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516906,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,10/09/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516920,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,16/09/2023,3,3,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516920,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,16/09/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516920,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,16/09/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516920,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2731,Arezzo,Visita,ALL,16/09/2023,3,2,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516920,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2731,Arezzo,Visita,1ST,16/09/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516920,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2731,Arezzo,Visita,2ND,16/09/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516933,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117250,Sestri Levante,Local,ALL,19/09/2023,4,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516933,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117250,Sestri Levante,Local,1ST,19/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516933,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117250,Sestri Levante,Local,2ND,19/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516933,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,19/09/2023,4,2,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516933,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,19/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516933,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,19/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516953,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,02/10/2023,6,3,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516953,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,02/10/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516953,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,02/10/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516953,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2782,Gubbio,Visita,ALL,02/10/2023,6,2,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516953,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2782,Gubbio,Visita,1ST,02/10/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516953,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2782,Gubbio,Visita,2ND,02/10/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11693853,824,55215,NORMAL,PLAYOFF,Round 1,CUP,7935,Pescara,Local,ALL,05/10/2023,1,6,,,,19,1,11,12,,,10,1,,12,,5,2,,,,,,,,0,,18,,,,,,,,,,,,,,,,1,,,,,3
+11693853,824,55215,NORMAL,PLAYOFF,Round 1,CUP,7935,Pescara,Local,1ST,05/10/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11693853,824,55215,NORMAL,PLAYOFF,Round 1,CUP,7935,Pescara,Local,2ND,05/10/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11693853,824,55215,NORMAL,PLAYOFF,Round 1,CUP,2755,Fermana,Visita,ALL,05/10/2023,1,1,,,,8,6,3,6,,,12,1,,2,,2,4,,,,,,,,4,,12,,,,,,,,,,,,,,,,6,,,,,8
+11693853,824,55215,NORMAL,PLAYOFF,Round 1,CUP,2755,Fermana,Visita,1ST,05/10/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11693853,824,55215,NORMAL,PLAYOFF,Round 1,CUP,2755,Fermana,Visita,2ND,05/10/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516963,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,113755,SPAL,Local,ALL,08/10/2023,7,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516963,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,113755,SPAL,Local,1ST,08/10/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516963,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,113755,SPAL,Local,2ND,08/10/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516963,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,08/10/2023,7,2,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516963,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,08/10/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516963,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,08/10/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11647037,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,228753,Pineto,Local,ALL,11/10/2023,5,1,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11647037,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,228753,Pineto,Local,1ST,11/10/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11647037,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,228753,Pineto,Local,2ND,11/10/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11647037,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,11/10/2023,5,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11647037,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,11/10/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11647037,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,11/10/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516993,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,16/10/2023,8,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516993,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,16/10/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516993,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,16/10/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516993,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2754,Vis Pesaro,Visita,ALL,16/10/2023,8,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516993,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2754,Vis Pesaro,Visita,1ST,16/10/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516993,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2754,Vis Pesaro,Visita,2ND,16/10/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517101,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2736,Lucchese Calcio,Local,ALL,22/10/2023,9,1,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517101,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2736,Lucchese Calcio,Local,1ST,22/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517101,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2736,Lucchese Calcio,Local,2ND,22/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517101,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,22/10/2023,9,4,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517101,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,22/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517101,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,22/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517925,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,25/10/2023,10,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517925,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,25/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517925,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,25/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517925,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2753,Torres,Visita,ALL,25/10/2023,10,2,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517925,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2753,Torres,Visita,1ST,25/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517925,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2753,Torres,Visita,2ND,25/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517654,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,29/10/2023,11,2,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517654,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,29/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517654,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,29/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517654,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117364,Recanatese,Visita,ALL,29/10/2023,11,3,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517654,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117364,Recanatese,Visita,1ST,29/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517654,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117364,Recanatese,Visita,2ND,29/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517665,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2745,Carrarese,Local,ALL,05/11/2023,12,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517665,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2745,Carrarese,Local,1ST,05/11/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517665,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2745,Carrarese,Local,2ND,05/11/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517665,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,05/11/2023,12,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517665,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,05/11/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517665,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,05/11/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11772267,824,55215,NORMAL,PLAYOFF,Round 2,CUP,7935,Pescara,Local,ALL,09/11/2023,2,1,,,,11,1,9,25,,,17,3,,6,,5,,,,,,,,,4,,29,,,,,,,,,,,,,,,,1,,,,,4
+11772267,824,55215,NORMAL,PLAYOFF,Round 2,CUP,7935,Pescara,Local,1ST,09/11/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11772267,824,55215,NORMAL,PLAYOFF,Round 2,CUP,7935,Pescara,Local,2ND,09/11/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11772267,824,55215,NORMAL,PLAYOFF,Round 2,CUP,228753,Pineto,Visita,ALL,09/11/2023,2,0,,,,3,4,4,15,,,29,1,,1,,2,,,,,,,,,2,,21,,,,,,,,,,,,,,,,4,,,,,11
+11772267,824,55215,NORMAL,PLAYOFF,Round 2,CUP,228753,Pineto,Visita,1ST,09/11/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11772267,824,55215,NORMAL,PLAYOFF,Round 2,CUP,228753,Pineto,Visita,2ND,09/11/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517702,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,13/11/2023,13,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517702,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,13/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517702,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,13/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517702,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2789,Rimini,Visita,ALL,13/11/2023,13,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517702,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2789,Rimini,Visita,1ST,13/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517702,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2789,Rimini,Visita,2ND,13/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517742,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,25/11/2023,15,0,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517742,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,25/11/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517742,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,25/11/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517742,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2742,Cesena,Visita,ALL,25/11/2023,15,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517742,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2742,Cesena,Visita,1ST,25/11/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517742,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2742,Cesena,Visita,2ND,25/11/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11829020,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,7935,Pescara,Local,ALL,28/11/2023,5,2,,,,7,4,5,23,,,21,3,,5,,2,0,,,,,,,,1,,18,,,,,,,,,,,,,,,,4,,,,,8
+11829020,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,7935,Pescara,Local,1ST,28/11/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11829020,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,7935,Pescara,Local,2ND,28/11/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11829020,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,44069,Latina,Visita,ALL,28/11/2023,5,0,,,,11,3,9,12,,,24,3,,4,,4,3,,,,,,,,9,,26,,,,,,,,,,,,,,,,3,,,,,6
+11829020,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,44069,Latina,Visita,1ST,28/11/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11829020,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,44069,Latina,Visita,2ND,28/11/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517783,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43680,Virtus Entella,Local,ALL,02/12/2023,16,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517783,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43680,Virtus Entella,Local,1ST,02/12/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517783,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43680,Virtus Entella,Local,2ND,02/12/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517783,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,02/12/2023,16,2,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517783,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,02/12/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517783,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,02/12/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11822418,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,24745,Pontedera,Local,ALL,05/12/2023,14,0,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11822418,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,24745,Pontedera,Local,1ST,05/12/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11822418,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,24745,Pontedera,Local,2ND,05/12/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11822418,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,05/12/2023,14,5,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11822418,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,05/12/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11822418,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,05/12/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517796,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,09/12/2023,17,4,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517796,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,09/12/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517796,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,09/12/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517796,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,5314,Olbia,Visita,ALL,09/12/2023,17,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517796,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,5314,Olbia,Visita,1ST,09/12/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517796,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,5314,Olbia,Visita,2ND,09/12/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11870270,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,2725,Catania,Local,ALL,13/12/2023,27,2,,,,14,2,7,10,,,16,2,,5,,4,5,,,,,,,,3,,26,,,,,,,,,,,,,,,,2,,,,,9
+11870270,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,2725,Catania,Local,1ST,13/12/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11870270,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,2725,Catania,Local,2ND,13/12/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11870270,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,7935,Pescara,Visita,ALL,13/12/2023,27,0,,,,12,3,6,16,,,13,3,,2,,6,4,,,,,,,,0,,25,,,,,,,,,,,,,,,,3,,,,,11
+11870270,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,7935,Pescara,Visita,1ST,13/12/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11870270,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,7935,Pescara,Visita,2ND,13/12/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517813,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2721,Ancona,Local,ALL,17/12/2023,18,1,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517813,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2721,Ancona,Local,1ST,17/12/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517813,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2721,Ancona,Local,2ND,17/12/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517813,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,17/12/2023,18,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517813,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,17/12/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517813,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,17/12/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517847,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,23/12/2023,19,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517847,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,23/12/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517847,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,23/12/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517847,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2755,Fermana,Visita,ALL,23/12/2023,19,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517847,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2755,Fermana,Visita,1ST,23/12/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517847,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2755,Fermana,Visita,2ND,23/12/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517870,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,294884,Juventus Next Gen U23,Local,ALL,07/01/2024,20,4,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517870,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,294884,Juventus Next Gen U23,Local,1ST,07/01/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517870,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,294884,Juventus Next Gen U23,Local,2ND,07/01/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517870,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,07/01/2024,20,3,,,,,,,,,,,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517870,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,07/01/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517870,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,07/01/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517657,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,15/01/2024,21,0,,,,,,,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517657,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,15/01/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517657,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,15/01/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517657,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2698,Perugia,Visita,ALL,15/01/2024,21,1,,,,,,,,,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517657,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2698,Perugia,Visita,1ST,15/01/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517657,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2698,Perugia,Visita,2ND,15/01/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517677,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2731,Arezzo,Local,ALL,21/01/2024,22,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517677,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2731,Arezzo,Local,1ST,21/01/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517677,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2731,Arezzo,Local,2ND,21/01/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517677,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,21/01/2024,22,2,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517677,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,21/01/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517677,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,21/01/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517703,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,27/01/2024,23,3,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517703,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,27/01/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517703,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,27/01/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517703,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117250,Sestri Levante,Visita,ALL,27/01/2024,23,0,,,,,,,,,,,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517703,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117250,Sestri Levante,Visita,1ST,27/01/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517703,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117250,Sestri Levante,Visita,2ND,27/01/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517718,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,03/02/2024,24,2,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517718,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,03/02/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517718,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,03/02/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517718,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,228753,Pineto,Visita,ALL,03/02/2024,24,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517718,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,228753,Pineto,Visita,1ST,03/02/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517718,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,228753,Pineto,Visita,2ND,03/02/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517747,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2782,Gubbio,Local,ALL,09/02/2024,25,4,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517747,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2782,Gubbio,Local,1ST,09/02/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517747,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2782,Gubbio,Local,2ND,09/02/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517747,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,09/02/2024,25,0,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517747,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,09/02/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517747,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,09/02/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517768,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,13/02/2024,26,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517768,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,13/02/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517768,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,13/02/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517768,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,113755,SPAL,Visita,ALL,13/02/2024,26,2,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517768,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,113755,SPAL,Visita,1ST,13/02/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517768,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,113755,SPAL,Visita,2ND,13/02/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517787,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2754,Vis Pesaro,Local,ALL,18/02/2024,27,4,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517787,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2754,Vis Pesaro,Local,1ST,18/02/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517787,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2754,Vis Pesaro,Local,2ND,18/02/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517787,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,18/02/2024,27,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517787,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,18/02/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517787,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,18/02/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517807,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,24/02/2024,28,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517807,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,24/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517807,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,24/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517807,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2736,Lucchese Calcio,Visita,ALL,24/02/2024,28,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517807,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2736,Lucchese Calcio,Visita,1ST,24/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517807,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2736,Lucchese Calcio,Visita,2ND,24/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517830,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2753,Torres,Local,ALL,02/03/2024,29,4,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517830,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2753,Torres,Local,1ST,02/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517830,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2753,Torres,Local,2ND,02/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517830,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,02/03/2024,29,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517830,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,02/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517830,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,02/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517858,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117364,Recanatese,Local,ALL,05/03/2024,30,3,,,,,,,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517858,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117364,Recanatese,Local,1ST,05/03/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517858,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117364,Recanatese,Local,2ND,05/03/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517858,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,05/03/2024,30,2,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517858,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,05/03/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517858,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,05/03/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517660,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,10/03/2024,31,2,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517660,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,10/03/2024,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517660,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,10/03/2024,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517660,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2745,Carrarese,Visita,ALL,10/03/2024,31,2,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517660,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2745,Carrarese,Visita,1ST,10/03/2024,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517660,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2745,Carrarese,Visita,2ND,10/03/2024,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517763,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2789,Rimini,Local,ALL,15/03/2024,32,5,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517763,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2789,Rimini,Local,1ST,15/03/2024,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517763,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2789,Rimini,Local,2ND,15/03/2024,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517763,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,15/03/2024,32,1,,,,,,,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517763,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,15/03/2024,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517763,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,15/03/2024,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517848,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,23/03/2024,33,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517848,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,23/03/2024,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517848,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,23/03/2024,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517848,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,24745,Pontedera,Visita,ALL,23/03/2024,33,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517848,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,24745,Pontedera,Visita,1ST,23/03/2024,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517848,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,24745,Pontedera,Visita,2ND,23/03/2024,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517878,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2742,Cesena,Local,ALL,30/03/2024,34,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517878,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2742,Cesena,Local,1ST,30/03/2024,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517878,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2742,Cesena,Local,2ND,30/03/2024,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517878,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,30/03/2024,34,0,,,,,,,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517878,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,30/03/2024,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517878,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,30/03/2024,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517893,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,08/04/2024,35,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517893,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,08/04/2024,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517893,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,08/04/2024,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517893,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43680,Virtus Entella,Visita,ALL,08/04/2024,35,0,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517893,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43680,Virtus Entella,Visita,1ST,08/04/2024,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517893,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43680,Virtus Entella,Visita,2ND,08/04/2024,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517898,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,5314,Olbia,Local,ALL,14/04/2024,36,0,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517898,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,5314,Olbia,Local,1ST,14/04/2024,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517898,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,5314,Olbia,Local,2ND,14/04/2024,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517898,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,14/04/2024,36,3,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517898,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,14/04/2024,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517898,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,14/04/2024,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517905,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,21/04/2024,37,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517905,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,21/04/2024,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517905,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,21/04/2024,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517905,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2721,Ancona,Visita,ALL,21/04/2024,37,2,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517905,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2721,Ancona,Visita,1ST,21/04/2024,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517905,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2721,Ancona,Visita,2ND,21/04/2024,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517918,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2755,Fermana,Local,ALL,28/04/2024,38,1,,,,,,,,,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517918,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2755,Fermana,Local,1ST,28/04/2024,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517918,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2755,Fermana,Local,2ND,28/04/2024,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517918,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,28/04/2024,38,3,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517918,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,28/04/2024,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517918,11447,53815,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,28/04/2024,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12584218,824,63521,NORMAL,PLAYOFF,Round 1,CUP,7935,Pescara,Local,ALL,11/08/2024,1,0,55%,0.47,,12,4,4,22,436,2,2,4,0,1,0,8,3,5,7,,,1,15,,8,356,20,,48/72 (67%),23/55 (41%),4/15 (26%),36%,8,42/129 (33%),13/22 (59%),10/11 (91%),,2,5,,2,2,4,,,,,7
+12584218,824,63521,NORMAL,PLAYOFF,Round 1,CUP,7935,Pescara,Local,1ST,11/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12584218,824,63521,NORMAL,PLAYOFF,Round 1,CUP,7935,Pescara,Local,2ND,11/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12584218,824,63521,NORMAL,PLAYOFF,Round 1,CUP,228753,Pineto,Visita,ALL,11/08/2024,1,2,45%,1.62,,10,2,2,20,321,1,1,4,1,6,0,2,2,5,5,,,0,9,,0,268,17,,24/36 (67%),33/45 (73%),0/5 (0%),37%,9,39/105 (37%),8/20 (40%),7/7 (100%),,1,12,,7,1,2,,,,,13
+12584218,824,63521,NORMAL,PLAYOFF,Round 1,CUP,228753,Pineto,Visita,1ST,11/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12584218,824,63521,NORMAL,PLAYOFF,Round 1,CUP,228753,Pineto,Visita,2ND,11/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545648,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2708,Ternana,Local,ALL,23/08/2024,1,1,53%,0.66,,7,2,7,12,423,7,4,3,0,1,0,4,2,3,4,,,2,,,1,347,25,,,42/64 (65%),4/15 (26%),31%,4,38/133 (29%),19/47 (40%),15/21 (71%),,7,17,,17,,2,,,,,12
+12545648,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2708,Ternana,Local,1ST,23/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545648,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2708,Ternana,Local,2ND,23/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545648,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,23/08/2024,1,2,47%,0.69,,11,0,6,13,387,0,2,2,0,4,1,3,3,6,5,,,0,,,6,313,19,,,22/47 (46%),2/13 (15%),40%,4,46/131 (35%),27/50 (54%),12/20 (60%),,0,12,,17,,0,,,,,5
+12545648,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,23/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545648,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,23/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545643,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,01/09/2024,2,2,52%,0.93,,11,5,8,13,398,4,5,1,0,5,0,2,4,6,5,,,0,,,4,312,26,,,17/52 (32%),4/14 (28%),48%,12,58/122 (48%),15/29 (52%),21/22 (95%),,4,14,,13,,5,,,,,7
+12545643,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,01/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545643,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,01/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545643,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2753,Torres,Visita,ALL,01/09/2024,2,2,48%,1.95,,13,3,5,14,390,7,0,4,0,7,0,2,4,11,2,,,1,,,0,300,20,,,23/57 (40%),4/10 (40%),41%,11,45/115 (39%),15/30 (50%),16/21 (76%),,7,22,,14,,3,,,,,9
+12545643,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2753,Torres,Visita,1ST,01/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545643,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2753,Torres,Visita,2ND,01/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545634,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2789,Rimini,Local,ALL,07/09/2024,3,0,53%,0.53,,7,2,4,19,325,6,1,1,0,1,0,4,2,2,5,,,2,,,2,250,28,,,35/72 (48%),6/20 (30%),34%,7,43/137 (31%),18/39 (46%),12/15 (80%),,6,7,,14,,2,,,,,6
+12545634,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2789,Rimini,Local,1ST,07/09/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545634,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2789,Rimini,Local,2ND,07/09/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545634,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,07/09/2024,3,1,47%,0.89,,10,1,6,17,302,6,0,4,0,3,0,3,4,8,2,,,0,,,2,223,42,,,26/61 (42%),3/14 (21%),36%,13,50/149 (34%),18/35 (51%),6/8 (75%),,6,16,,6,,1,,,,,6
+12545634,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,07/09/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545634,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,07/09/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545620,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,16/09/2024,4,2,69%,2.71,,27,1,10,20,591,2,1,3,0,7,1,9,9,15,12,,,7,,,5,497,30,,,33/68 (48%),10/29 (34%),47%,5,59/118 (50%),12/33 (36%),35/40 (88%),,2,17,,4,,1,,,,,3
+12545620,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,16/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545620,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,16/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545620,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117356,Pianese,Visita,ALL,16/09/2024,4,1,31%,0.21,,5,8,1,15,229,4,2,4,1,2,0,2,1,0,5,,,0,,,4,144,15,,,35/71 (49%),3/8 (37%),35%,8,39/129 (30%),24/47 (51%),13/14 (93%),,4,16,,13,,8,,,,,14
+12545620,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117356,Pianese,Visita,1ST,16/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545620,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117356,Pianese,Visita,2ND,16/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545612,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,23/09/2024,5,0,48%,0.19,,4,4,2,11,279,2,0,3,0,0,0,3,1,2,2,,,0,,,1,207,41,,,33/63 (52%),4/13 (30%),33%,15,32/126 (25%),30/60 (50%),6/10 (60%),,2,7,,14,,4,,,,,4
+12545612,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,23/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545612,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,23/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545612,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2698,Perugia,Visita,ALL,23/09/2024,5,0,52%,1.34,,9,0,6,17,320,0,0,4,0,4,0,4,1,7,2,,,2,,,4,238,28,,,32/69 (46%),9/20 (45%),37%,10,51/139 (37%),23/59 (39%),13/14 (93%),,0,17,,7,,0,,,,,6
+12545612,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2698,Perugia,Visita,1ST,23/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545612,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2698,Perugia,Visita,2ND,23/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545593,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43680,Virtus Entella,Local,ALL,26/09/2024,6,0,51%,0.54,,7,1,3,11,416,4,1,1,0,1,0,3,3,3,4,,,0,,,5,314,31,,,34/70 (48%),8/19 (42%),37%,6,54/131 (41%),15/53 (28%),13/17 (76%),,4,11,,18,,1,,,,,3
+12545593,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43680,Virtus Entella,Local,1ST,26/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545593,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43680,Virtus Entella,Local,2ND,26/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545593,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,26/09/2024,6,1,49%,0.36,,6,1,4,21,389,1,0,2,0,2,0,1,3,4,2,,,0,,,2,290,33,,,22/51 (43%),3/12 (25%),39%,11,33/117 (28%),33/49 (67%),11/22 (50%),,1,24,,25,,1,,,,,9
+12545593,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,26/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545593,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,26/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545588,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,30/09/2024,7,2,48%,1.63,,14,1,3,15,362,4,4,3,0,5,0,4,5,7,7,,,0,,,0,279,31,,,28/47 (59%),5/21 (23%),34%,11,43/145 (30%),17/28 (61%),8/13 (62%),,4,19,,7,,1,,,,,3
+12545588,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,30/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545588,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,30/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545588,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43685,Carpi,Visita,ALL,30/09/2024,7,1,52%,0.57,,6,3,3,18,503,3,2,3,0,2,0,2,2,2,4,,,0,,,0,415,25,,,36/65 (55%),2/7 (28%),29%,14,41/142 (29%),9/29 (31%),6/8 (75%),,3,26,,5,,3,,,,,13
+12545588,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43685,Carpi,Visita,1ST,30/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545588,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43685,Carpi,Visita,2ND,30/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545581,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2707,Ascoli,Local,ALL,06/10/2024,8,1,51%,1.54,,10,6,8,13,422,6,4,2,1,4,0,3,3,8,2,,,3,,,3,321,21,,,39/78 (50%),7/17 (41%),42%,1,53/125 (42%),19/43 (44%),19/23 (83%),,6,17,,16,,6,,,,,10
+12545581,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2707,Ascoli,Local,1ST,06/10/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545581,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2707,Ascoli,Local,2ND,06/10/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545581,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,06/10/2024,8,2,49%,1.80,,16,4,3,18,363,1,3,3,0,8,0,7,1,7,9,,,0,,,2,278,30,,,30/55 (54%),7/14 (50%),38%,10,45/130 (35%),21/43 (49%),21/35 (60%),,1,24,,24,,4,,,,,11
+12545581,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,06/10/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545581,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,06/10/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545553,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,113755,SPAL,Local,ALL,18/10/2024,10,0,47%,0.24,,7,4,1,15,407,3,3,4,0,3,0,4,0,2,5,,,1,,,3,302,20,,,44/93 (47%),3/11 (27%),37%,6,40/101 (40%),12/37 (32%),12/13 (92%),,3,24,,9,,4,,,,,14
+12545553,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,113755,SPAL,Local,1ST,18/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545553,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,113755,SPAL,Local,2ND,18/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545553,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,18/10/2024,10,1,53%,1.91,,20,5,2,21,462,2,1,2,0,5,0,13,2,9,11,,,0,,,0,373,19,,,27/51 (52%),10/27 (37%),49%,5,56/118 (47%),24/45 (53%),34/38 (89%),,2,21,,21,,5,,,,,7
+12545553,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,18/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545553,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,18/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545559,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2736,Lucchese Calcio,Local,ALL,27/10/2024,11,1,48%,0.86,,13,2,2,21,329,3,5,4,0,2,0,5,6,7,6,,,1,,,7,245,31,,,33/70 (47%),4/14 (28%),34%,14,55/160 (34%),11/33 (33%),19/25 (76%),,3,14,,14,,2,,,,,9
+12545559,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2736,Lucchese Calcio,Local,1ST,27/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545559,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2736,Lucchese Calcio,Local,2ND,27/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545559,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,27/10/2024,11,3,52%,2.77,,14,1,3,21,387,2,2,2,0,4,2,5,3,8,6,,,1,,,2,289,16,,,20/59 (33%),4/12 (33%),42%,8,68/177 (38%),22/34 (65%),19/24 (79%),,2,15,,14,,1,,,,,7
+12545559,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,27/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545559,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,27/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545540,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,30/10/2024,12,2,62%,1.96,,14,1,13,12,519,1,3,3,0,4,1,4,5,8,6,,,0,,,3,397,39,,,23/51 (45%),11/41 (26%),40%,8,46/126 (37%),18/34 (53%),20/23 (87%),,1,12,,18,,1,,,,,3
+12545540,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,30/10/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545540,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,30/10/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545540,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,24745,Pontedera,Visita,ALL,30/10/2024,12,1,38%,0.92,,4,3,0,16,269,5,1,4,0,2,0,2,0,3,1,,,0,,,2,177,19,,,29/63 (46%),5/8 (62%),32%,8,35/115 (30%),16/41 (39%),11/14 (79%),,5,23,,27,,3,,,,,15
+12545540,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,24745,Pontedera,Visita,1ST,30/10/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545540,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,24745,Pontedera,Visita,2ND,30/10/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545523,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2754,Vis Pesaro,Local,ALL,03/11/2024,13,1,48%,0.71,,7,9,3,17,256,3,4,2,0,4,0,3,0,2,5,,,1,,,7,185,19,,,26/51 (50%),1/7 (14%),36%,5,48/142 (34%),17/37 (46%),15/22 (68%),,3,19,,29,,9,,,,,9
+12545523,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2754,Vis Pesaro,Local,1ST,03/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545523,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2754,Vis Pesaro,Local,2ND,03/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545523,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,03/11/2024,13,0,52%,1.59,,17,3,11,20,298,5,5,3,1,8,0,2,7,6,11,,,1,,,1,222,33,,,21/41 (51%),9/24 (37%),36%,6,57/158 (36%),14/36 (39%),20/30 (67%),,5,13,,12,,3,,,,,6
+12545523,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,03/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545523,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,03/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545522,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,09/11/2024,14,1,60%,1.93,,19,3,10,14,523,3,4,2,0,8,0,8,3,10,9,,,0,,,1,408,31,,,14/42 (33%),7/40 (17%),36%,5,38/125 (30%),23/44 (52%),18/19 (95%),,3,13,,13,,3,,,,,2
+12545522,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,09/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545522,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,09/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545522,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117250,Sestri Levante,Visita,ALL,09/11/2024,14,0,40%,0.55,,5,7,3,16,318,2,1,3,0,3,0,1,1,4,1,,,1,,,1,224,27,,,28/56 (50%),4/10 (40%),29%,8,37/143 (26%),18/42 (43%),10/12 (83%),,2,26,,23,,7,,,,,18
+12545522,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117250,Sestri Levante,Visita,1ST,09/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545522,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117250,Sestri Levante,Visita,2ND,09/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545511,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2731,Arezzo,Local,ALL,17/11/2024,15,0,49%,2.03,,12,0,9,15,293,0,0,1,0,3,2,6,1,6,6,,,1,,,2,197,30,,,31/63 (49%),5/18 (27%),41%,8,56/138 (41%),22/48 (46%),16/17 (94%),,0,10,,18,,0,,,,,10
+12545511,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2731,Arezzo,Local,1ST,17/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545511,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2731,Arezzo,Local,2ND,17/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545511,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,17/11/2024,15,0,51%,0.10,,2,4,5,18,384,0,4,2,0,0,0,2,0,2,0,,,0,,,4,293,27,,,21/49 (42%),7/22 (31%),33%,12,37/130 (28%),24/50 (48%),13/21 (62%),,0,21,,21,,4,,,,,11
+12545511,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,17/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545511,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,17/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12965905,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,21/11/2024,9,4,50%,1.96,,17,1,7,11,459,3,1,2,0,6,0,6,5,11,6,,,0,,,3,348,30,,,21/57 (36%),6/22 (27%),40%,4,65/179 (36%),21/35 (60%),25/34 (74%),,3,11,,16,,1,,,,,2
+12965905,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,21/11/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12965905,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,21/11/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12965905,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,530559,Milan Futuro U23,Visita,ALL,21/11/2024,9,1,50%,0.27,,6,4,3,19,372,0,0,2,0,2,0,4,0,3,3,,,2,,,3,288,36,,,35/68 (51%),2/8 (25%),27%,9,48/173 (28%),10/35 (29%),16/31 (52%),,0,24,,24,,4,,,,,13
+12965905,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,530559,Milan Futuro U23,Visita,1ST,21/11/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12965905,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,530559,Milan Futuro U23,Visita,2ND,21/11/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545509,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,25/11/2024,16,0,51%,1.29,,21,3,8,20,356,3,4,2,1,6,0,10,5,12,9,,,2,,,1,257,38,,,34/55 (61%),9/27 (33%),42%,11,53/136 (39%),24/47 (51%),25/33 (76%),,3,15,,4,,3,,,,,4
+12545509,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,25/11/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545509,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,25/11/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545509,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,228753,Pineto,Visita,ALL,25/11/2024,16,1,49%,1.58,,10,6,3,19,325,3,1,3,0,4,0,2,4,6,4,,,1,,,4,239,12,,,42/67 (62%),1/10 (10%),32%,7,41/147 (28%),23/53 (43%),12/20 (60%),,3,16,,41,,6,,,,,18
+12545509,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,228753,Pineto,Visita,1ST,25/11/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545509,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,228753,Pineto,Visita,2ND,25/11/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545493,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2782,Gubbio,Local,ALL,30/11/2024,17,1,48%,0.34,,11,3,4,9,297,4,3,1,1,1,0,6,4,3,8,,,1,,,4,221,23,,,35/62 (56%),2/7 (28%),36%,10,57/158 (36%),10/26 (38%),20/26 (77%),,4,20,,22,,3,,,,,17
+12545493,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2782,Gubbio,Local,1ST,30/11/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545493,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2782,Gubbio,Local,2ND,30/11/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545493,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,30/11/2024,17,2,52%,2.04,,16,0,12,19,392,0,1,0,0,5,1,3,7,12,4,,,0,,,0,305,30,,,19/39 (48%),6/31 (19%),31%,15,47/167 (28%),14/27 (52%),20/27 (74%),,0,24,,13,,0,,,,,6
+12545493,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,30/11/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545493,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,30/11/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545476,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,07/12/2024,18,0,60%,0.78,,12,4,8,20,458,0,2,3,0,5,0,5,2,5,7,,,0,,,0,368,35,,,28/53 (52%),12/35 (34%),35%,9,61/168 (36%),14/44 (32%),33/50 (66%),,0,16,,8,,4,,,,,4
+12545476,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,07/12/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545476,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,07/12/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545476,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117262,Legnago Salus,Visita,ALL,07/12/2024,18,1,40%,0.79,,8,6,2,14,269,3,3,1,0,5,0,3,0,2,6,,,2,,,5,175,29,,,27/46 (58%),1/4 (25%),40%,8,45/138 (33%),27/41 (66%),15/22 (68%),,3,12,,36,,6,,,,,13
+12545476,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117262,Legnago Salus,Visita,1ST,07/12/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545476,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117262,Legnago Salus,Visita,2ND,07/12/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545471,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,393551,Campobasso FC,Local,ALL,14/12/2024,19,2,43%,0.79,,11,4,1,20,268,3,2,0,1,4,1,3,3,7,4,,,1,,,3,165,36,,,37/79 (46%),2/8 (25%),36%,10,44/136 (32%),31/67 (46%),14/16 (88%),,3,14,,16,,4,,,,,7
+12545471,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,393551,Campobasso FC,Local,1ST,14/12/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545471,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,393551,Campobasso FC,Local,2ND,14/12/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545471,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,14/12/2024,19,2,57%,0.81,,5,2,7,15,361,0,2,1,0,4,0,0,1,2,3,,,2,,,1,264,35,,,33/60 (55%),2/11 (18%),43%,10,51/126 (40%),34/68 (50%),19/27 (70%),,0,18,,12,,2,,,,,4
+12545471,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,14/12/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545471,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,14/12/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545461,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,22/12/2024,20,0,51%,0.48,,5,5,9,19,374,1,2,2,0,2,0,2,1,3,2,,,1,,,1,266,27,,,29/61 (47%),0/17 (0%),32%,13,50/158 (32%),12/34 (35%),11/23 (48%),,1,16,,16,,5,,,,,6
+12545461,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,22/12/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545461,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,22/12/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545461,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2708,Ternana,Visita,ALL,22/12/2024,20,0,49%,0.94,,8,2,2,16,371,6,6,4,0,4,0,1,3,6,2,,,1,,,2,276,29,,,29/64 (45%),4/14 (28%),41%,10,57/149 (38%),19/34 (56%),20/29 (69%),,6,24,,20,,2,,,,,4
+12545461,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2708,Ternana,Visita,1ST,22/12/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545461,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2708,Ternana,Visita,2ND,22/12/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545450,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2753,Torres,Local,ALL,05/01/2025,21,1,44%,0.96,,11,2,7,20,256,8,3,2,1,3,2,5,1,8,3,,,0,,,6,170,17,,,34/60 (56%),4/16 (25%),37%,11,49/135 (36%),12/28 (43%),20/30 (67%),,8,13,,23,,2,,,,,13
+12545450,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2753,Torres,Local,1ST,05/01/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545450,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2753,Torres,Local,2ND,05/01/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545450,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,05/01/2025,21,0,56%,0.48,,8,2,6,14,375,6,4,4,0,2,0,3,3,3,5,,,1,,,1,264,31,,,21/51 (41%),2/17 (11%),35%,3,37/122 (30%),16/28 (57%),11/17 (65%),,6,21,,18,,2,,,,,10
+12545450,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,05/01/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545450,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,05/01/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545437,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,11/01/2025,22,0,63%,1.85,,17,0,7,16,554,5,3,3,0,6,2,6,3,9,8,,,2,,,1,447,40,,,16/43 (37%),7/24 (29%),37%,17,71/194 (37%),17/39 (44%),26/40 (65%),,5,15,,6,,0,,,,,3
+12545437,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,11/01/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545437,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,11/01/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545437,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2789,Rimini,Visita,ALL,11/01/2025,22,0,37%,0.02,,1,6,1,9,310,3,4,2,0,0,0,1,0,0,1,,,0,,,7,216,24,,,42/70 (60%),1/10 (10%),35%,12,61/184 (33%),19/39 (49%),17/26 (65%),,3,26,,30,,6,,,,,13
+12545437,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2789,Rimini,Visita,1ST,11/01/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545437,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2789,Rimini,Visita,2ND,11/01/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545427,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117356,Pianese,Local,ALL,19/01/2025,23,3,34%,1.95,,14,4,2,19,233,3,2,3,0,7,0,5,2,12,2,,,3,,,3,147,24,,,23/63 (36%),3/8 (37%),30%,9,34/129 (26%),19/42 (45%),10/11 (91%),,3,27,,36,,4,,,,,14
+12545427,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117356,Pianese,Local,1ST,19/01/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545427,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117356,Pianese,Local,2ND,19/01/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545427,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,19/01/2025,23,2,66%,2.24,,17,4,5,10,489,1,3,2,0,5,0,7,5,9,8,,,3,,,0,382,31,,,58/80 (72%),11/35 (31%),44%,14,55/126 (44%),19/40 (48%),33/37 (89%),,1,12,,10,,4,,,,,9
+12545427,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,19/01/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545427,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,19/01/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545424,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2698,Perugia,Local,ALL,26/01/2025,24,0,45%,1.34,,12,3,7,10,304,1,2,0,0,1,1,6,4,5,7,,,0,,,2,223,20,,,27/61 (44%),6/19 (31%),43%,7,64/151 (42%),17/37 (46%),20/25 (80%),,1,22,,9,,3,,,,,11
+12545424,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2698,Perugia,Local,1ST,26/01/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545424,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2698,Perugia,Local,2ND,26/01/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545424,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,26/01/2025,24,0,55%,1.23,,11,2,6,19,409,2,2,3,0,3,0,5,3,6,5,,,0,,,0,322,28,,,26/56 (46%),6/20 (30%),32%,7,41/148 (28%),20/39 (51%),18/23 (78%),,2,19,,12,,2,,,,,9
+12545424,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,26/01/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545424,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,26/01/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545403,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,02/02/2025,25,1,51%,0.48,,9,4,1,21,444,2,1,3,0,2,0,4,3,3,6,,,1,,,3,343,29,,,26/64 (40%),3/17 (17%),33%,5,40/123 (33%),18/49 (37%),15/21 (71%),,2,16,,11,,4,,,,,8
+12545403,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,02/02/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545403,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,02/02/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545403,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43680,Virtus Entella,Visita,ALL,02/02/2025,25,1,49%,1.40,,9,1,1,11,308,3,1,4,0,5,0,4,0,6,3,,,2,,,2,214,31,,,37/66 (56%),8/21 (38%),40%,3,37/104 (36%),24/47 (51%),12/17 (71%),,3,19,,21,,1,,,,,16
+12545403,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43680,Virtus Entella,Visita,1ST,02/02/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545403,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43680,Virtus Entella,Visita,2ND,02/02/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545400,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43685,Carpi,Local,ALL,09/02/2025,26,1,49%,0.45,,8,5,2,16,319,0,6,2,0,2,0,3,3,3,5,,,0,,,3,242,25,,,41/68 (60%),1/6 (16%),30%,5,41/168 (24%),23/44 (52%),15/24 (63%),,0,24,,31,,5,,,,,9
+12545400,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43685,Carpi,Local,1ST,09/02/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545400,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,43685,Carpi,Local,2ND,09/02/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545400,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,09/02/2025,26,2,51%,0.87,,16,1,7,18,347,4,7,2,0,6,1,5,4,9,7,,,0,,,1,257,37,,,35/56 (62%),5/22 (22%),34%,11,51/160 (32%),19/41 (46%),22/25 (88%),,4,16,,11,,1,,,,,5
+12545400,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,09/02/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545400,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,09/02/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545396,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,17/02/2025,27,1,53%,1.29,,14,1,6,16,389,2,6,2,0,4,0,3,7,9,5,,,0,,,8,294,32,,,23/54 (42%),7/17 (41%),41%,3,36/114 (32%),31/47 (66%),20/26 (77%),,2,8,,12,,1,,,,,8
+12545396,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,17/02/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545396,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,17/02/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545396,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2707,Ascoli,Visita,ALL,17/02/2025,27,2,47%,0.80,,8,3,2,15,301,3,0,4,0,3,0,4,1,6,2,,,2,,,3,221,29,,,34/68 (50%),4/14 (28%),34%,3,43/116 (37%),15/53 (28%),20/26 (77%),,3,15,,17,,3,,,,,10
+12545396,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2707,Ascoli,Visita,1ST,17/02/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545396,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2707,Ascoli,Visita,2ND,17/02/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545378,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,530559,Milan Futuro U23,Local,ALL,23/02/2025,28,2,37%,0.58,,6,3,2,16,254,2,0,3,1,5,0,0,1,3,3,,,1,,,1,162,26,,,32/68 (47%),1/1 (100%),27%,2,24/114 (21%),21/48 (44%),8/12 (67%),,2,24,,18,,3,,,,,15
+12545378,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,530559,Milan Futuro U23,Local,1ST,23/02/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545378,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,530559,Milan Futuro U23,Local,2ND,23/02/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545378,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,23/02/2025,28,3,63%,1.93,,15,3,11,14,449,4,3,1,0,5,1,9,0,10,5,,,1,,,2,336,36,,,27/66 (40%),13/35 (37%),36%,5,33/104 (32%),27/62 (44%),14/19 (74%),,4,9,,6,,3,,,,,0
+12545378,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,23/02/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545378,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,23/02/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545367,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,01/03/2025,29,1,60%,1.25,,21,3,8,17,438,6,3,4,0,5,0,9,7,9,12,,,4,,,3,334,39,,,15/52 (28%),8/22 (36%),38%,10,43/117 (37%),17/39 (44%),16/19 (84%),,6,10,,13,,3,,,,,1
+12545367,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,01/03/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545367,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,01/03/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545367,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,113755,SPAL,Visita,ALL,01/03/2025,29,1,40%,0.46,,6,4,3,11,316,3,5,2,0,4,0,1,1,4,2,,,0,,,0,228,36,,,26/59 (44%),1/6 (16%),34%,7,34/114 (30%),17/34 (50%),9/16 (56%),,3,11,,21,,4,,,,,12
+12545367,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,113755,SPAL,Visita,1ST,01/03/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545367,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,113755,SPAL,Visita,2ND,01/03/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545361,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,07/03/2025,30,4,57%,2.74,,10,3,7,16,520,1,2,1,0,8,0,1,1,9,1,,,1,,,3,417,23,,,19/42 (45%),7/28 (25%),32%,7,39/140 (28%),17/32 (53%),16/22 (73%),,1,27,,10,,3,,,,,5
+12545361,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,07/03/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545361,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,07/03/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545361,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2736,Lucchese Calcio,Visita,ALL,07/03/2025,30,1,43%,0.62,,9,4,1,12,377,5,2,1,0,4,0,2,3,5,4,,,0,,,3,281,21,,,27/59 (45%),2/6 (33%),36%,11,52/154 (34%),18/36 (50%),16/23 (70%),,5,34,,18,,4,,,,,5
+12545361,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2736,Lucchese Calcio,Visita,1ST,07/03/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545361,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2736,Lucchese Calcio,Visita,2ND,07/03/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545343,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,24745,Pontedera,Local,ALL,11/03/2025,31,0,48%,0.97,,13,3,6,8,397,1,3,3,0,4,0,5,4,5,8,,,0,,,3,335,23,,,52/73 (71%),3/10 (30%),39%,2,41/110 (37%),17/37 (46%),20/34 (59%),,1,14,,10,,3,,,,,8
+12545343,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,24745,Pontedera,Local,1ST,11/03/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545343,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,24745,Pontedera,Local,2ND,11/03/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545343,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,11/03/2025,31,3,52%,1.60,,8,4,1,20,464,1,0,1,1,6,0,1,1,6,2,,,2,,,1,393,17,,,34/58 (58%),8/17 (47%),34%,7,40/136 (29%),21/41 (51%),21/27 (78%),,1,18,,14,,4,,,,,8
+12545343,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,11/03/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545343,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,11/03/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545335,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,15/03/2025,32,2,40%,1.31,,12,6,8,18,271,2,7,3,1,4,0,5,3,7,5,,,0,,,2,196,19,,,25/49 (51%),5/19 (26%),40%,9,55/151 (36%),27/50 (54%),12/13 (92%),,2,15,,19,,6,,,,,4
+12545335,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,15/03/2025,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545335,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,15/03/2025,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545335,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2754,Vis Pesaro,Visita,ALL,15/03/2025,32,2,60%,1.64,,14,2,3,23,381,4,4,6,0,8,1,4,1,7,7,,,3,,,3,304,23,,,28/42 (66%),6/16 (37%),42%,12,64/153 (42%),22/48 (46%),22/28 (79%),,4,16,,10,,2,,,,,10
+12545335,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2754,Vis Pesaro,Visita,1ST,15/03/2025,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545335,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2754,Vis Pesaro,Visita,2ND,15/03/2025,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545333,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117250,Sestri Levante,Local,ALL,23/03/2025,33,3,36%,2.08,,13,6,6,18,228,3,3,2,0,8,0,4,1,9,4,,,0,,,1,151,27,,,23/48 (47%),2/7 (28%),37%,7,29/94 (31%),18/31 (58%),7/12 (58%),,3,13,,24,,6,,,,,9
+12545333,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117250,Sestri Levante,Local,1ST,23/03/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545333,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117250,Sestri Levante,Local,2ND,23/03/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545333,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,23/03/2025,33,1,64%,0.87,,13,6,6,12,526,1,5,3,0,7,0,3,3,4,9,,,2,,,6,437,22,,,36/54 (66%),2/21 (9%),40%,0,39/99 (39%),12/28 (43%),11/16 (69%),,1,7,,18,,6,,,,,5
+12545333,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,23/03/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545333,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,23/03/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541952,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,228753,Pineto,Local,ALL,04/04/2025,35,1,47%,0.94,,11,2,1,17,287,3,2,5,0,6,0,5,0,5,6,,,1,,,2,227,25,,,32/52 (61%),4/8 (50%),38%,17,49/135 (36%),16/32 (50%),10/11 (91%),,3,9,,22,,2,,,,,12
+12541952,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,228753,Pineto,Local,1ST,04/04/2025,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541952,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,228753,Pineto,Local,2ND,04/04/2025,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541952,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,04/04/2025,35,0,53%,0.92,,12,5,4,15,364,1,2,3,0,2,0,5,5,6,6,,,0,,,4,283,31,,,24/49 (48%),5/11 (45%),36%,14,46/134 (34%),14/31 (45%),12/16 (75%),,1,8,,10,,5,,,,,7
+12541952,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,04/04/2025,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541952,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,04/04/2025,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13696834,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,09/04/2025,34,0,50%,0.90,,17,2,6,15,358,5,4,4,1,7,0,7,3,6,11,,,0,,,3,280,29,,,25/51 (49%),5/14 (35%),45%,11,58/144 (40%),32/56 (57%),15/17 (88%),,5,7,,8,,2,,,,,9
+13696834,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,09/04/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13696834,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,09/04/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13696834,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2731,Arezzo,Visita,ALL,09/04/2025,34,1,50%,0.55,,14,7,2,21,347,2,3,4,0,3,1,6,4,5,9,,,2,,,2,281,16,,,35/56 (62%),5/12 (41%),33%,15,48/150 (32%),20/53 (38%),14/19 (74%),,2,18,,21,,7,,,,,13
+13696834,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2731,Arezzo,Visita,1ST,09/04/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13696834,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2731,Arezzo,Visita,2ND,09/04/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541892,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,13/04/2025,36,2,44%,1.58,,15,3,5,10,399,3,4,1,0,6,3,3,3,9,6,,,0,,,7,304,24,,,16/50 (32%),6/17 (35%),37%,7,44/128 (34%),16/30 (53%),23/25 (92%),,3,23,,13,,3,,,,,7
+12541892,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,13/04/2025,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541892,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,13/04/2025,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541892,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2782,Gubbio,Visita,ALL,13/04/2025,36,0,56%,0.62,,9,5,0,9,545,8,1,2,0,3,0,4,2,4,5,,,6,,,3,445,23,,,27/55 (49%),6/12 (50%),33%,4,40/133 (30%),13/27 (48%),12/23 (52%),,8,27,,15,,5,,,,,9
+12541892,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2782,Gubbio,Visita,1ST,13/04/2025,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541892,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,2782,Gubbio,Visita,2ND,13/04/2025,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13799509,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117262,Legnago Salus,Local,ALL,23/04/2025,37,1,45%,0.22,,3,6,3,13,292,6,5,0,0,3,0,0,0,2,1,,,1,,,7,198,40,,,33/69 (47%),4/13 (30%),32%,9,43/138 (31%),18/48 (38%),11/16 (69%),,6,9,,16,,6,,,,,8
+13799509,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117262,Legnago Salus,Local,1ST,23/04/2025,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13799509,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,117262,Legnago Salus,Local,2ND,23/04/2025,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13799509,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,ALL,23/04/2025,37,3,55%,2.31,,16,2,4,16,409,2,1,1,0,9,0,2,5,13,3,,,3,,,1,329,31,,,18/42 (42%),2/15 (13%),37%,8,53/158 (34%),26/50 (52%),20/29 (69%),,2,15,,29,,2,,,,,4
+13799509,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,1ST,23/04/2025,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13799509,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Visita,2ND,23/04/2025,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541834,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,ALL,27/04/2025,38,3,61%,2.51,,21,6,9,16,567,4,2,1,0,7,2,3,9,16,5,,,1,,,2,488,16,,,19/37 (51%),4/16 (25%),43%,8,54/126 (43%),11/23 (48%),17/25 (68%),,4,12,,12,,6,,,,,6
+12541834,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,1ST,27/04/2025,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541834,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,7935,Pescara,Local,2ND,27/04/2025,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541834,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,393551,Campobasso FC,Visita,ALL,27/04/2025,38,0,39%,1.95,,13,4,5,19,375,5,1,3,0,6,0,4,3,10,3,,,2,,,1,304,13,,,34/56 (60%),4/15 (26%),40%,5,45/117 (38%),14/28 (50%),13/21 (62%),,5,19,,18,,4,,,,,6
+12541834,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,393551,Campobasso FC,Visita,1ST,27/04/2025,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541834,11447,63976,NORMAL,GROUP,"Serie C, Group B",LEAGUE,393551,Campobasso FC,Visita,2ND,27/04/2025,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14401260,328,77308,NORMAL,REGULAR,Round of 64,CUP,2690,Parma,Local,ALL,17/08/2025,32,2,55%,0.00,2,19,0,7,11,487,15,9,2,,7,1,9,3,14,5,1,1,,35,2,2,424,19,54,77/114 (68%),31/53 (58%),6/25 (24%),54%,8,33/65 (51%),12/19 (63%),9/17 (53%),80%,15,6,41,6,0,0,,0,,0,7
+14401260,328,77308,NORMAL,REGULAR,Round of 64,CUP,2690,Parma,Local,1ST,17/08/2025,32,0,62%,0.00,0,11,0,5,,263,12,5,1,,5,1,5,1,10,1,0,0,,,1,2,236,14,29,,14/23 (61%),4/16 (25%),59%,4,22/37 (59%),5/9 (56%),5/10 (50%),83%,12,2,26,2,,0,,,,,1
+14401260,328,77308,NORMAL,REGULAR,Round of 64,CUP,2690,Parma,Local,2ND,17/08/2025,32,2,49%,0.00,2,8,0,2,,224,3,4,1,,2,0,4,2,4,4,1,1,,,1,0,188,5,25,,17/30 (57%),2/9 (22%),47%,4,11/28 (39%),7/10 (70%),4/7 (57%),67%,3,4,15,4,,0,,,,,6
+14401260,328,77308,NORMAL,REGULAR,Round of 64,CUP,7935,Pescara,Visita,ALL,17/08/2025,32,0,45%,0.00,0,6,6,1,9,405,16,11,0,,0,0,5,1,4,2,0,0,,5,2,3,343,12,45,37/64 (58%),17/42 (40%),2/6 (33%),46%,7,32/65 (49%),7/19 (37%),5/13 (38%),75%,16,13,35,42,1,6,,2,,3,7
+14401260,328,77308,NORMAL,REGULAR,Round of 64,CUP,7935,Pescara,Visita,1ST,17/08/2025,32,0,38%,0.00,0,1,6,0,,173,9,4,0,,0,0,1,0,1,0,0,0,,,0,2,136,7,20,,12/27 (44%),0/1 (0%),41%,6,15/37 (41%),4/9 (44%),2/8 (25%),78%,9,10,20,26,,6,,,,,4
+14401260,328,77308,NORMAL,REGULAR,Round of 64,CUP,7935,Pescara,Visita,2ND,17/08/2025,32,0,51%,0.00,0,5,0,1,,232,7,7,0,,0,0,4,1,3,2,0,0,,,2,1,207,5,25,,5/15 (33%),2/5 (40%),53%,1,17/28 (61%),3/10 (30%),3/5 (60%),71%,7,3,15,16,,0,,,,,3
+14317966,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,7935,Pescara,Local,ALL,22/08/2025,1,1,54%,0.78,1,12,5,3,16,486,15,7,1,,4,0,6,2,4,8,0,1,,13,3,0,410,18,64,82/122 (67%),18/39 (46%),2/13 (15%),47%,4,24/56 (43%),15/27 (56%),2/9 (22%),53%,15,3,46,15,,5,1.20,1,2,1,7
+14317966,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,7935,Pescara,Local,1ST,22/08/2025,1,1,47%,0.06,0,3,5,1,,218,9,4,0,,1,0,1,1,0,3,0,0,,,1,0,180,7,29,,8/23 (35%),0/3 (0%),49%,1,14/28 (50%),6/13 (46%),1/3 (33%),67%,9,0,18,4,,5,,,,,5
+14317966,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,7935,Pescara,Local,2ND,22/08/2025,1,0,61%,0.72,1,9,0,2,,268,6,3,1,,3,0,5,1,4,5,0,1,,,2,0,230,11,35,,10/16 (63%),2/10 (20%),45%,3,10/28 (36%),9/14 (64%),1/6 (17%),33%,6,3,28,11,,0,,,,,2
+14317966,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,2742,Cesena,Visita,ALL,22/08/2025,1,3,46%,4.39,9,19,3,5,7,415,11,16,1,,9,0,7,3,17,2,2,7,,37,1,4,337,28,44,84/118 (71%),25/61 (41%),7/18 (39%),53%,9,32/56 (57%),12/27 (44%),8/14 (57%),55%,11,13,45,26,,3,-0.20,0,2,0,9
+14317966,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,2742,Cesena,Visita,1ST,22/08/2025,1,1,53%,3.87,7,13,0,5,,240,3,7,0,,7,0,4,2,13,0,1,6,,,1,3,211,11,16,,15/26 (58%),6/13 (46%),51%,6,14/28 (50%),7/13 (54%),5/8 (63%),67%,3,8,26,7,,0,,,,,1
+14317966,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,2742,Cesena,Visita,2ND,22/08/2025,1,2,39%,0.52,2,6,3,0,,175,8,9,1,,2,0,3,1,4,2,1,1,,,0,1,126,17,28,,10/35 (29%),1/5 (20%),55%,3,18/28 (64%),5/14 (36%),3/6 (50%),50%,8,5,19,19,,3,,,,,8
+14317931,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,2770,Mantova,Local,ALL,30/08/2025,2,2,53%,1.80,4,15,2,4,15,435,13,23,4,,7,1,4,4,8,7,2,2,,12,3,2,380,23,40,66/92 (72%),22/41 (54%),4/15 (27%),50%,6,39/74 (53%),7/18 (39%),5/14 (36%),62%,13,8,36,13,0,2,-0.84,1,1,,9
+14317931,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,2770,Mantova,Local,1ST,30/08/2025,2,1,53%,1.04,1,9,0,2,,221,6,12,1,,3,0,2,4,4,5,1,0,,,1,1,191,12,18,,12/22 (55%),2/7 (29%),48%,2,16/31 (52%),3/9 (33%),0/5 (0%),50%,6,5,21,9,,0,,,,,2
+14317931,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,2770,Mantova,Local,2ND,30/08/2025,2,1,54%,0.76,3,6,2,2,,214,7,11,3,,4,1,2,0,4,2,1,2,,,2,1,189,11,22,,10/19 (53%),2/8 (25%),52%,4,23/43 (53%),4/9 (44%),5/9 (56%),71%,7,3,15,4,,2,,,,,7
+14317931,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,7935,Pescara,Visita,ALL,30/08/2025,2,1,47%,0.57,1,10,5,5,24,371,15,15,2,,1,1,7,2,6,4,0,1,,17,2,0,316,13,40,71/96 (74%),12/30 (40%),6/18 (33%),50%,7,35/74 (47%),11/18 (61%),6/12 (50%),67%,15,6,35,19,1,5,0.62,1,1,,5
+14317931,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,7935,Pescara,Visita,1ST,30/08/2025,2,0,47%,0.05,0,2,2,2,,197,7,8,0,,0,0,1,1,2,0,0,0,,,2,0,170,7,23,,5/16 (31%),2/9 (22%),52%,2,15/31 (48%),6/9 (67%),1/5 (20%),71%,7,4,18,9,,2,,,,,3
+14317931,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,7935,Pescara,Visita,2ND,30/08/2025,2,1,46%,0.52,1,8,3,3,,174,8,7,2,,1,1,6,1,4,4,0,1,,,0,0,146,6,17,,7/14 (50%),4/9 (44%),48%,5,20/43 (47%),5/9 (56%),5/7 (71%),63%,8,2,17,10,,3,,,,,2
+14317956,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,7935,Pescara,Local,ALL,13/09/2025,3,2,44%,1.03,1,16,3,7,18,315,11,20,1,,5,0,6,5,8,8,0,1,0,23,2,2,258,20,34,47/67 (70%),19/41 (46%),6/20 (30%),50%,6,31/67 (46%),13/21 (62%),2/10 (20%),64%,11,4,30,23,,3,0.71,,0,0,5
+14317956,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,7935,Pescara,Local,1ST,13/09/2025,3,0,32%,0.32,0,7,3,5,,119,5,7,0,,1,0,3,3,4,3,0,0,0,,1,1,95,9,9,,8/15 (53%),2/10 (20%),54%,2,12/27 (44%),7/8 (88%),1/6 (17%),80%,5,3,15,13,,3,,,,,3
+14317956,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,7935,Pescara,Local,2ND,13/09/2025,3,2,57%,0.70,1,9,0,2,,196,6,13,1,,4,0,3,2,4,5,0,1,0,,1,1,163,11,25,,11/26 (42%),4/10 (40%),47%,4,19/40 (48%),6/13 (46%),1/4 (25%),50%,6,1,15,10,,0,,,,,2
+14317956,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,2688,Venezia,Visita,ALL,13/09/2025,3,2,56%,2.97,4,12,3,5,20,416,14,17,1,,5,0,4,3,9,3,2,2,2,24,5,1,352,15,38,63/96 (66%),21/48 (44%),5/17 (29%),50%,4,36/67 (54%),8/21 (38%),4/11 (36%),29%,14,5,42,15,,3,-0.10,,1,1,7
+14317956,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,2688,Venezia,Visita,1ST,13/09/2025,3,1,68%,1.78,3,8,1,3,,270,7,5,0,,4,0,2,2,5,3,1,2,2,,1,0,240,9,21,,10/23 (43%),0/9 (0%),46%,1,15/27 (56%),1/8 (13%),2/6 (33%),43%,7,1,22,6,,1,,,,,4
+14317956,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,2688,Venezia,Visita,2ND,13/09/2025,3,1,43%,1.19,1,4,2,2,,146,7,12,1,,1,0,2,1,4,0,1,0,0,,4,1,112,6,17,,11/25 (44%),5/8 (63%),53%,3,21/40 (53%),7/13 (54%),2/5 (40%),14%,7,4,20,9,,2,,,,,3
+14317965,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,7935,Pescara,Local,ALL,21/09/2025,4,4,45%,1.50,1,18,4,6,14,281,14,20,1,,10,0,3,5,10,8,1,,1,24,0,2,212,19,43,57/84 (68%),26/53 (49%),3/15 (20%),57%,10,40/78 (51%),18/24 (75%),7/17 (41%),71%,14,5,45,36,1,4,0.51,0,,,4
+14317965,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,7935,Pescara,Local,1ST,21/09/2025,4,0,47%,0.60,0,8,2,3,,155,10,13,0,,4,0,1,3,4,4,0,,1,,0,1,123,8,17,,13/22 (59%),3/9 (33%),55%,7,24/46 (52%),9/14 (64%),2/7 (29%),60%,10,4,23,17,,2,,,,,3
+14317965,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,7935,Pescara,Local,2ND,21/09/2025,4,4,43%,0.91,1,10,2,3,,126,4,7,1,,6,0,2,2,6,4,1,,0,,0,1,89,11,26,,13/31 (42%),0/6 (0%),60%,3,16/32 (50%),9/10 (90%),5/10 (50%),100%,4,1,22,19,,2,,,,,1
+14317965,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,2705,Empoli,Visita,ALL,21/09/2025,4,0,55%,0.57,0,8,6,5,20,335,20,14,2,,4,0,3,1,6,2,0,,0,20,1,1,254,18,62,67/117 (57%),21/60 (35%),6/32 (19%),43%,8,38/78 (49%),6/24 (25%),5/11 (45%),65%,20,4,38,13,0,6,0.23,3,,,7
+14317965,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,2705,Empoli,Visita,1ST,21/09/2025,4,0,53%,0.42,0,6,4,3,,171,12,7,1,,2,0,3,1,4,2,0,,0,,1,0,137,8,29,,11/27 (41%),4/16 (25%),45%,7,22/46 (48%),5/14 (36%),3/6 (50%),75%,12,2,22,6,,4,,,,,3
+14317965,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,2705,Empoli,Visita,2ND,21/09/2025,4,0,57%,0.15,0,2,2,2,,164,8,7,1,,2,0,0,0,2,0,0,,0,,0,1,117,10,33,,10/33 (30%),2/16 (13%),40%,1,16/32 (50%),1/10 (10%),2/5 (40%),50%,8,2,16,7,,2,,,,,4
+14317975,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,2706,Modena,Local,ALL,28/09/2025,5,2,49%,2.01,3,15,1,4,15,378,19,14,3,,3,0,8,4,9,6,1,2,,25,6,3,312,11,61,99/141 (70%),27/58 (47%),2/17 (12%),52%,6,38/69 (55%),15/32 (47%),5/12 (42%),42%,19,9,49,8,0,1,-0.33,,1,,6
+14317975,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,2706,Modena,Local,1ST,28/09/2025,5,0,50%,0.83,2,7,0,3,,204,12,7,3,,1,0,5,1,4,3,0,2,,,2,1,167,6,35,,14/32 (44%),1/10 (10%),53%,3,22/38 (58%),6/15 (40%),4/5 (80%),42%,12,6,28,3,,0,,,,,1
+14317975,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,2706,Modena,Local,2ND,28/09/2025,5,2,47%,1.18,1,8,1,1,,174,7,7,0,,2,0,3,3,5,3,1,0,,,4,2,145,5,26,,13/26 (50%),1/7 (14%),52%,3,16/31 (52%),9/17 (53%),1/7 (14%),43%,7,3,21,5,,1,,,,,5
+14317975,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,7935,Pescara,Visita,ALL,28/09/2025,5,1,51%,0.27,0,6,1,0,15,409,13,15,3,,2,0,2,2,3,3,0,0,,8,2,2,344,15,43,46/73 (63%),31/54 (57%),3/9 (33%),48%,8,31/69 (45%),17/32 (53%),5/16 (31%),54%,13,5,39,26,1,1,-0.30,,0,,11
+14317975,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,7935,Pescara,Visita,1ST,28/09/2025,5,1,50%,0.09,0,2,1,0,,209,4,10,1,,1,0,0,1,1,1,0,0,,,1,1,177,9,20,,18/31 (58%),0/2 (0%),47%,6,16/38 (42%),9/15 (60%),3/9 (33%),75%,4,1,18,16,,1,,,,,8
+14317975,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,7935,Pescara,Visita,2ND,28/09/2025,5,0,53%,0.18,0,4,0,0,,200,9,5,2,,1,0,2,1,2,2,0,0,,,1,1,167,6,23,,13/23 (57%),3/7 (43%),48%,2,15/31 (48%),8/17 (47%),2/7 (29%),44%,9,4,21,10,,0,,,,,3
+14317805,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,7935,Pescara,Local,ALL,01/10/2025,6,1,56%,0.86,1,9,5,5,,415,18,20,2,,2,0,5,2,6,3,,1,,13,1,0,300,32,66,46/97 (47%),28/81 (35%),3/17 (18%),54%,14,47/80 (59%),29/61 (48%),12/19 (63%),67%,18,8,39,38,,5,0.54,,1,,7
+14317805,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,7935,Pescara,Local,1ST,01/10/2025,6,0,56%,0.12,0,4,3,2,5,223,8,11,1,,0,0,3,1,3,1,,0,,,0,0,183,13,26,,14/33 (42%),2/5 (40%),52%,10,24/45 (53%),12/24 (50%),7/12 (58%),50%,8,1,20,24,,3,,,,,0
+14317805,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,7935,Pescara,Local,2ND,01/10/2025,6,1,56%,0.73,1,5,2,3,5,192,10,9,1,,2,0,2,1,3,2,,1,,,1,0,117,19,40,,14/48 (29%),1/12 (8%),56%,4,23/35 (66%),17/37 (46%),5/7 (71%),80%,10,7,19,14,,2,,,,,7
+14317805,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,2760,Südtirol,Visita,ALL,01/10/2025,6,1,44%,1.18,1,13,1,2,,326,21,10,3,,6,1,4,3,9,4,,1,,27,2,6,213,33,75,60/116 (52%),27/80 (34%),5/17 (29%),46%,12,33/80 (41%),32/61 (52%),4/10 (40%),76%,21,10,50,23,,1,0.19,,0,,5
+14317805,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,2760,Südtirol,Visita,1ST,01/10/2025,6,0,44%,0.54,0,5,0,2,11,170,15,5,2,,3,0,0,2,5,0,,0,,,1,1,119,18,35,,10/40 (25%),2/9 (22%),48%,5,21/45 (47%),12/24 (50%),3/6 (50%),80%,15,5,24,6,,0,,,,,3
+14317805,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,2760,Südtirol,Visita,2ND,01/10/2025,6,1,44%,0.64,1,8,1,0,9,156,6,5,1,,3,1,4,1,4,4,,1,,,1,5,94,15,40,,17/40 (43%),3/8 (38%),44%,7,12/35 (34%),20/37 (54%),1/4 (25%),67%,6,5,26,17,,1,,,,,2
+14317819,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,2711,Sampdoria,Local,ALL,05/10/2025,7,4,47%,4.06,6,28,0,8,19,355,22,10,2,0,12,2,8,8,19,9,3,3,1,39,5,3,280,7,51,78/117 (67%),25/52 (48%),7/27 (26%),54%,2,40/74 (54%),22/41 (54%),9/16 (56%),73%,22,8,45,22,0,0,-0.26,0,0,0,5
+14317819,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,2711,Sampdoria,Local,1ST,05/10/2025,7,0,47%,0.30,0,6,0,2,10,197,11,6,1,0,2,0,4,0,2,4,0,0,0,,1,2,163,3,25,,11/22 (50%),1/14 (7%),50%,0,20/35 (57%),7/19 (37%),3/5 (60%),82%,11,3,21,10,,0,,,,,1
+14317819,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,2711,Sampdoria,Local,2ND,05/10/2025,7,4,48%,3.77,6,22,0,6,9,158,11,4,1,0,10,2,4,8,17,5,3,3,1,,4,1,117,4,26,,14/30 (47%),6/13 (46%),57%,2,20/39 (51%),15/22 (68%),6/11 (55%),64%,11,5,24,12,,0,,,,,4
+14317819,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,7935,Pescara,Visita,ALL,05/10/2025,7,1,53%,0.53,1,6,8,1,11,410,9,19,1,1,1,0,4,1,2,4,1,0,0,8,2,0,340,14,41,59/87 (68%),18/51 (35%),1/10 (10%),46%,13,34/74 (46%),19/41 (46%),7/16 (44%),67%,9,6,41,38,1,8,0.23,2,2,1,8
+14317819,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,7935,Pescara,Visita,1ST,05/10/2025,7,1,53%,0.33,1,3,2,0,6,228,2,10,0,0,1,0,1,1,2,1,1,0,0,,1,0,194,8,22,,13/25 (52%),1/5 (20%),50%,5,15/35 (43%),12/19 (63%),4/10 (40%),100%,2,2,22,16,,2,,,,,4
+14317819,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,7935,Pescara,Visita,2ND,05/10/2025,7,0,52%,0.20,0,3,6,1,5,182,7,9,1,1,0,0,3,0,0,3,0,0,0,,1,0,146,6,19,,5/26 (19%),0/5 (0%),43%,8,19/39 (49%),7/22 (32%),3/6 (50%),57%,7,4,19,22,,6,,,,,4
+14317989,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,7935,Pescara,Local,ALL,18/10/2025,8,2,53%,0.93,0,16,1,10,11,441,15,14,2,,8,1,7,1,10,6,0,0,,17,3,3,362,21,35,55/80 (69%),20/51 (39%),6/22 (27%),50%,7,40/74 (54%),13/31 (42%),11/20 (55%),73%,15,7,46,29,,1,-0.54,0,0,1,7
+14317989,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,7935,Pescara,Local,1ST,18/10/2025,8,0,53%,0.23,0,7,0,3,6,232,6,7,2,,2,1,5,0,4,3,0,0,,,1,2,185,9,15,,9/30 (30%),3/7 (43%),48%,4,15/32 (47%),6/12 (50%),2/6 (33%),50%,6,4,22,18,,0,,,,,4
+14317989,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,7935,Pescara,Local,2ND,18/10/2025,8,2,54%,0.70,0,9,1,7,5,209,9,7,0,,6,0,2,1,6,3,0,0,,,2,1,177,12,20,,11/21 (52%),3/15 (20%),52%,3,25/42 (60%),7/19 (37%),9/14 (64%),89%,9,3,24,11,,1,,,,,3
+14317989,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,2745,Carrarese,Visita,ALL,18/10/2025,8,2,47%,0.77,2,11,5,4,14,393,16,11,2,,3,0,4,4,4,7,1,1,,22,0,0,315,25,56,64/103 (62%),29/62 (47%),4/16 (25%),50%,7,34/74 (46%),18/31 (58%),8/16 (50%),63%,16,13,47,19,,5,-0.20,2,1,0,7
+14317989,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,2745,Carrarese,Visita,1ST,18/10/2025,8,1,47%,0.47,2,5,2,3,7,204,8,6,2,,1,0,2,2,3,2,1,1,,,0,0,163,13,30,,15/36 (42%),4/11 (36%),52%,2,17/32 (53%),6/12 (50%),4/8 (50%),75%,8,8,23,4,,2,,,,,3
+14317989,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,2745,Carrarese,Visita,2ND,18/10/2025,8,1,46%,0.30,0,6,3,1,7,189,8,5,0,,2,0,2,2,1,5,0,0,,,0,0,152,12,26,,14/26 (54%),0/5 (0%),48%,5,17/42 (40%),12/19 (63%),4/8 (50%),50%,8,5,24,15,,3,,,,,4
+14317996,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,43680,Virtus Entella,Local,ALL,25/10/2025,9,1,52%,2.25,6,21,2,11,12,418,14,8,2,,3,0,11,7,16,5,1,5,,36,1,1,348,14,61,94/133 (71%),24/39 (62%),10/36 (28%),54%,7,29/55 (53%),13/23 (57%),8/11 (73%),64%,14,13,52,21,,2,-0.40,,,0,8
+14317996,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,43680,Virtus Entella,Local,1ST,25/10/2025,9,0,50%,0.70,1,7,1,4,6,211,6,5,1,,1,0,5,1,5,2,0,1,,,0,1,177,5,19,,14/20 (70%),3/11 (27%),53%,3,15/27 (56%),4/9 (44%),5/6 (83%),67%,6,5,28,9,,1,,,,,6
+14317996,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,43680,Virtus Entella,Local,2ND,25/10/2025,9,1,53%,1.55,5,14,1,7,6,207,8,3,1,,2,0,6,6,11,3,1,4,,,1,0,171,9,42,,10/19 (53%),7/25 (28%),55%,4,14/28 (50%),9/14 (64%),3/5 (60%),63%,8,8,24,12,,1,,,,,2
+14317996,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,7935,Pescara,Visita,ALL,25/10/2025,9,1,48%,0.57,1,11,3,5,8,412,10,12,1,,3,1,5,3,6,5,1,0,,12,1,2,344,25,58,62/96 (65%),15/52 (29%),3/14 (21%),46%,6,26/55 (47%),10/23 (43%),4/12 (33%),50%,10,12,43,34,,3,0.19,,,1,13
+14317996,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,7935,Pescara,Visita,1ST,25/10/2025,9,0,50%,0.15,0,4,2,2,5,211,4,6,0,,1,1,1,2,2,2,0,0,,,1,1,172,16,34,,7/28 (25%),2/7 (29%),47%,3,12/27 (44%),5/9 (56%),2/5 (40%),75%,4,5,22,11,,2,,,,,5
+14317996,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,7935,Pescara,Visita,2ND,25/10/2025,9,1,47%,0.41,1,7,1,3,3,201,6,6,1,,2,0,4,1,4,3,1,0,,,0,1,172,9,24,,8/24 (33%),1/7 (14%),45%,3,14/28 (50%),5/14 (36%),2/7 (29%),33%,6,7,21,23,,1,,,,,8
+14318010,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,7935,Pescara,Local,ALL,28/10/2025,10,1,41%,1.79,2,28,4,5,15,348,13,13,1,,7,1,11,10,15,13,1,1,1,30,1,1,283,13,36,60/77 (78%),27/56 (48%),6/26 (23%),48%,6,30/58 (52%),13/32 (41%),7/9 (78%),85%,13,4,47,33,,4,0.36,1,1,,13
+14318010,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,7935,Pescara,Local,1ST,28/10/2025,10,1,37%,0.86,2,12,2,2,7,174,6,5,1,,5,1,3,4,8,4,1,1,0,,1,1,141,4,15,,10/27 (37%),2/11 (18%),39%,3,13/28 (46%),3/13 (23%),3/4 (75%),67%,6,2,21,15,,2,,,,,6
+14318010,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,7935,Pescara,Local,2ND,28/10/2025,10,0,46%,0.93,0,16,2,3,8,174,7,8,0,,2,0,8,6,7,9,0,0,1,,0,0,142,9,21,,17/29 (59%),4/15 (27%),55%,3,17/30 (57%),10/19 (53%),4/5 (80%),100%,7,2,26,18,,2,,,,,7
+14318010,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,2730,US Avellino 1912,Visita,ALL,28/10/2025,10,1,59%,1.99,2,20,6,8,13,506,8,15,3,,5,1,9,6,16,4,0,2,0,35,2,0,435,20,52,86/119 (72%),21/49 (43%),10/34 (29%),52%,5,28/58 (48%),19/32 (59%),5/13 (38%),50%,8,8,44,29,,6,0.13,3,0,,10
+14318010,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,2730,US Avellino 1912,Visita,1ST,28/10/2025,10,1,63%,1.20,1,10,4,4,5,302,4,7,2,,3,1,5,2,8,2,0,1,0,,1,0,272,7,22,,10/20 (50%),4/13 (31%),61%,3,15/28 (54%),10/13 (77%),4/7 (57%),50%,4,3,21,11,,4,,,,,3
+14318010,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,2730,US Avellino 1912,Visita,2ND,28/10/2025,10,0,54%,0.79,1,10,2,4,8,204,4,8,1,,2,0,4,4,8,2,0,1,0,,1,0,163,13,30,,11/29 (38%),6/21 (29%),45%,2,13/30 (43%),9/19 (47%),1/6 (17%),50%,4,5,23,18,,2,,,,,7
+14317856,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,2715,Palermo,Local,ALL,01/11/2025,11,5,55%,2.07,5,17,2,6,12,492,15,9,3,,10,1,4,3,12,5,4,1,,27,1,1,426,18,54,79/115 (69%),25/50 (50%),9/23 (39%),46%,7,32/65 (49%),10/26 (38%),9/20 (45%),53%,15,7,46,16,1,2,0.20,1,0,2,5
+14317856,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,2715,Palermo,Local,1ST,01/11/2025,11,1,56%,0.64,1,9,1,4,7,230,9,3,0,,5,0,2,2,6,3,0,1,,,1,1,190,11,30,,7/21 (33%),6/16 (38%),43%,2,14/30 (47%),7/19 (37%),3/8 (38%),33%,9,4,24,10,,1,,,,,3
+14317856,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,2715,Palermo,Local,2ND,01/11/2025,11,4,54%,1.43,4,8,1,2,5,262,6,6,3,,5,1,2,1,6,2,4,0,,,0,0,236,7,24,,18/29 (62%),3/7 (43%),50%,5,18/35 (51%),3/7 (43%),6/12 (50%),83%,6,3,22,6,,1,,,,,2
+14317856,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,7935,Pescara,Visita,ALL,01/11/2025,11,0,45%,0.57,0,11,5,5,9,407,18,12,2,,3,0,5,3,4,7,0,0,,8,1,4,344,15,37,61/84 (73%),17/39 (44%),3/16 (19%),54%,9,33/65 (51%),16/26 (62%),3/9 (33%),61%,18,5,44,25,1,5,-1.09,0,1,0,5
+14317856,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,7935,Pescara,Visita,1ST,01/11/2025,11,0,44%,0.45,0,8,4,4,3,182,7,7,1,,2,0,4,2,3,5,0,0,,,0,3,142,9,14,,11/26 (42%),3/13 (23%),57%,4,16/30 (53%),12/19 (63%),2/7 (29%),57%,7,2,22,19,,4,,,,,4
+14317856,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,7935,Pescara,Visita,2ND,01/11/2025,11,0,46%,0.12,0,3,1,1,6,225,11,5,1,,1,0,1,1,1,2,0,0,,,1,1,202,6,23,,6/13 (46%),0/3 (0%),50%,5,17/35 (49%),4/7 (57%),1/2 (50%),64%,11,3,22,6,,1,,,,,1
+14317863,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,7935,Pescara,Local,ALL,09/11/2025,12,0,35%,0.68,1,7,3,2,14,365,28,10,1,,1,0,5,1,3,4,0,1,0,9,0,,299,17,36,70/95 (74%),17/40 (43%),1/14 (7%),50%,8,45/80 (56%),10/30 (33%),7/14 (50%),39%,28,8,51,22,,3,0.29,1,2,,8
+14317863,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,7935,Pescara,Local,1ST,09/11/2025,12,0,34%,0.37,1,4,1,2,5,156,16,5,1,,1,0,2,1,2,2,0,1,0,,0,,128,8,14,,9/20 (45%),1/10 (10%),55%,3,23/38 (61%),4/11 (36%),2/5 (40%),44%,16,1,22,14,,1,,,,,4
+14317863,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,7935,Pescara,Local,2ND,09/11/2025,12,0,36%,0.30,0,3,2,0,9,209,12,5,0,,0,0,3,0,1,2,0,0,0,,0,,171,9,22,,8/20 (40%),0/4 (0%),46%,5,22/42 (52%),6/19 (32%),5/9 (56%),33%,12,7,29,8,,2,,,,,4
+14317863,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,2729,Monza,Visita,ALL,09/11/2025,12,2,65%,2.37,3,19,1,7,10,696,15,14,1,,5,1,9,5,15,4,1,2,1,37,3,,616,17,50,129/177 (73%),43/74 (58%),9/22 (41%),50%,11,35/80 (44%),20/30 (67%),8/25 (32%),53%,15,18,61,12,,1,0.03,0,1,,5
+14317863,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,2729,Monza,Visita,1ST,09/11/2025,12,1,66%,1.54,2,13,1,3,5,329,6,5,1,,2,1,7,4,10,3,1,1,1,,3,,293,10,25,,16/27 (59%),7/12 (58%),45%,6,15/38 (39%),7/11 (64%),4/14 (29%),67%,6,4,25,10,,1,,,,,2
+14317863,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,2729,Monza,Visita,2ND,09/11/2025,12,1,64%,0.83,1,6,0,4,5,367,9,9,0,,3,0,2,1,5,1,0,1,0,,0,,323,7,25,,27/47 (57%),2/10 (20%),54%,5,20/42 (48%),13/19 (68%),4/11 (36%),44%,9,14,36,2,,0,,,,,3
+14317872,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,2796,Catanzaro,Local,ALL,21/11/2025,13,3,57%,2.45,4,19,1,7,13,420,8,22,5,,8,0,5,6,12,7,1,3,0,30,2,4,360,23,41,108/136 (79%),31/57 (54%),5/25 (20%),53%,9,37/70 (53%),16/30 (53%),8/16 (50%),88%,8,9,43,18,0,1,-1.40,0,1,,5
+14317872,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,2796,Catanzaro,Local,1ST,21/11/2025,13,1,53%,1.34,3,8,1,4,5,208,3,10,0,,4,0,2,2,7,1,0,3,0,,0,3,177,5,18,,13/31 (42%),3/14 (21%),61%,3,19/29 (66%),11/20 (55%),7/8 (88%),67%,3,6,20,10,,1,,,,,2
+14317872,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,2796,Catanzaro,Local,2ND,21/11/2025,13,2,62%,1.11,1,11,0,3,8,212,5,12,5,,4,0,3,4,5,6,1,0,0,,2,1,183,18,23,,18/26 (69%),2/11 (18%),45%,6,18/41 (44%),5/10 (50%),1/8 (13%),100%,5,3,23,8,,0,,,,,3
+14317872,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,7935,Pescara,Visita,ALL,21/11/2025,13,3,43%,1.17,5,8,5,4,22,311,17,13,3,,4,0,3,1,4,4,2,3,1,13,1,0,237,13,56,59/100 (59%),22/53 (42%),1/14 (7%),47%,2,33/70 (47%),14/30 (47%),5/11 (45%),53%,17,9,46,28,1,5,0.20,1,1,,7
+14317872,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,7935,Pescara,Visita,1ST,21/11/2025,13,2,47%,1.09,4,5,3,4,10,184,4,5,1,,3,0,2,0,4,1,2,2,1,,0,0,139,6,29,,9/28 (32%),0/8 (0%),39%,1,10/29 (34%),9/20 (45%),2/4 (50%),25%,4,1,23,13,,3,,,,,3
+14317872,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,7935,Pescara,Visita,2ND,21/11/2025,13,1,38%,0.08,1,3,2,0,12,127,13,8,2,,1,0,1,1,0,3,0,1,0,,1,0,98,7,27,,13/25 (52%),1/6 (17%),55%,1,23/41 (56%),5/10 (50%),3/7 (43%),62%,13,8,23,15,,2,,,,,4
+14317816,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,7935,Pescara,Local,ALL,29/11/2025,14,0,56%,1.61,2,25,4,12,15,369,15,21,0,,5,0,10,10,17,8,,2,0,35,5,4,290,27,65,88/122 (72%),32/58 (55%),10/31 (32%),57%,13,48/87 (55%),17/28 (61%),14/21 (67%),67%,15,9,42,21,,4,-0.62,1,1,0,5
+14317816,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,7935,Pescara,Local,1ST,29/11/2025,14,0,50%,0.46,0,8,2,3,8,187,10,8,0,,0,0,2,6,4,4,,0,0,,1,2,147,13,28,,17/32 (53%),2/9 (22%),53%,8,24/46 (52%),5/9 (56%),7/12 (58%),60%,10,6,25,12,,2,,,,,3
+14317816,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,7935,Pescara,Local,2ND,29/11/2025,14,0,64%,1.15,2,17,2,9,7,182,5,13,0,,5,0,8,4,13,4,,2,0,,4,2,143,14,37,,15/26 (58%),8/22 (36%),60%,5,24/41 (59%),12/19 (63%),7/9 (78%),80%,5,3,17,9,,2,,,,,2
+14317816,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,2741,Padova,Visita,ALL,29/11/2025,14,1,44%,1.28,1,12,5,5,21,298,20,15,5,,5,1,3,4,9,3,,1,1,21,0,3,214,29,43,54/85 (64%),17/60 (28%),5/15 (33%),43%,6,39/87 (45%),11/28 (39%),4/13 (31%),45%,20,7,44,40,,5,1.07,1,2,3,13
+14317816,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,2741,Padova,Visita,1ST,29/11/2025,14,0,50%,0.18,0,5,0,4,8,187,13,8,2,,2,0,1,2,3,2,,0,0,,0,1,148,16,24,,9/23 (39%),4/12 (33%),47%,5,22/46 (48%),4/9 (44%),1/6 (17%),38%,13,5,26,14,,0,,,,,4
+14317816,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,2741,Padova,Visita,2ND,29/11/2025,14,1,36%,1.11,1,7,5,1,13,111,7,7,3,,3,1,2,2,6,1,,1,1,,0,2,66,13,19,,8/37 (22%),1/3 (33%),40%,1,17/41 (41%),7/19 (37%),3/7 (43%),57%,7,2,18,26,,5,,,,,9
+14317811,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,2712,Bari,Local,ALL,08/12/2025,15,1,66%,2.96,6,13,4,9,17,491,9,8,6,1,5,0,7,1,10,3,1,5,,31,1,3,425,19,42,116/147 (79%),15/30 (50%),8/43 (19%),50%,3,30/57 (53%),11/25 (44%),13/19 (68%),67%,9,5,46,11,,4,0.35,1,0,,11
+14317811,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,2712,Bari,Local,1ST,08/12/2025,15,0,58%,0.51,1,4,3,4,5,264,4,6,1,0,2,0,1,1,3,1,0,1,,,0,1,228,11,19,,8/19 (42%),2/16 (13%),55%,3,17/31 (55%),5/9 (56%),7/12 (58%),75%,4,2,21,6,,3,,,,,7
+14317811,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,2712,Bari,Local,2ND,08/12/2025,15,1,78%,2.45,5,9,1,5,12,227,5,2,5,1,3,0,6,0,7,2,1,4,,,1,2,197,8,23,,7/11 (64%),6/27 (22%),45%,0,13/26 (50%),6/16 (38%),6/7 (86%),60%,5,3,25,5,,1,,,,,4
+14317811,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,7935,Pescara,Visita,ALL,08/12/2025,15,1,34%,1.03,1,16,4,1,9,262,8,17,3,1,5,0,8,3,7,9,0,1,,12,2,3,214,14,52,51/79 (65%),31/61 (51%),3/9 (33%),50%,3,27/57 (47%),14/25 (56%),4/10 (40%),100%,8,11,40,32,,4,0.22,3,2,,9
+14317811,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,7935,Pescara,Visita,1ST,08/12/2025,15,1,42%,0.57,0,13,2,1,6,194,7,5,0,1,4,0,7,2,6,7,0,0,,,0,2,174,8,30,,22/32 (69%),3/7 (43%),45%,2,14/31 (45%),4/9 (44%),1/3 (33%),100%,7,8,21,14,,2,,,,,3
+14317811,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,7935,Pescara,Visita,2ND,08/12/2025,15,0,22%,0.46,1,3,2,0,3,68,1,12,3,0,1,0,1,1,1,2,0,1,,,2,1,40,6,22,,9/29 (31%),0/2 (0%),55%,1,13/26 (50%),10/16 (63%),3/7 (43%),100%,1,3,19,18,,2,,,,,6
+14317842,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,7935,Pescara,Local,ALL,14/12/2025,16,1,54%,1.69,4,20,6,10,15,321,20,16,3,,9,0,6,5,13,7,1,3,1,28,3,1,236,18,59,86/130 (66%),33/67 (49%),9/27 (33%),57%,8,39/70 (56%),25/43 (58%),5/9 (56%),75%,20,6,40,11,,6,-0.57,3,,0,5
+14317842,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,7935,Pescara,Local,1ST,14/12/2025,16,1,50%,1.29,3,13,1,5,8,164,8,6,2,,5,0,4,4,10,3,1,2,1,,3,0,130,3,26,,19/31 (61%),6/10 (60%),51%,4,17/31 (55%),7/16 (44%),3/4 (75%),75%,8,4,22,5,,1,,,,,3
+14317842,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,7935,Pescara,Local,2ND,14/12/2025,16,0,58%,0.40,1,7,5,5,7,157,12,10,1,,4,0,2,1,3,4,0,1,0,,0,1,106,15,33,,14/36 (39%),3/17 (18%),61%,4,22/39 (56%),18/27 (67%),2/5 (40%),75%,12,2,18,6,,5,,,,,2
+14317842,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,2801,Frosinone,Visita,ALL,14/12/2025,16,2,46%,0.54,0,12,5,2,16,290,12,15,3,,8,0,2,2,8,4,0,0,0,17,2,7,218,21,39,43/72 (60%),18/50 (36%),3/11 (27%),43%,14,31/70 (44%),18/43 (42%),5/11 (45%),75%,12,6,47,38,,5,0.41,1,,1,10
+14317842,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,2801,Frosinone,Visita,1ST,14/12/2025,16,1,50%,0.17,0,4,2,0,6,172,5,8,1,,2,0,2,0,2,2,0,0,0,,1,4,140,4,21,,11/24 (46%),1/4 (25%),49%,4,14/31 (45%),9/16 (56%),2/6 (33%),80%,5,3,25,11,,2,,,,,4
+14317842,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,2801,Frosinone,Visita,2ND,14/12/2025,16,1,42%,0.37,0,8,3,2,10,118,7,7,2,,6,0,0,2,6,2,0,0,0,,1,3,78,17,18,,7/26 (27%),2/7 (29%),39%,10,17/39 (44%),9/27 (33%),3/5 (60%),71%,7,3,22,27,,3,,,,,6
+14317683,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,7935,Pescara,Local,ALL,20/12/2025,17,2,56%,1.99,4,19,2,8,14,349,16,17,1,,10,1,5,4,11,8,1,3,,24,7,1,269,12,51,95/141 (67%),29/58 (50%),5/31 (16%),51%,6,38/70 (54%),15/33 (45%),6/11 (55%),50%,16,7,46,20,,2,-0.10,1,3,0,6
+14317683,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,7935,Pescara,Local,1ST,20/12/2025,17,1,57%,1.11,2,9,0,2,5,180,8,7,1,,7,1,1,1,6,3,1,1,,,3,0,139,6,22,,16/31 (52%),1/16 (6%),55%,3,16/28 (57%),8/16 (50%),2/3 (67%),50%,8,0,22,8,,0,,,,,2
+14317683,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,7935,Pescara,Local,2ND,20/12/2025,17,1,54%,0.88,2,10,2,6,9,169,8,10,0,,3,0,4,3,5,5,0,2,,,4,1,130,6,29,,13/27 (48%),4/15 (27%),49%,3,22/42 (52%),7/17 (41%),4/8 (50%),50%,8,7,24,12,,2,,,,,4
+14317683,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,24516,Reggiana,Visita,ALL,20/12/2025,17,1,44%,0.56,0,8,7,5,17,285,11,14,4,,4,0,2,2,8,0,0,0,,17,1,3,220,18,45,50/77 (65%),22/54 (41%),4/16 (25%),49%,6,32/70 (46%),18/33 (55%),7/17 (41%),64%,11,5,40,40,,7,-0.43,1,2,3,13
+14317683,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,24516,Reggiana,Visita,1ST,20/12/2025,17,1,43%,0.19,0,2,5,3,7,145,4,5,2,,1,0,0,1,2,0,0,0,,,0,2,111,11,23,,9/26 (35%),0/5 (0%),45%,5,12/28 (43%),8/16 (50%),3/6 (50%),75%,4,2,16,20,,5,,,,,7
+14317683,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,24516,Reggiana,Visita,2ND,20/12/2025,17,0,46%,0.37,0,6,2,2,10,140,7,9,2,,3,0,2,1,6,0,0,0,,,1,1,109,7,22,,13/28 (46%),4/11 (36%),51%,1,20/42 (48%),10/17 (59%),4/11 (36%),57%,7,3,24,20,,2,,,,,6
+14317704,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,2735,Spezia,Local,ALL,27/12/2025,18,2,48%,1.62,4,12,4,9,15,273,14,13,1,,6,1,4,2,11,1,1,3,1,23,0,0,178,33,69,54/112 (48%),18/64 (28%),7/30 (23%),40%,12,26/63 (41%),15/40 (38%),1/8 (13%),50%,14,13,47,31,0,4,-0.07,2,,,5
+14317704,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,2735,Spezia,Local,1ST,27/12/2025,18,1,49%,0.74,1,6,2,7,10,120,8,4,1,,4,0,1,1,6,0,0,1,1,,0,0,78,17,36,,11/31 (35%),7/19 (37%),41%,1,12/25 (48%),9/26 (35%),0/2 (0%),38%,8,7,22,15,,2,,,,,3
+14317704,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,2735,Spezia,Local,2ND,27/12/2025,18,1,47%,0.88,3,6,2,2,5,153,6,9,0,,2,1,3,1,5,1,1,2,0,,0,0,100,16,33,,7/33 (21%),0/11 (0%),38%,11,14/38 (37%),6/14 (43%),1/6 (17%),67%,6,6,25,16,,2,,,,,2
+14317704,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,7935,Pescara,Visita,ALL,27/12/2025,18,1,52%,1.02,2,13,4,6,13,312,19,15,3,,5,1,5,3,7,6,1,1,0,23,2,6,224,29,47,36/68 (53%),23/62 (37%),5/21 (24%),60%,6,37/63 (59%),25/40 (63%),6/14 (43%),63%,19,9,48,47,1,4,0.31,3,,,8
+14317704,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,7935,Pescara,Visita,1ST,27/12/2025,18,1,51%,0.56,1,6,3,4,4,133,3,10,1,,3,0,2,1,5,1,1,0,0,,2,3,91,14,23,,7/24 (29%),3/11 (27%),59%,2,13/25 (52%),17/26 (65%),3/9 (33%),67%,3,5,20,26,,3,,,,,3
+14317704,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,7935,Pescara,Visita,2ND,27/12/2025,18,0,53%,0.46,1,7,1,2,9,179,16,5,2,,2,1,3,2,2,5,0,1,0,,0,3,133,15,24,,16/38 (42%),2/10 (20%),62%,4,24/38 (63%),8/14 (57%),3/5 (60%),63%,16,4,28,21,,1,,,,,5
+14317701,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,5324,Juve Stabia,Local,ALL,10/01/2026,19,2,55%,2.26,3,18,5,8,12,363,16,13,2,,5,0,3,10,13,5,2,1,,24,3,4,298,23,39,58/89 (65%),10/40 (25%),5/24 (21%),51%,7,33/60 (55%),11/26 (42%),5/11 (45%),75%,16,8,46,25,,5,0.04,2,1,2,10
+14317701,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,5324,Juve Stabia,Local,1ST,10/01/2026,19,0,55%,0.39,0,5,2,4,4,206,5,5,1,,1,0,1,3,4,1,0,0,,,1,4,175,9,14,,7/21 (33%),3/11 (27%),43%,2,12/23 (52%),1/7 (14%),2/6 (33%),100%,5,5,21,7,,2,,,,,6
+14317701,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,5324,Juve Stabia,Local,2ND,10/01/2026,19,2,55%,1.87,3,13,3,4,8,157,11,8,1,,4,0,2,7,9,4,2,1,,,2,0,123,14,25,,3/19 (16%),2/13 (15%),55%,5,21/37 (57%),10/19 (53%),3/5 (60%),64%,11,3,25,18,,3,,,,,4
+14317701,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,7935,Pescara,Visita,ALL,10/01/2026,19,2,45%,1.13,3,15,3,7,14,301,13,12,5,,7,1,7,1,8,7,1,2,,18,1,2,216,19,41,44/74 (59%),23/56 (41%),5/17 (29%),49%,7,27/60 (45%),15/26 (58%),2/11 (18%),77%,13,9,50,31,,3,-0.04,0,0,2,6
+14317701,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,7935,Pescara,Visita,1ST,10/01/2026,19,1,45%,0.36,1,6,1,3,5,168,6,4,1,,3,1,3,0,3,3,0,1,,,0,0,131,9,18,,13/25 (52%),1/8 (13%),57%,1,11/23 (48%),6/7 (86%),1/5 (20%),83%,6,4,22,18,,1,,,,,4
+14317701,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,7935,Pescara,Visita,2ND,10/01/2026,19,1,45%,0.77,2,9,2,4,9,133,7,8,4,,4,0,4,1,5,4,1,1,,,1,2,85,10,23,,10/31 (32%),4/9 (44%),45%,6,16/37 (43%),9/19 (47%),1/6 (17%),71%,7,5,28,13,,2,,,,,2
+14317719,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,7935,Pescara,Local,ALL,18/01/2026,20,0,57%,0.70,0,13,4,4,17,427,13,20,0,,2,0,3,8,7,6,0,0,0,17,4,1,356,20,60,83/128 (65%),32/57 (56%),3/15 (20%),45%,7,33/80 (41%),20/39 (51%),1/18 (6%),69%,13,6,54,34,1,4,1.28,1,0,,8
+14317719,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,7935,Pescara,Local,1ST,18/01/2026,20,0,54%,0.36,0,4,2,2,10,203,8,7,0,,2,0,0,2,3,1,0,0,0,,1,0,167,10,35,,16/31 (52%),2/9 (22%),44%,6,15/37 (41%),9/17 (53%),0/5 (0%),63%,8,4,24,21,,2,,,,,5
+14317719,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,7935,Pescara,Local,2ND,18/01/2026,20,0,60%,0.34,0,9,2,2,7,224,5,13,0,,0,0,3,6,4,5,0,0,0,,3,1,189,10,25,,16/26 (62%),1/6 (17%),45%,1,18/43 (42%),11/22 (50%),1/13 (8%),80%,5,2,30,13,,2,,,,,3
+14317719,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,2706,Modena,Visita,ALL,18/01/2026,20,2,43%,2.62,5,11,2,9,20,318,24,17,2,,6,0,2,3,9,2,2,3,2,30,5,3,227,18,54,62/108 (57%),32/72 (44%),2/18 (11%),55%,9,47/80 (59%),19/39 (49%),8/12 (67%),67%,24,5,54,27,1,2,0.21,1,3,,6
+14317719,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,2706,Modena,Visita,1ST,18/01/2026,20,2,46%,2.40,5,7,2,5,7,170,11,10,0,,4,0,2,1,6,1,2,3,2,,3,2,128,7,27,,15/32 (47%),2/11 (18%),56%,5,22/37 (59%),8/17 (47%),3/6 (50%),91%,11,2,30,17,,2,,,,,0
+14317719,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,2706,Modena,Visita,2ND,18/01/2026,20,0,40%,0.22,0,4,0,4,13,148,13,7,2,,2,0,1,2,3,1,0,0,0,,2,1,99,11,27,,17/40 (43%),0/7 (0%),55%,4,25/43 (58%),11/22 (50%),5/6 (83%),46%,13,3,24,10,,0,,,,,6
+14317891,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,2729,Monza,Local,ALL,24/01/2026,21,3,50%,1.02,2,8,5,8,12,339,16,17,5,,5,0,3,2,7,1,1,1,,20,0,0,247,25,44,53/90 (59%),20/55 (36%),4/14 (29%),54%,12,38/70 (54%),15/28 (54%),6/11 (55%),63%,16,3,58,34,2,5,0.37,2,,1,12
+14317891,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,2729,Monza,Local,1ST,24/01/2026,21,1,50%,0.58,1,4,2,2,5,179,6,10,2,,3,0,1,0,3,1,0,1,,,0,0,143,13,22,,10/27 (37%),1/4 (25%),54%,6,20/35 (57%),5/11 (45%),4/6 (67%),67%,6,2,26,15,,2,,,,,9
+14317891,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,2729,Monza,Local,2ND,24/01/2026,21,2,49%,0.43,1,4,3,6,7,160,10,7,3,,2,0,2,2,4,0,1,0,,,0,0,104,12,22,,10/28 (36%),3/10 (30%),54%,6,18/35 (51%),10/17 (59%),2/5 (40%),60%,10,1,32,19,,3,,,,,3
+14317891,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,7935,Pescara,Visita,ALL,24/01/2026,21,0,50%,1.49,3,20,2,8,17,332,17,12,2,,5,1,10,5,11,9,0,3,,33,2,2,251,19,53,76/122 (62%),18/45 (40%),7/29 (24%),46%,9,32/70 (46%),13/28 (46%),4/11 (36%),65%,17,8,64,22,1,2,-1.50,1,,1,3
+14317891,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,7935,Pescara,Visita,1ST,24/01/2026,21,0,50%,0.51,1,12,2,3,10,171,8,5,1,,2,0,7,3,5,7,0,1,,,1,1,129,10,26,,8/17 (47%),5/12 (42%),46%,4,15/35 (43%),6/11 (55%),3/5 (60%),38%,8,1,29,9,,2,,,,,1
+14317891,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,7935,Pescara,Visita,2ND,24/01/2026,21,0,51%,0.97,3,8,1,5,7,161,9,7,1,,3,1,3,2,6,2,0,3,,,1,1,122,9,27,,10/28 (36%),2/17 (12%),46%,5,17/35 (49%),7/17 (41%),1/6 (17%),89%,9,7,35,13,,1,,,,,2
+14317699,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,7935,Pescara,Local,ALL,31/01/2026,22,2,55%,1.12,1,12,4,4,25,327,14,16,4,,4,1,7,1,7,5,1,0,0,14,1,2,235,17,42,53/88 (60%),30/65 (46%),4/14 (29%),51%,9,32/73 (44%),19/27 (70%),4/9 (44%),36%,14,8,40,25,1,4,-0.51,0,1,,6
+14317699,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,7935,Pescara,Local,1ST,31/01/2026,22,1,59%,0.30,0,8,3,3,9,154,7,9,0,,3,0,5,1,4,4,0,0,0,,1,0,115,9,18,,11/29 (38%),2/8 (25%),50%,7,17/36 (47%),5/8 (63%),2/2 (100%),43%,7,2,17,16,,3,,,,,3
+14317699,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,7935,Pescara,Local,2ND,31/01/2026,22,1,52%,0.82,1,4,1,1,16,173,7,7,4,,1,1,2,1,3,1,1,0,0,,0,2,120,8,24,,19/36 (53%),2/6 (33%),52%,2,15/37 (41%),14/19 (74%),2/7 (29%),29%,7,6,23,9,,1,,,,,3
+14317699,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,2770,Mantova,Visita,ALL,31/01/2026,22,2,45%,1.73,4,15,2,6,16,262,14,24,3,,7,0,5,3,7,8,2,2,1,20,4,1,182,19,57,70/108 (65%),16/56 (29%),2/17 (12%),49%,7,41/73 (56%),8/27 (30%),6/13 (46%),71%,14,11,32,23,0,2,0.13,2,0,,8
+14317699,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,2770,Mantova,Visita,1ST,31/01/2026,22,1,41%,1.29,2,10,2,5,9,101,7,8,2,,4,0,3,3,4,6,1,1,0,,1,1,71,5,16,,9/25 (36%),2/11 (18%),50%,5,19/36 (53%),3/8 (38%),4/6 (67%),57%,7,6,13,13,,2,,,,,6
+14317699,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,2770,Mantova,Visita,2ND,31/01/2026,22,1,48%,0.43,2,5,0,1,7,161,7,16,1,,3,0,2,1,3,2,1,1,1,,3,0,111,14,41,,7/31 (23%),0/6 (0%),48%,2,22/37 (59%),5/19 (26%),2/7 (29%),86%,7,5,19,10,,0,,,,,2
+14317691,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,2742,Cesena,Local,ALL,06/02/2026,23,2,36%,0.00,5,15,4,5,15,317,14,10,5,,5,0,6,4,10,5,,5,0,20,1,4,243,16,42,48/78 (62%),18/57 (32%),1/10 (10%),39%,8,28/70 (40%),8/23 (35%),6/11 (55%),64%,14,8,56,21,2,4,,2,1,0,10
+14317691,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,2742,Cesena,Local,1ST,06/02/2026,23,1,41%,0.00,3,6,2,3,6,189,4,7,3,,2,0,3,1,4,2,,3,0,,0,2,158,8,26,,12/30 (40%),1/8 (13%),44%,4,13/31 (42%),4/8 (50%),3/6 (50%),100%,4,2,27,10,,2,,,,,3
+14317691,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,2742,Cesena,Local,2ND,06/02/2026,23,1,30%,0.00,2,9,2,2,9,128,10,3,2,,3,0,3,3,6,3,,2,0,,1,2,85,8,16,,6/27 (22%),0/2 (0%),35%,4,15/39 (38%),4/15 (27%),3/5 (60%),50%,10,6,29,11,,2,,,,,7
+14317691,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,7935,Pescara,Visita,ALL,06/02/2026,23,0,64%,0.00,1,20,3,6,11,571,13,15,1,,4,1,8,8,11,9,,1,1,21,3,1,494,18,54,118/148 (80%),24/41 (59%),6/25 (24%),61%,8,42/70 (60%),15/23 (65%),15/21 (71%),62%,13,8,50,15,0,3,,1,0,1,8
+14317691,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,7935,Pescara,Visita,1ST,06/02/2026,23,0,59%,0.00,0,8,1,1,7,282,7,6,0,,2,0,2,4,3,5,,0,0,,1,1,247,7,27,,14/25 (56%),2/10 (20%),56%,0,18/31 (58%),4/8 (50%),5/9 (56%),71%,7,5,23,8,,1,,,,,5
+14317691,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,7935,Pescara,Visita,2ND,06/02/2026,23,0,70%,0.00,1,12,2,5,4,289,6,9,1,,2,1,6,4,8,4,,1,1,,2,0,247,11,27,,10/16 (63%),4/15 (27%),65%,8,24/39 (62%),11/15 (73%),10/12 (83%),50%,6,3,27,7,,2,,,,,3
+14317759,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,7935,Pescara,Local,ALL,10/02/2026,24,0,58%,1.97,4,20,4,7,22,440,19,19,3,,2,1,11,7,12,8,0,4,0,41,5,1,380,11,48,108/138 (78%),34/48 (71%),9/22 (41%),50%,9,41/92 (45%),16/22 (73%),7/17 (41%),53%,19,6,50,14,,4,-0.18,1,3,,5
+14317759,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,7935,Pescara,Local,1ST,10/02/2026,24,0,49%,0.93,3,7,2,4,11,183,10,11,1,,2,0,2,3,5,2,0,3,0,,1,1,155,5,19,,16/24 (67%),4/7 (57%),50%,3,21/47 (45%),7/9 (78%),2/7 (29%),30%,10,1,18,10,,2,,,,,2
+14317759,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,7935,Pescara,Local,2ND,10/02/2026,24,0,65%,1.03,1,13,2,3,11,257,9,8,2,,0,1,9,4,7,6,0,1,0,,4,0,225,6,29,,18/24 (75%),5/15 (33%),50%,6,20/45 (44%),9/13 (69%),5/10 (50%),78%,9,5,32,4,,2,,,,,3
+14317759,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,2796,Catanzaro,Visita,ALL,10/02/2026,24,2,42%,2.34,3,14,2,3,19,337,19,22,3,,6,0,5,3,8,6,1,2,1,18,5,5,268,16,27,33/55 (60%),17/48 (35%),1/9 (11%),50%,11,51/92 (55%),6/22 (27%),12/20 (60%),47%,19,5,43,30,,2,0.43,1,1,,14
+14317759,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,2796,Catanzaro,Visita,1ST,10/02/2026,24,1,51%,1.99,3,7,2,3,11,190,8,11,2,,3,0,2,2,6,1,1,2,1,,4,4,163,7,15,,12/21 (57%),1/8 (13%),50%,6,26/47 (55%),2/9 (22%),8/12 (67%),50%,8,3,21,6,,2,,,,,2
+14317759,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,2796,Catanzaro,Visita,2ND,10/02/2026,24,1,35%,0.35,1,7,1,0,8,147,11,11,1,,3,0,3,1,2,5,0,1,0,,1,1,105,9,12,,5/27 (19%),0/1 (0%),50%,5,25/45 (56%),4/13 (31%),4/8 (50%),45%,11,2,22,24,,1,,,,,12
+14317765,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,2730,US Avellino 1912,Local,ALL,15/02/2026,25,0,60%,0.66,1,11,2,6,17,415,24,18,4,,2,0,6,3,6,5,,1,,14,3,0,331,28,44,62/96 (65%),22/47 (47%),6/32 (19%),57%,9,51/83 (61%),23/47 (49%),13/17 (76%),50%,24,10,46,21,,2,-0.15,,1,,15
+14317765,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,2730,US Avellino 1912,Local,1ST,15/02/2026,25,0,53%,0.33,1,3,2,2,10,162,12,7,4,,1,0,1,1,3,1,,1,,,2,0,120,12,13,,7/23 (30%),3/13 (23%),55%,6,26/45 (58%),12/24 (50%),8/10 (80%),58%,12,3,22,11,,2,,,,,10
+14317765,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,2730,US Avellino 1912,Local,2ND,15/02/2026,25,0,66%,0.33,0,8,0,4,7,253,12,11,0,,1,0,5,2,3,5,,0,,,1,0,211,16,31,,15/24 (63%),3/19 (16%),59%,3,25/38 (66%),11/23 (48%),5/7 (71%),42%,12,7,24,10,,0,,,,,5
+14317765,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,7935,Pescara,Visita,ALL,15/02/2026,25,1,40%,1.01,1,16,1,4,18,280,13,17,4,,3,0,9,4,7,9,,1,,28,3,1,215,23,49,49/81 (60%),27/49 (55%),5/16 (31%),43%,11,32/83 (39%),24/47 (51%),5/18 (28%),54%,13,9,50,30,,1,0.07,,0,,11
+14317765,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,7935,Pescara,Visita,1ST,15/02/2026,25,0,47%,0.67,1,11,0,4,7,150,8,10,1,,2,0,7,2,5,6,,1,,,2,0,119,9,27,,11/23 (48%),4/10 (40%),45%,9,19/45 (42%),12/24 (50%),3/6 (50%),75%,8,3,26,14,,0,,,,,4
+14317765,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,7935,Pescara,Visita,2ND,15/02/2026,25,1,34%,0.34,0,5,1,0,11,130,5,7,3,,1,0,2,2,2,3,,0,,,1,1,96,14,22,,16/26 (62%),1/6 (17%),41%,2,13/38 (34%),12/23 (52%),2/12 (17%),20%,5,6,24,16,,1,,,,,7
+14317567,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,2688,Venezia,Local,ALL,21/02/2026,26,3,66%,2.72,7,18,2,6,16,489,14,13,1,,10,0,6,2,14,4,3,4,0,35,2,4,404,15,61,99/144 (69%),29/60 (48%),3/8 (38%),56%,11,37/75 (49%),31/47 (66%),11/18 (61%),57%,14,9,51,13,1,2,0.01,0,,,9
+14317567,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,2688,Venezia,Local,1ST,21/02/2026,26,2,68%,1.95,6,11,1,5,5,251,5,9,0,,7,0,3,1,10,1,2,4,0,,1,3,216,6,26,,14/25 (56%),2/7 (29%),59%,4,19/34 (56%),11/17 (65%),6/10 (60%),60%,5,4,24,3,,1,,,,,5
+14317567,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,2688,Venezia,Local,2ND,21/02/2026,26,1,63%,0.77,1,7,1,1,11,238,9,4,1,,3,0,3,1,4,3,1,0,0,,1,1,188,9,35,,15/35 (43%),1/1 (100%),54%,7,18/41 (44%),20/30 (67%),5/8 (63%),56%,9,5,27,10,,1,,,,,4
+14317567,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,7935,Pescara,Visita,ALL,21/02/2026,26,2,34%,2.66,3,16,7,7,13,234,18,16,4,,4,0,11,1,9,7,2,1,1,18,3,1,151,12,46,43/76 (57%),25/64 (39%),5/12 (42%),44%,7,38/75 (51%),16/47 (34%),5/12 (42%),50%,18,10,43,14,0,7,-0.29,1,,,12
+14317567,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,7935,Pescara,Visita,1ST,21/02/2026,26,1,32%,1.26,2,9,5,1,9,113,8,5,1,,2,0,7,0,5,4,1,1,1,,0,0,75,3,19,,15/32 (47%),1/2 (50%),41%,3,15/34 (44%),6/17 (35%),2/4 (50%),38%,8,3,20,10,,5,,,,,7
+14317567,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,7935,Pescara,Visita,2ND,21/02/2026,26,1,37%,1.40,1,7,2,6,4,121,10,11,3,,2,0,4,1,4,3,1,0,0,,3,1,76,9,27,,10/32 (31%),4/10 (40%),46%,4,23/41 (56%),10/30 (33%),3/8 (38%),60%,10,7,23,4,,2,,,,,5
+14317732,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,7935,Pescara,Local,ALL,01/03/2026,27,2,53%,1.30,3,15,3,9,11,386,20,14,4,,9,0,4,2,6,9,1,2,1,12,3,3,289,24,59,64/104 (62%),25/69 (36%),1/16 (6%),54%,10,40/70 (57%),21/42 (50%),8/13 (62%),50%,20,7,51,26,2,3,-0.24,0,1,,7
+14317732,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,7935,Pescara,Local,1ST,01/03/2026,27,0,54%,0.59,1,8,1,2,3,216,12,10,0,,3,0,3,2,2,6,0,1,1,,2,1,166,13,30,,10/33 (30%),0/6 (0%),69%,3,26/36 (72%),9/15 (60%),6/8 (75%),33%,12,2,28,13,,1,,,,,1
+14317732,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,7935,Pescara,Local,2ND,01/03/2026,27,2,51%,0.70,2,7,2,7,8,170,8,4,4,,6,0,1,0,4,3,1,1,0,,1,2,123,11,29,,15/36 (42%),1/10 (10%),43%,7,14/34 (41%),12/27 (44%),2/5 (40%),75%,8,5,23,13,,2,,,,,6
+14317732,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,2715,Palermo,Visita,ALL,01/03/2026,27,1,47%,1.50,3,12,7,4,14,343,15,11,2,,5,1,5,2,10,2,0,3,0,21,0,3,249,23,59,57/107 (53%),23/59 (39%),7/20 (35%),46%,13,30/70 (43%),21/42 (50%),4/11 (36%),93%,15,10,54,30,1,7,-0.48,2,1,,7
+14317732,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,2715,Palermo,Visita,1ST,01/03/2026,27,0,46%,0.36,2,4,3,1,10,183,5,3,1,,2,0,1,1,3,1,0,2,0,,0,2,132,9,33,,14/33 (42%),2/8 (25%),31%,7,10/36 (28%),6/15 (40%),2/7 (29%),100%,5,4,33,15,,3,,,,,6
+14317732,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,2715,Palermo,Visita,2ND,01/03/2026,27,1,49%,1.13,1,8,4,3,4,160,10,8,1,,3,1,4,1,7,1,0,1,0,,0,1,117,14,26,,9/26 (35%),5/12 (42%),57%,6,20/34 (59%),15/27 (56%),2/4 (50%),90%,10,6,21,15,,4,,,,,1
+14317733,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,2801,Frosinone,Local,ALL,04/03/2026,28,2,64%,2.37,4,19,4,12,11,377,15,17,2,0,6,1,5,8,16,3,2,2,,55,4,2,298,24,71,87/144 (60%),24/49 (49%),10/36 (28%),57%,12,44/79 (56%),30/51 (59%),12/20 (60%),67%,15,3,49,16,1,4,-0.79,0,0,0,7
+14317733,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,2801,Frosinone,Local,1ST,04/03/2026,28,0,58%,0.69,2,8,1,6,7,174,8,4,0,0,2,1,3,3,6,2,0,2,,,2,0,130,14,39,,9/24 (38%),2/13 (15%),52%,7,17/33 (52%),12/23 (52%),5/6 (83%),75%,8,2,22,12,,1,,,,,3
+14317733,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,2801,Frosinone,Local,2ND,04/03/2026,28,2,69%,1.68,2,11,3,6,4,203,7,13,2,0,4,0,2,5,10,1,2,0,,,2,2,168,10,32,,15/25 (60%),8/23 (35%),61%,5,27/46 (59%),18/28 (64%),7/14 (50%),57%,7,1,27,4,,3,,,,,4
+14317733,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,7935,Pescara,Visita,ALL,04/03/2026,28,2,36%,0.83,0,13,4,1,18,229,20,11,4,1,6,0,4,3,7,6,0,0,,11,0,4,149,17,48,40/70 (57%),28/76 (37%),0/1 (0%),43%,9,35/79 (44%),21/51 (41%),6/12 (50%),65%,20,5,48,44,0,4,-0.54,1,1,1,8
+14317733,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,7935,Pescara,Visita,1ST,04/03/2026,28,2,42%,0.41,0,6,2,1,4,132,8,7,1,0,3,0,1,2,3,3,0,0,,,0,2,85,9,33,,16/39 (41%),0/1 (0%),48%,6,16/33 (48%),11/23 (48%),2/4 (50%),63%,8,1,22,24,,2,,,,,2
+14317733,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,7935,Pescara,Visita,2ND,04/03/2026,28,0,31%,0.43,0,7,2,0,14,97,12,4,3,1,3,0,3,1,4,3,0,0,,,0,2,64,8,15,,12/37 (32%),0/0 (0%),39%,3,19/46 (41%),10/28 (36%),4/8 (50%),67%,12,4,26,20,,2,,,,,6
+14317749,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,7935,Pescara,Local,ALL,08/03/2026,29,4,58%,4.32,5,27,2,2,18,468,16,9,2,,17,0,6,4,13,14,4,1,3,27,2,6,388,17,54,72/109 (66%),35/57 (61%),1/3 (33%),51%,6,30/61 (49%),16/30 (53%),5/11 (45%),63%,16,6,45,18,2,2,0.37,1,1,,8
+14317749,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,7935,Pescara,Local,1ST,08/03/2026,29,2,60%,1.83,2,8,0,1,9,249,8,5,1,,4,0,3,1,4,4,2,0,2,,1,4,202,11,28,,15/25 (60%),1/3 (33%),53%,3,14/27 (52%),9/16 (56%),1/3 (33%),38%,8,3,20,8,,0,,,,,3
+14317749,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,7935,Pescara,Local,2ND,08/03/2026,29,2,56%,2.50,3,19,2,1,9,219,8,4,1,,13,0,3,3,9,10,2,1,1,,1,2,186,6,26,,20/32 (63%),0/1 (0%),48%,3,16/34 (47%),7/14 (50%),4/8 (50%),88%,8,3,25,10,,2,,,,,5
+14317749,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,2712,Bari,Visita,ALL,08/03/2026,29,0,42%,0.99,0,12,12,4,10,326,12,18,1,,2,0,7,3,6,6,0,0,1,11,2,0,243,21,52,49/86 (57%),19/51 (37%),3/11 (27%),49%,8,31/61 (51%),14/30 (47%),3/11 (27%),58%,12,8,40,19,4,12,1.18,3,0,,6
+14317749,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,2712,Bari,Visita,1ST,08/03/2026,29,0,40%,0.39,0,4,2,2,6,163,5,9,1,,0,0,2,2,2,2,0,0,0,,1,0,117,12,24,,6/23 (26%),0/3 (0%),47%,4,13/27 (48%),7/16 (44%),0/4 (0%),60%,5,5,18,10,,2,,,,,3
+14317749,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,2712,Bari,Visita,2ND,08/03/2026,29,0,44%,0.60,0,8,10,2,4,163,7,9,0,,2,0,5,1,4,4,0,0,1,,1,0,126,9,28,,13/28 (46%),3/8 (38%),52%,4,18/34 (53%),7/14 (50%),3/7 (43%),57%,7,3,22,9,,10,,,,,3
+14317600,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,2760,Südtirol,Local,ALL,15/03/2026,30,0,35%,0.24,0,4,3,3,17,234,15,14,5,1,1,0,2,1,2,2,,0,,14,4,2,130,29,70,46/105 (44%),15/59 (25%),2/13 (15%),50%,4,32/70 (46%),25/43 (58%),3/16 (19%),73%,15,6,44,32,,3,1.09,2,,,14
+14317600,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,2760,Südtirol,Local,1ST,15/03/2026,30,0,33%,0.08,0,2,3,1,7,114,9,5,1,0,1,0,1,0,1,1,,0,,,2,2,64,15,30,,8/27 (30%),1/6 (17%),50%,1,15/31 (48%),12/23 (52%),1/6 (17%),78%,9,2,25,12,,3,,,,,5
+14317600,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,2760,Südtirol,Local,2ND,15/03/2026,30,0,38%,0.16,0,2,0,2,10,120,6,9,4,1,0,0,1,1,1,1,,0,,,2,0,66,14,40,,7/32 (22%),1/7 (14%),51%,3,17/39 (44%),13/20 (65%),2/10 (20%),67%,6,4,19,20,,0,,,,,9
+14317600,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,7935,Pescara,Visita,ALL,15/03/2026,30,0,65%,1.67,2,17,1,5,14,432,17,17,1,0,3,0,7,7,11,6,,2,,28,2,0,327,28,64,86/132 (65%),25/68 (37%),6/21 (29%),50%,9,38/70 (54%),18/43 (42%),7/13 (54%),71%,17,4,51,30,,1,0.12,0,,,5
+14317600,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,7935,Pescara,Visita,1ST,15/03/2026,30,0,67%,0.70,1,11,1,3,5,242,6,7,0,0,3,0,2,6,7,4,,1,,,2,0,188,13,32,,13/35 (37%),2/5 (40%),50%,5,16/31 (52%),11/23 (48%),5/9 (56%),50%,6,1,27,14,,1,,,,,3
+14317600,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,7935,Pescara,Visita,2ND,15/03/2026,30,0,62%,0.97,1,6,0,2,9,190,11,10,1,0,0,0,5,1,4,2,,1,,,0,0,139,15,32,,12/33 (36%),4/16 (25%),49%,4,22/39 (56%),7/20 (35%),2/4 (50%),82%,11,3,24,16,,0,,,,,2
+14317604,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,7935,Pescara,Local,ALL,18/03/2026,31,3,58%,1.01,1,7,4,2,15,480,18,16,1,,3,0,3,1,3,4,,1,1,11,1,1,395,28,39,54/88 (61%),33/67 (49%),0/5 (0%),50%,5,40/73 (55%),11/28 (39%),8/15 (53%),72%,18,6,51,15,,4,0.64,1,,0,5
+14317604,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,7935,Pescara,Local,1ST,18/03/2026,31,2,60%,0.08,0,3,3,2,8,223,9,8,1,,2,0,1,0,1,2,,0,0,,1,0,178,14,24,,10/29 (34%),0/4 (0%),48%,3,16/32 (50%),6/14 (43%),1/4 (25%),67%,9,4,22,12,,3,,,,,1
+14317604,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,7935,Pescara,Local,2ND,18/03/2026,31,1,57%,0.93,1,4,1,0,7,257,9,8,0,,1,0,2,1,2,2,,1,1,,1,1,217,14,15,,23/38 (61%),0/1 (0%),53%,2,24/41 (59%),5/14 (36%),7/11 (64%),78%,9,2,29,3,,1,,,,,4
+14317604,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,43680,Virtus Entella,Visita,ALL,18/03/2026,31,0,42%,1.05,1,11,0,1,16,334,12,15,2,,4,0,5,2,6,5,,1,0,12,3,3,260,30,48,53/85 (62%),17/40 (43%),4/13 (31%),50%,12,33/73 (45%),17/28 (61%),9/15 (60%),75%,12,17,49,16,,0,-2.44,0,,1,5
+14317604,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,43680,Virtus Entella,Visita,1ST,18/03/2026,31,0,40%,0.25,1,4,0,1,8,148,6,8,0,,3,0,1,0,3,1,,1,0,,2,2,111,15,20,,9/22 (41%),0/6 (0%),52%,6,16/32 (50%),8/14 (57%),3/6 (50%),67%,6,6,23,12,,0,,,,,1
+14317604,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,43680,Virtus Entella,Visita,2ND,18/03/2026,31,0,43%,0.80,0,7,0,0,8,186,6,7,2,,1,0,4,2,3,4,,0,0,,1,1,149,15,28,,8/18 (44%),4/7 (57%),47%,6,17/41 (41%),9/14 (64%),6/9 (67%),83%,6,11,26,4,,0,,,,,4
+14317611,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,2705,Empoli,Local,ALL,22/03/2026,32,4,56%,3.55,7,24,4,6,18,442,20,19,2,0,9,0,12,3,17,7,3,4,0,36,5,4,389,7,63,98/129 (76%),27/43 (63%),12/27 (44%),51%,11,44/88 (50%),9/16 (56%),6/15 (40%),65%,20,8,52,26,0,4,0.18,2,1,2,5
+14317611,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,2705,Empoli,Local,1ST,22/03/2026,32,2,50%,1.11,3,10,1,3,10,183,8,8,2,0,3,0,6,1,8,2,1,2,0,,1,3,161,4,29,,14/24 (58%),8/16 (50%),40%,6,16/40 (40%),3/7 (43%),1/6 (17%),50%,8,3,23,11,,1,,,,,4
+14317611,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,2705,Empoli,Local,2ND,22/03/2026,32,2,60%,2.44,4,14,3,3,8,259,12,11,0,0,6,0,6,2,9,5,2,2,0,,4,1,228,3,34,,13/19 (68%),4/11 (36%),60%,5,28/48 (58%),6/9 (67%),5/9 (56%),75%,12,5,29,15,,3,,,,,1
+14317611,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,7935,Pescara,Visita,ALL,22/03/2026,32,2,44%,0.97,2,13,5,9,19,359,20,18,2,1,6,2,4,3,9,4,2,0,1,25,5,2,286,17,42,65/99 (66%),30/58 (52%),2/11 (18%),49%,10,44/88 (50%),7/16 (44%),6/16 (38%),50%,20,10,39,21,1,5,1.04,2,1,0,15
+14317611,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,7935,Pescara,Visita,1ST,22/03/2026,32,1,50%,0.44,1,5,1,3,8,190,11,10,1,1,2,1,1,2,4,1,1,0,1,,3,1,159,8,21,,20/31 (65%),1/5 (0%),60%,4,24/40 (60%),4/7 (57%),3/7 (43%),55%,11,7,20,7,,1,,,,,8
+14317611,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,7935,Pescara,Visita,2ND,22/03/2026,32,1,40%,0.52,1,8,4,6,11,169,9,8,1,0,4,1,3,1,5,3,1,0,0,,2,1,127,9,21,,10/27 (37%),2/6 (33%),40%,6,20/48 (42%),3/9 (33%),3/9 (33%),44%,9,3,19,14,,4,,,,,7
+14317552,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,24516,Reggiana,Local,ALL,06/04/2026,33,1,35%,0.78,1,10,6,2,15,274,16,21,0,1,3,0,5,2,7,3,1,0,0,28,3,3,196,18,51,52/90 (58%),25/66 (38%),5/13 (38%),52%,8,46/83 (55%),10/25 (40%),9/13 (69%),56%,16,8,39,24,0,6,0.46,1,1,,10
+14317552,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,24516,Reggiana,Local,1ST,06/04/2026,33,0,23%,0.28,0,5,4,0,3,95,7,8,0,0,0,0,4,1,3,2,0,0,0,,2,2,59,8,24,,12/35 (34%),1/4 (25%),52%,3,19/31 (61%),5/15 (33%),4/7 (57%),71%,7,6,21,18,,4,,,,,8
+14317552,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,24516,Reggiana,Local,2ND,06/04/2026,33,1,48%,0.50,1,5,2,2,12,179,9,13,0,1,3,0,1,1,4,1,1,0,0,,1,1,137,10,27,,13/31 (42%),4/9 (44%),52%,5,27/52 (52%),5/10 (50%),5/6 (83%),44%,9,2,18,6,,2,,,,,2
+14317552,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,7935,Pescara,Visita,ALL,06/04/2026,33,3,65%,2.44,5,20,2,3,21,527,12,15,3,0,9,1,5,6,10,10,1,4,5,26,3,1,448,18,63,136/173 (79%),26/46 (57%),0/4 (0%),48%,7,37/83 (45%),15/25 (60%),11/20 (55%),58%,12,9,51,25,1,2,-0.15,0,0,,8
+14317552,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,7935,Pescara,Visita,1ST,06/04/2026,33,1,77%,0.93,2,11,0,1,8,325,6,3,0,0,5,1,4,2,3,8,0,2,2,,1,1,278,12,37,,12/20 (60%),0/3 (0%),48%,3,12/31 (39%),10/15 (67%),3/7 (43%),67%,6,3,28,11,,0,,,,,3
+14317552,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,7935,Pescara,Visita,2ND,06/04/2026,33,2,52%,1.51,3,9,2,2,13,202,6,12,3,0,4,0,1,4,7,2,1,2,3,,2,0,170,6,26,,14/26 (54%),0/1 (0%),48%,4,25/52 (48%),5/10 (50%),8/13 (62%),50%,6,6,23,14,,2,,,,,5
+14317571,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,7935,Pescara,Local,ALL,11/04/2026,34,1,49%,1.38,3,12,0,5,27,361,8,23,3,,2,1,6,4,9,3,1,2,0,23,2,1,277,21,51,59/99 (60%),13/48 (27%),5/14 (36%),38%,9,35/91 (38%),3/8 (38%),7/17 (41%),50%,8,12,34,23,1,0,-0.03,,0,1,11
+14317571,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,7935,Pescara,Local,1ST,11/04/2026,34,1,51%,1.06,2,6,0,1,12,201,7,12,2,,1,1,4,1,5,1,1,1,0,,1,1,160,8,21,,7/21 (33%),1/3 (33%),42%,6,20/44 (45%),1/6 (17%),3/5 (60%),43%,7,6,17,13,,0,,,,,4
+14317571,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,7935,Pescara,Local,2ND,11/04/2026,34,0,47%,0.31,1,6,0,4,15,160,1,11,1,,1,0,2,3,4,2,0,1,0,,1,0,117,13,30,,6/27 (22%),4/11 (36%),35%,3,15/47 (32%),2/2 (100%),4/12 (33%),100%,1,6,17,10,,0,,,,,7
+14317571,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,2711,Sampdoria,Visita,ALL,11/04/2026,34,2,51%,2.25,4,14,1,3,24,374,19,27,4,,2,0,8,4,10,4,2,2,1,28,2,2,308,18,37,52/84 (62%),20/47 (43%),7/18 (39%),62%,3,56/91 (62%),5/8 (63%),11/16 (69%),53%,19,7,41,27,0,1,0.16,,1,0,9
+14317571,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,2711,Sampdoria,Visita,1ST,11/04/2026,34,0,49%,0.34,1,4,0,2,13,192,8,12,2,,0,0,3,1,4,0,0,1,1,,2,1,159,9,20,,9/22 (41%),3/8 (38%),58%,3,24/44 (55%),5/6 (83%),5/9 (56%),50%,8,3,17,9,,0,,,,,4
+14317571,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,2711,Sampdoria,Visita,2ND,11/04/2026,34,2,53%,1.92,3,10,1,1,11,182,11,15,2,,2,0,5,3,6,4,2,1,0,,1,1,149,9,17,,11/25 (44%),4/10 (40%),65%,1,32/47 (68%),0/2 (0%),6/7 (86%),55%,11,4,24,18,,1,,,,,5
+14317588,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,2745,Carrarese,Local,ALL,19/04/2026,35,2,41%,1.29,3,14,2,6,18,333,18,15,1,,5,0,3,6,12,2,2,1,1,22,0,1,252,15,58,69/107 (64%),26/65 (40%),6/21 (29%),53%,5,41/77 (53%),19/36 (53%),8/14 (57%),61%,18,7,48,20,,2,-0.21,,1,1,9
+14317588,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,2745,Carrarese,Local,1ST,19/04/2026,35,1,41%,0.94,2,9,1,1,9,180,8,6,1,,2,0,3,4,7,2,1,1,0,,0,0,140,8,33,,12/35 (34%),2/9 (22%),48%,3,18/35 (51%),8/19 (42%),4/8 (50%),75%,8,3,24,11,,1,,,,,5
+14317588,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,2745,Carrarese,Local,2ND,19/04/2026,35,1,41%,0.34,1,5,1,5,9,153,10,9,0,,3,0,0,2,5,0,1,0,1,,0,1,112,7,25,,14/30 (47%),4/12 (33%),58%,2,23/42 (55%),11/17 (65%),4/6 (67%),50%,10,4,24,9,,1,,,,,4
+14317588,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,7935,Pescara,Visita,ALL,19/04/2026,35,2,59%,1.20,2,14,3,5,15,493,11,18,1,,4,1,7,3,5,9,1,1,0,21,2,3,421,17,56,125/156 (80%),26/50 (52%),3/15 (20%),47%,11,36/77 (47%),17/36 (47%),10/17 (59%),64%,11,7,46,17,,3,-0.64,,1,0,7
+14317588,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,7935,Pescara,Visita,1ST,19/04/2026,35,1,59%,0.25,0,7,1,2,6,264,7,9,1,,2,0,4,1,2,5,0,0,0,,1,2,223,11,34,,13/25 (52%),2/8 (25%),52%,6,17/35 (49%),11/19 (58%),3/5 (60%),57%,7,6,22,9,,1,,,,,3
+14317588,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,7935,Pescara,Visita,2ND,19/04/2026,35,1,59%,0.95,2,7,2,3,9,229,4,9,0,,2,1,3,2,3,4,1,1,0,,1,1,198,6,22,,13/25 (52%),1/7 (14%),42%,5,19/42 (45%),6/17 (35%),7/12 (58%),75%,4,1,24,8,,2,,,,,4
+14317599,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,7935,Pescara,Local,ALL,25/04/2026,36,1,46%,0.53,1,8,4,3,16,418,15,13,2,,4,0,3,1,3,5,0,1,0,15,1,1,341,20,52,82/119 (69%),19/49 (39%),1/14 (7%),44%,8,33/74 (45%),6/15 (40%),8/15 (53%),53%,15,11,50,12,,4,0.56,0,1,,5
+14317599,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,7935,Pescara,Local,1ST,25/04/2026,36,0,46%,0.17,0,2,3,1,8,230,8,5,0,,1,0,1,0,1,1,0,0,0,,0,1,194,9,18,,12/24 (50%),1/8 (13%),46%,1,15/29 (52%),1/6 (17%),3/5 (60%),63%,8,10,22,5,,3,,,,,5
+14317599,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,7935,Pescara,Local,2ND,25/04/2026,36,1,47%,0.36,1,6,1,2,8,188,7,8,2,,3,0,2,1,2,4,0,1,0,,1,0,147,11,34,,7/25 (28%),0/6 (0%),43%,7,18/45 (40%),5/9 (56%),5/10 (50%),43%,7,1,28,7,,1,,,,,0
+14317599,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,5324,Juve Stabia,Visita,ALL,25/04/2026,36,1,54%,1.53,4,13,3,2,13,494,15,16,4,,7,0,4,2,10,3,1,3,1,27,1,2,406,11,55,63/110 (57%),18/52 (35%),3/6 (50%),56%,5,41/74 (55%),9/15 (60%),11/21 (52%),40%,15,8,63,24,,3,-0.38,1,3,,5
+14317599,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,5324,Juve Stabia,Visita,1ST,25/04/2026,36,0,54%,1.12,3,10,1,2,5,277,3,8,2,,5,0,4,1,8,2,0,3,1,,0,1,234,4,22,,4/21 (19%),2/5 (40%),54%,2,14/29 (48%),5/6 (83%),4/10 (40%),100%,3,6,32,10,,1,,,,,1
+14317599,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,5324,Juve Stabia,Visita,2ND,25/04/2026,36,1,53%,0.42,1,3,2,0,8,217,12,8,2,,2,0,0,1,2,1,1,0,0,,1,1,172,7,33,,14/31 (45%),1/1 (100%),57%,3,27/45 (60%),4/9 (44%),7/11 (64%),25%,12,2,31,14,,2,,,,,4
+14317636,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,2741,Padova,Local,ALL,01/05/2026,37,1,37%,0.63,0,11,5,3,21,272,25,14,3,,4,0,3,4,5,6,,0,,11,3,5,190,15,46,48/87 (55%),15/49 (31%),1/13 (8%),58%,4,43/74 (58%),17/29 (59%),7/9 (78%),68%,25,14,59,21,0,5,1.41,2,3,,9
+14317636,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,2741,Padova,Local,1ST,01/05/2026,37,0,43%,0.32,0,5,0,1,11,167,10,7,1,,2,0,2,1,1,4,,0,,,2,4,122,6,25,,6/23 (26%),1/8 (13%),64%,3,18/33 (55%),12/14 (86%),3/3 (100%),60%,10,6,35,11,,0,,,,,2
+14317636,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,2741,Padova,Local,2ND,01/05/2026,37,1,30%,0.31,0,6,5,2,10,105,15,7,2,,2,0,1,3,4,2,,0,,,1,1,68,9,21,,9/26 (35%),0/5 (0%),54%,1,25/41 (61%),5/15 (33%),4/6 (67%),73%,15,8,24,10,,5,,,,,7
+14317636,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,7935,Pescara,Visita,ALL,01/05/2026,37,0,63%,1.22,1,11,4,6,14,476,6,20,3,,5,1,5,1,6,5,,1,,18,4,0,396,23,61,102/135 (76%),34/64 (53%),2/15 (13%),42%,14,31/74 (42%),12/29 (41%),5/16 (31%),83%,6,12,48,13,1,4,-0.11,2,1,,7
+14317636,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,7935,Pescara,Visita,1ST,01/05/2026,37,0,57%,0.03,0,1,2,3,7,219,3,11,1,,0,0,1,0,1,0,,0,,,1,0,176,6,31,,15/34 (44%),0/9 (0%),36%,9,15/33 (45%),2/14 (14%),1/2 (50%),67%,3,6,25,7,,2,,,,,4
+14317636,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,7935,Pescara,Visita,2ND,01/05/2026,37,0,70%,1.18,1,10,2,3,7,257,3,9,2,,5,1,4,1,5,5,,1,,,3,0,220,17,30,,19/30 (63%),2/6 (33%),46%,5,16/41 (39%),10/15 (67%),4/14 (29%),100%,3,6,23,6,,2,,,,,3
+14317642,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,7935,Pescara,Local,ALL,08/05/2026,38,1,60%,1.13,0,14,0,3,11,470,11,20,1,,6,0,3,5,9,5,0,,,18,2,6,371,17,54,67/107 (63%),30/66 (45%),1/6 (0%),53%,7,41/71 (58%),17/39 (44%),13/20 (65%),55%,11,7,46,32,0,0,-0.01,0,,,6
+14317642,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,7935,Pescara,Local,1ST,08/05/2026,38,1,62%,0.33,0,7,0,3,7,266,3,9,1,,2,0,3,2,4,3,0,,,,1,2,221,7,29,,20/36 (56%),0/6 (0%),50%,2,16/32 (50%),7/14 (50%),6/9 (67%),67%,3,3,30,8,,0,,,,,4
+14317642,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,7935,Pescara,Local,2ND,08/05/2026,38,0,57%,0.80,0,7,0,0,4,204,8,11,0,,4,0,0,3,5,2,0,,,,1,4,150,10,25,,10/30 (33%),1/1 (100%),55%,5,25/39 (64%),10/25 (40%),7/11 (64%),50%,8,4,16,24,,0,,,,,2
+14317642,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,2735,Spezia,Visita,ALL,08/05/2026,38,1,40%,1.18,1,6,5,1,20,308,14,11,3,,1,0,2,3,3,3,1,,,17,0,2,207,22,52,22/67 (33%),21/63 (33%),0/11 (0%),47%,8,30/71 (42%),22/39 (56%),5/8 (63%),57%,14,14,47,29,1,5,0.44,2,,,4
+14317642,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,2735,Spezia,Visita,1ST,08/05/2026,38,0,38%,0.07,0,1,1,0,9,163,5,7,1,,0,0,1,0,0,1,0,,,,0,0,113,10,24,,11/35 (31%),0/4 (0%),50%,2,16/32 (50%),7/14 (50%),4/5 (80%),80%,5,8,28,13,,1,,,,,4
+14317642,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,2735,Spezia,Visita,2ND,08/05/2026,38,1,43%,1.10,1,5,4,1,11,145,9,4,2,,1,0,1,3,3,2,1,,,,0,2,94,12,28,,10/28 (36%),0/7 (0%),45%,6,14/39 (36%),15/25 (60%),1/3 (33%),44%,9,6,19,16,,4,,,,,0

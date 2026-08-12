@@ -1,0 +1,871 @@
+﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+9625186,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,295403,FC Rapid București,Local,ALL,18/07/2021,1,1,56%,,,11,6,5,10,,,12,2,0,2,,4,5,,,,,,,,1,,34,,,,,,,,,,,,,,,,6,,,,,4
+9625186,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,295403,FC Rapid București,Local,1ST,18/07/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625186,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,295403,FC Rapid București,Local,2ND,18/07/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625186,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,18/07/2021,1,0,44%,,,7,1,3,12,,,11,4,0,6,,1,0,,,,,,,,0,,28,,,,,,,,,,,,,,,,1,,,,,9
+9625186,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,18/07/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625186,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,18/07/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9605398,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Local,ALL,26/07/2021,2,1,,,,7,1,6,14,,,16,2,0,4,,2,1,,,,,,,,4,,18,,,,,,,,,,,,,,,,1,,,,,8
+9605398,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Local,1ST,26/07/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9605398,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Local,2ND,26/07/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9605398,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,ALL,26/07/2021,2,1,,,,8,3,2,16,,,18,5,0,2,,6,0,,,,,,,,0,,22,,,,,,,,,,,,,,,,3,,,,,4
+9605398,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,1ST,26/07/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9605398,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,2ND,26/07/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9611983,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,5287,CFR 1907 Cluj,Local,ALL,31/07/2021,3,1,61%,,,9,1,5,11,,,14,0,0,4,,5,0,,,,,,,,0,,38,,,,,,,,,,,,,,,,1,,,,,4
+9611983,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,5287,CFR 1907 Cluj,Local,1ST,31/07/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9611983,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,5287,CFR 1907 Cluj,Local,2ND,31/07/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9611983,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,31/07/2021,3,0,39%,,,3,3,1,13,,,11,1,0,1,,2,0,,,,,,,,1,,24,,,,,,,,,,,,,,,,3,,,,,9
+9611983,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,31/07/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9611983,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,31/07/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9617201,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Local,ALL,08/08/2021,4,1,46%,,,11,0,2,14,,,18,5,0,4,,6,1,,,,,,,,1,,26,,,,,,,,,,,,,,,,0,,,,,9
+9617201,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Local,1ST,08/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9617201,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Local,2ND,08/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9617201,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,3292,FC Dinamo București,Visita,ALL,08/08/2021,4,0,54%,,,9,2,5,18,,,15,3,0,0,,4,5,,,,,,,,0,,28,,,,,,,,,,,,,,,,2,,,,,8
+9617201,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,3292,FC Dinamo București,Visita,1ST,08/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9617201,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,3292,FC Dinamo București,Visita,2ND,08/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625793,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,312033,FCU 1948 Craiova,Local,ALL,14/08/2021,5,0,60%,,,7,3,9,10,,,11,4,0,1,,3,3,,,,,,,,1,,30,,,,,,,,,,,,,,,,3,,,,,7
+9625793,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,312033,FCU 1948 Craiova,Local,1ST,14/08/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625793,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,312033,FCU 1948 Craiova,Local,2ND,14/08/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625793,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,14/08/2021,5,0,40%,,,9,1,2,11,,,11,2,0,3,,5,1,,,,,,,,0,,31,,,,,,,,,,,,,,,,1,,,,,4
+9625793,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,14/08/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625793,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,14/08/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625799,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Local,ALL,20/08/2021,6,2,,,,6,3,1,14,,,12,4,0,3,,3,0,,,,,,,,0,,27,,,,,,,,,,,,,,,,3,,,,,10
+9625799,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Local,1ST,20/08/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625799,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Local,2ND,20/08/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625799,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,20/08/2021,6,2,,,,12,1,2,10,,,14,1,0,5,,5,2,,,,,,,,2,,28,,,,,,,,,,,,,,,,1,,,,,6
+9625799,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,20/08/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625799,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,20/08/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625808,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,44255,FC Voluntari,Local,ALL,27/08/2021,7,2,49%,,,16,4,4,15,,,16,6,0,8,,5,3,,,,,,,,4,,15,,,,,,,,,,,,,,,,4,,,,,5
+9625808,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,44255,FC Voluntari,Local,1ST,27/08/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625808,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,44255,FC Voluntari,Local,2ND,27/08/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625808,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,27/08/2021,7,1,51%,,,15,6,3,14,,,19,2,0,5,,3,7,,,,,,,,2,,21,,,,,,,,,,,,,,,,6,,,,,8
+9625808,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,27/08/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625808,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,27/08/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625815,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,7731,CS Mioveni,Local,ALL,10/09/2021,8,0,61%,,,13,1,7,4,,,12,1,0,1,,9,3,,,,,,,,2,,30,,,,,,,,,,,,,,,,1,,,,,6
+9625815,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,7731,CS Mioveni,Local,1ST,10/09/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625815,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,7731,CS Mioveni,Local,2ND,10/09/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625815,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,10/09/2021,8,1,39%,,,3,1,0,8,,,6,3,0,2,,1,0,,,,,,,,4,,23,,,,,,,,,,,,,,,,1,,,,,17
+9625815,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,10/09/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625815,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,10/09/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625822,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,ALL,18/09/2021,9,2,34%,,,5,1,5,12,,,17,1,0,3,,2,0,,,,,,,,0,,12,,,,,,,,,,,,,,,,1,,,,,9
+9625822,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,1ST,18/09/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625822,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,2ND,18/09/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625822,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,3294,FCV Farul Constanța,Visita,ALL,18/09/2021,9,0,66%,,,5,1,6,14,,,12,2,0,1,,3,1,,,,,,,,3,,15,,,,,,,,,,,,,,,,1,,,,,2
+9625822,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,3294,FCV Farul Constanța,Visita,1ST,18/09/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625822,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,3294,FCV Farul Constanța,Visita,2ND,18/09/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625829,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,116221,FC Argeș Pitești,Local,ALL,25/09/2021,10,0,,,,6,7,3,12,,,14,2,0,1,,3,2,,,,,,,,0,,19,,,,,,,,,,,,,,,,7,,,,,4
+9625829,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,116221,FC Argeș Pitești,Local,1ST,25/09/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625829,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,116221,FC Argeș Pitești,Local,2ND,25/09/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625829,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,25/09/2021,10,0,,,,4,8,2,11,,,12,2,0,2,,1,1,,,,,,,,3,,12,,,,,,,,,,,,,,,,8,,,,,9
+9625829,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,25/09/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625829,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,25/09/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625836,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,56127,Chindia Târgoviște,Local,ALL,01/10/2021,11,0,41%,,,7,3,4,8,,,17,5,1,1,,3,3,,,,,,,,2,,13,,,,,,,,,,,,,,,,3,,,,,15
+9625836,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,56127,Chindia Târgoviște,Local,1ST,01/10/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625836,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,56127,Chindia Târgoviște,Local,2ND,01/10/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625836,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,3301,FCSB,Visita,ALL,01/10/2021,11,1,59%,,,17,1,4,16,,,10,5,0,4,,7,6,,,,,,,,1,,26,,,,,,,,,,,,,,,,1,,,,,4
+9625836,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,3301,FCSB,Visita,1ST,01/10/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625836,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,3301,FCSB,Visita,2ND,01/10/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625844,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,24798,FC Botoșani,Local,ALL,18/10/2021,12,0,60%,,,21,1,7,16,,,13,3,0,10,,4,7,,,,,,,,2,,24,,,,,,,,,,,,,,,,1,,,,,4
+9625844,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,24798,FC Botoșani,Local,1ST,18/10/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625844,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,24798,FC Botoșani,Local,2ND,18/10/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625844,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,18/10/2021,12,0,40%,,,4,10,2,13,,,18,4,0,1,,2,1,,,,,,,,0,,19,,,,,,,,,,,,,,,,10,,,,,10
+9625844,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,18/10/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625844,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,18/10/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625852,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,56127,Chindia Târgoviște,Local,ALL,22/10/2021,13,0,,,,5,1,5,13,,,11,0,0,3,,2,0,,,,,,,,4,,21,,,,,,,,,,,,,,,,1,,,,,14
+9625852,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,56127,Chindia Târgoviște,Local,1ST,22/10/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625852,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,56127,Chindia Târgoviște,Local,2ND,22/10/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625852,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,116223,Universitatea Craiova,Visita,ALL,22/10/2021,13,1,,,,8,2,4,11,,,17,3,0,2,,3,3,,,,,,,,0,,17,,,,,,,,,,,,,,,,2,,,,,4
+9625852,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,116223,Universitatea Craiova,Visita,1ST,22/10/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625852,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,116223,Universitatea Craiova,Visita,2ND,22/10/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625860,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,204657,UTA Arad,Local,ALL,01/11/2021,14,0,61%,,,14,1,8,11,,,13,2,0,3,,7,4,,,,,,,,1,,28,,,,,,,,,,,,,,,,1,,,,,10
+9625860,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,204657,UTA Arad,Local,1ST,01/11/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625860,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,204657,UTA Arad,Local,2ND,01/11/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625860,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,01/11/2021,14,2,39%,,,7,3,3,13,,,12,1,0,3,,4,0,,,,,,,,0,,24,,,,,,,,,,,,,,,,3,,,,,14
+9625860,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,01/11/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625860,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,01/11/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625868,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,56127,Chindia Târgoviște,Local,ALL,05/11/2021,15,0,54%,,,7,1,3,16,,,11,2,0,1,,6,0,,,,,,,,1,,20,,,,,,,,,,,,,,,,1,,,,,6
+9625868,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,56127,Chindia Târgoviște,Local,1ST,05/11/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625868,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,56127,Chindia Târgoviște,Local,2ND,05/11/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625868,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,05/11/2021,15,1,46%,,,10,1,3,11,,,17,4,0,2,,4,4,,,,,,,,0,,32,,,,,,,,,,,,,,,,1,,,,,12
+9625868,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,05/11/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625868,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,05/11/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625877,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,56127,Chindia Târgoviște,Local,ALL,19/11/2021,16,2,,,,9,4,4,11,,,18,3,1,5,,3,1,,,,,,,,1,,10,,,,,,,,,,,,,,,,4,,,,,19
+9625877,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,56127,Chindia Târgoviște,Local,1ST,19/11/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625877,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,56127,Chindia Târgoviște,Local,2ND,19/11/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625877,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,295403,FC Rapid București,Visita,ALL,19/11/2021,16,2,,,,20,3,7,18,,,12,2,0,6,,10,4,,,,,,,,0,,22,,,,,,,,,,,,,,,,3,,,,,9
+9625877,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,295403,FC Rapid București,Visita,1ST,19/11/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625877,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,295403,FC Rapid București,Visita,2ND,19/11/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625884,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,ALL,27/11/2021,17,0,56%,,,14,1,4,13,,,26,4,0,3,,8,3,,,,,,,,0,,21,,,,,,,,,,,,,,,,1,,,,,5
+9625884,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,1ST,27/11/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625884,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,2ND,27/11/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625884,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,27/11/2021,17,0,44%,,,6,3,2,20,,,13,3,0,2,,4,0,,,,,,,,6,,21,,,,,,,,,,,,,,,,3,,,,,15
+9625884,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,27/11/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625884,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,27/11/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625892,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,56127,Chindia Târgoviște,Local,ALL,04/12/2021,18,0,48%,,,12,7,2,15,,,15,4,0,3,,7,2,,,,,,,,1,,15,,,,,,,,,,,,,,,,7,,,,,7
+9625892,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,56127,Chindia Târgoviște,Local,1ST,04/12/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625892,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,56127,Chindia Târgoviște,Local,2ND,04/12/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625892,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,5287,CFR 1907 Cluj,Visita,ALL,04/12/2021,18,1,52%,,,13,3,4,14,,,16,4,0,8,,3,2,,,,,,,,1,,15,,,,,,,,,,,,,,,,3,,,,,9
+9625892,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,5287,CFR 1907 Cluj,Visita,1ST,04/12/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625892,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,5287,CFR 1907 Cluj,Visita,2ND,04/12/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625899,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,3292,FC Dinamo București,Local,ALL,13/12/2021,19,1,51%,,,6,6,1,10,,,19,2,0,5,,0,1,,,,,,,,1,,25,,,,,,,,,,,,,,,,6,,,,,12
+9625899,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,3292,FC Dinamo București,Local,1ST,13/12/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625899,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,3292,FC Dinamo București,Local,2ND,13/12/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625899,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,13/12/2021,19,0,49%,,,20,4,7,17,,,11,2,0,6,,10,4,,,,,,,,2,,29,,,,,,,,,,,,,,,,4,,,,,5
+9625899,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,13/12/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625899,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,13/12/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625914,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,56127,Chindia Târgoviște,Local,ALL,16/12/2021,20,0,21%,,,6,2,9,12,,,14,2,0,3,,3,0,,,,,,,,2,,21,,,,,,,,,,,,,,,,2,,,,,8
+9625914,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,56127,Chindia Târgoviște,Local,1ST,16/12/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625914,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,56127,Chindia Târgoviște,Local,2ND,16/12/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625914,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,312033,FCU 1948 Craiova,Visita,ALL,16/12/2021,20,3,79%,,,10,3,4,14,,,14,3,0,5,,2,3,,,,,,,,0,,23,,,,,,,,,,,,,,,,3,,,,,6
+9625914,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,312033,FCU 1948 Craiova,Visita,1ST,16/12/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625914,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,312033,FCU 1948 Craiova,Visita,2ND,16/12/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625920,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,19/12/2021,21,0,50%,,,5,5,2,18,,,15,5,1,2,,3,0,,,,,,,,1,,22,,,,,,,,,,,,,,,,5,,,,,7
+9625920,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,19/12/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625920,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,19/12/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625920,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,19/12/2021,21,1,50%,,,9,2,3,14,,,19,2,0,6,,2,1,,,,,,,,1,,15,,,,,,,,,,,,,,,,2,,,,,6
+9625920,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,19/12/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625920,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,19/12/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625929,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,56127,Chindia Târgoviște,Local,ALL,22/01/2022,22,0,44%,,,7,1,1,10,,,13,2,0,3,,3,1,,,,,,,,0,,23,,,,,,,,,,,,,,,,1,,,,,10
+9625929,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,56127,Chindia Târgoviște,Local,1ST,22/01/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625929,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,56127,Chindia Târgoviște,Local,2ND,22/01/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625929,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,44255,FC Voluntari,Visita,ALL,22/01/2022,22,0,56%,,,6,3,3,11,,,10,3,0,1,,2,3,,,,,,,,2,,26,,,,,,,,,,,,,,,,3,,,,,7
+9625929,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,44255,FC Voluntari,Visita,1ST,22/01/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625929,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,44255,FC Voluntari,Visita,2ND,22/01/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625936,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,56127,Chindia Târgoviște,Local,ALL,30/01/2022,23,0,52%,,,15,1,6,12,,,19,2,0,4,,8,3,,,,,,,,5,,33,,,,,,,,,,,,,,,,1,,,,,7
+9625936,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,56127,Chindia Târgoviște,Local,1ST,30/01/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625936,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,56127,Chindia Târgoviște,Local,2ND,30/01/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625936,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,7731,CS Mioveni,Visita,ALL,30/01/2022,23,0,48%,,,6,4,1,19,,,17,3,0,1,,3,2,,,,,,,,0,,24,,,,,,,,,,,,,,,,4,,,,,13
+9625936,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,7731,CS Mioveni,Visita,1ST,30/01/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625936,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,7731,CS Mioveni,Visita,2ND,30/01/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625943,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,3294,FCV Farul Constanța,Local,ALL,05/02/2022,24,0,48%,,,8,4,2,7,,,9,1,1,1,,5,2,,,,,,,,1,,23,,,,,,,,,,,,,,,,4,,,,,13
+9625943,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,3294,FCV Farul Constanța,Local,1ST,05/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625943,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,3294,FCV Farul Constanța,Local,2ND,05/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625943,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,05/02/2022,24,1,52%,,,15,1,5,9,,,8,1,0,5,,9,1,,,,,,,,0,,16,,,,,,,,,,,,,,,,1,,,,,11
+9625943,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,05/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625943,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,05/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625950,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,56127,Chindia Târgoviște,Local,ALL,09/02/2022,25,1,44%,,,13,2,10,13,,,16,0,0,6,,4,3,,,,,,,,3,,26,,,,,,,,,,,,,,,,2,,,,,3
+9625950,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,56127,Chindia Târgoviște,Local,1ST,09/02/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625950,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,56127,Chindia Târgoviște,Local,2ND,09/02/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625950,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,116221,FC Argeș Pitești,Visita,ALL,09/02/2022,25,1,56%,,,10,5,4,15,,,16,1,0,3,,3,4,,,,,,,,1,,25,,,,,,,,,,,,,,,,5,,,,,4
+9625950,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,116221,FC Argeș Pitești,Visita,1ST,09/02/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625950,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,116221,FC Argeș Pitești,Visita,2ND,09/02/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625957,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,3301,FCSB,Local,ALL,13/02/2022,26,3,56%,,,15,1,9,13,,,18,1,0,8,,3,4,,,,,,,,1,,29,,,,,,,,,,,,,,,,1,,,,,5
+9625957,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,3301,FCSB,Local,1ST,13/02/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625957,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,3301,FCSB,Local,2ND,13/02/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625957,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,13/02/2022,26,2,44%,,,8,5,0,16,,,14,3,0,3,,4,1,,,,,,,,2,,15,,,,,,,,,,,,,,,,5,,,,,10
+9625957,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,13/02/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625957,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,13/02/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625965,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,56127,Chindia Târgoviște,Local,ALL,20/02/2022,27,1,49%,,,4,0,1,14,,,19,1,0,2,,1,1,,,,,,,,0,,19,,,,,,,,,,,,,,,,0,,,,,14
+9625965,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,56127,Chindia Târgoviște,Local,1ST,20/02/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625965,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,56127,Chindia Târgoviște,Local,2ND,20/02/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625965,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,24798,FC Botoșani,Visita,ALL,20/02/2022,27,1,51%,,,8,1,8,17,,,14,4,0,1,,6,1,,,,,,,,2,,25,,,,,,,,,,,,,,,,1,,,,,6
+9625965,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,24798,FC Botoșani,Visita,1ST,20/02/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625965,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,24798,FC Botoșani,Visita,2ND,20/02/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625973,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,116223,Universitatea Craiova,Local,ALL,25/02/2022,28,1,,,,9,4,3,17,,,10,2,0,1,,7,1,,,,,,,,2,,15,,,,,,,,,,,,,,,,4,,,,,8
+9625973,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,116223,Universitatea Craiova,Local,1ST,25/02/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625973,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,116223,Universitatea Craiova,Local,2ND,25/02/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625973,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,25/02/2022,28,0,,,,10,0,4,8,,,19,1,0,4,,5,1,,,,,,,,2,,17,,,,,,,,,,,,,,,,0,,,,,7
+9625973,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,25/02/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625973,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,25/02/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625981,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,56127,Chindia Târgoviște,Local,ALL,01/03/2022,29,1,,,,11,4,2,13,,,10,0,0,8,,2,1,,,,,,,,0,,28,,,,,,,,,,,,,,,,4,,,,,5
+9625981,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,56127,Chindia Târgoviște,Local,1ST,01/03/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625981,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,56127,Chindia Târgoviște,Local,2ND,01/03/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625981,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,204657,UTA Arad,Visita,ALL,01/03/2022,29,0,,,,11,7,8,9,,,13,0,0,4,,2,5,,,,,,,,1,,27,,,,,,,,,,,,,,,,7,,,,,6
+9625981,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,204657,UTA Arad,Visita,1ST,01/03/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625981,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,204657,UTA Arad,Visita,2ND,01/03/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625989,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,06/03/2022,30,0,0%,,,0,0,0,0,,,0,0,0,0,,0,0,,,,,,,,0,,0,,,,,,,,,,,,,,,,0,,,,,0
+9625989,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,06/03/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625989,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,06/03/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625989,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,06/03/2022,30,4,0%,,,0,0,0,0,,,0,0,0,0,,0,0,,,,,,,,0,,0,,,,,,,,,,,,,,,,0,,,,,0
+9625989,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,06/03/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625989,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,06/03/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183193,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Local,ALL,12/03/2022,1,0,,,,7,1,4,8,,,11,1,0,3,,4,0,,,,,,,,1,,15,,,,,,,,,,,,,,,,1,,,,,9
+10183193,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Local,1ST,12/03/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183193,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Local,2ND,12/03/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183193,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,312033,FCU 1948 Craiova,Visita,ALL,12/03/2022,1,0,,,,2,3,1,10,,,9,2,0,1,,1,0,,,,,,,,1,,19,,,,,,,,,,,,,,,,3,,,,,6
+10183193,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,312033,FCU 1948 Craiova,Visita,1ST,12/03/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183193,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,312033,FCU 1948 Craiova,Visita,2ND,12/03/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183174,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,7731,CS Mioveni,Local,ALL,21/03/2022,2,1,,,,10,3,3,16,,,22,3,0,1,,5,4,,,,,,,,0,,26,,,,,,,,,,,,,,,,3,,,,,5
+10183174,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,7731,CS Mioveni,Local,1ST,21/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183174,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,7731,CS Mioveni,Local,2ND,21/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183174,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,21/03/2022,2,0,,,,6,0,3,15,,,16,1,0,3,,2,1,,,,,,,,7,,19,,,,,,,,,,,,,,,,0,,,,,11
+10183174,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,21/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183174,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,21/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183176,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Local,ALL,01/04/2022,3,0,50%,,,15,4,2,15,,,15,2,0,8,,7,,,,,,,,,2,,26,,,,,,,,,,,,,,,,4,,,,,7
+10183176,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Local,1ST,01/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183176,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Local,2ND,01/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183176,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,3292,FC Dinamo București,Visita,ALL,01/04/2022,3,2,50%,,,9,8,4,14,,,17,3,0,6,,3,,,,,,,,,1,,28,,,,,,,,,,,,,,,,8,,,,,16
+10183176,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,3292,FC Dinamo București,Visita,1ST,01/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183176,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,3292,FC Dinamo București,Visita,2ND,01/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183170,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,08/04/2022,4,0,,,,6,5,5,13,,,9,2,0,2,,4,,,,,,,,,0,,13,,,,,,,,,,,,,,,,5,,,,,14
+10183170,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,08/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183170,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,08/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183170,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,08/04/2022,4,3,,,,14,1,8,6,,,13,1,0,8,,6,,,,,,,,,3,,27,,,,,,,,,,,,,,,,1,,,,,8
+10183170,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,08/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183170,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,08/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183168,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Local,ALL,15/04/2022,5,1,46%,,,13,2,2,10,,,13,0,0,3,,9,1,,,,,,,,1,,19,,,,,,,,,,,,,,,,2,,,,,5
+10183168,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Local,1ST,15/04/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183168,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Local,2ND,15/04/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183168,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,24798,FC Botoșani,Visita,ALL,15/04/2022,5,2,54%,,,5,2,5,12,,,11,0,0,4,,1,0,,,,,,,,1,,9,,,,,,,,,,,,,,,,2,,,,,11
+10183168,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,24798,FC Botoșani,Visita,1ST,15/04/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183168,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,24798,FC Botoșani,Visita,2ND,15/04/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183220,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,204657,UTA Arad,Local,ALL,23/04/2022,6,1,65%,,,17,3,5,8,,,17,2,0,5,,8,4,,,,,,,,2,,27,,,,,,,,,,,,,,,,3,,,,,7
+10183220,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,204657,UTA Arad,Local,1ST,23/04/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183220,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,204657,UTA Arad,Local,2ND,23/04/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183220,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,23/04/2022,6,0,35%,,,11,4,3,17,,,10,3,0,3,,3,5,,,,,,,,0,,23,,,,,,,,,,,,,,,,4,,,,,15
+10183220,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,23/04/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183220,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,23/04/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183226,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Local,ALL,29/04/2022,7,0,,,,6,1,1,7,,,10,1,0,2,,3,1,,,,,,,,2,,32,,,,,,,,,,,,,,,,1,,,,,6
+10183226,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Local,1ST,29/04/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183226,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Local,2ND,29/04/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183226,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,295403,FC Rapid București,Visita,ALL,29/04/2022,7,0,,,,6,2,4,9,,,9,0,0,1,,4,1,,,,,,,,1,,30,,,,,,,,,,,,,,,,2,,,,,6
+10183226,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,295403,FC Rapid București,Visita,1ST,29/04/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183226,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,295403,FC Rapid București,Visita,2ND,29/04/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183189,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,ALL,08/05/2022,8,2,,,,14,2,3,15,,,14,4,0,4,,7,3,,,,,,,,1,,18,,,,,,,,,,,,,,,,2,,,,,11
+10183189,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,1ST,08/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183189,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,2ND,08/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183189,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,08/05/2022,8,1,,,,15,2,6,10,,,16,3,0,3,,7,5,,,,,,,,4,,17,,,,,,,,,,,,,,,,2,,,,,13
+10183189,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,08/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183189,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,08/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183954,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,ALL,13/05/2022,9,3,,,,28,1,7,16,,,10,0,0,11,,6,11,,,,,,,,4,,8,,,,,,,,,,,,,,,,1,,,,,3
+10183954,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,1ST,13/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183954,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,2ND,13/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183954,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,13/05/2022,9,0,,,,3,8,1,10,,,20,1,0,1,,2,0,,,,,,,,0,,26,,,,,,,,,,,,,,,,8,,,,,13
+10183954,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,13/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183954,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,13/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10319780,152,37234,NORMAL,PLAYOFF,Qualification round 1,LEAGUE,24790,Concordia Chiajna,Local,ALL,21/05/2022,1,2,50%,,,7,0,2,14,,,9,2,0,3,,1,3,,,,,,,,1,,29,,,,,,,,,,,,,,,,0,,,,,6
+10319780,152,37234,NORMAL,PLAYOFF,Qualification round 1,LEAGUE,24790,Concordia Chiajna,Local,1ST,21/05/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10319780,152,37234,NORMAL,PLAYOFF,Qualification round 1,LEAGUE,24790,Concordia Chiajna,Local,2ND,21/05/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10319780,152,37234,NORMAL,PLAYOFF,Qualification round 1,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,21/05/2022,1,1,50%,,,3,2,1,9,,,15,1,0,1,,2,0,,,,,,,,0,,29,,,,,,,,,,,,,,,,2,,,,,13
+10319780,152,37234,NORMAL,PLAYOFF,Qualification round 1,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,21/05/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10319780,152,37234,NORMAL,PLAYOFF,Qualification round 1,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,21/05/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10319782,152,37234,NORMAL,PLAYOFF,Qualification round 1,LEAGUE,56127,Chindia Târgoviște,Local,ALL,29/05/2022,1,1,,,,34,0,12,12,,,18,3,0,6,,12,16,,,,,,,,2,,39,,,,,,,,,,,,,,,,0,,,,,7
+10319782,152,37234,NORMAL,PLAYOFF,Qualification round 1,LEAGUE,56127,Chindia Târgoviște,Local,1ST,29/05/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10319782,152,37234,NORMAL,PLAYOFF,Qualification round 1,LEAGUE,56127,Chindia Târgoviște,Local,2ND,29/05/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10319782,152,37234,NORMAL,PLAYOFF,Qualification round 1,LEAGUE,24790,Concordia Chiajna,Visita,ALL,29/05/2022,1,0,,,,2,5,1,17,,,14,3,0,0,,2,0,,,,,,,,1,,30,,,,,,,,,,,,,,,,5,,,,,21
+10319782,152,37234,NORMAL,PLAYOFF,Qualification round 1,LEAGUE,24790,Concordia Chiajna,Visita,1ST,29/05/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10319782,152,37234,NORMAL,PLAYOFF,Qualification round 1,LEAGUE,24790,Concordia Chiajna,Visita,2ND,29/05/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10427844,152,42576,NORMAL,REGULAR,Round 1,LEAGUE,24798,FC Botoșani,Local,ALL,18/07/2022,1,3,41%,1.49,2,9,2,4,16,292,10,14,2,1,3,0,6,0,6,3,2,,,14,5,0,214,26,37,38/72 (53%),24/53 (45%),4/11 (36%),39%,13,29/79 (37%),18/43 (42%),5/16 (31%),50%,10,7,57,21,,2,,,,2,11
+10427844,152,42576,NORMAL,REGULAR,Round 1,LEAGUE,24798,FC Botoșani,Local,1ST,18/07/2022,1,3,49%,0.00,2,6,0,3,,151,2,9,0,0,3,0,3,0,4,2,2,,,,3,0,120,14,16,,15/26 (58%),3/7 (43%),33%,7,13/42 (31%),7/18 (39%),2/7 (29%),50%,2,2,27,4,,0,,,,,2
+10427844,152,42576,NORMAL,REGULAR,Round 1,LEAGUE,24798,FC Botoșani,Local,2ND,18/07/2022,1,0,34%,0.00,0,3,2,1,,141,8,5,2,1,0,0,3,0,2,1,0,,,,2,0,94,12,21,,9/27 (33%),1/4 (25%),44%,6,16/37 (43%),11/25 (44%),3/9 (33%),50%,8,5,30,17,,2,,,,,9
+10427844,152,42576,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,18/07/2022,1,2,59%,0.94,0,16,0,5,14,425,24,16,1,1,4,0,5,7,9,7,0,,,15,2,3,337,28,55,71/105 (68%),22/51 (43%),4/23 (17%),61%,6,50/79 (63%),25/43 (58%),10/14 (71%),58%,24,8,53,13,,0,,,,0,8
+10427844,152,42576,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,18/07/2022,1,1,51%,0.00,0,3,0,2,,155,12,12,1,0,1,0,1,1,2,1,0,,,,1,2,123,8,20,,9/22 (41%),2/10 (20%),67%,1,29/42 (69%),11/18 (61%),5/6 (83%),50%,12,5,24,10,,0,,,,,4
+10427844,152,42576,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,18/07/2022,1,1,66%,0.00,0,13,0,3,,270,12,4,0,1,3,0,4,6,7,6,0,,,,1,1,214,20,35,,13/29 (45%),2/13 (15%),56%,5,21/37 (57%),14/25 (56%),5/8 (63%),67%,12,3,29,3,,0,,,,,4
+10427881,152,42576,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Local,ALL,25/07/2022,2,1,46%,0.85,3,12,2,3,15,411,28,9,0,,5,0,6,1,4,8,1,2,,7,3,0,330,18,56,48/86 (56%),19/47 (40%),2/12 (17%),51%,15,50/101 (50%),17/31 (55%),13/22 (59%),43%,28,10,68,16,0,2,,,0,,9
+10427881,152,42576,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Local,1ST,25/07/2022,2,1,45%,0.00,1,2,1,0,,219,11,4,0,,2,0,0,0,1,1,1,0,,,2,0,181,12,23,,6/21 (29%),1/6 (17%),46%,9,22/45 (49%),4/11 (36%),7/9 (78%),27%,11,6,30,6,,1,,,,,4
+10427881,152,42576,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Local,2ND,25/07/2022,2,0,47%,0.00,2,10,1,3,,192,17,5,0,,3,0,6,1,3,7,0,2,,,1,0,149,6,33,,13/26 (50%),1/6 (17%),54%,6,28/56 (50%),13/20 (65%),6/13 (46%),53%,17,4,38,10,,1,,,,,5
+10427881,152,42576,NORMAL,REGULAR,Round 2,LEAGUE,260356,FC Hermannstadt,Visita,ALL,25/07/2022,2,1,54%,1.05,1,9,4,3,10,487,24,15,1,,2,0,5,2,4,5,1,0,,8,3,2,409,19,55,61/99 (62%),28/51 (55%),4/16 (25%),49%,18,51/101 (50%),14/31 (45%),12/22 (55%),71%,24,6,62,10,2,4,,,1,,10
+10427881,152,42576,NORMAL,REGULAR,Round 2,LEAGUE,260356,FC Hermannstadt,Visita,1ST,25/07/2022,2,1,55%,0.00,1,3,1,1,,271,11,7,0,,1,0,2,0,2,1,1,0,,,0,0,238,9,19,,13/21 (62%),1/8 (13%),54%,7,23/45 (51%),7/11 (64%),5/9 (56%),82%,11,3,29,3,,1,,,,,2
+10427881,152,42576,NORMAL,REGULAR,Round 2,LEAGUE,260356,FC Hermannstadt,Visita,2ND,25/07/2022,2,0,53%,0.00,0,6,3,2,,216,13,8,1,,1,0,3,2,2,4,0,0,,,3,2,171,10,36,,15/30 (50%),3/8 (38%),46%,11,28/56 (50%),7/20 (35%),7/13 (54%),62%,13,3,33,7,,3,,,,,8
+10427849,152,42576,NORMAL,REGULAR,Round 3,LEAGUE,3294,FCV Farul Constanța,Local,ALL,29/07/2022,3,0,64%,1.88,1,14,3,8,12,516,17,10,4,,4,1,5,5,5,9,,1,,,2,2,417,29,73,,33/60 (55%),3/29 (10%),46%,7,30/67 (45%),20/42 (48%),5/15 (33%),41%,17,4,77,11,,3,,,,,7
+10427849,152,42576,NORMAL,REGULAR,Round 3,LEAGUE,3294,FCV Farul Constanța,Local,1ST,29/07/2022,3,0,71%,0.00,0,7,1,3,,331,10,7,2,,1,0,1,5,2,5,,0,,,2,1,272,9,47,,22/36 (61%),1/10 (10%),57%,1,18/26 (69%),8/20 (40%),2/2 (100%),20%,10,1,39,3,,1,,,,,4
+10427849,152,42576,NORMAL,REGULAR,Round 3,LEAGUE,3294,FCV Farul Constanța,Local,2ND,29/07/2022,3,0,56%,0.00,1,7,2,5,,185,7,3,2,,3,1,4,0,3,4,,1,,,0,1,145,20,26,,11/24 (46%),2/19 (11%),38%,6,12/41 (29%),12/22 (55%),3/13 (23%),71%,7,3,38,8,,2,,,,,3
+10427849,152,42576,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,29/07/2022,3,0,36%,0.40,1,9,4,0,10,292,17,10,2,,3,0,6,0,3,6,,1,,,2,0,193,14,47,,22/72 (31%),3/14 (21%),54%,11,37/67 (55%),22/42 (52%),11/17 (65%),71%,17,14,68,25,,4,,,,,10
+10427849,152,42576,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,29/07/2022,3,0,29%,0.00,0,5,1,0,,138,1,3,1,,1,0,4,0,2,3,,0,,,0,0,86,8,20,,7/33 (21%),3/6 (50%),43%,8,8/26 (31%),12/20 (60%),4/6 (67%),100%,1,7,32,8,,1,,,,,4
+10427849,152,42576,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,29/07/2022,3,0,44%,0.00,1,4,3,0,,154,16,7,1,,2,0,2,0,1,3,,1,,,2,0,107,6,27,,15/39 (38%),0/8 (0%),62%,3,29/41 (71%),10/22 (45%),7/11 (64%),69%,16,7,36,17,,3,,,,,6
+10428026,152,42576,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Local,ALL,07/08/2022,4,0,67%,1.95,0,20,3,9,9,499,21,14,3,0,3,1,10,7,12,8,0,,,23,3,2,398,19,63,88/135 (65%),29/64 (45%),10/35 (29%),50%,7,43/76 (57%),16/41 (39%),8/18 (44%),48%,21,8,68,11,,3,,,1,0,6
+10428026,152,42576,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Local,1ST,07/08/2022,4,0,62%,0.00,0,4,3,3,,251,12,10,0,0,2,0,2,0,3,1,0,,,,2,1,198,6,28,,19/41 (46%),1/7 (14%),53%,1,23/38 (61%),10/24 (42%),1/7 (14%),42%,12,6,31,9,,3,,,,,5
+10428026,152,42576,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Local,2ND,07/08/2022,4,0,73%,0.00,0,16,0,6,,248,9,4,3,0,1,1,8,7,9,7,0,,,,1,1,200,13,35,,10/23 (43%),9/28 (32%),47%,6,20/38 (53%),6/17 (35%),7/11 (64%),56%,9,2,37,2,,0,,,,,1
+10428026,152,42576,NORMAL,REGULAR,Round 4,LEAGUE,5287,CFR 1907 Cluj,Visita,ALL,07/08/2022,4,2,33%,1.07,1,11,3,2,14,248,17,9,1,2,5,0,5,1,6,5,1,,,21,3,1,159,19,51,46/88 (52%),29/65 (45%),3/11 (27%),50%,7,33/76 (43%),25/41 (61%),7/21 (33%),47%,17,11,57,26,,3,,,0,1,16
+10428026,152,42576,NORMAL,REGULAR,Round 4,LEAGUE,5287,CFR 1907 Cluj,Visita,1ST,07/08/2022,4,2,38%,0.00,1,9,2,2,,149,7,3,0,0,5,0,4,0,6,3,1,,,,1,0,104,13,28,,20/33 (61%),3/9 (33%),47%,1,15/38 (39%),14/24 (58%),5/16 (31%),29%,7,7,30,2,,2,,,,,4
+10428026,152,42576,NORMAL,REGULAR,Round 4,LEAGUE,5287,CFR 1907 Cluj,Visita,2ND,07/08/2022,4,0,27%,0.00,0,2,1,0,,99,10,6,1,2,0,0,1,1,0,2,0,,,,2,1,55,6,23,,9/32 (28%),0/2 (0%),53%,6,18/38 (47%),11/17 (65%),2/5 (40%),60%,10,4,27,24,,1,,,,,12
+10427804,152,42576,NORMAL,REGULAR,Round 5,LEAGUE,3301,FCSB,Local,ALL,14/08/2022,5,3,75%,2.57,4,30,1,12,7,591,14,13,1,0,10,1,9,11,18,12,2,2,1,51,6,0,519,12,93,160/207 (77%),45/64 (70%),9/32 (28%),53%,10,35/73 (48%),25/40 (63%),8/17 (47%),50%,14,4,51,6,1,1,,0,1,0,7
+10427804,152,42576,NORMAL,REGULAR,Round 5,LEAGUE,3301,FCSB,Local,1ST,14/08/2022,5,0,77%,0.00,1,14,0,4,,316,8,8,0,0,1,1,7,6,7,7,0,1,0,,2,0,277,3,49,,23/35 (66%),5/19 (26%),60%,3,19/34 (56%),18/28 (64%),3/4 (75%),50%,8,2,26,3,,0,,,,,4
+10427804,152,42576,NORMAL,REGULAR,Round 5,LEAGUE,3301,FCSB,Local,2ND,14/08/2022,5,3,73%,0.00,3,16,1,8,,275,6,5,1,0,9,0,2,5,11,5,2,1,1,,4,0,242,9,44,,22/29 (76%),4/13 (31%),45%,7,16/39 (41%),7/12 (58%),5/13 (38%),50%,6,2,25,3,,1,,,,,3
+10427804,152,42576,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,14/08/2022,5,2,25%,0.68,0,9,7,3,13,204,19,7,3,1,3,0,3,3,6,3,0,0,0,10,1,1,132,20,36,19/45 (42%),19/61 (31%),2/7 (29%),47%,10,38/73 (52%),15/40 (38%),12/16 (75%),53%,19,10,42,34,0,7,,1,1,1,11
+10427804,152,42576,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,14/08/2022,5,2,23%,0.00,0,6,1,2,,97,4,4,0,1,2,0,2,2,4,2,0,0,0,,1,1,62,11,15,,13/34 (38%),1/5 (20%),40%,5,15/34 (44%),10/28 (36%),7/10 (70%),100%,4,5,20,16,,1,,,,,9
+10427804,152,42576,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,14/08/2022,5,0,27%,0.00,0,3,6,1,,107,15,3,3,0,1,0,1,1,2,1,0,0,0,,0,0,70,9,21,,6/27 (22%),1/2 (50%),55%,5,23/39 (59%),5/12 (42%),5/6 (83%),40%,15,5,22,18,,6,,,,,2
+10427995,152,42576,NORMAL,REGULAR,Round 7,LEAGUE,116221,FC Argeș Pitești,Local,ALL,28/08/2022,7,2,45%,1.35,2,12,5,6,15,295,12,13,2,,5,0,6,1,7,5,1,1,1,19,1,3,198,33,71,54/111 (49%),25/66 (38%),8/19 (42%),51%,8,33/64 (52%),25/50 (50%),8/13 (62%),58%,12,5,58,9,1,5,,1,,,9
+10427995,152,42576,NORMAL,REGULAR,Round 7,LEAGUE,116221,FC Argeș Pitești,Local,1ST,28/08/2022,7,0,53%,0.00,1,6,2,4,,178,5,5,0,,3,0,2,1,4,2,0,1,0,,0,2,127,16,35,,17/35 (49%),5/13 (38%),53%,4,15/32 (47%),13/21 (62%),5/8 (63%),60%,5,3,32,3,,2,,,,,4
+10427995,152,42576,NORMAL,REGULAR,Round 7,LEAGUE,116221,FC Argeș Pitești,Local,2ND,28/08/2022,7,2,36%,0.00,1,6,3,2,,117,7,8,2,,2,0,4,0,3,3,1,0,1,,1,1,71,17,36,,8/31 (26%),3/6 (50%),49%,4,18/32 (56%),12/29 (41%),3/5 (60%),57%,7,2,26,6,,3,,,,,5
+10427995,152,42576,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,28/08/2022,7,1,55%,1.06,2,12,3,2,13,374,13,14,1,,6,0,4,2,8,4,1,1,0,14,4,3,289,20,70,58/103 (56%),17/49 (35%),5/13 (38%),49%,6,31/64 (48%),25/50 (50%),4/10 (40%),77%,13,11,53,25,0,3,,1,,,10
+10427995,152,42576,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,28/08/2022,7,1,47%,0.00,1,4,3,0,,164,7,6,0,,3,0,1,0,4,0,1,0,0,,0,2,119,12,29,,9/30 (30%),2/3 (67%),47%,2,17/32 (53%),8/21 (38%),4/7 (57%),57%,7,7,29,7,,3,,,,,4
+10427995,152,42576,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,28/08/2022,7,0,64%,0.00,1,8,0,2,,210,6,8,1,,3,0,3,2,4,4,0,1,0,,4,1,170,8,41,,8/19 (42%),3/10 (30%),51%,4,14/32 (44%),17/29 (59%),0/3 (0%),100%,6,4,24,18,,0,,,,,6
+10427970,152,42576,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Local,ALL,31/08/2022,8,2,66%,2.24,0,26,1,8,7,572,12,7,1,0,9,1,8,9,16,10,0,0,,42,0,2,484,22,97,152/203 (75%),44/73 (60%),11/32 (34%),49%,12,23/49 (47%),17/33 (52%),4/8 (50%),92%,12,8,64,12,,1,,0,,,6
+10427970,152,42576,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Local,1ST,31/08/2022,8,0,63%,0.00,0,11,1,4,,324,4,2,1,0,2,1,4,5,7,4,0,0,,,0,1,276,8,43,,21/37 (57%),3/9 (33%),42%,6,8/20 (40%),8/18 (44%),2/4 (50%),75%,4,2,35,10,,1,,,,,3
+10427970,152,42576,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Local,2ND,31/08/2022,8,2,69%,0.00,0,15,0,4,,248,8,5,0,0,7,0,4,4,9,6,0,0,,,0,1,208,14,54,,23/36 (64%),8/23 (35%),55%,6,15/29 (52%),9/15 (60%),2/4 (50%),100%,8,6,29,2,,0,,,,,3
+10427970,152,42576,NORMAL,REGULAR,Round 8,LEAGUE,25856,FC Petrolul Ploiești,Visita,ALL,31/08/2022,8,3,34%,2.33,4,14,7,1,10,292,16,7,3,1,4,1,7,3,9,5,2,2,,15,2,2,218,17,40,41/64 (64%),22/58 (38%),6/19 (32%),51%,6,26/49 (53%),16/33 (48%),3/9 (33%),56%,16,15,64,31,,7,,1,,,9
+10427970,152,42576,NORMAL,REGULAR,Round 8,LEAGUE,25856,FC Petrolul Ploiești,Visita,1ST,31/08/2022,8,2,37%,0.00,2,11,2,0,,178,8,2,0,0,3,1,5,3,7,4,1,1,,,1,1,139,8,22,,11/27 (41%),4/12 (33%),58%,2,12/20 (60%),10/18 (56%),2/4 (50%),38%,8,10,35,12,,2,,,,,3
+10427970,152,42576,NORMAL,REGULAR,Round 8,LEAGUE,25856,FC Petrolul Ploiești,Visita,2ND,31/08/2022,8,1,31%,0.00,2,3,5,1,,114,8,5,3,1,1,0,2,0,2,1,1,1,,,1,1,79,9,18,,11/31 (35%),2/7 (29%),45%,4,14/29 (48%),6/15 (40%),1/5 (20%),75%,8,5,29,19,,5,,,,,6
+10427976,152,42576,NORMAL,REGULAR,Round 9,LEAGUE,204657,UTA Arad,Local,ALL,03/09/2022,9,1,70%,1.17,,14,2,4,19,498,15,17,1,,2,1,7,5,8,6,,,,24,5,3,397,20,79,109/152 (72%),34/66 (52%),11/44 (25%),50%,11,42/92 (46%),28/48 (58%),10/25 (40%),60%,15,12,81,9,,2,,,1,1,3
+10427976,152,42576,NORMAL,REGULAR,Round 9,LEAGUE,204657,UTA Arad,Local,1ST,03/09/2022,9,0,69%,0.00,,4,2,2,,241,4,8,0,,0,0,3,1,0,4,,,,,2,3,186,9,26,,14/29 (48%),1/14 (7%),51%,4,15/32 (47%),13/23 (57%),3/10 (30%),75%,4,6,41,7,,2,,,,,1
+10427976,152,42576,NORMAL,REGULAR,Round 9,LEAGUE,204657,UTA Arad,Local,2ND,03/09/2022,9,1,71%,0.00,,10,0,2,,257,11,9,1,,2,1,4,4,8,2,,,,,3,0,211,11,53,,20/37 (54%),10/30 (33%),49%,7,27/60 (45%),15/25 (60%),7/15 (47%),55%,11,6,40,2,,0,,,,,2
+10427976,152,42576,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,03/09/2022,9,1,30%,0.16,,4,1,2,17,226,26,19,4,,2,1,1,1,1,3,,,,6,2,1,105,24,70,39/107 (36%),22/77 (29%),0/7 (0%),50%,9,50/92 (54%),20/48 (42%),5/11 (45%),42%,26,6,57,35,,1,,,1,1,15
+10427976,152,42576,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,03/09/2022,9,1,31%,0.00,,3,0,2,,111,11,6,2,,2,1,1,0,1,2,,,,,1,0,51,17,37,,9/35 (26%),0/5 (0%),49%,3,17/32 (53%),10/23 (43%),0/1 (0%),36%,11,4,27,6,,0,,,,,8
+10427976,152,42576,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,03/09/2022,9,0,29%,0.00,,1,1,0,,115,15,13,2,,0,0,0,1,0,1,,,,,1,1,54,7,33,,13/42 (31%),0/2 (0%),51%,6,33/60 (55%),10/25 (40%),5/10 (50%),47%,15,2,30,29,,1,,,,,7
+10428023,152,42576,NORMAL,REGULAR,Round 10,LEAGUE,56127,Chindia Târgoviște,Local,ALL,10/09/2022,10,1,41%,0.58,2,9,3,3,8,325,13,7,3,,4,0,4,1,5,4,1,1,,15,1,3,209,28,52,69/119 (58%),29/69 (42%),6/25 (24%),59%,5,27/49 (55%),28/45 (62%),7/11 (64%),69%,13,13,68,23,,3,,,1,0,7
+10428023,152,42576,NORMAL,REGULAR,Round 10,LEAGUE,56127,Chindia Târgoviște,Local,1ST,10/09/2022,10,1,39%,0.00,2,5,1,2,,155,9,3,2,,3,0,1,1,4,1,1,1,,,1,0,102,14,23,,12/29 (41%),3/13 (23%),60%,5,16/31 (52%),12/16 (75%),4/7 (57%),67%,9,8,39,12,,1,,,,,2
+10428023,152,42576,NORMAL,REGULAR,Round 10,LEAGUE,56127,Chindia Târgoviște,Local,2ND,10/09/2022,10,0,44%,0.00,0,4,2,1,,170,4,4,1,,1,0,3,0,1,3,0,0,,,0,3,107,14,29,,17/40 (43%),3/12 (25%),57%,0,11/18 (61%),16/29 (55%),3/4 (75%),75%,4,5,29,11,,2,,,,,5
+10428023,152,42576,NORMAL,REGULAR,Round 10,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,ALL,10/09/2022,10,2,59%,1.99,2,11,3,5,7,467,9,8,0,,5,0,3,3,7,4,2,0,,20,4,1,355,21,70,75/127 (59%),24/67 (36%),5/25 (20%),41%,9,22/49 (45%),17/45 (38%),5/9 (56%),89%,9,11,72,23,,3,,,2,1,10
+10428023,152,42576,NORMAL,REGULAR,Round 10,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,1ST,10/09/2022,10,1,61%,0.00,1,7,2,3,,245,8,3,0,,2,0,2,3,4,3,1,0,,,2,0,192,10,34,,16/32 (50%),2/14 (14%),40%,6,15/31 (48%),4/16 (25%),4/7 (57%),88%,8,5,39,10,,2,,,,,3
+10428023,152,42576,NORMAL,REGULAR,Round 10,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,2ND,10/09/2022,10,1,56%,0.00,1,4,1,2,,222,1,5,0,,3,0,1,0,3,1,1,0,,,2,1,163,11,36,,8/35 (23%),3/11 (27%),43%,3,7/18 (39%),13/29 (45%),1/2 (50%),100%,1,6,33,13,,1,,,,,7
+10427831,152,42576,NORMAL,REGULAR,Round 11,LEAGUE,7734,FC Universitatea Cluj,Local,ALL,18/09/2022,11,1,46%,0.41,2,9,2,1,8,439,11,5,4,,4,0,4,1,4,5,1,1,,,0,3,328,27,59,,25/58 (43%),2/12 (17%),48%,11,26/56 (46%),21/42 (50%),10/15 (67%),36%,11,13,83,29,,2,,,,,12
+10427831,152,42576,NORMAL,REGULAR,Round 11,LEAGUE,7734,FC Universitatea Cluj,Local,1ST,18/09/2022,11,0,56%,0.00,0,4,0,1,,289,6,3,2,,2,0,2,0,2,2,0,0,,,0,3,234,13,27,,16/28 (57%),2/6 (33%),49%,5,12/24 (50%),7/15 (47%),3/5 (60%),50%,6,7,40,4,,0,,,,,5
+10427831,152,42576,NORMAL,REGULAR,Round 11,LEAGUE,7734,FC Universitatea Cluj,Local,2ND,18/09/2022,11,1,35%,0.00,2,5,2,0,,150,5,2,2,,2,0,2,1,2,3,1,1,,,0,0,94,14,32,,9/30 (30%),0/6 (0%),47%,6,14/32 (44%),14/27 (52%),7/10 (70%),20%,5,6,43,25,,2,,,,,7
+10427831,152,42576,NORMAL,REGULAR,Round 11,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,18/09/2022,11,0,54%,0.85,1,17,3,0,7,508,16,8,2,,2,0,12,3,5,12,0,1,,,1,1,392,20,68,,33/73 (45%),0/18 (0%),52%,6,30/56 (54%),21/42 (50%),6/11 (55%),50%,16,17,90,17,,3,,,,,5
+10427831,152,42576,NORMAL,REGULAR,Round 11,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,18/09/2022,11,0,44%,0.00,0,7,2,0,,231,7,4,1,,0,0,6,1,1,6,0,0,,,0,1,173,9,27,,13/34 (38%),0/2 (0%),51%,4,12/24 (50%),8/15 (53%),1/3 (33%),29%,7,8,41,6,,2,,,,,4
+10427831,152,42576,NORMAL,REGULAR,Round 11,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,18/09/2022,11,0,65%,0.00,1,10,1,0,,277,9,4,1,,2,0,6,2,4,6,0,1,,,1,0,219,11,41,,20/39 (51%),0/16 (0%),53%,2,18/32 (56%),13/27 (48%),5/8 (63%),67%,9,9,49,11,,1,,,,,1
+10427817,152,42576,NORMAL,REGULAR,Round 12,LEAGUE,56127,Chindia Târgoviște,Local,ALL,03/10/2022,12,2,35%,1.59,2,13,2,5,16,237,18,18,3,,6,0,5,2,5,8,2,0,,14,5,1,152,20,50,66/99 (67%),24/66 (36%),3/17 (18%),48%,10,41/82 (50%),19/43 (44%),5/12 (42%),56%,18,7,69,34,,2,,0,2,0,7
+10427817,152,42576,NORMAL,REGULAR,Round 12,LEAGUE,56127,Chindia Târgoviște,Local,1ST,03/10/2022,12,1,34%,0.00,1,10,0,3,,117,7,6,2,,4,0,4,2,4,6,1,0,,,0,1,84,10,23,,15/29 (52%),1/9 (11%),43%,4,17/35 (49%),6/19 (32%),4/7 (57%),43%,7,4,34,10,,0,,,,,3
+10427817,152,42576,NORMAL,REGULAR,Round 12,LEAGUE,56127,Chindia Târgoviște,Local,2ND,03/10/2022,12,1,37%,0.00,1,3,2,2,,120,11,12,1,,2,0,1,0,1,2,1,0,,,5,0,68,10,27,,9/37 (24%),2/8 (25%),52%,6,24/47 (51%),13/24 (54%),1/5 (20%),64%,11,3,35,24,,2,,,,,4
+10427817,152,42576,NORMAL,REGULAR,Round 12,LEAGUE,295403,FC Rapid București,Visita,ALL,03/10/2022,12,1,65%,0.66,3,16,4,4,18,445,17,16,4,,3,1,8,5,6,10,0,3,,27,3,1,341,28,79,81/153 (53%),31/65 (48%),5/20 (25%),52%,11,41/82 (50%),24/43 (56%),8/15 (53%),76%,17,5,62,21,,4,,2,2,1,6
+10427817,152,42576,NORMAL,REGULAR,Round 12,LEAGUE,295403,FC Rapid București,Visita,1ST,03/10/2022,12,0,66%,0.00,2,9,3,4,,232,7,9,0,,0,0,4,5,3,6,0,2,,,2,1,185,10,29,,10/22 (45%),3/11 (27%),57%,5,18/35 (51%),13/19 (68%),2/4 (50%),86%,7,2,29,11,,3,,,,,3
+10427817,152,42576,NORMAL,REGULAR,Round 12,LEAGUE,295403,FC Rapid București,Visita,2ND,03/10/2022,12,1,63%,0.00,1,7,1,0,,213,10,7,4,,3,1,4,0,3,4,0,1,,,1,0,156,18,50,,21/43 (49%),2/9 (22%),48%,6,23/47 (49%),11/24 (46%),6/11 (55%),70%,10,3,33,10,,1,,,,,3
+10427847,152,42576,NORMAL,REGULAR,Round 13,LEAGUE,312033,FCU 1948 Craiova,Local,ALL,10/10/2022,13,0,61%,0.56,0,9,3,3,14,490,19,13,1,,3,0,3,3,6,3,0,,,23,2,1,392,30,54,92/135 (68%),22/51 (43%),4/18 (22%),52%,11,37/66 (56%),14/32 (44%),5/7 (71%),47%,19,3,57,14,,3,,0,0,,8
+10427847,152,42576,NORMAL,REGULAR,Round 13,LEAGUE,312033,FCU 1948 Craiova,Local,1ST,10/10/2022,13,0,59%,0.00,0,3,2,1,,256,9,3,1,,1,0,2,0,2,1,0,,,,0,0,207,13,24,,13/26 (50%),0/7 (0%),46%,9,14/31 (45%),9/19 (47%),2/3 (67%),44%,9,2,31,6,,2,,,,,5
+10427847,152,42576,NORMAL,REGULAR,Round 13,LEAGUE,312033,FCU 1948 Craiova,Local,2ND,10/10/2022,13,0,63%,0.00,0,6,1,2,,234,10,10,0,,2,0,1,3,4,2,0,,,,2,1,185,17,30,,9/25 (36%),4/11 (36%),58%,2,23/35 (66%),5/13 (38%),3/4 (75%),50%,10,1,26,8,,1,,,,,3
+10427847,152,42576,NORMAL,REGULAR,Round 13,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,10/10/2022,13,1,39%,1.35,1,18,3,4,13,312,13,12,3,,4,1,7,7,11,7,1,,,19,4,1,231,30,62,63/103 (61%),23/55 (42%),1/21 (5%),48%,10,29/66 (44%),18/32 (56%),4/13 (31%),38%,13,10,59,24,,3,,1,2,,6
+10427847,152,42576,NORMAL,REGULAR,Round 13,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,10/10/2022,13,0,41%,0.00,0,10,1,2,,176,10,5,0,,2,0,3,5,6,4,0,,,,2,0,132,18,35,,11/25 (44%),1/11 (9%),54%,5,17/31 (55%),10/19 (53%),2/6 (33%),30%,10,6,33,8,,1,,,,,3
+10427847,152,42576,NORMAL,REGULAR,Round 13,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,10/10/2022,13,1,37%,0.00,1,8,2,2,,136,3,7,3,,2,1,4,2,5,3,1,,,,2,1,99,12,27,,12/30 (40%),0/10 (0%),42%,5,12/35 (34%),8/13 (62%),2/7 (29%),67%,3,4,26,16,,2,,,,,3
+10427960,152,42576,NORMAL,REGULAR,Round 14,LEAGUE,56127,Chindia Târgoviște,Local,ALL,16/10/2022,14,1,54%,0.88,1,14,2,4,15,415,20,14,3,,7,0,4,3,5,9,,1,1,,4,3,326,34,39,,24/52 (46%),5/26 (19%),48%,9,38/75 (51%),19/45 (42%),4/10 (40%),70%,20,8,74,28,,2,,,,,4
+10427960,152,42576,NORMAL,REGULAR,Round 14,LEAGUE,56127,Chindia Târgoviște,Local,1ST,16/10/2022,14,0,50%,0.00,1,6,1,3,,217,8,7,1,,4,0,1,1,1,5,,1,1,,1,1,173,20,19,,12/27 (44%),1/9 (11%),45%,6,19/43 (44%),7/15 (47%),4/9 (44%),63%,8,5,39,12,,1,,,,,0
+10427960,152,42576,NORMAL,REGULAR,Round 14,LEAGUE,56127,Chindia Târgoviște,Local,2ND,16/10/2022,14,1,58%,0.00,0,8,1,1,,198,12,7,2,,3,0,3,2,4,4,,0,0,,3,2,153,14,20,,12/25 (48%),4/17 (24%),50%,3,19/32 (59%),12/30 (40%),0/1 (0%),75%,12,3,35,16,,1,,,,,4
+10427960,152,42576,NORMAL,REGULAR,Round 14,LEAGUE,7731,CS Mioveni,Visita,ALL,16/10/2022,14,0,46%,0.79,0,8,6,5,14,362,15,15,5,,2,1,5,1,5,3,,0,0,,0,0,259,31,77,,32/71 (45%),6/19 (32%),52%,13,37/75 (49%),26/45 (58%),7/14 (50%),47%,15,6,69,23,,6,,,,,5
+10427960,152,42576,NORMAL,REGULAR,Round 14,LEAGUE,7731,CS Mioveni,Visita,1ST,16/10/2022,14,0,50%,0.00,0,3,4,3,,217,11,8,1,,1,0,1,1,1,2,,0,0,,0,0,161,13,37,,14/36 (39%),2/7 (29%),55%,5,24/43 (56%),8/15 (53%),5/8 (63%),55%,11,3,39,10,,4,,,,,0
+10427960,152,42576,NORMAL,REGULAR,Round 14,LEAGUE,7731,CS Mioveni,Visita,2ND,16/10/2022,14,0,42%,0.00,0,5,2,2,,145,4,7,4,,1,1,4,0,4,1,,0,0,,0,0,98,18,40,,18/35 (51%),4/12 (33%),50%,8,13/32 (41%),18/30 (60%),2/6 (33%),25%,4,3,30,13,,2,,,,,5
+10428010,152,42576,NORMAL,REGULAR,Round 15,LEAGUE,44255,FC Voluntari,Local,ALL,22/10/2022,15,0,64%,0.34,1,7,5,9,9,572,12,14,2,,1,0,4,2,4,3,0,1,1,22,1,6,474,19,66,117/169 (69%),29/60 (48%),6/24 (25%),53%,13,36/66 (55%),20/40 (50%),10/13 (77%),50%,12,11,69,15,,5,,2,0,1,7
+10428010,152,42576,NORMAL,REGULAR,Round 15,LEAGUE,44255,FC Voluntari,Local,1ST,22/10/2022,15,0,61%,0.00,1,5,3,5,,282,2,8,1,,1,0,2,2,3,2,0,1,1,,1,2,230,10,31,,12/29 (41%),2/10 (20%),45%,10,15/36 (42%),12/24 (50%),5/8 (63%),0%,2,7,37,9,,3,,,,,5
+10428010,152,42576,NORMAL,REGULAR,Round 15,LEAGUE,44255,FC Voluntari,Local,2ND,22/10/2022,15,0,68%,0.00,0,2,2,4,,290,10,6,1,,0,0,2,0,1,1,0,0,0,,0,4,244,9,35,,17/31 (55%),4/14 (29%),63%,3,21/30 (70%),8/16 (50%),5/5 (100%),60%,10,4,32,6,,2,,,,,2
+10428010,152,42576,NORMAL,REGULAR,Round 15,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,22/10/2022,15,3,36%,1.19,3,16,2,4,14,314,16,9,1,,8,1,4,4,7,9,2,1,1,14,1,1,220,17,61,71/111 (64%),24/64 (38%),2/15 (13%),47%,11,30/66 (45%),20/40 (50%),6/7 (86%),69%,16,17,68,23,,2,,0,1,2,9
+10428010,152,42576,NORMAL,REGULAR,Round 15,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,22/10/2022,15,1,39%,0.00,2,8,1,1,,177,13,6,1,,4,1,3,1,2,6,1,1,1,,1,0,122,6,26,,12/38 (32%),0/9 (0%),55%,2,21/36 (58%),12/24 (50%),3/3 (100%),77%,13,8,42,9,,1,,,,,5
+10428010,152,42576,NORMAL,REGULAR,Round 15,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,22/10/2022,15,2,32%,0.00,1,8,1,3,,137,3,3,0,,4,0,1,3,5,3,1,0,0,,0,1,98,11,35,,12/26 (46%),2/6 (33%),37%,9,9/30 (30%),8/16 (50%),3/4 (75%),33%,3,9,26,14,,1,,,,,4
+10427957,152,42576,NORMAL,REGULAR,Round 16,LEAGUE,56127,Chindia Târgoviște,Local,ALL,28/10/2022,16,2,47%,0.69,2,10,1,4,18,384,20,17,3,,2,0,3,5,6,4,1,1,,22,4,1,262,27,59,46/96 (48%),29/62 (47%),4/18 (22%),48%,25,42/94 (45%),22/38 (58%),5/8 (63%),55%,20,8,69,5,,1,,,0,,6
+10427957,152,42576,NORMAL,REGULAR,Round 16,LEAGUE,56127,Chindia Târgoviște,Local,1ST,28/10/2022,16,1,43%,0.00,0,2,0,2,,190,11,10,1,,1,0,1,0,2,0,0,0,,,1,0,127,13,31,,19/35 (54%),0/6 (0%),44%,16,22/56 (39%),10/17 (59%),1/3 (33%),45%,11,3,42,3,,0,,,,,3
+10427957,152,42576,NORMAL,REGULAR,Round 16,LEAGUE,56127,Chindia Târgoviște,Local,2ND,28/10/2022,16,1,52%,0.00,2,8,1,2,,194,9,7,2,,1,0,2,5,4,4,1,1,,,3,1,135,14,28,,10/27 (37%),4/12 (33%),54%,9,20/38 (53%),12/21 (57%),4/5 (80%),67%,9,5,27,2,,1,,,,,3
+10427957,152,42576,NORMAL,REGULAR,Round 16,LEAGUE,24798,FC Botoșani,Visita,ALL,28/10/2022,16,2,53%,1.38,3,7,0,1,18,448,28,18,3,,4,0,1,2,5,2,2,1,,12,3,2,334,22,61,56/100 (56%),15/53 (28%),1/8 (13%),52%,7,52/94 (55%),16/38 (42%),6/19 (32%),50%,28,14,78,28,,0,,,2,,5
+10427957,152,42576,NORMAL,REGULAR,Round 16,LEAGUE,24798,FC Botoșani,Visita,1ST,28/10/2022,16,1,57%,0.00,2,3,0,0,,254,18,13,2,,2,0,1,0,2,1,1,1,,,1,1,192,10,34,,10/27 (37%),0/5 (0%),56%,4,34/56 (61%),7/17 (41%),3/10 (30%),44%,18,6,43,5,,0,,,,,2
+10427957,152,42576,NORMAL,REGULAR,Round 16,LEAGUE,24798,FC Botoșani,Visita,2ND,28/10/2022,16,1,48%,0.00,1,4,0,1,,194,10,5,1,,2,0,0,2,3,1,1,0,,,2,1,142,12,27,,5/26 (19%),1/3 (33%),46%,3,18/38 (47%),9/21 (43%),3/9 (33%),60%,10,8,35,23,,0,,,,,3
+10427955,152,42576,NORMAL,REGULAR,Round 17,LEAGUE,260356,FC Hermannstadt,Local,ALL,06/11/2022,17,0,59%,1.58,2,13,5,9,10,508,19,14,2,,4,0,5,4,10,3,0,2,,18,1,3,410,33,73,85/138 (62%),38/63 (60%),7/27 (26%),51%,6,38/72 (53%),15/31 (48%),5/15 (33%),63%,19,11,61,18,,5,,,1,,7
+10427955,152,42576,NORMAL,REGULAR,Round 17,LEAGUE,260356,FC Hermannstadt,Local,1ST,06/11/2022,17,0,54%,0.00,1,4,4,3,,246,7,4,1,,1,0,2,1,4,0,0,1,,,0,1,194,17,29,,18/33 (55%),3/10 (30%),49%,1,15/32 (47%),6/11 (55%),4/11 (36%),57%,7,8,30,13,,4,,,,,7
+10427955,152,42576,NORMAL,REGULAR,Round 17,LEAGUE,260356,FC Hermannstadt,Local,2ND,06/11/2022,17,0,66%,0.00,1,9,1,6,,262,12,10,1,,3,0,3,3,6,3,0,1,,,1,2,216,16,44,,20/30 (67%),4/17 (24%),53%,5,23/40 (57%),9/20 (45%),1/4 (25%),67%,12,3,31,5,,1,,,,,0
+10427955,152,42576,NORMAL,REGULAR,Round 17,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,06/11/2022,17,1,41%,2.05,2,9,4,3,14,352,16,9,3,,6,1,3,0,5,4,1,1,,12,1,1,246,25,65,63/110 (57%),28/65 (43%),3/15 (20%),49%,14,34/72 (47%),16/31 (52%),10/15 (67%),31%,16,16,59,30,,4,,,1,,8
+10427955,152,42576,NORMAL,REGULAR,Round 17,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,06/11/2022,17,0,46%,0.00,0,6,1,1,,214,8,3,0,,4,0,2,0,2,4,0,0,,,1,1,159,17,37,,12/26 (46%),2/9 (22%),51%,4,17/32 (53%),5/11 (45%),6/9 (67%),13%,8,5,30,10,,1,,,,,3
+10427955,152,42576,NORMAL,REGULAR,Round 17,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,06/11/2022,17,1,34%,0.00,2,3,3,2,,138,8,6,3,,2,1,1,0,3,0,1,1,,,0,0,87,8,28,,16/39 (41%),1/6 (17%),47%,10,17/40 (43%),11/20 (55%),4/6 (67%),50%,8,11,29,20,,3,,,,,5
+10427806,152,42576,NORMAL,REGULAR,Round 18,LEAGUE,56127,Chindia Târgoviște,Local,ALL,12/11/2022,18,1,51%,1.83,2,15,4,5,10,433,22,11,,,7,0,6,2,8,7,1,1,0,,3,3,326,25,54,,22/53 (42%),4/26 (15%),52%,14,39/76 (51%),10/18 (56%),6/17 (35%),64%,22,10,79,8,,4,,,,,6
+10427806,152,42576,NORMAL,REGULAR,Round 18,LEAGUE,56127,Chindia Târgoviște,Local,1ST,12/11/2022,18,0,47%,0.00,0,7,3,3,,228,16,5,,,3,0,3,1,3,4,0,0,0,,2,1,170,15,21,,13/28 (46%),1/14 (7%),51%,8,23/44 (52%),4/9 (44%),2/10 (20%),69%,16,3,45,3,,3,,,,,3
+10427806,152,42576,NORMAL,REGULAR,Round 18,LEAGUE,56127,Chindia Târgoviște,Local,2ND,12/11/2022,18,1,58%,0.00,2,8,1,2,,205,6,6,,,4,0,3,1,5,3,1,1,0,,1,2,156,10,33,,9/25 (36%),3/12 (25%),54%,6,16/32 (50%),6/9 (67%),4/7 (57%),50%,6,7,34,5,,1,,,,,3
+10427806,152,42576,NORMAL,REGULAR,Round 18,LEAGUE,3294,FCV Farul Constanța,Visita,ALL,12/11/2022,18,1,49%,1.22,0,9,6,2,11,417,25,8,,,4,0,2,3,3,6,0,0,1,,2,4,314,23,68,,28/63 (44%),2/15 (13%),48%,9,37/76 (49%),8/18 (44%),5/18 (28%),68%,25,19,77,22,,6,,,,,7
+10427806,152,42576,NORMAL,REGULAR,Round 18,LEAGUE,3294,FCV Farul Constanța,Visita,1ST,12/11/2022,18,0,53%,0.00,0,7,3,2,,266,16,3,,,3,0,2,2,2,5,0,0,0,,1,3,210,9,41,,19/34 (56%),2/12 (17%),49%,7,21/44 (48%),5/9 (56%),2/11 (18%),69%,16,12,45,14,,3,,,,,3
+10427806,152,42576,NORMAL,REGULAR,Round 18,LEAGUE,3294,FCV Farul Constanța,Visita,2ND,12/11/2022,18,1,42%,0.00,0,2,3,0,,151,9,5,,,1,0,0,1,1,1,0,0,1,,1,1,104,14,27,,9/29 (31%),0/3 (0%),46%,2,16/32 (50%),3/9 (33%),3/7 (43%),67%,9,7,32,8,,3,,,,,4
+10607129,152,42576,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Local,ALL,29/11/2022,6,1,50%,0.49,1,10,2,0,17,416,8,16,0,0,1,1,7,2,4,6,1,0,,,3,2,320,24,59,,30/57 (53%),3/14 (21%),39%,8,25/60 (42%),12/35 (34%),1/6 (17%),38%,8,9,71,22,,2,,,,,6
+10607129,152,42576,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Local,1ST,29/11/2022,6,0,49%,0.00,0,4,0,0,,234,5,8,0,0,0,1,3,1,0,4,0,0,,,1,1,183,14,31,,17/31 (55%),1/7 (14%),36%,4,13/33 (39%),6/20 (30%),0/5 (0%),60%,5,5,41,7,,0,,,,,2
+10607129,152,42576,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Local,2ND,29/11/2022,6,1,51%,0.00,1,6,2,0,,182,3,8,0,0,1,0,4,1,4,2,1,0,,,2,1,137,10,28,,13/26 (50%),2/7 (29%),43%,4,12/27 (44%),6/15 (40%),1/1 (100%),0%,3,4,30,15,,2,,,,,4
+10607129,152,42576,NORMAL,REGULAR,Round 6,LEAGUE,116223,Universitatea Craiova,Visita,ALL,29/11/2022,6,1,50%,0.64,1,9,0,9,17,417,13,16,3,1,3,0,2,4,8,1,0,1,,,3,2,305,25,51,,35/69 (51%),4/22 (18%),61%,6,35/60 (58%),23/35 (66%),6/8 (75%),54%,13,9,68,9,,0,,,,,7
+10607129,152,42576,NORMAL,REGULAR,Round 6,LEAGUE,116223,Universitatea Craiova,Visita,1ST,29/11/2022,6,1,51%,0.00,0,4,0,3,,251,9,6,1,0,1,0,1,2,4,0,0,0,,,0,0,185,12,16,,14/33 (42%),3/5 (60%),64%,4,20/33 (61%),14/20 (70%),5/6 (83%),44%,9,5,40,6,,0,,,,,3
+10607129,152,42576,NORMAL,REGULAR,Round 6,LEAGUE,116223,Universitatea Craiova,Visita,2ND,29/11/2022,6,0,49%,0.00,1,5,0,6,,166,4,10,2,1,2,0,1,2,4,1,0,1,,,3,2,120,13,35,,21/36 (58%),1/17 (6%),57%,2,15/27 (56%),9/15 (60%),1/2 (50%),75%,4,4,28,3,,0,,,,,4
+10427920,152,42576,NORMAL,REGULAR,Round 19,LEAGUE,5287,CFR 1907 Cluj,Local,ALL,04/12/2022,19,2,44%,1.92,3,12,2,6,9,370,14,15,2,,5,0,4,3,6,6,1,2,0,21,3,2,236,28,81,94/164 (57%),21/70 (30%),7/18 (39%),53%,10,35/66 (53%),31/58 (53%),6/18 (33%),64%,14,12,88,17,,2,,,0,0,8
+10427920,152,42576,NORMAL,REGULAR,Round 19,LEAGUE,5287,CFR 1907 Cluj,Local,1ST,04/12/2022,19,1,45%,0.00,0,4,1,3,,183,9,7,1,,1,0,2,1,3,1,0,0,0,,1,2,111,17,45,,13/38 (34%),3/7 (43%),52%,4,19/33 (58%),18/38 (47%),3/8 (38%),89%,9,3,45,8,,1,,,,,2
+10427920,152,42576,NORMAL,REGULAR,Round 19,LEAGUE,5287,CFR 1907 Cluj,Local,2ND,04/12/2022,19,1,43%,0.00,3,8,1,3,,187,5,8,1,,4,0,2,2,3,5,1,2,0,,2,0,125,11,36,,8/32 (25%),4/11 (36%),55%,6,16/33 (48%),13/20 (65%),3/10 (30%),20%,5,9,43,9,,1,,,,,6
+10427920,152,42576,NORMAL,REGULAR,Round 19,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,04/12/2022,19,0,56%,0.25,0,7,3,5,16,463,22,7,2,,2,0,4,1,3,4,0,0,1,11,0,1,323,26,42,59/94 (63%),27/72 (38%),0/22 (0%),47%,7,31/66 (47%),27/58 (47%),2/9 (22%),55%,22,7,90,21,,3,,,2,2,7
+10427920,152,42576,NORMAL,REGULAR,Round 19,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,04/12/2022,19,0,55%,0.00,0,1,0,1,,223,9,5,0,,1,0,0,0,1,0,0,0,0,,0,1,149,16,25,,17/42 (40%),0/7 (0%),48%,4,14/33 (42%),20/38 (53%),0/5 (0%),33%,9,2,42,9,,0,,,,,5
+10427920,152,42576,NORMAL,REGULAR,Round 19,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,04/12/2022,19,0,57%,0.00,0,6,3,4,,240,13,2,2,,1,0,4,1,2,4,0,0,1,,0,0,174,10,17,,10/30 (33%),0/15 (0%),45%,3,17/33 (52%),7/20 (35%),2/4 (50%),69%,13,5,48,12,,3,,,,,2
+10427908,152,42576,NORMAL,REGULAR,Round 20,LEAGUE,56127,Chindia Târgoviște,Local,ALL,11/12/2022,20,0,57%,0.43,0,10,2,2,11,330,31,19,4,,3,0,6,1,4,6,0,0,,,3,1,191,32,81,,30/79 (38%),4/10 (40%),58%,11,56/87 (64%),15/35 (43%),6/10 (60%),68%,31,11,93,12,,2,,,,,8
+10427908,152,42576,NORMAL,REGULAR,Round 20,LEAGUE,56127,Chindia Târgoviște,Local,1ST,11/12/2022,20,0,56%,0.00,0,3,1,1,,149,11,12,2,,1,0,2,0,1,2,0,0,,,1,0,90,14,39,,18/40 (45%),1/4 (25%),55%,6,26/44 (59%),8/18 (44%),3/5 (60%),64%,11,4,44,5,,1,,,,,3
+10427908,152,42576,NORMAL,REGULAR,Round 20,LEAGUE,56127,Chindia Târgoviște,Local,2ND,11/12/2022,20,0,58%,0.00,0,7,1,1,,181,20,7,2,,2,0,4,1,3,4,0,0,,,2,1,101,18,42,,12/39 (31%),3/6 (50%),62%,5,30/43 (70%),7/17 (41%),3/5 (60%),70%,20,7,49,7,,1,,,,,5
+10427908,152,42576,NORMAL,REGULAR,Round 20,LEAGUE,3301,FCSB,Visita,ALL,11/12/2022,20,2,43%,1.28,2,8,3,3,19,239,15,11,2,,4,0,3,1,4,4,1,1,,,2,2,111,55,67,,18/74 (24%),5/16 (31%),42%,22,31/87 (36%),20/35 (57%),6/15 (40%),80%,15,12,86,12,,3,,,,,9
+10427908,152,42576,NORMAL,REGULAR,Round 20,LEAGUE,3301,FCSB,Visita,1ST,11/12/2022,20,1,44%,0.00,2,5,1,2,,112,8,6,1,,2,0,2,1,3,2,1,1,,,1,1,51,20,25,,7/35 (20%),4/8 (50%),45%,8,18/44 (41%),10/18 (56%),4/7 (57%),75%,8,6,38,8,,1,,,,,5
+10427908,152,42576,NORMAL,REGULAR,Round 20,LEAGUE,3301,FCSB,Visita,2ND,11/12/2022,20,1,42%,0.00,0,3,2,1,,127,7,5,1,,2,0,1,0,1,2,0,0,,,1,1,60,35,42,,11/39 (28%),1/8 (13%),38%,14,13/43 (30%),10/17 (59%),2/8 (25%),86%,7,6,48,4,,2,,,,,4
+10427803,152,42576,NORMAL,REGULAR,Round 21,LEAGUE,116223,Universitatea Craiova,Local,ALL,17/12/2022,21,3,72%,0.87,2,14,2,4,15,719,14,9,3,0,6,1,4,4,6,8,2,0,1,,1,3,652,16,68,,30/46 (65%),5/12 (42%),45%,9,29/64 (45%),5/11 (45%),6/12 (50%),50%,14,4,58,8,,2,,,,,3
+10427803,152,42576,NORMAL,REGULAR,Round 21,LEAGUE,116223,Universitatea Craiova,Local,1ST,17/12/2022,21,2,63%,0.00,2,7,2,1,,283,11,6,2,0,3,1,1,3,4,3,2,0,1,,1,1,244,8,18,,11/24 (46%),3/5 (60%),50%,5,18/38 (47%),4/6 (67%),1/4 (25%),45%,11,2,30,6,,2,,,,,1
+10427803,152,42576,NORMAL,REGULAR,Round 21,LEAGUE,116223,Universitatea Craiova,Local,2ND,17/12/2022,21,1,80%,0.00,0,7,0,3,,436,3,3,1,0,3,0,3,1,2,5,0,0,0,,0,2,408,8,50,,19/22 (86%),2/7 (29%),39%,4,11/26 (42%),1/5 (20%),5/8 (63%),67%,3,2,28,2,,0,,,,,2
+10427803,152,42576,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,17/12/2022,21,0,28%,1.61,2,11,3,3,9,267,15,15,3,1,3,0,4,4,6,5,0,2,0,,3,2,211,12,37,,19/49 (39%),3/11 (27%),55%,6,35/64 (55%),6/11 (55%),5/13 (38%),53%,15,12,50,9,,3,,,,,9
+10427803,152,42576,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,17/12/2022,21,0,37%,0.00,2,8,1,3,,159,8,8,3,1,3,0,2,3,5,3,0,2,0,,1,1,133,5,19,,11/23 (48%),2/9 (22%),50%,4,20/38 (53%),2/6 (33%),4/11 (36%),38%,8,5,27,5,,1,,,,,4
+10427803,152,42576,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,17/12/2022,21,0,20%,0.00,0,3,2,0,,108,7,7,0,0,0,0,2,1,1,2,0,0,0,,2,1,78,7,18,,8/26 (31%),1/2 (50%),61%,2,15/26 (58%),4/5 (80%),1/2 (50%),71%,7,7,23,4,,2,,,,,5
+10427859,152,42576,NORMAL,REGULAR,Round 22,LEAGUE,56127,Chindia Târgoviște,Local,ALL,23/01/2023,22,1,47%,2.50,0,30,1,8,18,383,30,11,3,,5,0,12,13,16,14,0,0,1,38,4,1,290,19,65,111/154 (72%),25/52 (48%),9/28 (32%),52%,9,45/85 (53%),17/35 (49%),4/11 (36%),53%,30,13,85,11,0,1,,0,,1,3
+10427859,152,42576,NORMAL,REGULAR,Round 22,LEAGUE,56127,Chindia Târgoviște,Local,1ST,23/01/2023,22,1,48%,0.00,0,16,0,2,,234,15,2,2,,3,0,6,7,8,8,0,0,0,,1,1,193,10,38,,14/25 (56%),5/13 (38%),48%,6,19/40 (48%),6/12 (50%),2/5 (40%),53%,15,7,48,2,,0,,,,,1
+10427859,152,42576,NORMAL,REGULAR,Round 22,LEAGUE,56127,Chindia Târgoviște,Local,2ND,23/01/2023,22,0,45%,0.00,0,14,1,6,,149,15,9,1,,2,0,6,6,8,6,0,0,1,,3,0,97,9,27,,11/27 (41%),4/15 (27%),54%,3,26/45 (58%),11/23 (48%),2/6 (33%),53%,15,6,37,9,,1,,,,,2
+10427859,152,42576,NORMAL,REGULAR,Round 22,LEAGUE,116221,FC Argeș Pitești,Visita,ALL,23/01/2023,22,1,53%,1.48,2,6,4,3,11,457,16,17,4,,2,0,2,2,3,3,1,1,0,12,1,1,365,24,25,35/57 (61%),24/51 (47%),1/7 (14%),48%,22,40/85 (47%),18/35 (51%),7/15 (47%),50%,16,6,63,19,1,4,,2,,0,16
+10427859,152,42576,NORMAL,REGULAR,Round 22,LEAGUE,116221,FC Argeș Pitești,Visita,1ST,23/01/2023,22,0,52%,0.00,0,2,2,0,,261,9,10,0,,0,0,1,1,0,2,0,0,0,,0,0,217,11,11,,10/22 (45%),0/1 (0%),52%,11,21/40 (53%),6/12 (50%),2/6 (33%),33%,9,1,32,9,,2,,,,,8
+10427859,152,42576,NORMAL,REGULAR,Round 22,LEAGUE,116221,FC Argeș Pitești,Visita,2ND,23/01/2023,22,1,55%,0.00,2,4,2,3,,196,7,7,4,,2,0,1,1,3,1,1,1,0,,1,1,148,13,14,,14/29 (48%),1/6 (17%),46%,11,19/45 (42%),12/23 (52%),5/9 (56%),71%,7,5,31,10,,2,,,,,8
+10427830,152,42576,NORMAL,REGULAR,Round 23,LEAGUE,25856,FC Petrolul Ploiești,Local,ALL,28/01/2023,23,1,46%,1.84,4,15,2,7,13,262,33,12,2,,6,0,5,4,11,4,1,3,,24,6,3,107,37,70,36/97 (37%),17/83 (20%),8/25 (32%),55%,3,46/76 (61%),21/46 (46%),1/5 (20%),55%,33,5,87,42,,2,,0,,0,8
+10427830,152,42576,NORMAL,REGULAR,Round 23,LEAGUE,25856,FC Petrolul Ploiești,Local,1ST,28/01/2023,23,1,46%,0.00,4,8,1,3,,126,11,6,1,,5,0,2,1,5,3,1,3,,,5,1,53,15,30,,8/43 (19%),3/13 (23%),50%,2,18/31 (58%),9/23 (39%),1/2 (50%),73%,11,2,41,25,,1,,,,,7
+10427830,152,42576,NORMAL,REGULAR,Round 23,LEAGUE,25856,FC Petrolul Ploiești,Local,2ND,28/01/2023,23,0,46%,0.00,0,7,1,4,,136,22,6,1,,1,0,3,3,6,1,0,0,,,1,2,54,22,40,,9/40 (23%),5/12 (42%),59%,1,28/45 (62%),12/23 (52%),0/3 (0%),45%,22,3,46,17,,1,,,,,1
+10427830,152,42576,NORMAL,REGULAR,Round 23,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,28/01/2023,23,2,54%,0.90,2,12,6,2,12,317,7,13,2,,4,0,5,3,7,5,2,0,,15,0,2,155,38,85,59/133 (44%),27/81 (33%),4/23 (17%),45%,15,30/76 (39%),25/46 (54%),11/29 (38%),86%,7,14,87,34,,6,,1,,2,9
+10427830,152,42576,NORMAL,REGULAR,Round 23,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,28/01/2023,23,0,54%,0.00,0,9,4,1,,154,3,6,2,,1,0,5,3,4,5,0,0,,,0,0,72,20,42,,15/43 (35%),2/12 (17%),50%,5,13/31 (42%),14/23 (61%),5/11 (45%),100%,3,4,39,16,,4,,,,,6
+10427830,152,42576,NORMAL,REGULAR,Round 23,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,28/01/2023,23,2,54%,0.00,2,3,2,1,,163,4,7,0,,3,0,0,0,3,0,2,0,,,0,2,83,18,43,,12/38 (32%),2/11 (18%),41%,10,17/45 (38%),11/23 (48%),6/18 (33%),75%,4,10,48,18,,2,,,,,3
+10427851,152,42576,NORMAL,REGULAR,Round 24,LEAGUE,56127,Chindia Târgoviște,Local,ALL,03/02/2023,24,2,45%,2.39,2,16,1,2,16,351,13,7,1,,6,0,8,2,10,6,2,,,18,1,1,186,32,83,54/129 (42%),23/97 (24%),5/18 (28%),42%,10,33/70 (47%),18/52 (35%),13/19 (68%),69%,13,14,94,28,0,1,,1,,2,7
+10427851,152,42576,NORMAL,REGULAR,Round 24,LEAGUE,56127,Chindia Târgoviște,Local,1ST,03/02/2023,24,1,43%,0.00,1,7,0,0,,171,6,4,0,,2,0,4,1,4,3,1,,,,1,1,86,20,37,,11/48 (23%),2/8 (25%),38%,3,13/30 (43%),8/25 (32%),3/6 (50%),83%,6,6,43,9,,0,,,,,6
+10427851,152,42576,NORMAL,REGULAR,Round 24,LEAGUE,56127,Chindia Târgoviște,Local,2ND,03/02/2023,24,1,47%,0.00,1,9,1,2,,180,7,3,1,,4,0,4,1,6,3,1,,,,0,0,100,12,46,,12/49 (24%),3/10 (30%),45%,7,20/40 (50%),10/27 (37%),10/13 (77%),57%,7,8,51,19,,1,,,,,1
+10427851,152,42576,NORMAL,REGULAR,Round 24,LEAGUE,204657,UTA Arad,Visita,ALL,03/02/2023,24,1,55%,0.88,0,7,4,1,8,441,16,15,1,,2,1,3,2,5,2,0,,,20,1,3,260,35,108,64/160 (40%),34/114 (30%),5/16 (31%),58%,8,37/70 (53%),34/52 (65%),6/11 (55%),56%,16,17,94,19,1,4,,0,,0,10
+10427851,152,42576,NORMAL,REGULAR,Round 24,LEAGUE,204657,UTA Arad,Visita,1ST,03/02/2023,24,1,57%,0.00,0,3,1,0,,232,6,8,0,,1,0,2,0,3,0,0,,,,0,0,134,17,54,,15/56 (27%),3/6 (50%),62%,3,17/30 (57%),17/25 (68%),3/6 (50%),67%,6,8,44,11,,1,,,,,5
+10427851,152,42576,NORMAL,REGULAR,Round 24,LEAGUE,204657,UTA Arad,Visita,2ND,03/02/2023,24,0,53%,0.00,0,4,3,1,,209,10,7,1,,1,1,1,2,2,2,0,,,,1,3,126,18,54,,19/58 (33%),2/10 (20%),55%,5,20/40 (50%),17/27 (63%),3/5 (60%),50%,10,9,50,8,,3,,,,,5
+10427978,152,42576,NORMAL,REGULAR,Round 25,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,ALL,13/02/2023,25,2,64%,2.87,5,16,3,6,10,490,11,18,3,,8,1,5,3,14,2,2,3,,38,3,1,366,33,78,116/181 (64%),39/74 (53%),10/40 (25%),50%,8,39/74 (53%),28/59 (47%),10/17 (59%),55%,11,6,87,16,0,3,,2,1,0,6
+10427978,152,42576,NORMAL,REGULAR,Round 25,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,1ST,13/02/2023,25,1,58%,0.00,3,9,0,2,,203,6,7,1,,4,1,3,2,9,0,1,2,,,1,0,155,20,36,,21/39 (54%),4/23 (17%),49%,7,19/38 (50%),14/30 (47%),6/8 (75%),33%,6,3,40,11,,0,,,,,2
+10427978,152,42576,NORMAL,REGULAR,Round 25,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,2ND,13/02/2023,25,1,69%,0.00,2,7,3,4,,287,5,11,2,,4,0,2,1,5,2,1,1,,,2,1,211,13,42,,18/35 (51%),6/17 (35%),52%,1,20/36 (56%),14/29 (48%),4/9 (44%),80%,5,3,47,5,,3,,,,,4
+10427978,152,42576,NORMAL,REGULAR,Round 25,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,13/02/2023,25,2,36%,1.36,1,14,6,3,18,280,15,9,2,,5,0,7,2,9,5,1,0,,13,2,2,170,29,49,41/85 (48%),26/63 (41%),5/17 (29%),50%,5,35/74 (47%),31/59 (53%),11/17 (65%),80%,15,9,86,51,1,6,,0,2,1,7
+10427978,152,42576,NORMAL,REGULAR,Round 25,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,13/02/2023,25,2,42%,0.00,1,6,3,1,,152,9,6,1,,2,0,3,1,4,2,1,0,,,2,1,98,15,26,,11/31 (35%),3/11 (27%),51%,4,19/38 (50%),16/30 (53%),4/6 (67%),78%,9,4,39,23,,3,,,,,5
+10427978,152,42576,NORMAL,REGULAR,Round 25,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,13/02/2023,25,0,31%,0.00,0,8,3,2,,128,6,3,1,,3,0,4,1,5,3,0,0,,,0,1,72,14,23,,15/32 (47%),2/6 (33%),48%,1,16/36 (44%),15/29 (52%),7/11 (64%),83%,6,5,47,28,,3,,,,,2
+10427930,152,42576,NORMAL,REGULAR,Round 26,LEAGUE,56127,Chindia Târgoviște,Local,ALL,17/02/2023,26,2,49%,2.46,4,17,2,6,10,350,19,10,2,,5,1,7,5,11,6,2,2,,25,2,2,219,28,63,72/129 (56%),24/77 (31%),10/34 (29%),47%,5,48/94 (51%),20/50 (40%),19/32 (59%),42%,19,10,79,17,,2,,1,0,,7
+10427930,152,42576,NORMAL,REGULAR,Round 26,LEAGUE,56127,Chindia Târgoviște,Local,1ST,17/02/2023,26,0,40%,0.00,1,7,1,4,,136,13,6,1,,1,0,4,2,6,1,0,1,,,0,0,69,12,32,,14/44 (32%),4/14 (29%),45%,1,25/48 (52%),10/30 (33%),6/12 (50%),46%,13,5,36,14,,1,,,,,7
+10427930,152,42576,NORMAL,REGULAR,Round 26,LEAGUE,56127,Chindia Târgoviște,Local,2ND,17/02/2023,26,2,58%,0.00,3,10,1,2,,214,6,4,1,,4,1,3,3,5,5,2,1,,,2,2,150,16,31,,10/33 (30%),6/20 (30%),50%,4,23/46 (50%),10/20 (50%),13/20 (65%),33%,6,5,43,3,,1,,,,,0
+10427930,152,42576,NORMAL,REGULAR,Round 26,LEAGUE,7734,FC Universitatea Cluj,Visita,ALL,17/02/2023,26,2,51%,1.55,0,13,3,5,10,387,18,10,3,,4,0,3,6,6,7,0,0,,20,1,4,266,18,84,113/173 (65%),20/83 (24%),1/12 (8%),53%,15,46/94 (49%),30/50 (60%),18/22 (82%),67%,18,14,70,26,,3,,1,2,,15
+10427930,152,42576,NORMAL,REGULAR,Round 26,LEAGUE,7734,FC Universitatea Cluj,Visita,1ST,17/02/2023,26,1,60%,0.00,0,7,1,2,,222,7,6,1,,2,0,2,3,1,6,0,0,,,1,3,161,12,45,,11/37 (30%),0/7 (0%),55%,11,23/48 (48%),20/30 (67%),10/12 (83%),57%,7,8,36,10,,1,,,,,6
+10427930,152,42576,NORMAL,REGULAR,Round 26,LEAGUE,7734,FC Universitatea Cluj,Visita,2ND,17/02/2023,26,1,42%,0.00,0,6,2,3,,165,11,4,2,,2,0,1,3,5,1,0,0,,,0,1,105,6,39,,9/46 (20%),1/5 (20%),50%,4,23/46 (50%),10/20 (50%),8/10 (80%),73%,11,6,34,16,,2,,,,,9
+10427824,152,42576,NORMAL,REGULAR,Round 27,LEAGUE,295403,FC Rapid București,Local,ALL,25/02/2023,27,2,72%,2.40,4,17,2,6,11,521,23,16,0,0,6,0,8,3,9,8,1,3,,36,3,2,445,30,60,141/186 (76%),36/54 (67%),8/30 (27%),58%,14,60/108 (56%),19/28 (68%),21/36 (58%),70%,23,4,70,5,1,2,,0,1,1,6
+10427824,152,42576,NORMAL,REGULAR,Round 27,LEAGUE,295403,FC Rapid București,Local,1ST,25/02/2023,27,0,63%,0.00,2,5,1,5,,203,12,8,0,0,1,0,3,1,3,2,0,2,,,1,1,160,17,23,,16/25 (64%),3/18 (17%),59%,9,30/53 (57%),11/16 (69%),10/16 (63%),58%,12,1,32,3,,1,,,,,4
+10427824,152,42576,NORMAL,REGULAR,Round 27,LEAGUE,295403,FC Rapid București,Local,2ND,25/02/2023,27,2,80%,0.00,2,12,1,1,,318,11,8,0,0,5,0,5,2,6,6,1,1,,,2,1,285,13,37,,20/29 (69%),5/12 (42%),57%,5,30/55 (55%),8/12 (67%),11/20 (55%),82%,11,3,38,2,,1,,,,,2
+10427824,152,42576,NORMAL,REGULAR,Round 27,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,25/02/2023,27,0,28%,1.28,3,10,5,3,18,204,29,11,4,1,2,0,6,2,7,3,0,3,,10,0,1,127,28,35,26/49 (53%),20/54 (37%),5/11 (45%),42%,11,48/108 (44%),9/28 (32%),8/20 (40%),69%,29,7,65,26,0,5,,2,0,2,10
+10427824,152,42576,NORMAL,REGULAR,Round 27,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,25/02/2023,27,0,37%,0.00,1,7,1,2,,125,15,6,3,1,1,0,4,2,5,2,0,1,,,0,1,79,17,17,,9/27 (33%),3/7 (43%),41%,5,23/53 (43%),5/16 (31%),2/9 (22%),73%,15,3,31,15,,1,,,,,6
+10427824,152,42576,NORMAL,REGULAR,Round 27,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,25/02/2023,27,0,20%,0.00,2,3,4,1,,79,14,5,1,0,1,0,2,0,2,1,0,2,,,0,0,48,11,18,,11/27 (41%),2/4 (50%),43%,6,25/55 (45%),4/12 (33%),6/11 (55%),64%,14,4,34,11,,4,,,,,4
+10428047,152,42576,NORMAL,REGULAR,Round 28,LEAGUE,56127,Chindia Târgoviște,Local,ALL,28/02/2023,28,0,52%,0.34,,6,3,2,11,393,21,16,3,,1,0,2,3,2,4,,,0,14,5,0,252,35,73,76/134 (57%),41/82 (50%),6/29 (21%),57%,6,44/84 (52%),38/59 (64%),7/17 (41%),48%,21,13,91,31,,3,,,2,2,4
+10428047,152,42576,NORMAL,REGULAR,Round 28,LEAGUE,56127,Chindia Târgoviște,Local,1ST,28/02/2023,28,0,57%,0.00,,1,2,2,,186,5,10,2,,0,0,1,0,1,0,,,0,,4,0,124,20,30,,18/36 (50%),4/20 (20%),56%,1,17/31 (55%),13/23 (57%),2/6 (33%),20%,5,5,35,17,,2,,,,,1
+10428047,152,42576,NORMAL,REGULAR,Round 28,LEAGUE,56127,Chindia Târgoviște,Local,2ND,28/02/2023,28,0,48%,0.00,,5,1,0,,207,16,6,1,,1,0,1,3,1,4,,,0,,1,0,128,15,43,,23/46 (50%),2/9 (22%),58%,5,27/53 (51%),25/36 (69%),5/11 (45%),56%,16,8,56,14,,1,,,,,3
+10428047,152,42576,NORMAL,REGULAR,Round 28,LEAGUE,312033,FCU 1948 Craiova,Visita,ALL,28/02/2023,28,0,48%,0.27,,6,1,2,19,360,16,10,4,,3,0,2,1,4,2,,,2,14,4,2,219,32,72,62/126 (49%),24/91 (26%),3/20 (15%),43%,14,40/84 (48%),21/59 (36%),14/21 (67%),69%,16,8,97,25,,1,,,3,0,5
+10428047,152,42576,NORMAL,REGULAR,Round 28,LEAGUE,312033,FCU 1948 Craiova,Visita,1ST,28/02/2023,28,0,43%,0.00,,4,0,1,,144,5,5,2,,2,0,1,1,3,1,,,1,,3,1,86,12,25,,9/36 (25%),1/9 (11%),44%,5,14/31 (45%),10/23 (43%),4/4 (100%),40%,5,3,38,15,,0,,,,,2
+10428047,152,42576,NORMAL,REGULAR,Round 28,LEAGUE,312033,FCU 1948 Craiova,Visita,2ND,28/02/2023,28,0,52%,0.00,,2,1,1,,216,11,5,2,,1,0,1,0,1,1,,,1,,1,1,133,20,47,,15/55 (27%),2/11 (18%),42%,9,26/53 (49%),11/36 (31%),10/17 (59%),82%,11,5,59,10,,1,,,,,3
+10427820,152,42576,NORMAL,REGULAR,Round 29,LEAGUE,7731,CS Mioveni,Local,ALL,05/03/2023,29,2,46%,0.84,1,6,4,2,15,338,22,14,1,,3,0,2,1,4,2,1,0,1,8,0,3,205,28,55,39/88 (44%),19/72 (26%),4/6 (67%),50%,13,48/93 (52%),27/57 (47%),12/18 (67%),50%,22,9,80,31,,4,,1,,,13
+10427820,152,42576,NORMAL,REGULAR,Round 29,LEAGUE,7731,CS Mioveni,Local,1ST,05/03/2023,29,1,50%,0.00,0,1,4,0,,172,9,6,0,,1,0,0,0,1,0,0,0,1,,0,3,112,14,18,,9/30 (30%),1/2 (50%),44%,8,18/41 (44%),14/31 (45%),3/5 (60%),67%,9,4,40,12,,4,,,,,7
+10427820,152,42576,NORMAL,REGULAR,Round 29,LEAGUE,7731,CS Mioveni,Local,2ND,05/03/2023,29,1,43%,0.00,1,5,0,2,,166,13,8,1,,2,0,2,1,3,2,1,0,0,,0,0,93,14,37,,10/42 (24%),3/4 (75%),55%,5,30/52 (58%),13/26 (50%),9/13 (69%),38%,13,5,40,19,,0,,,,,6
+10427820,152,42576,NORMAL,REGULAR,Round 29,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,05/03/2023,29,0,54%,0.62,1,10,1,1,17,372,19,14,1,,4,0,4,2,4,6,0,1,0,18,2,2,253,41,74,66/132 (50%),24/60 (40%),5/30 (17%),50%,9,45/93 (48%),30/57 (53%),12/25 (48%),63%,19,10,74,10,,1,,0,,,7
+10427820,152,42576,NORMAL,REGULAR,Round 29,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,05/03/2023,29,0,50%,0.00,1,7,0,1,,164,10,7,0,,4,0,3,0,4,3,0,1,0,,2,2,110,25,32,,5/19 (26%),2/13 (15%),56%,4,23/41 (56%),17/31 (55%),6/11 (55%),70%,10,6,32,5,,0,,,,,2
+10427820,152,42576,NORMAL,REGULAR,Round 29,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,05/03/2023,29,0,57%,0.00,0,3,1,0,,208,9,7,1,,0,0,1,2,0,3,0,0,0,,0,0,143,16,42,,19/41 (46%),3/17 (18%),45%,5,22/52 (42%),13/26 (50%),6/14 (43%),56%,9,4,42,5,,1,,,,,5
+10427890,152,42576,NORMAL,REGULAR,Round 30,LEAGUE,56127,Chindia Târgoviște,Local,ALL,13/03/2023,30,1,54%,1.06,1,18,1,7,9,416,19,10,1,,7,2,9,2,7,11,,1,,14,2,1,290,30,69,85/135 (63%),29/70 (41%),5/26 (19%),52%,9,35/68 (51%),24/45 (53%),6/11 (55%),63%,19,8,84,24,,1,,0,1,1,8
+10427890,152,42576,NORMAL,REGULAR,Round 30,LEAGUE,56127,Chindia Târgoviște,Local,1ST,13/03/2023,30,0,61%,0.00,1,11,0,6,,221,8,4,1,,4,1,5,2,6,5,,1,,,1,1,161,14,37,,11/35 (31%),5/22 (23%),53%,5,18/33 (55%),14/27 (52%),6/7 (86%),63%,8,1,40,13,,0,,,,,3
+10427890,152,42576,NORMAL,REGULAR,Round 30,LEAGUE,56127,Chindia Târgoviște,Local,2ND,13/03/2023,30,1,47%,0.00,0,7,1,1,,195,11,6,0,,3,1,4,0,1,6,,0,,,1,0,129,16,32,,18/35 (51%),0/4 (0%),51%,4,17/35 (49%),10/18 (56%),0/4 (0%),64%,11,7,44,11,,1,,,,,5
+10427890,152,42576,NORMAL,REGULAR,Round 30,LEAGUE,44255,FC Voluntari,Visita,ALL,13/03/2023,30,1,46%,0.85,1,14,6,3,10,365,14,9,1,,2,0,6,6,6,8,,1,,25,3,2,246,33,56,78/134 (58%),34/76 (45%),6/22 (27%),48%,14,33/68 (49%),21/45 (47%),10/15 (67%),79%,14,13,80,25,,6,,3,0,1,12
+10427890,152,42576,NORMAL,REGULAR,Round 30,LEAGUE,44255,FC Voluntari,Visita,1ST,13/03/2023,30,1,39%,0.00,0,4,4,0,,147,6,4,0,,1,0,2,1,2,2,,0,,,2,1,91,15,25,,13/35 (37%),1/9 (11%),47%,5,15/33 (45%),13/27 (48%),5/8 (63%),50%,6,9,36,18,,4,,,,,7
+10427890,152,42576,NORMAL,REGULAR,Round 30,LEAGUE,44255,FC Voluntari,Visita,2ND,13/03/2023,30,0,53%,0.00,1,10,2,3,,218,8,5,1,,1,0,4,5,4,6,,1,,,1,1,155,18,31,,21/41 (51%),5/13 (38%),49%,9,18/35 (51%),8/18 (44%),5/7 (71%),100%,8,4,44,7,,2,,,,,5
+11130310,152,42576,NORMAL,REGULAR,Round 1,LEAGUE,24798,FC Botoșani,Local,ALL,18/03/2023,1,1,59%,0.53,,13,3,5,10,402,22,14,2,,3,0,4,6,7,6,,,,28,4,3,277,39,74,92/150 (61%),28/72 (39%),5/17 (29%),58%,7,53/84 (63%),19/41 (46%),17/27 (63%),64%,22,17,81,25,,3,,,0,,9
+11130310,152,42576,NORMAL,REGULAR,Round 1,LEAGUE,24798,FC Botoșani,Local,1ST,18/03/2023,1,0,62%,0.00,,6,2,3,,195,10,9,1,,2,0,1,3,4,2,,,,,3,1,139,14,38,,19/39 (49%),3/11 (27%),63%,1,25/35 (71%),11/22 (50%),6/10 (60%),40%,10,6,37,14,,2,,,,,4
+11130310,152,42576,NORMAL,REGULAR,Round 1,LEAGUE,24798,FC Botoșani,Local,2ND,18/03/2023,1,1,55%,0.00,,7,1,2,,207,12,5,1,,1,0,3,3,3,4,,,,,1,2,138,25,36,,9/33 (27%),2/6 (33%),53%,6,28/49 (57%),8/19 (42%),11/17 (65%),83%,12,11,44,11,,1,,,,,5
+11130310,152,42576,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,18/03/2023,1,0,41%,0.61,,12,2,6,16,282,17,9,1,,3,1,7,2,5,7,,,,12,2,0,170,41,71,48/103 (47%),28/77 (36%),4/20 (20%),42%,6,31/84 (37%),22/41 (54%),5/21 (24%),65%,17,6,68,22,,2,,,1,,11
+11130310,152,42576,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,18/03/2023,1,0,38%,0.00,,7,2,4,,113,5,5,1,,2,1,4,1,4,3,,,,,1,0,72,15,27,,16/32 (50%),3/13 (23%),37%,2,10/35 (29%),11/22 (50%),0/8 (0%),60%,5,1,28,15,,2,,,,,8
+11130310,152,42576,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,18/03/2023,1,0,45%,0.00,,5,0,2,,169,12,4,0,,1,0,3,1,1,4,,,,,1,0,98,26,44,,12/45 (27%),1/7 (14%),47%,4,21/49 (43%),11/19 (58%),5/13 (38%),67%,12,5,40,7,,0,,,,,3
+11137023,152,42576,NORMAL,REGULAR,Round 2,LEAGUE,7731,CS Mioveni,Local,ALL,03/04/2023,2,0,54%,0.35,0,7,3,2,9,342,10,21,1,,4,0,3,0,4,3,,0,,13,3,2,231,31,59,60/99 (61%),14/57 (25%),3/19 (16%),51%,9,38/70 (54%),26/56 (46%),7/12 (58%),50%,10,8,51,17,,3,,1,0,,10
+11137023,152,42576,NORMAL,REGULAR,Round 2,LEAGUE,7731,CS Mioveni,Local,1ST,03/04/2023,2,0,54%,0.00,0,3,1,1,,203,4,9,1,,1,0,2,0,2,1,,0,,,0,1,146,16,32,,7/28 (25%),1/6 (17%),47%,6,17/35 (49%),12/27 (44%),4/8 (50%),50%,4,5,31,11,,1,,,,,7
+11137023,152,42576,NORMAL,REGULAR,Round 2,LEAGUE,7731,CS Mioveni,Local,2ND,03/04/2023,2,0,53%,0.00,0,4,2,1,,139,6,12,0,,3,0,1,0,2,2,,0,,,3,1,85,15,27,,7/29 (24%),2/13 (15%),55%,3,21/35 (60%),14/29 (48%),3/4 (75%),50%,6,3,20,6,,2,,,,,3
+11137023,152,42576,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,03/04/2023,2,1,46%,0.81,1,13,4,7,22,289,14,8,2,,4,0,5,4,5,8,,1,,17,3,3,178,27,59,73/122 (60%),21/59 (36%),5/24 (21%),49%,6,32/70 (46%),30/56 (54%),10/14 (71%),50%,14,9,71,19,,4,,0,2,,7
+11137023,152,42576,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,03/04/2023,2,0,46%,0.00,0,6,1,5,,161,10,3,0,,1,0,2,3,1,5,,0,,,1,2,100,16,32,,12/29 (41%),1/14 (7%),53%,3,18/35 (51%),15/27 (56%),5/6 (83%),50%,10,4,41,8,,1,,,,,2
+11137023,152,42576,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,03/04/2023,2,1,47%,0.00,1,7,3,2,,128,4,5,2,,3,0,3,1,4,3,,1,,,2,1,78,11,27,,9/30 (30%),4/10 (40%),45%,3,14/35 (40%),15/29 (52%),5/8 (63%),50%,4,5,30,11,,3,,,,,5
+11137004,152,42576,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Local,ALL,09/04/2023,3,1,41%,1.11,2,12,3,3,24,311,19,12,5,0,6,0,4,2,7,5,1,1,,,1,1,190,16,73,,21/67 (31%),6/15 (40%),46%,7,41/96 (43%),25/46 (54%),10/19 (53%),63%,19,17,67,32,,3,,,,,14
+11137004,152,42576,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Local,1ST,09/04/2023,3,1,42%,0.00,1,5,1,0,,175,9,6,2,0,3,0,2,0,3,2,1,0,,,0,1,112,8,41,,13/39 (33%),2/8 (25%),49%,4,22/50 (44%),14/24 (58%),7/12 (58%),56%,9,13,37,13,,1,,,,,9
+11137004,152,42576,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Local,2ND,09/04/2023,3,0,40%,0.00,1,7,2,3,,136,10,6,3,0,3,0,2,2,4,3,0,1,,,1,0,78,8,32,,8/28 (29%),4/7 (57%),44%,3,19/46 (41%),11/22 (50%),3/7 (43%),70%,10,4,30,19,,2,,,,,5
+11137004,152,42576,NORMAL,REGULAR,Round 3,LEAGUE,260356,FC Hermannstadt,Visita,ALL,09/04/2023,3,2,59%,0.66,0,15,5,5,13,432,16,23,1,1,4,0,9,2,6,9,0,0,,,3,3,314,28,71,,20/42 (48%),5/29 (17%),54%,10,55/96 (57%),21/46 (46%),16/25 (64%),63%,16,6,78,15,,5,,,,,4
+11137004,152,42576,NORMAL,REGULAR,Round 3,LEAGUE,260356,FC Hermannstadt,Visita,1ST,09/04/2023,3,0,58%,0.00,0,7,2,2,,228,9,11,0,0,1,0,5,1,3,4,0,0,,,1,2,168,12,38,,10/21 (48%),2/14 (14%),51%,4,28/50 (56%),10/24 (42%),8/13 (62%),67%,9,4,45,9,,2,,,,,2
+11137004,152,42576,NORMAL,REGULAR,Round 3,LEAGUE,260356,FC Hermannstadt,Visita,2ND,09/04/2023,3,2,60%,0.00,0,8,3,3,,204,7,12,1,1,3,0,4,1,3,5,0,0,,,2,1,146,16,33,,10/21 (48%),3/15 (20%),56%,6,27/46 (59%),11/22 (50%),8/12 (67%),57%,7,2,33,6,,3,,,,,2
+11136987,152,42576,NORMAL,REGULAR,Round 4,LEAGUE,116221,FC Argeș Pitești,Local,ALL,17/04/2023,4,1,41%,1.21,2,7,4,1,8,337,15,13,4,,1,0,4,2,5,2,,2,1,9,2,1,216,28,77,58/112 (52%),39/93 (42%),2/14 (14%),60%,8,36/64 (56%),26/40 (65%),8/11 (73%),40%,15,12,73,34,,4,,1,,,12
+11136987,152,42576,NORMAL,REGULAR,Round 4,LEAGUE,116221,FC Argeș Pitești,Local,1ST,17/04/2023,4,1,46%,0.00,0,3,3,0,,185,6,6,3,,1,0,2,0,3,0,,0,0,,2,0,125,15,45,,20/45 (44%),1/7 (14%),57%,6,18/36 (50%),15/22 (68%),6/8 (75%),33%,6,4,38,20,,3,,,,,2
+11136987,152,42576,NORMAL,REGULAR,Round 4,LEAGUE,116221,FC Argeș Pitești,Local,2ND,17/04/2023,4,0,36%,0.00,2,4,1,1,,152,9,7,1,,0,0,2,2,2,2,,2,1,,0,1,91,13,32,,19/48 (40%),1/7 (14%),63%,2,18/28 (64%),11/18 (61%),2/3 (67%),44%,9,8,35,14,,1,,,,,10
+11136987,152,42576,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,17/04/2023,4,0,59%,1.04,1,13,0,8,13,477,11,8,2,,4,0,4,5,7,6,,1,0,19,0,3,349,37,72,78/133 (59%),24/70 (34%),4/30 (13%),40%,7,28/64 (44%),14/40 (35%),9/17 (53%),82%,11,10,83,11,,0,,0,,,7
+11136987,152,42576,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,17/04/2023,4,0,54%,0.00,1,7,0,2,,208,8,7,1,,3,0,2,2,4,3,,1,0,,0,2,141,16,24,,16/40 (40%),3/15 (20%),43%,4,18/36 (50%),7/22 (32%),3/5 (60%),88%,8,3,41,6,,0,,,,,4
+11136987,152,42576,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,17/04/2023,4,0,64%,0.00,0,6,0,6,,269,3,1,1,,1,0,2,3,3,3,,0,0,,0,1,208,21,48,,8/30 (27%),1/15 (7%),37%,3,10/28 (36%),7/18 (39%),6/12 (50%),67%,3,7,42,5,,0,,,,,3
+11137000,152,42576,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Local,ALL,23/04/2023,5,2,40%,0.46,2,7,2,2,12,273,18,7,3,,5,0,1,1,4,3,1,1,2,14,3,1,148,32,88,55/120 (46%),24/90 (27%),1/8 (13%),43%,11,33/79 (42%),27/59 (46%),8/25 (32%),67%,18,15,87,22,,2,,,1,,6
+11137000,152,42576,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Local,1ST,23/04/2023,5,1,40%,0.00,1,5,2,0,,136,10,4,1,,3,0,1,1,2,3,0,1,1,,3,0,74,17,41,,13/47 (28%),0/3 (0%),52%,3,17/34 (50%),17/31 (55%),3/8 (38%),80%,10,5,45,9,,2,,,,,3
+11137000,152,42576,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Local,2ND,23/04/2023,5,1,41%,0.00,1,2,0,2,,137,8,3,2,,2,0,0,0,2,0,1,0,1,,0,1,74,15,47,,11/43 (26%),1/5 (20%),36%,8,16/45 (36%),10/28 (36%),5/17 (29%),50%,8,10,42,13,,0,,,,,3
+11137000,152,42576,NORMAL,REGULAR,Round 5,LEAGUE,204657,UTA Arad,Visita,ALL,23/04/2023,5,1,60%,0.67,1,7,3,3,8,400,28,12,1,,3,0,3,1,5,2,1,0,1,19,2,1,261,40,75,56/124 (45%),35/95 (37%),5/13 (38%),57%,8,46/79 (58%),32/59 (54%),6/16 (38%),46%,28,4,75,14,,3,,,0,,6
+11137000,152,42576,NORMAL,REGULAR,Round 5,LEAGUE,204657,UTA Arad,Visita,1ST,23/04/2023,5,0,60%,0.00,0,5,2,1,,204,8,5,1,,2,0,2,1,3,2,0,0,0,,0,1,135,19,36,,15/43 (35%),3/5 (60%),48%,4,17/34 (50%),14/31 (45%),4/10 (40%),63%,8,3,36,6,,2,,,,,4
+11137000,152,42576,NORMAL,REGULAR,Round 5,LEAGUE,204657,UTA Arad,Visita,2ND,23/04/2023,5,1,59%,0.00,1,2,1,2,,196,20,7,0,,1,0,1,0,2,0,1,0,1,,2,0,126,21,39,,20/52 (38%),2/8 (25%),64%,4,29/45 (64%),18/28 (64%),2/6 (33%),40%,20,1,39,8,,1,,,,,2
+11136979,152,42576,NORMAL,REGULAR,Round 6,LEAGUE,312033,FCU 1948 Craiova,Local,ALL,28/04/2023,6,1,56%,2.18,3,13,4,4,13,483,21,14,1,,6,0,2,5,8,5,,3,,12,3,1,406,21,70,83/118 (70%),22/43 (51%),3/14 (21%),55%,4,47/78 (60%),14/32 (44%),12/26 (46%),67%,21,6,63,8,,4,,,1,0,4
+11136979,152,42576,NORMAL,REGULAR,Round 6,LEAGUE,312033,FCU 1948 Craiova,Local,1ST,28/04/2023,6,1,61%,0.00,0,3,1,1,,285,11,7,1,,1,0,0,2,2,1,,0,,,1,1,243,14,36,,11/22 (50%),0/6 (0%),53%,4,23/40 (57%),5/13 (38%),5/13 (38%),91%,11,5,31,4,,1,,,,,2
+11136979,152,42576,NORMAL,REGULAR,Round 6,LEAGUE,312033,FCU 1948 Craiova,Local,2ND,28/04/2023,6,0,50%,0.00,3,10,3,3,,198,10,7,0,,5,0,2,3,6,4,,3,,,2,0,163,7,34,,11/21 (52%),3/8 (38%),58%,0,24/38 (63%),9/19 (47%),7/13 (54%),40%,10,1,32,4,,3,,,,,2
+11136979,152,42576,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,28/04/2023,6,0,44%,0.57,0,11,5,2,15,386,18,11,2,,4,0,3,4,4,7,,0,,7,0,1,293,24,58,47/92 (51%),27/60 (45%),4/14 (29%),45%,10,31/78 (40%),18/32 (56%),2/13 (15%),83%,18,12,61,9,,5,,,0,3,5
+11136979,152,42576,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,28/04/2023,6,0,39%,0.00,0,4,0,2,,185,12,4,0,,1,0,1,2,2,2,,0,,,0,0,133,11,21,,13/31 (42%),1/6 (17%),47%,5,17/40 (43%),8/13 (62%),1/7 (14%),83%,12,8,35,4,,0,,,,,2
+11136979,152,42576,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,28/04/2023,6,0,50%,0.00,0,7,5,0,,201,6,7,2,,3,0,2,2,2,5,,0,,,0,1,160,13,37,,14/29 (48%),3/8 (38%),42%,5,14/38 (37%),10/19 (53%),1/6 (17%),83%,6,4,26,5,,5,,,,,3
+11136983,152,42576,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Local,ALL,05/05/2023,7,1,50%,0.99,3,20,1,8,9,334,17,10,3,,4,1,9,7,10,10,1,2,,27,2,4,226,34,59,64/111 (58%),25/58 (43%),10/26 (38%),49%,11,35/72 (49%),26/52 (50%),8/20 (40%),41%,17,10,75,20,,1,,,,2,8
+11136983,152,42576,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Local,1ST,05/05/2023,7,1,41%,0.00,2,8,0,2,,152,10,5,0,,3,0,2,3,4,4,1,1,,,0,3,93,17,28,,13/35 (37%),3/7 (43%),56%,2,21/33 (64%),16/33 (48%),6/8 (75%),30%,10,6,38,13,,0,,,,,5
+11136983,152,42576,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Local,2ND,05/05/2023,7,0,61%,0.00,1,12,1,6,,182,7,5,3,,1,1,7,4,6,6,0,1,,,2,1,133,17,31,,12/23 (52%),7/19 (37%),41%,9,14/39 (36%),10/19 (53%),2/12 (17%),57%,7,4,37,7,,1,,,,,3
+11136983,152,42576,NORMAL,REGULAR,Round 7,LEAGUE,25856,FC Petrolul Ploiești,Visita,ALL,05/05/2023,7,2,50%,0.68,1,15,2,4,10,343,23,8,4,,3,1,8,4,5,10,0,1,,8,3,3,235,27,54,54/97 (56%),31/84 (37%),2/12 (17%),51%,8,37/72 (51%),26/52 (50%),6/15 (40%),48%,23,19,75,23,,2,,,,0,7
+11136983,152,42576,NORMAL,REGULAR,Round 7,LEAGUE,25856,FC Petrolul Ploiești,Visita,1ST,05/05/2023,7,0,59%,0.00,0,8,1,2,,215,4,4,2,,0,0,5,3,2,6,0,0,,,2,2,160,15,37,,17/41 (41%),1/9 (11%),44%,4,12/33 (36%),17/33 (52%),4/10 (40%),25%,4,12,39,7,,1,,,,,1
+11136983,152,42576,NORMAL,REGULAR,Round 7,LEAGUE,25856,FC Petrolul Ploiești,Visita,2ND,05/05/2023,7,2,39%,0.00,1,7,1,2,,128,19,4,2,,3,1,3,1,3,4,0,1,,,1,1,75,12,17,,14/43 (33%),1/3 (33%),59%,4,25/39 (64%),9/19 (47%),2/5 (40%),53%,19,7,36,16,,1,,,,,6
+11136960,152,42576,NORMAL,REGULAR,Round 8,LEAGUE,7734,FC Universitatea Cluj,Local,ALL,13/05/2023,8,2,56%,0.42,2,12,2,4,7,604,15,12,3,,5,0,5,2,4,8,1,1,0,8,2,2,504,28,47,74/110 (67%),19/53 (36%),2/8 (25%),46%,7,30/62 (48%),9/23 (39%),3/7 (43%),60%,15,6,65,15,,2,,1,,1,5
+11136960,152,42576,NORMAL,REGULAR,Round 8,LEAGUE,7734,FC Universitatea Cluj,Local,1ST,13/05/2023,8,1,57%,0.00,0,9,1,3,,291,4,6,0,,3,0,5,1,1,8,0,0,0,,2,0,241,14,22,,8/25 (32%),2/7 (29%),50%,1,11/22 (50%),7/14 (50%),1/3 (33%),75%,4,2,32,6,,1,,,,,2
+11136960,152,42576,NORMAL,REGULAR,Round 8,LEAGUE,7734,FC Universitatea Cluj,Local,2ND,13/05/2023,8,1,56%,0.00,2,3,1,1,,313,11,6,3,,2,0,0,1,3,0,1,1,0,,0,2,263,14,25,,11/28 (39%),0/1 (0%),43%,6,19/40 (48%),2/9 (22%),2/4 (50%),55%,11,4,33,9,,1,,,,,3
+11136960,152,42576,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,13/05/2023,8,0,44%,0.90,3,13,3,4,12,458,11,7,2,,2,0,5,6,9,4,0,3,2,15,1,0,367,19,67,69/108 (64%),23/49 (47%),4/17 (24%),54%,5,32/62 (52%),14/23 (61%),14/24 (58%),64%,11,12,67,10,,3,,1,,1,8
+11136960,152,42576,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,13/05/2023,8,0,43%,0.00,2,5,2,2,,221,3,4,1,,1,0,2,2,4,1,0,2,1,,0,0,171,5,34,,10/29 (34%),1/7 (14%),50%,3,11/22 (50%),7/14 (50%),4/5 (80%),0%,3,4,32,7,,2,,,,,8
+11136960,152,42576,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,13/05/2023,8,0,44%,0.00,1,8,1,2,,237,8,3,1,,1,0,3,4,5,3,0,1,1,,1,0,196,14,33,,13/20 (65%),3/10 (30%),57%,2,21/40 (53%),7/9 (78%),10/19 (53%),88%,8,8,35,3,,1,,,,,0
+11136963,152,42576,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,ALL,19/05/2023,9,2,51%,0.81,1,13,4,1,11,480,21,16,2,,3,0,8,2,5,8,0,1,1,17,1,,382,17,74,67/115 (58%),22/52 (42%),7/18 (39%),47%,10,40/79 (51%),16/41 (39%),3/15 (20%),67%,21,8,68,14,,4,,2,0,0,13
+11136963,152,42576,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,1ST,19/05/2023,9,0,44%,0.00,0,7,4,1,,207,10,4,1,,0,0,5,2,2,5,0,0,0,,1,,159,8,29,,10/24 (42%),4/6 (67%),45%,4,16/37 (43%),9/19 (47%),2/7 (29%),60%,10,3,27,10,,4,,,,,7
+11136963,152,42576,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,2ND,19/05/2023,9,2,57%,0.00,1,6,0,0,,273,11,12,1,,3,0,3,0,3,3,0,1,1,,0,,223,9,45,,12/28 (43%),3/12 (25%),48%,6,24/42 (57%),7/22 (32%),1/8 (13%),73%,11,5,41,4,,0,,,,,6
+11136963,152,42576,NORMAL,REGULAR,Round 9,LEAGUE,44255,FC Voluntari,Visita,ALL,19/05/2023,9,2,49%,2.26,5,10,1,3,16,464,22,9,6,,6,0,4,0,9,1,2,3,0,20,1,,365,28,56,54/96 (56%),53/85 (62%),5/20 (25%),53%,12,39/79 (49%),25/41 (61%),8/17 (47%),64%,22,9,76,20,,1,,0,3,1,10
+11136963,152,42576,NORMAL,REGULAR,Round 9,LEAGUE,44255,FC Voluntari,Visita,1ST,19/05/2023,9,2,56%,0.00,5,8,0,2,,256,9,6,0,,6,0,2,0,7,1,2,3,0,,1,,209,19,28,,21/35 (60%),4/12 (33%),55%,6,21/37 (57%),10/19 (53%),6/10 (60%),67%,9,4,29,5,,0,,,,,4
+11136963,152,42576,NORMAL,REGULAR,Round 9,LEAGUE,44255,FC Voluntari,Visita,2ND,19/05/2023,9,0,43%,0.00,0,2,1,1,,208,13,3,6,,0,0,2,0,2,0,0,0,0,,0,,156,9,28,,32/50 (64%),1/8 (13%),52%,6,18/42 (43%),15/22 (68%),2/7 (29%),62%,13,5,47,15,,1,,,,,6
+11459249,562,53285,NORMAL,REGULAR,Round 2,LEAGUE,298063,CSM Slatina,Local,ALL,12/08/2023,2,0,,,,,,3,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459249,562,53285,NORMAL,REGULAR,Round 2,LEAGUE,298063,CSM Slatina,Local,1ST,12/08/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459249,562,53285,NORMAL,REGULAR,Round 2,LEAGUE,298063,CSM Slatina,Local,2ND,12/08/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459249,562,53285,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,12/08/2023,2,0,,,,,,3,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459249,562,53285,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,12/08/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459249,562,53285,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,12/08/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459028,562,53285,NORMAL,REGULAR,Round 16,LEAGUE,56127,Chindia Târgoviște,Local,ALL,24/02/2024,16,0,,,,,,3,,,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459028,562,53285,NORMAL,REGULAR,Round 16,LEAGUE,56127,Chindia Târgoviște,Local,1ST,24/02/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459028,562,53285,NORMAL,REGULAR,Round 16,LEAGUE,56127,Chindia Târgoviște,Local,2ND,24/02/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459028,562,53285,NORMAL,REGULAR,Round 16,LEAGUE,79081,FC Metaloglobus București,Visita,ALL,24/02/2024,16,0,,,,,,2,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459028,562,53285,NORMAL,REGULAR,Round 16,LEAGUE,79081,FC Metaloglobus București,Visita,1ST,24/02/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459028,562,53285,NORMAL,REGULAR,Round 16,LEAGUE,79081,FC Metaloglobus București,Visita,2ND,24/02/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12569290,562,64111,NORMAL,REGULAR,Round 1,LEAGUE,79081,FC Metaloglobus București,Local,ALL,03/08/2024,1,3,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12569290,562,64111,NORMAL,REGULAR,Round 1,LEAGUE,79081,FC Metaloglobus București,Local,1ST,03/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12569290,562,64111,NORMAL,REGULAR,Round 1,LEAGUE,79081,FC Metaloglobus București,Local,2ND,03/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12569290,562,64111,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,03/08/2024,1,2,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12569290,562,64111,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,03/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12569290,562,64111,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,03/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618491,562,64111,NORMAL,REGULAR,Round 2,LEAGUE,312033,FCU 1948 Craiova,Local,ALL,11/08/2024,2,1,64%,0.87,,14,1,8,12,523,2,0,6,0,6,0,3,5,4,10,,,0,17,,2,452,25,,50/74 (68%),31/61 (50%),2/11 (18%),39%,11,50/138 (36%),15/25 (60%),9/10 (90%),,2,13,,5,2,1,,,,,6
+12618491,562,64111,NORMAL,REGULAR,Round 2,LEAGUE,312033,FCU 1948 Craiova,Local,1ST,11/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618491,562,64111,NORMAL,REGULAR,Round 2,LEAGUE,312033,FCU 1948 Craiova,Local,2ND,11/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618491,562,64111,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,11/08/2024,2,0,36%,0.01,,3,7,0,7,293,4,0,3,0,1,0,2,0,0,3,,,0,4,,0,217,21,,20/46 (43%),31/60 (51%),1/8 (12%),25%,10,30/135 (22%),11/26 (42%),2/2 (100%),,4,11,,15,3,7,,,,,9
+12618491,562,64111,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,11/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618491,562,64111,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,11/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12664361,562,64111,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Local,ALL,19/08/2024,3,2,35%,1.17,,7,1,2,11,246,6,2,2,0,4,0,2,1,7,0,,,1,12,,1,161,18,,17/38 (45%),16/53 (30%),4/8 (50%),34%,5,24/104 (23%),28/46 (61%),3/3 (100%),,6,17,,27,3,1,,,2,,12
+12664361,562,64111,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Local,1ST,19/08/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12664361,562,64111,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Local,2ND,19/08/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12664361,562,64111,NORMAL,REGULAR,Round 3,LEAGUE,326819,CSC 1599 Șelimbăr,Visita,ALL,19/08/2024,3,1,65%,0.55,,11,2,6,11,467,2,3,0,0,1,1,6,3,6,5,,,0,17,,0,365,42,,48/70 (69%),30/51 (58%),8/28 (28%),40%,8,39/94 (41%),16/42 (38%),16/20 (80%),,2,16,,8,1,2,,,0,,4
+12664361,562,64111,NORMAL,REGULAR,Round 3,LEAGUE,326819,CSC 1599 Șelimbăr,Visita,1ST,19/08/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12664361,562,64111,NORMAL,REGULAR,Round 3,LEAGUE,326819,CSC 1599 Șelimbăr,Visita,2ND,19/08/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619034,562,64111,NORMAL,REGULAR,Round 4,LEAGUE,326418,CS Unirea Ungheni 2018,Local,ALL,24/08/2024,4,0,60%,1.28,,22,0,8,13,400,7,0,2,0,5,1,11,5,7,15,,,4,15,,2,305,23,,45/77 (58%),33/68 (48%),7/20 (35%),47%,6,46/107 (43%),34/62 (55%),16/19 (84%),,7,8,,7,0,0,,,,,10
+12619034,562,64111,NORMAL,REGULAR,Round 4,LEAGUE,326418,CS Unirea Ungheni 2018,Local,1ST,24/08/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619034,562,64111,NORMAL,REGULAR,Round 4,LEAGUE,326418,CS Unirea Ungheni 2018,Local,2ND,24/08/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619034,562,64111,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,24/08/2024,4,1,40%,0.50,,3,5,3,15,239,0,3,2,0,1,0,2,0,3,0,,,0,10,,1,133,18,,21/46 (46%),23/54 (42%),2/11 (18%),32%,4,18/78 (23%),24/53 (45%),2/4 (50%),,0,11,,11,3,5,,,,,16
+12619034,562,64111,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,24/08/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619034,562,64111,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,24/08/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12737104,562,64111,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Local,ALL,03/09/2024,5,0,58%,0.42,,6,9,5,13,424,6,2,2,0,2,1,3,0,4,2,,,2,21,,5,324,28,,43/67 (64%),44/75 (58%),7/22 (31%),39%,7,54/149 (36%),21/42 (50%),20/27 (74%),,6,25,,8,2,9,,,1,,7
+12737104,562,64111,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Local,1ST,03/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12737104,562,64111,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Local,2ND,03/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12737104,562,64111,NORMAL,REGULAR,Round 5,LEAGUE,79091,CS Afumați,Visita,ALL,03/09/2024,5,1,42%,1.85,,20,3,7,17,335,7,5,1,0,10,0,4,6,9,11,,,4,19,,1,260,18,,39/61 (64%),28/55 (50%),4/13 (30%),39%,5,54/141 (38%),16/38 (42%),22/30 (73%),,7,21,,22,0,3,,,0,,6
+12737104,562,64111,NORMAL,REGULAR,Round 5,LEAGUE,79091,CS Afumați,Visita,1ST,03/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12737104,562,64111,NORMAL,REGULAR,Round 5,LEAGUE,79091,CS Afumați,Visita,2ND,03/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619016,562,64111,NORMAL,REGULAR,Round 6,LEAGUE,44255,FC Voluntari,Local,ALL,15/09/2024,6,4,50%,1.60,,18,0,6,13,451,0,4,1,0,8,0,5,5,7,11,,,2,20,,1,371,20,,48/70 (69%),33/60 (55%),4/24 (16%),43%,6,40/102 (39%),13/20 (65%),8/16 (50%),,0,10,,8,1,0,,,,,8
+12619016,562,64111,NORMAL,REGULAR,Round 6,LEAGUE,44255,FC Voluntari,Local,1ST,15/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619016,562,64111,NORMAL,REGULAR,Round 6,LEAGUE,44255,FC Voluntari,Local,2ND,15/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619016,562,64111,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,15/09/2024,6,1,50%,0.14,,3,5,1,9,412,2,2,2,0,1,0,2,0,1,2,,,0,7,,1,348,24,,32/55 (58%),16/44 (36%),6/12 (50%),26%,10,27/105 (26%),6/20 (30%),8/16 (50%),,2,15,,21,3,5,,,,,9
+12619016,562,64111,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,15/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619016,562,64111,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,15/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618997,562,64111,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Local,ALL,20/09/2024,7,0,64%,0.75,,12,2,6,4,488,4,2,0,0,2,0,7,3,6,6,,,0,18,,3,395,40,,43/67 (64%),35/70 (50%),12/28 (42%),35%,8,47/142 (33%),21/49 (43%),30/41 (73%),,4,16,,17,2,2,,,,,10
+12618997,562,64111,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Local,1ST,20/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618997,562,64111,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Local,2ND,20/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618997,562,64111,NORMAL,REGULAR,Round 7,LEAGUE,275915,CSM Ceahlăul Piatra Neamţ,Visita,ALL,20/09/2024,7,1,36%,0.53,,10,2,3,10,279,3,0,0,0,3,0,4,3,3,7,,,0,9,,3,200,21,,22/40 (55%),17/49 (34%),3/10 (30%),32%,8,38/132 (29%),19/44 (43%),21/28 (75%),,3,14,,16,0,2,,,,,18
+12618997,562,64111,NORMAL,REGULAR,Round 7,LEAGUE,275915,CSM Ceahlăul Piatra Neamţ,Visita,1ST,20/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618997,562,64111,NORMAL,REGULAR,Round 7,LEAGUE,275915,CSM Ceahlăul Piatra Neamţ,Visita,2ND,20/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619002,562,64111,NORMAL,REGULAR,Round 8,LEAGUE,266145,Viitorul Pandurii Târgu Jiu,Local,ALL,28/09/2024,8,0,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619002,562,64111,NORMAL,REGULAR,Round 8,LEAGUE,266145,Viitorul Pandurii Târgu Jiu,Local,1ST,28/09/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619002,562,64111,NORMAL,REGULAR,Round 8,LEAGUE,266145,Viitorul Pandurii Târgu Jiu,Local,2ND,28/09/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619002,562,64111,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,28/09/2024,8,3,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619002,562,64111,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,28/09/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619002,562,64111,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,28/09/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618970,562,64111,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,ALL,05/10/2024,9,4,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618970,562,64111,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,1ST,05/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618970,562,64111,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,2ND,05/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618970,562,64111,NORMAL,REGULAR,Round 9,LEAGUE,447411,AFC Câmpulung Muscel,Visita,ALL,05/10/2024,9,0,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618970,562,64111,NORMAL,REGULAR,Round 9,LEAGUE,447411,AFC Câmpulung Muscel,Visita,1ST,05/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618970,562,64111,NORMAL,REGULAR,Round 9,LEAGUE,447411,AFC Câmpulung Muscel,Visita,2ND,05/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618967,562,64111,NORMAL,REGULAR,Round 10,LEAGUE,116221,FC Argeș Pitești,Local,ALL,18/10/2024,10,2,50%,1.07,,10,3,2,11,364,3,3,0,0,5,0,2,3,6,4,,,1,18,,3,251,39,,24/60 (40%),25/61 (40%),7/16 (43%),40%,6,48/122 (39%),27/61 (44%),19/25 (76%),,3,16,,22,4,3,,,0,,7
+12618967,562,64111,NORMAL,REGULAR,Round 10,LEAGUE,116221,FC Argeș Pitești,Local,1ST,18/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618967,562,64111,NORMAL,REGULAR,Round 10,LEAGUE,116221,FC Argeș Pitești,Local,2ND,18/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618967,562,64111,NORMAL,REGULAR,Round 10,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,18/10/2024,10,1,50%,1.10,,12,3,1,13,325,1,4,3,0,4,0,5,3,5,7,,,2,10,,3,216,38,,26/62 (42%),41/104 (39%),2/10 (20%),36%,6,33/122 (27%),33/61 (54%),14/16 (88%),,1,13,,22,3,3,,,2,,4
+12618967,562,64111,NORMAL,REGULAR,Round 10,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,18/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618967,562,64111,NORMAL,REGULAR,Round 10,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,18/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618963,562,64111,NORMAL,REGULAR,Round 11,LEAGUE,56127,Chindia Târgoviște,Local,ALL,26/10/2024,11,0,45%,0.89,,11,6,3,8,354,15,1,3,0,4,0,5,2,6,5,,,0,,,3,257,28,,,29/63 (46%),5/18 (27%),37%,1,42/145 (29%),35/58 (60%),13/22 (59%),,15,19,,19,,6,,,,,6
+12618963,562,64111,NORMAL,REGULAR,Round 11,LEAGUE,56127,Chindia Târgoviște,Local,1ST,26/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618963,562,64111,NORMAL,REGULAR,Round 11,LEAGUE,56127,Chindia Târgoviște,Local,2ND,26/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618963,562,64111,NORMAL,REGULAR,Round 11,LEAGUE,266951,AFC Metalul Buzău,Visita,ALL,26/10/2024,11,0,55%,0.48,,10,5,8,9,469,1,1,2,0,6,0,2,2,4,6,,,1,,,1,367,30,,,25/53 (47%),0/9 (0%),34%,11,45/141 (32%),22/55 (40%),16/19 (84%),,1,10,,12,,5,,,,,5
+12618963,562,64111,NORMAL,REGULAR,Round 11,LEAGUE,266951,AFC Metalul Buzău,Visita,1ST,26/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618963,562,64111,NORMAL,REGULAR,Round 11,LEAGUE,266951,AFC Metalul Buzău,Visita,2ND,26/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618941,562,64111,NORMAL,REGULAR,Round 12,LEAGUE,55371,CSM Reşiţa,Local,ALL,02/11/2024,12,1,55%,2.00,,25,1,13,10,425,3,8,0,0,6,0,14,5,13,12,,,2,35,,0,331,30,,55/80 (69%),27/49 (55%),10/28 (35%),45%,4,56/127 (44%),29/58 (50%),28/39 (72%),,3,10,,13,1,1,,,0,,5
+12618941,562,64111,NORMAL,REGULAR,Round 12,LEAGUE,55371,CSM Reşiţa,Local,1ST,02/11/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618941,562,64111,NORMAL,REGULAR,Round 12,LEAGUE,55371,CSM Reşiţa,Local,2ND,02/11/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618941,562,64111,NORMAL,REGULAR,Round 12,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,02/11/2024,12,1,45%,0.30,,5,6,2,21,257,3,2,3,0,2,0,2,1,2,3,,,4,10,,2,176,20,,20/46 (43%),31/62 (50%),7/14 (50%),35%,7,34/121 (28%),30/60 (50%),19/31 (61%),,3,20,,28,2,6,,,3,,19
+12618941,562,64111,NORMAL,REGULAR,Round 12,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,02/11/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618941,562,64111,NORMAL,REGULAR,Round 12,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,02/11/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618933,562,64111,NORMAL,REGULAR,Round 13,LEAGUE,56127,Chindia Târgoviște,Local,ALL,09/11/2024,13,3,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618933,562,64111,NORMAL,REGULAR,Round 13,LEAGUE,56127,Chindia Târgoviște,Local,1ST,09/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618933,562,64111,NORMAL,REGULAR,Round 13,LEAGUE,56127,Chindia Târgoviște,Local,2ND,09/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618933,562,64111,NORMAL,REGULAR,Round 13,LEAGUE,260754,CSC Dumbrăviţa,Visita,ALL,09/11/2024,13,1,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618933,562,64111,NORMAL,REGULAR,Round 13,LEAGUE,260754,CSC Dumbrăviţa,Visita,1ST,09/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618933,562,64111,NORMAL,REGULAR,Round 13,LEAGUE,260754,CSC Dumbrăviţa,Visita,2ND,09/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618920,562,64111,NORMAL,REGULAR,Round 14,LEAGUE,328637,Steaua București,Local,ALL,26/11/2024,14,1,59%,1.57,,16,4,4,5,564,5,2,2,0,3,1,11,1,10,6,,,2,,,6,456,20,,,39/66 (59%),11/35 (31%),43%,9,71/158 (45%),23/57 (40%),33/37 (89%),,5,23,,8,,4,,,,,7
+12618920,562,64111,NORMAL,REGULAR,Round 14,LEAGUE,328637,Steaua București,Local,1ST,26/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618920,562,64111,NORMAL,REGULAR,Round 14,LEAGUE,328637,Steaua București,Local,2ND,26/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618920,562,64111,NORMAL,REGULAR,Round 14,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,26/11/2024,14,1,41%,1.15,,12,3,3,14,367,3,1,1,0,5,0,1,6,7,5,,,2,,,1,277,22,,,39/65 (60%),3/16 (18%),33%,10,39/152 (26%),30/55 (55%),19/27 (70%),,3,27,,17,,3,,,,,15
+12618920,562,64111,NORMAL,REGULAR,Round 14,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,26/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618920,562,64111,NORMAL,REGULAR,Round 14,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,26/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618913,562,64111,NORMAL,REGULAR,Round 15,LEAGUE,56127,Chindia Târgoviște,Local,ALL,30/11/2024,15,1,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618913,562,64111,NORMAL,REGULAR,Round 15,LEAGUE,56127,Chindia Târgoviște,Local,1ST,30/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618913,562,64111,NORMAL,REGULAR,Round 15,LEAGUE,56127,Chindia Târgoviște,Local,2ND,30/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618913,562,64111,NORMAL,REGULAR,Round 15,LEAGUE,267508,CSM Focșani 2007,Visita,ALL,30/11/2024,15,1,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618913,562,64111,NORMAL,REGULAR,Round 15,LEAGUE,267508,CSM Focșani 2007,Visita,1ST,30/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618913,562,64111,NORMAL,REGULAR,Round 15,LEAGUE,267508,CSM Focșani 2007,Visita,2ND,30/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618899,562,64111,NORMAL,REGULAR,Round 16,LEAGUE,368762,FC Bihor Oradea,Local,ALL,06/12/2024,16,1,46%,1.50,,12,4,3,11,315,6,6,2,0,4,0,6,2,8,4,,,1,,,5,224,23,,,18/55 (32%),4/8 (50%),37%,3,39/123 (32%),31/64 (48%),15/23 (65%),,6,21,,38,,4,,,,,7
+12618899,562,64111,NORMAL,REGULAR,Round 16,LEAGUE,368762,FC Bihor Oradea,Local,1ST,06/12/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618899,562,64111,NORMAL,REGULAR,Round 16,LEAGUE,368762,FC Bihor Oradea,Local,2ND,06/12/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618899,562,64111,NORMAL,REGULAR,Round 16,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,06/12/2024,16,0,54%,0.57,,13,3,3,14,398,2,4,2,0,4,0,6,3,5,8,,,1,,,0,291,39,,,51/92 (55%),16/28 (57%),41%,2,42/107 (39%),26/57 (46%),19/26 (73%),,2,12,,10,,3,,,,,11
+12618899,562,64111,NORMAL,REGULAR,Round 16,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,06/12/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618899,562,64111,NORMAL,REGULAR,Round 16,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,06/12/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618893,562,64111,NORMAL,REGULAR,Round 17,LEAGUE,56127,Chindia Târgoviște,Local,ALL,14/12/2024,17,2,33%,1.04,,10,10,5,15,257,2,0,1,0,3,0,2,5,5,5,,,1,,,2,179,17,,,20/56 (35%),4/11 (36%),30%,7,34/125 (27%),14/34 (41%),12/15 (80%),,2,27,,14,,10,,,,,15
+12618893,562,64111,NORMAL,REGULAR,Round 17,LEAGUE,56127,Chindia Târgoviște,Local,1ST,14/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618893,562,64111,NORMAL,REGULAR,Round 17,LEAGUE,56127,Chindia Târgoviște,Local,2ND,14/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618893,562,64111,NORMAL,REGULAR,Round 17,LEAGUE,283972,FK Csíkszereda Miercurea Ciuc,Visita,ALL,14/12/2024,17,3,67%,2.73,,25,1,13,9,535,2,3,2,0,13,0,10,2,14,11,,,1,,,1,456,18,,,31/60 (51%),12/26 (46%),47%,7,64/138 (46%),17/34 (50%),31/37 (84%),,2,16,,15,,1,,,,,7
+12618893,562,64111,NORMAL,REGULAR,Round 17,LEAGUE,283972,FK Csíkszereda Miercurea Ciuc,Visita,1ST,14/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618893,562,64111,NORMAL,REGULAR,Round 17,LEAGUE,283972,FK Csíkszereda Miercurea Ciuc,Visita,2ND,14/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618886,562,64111,NORMAL,REGULAR,Round 18,LEAGUE,298063,CSM Slatina,Local,ALL,22/02/2025,18,0,68%,0.77,,8,3,8,10,511,1,5,1,0,2,0,3,3,4,4,,,8,,,2,409,32,,,40/76 (52%),14/32 (43%),41%,12,38/120 (32%),35/58 (60%),13/18 (72%),,1,12,,14,,3,,,,,8
+12618886,562,64111,NORMAL,REGULAR,Round 18,LEAGUE,298063,CSM Slatina,Local,1ST,22/02/2025,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618886,562,64111,NORMAL,REGULAR,Round 18,LEAGUE,298063,CSM Slatina,Local,2ND,22/02/2025,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618886,562,64111,NORMAL,REGULAR,Round 18,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,22/02/2025,18,0,32%,0.75,,10,2,2,12,260,2,2,5,0,3,0,4,3,5,5,,,0,,,0,158,35,,,34/64 (53%),6/17 (35%),35%,3,33/115 (29%),29/62 (47%),9/12 (75%),,2,13,,34,,2,,,,,10
+12618886,562,64111,NORMAL,REGULAR,Round 18,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,22/02/2025,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618886,562,64111,NORMAL,REGULAR,Round 18,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,22/02/2025,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618868,562,64111,NORMAL,REGULAR,Round 19,LEAGUE,56127,Chindia Târgoviște,Local,ALL,01/03/2025,19,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618868,562,64111,NORMAL,REGULAR,Round 19,LEAGUE,56127,Chindia Târgoviște,Local,1ST,01/03/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618868,562,64111,NORMAL,REGULAR,Round 19,LEAGUE,56127,Chindia Târgoviște,Local,2ND,01/03/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618868,562,64111,NORMAL,REGULAR,Round 19,LEAGUE,24790,Concordia Chiajna,Visita,ALL,01/03/2025,19,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618868,562,64111,NORMAL,REGULAR,Round 19,LEAGUE,24790,Concordia Chiajna,Visita,1ST,01/03/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618868,562,64111,NORMAL,REGULAR,Round 19,LEAGUE,24790,Concordia Chiajna,Visita,2ND,01/03/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618851,562,64111,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Local,ALL,15/03/2025,21,0,38%,0.82,,4,6,2,15,299,5,3,5,0,2,0,2,0,1,3,,,1,,,2,221,33,,,25/49 (51%),5/12 (41%),28%,3,31/117 (26%),12/34 (35%),6/10 (60%),,5,13,,14,,6,,,,,8
+12618851,562,64111,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Local,1ST,15/03/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618851,562,64111,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Local,2ND,15/03/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618851,562,64111,NORMAL,REGULAR,Round 21,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,15/03/2025,21,1,62%,1.19,,10,2,7,13,424,2,1,3,0,7,0,2,1,4,6,,,1,,,2,355,22,,,30/61 (49%),5/14 (35%),43%,3,48/120 (40%),20/35 (57%),21/32 (66%),,2,13,,27,,2,,,,,4
+12618851,562,64111,NORMAL,REGULAR,Round 21,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,15/03/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618851,562,64111,NORMAL,REGULAR,Round 21,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,15/03/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13621304,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,24790,Concordia Chiajna,Local,ALL,29/03/2025,1,2,47%,1.59,,11,4,2,22,391,4,1,1,0,6,0,4,1,5,6,,,0,,,3,312,18,,,31/58 (53%),3/12 (25%),35%,6,40/118 (34%),16/39 (41%),12/18 (67%),,4,17,,9,,4,,,,,11
+13621304,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,24790,Concordia Chiajna,Local,1ST,29/03/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13621304,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,24790,Concordia Chiajna,Local,2ND,29/03/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13621304,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Visita,ALL,29/03/2025,1,1,53%,0.88,,15,5,4,13,404,1,4,1,0,5,0,6,4,10,5,,,1,,,0,320,25,,,45/75 (60%),6/15 (40%),38%,16,55/154 (36%),18/38 (47%),10/11 (91%),,1,7,,5,,5,,,,,9
+13621304,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Visita,1ST,29/03/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13621304,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Visita,2ND,29/03/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624603,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Local,ALL,12/04/2025,3,2,45%,1.23,,14,1,2,16,369,3,4,3,0,5,1,3,5,8,6,,,4,,,1,283,26,,,33/62 (53%),5/13 (38%),38%,1,38/128 (30%),32/56 (57%),9/14 (64%),,3,16,,12,,1,,,,,5
+13624603,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Local,1ST,12/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624603,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Local,2ND,12/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624603,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,326819,CSC 1599 Șelimbăr,Visita,ALL,12/04/2025,3,2,55%,1.53,,8,3,3,17,436,1,4,1,0,3,1,1,3,5,3,,,0,,,3,344,24,,,21/59 (35%),7/17 (41%),39%,11,53/136 (39%),26/66 (39%),23/29 (79%),,1,14,,16,,3,,,,,10
+13624603,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,326819,CSC 1599 Șelimbăr,Visita,1ST,12/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624603,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,326819,CSC 1599 Șelimbăr,Visita,2ND,12/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624625,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,447411,AFC Câmpulung Muscel,Local,ALL,18/04/2025,4,1,45%,1.13,,6,2,4,11,314,2,4,2,0,3,1,0,2,3,3,,,0,,,4,219,18,,,25/62 (40%),3/9 (33%),42%,6,41/96 (43%),19/46 (41%),9/11 (82%),,2,19,,14,,2,,,,,19
+13624625,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,447411,AFC Câmpulung Muscel,Local,1ST,18/04/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624625,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,447411,AFC Câmpulung Muscel,Local,2ND,18/04/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624625,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Visita,ALL,18/04/2025,4,1,55%,0.93,,6,2,4,12,329,3,2,0,0,3,0,2,1,3,3,,,0,,,3,221,34,,,36/79 (45%),3/13 (23%),34%,15,24/97 (25%),26/49 (53%),7/10 (70%),,3,7,,17,,2,,,,,8
+13624625,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Visita,1ST,18/04/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624625,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Visita,2ND,18/04/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624626,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Local,ALL,26/04/2025,5,3,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624626,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Local,1ST,26/04/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624626,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Local,2ND,26/04/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624626,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,275915,CSM Ceahlăul Piatra Neamţ,Visita,ALL,26/04/2025,5,2,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624626,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,275915,CSM Ceahlăul Piatra Neamţ,Visita,1ST,26/04/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624626,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,275915,CSM Ceahlăul Piatra Neamţ,Visita,2ND,26/04/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624634,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,79091,CS Afumați,Local,ALL,03/05/2025,6,0,60%,1.08,,13,1,5,10,437,1,6,0,0,6,1,5,1,11,2,,,3,,,7,345,32,,,26/55 (47%),6/15 (40%),44%,4,50/140 (36%),39/62 (63%),20/36 (56%),,1,16,,19,,1,,,,,6
+13624634,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,79091,CS Afumați,Local,1ST,03/05/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624634,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,79091,CS Afumați,Local,2ND,03/05/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624634,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Visita,ALL,03/05/2025,6,2,40%,0.65,,7,7,3,24,221,2,2,4,1,3,1,0,3,3,4,,,1,,,1,151,27,,,30/62 (48%),3/9 (33%),29%,7,39/129 (30%),15/52 (29%),8/11 (73%),,2,16,,22,,7,,,,,9
+13624634,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Visita,1ST,03/05/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624634,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Visita,2ND,03/05/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624635,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Local,ALL,10/05/2025,7,1,49%,1.31,,22,4,9,13,350,2,4,0,0,6,0,8,7,8,14,,,1,,,1,268,24,,,27/51 (52%),2/9 (22%),37%,4,43/110 (39%),12/38 (32%),18/21 (86%),,2,18,,13,,4,,,,,6
+13624635,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Local,1ST,10/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624635,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,56127,Chindia Târgoviște,Local,2ND,10/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624635,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,298063,CSM Slatina,Visita,ALL,10/05/2025,7,1,51%,2.97,,13,6,1,11,380,2,1,2,0,5,0,5,3,9,4,,,2,,,5,296,29,,,21/51 (41%),6/11 (54%),44%,5,45/112 (40%),22/39 (56%),22/28 (79%),,2,11,,21,,6,,,,,14
+13624635,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,298063,CSM Slatina,Visita,1ST,10/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624635,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group B",LEAGUE,298063,CSM Slatina,Visita,2ND,10/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13879451,562,64111,NORMAL,FINAL,Final,LEAGUE,260754,CSC Dumbrăviţa,Local,ALL,17/05/2025,29,0,52%,1.58,,17,2,8,15,335,4,3,4,1,5,0,8,4,14,3,,,6,,,0,237,33,,,29/66 (43%),8/25 (32%),40%,6,36/109 (33%),34/63 (54%),15/25 (60%),,4,16,,10,,2,,,,,12
+13879451,562,64111,NORMAL,FINAL,Final,LEAGUE,260754,CSC Dumbrăviţa,Local,1ST,17/05/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13879451,562,64111,NORMAL,FINAL,Final,LEAGUE,260754,CSC Dumbrăviţa,Local,2ND,17/05/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13879451,562,64111,NORMAL,FINAL,Final,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,17/05/2025,29,1,48%,1.54,,11,5,3,15,313,4,1,3,0,3,0,7,1,6,5,,,1,,,1,227,18,,,38/70 (54%),3/11 (27%),38%,6,42/109 (39%),25/66 (38%),14/18 (78%),,4,33,,28,,5,,,,,10
+13879451,562,64111,NORMAL,FINAL,Final,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,17/05/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13879451,562,64111,NORMAL,FINAL,Final,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,17/05/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13879452,562,64111,NORMAL,FINAL,Final,LEAGUE,56127,Chindia Târgoviște,Local,ALL,24/05/2025,29,3,50%,0.89,,9,4,8,17,338,3,2,4,0,5,0,3,1,5,4,,,4,,,2,229,26,,,19/58 (32%),6/20 (30%),39%,12,44/128 (34%),31/61 (51%),9/17 (53%),,3,10,,14,,4,,,,,11
+13879452,562,64111,NORMAL,FINAL,Final,LEAGUE,56127,Chindia Târgoviște,Local,1ST,24/05/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13879452,562,64111,NORMAL,FINAL,Final,LEAGUE,56127,Chindia Târgoviște,Local,2ND,24/05/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13879452,562,64111,NORMAL,FINAL,Final,LEAGUE,260754,CSC Dumbrăviţa,Visita,ALL,24/05/2025,29,2,50%,0.65,,15,2,5,11,270,5,3,2,0,6,1,5,3,5,10,,,1,,,2,188,24,,,33/68 (48%),2/16 (12%),38%,10,49/130 (38%),26/66 (39%),13/20 (65%),,5,18,,32,,2,,,,,9
+13879452,562,64111,NORMAL,FINAL,Final,LEAGUE,260754,CSC Dumbrăviţa,Visita,1ST,24/05/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13879452,562,64111,NORMAL,FINAL,Final,LEAGUE,260754,CSC Dumbrăviţa,Visita,2ND,24/05/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260681,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Local,ALL,03/08/2025,1,3,36%,0.48,,9,4,4,5,294,2,1,1,0,6,0,3,0,4,5,,,0,,,1,228,26,,,20/39 (51%),4/9 (44%),37%,6,42/115 (37%),7/16 (44%),14/16 (88%),,2,18,,10,,4,,,,,13
+14260681,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Local,1ST,03/08/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260681,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Local,2ND,03/08/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260681,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,ALL,03/08/2025,1,0,64%,2.04,,19,5,3,6,581,4,1,0,0,3,0,9,7,10,9,,,5,,,1,504,26,,,16/39 (41%),8/17 (47%),37%,6,50/139 (36%),8/17 (47%),19/25 (76%),,4,11,,16,,5,,,,,5
+14260681,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,1ST,03/08/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260681,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,2ND,03/08/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260711,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,10/08/2025,2,1,40%,1.86,,14,4,3,13,289,2,1,0,0,5,1,4,4,7,7,,,1,,,2,232,24,,,26/53 (49%),3/10 (30%),30%,10,36/127 (28%),16/44 (36%),12/15 (80%),,2,12,,16,,4,,,,,8
+14260711,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,10/08/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260711,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,10/08/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260711,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,10/08/2025,2,0,60%,1.36,,11,4,8,11,456,2,2,2,0,4,1,3,3,8,3,,,4,,,2,392,20,,,31/56 (55%),7/15 (46%),47%,3,53/128 (41%),30/47 (64%),20/23 (87%),,2,6,,9,,4,,,,,7
+14260711,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,10/08/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260711,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,10/08/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14400327,355,79014,NORMAL,PLAYOFF,Round 3,CUP,448862,CSO Băicoi,Local,ALL,13/08/2025,3,3,,,,,,5,,,,20,1,0,3,,4,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,
+14400327,355,79014,NORMAL,PLAYOFF,Round 3,CUP,448862,CSO Băicoi,Local,1ST,13/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14400327,355,79014,NORMAL,PLAYOFF,Round 3,CUP,448862,CSO Băicoi,Local,2ND,13/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14400327,355,79014,NORMAL,PLAYOFF,Round 3,CUP,56127,Chindia Târgoviște,Visita,ALL,13/08/2025,3,2,,,,,,4,,,,22,1,0,5,,8,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+14400327,355,79014,NORMAL,PLAYOFF,Round 3,CUP,56127,Chindia Târgoviște,Visita,1ST,13/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14400327,355,79014,NORMAL,PLAYOFF,Round 3,CUP,56127,Chindia Târgoviște,Visita,2ND,13/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260712,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Local,ALL,16/08/2025,3,3,66%,0.71,,11,1,2,15,526,3,0,0,0,4,0,6,1,5,6,,,0,,,1,455,20,,,32/51 (62%),10/19 (52%),37%,5,47/141 (33%),18/34 (53%),13/23 (57%),,3,6,,17,,1,,,,,7
+14260712,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Local,1ST,16/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260712,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Local,2ND,16/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260712,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,326819,CSC 1599 Șelimbăr,Visita,ALL,16/08/2025,3,1,34%,0.46,,5,1,2,12,288,3,6,1,0,2,0,2,1,1,4,,,0,,,2,228,23,,,20/34 (58%),2/9 (22%),32%,2,42/132 (32%),11/30 (37%),13/17 (76%),,3,11,,21,,1,,,,,9
+14260712,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,326819,CSC 1599 Șelimbăr,Visita,1ST,16/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260712,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,326819,CSC 1599 Șelimbăr,Visita,2ND,16/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260718,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,324401,CSM Olimpia Satu Mare,Local,ALL,24/08/2025,4,2,60%,0.19,,7,4,3,16,426,5,2,4,0,2,0,4,1,1,6,,,2,,,0,348,24,,,21/49 (42%),1/4 (25%),32%,11,34/106 (32%),11/34 (32%),5/12 (42%),,5,12,,17,,4,,,,,5
+14260718,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,324401,CSM Olimpia Satu Mare,Local,1ST,24/08/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260718,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,324401,CSM Olimpia Satu Mare,Local,2ND,24/08/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260718,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,24/08/2025,4,4,40%,2.84,,12,0,3,10,305,3,2,1,0,8,0,3,1,8,4,,,5,,,2,229,28,,,34/69 (49%),6/12 (50%),43%,8,38/108 (35%),23/33 (70%),7/11 (64%),,3,11,,10,,0,,,,,10
+14260718,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,24/08/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260718,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,24/08/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505593,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Local,ALL,02/09/2025,5,2,62%,2.36,,14,1,8,6,481,4,2,0,0,9,0,3,2,9,5,,,3,,,3,402,36,,,27/45 (60%),7/27 (25%),37%,3,34/93 (37%),15/38 (39%),16/24 (67%),,4,8,,17,,1,,,,,7
+14505593,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Local,1ST,02/09/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505593,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Local,2ND,02/09/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505593,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,260754,CSC Dumbrăviţa,Visita,ALL,02/09/2025,5,0,38%,0.50,,6,8,2,9,344,8,1,1,0,1,0,4,1,3,3,,,2,,,2,274,30,,,19/46 (41%),3/12 (25%),35%,3,26/102 (25%),25/43 (58%),17/26 (65%),,8,15,,29,,8,,,,,5
+14505593,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,260754,CSC Dumbrăviţa,Visita,1ST,02/09/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505593,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,260754,CSC Dumbrăviţa,Visita,2ND,02/09/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260736,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,447411,AFC Câmpulung Muscel,Local,ALL,13/09/2025,6,1,53%,0.53,,11,2,7,12,373,5,7,3,0,3,1,3,4,4,7,,,0,,,4,287,28,,,27/52 (51%),4/18 (22%),37%,7,43/122 (35%),20/44 (45%),10/12 (83%),,5,9,,14,,2,,,,,12
+14260736,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,447411,AFC Câmpulung Muscel,Local,1ST,13/09/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260736,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,447411,AFC Câmpulung Muscel,Local,2ND,13/09/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260736,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,13/09/2025,6,1,47%,0.45,,10,2,1,16,331,6,0,6,1,3,0,4,3,5,5,,,0,,,3,241,28,,,23/50 (46%),5/8 (62%),40%,1,43/116 (37%),20/41 (49%),8/11 (73%),,6,11,,13,,2,,,,,4
+14260736,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,13/09/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260736,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,13/09/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14658225,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Local,ALL,23/09/2025,7,3,39%,0.77,,8,3,1,13,302,4,2,1,0,5,1,1,1,4,4,,,1,,,0,239,21,,,27/53 (50%),3/6 (50%),31%,5,31/111 (28%),11/24 (46%),12/18 (67%),,4,14,,19,,3,,,,,12
+14658225,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Local,1ST,23/09/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14658225,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Local,2ND,23/09/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14658225,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,328637,Steaua București,Visita,ALL,23/09/2025,7,0,61%,0.84,,13,2,6,12,507,3,3,0,0,3,0,6,4,6,7,,,0,,,1,426,25,,,29/51 (56%),5/17 (29%),43%,5,48/118 (41%),14/24 (58%),22/30 (73%),,3,14,,7,,2,,,,,7
+14658225,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,328637,Steaua București,Visita,1ST,23/09/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14658225,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,328637,Steaua București,Visita,2ND,23/09/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260761,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,275915,CSM Ceahlăul Piatra Neamţ,Local,ALL,28/09/2025,8,0,45%,0.93,,15,4,3,9,320,1,2,0,0,5,0,4,6,4,11,,,0,,,1,258,22,,,28/50 (56%),3/7 (42%),36%,6,31/103 (30%),19/35 (54%),8/14 (57%),,1,19,,23,,4,,,,,11
+14260761,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,275915,CSM Ceahlăul Piatra Neamţ,Local,1ST,28/09/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260761,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,275915,CSM Ceahlăul Piatra Neamţ,Local,2ND,28/09/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260761,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,28/09/2025,8,0,55%,1.10,,20,5,8,7,430,7,3,1,0,4,1,7,8,7,13,,,4,,,1,340,27,,,26/55 (47%),10/23 (43%),37%,2,32/99 (32%),21/43 (49%),11/16 (69%),,7,10,,17,,5,,,,,4
+14260761,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,28/09/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260761,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,28/09/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260774,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,ALL,04/10/2025,9,4,60%,1.28,,10,5,5,6,560,4,1,1,0,4,1,4,1,6,4,,,1,,,1,470,27,,,18/48 (37%),4/12 (33%),33%,9,42/133 (32%),11/25 (44%),10/13 (77%),,4,13,,18,,5,,,,,12
+14260774,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,1ST,04/10/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260774,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,2ND,04/10/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260774,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,485425,ACS FC Bacău,Visita,ALL,04/10/2025,9,0,40%,0.99,,17,0,8,10,335,5,2,2,0,4,0,8,5,8,9,,,0,,,1,259,24,,,23/39 (58%),10/21 (47%),38%,5,42/126 (33%),17/29 (59%),20/31 (65%),,5,16,,19,,0,,,,,6
+14260774,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,485425,ACS FC Bacău,Visita,1ST,04/10/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260774,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,485425,ACS FC Bacău,Visita,2ND,04/10/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260784,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,390604,CS Gloria Bistrița,Local,ALL,18/10/2025,10,3,37%,2.03,,12,2,4,12,314,3,0,1,0,5,1,4,2,8,4,,,2,,,1,235,15,,,22/49 (44%),1/6 (16%),39%,3,31/96 (32%),24/43 (56%),10/17 (59%),,3,18,,36,,2,,,,,7
+14260784,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,390604,CS Gloria Bistrița,Local,1ST,18/10/2025,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260784,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,390604,CS Gloria Bistrița,Local,2ND,18/10/2025,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260784,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,18/10/2025,10,1,63%,1.25,,7,2,4,7,587,1,1,3,0,3,0,3,1,4,3,,,3,,,2,496,32,,,33/51 (64%),13/31 (41%),38%,7,40/95 (42%),12/40 (30%),18/22 (82%),,1,10,,14,,2,,,,,8
+14260784,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,18/10/2025,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260784,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,18/10/2025,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260796,562,79020,NORMAL,REGULAR,Round 11,LEAGUE,56127,Chindia Târgoviște,Local,ALL,25/10/2025,11,0,61%,1.52,,19,1,5,12,502,1,3,3,0,3,0,9,7,6,13,,,4,,,1,403,25,,,29/57 (50%),13/33 (39%),55%,3,50/88 (57%),19/36 (53%),24/25 (96%),,1,9,,14,,1,,,,,8
+14260796,562,79020,NORMAL,REGULAR,Round 11,LEAGUE,56127,Chindia Târgoviște,Local,1ST,25/10/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260796,562,79020,NORMAL,REGULAR,Round 11,LEAGUE,56127,Chindia Târgoviște,Local,2ND,25/10/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260796,562,79020,NORMAL,REGULAR,Round 11,LEAGUE,44255,FC Voluntari,Visita,ALL,25/10/2025,11,2,39%,0.48,,7,3,0,12,313,3,4,5,1,3,0,2,2,2,5,,,2,,,0,236,27,,,23/55 (41%),3/9 (33%),28%,8,22/89 (25%),13/35 (37%),7/11 (64%),,3,14,,33,,3,,,,,15
+14260796,562,79020,NORMAL,REGULAR,Round 11,LEAGUE,44255,FC Voluntari,Visita,1ST,25/10/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260796,562,79020,NORMAL,REGULAR,Round 11,LEAGUE,44255,FC Voluntari,Visita,2ND,25/10/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260811,562,79020,NORMAL,REGULAR,Round 12,LEAGUE,298063,CSM Slatina,Local,ALL,01/11/2025,12,1,50%,1.06,,20,3,5,8,425,0,2,1,0,3,1,9,6,11,9,,,0,,,2,340,38,,,24/50 (48%),5/20 (25%),39%,11,47/139 (34%),27/47 (57%),18/30 (60%),,0,8,,10,,3,,,,,12
+14260811,562,79020,NORMAL,REGULAR,Round 12,LEAGUE,298063,CSM Slatina,Local,1ST,01/11/2025,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260811,562,79020,NORMAL,REGULAR,Round 12,LEAGUE,298063,CSM Slatina,Local,2ND,01/11/2025,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260811,562,79020,NORMAL,REGULAR,Round 12,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,01/11/2025,12,1,50%,1.59,,11,3,3,8,393,8,1,2,0,4,0,5,2,8,3,,,2,,,2,323,18,,,36/61 (59%),3/7 (42%),34%,14,45/140 (32%),19/47 (40%),11/13 (85%),,8,25,,29,,3,,,,,16
+14260811,562,79020,NORMAL,REGULAR,Round 12,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,01/11/2025,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260811,562,79020,NORMAL,REGULAR,Round 12,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,01/11/2025,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14981935,562,79020,NORMAL,REGULAR,Round 13,LEAGUE,56127,Chindia Târgoviște,Local,ALL,11/11/2025,13,2,54%,0.84,,13,6,5,11,418,6,2,2,0,3,1,6,3,10,3,,,1,,,2,333,29,,,37/61 (60%),9/21 (42%),36%,4,37/109 (34%),18/40 (45%),10/15 (67%),,6,18,,22,,6,,,,,7
+14981935,562,79020,NORMAL,REGULAR,Round 13,LEAGUE,56127,Chindia Târgoviște,Local,1ST,11/11/2025,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14981935,562,79020,NORMAL,REGULAR,Round 13,LEAGUE,56127,Chindia Târgoviște,Local,2ND,11/11/2025,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14981935,562,79020,NORMAL,REGULAR,Round 13,LEAGUE,79091,CS Afumați,Visita,ALL,11/11/2025,13,3,46%,0.81,,15,1,5,7,375,1,2,5,0,9,0,3,3,8,7,,,0,,,2,286,29,,,22/46 (47%),4/16 (25%),38%,4,36/105 (34%),18/35 (51%),9/9 (100%),,1,13,,9,,1,,,,,11
+14981935,562,79020,NORMAL,REGULAR,Round 13,LEAGUE,79091,CS Afumați,Visita,1ST,11/11/2025,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14981935,562,79020,NORMAL,REGULAR,Round 13,LEAGUE,79091,CS Afumați,Visita,2ND,11/11/2025,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260832,562,79020,NORMAL,REGULAR,Round 14,LEAGUE,44319,ACSM Politehnica Iași,Local,ALL,25/11/2025,14,1,38%,2.62,,21,3,5,8,274,1,2,1,0,5,2,11,3,9,12,,,0,,,0,200,29,,,19/37 (51%),2/20 (10%),45%,4,43/103 (42%),21/38 (55%),25/33 (76%),,1,17,,29,,3,,,,,9
+14260832,562,79020,NORMAL,REGULAR,Round 14,LEAGUE,44319,ACSM Politehnica Iași,Local,1ST,25/11/2025,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260832,562,79020,NORMAL,REGULAR,Round 14,LEAGUE,44319,ACSM Politehnica Iași,Local,2ND,25/11/2025,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260832,562,79020,NORMAL,REGULAR,Round 14,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,25/11/2025,14,0,62%,0.85,,10,5,2,10,487,0,1,1,0,3,0,5,2,4,6,,,0,,,2,390,29,,,27/58 (46%),9/18 (50%),34%,4,35/106 (33%),14/35 (40%),19/23 (83%),,0,12,,24,,5,,,,,14
+14260832,562,79020,NORMAL,REGULAR,Round 14,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,25/11/2025,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260832,562,79020,NORMAL,REGULAR,Round 14,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,25/11/2025,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260841,562,79020,NORMAL,REGULAR,Round 15,LEAGUE,56127,Chindia Târgoviște,Local,ALL,29/11/2025,15,3,51%,1.92,,11,1,2,11,503,7,1,2,0,7,0,2,2,6,5,,,1,,,2,406,22,,,27/58 (46%),3/11 (27%),30%,7,34/112 (30%),6/20 (30%),5/6 (83%),,7,19,,13,,1,,,,,8
+14260841,562,79020,NORMAL,REGULAR,Round 15,LEAGUE,56127,Chindia Târgoviște,Local,1ST,29/11/2025,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260841,562,79020,NORMAL,REGULAR,Round 15,LEAGUE,56127,Chindia Târgoviște,Local,2ND,29/11/2025,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260841,562,79020,NORMAL,REGULAR,Round 15,LEAGUE,55387,CS Tunari,Visita,ALL,29/11/2025,15,0,49%,0.19,,8,4,9,10,454,5,1,2,0,1,0,3,4,3,5,,,1,,,2,363,29,,,25/52 (48%),3/24 (12%),43%,1,38/97 (39%),15/25 (60%),23/30 (77%),,5,18,,13,,4,,,,,3
+14260841,562,79020,NORMAL,REGULAR,Round 15,LEAGUE,55387,CS Tunari,Visita,1ST,29/11/2025,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260841,562,79020,NORMAL,REGULAR,Round 15,LEAGUE,55387,CS Tunari,Visita,2ND,29/11/2025,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260855,562,79020,NORMAL,REGULAR,Round 16,LEAGUE,24790,Concordia Chiajna,Local,ALL,05/12/2025,16,0,59%,0.83,,12,3,3,12,412,4,2,2,0,2,0,8,2,7,5,,,0,,,1,315,26,,,32/68 (47%),9/21 (42%),39%,7,48/121 (40%),14/36 (39%),15/24 (63%),,4,16,,9,,3,,,,,9
+14260855,562,79020,NORMAL,REGULAR,Round 16,LEAGUE,24790,Concordia Chiajna,Local,1ST,05/12/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260855,562,79020,NORMAL,REGULAR,Round 16,LEAGUE,24790,Concordia Chiajna,Local,2ND,05/12/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260855,562,79020,NORMAL,REGULAR,Round 16,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,05/12/2025,16,1,41%,0.95,,13,2,2,12,329,2,2,2,0,4,0,5,4,6,7,,,0,,,2,234,30,,,32/54 (59%),4/15 (26%),37%,11,42/116 (36%),15/38 (39%),18/22 (82%),,2,17,,26,,2,,,,,8
+14260855,562,79020,NORMAL,REGULAR,Round 16,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,05/12/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260855,562,79020,NORMAL,REGULAR,Round 16,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,05/12/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260862,562,79020,NORMAL,REGULAR,Round 17,LEAGUE,56127,Chindia Târgoviște,Local,ALL,13/12/2025,17,2,55%,3.59,,21,2,7,13,510,6,1,0,0,5,0,6,10,14,7,,,3,,,5,427,18,,,37/56 (66%),8/26 (30%),39%,7,43/112 (38%),13/30 (43%),12/16 (75%),,6,23,,12,,2,,,,,6
+14260862,562,79020,NORMAL,REGULAR,Round 17,LEAGUE,56127,Chindia Târgoviște,Local,1ST,13/12/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260862,562,79020,NORMAL,REGULAR,Round 17,LEAGUE,56127,Chindia Târgoviște,Local,2ND,13/12/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260862,562,79020,NORMAL,REGULAR,Round 17,LEAGUE,400662,CS Dinamo București,Visita,ALL,13/12/2025,17,0,45%,0.51,,6,3,3,11,391,3,2,0,0,2,1,2,1,3,3,,,0,,,3,317,22,,,28/46 (60%),1/3 (33%),34%,14,28/103 (27%),19/34 (56%),8/14 (57%),,3,20,,16,,3,,,,,13
+14260862,562,79020,NORMAL,REGULAR,Round 17,LEAGUE,400662,CS Dinamo București,Visita,1ST,13/12/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260862,562,79020,NORMAL,REGULAR,Round 17,LEAGUE,400662,CS Dinamo București,Visita,2ND,13/12/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260880,562,79020,NORMAL,REGULAR,Round 18,LEAGUE,55371,CSM Reşiţa,Local,ALL,21/02/2026,18,2,57%,1.68,,17,3,11,8,419,3,3,1,0,7,0,5,5,9,8,,,0,,,3,328,38,,,31/54 (57%),8/26 (30%),37%,10,53/140 (38%),16/44 (36%),25/36 (69%),,3,15,,14,,3,,,,,9
+14260880,562,79020,NORMAL,REGULAR,Round 18,LEAGUE,55371,CSM Reşiţa,Local,1ST,21/02/2026,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260880,562,79020,NORMAL,REGULAR,Round 18,LEAGUE,55371,CSM Reşiţa,Local,2ND,21/02/2026,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260880,562,79020,NORMAL,REGULAR,Round 18,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,21/02/2026,18,3,43%,1.30,,11,5,0,11,344,3,0,3,0,5,0,3,3,5,6,,,4,,,1,239,21,,,28/70 (40%),4/16 (25%),39%,5,52/162 (32%),33/54 (61%),24/27 (89%),,3,21,,41,,5,,,,,6
+14260880,562,79020,NORMAL,REGULAR,Round 18,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,21/02/2026,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260880,562,79020,NORMAL,REGULAR,Round 18,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,21/02/2026,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260884,562,79020,NORMAL,REGULAR,Round 19,LEAGUE,56127,Chindia Târgoviște,Local,ALL,01/03/2026,19,1,66%,0.78,,13,2,5,15,377,1,7,2,0,2,0,4,7,3,10,,,3,,,1,279,20,,,30/55 (54%),4/22 (18%),45%,5,48/106 (45%),26/56 (46%),20/24 (83%),,1,17,,21,,2,,,,,7
+14260884,562,79020,NORMAL,REGULAR,Round 19,LEAGUE,56127,Chindia Târgoviște,Local,1ST,01/03/2026,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260884,562,79020,NORMAL,REGULAR,Round 19,LEAGUE,56127,Chindia Târgoviște,Local,2ND,01/03/2026,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260884,562,79020,NORMAL,REGULAR,Round 19,LEAGUE,368762,FC Bihor Oradea,Visita,ALL,01/03/2026,19,0,34%,0.92,,12,1,3,18,256,8,1,4,0,2,0,7,3,7,5,,,2,,,1,153,20,,,26/68 (38%),6/17 (35%),35%,6,35/116 (30%),25/55 (45%),14/19 (74%),,8,20,,15,,1,,,,,13
+14260884,562,79020,NORMAL,REGULAR,Round 19,LEAGUE,368762,FC Bihor Oradea,Visita,1ST,01/03/2026,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260884,562,79020,NORMAL,REGULAR,Round 19,LEAGUE,368762,FC Bihor Oradea,Visita,2ND,01/03/2026,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15645564,562,79020,NORMAL,REGULAR,Round 20,LEAGUE,24804,ASA Târgu Mureş,Local,ALL,09/03/2026,20,0,57%,2.28,,15,4,9,13,394,1,4,3,1,5,0,5,5,7,8,,,3,,,3,304,29,,,36/56 (64%),11/37 (29%),43%,6,49/112 (44%),28/65 (43%),17/26 (65%),,1,12,,7,,4,,,,,3
+15645564,562,79020,NORMAL,REGULAR,Round 20,LEAGUE,24804,ASA Târgu Mureş,Local,1ST,09/03/2026,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15645564,562,79020,NORMAL,REGULAR,Round 20,LEAGUE,24804,ASA Târgu Mureş,Local,2ND,09/03/2026,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15645564,562,79020,NORMAL,REGULAR,Round 20,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,09/03/2026,20,2,43%,1.20,,11,5,2,12,278,1,2,6,0,6,1,3,1,5,6,,,2,,,2,203,13,,,17/45 (37%),3/8 (37%),34%,5,23/102 (23%),34/63 (54%),11/18 (61%),,1,20,,20,,5,,,,,14
+15645564,562,79020,NORMAL,REGULAR,Round 20,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,09/03/2026,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15645564,562,79020,NORMAL,REGULAR,Round 20,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,09/03/2026,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260909,562,79020,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Local,ALL,14/03/2026,21,2,53%,0.96,,10,3,7,11,433,3,0,2,1,3,0,7,0,8,2,,,1,,,4,316,29,,,36/86 (41%),6/16 (37%),32%,4,40/116 (34%),10/38 (26%),11/12 (92%),,3,6,,3,,3,,,,,17
+14260909,562,79020,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Local,1ST,14/03/2026,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260909,562,79020,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Local,2ND,14/03/2026,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260909,562,79020,NORMAL,REGULAR,Round 21,LEAGUE,266951,AFC Metalul Buzău,Visita,ALL,14/03/2026,21,3,47%,1.22,,19,2,2,8,375,1,5,0,0,6,0,12,1,10,9,,,0,,,5,282,23,,,24/54 (44%),2/13 (15%),41%,0,41/107 (38%),21/42 (50%),22/35 (63%),,1,35,,10,,2,,,,,13
+14260909,562,79020,NORMAL,REGULAR,Round 21,LEAGUE,266951,AFC Metalul Buzău,Visita,1ST,14/03/2026,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260909,562,79020,NORMAL,REGULAR,Round 21,LEAGUE,266951,AFC Metalul Buzău,Visita,2ND,14/03/2026,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737579,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,44255,FC Voluntari,Local,ALL,22/03/2026,1,5,43%,1.95,,15,5,7,9,357,0,2,2,0,7,0,3,5,9,6,,,2,,,6,251,21,,,24/56 (42%),3/17 (17%),34%,9,34/124 (27%),18/25 (72%),7/10 (70%),,0,22,,8,,5,,,,,5
+15737579,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,44255,FC Voluntari,Local,1ST,22/03/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737579,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,44255,FC Voluntari,Local,2ND,22/03/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737579,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,22/03/2026,1,1,57%,1.25,,12,2,6,11,470,0,1,1,0,5,2,4,1,10,2,,,2,,,1,367,21,,,33/60 (55%),7/23 (30%),37%,12,49/126 (39%),6/21 (29%),22/27 (81%),,0,18,,13,,2,,,,,9
+15737579,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,22/03/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737579,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,22/03/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737551,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,328637,Steaua București,Local,ALL,02/04/2026,2,2,60%,3.78,,21,1,8,10,560,4,2,2,0,9,1,4,7,10,11,,,0,,,2,477,20,,,29/49 (59%),12/29 (41%),38%,3,24/63 (38%),11/28 (39%),14/15 (93%),,4,10,,10,,1,,,,,5
+15737551,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,328637,Steaua București,Local,1ST,02/04/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737551,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,328637,Steaua București,Local,2ND,02/04/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737551,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,02/04/2026,2,0,40%,0.13,,4,7,2,10,360,2,2,3,2,1,0,2,1,1,3,,,2,,,0,277,19,,,24/58 (41%),0/3 (0%),38%,7,21/66 (32%),15/28 (54%),4/5 (80%),,2,18,,15,,7,,,,,11
+15737551,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,02/04/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737551,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,02/04/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737552,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Local,ALL,10/04/2026,3,1,56%,0.90,,11,1,3,8,402,1,2,1,0,5,0,5,1,5,6,,,0,,,1,293,33,,,32/76 (42%),4/15 (26%),40%,6,34/96 (35%),18/31 (58%),12/15 (80%),,1,13,,4,,1,,,,,8
+15737552,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Local,1ST,10/04/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737552,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,56127,Chindia Târgoviște,Local,2ND,10/04/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737552,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,368762,FC Bihor Oradea,Visita,ALL,10/04/2026,3,3,44%,1.63,,12,4,6,9,334,1,3,3,0,4,1,4,3,8,4,,,2,,,3,251,28,,,28/43 (65%),11/27 (40%),33%,4,31/103 (30%),15/36 (42%),7/12 (58%),,1,15,,31,,4,,,,,10
+15737552,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,368762,FC Bihor Oradea,Visita,1ST,10/04/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737552,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,368762,FC Bihor Oradea,Visita,2ND,10/04/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737560,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,14/04/2026,4,2,59%,1.07,,17,4,7,7,509,3,1,0,0,5,0,8,4,10,7,,,1,,,3,426,18,,,25/56 (44%),2/17 (11%),41%,3,35/97 (36%),15/23 (65%),11/18 (61%),,3,11,,11,,4,,,,,5
+15737560,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,14/04/2026,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737560,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,14/04/2026,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737560,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,14/04/2026,4,0,41%,0.79,,8,4,2,8,358,3,0,2,0,4,0,3,1,6,2,,,2,,,2,275,26,,,27/58 (46%),4/11 (36%),36%,11,44/116 (38%),7/25 (28%),17/20 (85%),,3,10,,22,,4,,,,,14
+15737560,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,14/04/2026,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737560,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,14/04/2026,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737567,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Local,ALL,18/04/2026,5,0,55%,0.23,,9,3,5,12,403,6,0,1,0,0,0,7,2,2,7,,,2,,,1,324,33,,,21/44 (47%),5/19 (26%),40%,15,52/126 (41%),9/23 (39%),8/12 (67%),,6,10,,21,,3,,,,,7
+15737567,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Local,1ST,18/04/2026,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737567,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,56127,Chindia Târgoviște,Local,2ND,18/04/2026,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737567,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,ALL,18/04/2026,5,1,45%,0.60,,9,1,1,16,346,3,4,1,0,4,0,3,2,3,6,,,1,,,2,259,21,,,19/43 (44%),1/14 (7%),36%,9,40/126 (32%),14/24 (58%),5/10 (50%),,3,9,,23,,1,,,,,12
+15737567,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,1ST,18/04/2026,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737567,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,2ND,18/04/2026,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737575,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Local,ALL,25/04/2026,6,1,54%,1.41,,15,4,13,8,460,6,3,1,0,3,1,6,5,8,7,,,3,,,3,370,35,,,31/57 (54%),5/13 (38%),31%,2,29/104 (28%),17/41 (41%),14/15 (93%),,6,4,,13,,4,,,,,7
+15737575,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Local,1ST,25/04/2026,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737575,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Local,2ND,25/04/2026,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737575,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,44255,FC Voluntari,Visita,ALL,25/04/2026,6,2,46%,2.07,,14,2,8,9,368,1,0,2,0,6,0,3,5,9,5,,,2,,,4,300,8,,,28/53 (52%),6/14 (42%),43%,3,46/113 (41%),20/40 (50%),22/31 (71%),,1,24,,38,,2,,,,,10
+15737575,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,44255,FC Voluntari,Visita,1ST,25/04/2026,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737575,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,44255,FC Voluntari,Visita,2ND,25/04/2026,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737556,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Local,ALL,01/05/2026,7,1,37%,0.89,,13,2,0,11,304,7,0,3,0,4,0,9,0,4,9,,,0,,,1,220,26,,,21/56 (37%),1/5 (20%),27%,8,29/115 (25%),11/29 (38%),7/10 (70%),,7,16,,24,,2,,,,,8
+15737556,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Local,1ST,01/05/2026,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737556,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,56127,Chindia Târgoviște,Local,2ND,01/05/2026,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737556,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,328637,Steaua București,Visita,ALL,01/05/2026,7,2,63%,2.58,,18,3,9,7,457,1,2,1,0,4,0,6,8,13,5,,,1,,,0,362,24,,,27/47 (57%),14/37 (37%),36%,7,35/115 (30%),19/34 (56%),18/20 (90%),,1,17,,7,,3,,,,,10
+15737556,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,328637,Steaua București,Visita,1ST,01/05/2026,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737556,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,328637,Steaua București,Visita,2ND,01/05/2026,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737561,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,368762,FC Bihor Oradea,Local,ALL,05/05/2026,8,3,43%,2.96,,13,1,3,15,399,5,1,1,0,6,1,4,2,10,3,,,2,,,0,307,19,,,28/69 (40%),5/10 (50%),51%,7,49/95 (52%),12/24 (50%),2/8 (25%),,5,14,,7,,1,,,,,5
+15737561,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,368762,FC Bihor Oradea,Local,1ST,05/05/2026,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737561,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,368762,FC Bihor Oradea,Local,2ND,05/05/2026,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737561,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,05/05/2026,8,1,57%,0.74,,8,3,2,8,481,5,3,1,0,2,1,1,4,6,2,,,0,,,4,383,32,,,24/62 (38%),3/10 (30%),51%,7,46/90 (51%),13/25 (52%),3/10 (30%),,5,10,,4,,3,,,,,9
+15737561,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,05/05/2026,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737561,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,05/05/2026,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737569,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,ALL,09/05/2026,9,1,34%,1.00,,10,0,1,8,299,3,2,0,0,3,0,5,2,5,5,,,2,,,3,231,17,,,25/51 (49%),1/3 (33%),32%,2,26/84 (31%),9/24 (38%),9/15 (60%),,3,20,,18,,0,,,,,15
+15737569,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,1ST,09/05/2026,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737569,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,2ND,09/05/2026,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737569,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,09/05/2026,9,0,66%,1.09,,14,2,7,5,581,5,2,1,0,0,0,7,7,9,5,,,0,,,2,507,27,,,29/43 (67%),12/24 (50%),45%,6,40/90 (44%),14/28 (50%),20/25 (80%),,5,11,,9,,2,,,,,8
+15737569,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,09/05/2026,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737569,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,09/05/2026,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737577,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,ALL,16/05/2026,10,1,49%,1.08,,15,0,6,14,337,5,5,1,0,4,0,6,5,10,5,,,4,,,2,266,30,,,27/51 (52%),4/15 (26%),40%,8,42/112 (38%),16/31 (52%),12/14 (86%),,5,15,,15,,0,,,,,5
+15737577,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,1ST,16/05/2026,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737577,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,2ND,16/05/2026,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737577,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,16/05/2026,10,1,51%,0.33,,7,3,1,9,412,2,0,1,0,1,1,2,3,2,5,,,0,,,3,327,25,,,21/50 (42%),2/6 (33%),29%,9,34/121 (28%),11/32 (34%),4/7 (57%),,2,18,,21,,3,,,,,10
+15737577,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,16/05/2026,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737577,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,16/05/2026,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16205227,152,77312,NORMAL,FINAL,Final,LEAGUE,3294,FCV Farul Constanța,Local,ALL,31/05/2026,29,1,75%,3.07,,32,1,12,9,,,11,4,0,10,,18,4,,,,,,,,1,,40,,,,,,,,,,,,,,,,1,,,,,4
+16205227,152,77312,NORMAL,FINAL,Final,LEAGUE,3294,FCV Farul Constanța,Local,1ST,31/05/2026,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16205227,152,77312,NORMAL,FINAL,Final,LEAGUE,3294,FCV Farul Constanța,Local,2ND,31/05/2026,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16205227,152,77312,NORMAL,FINAL,Final,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,31/05/2026,29,1,25%,0.41,,3,9,0,7,,,10,4,0,2,,1,0,,,,,,,,4,,20,,,,,,,,,,,,,,,,9,,,,,32
+16205227,152,77312,NORMAL,FINAL,Final,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,31/05/2026,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16205227,152,77312,NORMAL,FINAL,Final,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,31/05/2026,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16616330,562,99070,NORMAL,REGULAR,Round 1,LEAGUE,229206,ACS Știința Politehnica Timișoara,Local,ALL,04/08/2026,1,1,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16616330,562,99070,NORMAL,REGULAR,Round 1,LEAGUE,229206,ACS Știința Politehnica Timișoara,Local,1ST,04/08/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16616330,562,99070,NORMAL,REGULAR,Round 1,LEAGUE,229206,ACS Știința Politehnica Timișoara,Local,2ND,04/08/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16616330,562,99070,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,04/08/2026,1,0,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16616330,562,99070,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,04/08/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16616330,562,99070,NORMAL,REGULAR,Round 1,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,04/08/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16608003,562,99070,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Local,ALL,09/08/2026,2,3,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16608003,562,99070,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Local,1ST,09/08/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16608003,562,99070,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Local,2ND,09/08/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16608003,562,99070,NORMAL,REGULAR,Round 2,LEAGUE,79081,FC Metaloglobus București,Visita,ALL,09/08/2026,2,1,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16608003,562,99070,NORMAL,REGULAR,Round 2,LEAGUE,79081,FC Metaloglobus București,Visita,1ST,09/08/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16608003,562,99070,NORMAL,REGULAR,Round 2,LEAGUE,79081,FC Metaloglobus București,Visita,2ND,09/08/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

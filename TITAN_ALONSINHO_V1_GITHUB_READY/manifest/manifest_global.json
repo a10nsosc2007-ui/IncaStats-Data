@@ -1,0 +1,98 @@
+{
+  "schema_version": "titan.master_manifest.v1",
+  "product": "TITAN ALONSINHO V1 PRO",
+  "extractor_version": "1.0.0_TITAN_ALONSINHO_PRO",
+  "generated_at": "2026-08-11",
+  "coverage": {
+    "start_year": 2021,
+    "end_year": 2026,
+    "teams": 731,
+    "regions": {
+      "Europe": 585,
+      "America": 146
+    },
+    "countries": 25
+  },
+  "counts": {
+    "competitions": 148,
+    "competition_seasons": 613,
+    "unique_matches": 77863,
+    "cards": 355826,
+    "portal_shards": 613,
+    "portal_rows": 467178
+  },
+  "dedupe": {
+    "portal_rows_removed": 185130,
+    "match_conflicts": 0,
+    "card_conflicts": 0
+  },
+  "sources": [
+    {
+      "label": "EUROPE_001_200",
+      "source_file": "IncaStats_TITAN_000_200_equipos(2).zip",
+      "region": "Europe",
+      "extractor_version": "1.0.0_TITAN_ALONSINHO_PRO",
+      "data_policy": {
+        "start_year": 2021,
+        "end_year": 2026,
+        "season_format": "CROSS",
+        "exclude_friendlies": true
+      },
+      "selected_team_count": 585,
+      "batch_team_count": 200,
+      "failed_teams": 0
+    },
+    {
+      "label": "EUROPE_201_400",
+      "source_file": "IncaStats_TITAN_201_400_equipos (1)(1).zip",
+      "region": "Europe",
+      "extractor_version": "1.0.0_TITAN_ALONSINHO_PRO",
+      "data_policy": {
+        "start_year": 2021,
+        "end_year": 2026,
+        "season_format": "CROSS",
+        "exclude_friendlies": true
+      },
+      "selected_team_count": 585,
+      "batch_team_count": 200,
+      "failed_teams": 0
+    },
+    {
+      "label": "EUROPE_401_585",
+      "source_file": "IncaStats_TITAN_400_585_equipos(1).zip",
+      "region": "Europe",
+      "extractor_version": "1.0.0_TITAN_ALONSINHO_PRO",
+      "data_policy": {
+        "start_year": 2021,
+        "end_year": 2026,
+        "season_format": "CROSS",
+        "exclude_friendlies": true
+      },
+      "selected_team_count": 585,
+      "batch_team_count": 185,
+      "failed_teams": 0
+    },
+    {
+      "label": "AMERICA_001_146",
+      "source_file": "IncaStats_TITAN_000_146_equipos (1)(1).zip",
+      "region": "America",
+      "extractor_version": "1.0.0_TITAN_ALONSINHO_PRO",
+      "data_policy": {
+        "start_year": 2021,
+        "end_year": 2026,
+        "season_format": "CALENDAR",
+        "exclude_friendlies": true
+      },
+      "selected_team_count": 146,
+      "batch_team_count": 146,
+      "failed_teams": 0
+    }
+  ],
+  "app_files": {
+    "teams": "manifest/teams.json",
+    "team_details": "manifest/team_details.json",
+    "competitions": "manifest/competitions.json",
+    "seasons": "manifest/seasons.json"
+  },
+  "full_data_release": "TITAN_ALONSINHO_V1_FULL_DATA_RELEASE.zip"
+}

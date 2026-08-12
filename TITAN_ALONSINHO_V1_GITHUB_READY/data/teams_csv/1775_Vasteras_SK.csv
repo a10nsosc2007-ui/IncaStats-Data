@@ -1,0 +1,67 @@
+﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+10936581,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1764,AIK,Local,ALL,18/02/2023,1,1,,,,,,10,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936581,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1764,AIK,Local,1ST,18/02/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936581,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1764,AIK,Local,2ND,18/02/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936581,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1775,Västerås SK,Visita,ALL,18/02/2023,1,1,,,,,,2,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936581,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1775,Västerås SK,Visita,1ST,18/02/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936581,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1775,Västerås SK,Visita,2ND,18/02/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936564,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,7101,Varbergs BoIS,Local,ALL,26/02/2023,2,0,,,,,,4,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936564,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,7101,Varbergs BoIS,Local,1ST,26/02/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936564,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,7101,Varbergs BoIS,Local,2ND,26/02/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936564,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1775,Västerås SK,Visita,ALL,26/02/2023,2,2,,,,,,4,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936564,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1775,Västerås SK,Visita,1ST,26/02/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936564,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1775,Västerås SK,Visita,2ND,26/02/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936562,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1775,Västerås SK,Local,ALL,06/03/2023,3,2,,,,,,4,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936562,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1775,Västerås SK,Local,1ST,06/03/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936562,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1775,Västerås SK,Local,2ND,06/03/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936562,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1836,Östersunds FK,Visita,ALL,06/03/2023,3,2,,,,,,4,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936562,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1836,Östersunds FK,Visita,1ST,06/03/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936562,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1836,Östersunds FK,Visita,2ND,06/03/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910307,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1758,Hammarby IF,Local,ALL,17/02/2024,1,1,55%,1.90,,19,3,7,9,538,2,2,1,0,8,0,7,4,9,10,,,7,,,1,469,21,,,23/42 (54%),7/17 (41%),41%,107,85/203 (42%),7/21 (33%),29/40 (73%),,2,36,,14,,3,,,,,7
+11910307,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1758,Hammarby IF,Local,1ST,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910307,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1758,Hammarby IF,Local,2ND,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910307,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Visita,ALL,17/02/2024,1,2,45%,1.60,,20,7,6,17,400,4,3,2,0,5,0,5,10,9,11,,,1,,,1,347,13,,,19/38 (50%),6/16 (37%),37%,104,73/203 (36%),12/21 (57%),24/31 (77%),,4,55,,23,,7,,,,,12
+11910307,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Visita,1ST,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910307,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Visita,2ND,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910290,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Local,ALL,04/03/2024,3,1,60%,2.05,,19,3,12,8,713,1,4,1,0,9,0,3,7,13,6,,,1,36,,2,618,24,,91/113 (81%),23/39 (58%),12/34 (35%),39%,5,70/191 (37%),19/37 (51%),27/33 (82%),,1,20,,3,6,3,,,0,,2
+11910290,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Local,1ST,04/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910290,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Local,2ND,04/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910290,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1763,GIF Sundsvall,Visita,ALL,04/03/2024,3,1,40%,0.94,,9,8,3,9,406,3,0,3,0,4,0,2,3,6,3,,,1,10,,3,330,14,,14/30 (47%),27/49 (55%),3/4 (75%),26%,12,42/184 (23%),15/35 (43%),17/30 (57%),,3,35,,29,4,8,,,1,,10
+11910290,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1763,GIF Sundsvall,Visita,1ST,04/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910290,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1763,GIF Sundsvall,Visita,2ND,04/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13276563,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1775,Västerås SK,Local,ALL,16/02/2025,1,5,55%,6.59,,30,2,13,9,510,1,0,0,0,12,0,8,10,23,7,,,1,56,,1,428,21,,36/48 (75%),20/34 (58%),12/30 (40%),42%,6,40/114 (35%),21/28 (75%),13/22 (59%),,1,17,,18,1,2,,,0,,3
+13276563,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1775,Västerås SK,Local,1ST,16/02/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13276563,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1775,Västerås SK,Local,2ND,16/02/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13276563,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,7063,Skövde AIK,Visita,ALL,16/02/2025,1,0,45%,0.59,,4,8,4,5,431,0,0,0,0,2,0,2,0,4,0,,,3,13,,1,346,28,,26/40 (65%),24/47 (51%),3/13 (23%),28%,12,38/124 (31%),6/30 (20%),8/13 (62%),,0,17,,18,10,8,,,1,,12
+13276563,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,7063,Skövde AIK,Visita,1ST,16/02/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13276563,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,7063,Skövde AIK,Visita,2ND,16/02/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13276562,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1775,Västerås SK,Local,ALL,24/02/2025,2,2,44%,2.24,,13,4,12,18,290,0,2,6,0,7,0,2,3,9,4,,,1,25,,0,222,20,,30/43 (70%),26/41 (63%),3/19 (15%),37%,7,59/171 (35%),16/30 (53%),18/25 (72%),,0,12,,13,2,4,,,0,,4
+13276562,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1775,Västerås SK,Local,1ST,24/02/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13276562,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1775,Västerås SK,Local,2ND,24/02/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13276562,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,7536,Utsiktens BK,Visita,ALL,24/02/2025,2,1,56%,1.06,,8,6,4,18,394,0,4,2,0,5,0,2,1,2,6,,,0,5,,3,339,15,,25/34 (74%),35/50 (70%),3/9 (33%),33%,10,56/171 (33%),13/32 (41%),20/26 (77%),,0,9,,25,3,6,,,2,,9
+13276562,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,7536,Utsiktens BK,Visita,1ST,24/02/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13276562,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,7536,Utsiktens BK,Visita,2ND,24/02/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13276558,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1892,Malmö FF,Local,ALL,02/03/2025,3,3,68%,2.64,,16,0,11,12,662,1,2,0,0,7,0,6,3,8,8,,,3,35,,1,591,19,,49/58 (84%),18/31 (58%),11/23 (47%),44%,4,57/132 (43%),16/31 (52%),21/25 (84%),,1,12,,13,2,0,,,0,,4
+13276558,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1892,Malmö FF,Local,1ST,02/03/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13276558,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1892,Malmö FF,Local,2ND,02/03/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13276558,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1775,Västerås SK,Visita,ALL,02/03/2025,3,0,32%,0.54,,8,4,3,14,262,0,2,3,0,0,0,2,6,4,4,,,0,8,,1,209,15,,15/22 (68%),16/37 (43%),4/11 (36%),30%,8,33/124 (27%),14/31 (45%),12/18 (67%),,0,15,,26,1,4,,,1,,9
+13276558,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1775,Västerås SK,Visita,1ST,02/03/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13276558,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1775,Västerås SK,Visita,2ND,02/03/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195359,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1764,AIK,Local,ALL,22/02/2026,1,0,67%,1.39,,12,2,5,11,680,3,1,1,0,7,0,3,2,7,5,,,3,28,,2,596,26,,57/70 (81%),30/50 (60%),8/26 (30%),40%,9,63/165 (38%),17/31 (55%),24/30 (80%),,3,15,,10,3,2,,,,,5
+15195359,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1764,AIK,Local,1ST,22/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195359,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1764,AIK,Local,2ND,22/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195359,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Visita,ALL,22/02/2026,1,2,33%,0.74,,7,7,2,17,415,0,1,2,0,4,0,3,0,4,3,,,0,9,,0,344,15,,32/51 (63%),29/53 (54%),2/5 (40%),28%,4,41/155 (26%),12/32 (38%),12/18 (67%),,0,17,,18,4,7,,,,,8
+15195359,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Visita,1ST,22/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195359,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Visita,2ND,22/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195323,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1760,BK Häcken,Local,ALL,01/03/2026,2,4,41%,2.29,,16,2,5,14,390,7,2,0,0,10,0,2,4,10,6,,,2,30,,1,327,12,,30/43 (70%),16/35 (45%),4/11 (36%),41%,9,69/177 (39%),16/30 (53%),25/34 (74%),,7,12,,17,5,2,,,1,,5
+15195323,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1760,BK Häcken,Local,1ST,01/03/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195323,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1760,BK Häcken,Local,2ND,01/03/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195323,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Visita,ALL,01/03/2026,2,1,59%,0.81,,8,8,4,21,592,1,0,4,0,3,0,1,4,4,4,,,2,8,,1,521,11,,37/47 (79%),25/39 (64%),1/15 (6%),34%,7,46/146 (32%),12/24 (50%),15/24 (63%),,1,17,,14,5,8,,,0,,5
+15195323,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Visita,1ST,01/03/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195323,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Visita,2ND,01/03/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195324,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Local,ALL,09/03/2026,3,0,62%,0.35,,7,4,5,15,668,0,1,1,0,1,0,3,3,2,5,,,0,12,,5,553,29,,57/74 (77%),20/40 (50%),6/17 (35%),30%,7,38/136 (28%),12/29 (41%),4/6 (67%),,0,14,,5,6,4,,,0,,7
+15195324,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Local,1ST,09/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195324,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Local,2ND,09/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195324,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1860,IK Oddevold,Visita,ALL,09/03/2026,3,1,38%,1.70,,13,1,6,16,354,2,3,2,0,5,0,4,4,9,4,,,0,22,,0,286,13,,28/39 (72%),26/47 (55%),2/8 (25%),40%,6,50/131 (38%),13/24 (54%),12/18 (67%),,2,24,,22,2,1,,,1,,7
+15195324,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1860,IK Oddevold,Visita,1ST,09/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195324,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1860,IK Oddevold,Visita,2ND,09/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

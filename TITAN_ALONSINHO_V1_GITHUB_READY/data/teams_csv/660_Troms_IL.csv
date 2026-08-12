@@ -1,0 +1,25 @@
+﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+12634463,17015,61648,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,660,Tromsø IL,Local,ALL,15/08/2024,3,0,65%,,,13,0,9,7,,,11,1,0,4,,9,0,,,,,,,,3,,11,,,,,,,,,,,,,,,,0,,,,,8
+12634463,17015,61648,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,660,Tromsø IL,Local,1ST,15/08/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12634463,17015,61648,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,660,Tromsø IL,Local,2ND,15/08/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12634463,17015,61648,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,2347,Kilmarnock,Visita,ALL,15/08/2024,3,1,35%,,,6,4,3,11,,,10,5,0,1,,3,2,,,,,,,,0,,18,,,,,,,,,,,,,,,,4,,,,,12
+12634463,17015,61648,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,2347,Kilmarnock,Visita,1ST,15/08/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12634463,17015,61648,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,2347,Kilmarnock,Visita,2ND,15/08/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16433009,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,660,Tromsø IL,Local,ALL,23/07/2026,2,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16433009,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,660,Tromsø IL,Local,1ST,23/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16433009,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,660,Tromsø IL,Local,2ND,23/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16433009,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2217,FC Hradec Králové,Visita,ALL,23/07/2026,2,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16433009,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2217,FC Hradec Králové,Visita,1ST,23/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16433009,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2217,FC Hradec Králové,Visita,2ND,23/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16434427,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2217,FC Hradec Králové,Local,ALL,30/07/2026,2,3,,,,,,,,,,,3,0,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16434427,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2217,FC Hradec Králové,Local,1ST,30/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16434427,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2217,FC Hradec Králové,Local,2ND,30/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16434427,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,660,Tromsø IL,Visita,ALL,30/07/2026,2,1,,,,,,,,,,,1,0,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16434427,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,660,Tromsø IL,Visita,1ST,30/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16434427,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,660,Tromsø IL,Visita,2ND,30/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16585827,17015,96529,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,5287,CFR 1907 Cluj,Local,ALL,06/08/2026,3,0,54%,,,,,4,13,,,12,2,0,1,,3,3,,,,,,,,1,,17,,,,,,,,,,,,,,,,,,,,,4
+16585827,17015,96529,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,5287,CFR 1907 Cluj,Local,1ST,06/08/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16585827,17015,96529,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,5287,CFR 1907 Cluj,Local,2ND,06/08/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16585827,17015,96529,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,660,Tromsø IL,Visita,ALL,06/08/2026,3,5,46%,,,,,0,12,,,15,1,0,9,,1,1,,,,,,,,0,,12,,,,,,,,,,,,,,,,,,,,,3
+16585827,17015,96529,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,660,Tromsø IL,Visita,1ST,06/08/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16585827,17015,96529,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,660,Tromsø IL,Visita,2ND,06/08/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

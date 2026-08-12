@@ -1,0 +1,49 @@
+﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+11910268,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1892,Malmö FF,Local,ALL,17/02/2024,1,2,54%,2.52,,13,3,8,15,527,3,4,2,0,5,0,4,4,9,4,,,1,28,,3,430,26,,25/43 (58%),18/40 (45%),8/22 (36%),42%,10,52/128 (41%),14/26 (54%),12/18 (67%),,3,14,,12,1,3,,,,,3
+11910268,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1892,Malmö FF,Local,1ST,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910268,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1892,Malmö FF,Local,2ND,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910268,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1781,Östers IF,Visita,ALL,17/02/2024,1,0,46%,0.55,,8,3,5,15,373,3,5,4,0,3,0,1,4,3,5,,,1,6,,6,287,21,,22/37 (59%),27/51 (52%),2/13 (15%),32%,16,39/128 (30%),11/25 (44%),6/6 (100%),,3,19,,10,3,3,,,,,7
+11910268,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1781,Östers IF,Visita,1ST,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910268,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1781,Östers IF,Visita,2ND,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910276,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1781,Östers IF,Local,ALL,03/03/2024,3,5,66%,6.74,,33,1,8,11,642,1,3,0,0,16,0,9,8,22,11,,,5,59,,2,561,24,,83/98 (85%),29/37 (78%),13/37 (35%),38%,6,57/150 (38%),6/15 (40%),25/40 (63%),,1,14,,4,0,1,,,0,,1
+11910276,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1781,Östers IF,Local,1ST,03/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910276,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1781,Östers IF,Local,2ND,03/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910276,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1852,IFK Luleå,Visita,ALL,03/03/2024,3,0,34%,0.12,,3,12,2,11,307,3,2,1,0,1,0,0,2,1,2,,,0,5,,0,230,16,,9/18 (50%),10/32 (31%),1/5 (20%),30%,15,44/148 (30%),7/19 (37%),11/14 (79%),,3,24,,34,9,12,,,1,,14
+11910276,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1852,IFK Luleå,Visita,1ST,03/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910276,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 1",CUP,1852,IFK Luleå,Visita,2ND,03/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278389,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1760,BK Häcken,Local,ALL,17/02/2025,1,3,63%,3.06,,21,1,15,12,740,1,1,1,0,10,0,5,6,14,7,,,4,60,,0,663,11,,53/69 (77%),24/44 (54%),8/23 (34%),33%,0,38/118 (32%),7/17 (41%),20/25 (80%),,1,12,,12,1,1,,,1,,5
+13278389,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1760,BK Häcken,Local,1ST,17/02/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278389,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1760,BK Häcken,Local,2ND,17/02/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278389,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1781,Östers IF,Visita,ALL,17/02/2025,1,0,37%,0.30,,7,7,4,5,388,2,2,0,0,1,0,3,3,3,4,,,0,6,,2,322,13,,20/27 (74%),18/35 (51%),1/5 (20%),36%,7,49/136 (36%),8/19 (42%),21/29 (72%),,2,20,,35,2,7,,,1,,5
+13278389,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1781,Östers IF,Visita,1ST,17/02/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278389,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1781,Östers IF,Visita,2ND,17/02/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278384,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1793,IK Sirius,Local,ALL,23/02/2025,2,0,49%,1.45,,21,4,4,6,517,0,1,0,0,3,0,10,8,7,14,,,1,26,,1,457,11,,56/68 (82%),26/43 (60%),9/19 (47%),37%,7,42/112 (38%),12/32 (38%),25/30 (83%),,0,21,,17,7,4,,,1,,8
+13278384,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1793,IK Sirius,Local,1ST,23/02/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278384,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1793,IK Sirius,Local,2ND,23/02/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278384,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1781,Östers IF,Visita,ALL,23/02/2025,2,3,51%,1.76,,14,3,5,10,521,3,3,3,0,6,0,3,5,7,7,,,6,28,,3,448,21,,31/44 (70%),31/43 (72%),7/22 (31%),32%,2,35/118 (30%),12/27 (44%),12/19 (63%),,3,13,,11,3,3,,,1,,17
+13278384,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1781,Östers IF,Visita,1ST,23/02/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278384,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1781,Östers IF,Visita,2ND,23/02/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278388,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1781,Östers IF,Local,ALL,01/03/2025,3,1,49%,0.59,,9,1,3,14,436,2,1,3,0,3,1,3,2,7,2,,,0,20,,4,351,17,,39/57 (68%),34/53 (64%),4/18 (22%),40%,7,47/126 (37%),12/18 (67%),11/15 (73%),,2,16,,8,2,1,,,,,6
+13278388,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1781,Östers IF,Local,1ST,01/03/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278388,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1781,Östers IF,Local,2ND,01/03/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278388,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1890,Helsingborgs IF,Visita,ALL,01/03/2025,3,0,51%,0.67,,7,3,3,12,518,0,2,0,0,1,0,2,4,4,3,,,0,9,,1,427,23,,45/63 (71%),29/57 (50%),2/8 (25%),32%,6,42/133 (32%),7/18 (39%),12/24 (50%),,0,20,,8,3,3,,,,,9
+13278388,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1890,Helsingborgs IF,Visita,1ST,01/03/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278388,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 8",CUP,1890,Helsingborgs IF,Visita,2ND,01/03/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193521,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1781,Östers IF,Local,ALL,21/02/2026,1,3,57%,2.42,,14,3,7,16,554,2,2,2,0,6,0,5,3,11,3,,,0,28,,1,481,13,,40/59 (68%),29/52 (55%),4/14 (28%),45%,11,41/106 (39%),20/29 (69%),18/25 (72%),,2,21,,19,2,3,,,,,9
+15193521,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1781,Östers IF,Local,1ST,21/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193521,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1781,Östers IF,Local,2ND,21/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193521,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1768,Örebro SK,Visita,ALL,21/02/2026,1,3,43%,3.10,,13,4,6,12,440,4,5,3,0,6,0,5,2,8,5,,,0,17,,0,362,11,,26/45 (58%),22/40 (55%),3/10 (30%),31%,6,36/106 (34%),7/31 (23%),11/15 (73%),,4,13,,21,5,4,,,,,10
+15193521,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1768,Örebro SK,Visita,1ST,21/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193521,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1768,Örebro SK,Visita,2ND,21/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193530,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1781,Östers IF,Local,ALL,28/02/2026,2,4,50%,3.31,,17,2,4,8,524,3,2,2,0,6,0,7,4,12,5,,,2,27,,2,463,12,,52/67 (78%),22/36 (61%),4/14 (28%),39%,11,47/129 (36%),13/22 (59%),19/25 (76%),,3,17,,12,5,2,,,1,,5
+15193530,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1781,Östers IF,Local,1ST,28/02/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193530,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1781,Östers IF,Local,2ND,28/02/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193530,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1777,IK Brage,Visita,ALL,28/02/2026,2,1,50%,1.42,,10,2,3,12,530,3,1,3,0,3,0,4,3,4,6,,,2,11,,0,460,16,,49/61 (80%),29/45 (64%),3/16 (18%),27%,13,34/132 (26%),8/20 (40%),10/14 (71%),,3,18,,8,8,2,,,0,,16
+15193530,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1777,IK Brage,Visita,1ST,28/02/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193530,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1777,IK Brage,Visita,2ND,28/02/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193529,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Local,ALL,07/03/2026,3,7,62%,2.88,,28,1,7,10,594,1,1,1,0,11,0,13,4,15,13,,,1,33,,1,533,15,,44/56 (79%),10/23 (43%),2/8 (25%),50%,7,53/108 (49%),13/23 (57%),17/24 (71%),,1,7,,7,1,1,,,,,2
+15193529,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Local,1ST,07/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193529,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Local,2ND,07/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193529,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1781,Östers IF,Visita,ALL,07/03/2026,3,0,38%,0.24,,3,4,0,10,331,2,0,1,0,1,0,0,2,2,1,,,1,9,,2,279,14,,21/29 (72%),25/39 (64%),1/3 (33%),32%,9,34/107 (32%),8/23 (35%),6/12 (50%),,2,14,,19,12,4,,,,,16
+15193529,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1781,Östers IF,Visita,1ST,07/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193529,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1781,Östers IF,Visita,2ND,07/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

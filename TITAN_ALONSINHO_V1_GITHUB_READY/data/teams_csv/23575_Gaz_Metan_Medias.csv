@@ -1,0 +1,235 @@
+﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+9605376,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,17/07/2021,1,1,45%,,,6,1,0,18,,,22,4,1,2,,3,1,,,,,,,,1,,21,,,,,,,,,,,,,,,,1,,,,,16
+9605376,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,17/07/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9605376,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,17/07/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9605376,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,7731,CS Mioveni,Visita,ALL,17/07/2021,1,0,55%,,,16,1,9,17,,,19,1,0,1,,8,7,,,,,,,,5,,17,,,,,,,,,,,,,,,,1,,,,,5
+9605376,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,7731,CS Mioveni,Visita,1ST,17/07/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9605376,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,7731,CS Mioveni,Visita,2ND,17/07/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9605397,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,3294,FCV Farul Constanța,Local,ALL,25/07/2021,2,2,49%,,,17,2,6,22,,,18,4,0,6,,8,3,,,,,,,,2,,19,,,,,,,,,,,,,,,,2,,,,,7
+9605397,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,3294,FCV Farul Constanța,Local,1ST,25/07/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9605397,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,3294,FCV Farul Constanța,Local,2ND,25/07/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9605397,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,25/07/2021,2,0,51%,,,7,3,5,15,,,24,3,0,2,,5,0,,,,,,,,3,,30,,,,,,,,,,,,,,,,3,,,,,11
+9605397,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,25/07/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9605397,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,25/07/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9611968,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,30/07/2021,3,2,,,,8,1,5,12,,,12,0,0,3,,2,3,,,,,,,,1,,19,,,,,,,,,,,,,,,,1,,,,,7
+9611968,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,30/07/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9611968,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,30/07/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9611968,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,116221,FC Argeș Pitești,Visita,ALL,30/07/2021,3,2,,,,5,1,2,12,,,13,1,0,3,,2,0,,,,,,,,0,,28,,,,,,,,,,,,,,,,1,,,,,7
+9611968,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,116221,FC Argeș Pitești,Visita,1ST,30/07/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9611968,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,116221,FC Argeș Pitești,Visita,2ND,30/07/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9617206,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,3301,FCSB,Local,ALL,08/08/2021,4,2,,,,16,1,7,13,,,10,1,0,6,,10,0,,,,,,,,0,,16,,,,,,,,,,,,,,,,1,,,,,9
+9617206,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,3301,FCSB,Local,1ST,08/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9617206,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,3301,FCSB,Local,2ND,08/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9617206,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,08/08/2021,4,1,,,,7,4,5,9,,,13,3,0,2,,5,0,,,,,,,,1,,21,,,,,,,,,,,,,,,,4,,,,,13
+9617206,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,08/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9617206,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,08/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625790,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,16/08/2021,5,0,,,,12,4,6,13,,,12,2,0,5,,4,3,,,,,,,,1,,20,,,,,,,,,,,,,,,,4,,,,,13
+9625790,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,16/08/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625790,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,16/08/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625790,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,24798,FC Botoșani,Visita,ALL,16/08/2021,5,1,,,,13,4,4,12,,,14,0,0,5,,7,1,,,,,,,,0,,19,,,,,,,,,,,,,,,,4,,,,,10
+9625790,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,24798,FC Botoșani,Visita,1ST,16/08/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625790,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,24798,FC Botoșani,Visita,2ND,16/08/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625798,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,116223,Universitatea Craiova,Local,ALL,21/08/2021,6,1,,,,14,1,7,17,,,15,4,0,3,,6,5,,,,,,,,2,,26,,,,,,,,,,,,,,,,1,,,,,2
+9625798,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,116223,Universitatea Craiova,Local,1ST,21/08/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625798,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,116223,Universitatea Craiova,Local,2ND,21/08/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625798,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,21/08/2021,6,0,,,,3,2,3,11,,,19,4,0,1,,0,2,,,,,,,,4,,20,,,,,,,,,,,,,,,,2,,,,,10
+9625798,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,21/08/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625798,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,21/08/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625807,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,30/08/2021,7,0,49%,,,5,0,5,10,,,20,1,0,1,,3,1,,,,,,,,2,,19,,,,,,,,,,,,,,,,0,,,,,11
+9625807,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,30/08/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625807,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,30/08/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625807,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,204657,UTA Arad,Visita,ALL,30/08/2021,7,1,51%,,,9,1,4,18,,,12,4,0,2,,5,2,,,,,,,,2,,21,,,,,,,,,,,,,,,,1,,,,,5
+9625807,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,204657,UTA Arad,Visita,1ST,30/08/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625807,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,204657,UTA Arad,Visita,2ND,30/08/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625816,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,12/09/2021,8,1,52%,,,14,3,6,8,,,24,1,0,5,,9,0,,,,,,,,0,,23,,,,,,,,,,,,,,,,3,,,,,4
+9625816,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,12/09/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625816,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,12/09/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625816,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,44255,FC Voluntari,Visita,ALL,12/09/2021,8,2,48%,,,8,4,9,17,,,8,3,0,5,,3,0,,,,,,,,7,,19,,,,,,,,,,,,,,,,4,,,,,10
+9625816,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,44255,FC Voluntari,Visita,1ST,12/09/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625816,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,44255,FC Voluntari,Visita,2ND,12/09/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625823,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,295403,FC Rapid București,Local,ALL,17/09/2021,9,1,54%,,,12,2,13,17,,,7,4,0,5,,7,0,,,,,,,,0,,30,,,,,,,,,,,,,,,,2,,,,,4
+9625823,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,295403,FC Rapid București,Local,1ST,17/09/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625823,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,295403,FC Rapid București,Local,2ND,17/09/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625823,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,17/09/2021,9,2,46%,,,6,3,4,6,,,17,2,0,4,,2,0,,,,,,,,1,,13,,,,,,,,,,,,,,,,3,,,,,16
+9625823,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,17/09/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625823,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,17/09/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625830,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,27/09/2021,10,0,36%,,,3,8,1,16,,,19,3,0,2,,1,0,,,,,,,,4,,20,,,,,,,,,,,,,,,,8,,,,,7
+9625830,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,27/09/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625830,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,27/09/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625830,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,ALL,27/09/2021,10,0,64%,,,13,2,5,17,,,20,4,0,8,,3,2,,,,,,,,2,,28,,,,,,,,,,,,,,,,2,,,,,3
+9625830,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,1ST,27/09/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625830,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,2ND,27/09/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625837,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,5287,CFR 1907 Cluj,Local,ALL,03/10/2021,11,2,55%,,,9,1,7,12,,,19,1,0,2,,5,2,,,,,,,,3,,28,,,,,,,,,,,,,,,,1,,,,,5
+9625837,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,5287,CFR 1907 Cluj,Local,1ST,03/10/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625837,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,5287,CFR 1907 Cluj,Local,2ND,03/10/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625837,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,03/10/2021,11,1,45%,,,3,0,4,19,,,15,3,0,2,,1,0,,,,,,,,0,,21,,,,,,,,,,,,,,,,0,,,,,20
+9625837,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,03/10/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625837,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,03/10/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625842,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,15/10/2021,12,2,45%,,,8,0,3,12,,,15,3,0,4,,3,1,,,,,,,,0,,16,,,,,,,,,,,,,,,,0,,,,,10
+9625842,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,15/10/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625842,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,15/10/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625842,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,3292,FC Dinamo București,Visita,ALL,15/10/2021,12,1,55%,,,5,2,7,14,,,12,3,1,1,,2,2,,,,,,,,1,,24,,,,,,,,,,,,,,,,2,,,,,6
+9625842,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,3292,FC Dinamo București,Visita,1ST,15/10/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625842,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,3292,FC Dinamo București,Visita,2ND,15/10/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625857,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,312033,FCU 1948 Craiova,Local,ALL,22/10/2021,13,2,57%,,,13,4,10,12,,,16,0,0,5,,5,3,,,,,,,,0,,24,,,,,,,,,,,,,,,,4,,,,,9
+9625857,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,312033,FCU 1948 Craiova,Local,1ST,22/10/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625857,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,312033,FCU 1948 Craiova,Local,2ND,22/10/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625857,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,22/10/2021,13,0,43%,,,9,3,3,14,,,12,2,1,4,,4,1,,,,,,,,2,,27,,,,,,,,,,,,,,,,3,,,,,10
+9625857,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,22/10/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625857,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,22/10/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625859,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,31/10/2021,14,1,,,,10,2,1,19,,,15,2,0,5,,2,3,,,,,,,,2,,18,,,,,,,,,,,,,,,,2,,,,,13
+9625859,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,31/10/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625859,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,31/10/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625859,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,31/10/2021,14,1,,,,11,4,6,10,,,21,2,0,3,,5,3,,,,,,,,5,,27,,,,,,,,,,,,,,,,4,,,,,7
+9625859,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,31/10/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625859,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,31/10/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625868,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,56127,Chindia Târgoviște,Local,ALL,05/11/2021,15,0,54%,,,7,1,3,16,,,11,2,0,1,,6,0,,,,,,,,1,,20,,,,,,,,,,,,,,,,1,,,,,6
+9625868,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,56127,Chindia Târgoviște,Local,1ST,05/11/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625868,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,56127,Chindia Târgoviște,Local,2ND,05/11/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625868,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,05/11/2021,15,1,46%,,,10,1,3,11,,,17,4,0,2,,4,4,,,,,,,,0,,32,,,,,,,,,,,,,,,,1,,,,,12
+9625868,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,05/11/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625868,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,05/11/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625878,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,7731,CS Mioveni,Local,ALL,22/11/2021,16,1,48%,,,9,2,7,14,,,9,1,0,2,,5,2,,,,,,,,1,,33,,,,,,,,,,,,,,,,2,,,,,5
+9625878,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,7731,CS Mioveni,Local,1ST,22/11/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625878,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,7731,CS Mioveni,Local,2ND,22/11/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625878,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,22/11/2021,16,0,52%,,,3,1,1,9,,,15,5,0,2,,1,0,,,,,,,,0,,24,,,,,,,,,,,,,,,,1,,,,,8
+9625878,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,22/11/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625878,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,22/11/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625886,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,29/11/2021,17,1,35%,,,2,4,1,14,,,15,4,0,2,,0,0,,,,,,,,1,,14,,,,,,,,,,,,,,,,4,,,,,15
+9625886,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,29/11/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625886,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,29/11/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625886,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,3294,FCV Farul Constanța,Visita,ALL,29/11/2021,17,1,65%,,,12,1,4,13,,,15,1,0,5,,5,2,,,,,,,,2,,24,,,,,,,,,,,,,,,,1,,,,,3
+9625886,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,3294,FCV Farul Constanța,Visita,1ST,29/11/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625886,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,3294,FCV Farul Constanța,Visita,2ND,29/11/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625895,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,116221,FC Argeș Pitești,Local,ALL,06/12/2021,18,1,54%,,,8,2,3,9,,,20,0,0,4,,4,0,,,,,,,,1,,18,,,,,,,,,,,,,,,,2,,,,,3
+9625895,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,116221,FC Argeș Pitești,Local,1ST,06/12/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625895,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,116221,FC Argeș Pitești,Local,2ND,06/12/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625895,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,06/12/2021,18,2,46%,,,6,3,0,16,,,10,2,0,4,,1,1,,,,,,,,4,,20,,,,,,,,,,,,,,,,3,,,,,7
+9625895,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,06/12/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625895,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,06/12/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625903,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,11/12/2021,19,0,40%,,,2,1,6,14,,,14,3,0,0,,2,0,,,,,,,,1,,23,,,,,,,,,,,,,,,,1,,,,,13
+9625903,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,11/12/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625903,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,11/12/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625903,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,3301,FCSB,Visita,ALL,11/12/2021,19,1,60%,,,12,0,8,14,,,15,2,0,4,,6,2,,,,,,,,0,,24,,,,,,,,,,,,,,,,0,,,,,7
+9625903,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,3301,FCSB,Visita,1ST,11/12/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625903,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,3301,FCSB,Visita,2ND,11/12/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625911,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,24798,FC Botoșani,Local,ALL,15/12/2021,20,2,49%,,,8,2,3,17,,,24,3,0,5,,2,1,,,,,,,,3,,15,,,,,,,,,,,,,,,,2,,,,,7
+9625911,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,24798,FC Botoșani,Local,1ST,15/12/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625911,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,24798,FC Botoșani,Local,2ND,15/12/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625911,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,15/12/2021,20,1,51%,,,7,3,4,24,,,20,6,0,3,,4,0,,,,,,,,0,,23,,,,,,,,,,,,,,,,3,,,,,8
+9625911,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,15/12/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625911,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,15/12/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625919,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,18/12/2021,21,1,42%,,,4,3,0,16,,,20,3,0,1,,3,0,,,,,,,,3,,29,,,,,,,,,,,,,,,,3,,,,,13
+9625919,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,18/12/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625919,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,18/12/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625919,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,116223,Universitatea Craiova,Visita,ALL,18/12/2021,21,1,58%,,,13,0,8,14,,,19,3,0,4,,6,3,,,,,,,,6,,29,,,,,,,,,,,,,,,,0,,,,,7
+9625919,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,116223,Universitatea Craiova,Visita,1ST,18/12/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625919,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,116223,Universitatea Craiova,Visita,2ND,18/12/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625928,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,204657,UTA Arad,Local,ALL,23/01/2022,22,0,63%,,,14,0,3,16,,,17,3,0,6,,4,4,,,,,,,,2,,40,,,,,,,,,,,,,,,,0,,,,,8
+9625928,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,204657,UTA Arad,Local,1ST,23/01/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625928,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,204657,UTA Arad,Local,2ND,23/01/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625928,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,23/01/2022,22,1,37%,,,7,5,1,16,,,18,5,0,1,,4,2,,,,,,,,1,,20,,,,,,,,,,,,,,,,5,,,,,16
+9625928,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,23/01/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625928,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,23/01/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625937,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,44255,FC Voluntari,Local,ALL,29/01/2022,23,3,65%,,,10,1,4,24,,,13,0,0,5,,3,2,,,,,,,,1,,15,,,,,,,,,,,,,,,,1,,,,,5
+9625937,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,44255,FC Voluntari,Local,1ST,29/01/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625937,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,44255,FC Voluntari,Local,2ND,29/01/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625937,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,29/01/2022,23,1,35%,,,9,2,6,9,,,25,1,0,3,,2,4,,,,,,,,4,,21,,,,,,,,,,,,,,,,2,,,,,7
+9625937,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,29/01/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625937,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,29/01/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625944,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,04/02/2022,24,1,42%,,,9,1,5,8,,,12,2,0,1,,6,2,,,,,,,,5,,20,,,,,,,,,,,,,,,,1,,,,,10
+9625944,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,04/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625944,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,04/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625944,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,295403,FC Rapid București,Visita,ALL,04/02/2022,24,1,58%,,,8,0,4,12,,,13,1,0,2,,4,2,,,,,,,,0,,20,,,,,,,,,,,,,,,,0,,,,,8
+9625944,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,295403,FC Rapid București,Visita,1ST,04/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625944,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,295403,FC Rapid București,Visita,2ND,04/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625951,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,ALL,08/02/2022,25,2,,,,21,0,4,15,,,21,1,0,10,,6,5,,,,,,,,1,,22,,,,,,,,,,,,,,,,0,,,,,4
+9625951,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,1ST,08/02/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625951,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,2ND,08/02/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625951,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,08/02/2022,25,0,,,,2,8,1,19,,,16,3,0,0,,2,0,,,,,,,,2,,22,,,,,,,,,,,,,,,,8,,,,,11
+9625951,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,08/02/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625951,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,08/02/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625958,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,12/02/2022,26,1,31%,,,12,6,5,12,,,15,3,0,2,,10,0,,,,,,,,2,,14,,,,,,,,,,,,,,,,6,,,,,10
+9625958,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,12/02/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625958,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,12/02/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625958,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,5287,CFR 1907 Cluj,Visita,ALL,12/02/2022,26,2,69%,,,20,1,4,12,,,14,1,0,9,,8,3,,,,,,,,3,,20,,,,,,,,,,,,,,,,1,,,,,11
+9625958,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,5287,CFR 1907 Cluj,Visita,1ST,12/02/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625958,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,5287,CFR 1907 Cluj,Visita,2ND,12/02/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625963,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,3292,FC Dinamo București,Local,ALL,18/02/2022,27,4,60%,,,14,0,4,11,,,11,4,0,9,,3,2,,,,,,,,3,,21,,,,,,,,,,,,,,,,0,,,,,3
+9625963,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,3292,FC Dinamo București,Local,1ST,18/02/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625963,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,3292,FC Dinamo București,Local,2ND,18/02/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625963,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,18/02/2022,27,0,40%,,,2,5,3,8,,,14,1,0,0,,2,0,,,,,,,,3,,17,,,,,,,,,,,,,,,,5,,,,,13
+9625963,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,18/02/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625963,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,18/02/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625978,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,26/02/2022,28,0,41%,,,2,6,0,21,,,15,1,0,0,,2,0,,,,,,,,0,,11,,,,,,,,,,,,,,,,6,,,,,9
+9625978,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,26/02/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625978,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,26/02/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625978,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,312033,FCU 1948 Craiova,Visita,ALL,26/02/2022,28,3,59%,,,18,0,6,15,,,21,1,0,9,,4,5,,,,,,,,0,,20,,,,,,,,,,,,,,,,0,,,,,5
+9625978,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,312033,FCU 1948 Craiova,Visita,1ST,26/02/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625978,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,312033,FCU 1948 Craiova,Visita,2ND,26/02/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625980,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,02/03/2022,29,2,60%,,,20,0,8,20,,,16,1,0,6,,8,6,,,,,,,,3,,27,,,,,,,,,,,,,,,,0,,,,,4
+9625980,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,02/03/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625980,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,02/03/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625980,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,02/03/2022,29,0,40%,,,4,4,0,16,,,23,1,0,0,,4,0,,,,,,,,0,,20,,,,,,,,,,,,,,,,4,,,,,10
+9625980,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,02/03/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625980,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,02/03/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625989,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,06/03/2022,30,0,0%,,,0,0,0,0,,,0,0,0,0,,0,0,,,,,,,,0,,0,,,,,,,,,,,,,,,,0,,,,,0
+9625989,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,06/03/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625989,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,06/03/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625989,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,06/03/2022,30,4,0%,,,0,0,0,0,,,0,0,0,0,,0,0,,,,,,,,0,,0,,,,,,,,,,,,,,,,0,,,,,0
+9625989,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,06/03/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625989,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,06/03/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183180,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,24798,FC Botoșani,Local,ALL,14/03/2022,1,5,53%,,,12,2,8,23,,,12,3,0,5,,5,2,,,,,,,,4,,19,,,,,,,,,,,,,,,,2,,,,,9
+10183180,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,24798,FC Botoșani,Local,1ST,14/03/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183180,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,24798,FC Botoșani,Local,2ND,14/03/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183180,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,14/03/2022,1,0,47%,,,6,1,2,12,,,27,2,0,2,,4,0,,,,,,,,0,,16,,,,,,,,,,,,,,,,1,,,,,10
+10183180,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,14/03/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183180,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,14/03/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183188,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,19/03/2022,2,0,41%,,,5,6,3,12,,,13,1,0,2,,1,2,,,,,,,,1,,17,,,,,,,,,,,,,,,,6,,,,,21
+10183188,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,19/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183188,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,19/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183188,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,312033,FCU 1948 Craiova,Visita,ALL,19/03/2022,2,2,59%,,,26,2,9,12,,,13,1,0,8,,14,4,,,,,,,,1,,29,,,,,,,,,,,,,,,,2,,,,,2
+10183188,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,312033,FCU 1948 Craiova,Visita,1ST,19/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183188,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,312033,FCU 1948 Craiova,Visita,2ND,19/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183182,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,204657,UTA Arad,Local,ALL,02/04/2022,3,4,62%,,,20,1,14,20,,,7,3,0,11,,5,3,,,,,,,,5,,21,,,,,,,,,,,,,,,,1,,,,,5
+10183182,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,204657,UTA Arad,Local,1ST,02/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183182,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,204657,UTA Arad,Local,2ND,02/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183182,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,02/04/2022,3,0,38%,,,8,5,2,7,,,25,1,0,1,,4,3,,,,,,,,0,,22,,,,,,,,,,,,,,,,5,,,,,10
+10183182,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,02/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183182,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,02/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183171,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,11/04/2022,4,1,40%,,,5,3,4,6,,,29,2,0,2,,2,1,,,,,,,,1,,17,,,,,,,,,,,,,,,,3,,,,,13
+10183171,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,11/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183171,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,11/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183171,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,7731,CS Mioveni,Visita,ALL,11/04/2022,4,2,60%,,,21,1,9,27,,,7,2,0,6,,11,4,,,,,,,,2,,29,,,,,,,,,,,,,,,,1,,,,,5
+10183171,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,7731,CS Mioveni,Visita,1ST,11/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183171,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,7731,CS Mioveni,Visita,2ND,11/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183178,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,295403,FC Rapid București,Local,ALL,18/04/2022,5,8,,,,39,0,20,14,,,4,0,0,19,,10,10,,,,,,,,4,,23,,,,,,,,,,,,,,,,0,,,,,4
+10183178,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,295403,FC Rapid București,Local,1ST,18/04/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183178,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,295403,FC Rapid București,Local,2ND,18/04/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183178,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,18/04/2022,5,0,,,,2,11,0,4,,,18,0,0,0,,2,0,,,,,,,,0,,15,,,,,,,,,,,,,,,,11,,,,,13
+10183178,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,18/04/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183178,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,18/04/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183163,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,22/04/2022,6,0,40%,,,2,2,2,21,,,20,2,0,0,,2,0,,,,,,,,1,,21,,,,,,,,,,,,,,,,2,,,,,18
+10183163,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,22/04/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183163,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,22/04/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183163,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,3292,FC Dinamo București,Visita,ALL,22/04/2022,6,1,60%,,,9,0,11,16,,,22,5,0,3,,6,0,,,,,,,,4,,16,,,,,,,,,,,,,,,,0,,,,,5
+10183163,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,3292,FC Dinamo București,Visita,1ST,22/04/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183163,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,3292,FC Dinamo București,Visita,2ND,22/04/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183219,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,ALL,29/04/2022,7,3,61%,,,16,2,12,10,,,8,4,0,6,,8,2,,,,,,,,4,,19,,,,,,,,,,,,,,,,2,,,,,2
+10183219,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,1ST,29/04/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183219,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,2ND,29/04/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183219,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,29/04/2022,7,1,39%,,,5,2,6,7,,,14,1,0,4,,0,1,,,,,,,,1,,23,,,,,,,,,,,,,,,,2,,,,,13
+10183219,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,29/04/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183219,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,29/04/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183204,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,06/05/2022,8,4,,,,14,3,4,15,,,18,2,0,7,,7,0,,,,,,,,0,,22,,,,,,,,,,,,,,,,3,,,,,11
+10183204,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,06/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183204,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,06/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183204,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,06/05/2022,8,3,,,,11,2,5,14,,,15,0,0,5,,6,0,,,,,,,,4,,21,,,,,,,,,,,,,,,,2,,,,,11
+10183204,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,06/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183204,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,06/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183954,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,ALL,13/05/2022,9,3,,,,28,1,7,16,,,10,0,0,11,,6,11,,,,,,,,4,,8,,,,,,,,,,,,,,,,1,,,,,3
+10183954,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,1ST,13/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183954,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,2ND,13/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183954,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,13/05/2022,9,0,,,,3,8,1,10,,,20,1,0,1,,2,0,,,,,,,,0,,26,,,,,,,,,,,,,,,,8,,,,,13
+10183954,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,13/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183954,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,13/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

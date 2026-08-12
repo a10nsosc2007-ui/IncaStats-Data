@@ -1,0 +1,325 @@
+﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+9605367,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,ALL,16/07/2021,1,2,,,,14,0,7,4,,,20,1,0,5,,9,0,,,,,,,,1,,29,,,,,,,,,,,,,,,,0,,,,,5
+9605367,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,1ST,16/07/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9605367,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,2ND,16/07/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9605367,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,16/07/2021,1,0,,,,2,3,3,20,,,5,4,0,0,,1,1,,,,,,,,0,,21,,,,,,,,,,,,,,,,3,,,,,17
+9605367,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,16/07/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9605367,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,16/07/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9604459,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,24/07/2021,2,1,40%,,,3,1,3,13,,,11,3,0,1,,2,0,,,,,,,,1,,25,,,,,,,,,,,,,,,,1,,,,,14
+9604459,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,24/07/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9604459,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,24/07/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9604459,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,5287,CFR 1907 Cluj,Visita,ALL,24/07/2021,2,2,60%,,,16,0,11,11,,,14,4,0,3,,6,7,,,,,,,,0,,20,,,,,,,,,,,,,,,,0,,,,,5
+9604459,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,5287,CFR 1907 Cluj,Visita,1ST,24/07/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9604459,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,5287,CFR 1907 Cluj,Visita,2ND,24/07/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9611980,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,3292,FC Dinamo București,Local,ALL,02/08/2021,3,3,54%,,,14,3,2,10,,,10,2,0,6,,7,1,,,,,,,,2,,23,,,,,,,,,,,,,,,,3,,,,,5
+9611980,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,3292,FC Dinamo București,Local,1ST,02/08/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9611980,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,3292,FC Dinamo București,Local,2ND,02/08/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9611980,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,02/08/2021,3,1,46%,,,9,3,6,9,,,12,2,0,4,,2,3,,,,,,,,1,,21,,,,,,,,,,,,,,,,3,,,,,13
+9611980,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,02/08/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9611980,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,02/08/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625785,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,07/08/2021,4,1,49%,,,8,0,3,14,,,17,5,0,2,,5,1,,,,,,,,2,,27,,,,,,,,,,,,,,,,0,,,,,11
+9625785,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,07/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625785,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,07/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625785,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,312033,FCU 1948 Craiova,Visita,ALL,07/08/2021,4,2,51%,,,12,1,1,15,,,16,3,0,2,,7,3,,,,,,,,2,,18,,,,,,,,,,,,,,,,1,,,,,8
+9625785,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,312033,FCU 1948 Craiova,Visita,1ST,07/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625785,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,312033,FCU 1948 Craiova,Visita,2ND,07/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625792,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,44255,FC Voluntari,Local,ALL,13/08/2021,5,1,47%,,,12,1,5,17,,,11,3,0,6,,4,2,,,,,,,,1,,19,,,,,,,,,,,,,,,,1,,,,,13
+9625792,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,44255,FC Voluntari,Local,1ST,13/08/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625792,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,44255,FC Voluntari,Local,2ND,13/08/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625792,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,13/08/2021,5,0,53%,,,12,4,6,10,,,18,0,0,1,,8,3,,,,,,,,1,,24,,,,,,,,,,,,,,,,4,,,,,10
+9625792,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,13/08/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625792,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,13/08/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625799,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Local,ALL,20/08/2021,6,2,,,,6,3,1,14,,,12,4,0,3,,3,0,,,,,,,,0,,27,,,,,,,,,,,,,,,,3,,,,,10
+9625799,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Local,1ST,20/08/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625799,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,56127,Chindia Târgoviște,Local,2ND,20/08/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625799,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,20/08/2021,6,2,,,,12,1,2,10,,,14,1,0,5,,5,2,,,,,,,,2,,28,,,,,,,,,,,,,,,,1,,,,,6
+9625799,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,20/08/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625799,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,20/08/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625806,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,30/08/2021,7,1,44%,,,12,1,6,14,,,18,5,0,3,,7,2,,,,,,,,1,,21,,,,,,,,,,,,,,,,1,,,,,6
+9625806,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,30/08/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625806,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,30/08/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625806,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,7731,CS Mioveni,Visita,ALL,30/08/2021,7,1,56%,,,9,2,4,17,,,15,5,0,2,,5,2,,,,,,,,1,,24,,,,,,,,,,,,,,,,2,,,,,9
+9625806,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,7731,CS Mioveni,Visita,1ST,30/08/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625806,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,7731,CS Mioveni,Visita,2ND,30/08/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625813,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,3294,FCV Farul Constanța,Local,ALL,13/09/2021,8,5,53%,,,9,3,6,9,,,6,1,0,5,,3,1,,,,,,,,2,,11,,,,,,,,,,,,,,,,3,,,,,4
+9625813,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,3294,FCV Farul Constanța,Local,1ST,13/09/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625813,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,3294,FCV Farul Constanța,Local,2ND,13/09/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625813,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,13/09/2021,8,0,47%,,,5,0,2,5,,,11,2,0,3,,1,1,,,,,,,,1,,20,,,,,,,,,,,,,,,,0,,,,,12
+9625813,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,13/09/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625813,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,13/09/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625820,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,19/09/2021,9,0,,,,9,0,4,21,,,17,2,0,1,,8,0,,,,,,,,2,,31,,,,,,,,,,,,,,,,0,,,,,5
+9625820,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,19/09/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625820,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,19/09/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625820,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,116221,FC Argeș Pitești,Visita,ALL,19/09/2021,9,1,,,,5,1,4,10,,,23,2,0,1,,2,2,,,,,,,,7,,28,,,,,,,,,,,,,,,,1,,,,,13
+9625820,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,116221,FC Argeș Pitești,Visita,1ST,19/09/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625820,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,116221,FC Argeș Pitești,Visita,2ND,19/09/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625827,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,3301,FCSB,Local,ALL,25/09/2021,10,3,52%,,,13,1,3,17,,,18,3,0,6,,6,1,,,,,,,,3,,19,,,,,,,,,,,,,,,,1,,,,,4
+9625827,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,3301,FCSB,Local,1ST,25/09/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625827,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,3301,FCSB,Local,2ND,25/09/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625827,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,25/09/2021,10,2,48%,,,8,3,2,17,,,20,2,0,3,,1,4,,,,,,,,1,,14,,,,,,,,,,,,,,,,3,,,,,7
+9625827,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,25/09/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625827,152,37234,NORMAL,REGULAR,Round 10,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,25/09/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625835,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,04/10/2021,11,1,50%,,,14,0,2,15,,,11,3,0,2,,7,5,,,,,,,,0,,20,,,,,,,,,,,,,,,,0,,,,,6
+9625835,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,04/10/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625835,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,04/10/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625835,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,24798,FC Botoșani,Visita,ALL,04/10/2021,11,1,50%,,,6,1,3,10,,,15,4,0,1,,3,2,,,,,,,,1,,11,,,,,,,,,,,,,,,,1,,,,,9
+9625835,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,24798,FC Botoșani,Visita,1ST,04/10/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625835,152,37234,NORMAL,REGULAR,Round 11,LEAGUE,24798,FC Botoșani,Visita,2ND,04/10/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625843,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,116223,Universitatea Craiova,Local,ALL,18/10/2021,12,5,69%,,,26,3,7,9,,,13,1,0,12,,10,4,,,,,,,,3,,15,,,,,,,,,,,,,,,,3,,,,,2
+9625843,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,116223,Universitatea Craiova,Local,1ST,18/10/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625843,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,116223,Universitatea Craiova,Local,2ND,18/10/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625843,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,18/10/2021,12,0,31%,,,5,7,2,11,,,12,4,0,3,,0,2,,,,,,,,2,,16,,,,,,,,,,,,,,,,7,,,,,11
+9625843,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,18/10/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625843,152,37234,NORMAL,REGULAR,Round 12,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,18/10/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625851,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,25/10/2021,13,0,52%,,,15,7,7,8,,,20,0,0,3,,7,5,,,,,,,,1,,37,,,,,,,,,,,,,,,,7,,,,,5
+9625851,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,25/10/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625851,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,25/10/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625851,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,204657,UTA Arad,Visita,ALL,25/10/2021,13,3,48%,,,13,3,3,17,,,9,0,0,10,,2,1,,,,,,,,3,,24,,,,,,,,,,,,,,,,3,,,,,8
+9625851,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,204657,UTA Arad,Visita,1ST,25/10/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625851,152,37234,NORMAL,REGULAR,Round 13,LEAGUE,204657,UTA Arad,Visita,2ND,25/10/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625859,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,31/10/2021,14,1,,,,10,2,1,19,,,15,2,0,5,,2,3,,,,,,,,2,,18,,,,,,,,,,,,,,,,2,,,,,13
+9625859,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,31/10/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625859,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,31/10/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625859,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,31/10/2021,14,1,,,,11,4,6,10,,,21,2,0,3,,5,3,,,,,,,,5,,27,,,,,,,,,,,,,,,,4,,,,,7
+9625859,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,31/10/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625859,152,37234,NORMAL,REGULAR,Round 14,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,31/10/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625867,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,08/11/2021,15,2,50%,,,5,3,4,20,,,12,5,0,3,,2,0,,,,,,,,0,,26,,,,,,,,,,,,,,,,3,,,,,7
+9625867,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,08/11/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625867,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,08/11/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625867,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,295403,FC Rapid București,Visita,ALL,08/11/2021,15,3,50%,,,12,1,5,11,,,20,5,0,6,,3,3,,,,,,,,1,,20,,,,,,,,,,,,,,,,1,,,,,5
+9625867,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,295403,FC Rapid București,Visita,1ST,08/11/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625867,152,37234,NORMAL,REGULAR,Round 15,LEAGUE,295403,FC Rapid București,Visita,2ND,08/11/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625876,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,19/11/2021,16,0,51%,,,2,5,6,14,,,13,3,0,0,,1,1,,,,,,,,2,,24,,,,,,,,,,,,,,,,5,,,,,10
+9625876,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,19/11/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625876,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,19/11/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625876,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,ALL,19/11/2021,16,2,49%,,,16,0,3,13,,,16,1,0,7,,7,2,,,,,,,,0,,19,,,,,,,,,,,,,,,,0,,,,,4
+9625876,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,1ST,19/11/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625876,152,37234,NORMAL,REGULAR,Round 16,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,2ND,19/11/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625883,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,5287,CFR 1907 Cluj,Local,ALL,29/11/2021,17,2,49%,,,12,2,4,12,,,11,0,0,6,,6,0,,,,,,,,1,,21,,,,,,,,,,,,,,,,2,,,,,5
+9625883,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,5287,CFR 1907 Cluj,Local,1ST,29/11/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625883,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,5287,CFR 1907 Cluj,Local,2ND,29/11/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625883,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,29/11/2021,17,0,51%,,,7,4,3,9,,,13,1,0,2,,4,1,,,,,,,,2,,8,,,,,,,,,,,,,,,,4,,,,,11
+9625883,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,29/11/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625883,152,37234,NORMAL,REGULAR,Round 17,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,29/11/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625891,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,03/12/2021,18,1,40%,,,5,3,3,22,,,15,6,0,4,,0,1,,,,,,,,0,,17,,,,,,,,,,,,,,,,3,,,,,11
+9625891,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,03/12/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625891,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,03/12/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625891,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,3292,FC Dinamo București,Visita,ALL,03/12/2021,18,0,60%,,,12,3,11,13,,,22,3,0,3,,7,2,,,,,,,,2,,27,,,,,,,,,,,,,,,,3,,,,,2
+9625891,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,3292,FC Dinamo București,Visita,1ST,03/12/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625891,152,37234,NORMAL,REGULAR,Round 18,LEAGUE,3292,FC Dinamo București,Visita,2ND,03/12/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625906,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,312033,FCU 1948 Craiova,Local,ALL,10/12/2021,19,1,53%,,,6,0,8,14,,,14,3,0,3,,3,0,,,,,,,,2,,11,,,,,,,,,,,,,,,,0,,,,,5
+9625906,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,312033,FCU 1948 Craiova,Local,1ST,10/12/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625906,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,312033,FCU 1948 Craiova,Local,2ND,10/12/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625906,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,10/12/2021,19,2,47%,,,5,2,4,13,,,16,2,0,2,,3,0,,,,,,,,1,,13,,,,,,,,,,,,,,,,2,,,,,14
+9625906,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,10/12/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625906,152,37234,NORMAL,REGULAR,Round 19,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,10/12/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625913,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,14/12/2021,20,0,,,,7,1,2,17,,,18,3,0,4,,2,1,,,,,,,,0,,20,,,,,,,,,,,,,,,,1,,,,,12
+9625913,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,14/12/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625913,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,14/12/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625913,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,44255,FC Voluntari,Visita,ALL,14/12/2021,20,0,,,,4,4,0,16,,,17,3,0,1,,3,0,,,,,,,,2,,23,,,,,,,,,,,,,,,,4,,,,,7
+9625913,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,44255,FC Voluntari,Visita,1ST,14/12/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625913,152,37234,NORMAL,REGULAR,Round 20,LEAGUE,44255,FC Voluntari,Visita,2ND,14/12/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625920,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,19/12/2021,21,0,50%,,,5,5,2,18,,,15,5,1,2,,3,0,,,,,,,,1,,22,,,,,,,,,,,,,,,,5,,,,,7
+9625920,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,19/12/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625920,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,19/12/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625920,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,19/12/2021,21,1,50%,,,9,2,3,14,,,19,2,0,6,,2,1,,,,,,,,1,,15,,,,,,,,,,,,,,,,2,,,,,6
+9625920,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,19/12/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625920,152,37234,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,19/12/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625927,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,7731,CS Mioveni,Local,ALL,23/01/2022,22,3,76%,,,12,0,8,10,,,13,0,0,6,,5,1,,,,,,,,6,,31,,,,,,,,,,,,,,,,0,,,,,1
+9625927,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,7731,CS Mioveni,Local,1ST,23/01/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625927,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,7731,CS Mioveni,Local,2ND,23/01/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625927,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,23/01/2022,22,1,24%,,,2,2,1,12,,,16,0,0,1,,0,1,,,,,,,,1,,23,,,,,,,,,,,,,,,,2,,,,,14
+9625927,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,23/01/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625927,152,37234,NORMAL,REGULAR,Round 22,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,23/01/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625941,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,116221,FC Argeș Pitești,Local,ALL,06/02/2022,24,1,,,,24,0,13,8,,,17,1,0,12,,5,7,,,,,,,,5,,30,,,,,,,,,,,,,,,,0,,,,,3
+9625941,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,116221,FC Argeș Pitești,Local,1ST,06/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625941,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,116221,FC Argeș Pitești,Local,2ND,06/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625941,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,06/02/2022,24,0,,,,3,8,1,16,,,13,2,0,1,,1,1,,,,,,,,1,,18,,,,,,,,,,,,,,,,8,,,,,16
+9625941,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,06/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625941,152,37234,NORMAL,REGULAR,Round 24,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,06/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625948,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,09/02/2022,25,0,,,,4,4,2,17,,,9,5,0,3,,1,0,,,,,,,,3,,11,,,,,,,,,,,,,,,,4,,,,,12
+9625948,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,09/02/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625948,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,09/02/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625948,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,3301,FCSB,Visita,ALL,09/02/2022,25,3,,,,16,2,8,8,,,20,2,0,5,,8,3,,,,,,,,1,,20,,,,,,,,,,,,,,,,2,,,,,1
+9625948,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,3301,FCSB,Visita,1ST,09/02/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625948,152,37234,NORMAL,REGULAR,Round 25,LEAGUE,3301,FCSB,Visita,2ND,09/02/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625956,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,24798,FC Botoșani,Local,ALL,14/02/2022,26,2,55%,,,22,0,4,13,,,14,2,0,9,,5,8,,,,,,,,3,,33,,,,,,,,,,,,,,,,0,,,,,6
+9625956,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,24798,FC Botoșani,Local,1ST,14/02/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625956,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,24798,FC Botoșani,Local,2ND,14/02/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625956,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,14/02/2022,26,0,45%,,,5,7,2,13,,,16,3,1,0,,3,2,,,,,,,,1,,25,,,,,,,,,,,,,,,,7,,,,,13
+9625956,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,14/02/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625956,152,37234,NORMAL,REGULAR,Round 26,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,14/02/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10120158,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,17/02/2022,23,2,,,,4,5,2,7,,,13,1,0,2,,0,2,,,,,,,,0,,23,,,,,,,,,,,,,,,,5,,,,,14
+10120158,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,17/02/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10120158,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,17/02/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10120158,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,3294,FCV Farul Constanța,Visita,ALL,17/02/2022,23,8,,,,21,0,8,11,,,7,0,0,14,,5,2,,,,,,,,2,,20,,,,,,,,,,,,,,,,0,,,,,2
+10120158,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,3294,FCV Farul Constanța,Visita,1ST,17/02/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10120158,152,37234,NORMAL,REGULAR,Round 23,LEAGUE,3294,FCV Farul Constanța,Visita,2ND,17/02/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625964,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,21/02/2022,27,1,,,,4,2,1,15,,,18,3,0,2,,1,1,,,,,,,,1,,12,,,,,,,,,,,,,,,,2,,,,,19
+9625964,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,21/02/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625964,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,21/02/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625964,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,116223,Universitatea Craiova,Visita,ALL,21/02/2022,27,3,,,,18,1,5,17,,,16,1,0,5,,10,3,,,,,,,,1,,31,,,,,,,,,,,,,,,,1,,,,,2
+9625964,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,116223,Universitatea Craiova,Visita,1ST,21/02/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625964,152,37234,NORMAL,REGULAR,Round 27,LEAGUE,116223,Universitatea Craiova,Visita,2ND,21/02/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625972,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,204657,UTA Arad,Local,ALL,25/02/2022,28,2,58%,,,18,4,7,17,,,15,1,0,4,,10,4,,,,,,,,2,,21,,,,,,,,,,,,,,,,4,,,,,4
+9625972,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,204657,UTA Arad,Local,1ST,25/02/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625972,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,204657,UTA Arad,Local,2ND,25/02/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625972,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,25/02/2022,28,0,42%,,,7,2,2,14,,,19,1,0,4,,2,1,,,,,,,,1,,19,,,,,,,,,,,,,,,,2,,,,,18
+9625972,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,25/02/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625972,152,37234,NORMAL,REGULAR,Round 28,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,25/02/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625980,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,02/03/2022,29,2,60%,,,20,0,8,20,,,16,1,0,6,,8,6,,,,,,,,3,,27,,,,,,,,,,,,,,,,0,,,,,4
+9625980,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,02/03/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625980,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,02/03/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625980,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,23575,Gaz Metan Mediaș,Visita,ALL,02/03/2022,29,0,40%,,,4,4,0,16,,,23,1,0,0,,4,0,,,,,,,,0,,20,,,,,,,,,,,,,,,,4,,,,,10
+9625980,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,23575,Gaz Metan Mediaș,Visita,1ST,02/03/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625980,152,37234,NORMAL,REGULAR,Round 29,LEAGUE,23575,Gaz Metan Mediaș,Visita,2ND,02/03/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625988,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,295403,FC Rapid București,Local,ALL,05/03/2022,30,1,62%,,,16,0,10,8,,,16,0,0,7,,4,5,,,,,,,,1,,34,,,,,,,,,,,,,,,,0,,,,,3
+9625988,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,295403,FC Rapid București,Local,1ST,05/03/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625988,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,295403,FC Rapid București,Local,2ND,05/03/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625988,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,05/03/2022,30,0,38%,,,3,6,2,14,,,9,0,0,0,,1,2,,,,,,,,2,,24,,,,,,,,,,,,,,,,6,,,,,8
+9625988,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,05/03/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9625988,152,37234,NORMAL,REGULAR,Round 30,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,05/03/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183196,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,204657,UTA Arad,Local,ALL,11/03/2022,1,3,55%,,,12,2,2,14,,,14,1,0,6,,5,1,,,,,,,,7,,28,,,,,,,,,,,,,,,,2,,,,,8
+10183196,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,204657,UTA Arad,Local,1ST,11/03/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183196,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,204657,UTA Arad,Local,2ND,11/03/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183196,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,11/03/2022,1,0,45%,,,6,3,6,13,,,21,3,0,2,,3,1,,,,,,,,1,,25,,,,,,,,,,,,,,,,3,,,,,5
+10183196,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,11/03/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183196,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,11/03/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10192915,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,19/03/2022,2,0,,,,3,1,1,12,,,17,2,0,1,,1,1,,,,,,,,4,,26,,,,,,,,,,,,,,,,1,,,,,9
+10192915,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,19/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10192915,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,19/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10192915,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,295403,FC Rapid București,Visita,ALL,19/03/2022,2,1,,,,5,1,3,14,,,16,1,0,2,,2,1,,,,,,,,3,,26,,,,,,,,,,,,,,,,1,,,,,5
+10192915,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,295403,FC Rapid București,Visita,1ST,19/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10192915,152,37234,NORMAL,REGULAR,Round 2,LEAGUE,295403,FC Rapid București,Visita,2ND,19/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183183,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,ALL,04/04/2022,3,6,,,,23,2,10,9,,,8,1,0,8,,8,7,,,,,,,,4,,17,,,,,,,,,,,,,,,,2,,,,,4
+10183183,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,1ST,04/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183183,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,2ND,04/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183183,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,04/04/2022,3,0,,,,6,3,4,4,,,13,3,0,2,,4,0,,,,,,,,4,,11,,,,,,,,,,,,,,,,3,,,,,19
+10183183,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,04/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183183,152,37234,NORMAL,REGULAR,Round 3,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,04/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183170,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,08/04/2022,4,0,,,,6,5,5,13,,,9,2,0,2,,4,,,,,,,,,0,,13,,,,,,,,,,,,,,,,5,,,,,14
+10183170,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,08/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183170,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,08/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183170,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,08/04/2022,4,3,,,,14,1,8,6,,,13,1,0,8,,6,,,,,,,,,3,,27,,,,,,,,,,,,,,,,1,,,,,8
+10183170,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,08/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183170,152,37234,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,08/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183160,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,312033,FCU 1948 Craiova,Local,ALL,17/04/2022,5,4,56%,,,22,0,7,10,,,11,1,0,9,,6,7,,,,,,,,4,,13,,,,,,,,,,,,,,,,0,,,,,8
+10183160,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,312033,FCU 1948 Craiova,Local,1ST,17/04/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183160,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,312033,FCU 1948 Craiova,Local,2ND,17/04/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183160,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,17/04/2022,5,0,44%,,,6,5,5,9,,,14,1,0,0,,4,2,,,,,,,,2,,15,,,,,,,,,,,,,,,,5,,,,,11
+10183160,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,17/04/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183160,152,37234,NORMAL,REGULAR,Round 5,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,17/04/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183211,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,22/04/2022,6,0,47%,,,5,3,1,13,,,18,3,0,4,,0,1,,,,,,,,5,,28,,,,,,,,,,,,,,,,3,,,,,10
+10183211,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,22/04/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183211,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,22/04/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183211,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,7731,CS Mioveni,Visita,ALL,22/04/2022,6,2,53%,,,16,4,6,14,,,18,2,0,5,,5,6,,,,,,,,4,,22,,,,,,,,,,,,,,,,4,,,,,7
+10183211,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,7731,CS Mioveni,Visita,1ST,22/04/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183211,152,37234,NORMAL,REGULAR,Round 6,LEAGUE,7731,CS Mioveni,Visita,2ND,22/04/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183205,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,3292,FC Dinamo București,Local,ALL,30/04/2022,7,5,0%,,,0,0,0,0,,,0,0,0,0,,0,0,,,,,,,,0,,0,,,,,,,,,,,,,,,,0,,,,,0
+10183205,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,3292,FC Dinamo București,Local,1ST,30/04/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183205,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,3292,FC Dinamo București,Local,2ND,30/04/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183205,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,30/04/2022,7,1,0%,,,0,0,0,0,,,0,0,0,0,,0,0,,,,,,,,0,,0,,,,,,,,,,,,,,,,0,,,,,0
+10183205,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,30/04/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183205,152,37234,NORMAL,REGULAR,Round 7,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,30/04/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183204,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,23575,Gaz Metan Mediaș,Local,ALL,06/05/2022,8,4,,,,14,3,4,15,,,18,2,0,7,,7,0,,,,,,,,0,,22,,,,,,,,,,,,,,,,3,,,,,11
+10183204,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,23575,Gaz Metan Mediaș,Local,1ST,06/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183204,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,23575,Gaz Metan Mediaș,Local,2ND,06/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183204,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,06/05/2022,8,3,,,,11,2,5,14,,,15,0,0,5,,6,0,,,,,,,,4,,21,,,,,,,,,,,,,,,,2,,,,,11
+10183204,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,06/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183204,152,37234,NORMAL,REGULAR,Round 8,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,06/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183958,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,16/05/2022,9,0,41%,,,7,2,2,11,,,21,1,0,3,,4,0,,,,,,,,1,,27,,,,,,,,,,,,,,,,2,,,,,10
+10183958,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,16/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183958,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,16/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183958,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,24798,FC Botoșani,Visita,ALL,16/05/2022,9,4,59%,,,11,3,5,16,,,12,1,0,6,,5,0,,,,,,,,5,,13,,,,,,,,,,,,,,,,3,,,,,7
+10183958,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,24798,FC Botoșani,Visita,1ST,16/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10183958,152,37234,NORMAL,REGULAR,Round 9,LEAGUE,24798,FC Botoșani,Visita,2ND,16/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630898,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,21/03/2025,1,5,46%,,,,,3,,,,,3,0,7,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630898,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,21/03/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630898,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,21/03/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630898,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,449189,CSM Cetatea Turnu Măgurele,Visita,ALL,21/03/2025,1,0,54%,,,,,9,,,,,2,0,2,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630898,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,449189,CSM Cetatea Turnu Măgurele,Visita,1ST,21/03/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630898,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,449189,CSM Cetatea Turnu Măgurele,Visita,2ND,21/03/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630905,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,04/04/2025,3,0,59%,,,,,4,11,,,13,5,0,5,,3,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,
+13630905,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,04/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630905,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,04/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630905,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,419220,ACS Oltul Curtișoara,Visita,ALL,04/04/2025,3,1,41%,,,,,4,11,,,13,2,0,2,,1,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,
+13630905,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,419220,ACS Oltul Curtișoara,Visita,1ST,04/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630905,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,419220,ACS Oltul Curtișoara,Visita,2ND,04/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630917,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,02/05/2025,7,1,54%,,,,,4,19,,,9,3,,4,,8,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,
+13630917,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,02/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630917,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,02/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630917,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,362745,CSO Petrolul Potcoava,Visita,ALL,02/05/2025,7,0,46%,,,,,4,9,,,19,3,,7,,8,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,
+13630917,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,362745,CSO Petrolul Potcoava,Visita,1ST,02/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630917,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,362745,CSO Petrolul Potcoava,Visita,2ND,02/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630921,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,419220,ACS Oltul Curtișoara,Local,ALL,10/05/2025,8,4,54%,,,,,4,12,,,6,6,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+13630921,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,419220,ACS Oltul Curtișoara,Local,1ST,10/05/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630921,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,419220,ACS Oltul Curtișoara,Local,2ND,10/05/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630921,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,10/05/2025,8,2,46%,,,,,3,4,,,13,0,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,
+13630921,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,10/05/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630921,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,10/05/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630926,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,16/05/2025,9,2,57%,,,,,5,,,,10,0,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,
+13630926,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,16/05/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630926,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,16/05/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630926,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,484533,SCM Dunărea 2020 Giurgiu,Visita,ALL,16/05/2025,9,0,43%,,,,,4,,,,16,0,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+13630926,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,484533,SCM Dunărea 2020 Giurgiu,Visita,1ST,16/05/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13630926,16779,65403,NORMAL,GROUP,Superscore Liga 3 Seria 4 - Relegation Group,LEAGUE,484533,SCM Dunărea 2020 Giurgiu,Visita,2ND,16/05/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14259298,355,79014,NORMAL,PLAYOFF,Round 1,CUP,448061,ACS Inter Ilfov,Local,ALL,30/07/2025,1,1,,,,,,9,18,,,26,3,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,
+14259298,355,79014,NORMAL,PLAYOFF,Round 1,CUP,448061,ACS Inter Ilfov,Local,1ST,30/07/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14259298,355,79014,NORMAL,PLAYOFF,Round 1,CUP,448061,ACS Inter Ilfov,Local,2ND,30/07/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14259298,355,79014,NORMAL,PLAYOFF,Round 1,CUP,80157,CSM Alexandria,Visita,ALL,30/07/2025,1,0,,,,,,2,30,,,18,1,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,
+14259298,355,79014,NORMAL,PLAYOFF,Round 1,CUP,80157,CSM Alexandria,Visita,1ST,30/07/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14259298,355,79014,NORMAL,PLAYOFF,Round 1,CUP,80157,CSM Alexandria,Visita,2ND,30/07/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14332985,355,79014,NORMAL,PLAYOFF,Round 2,CUP,448061,ACS Inter Ilfov,Local,ALL,06/08/2025,2,2,,,,,,6,8,,,20,2,0,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,
+14332985,355,79014,NORMAL,PLAYOFF,Round 2,CUP,448061,ACS Inter Ilfov,Local,1ST,06/08/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14332985,355,79014,NORMAL,PLAYOFF,Round 2,CUP,448061,ACS Inter Ilfov,Local,2ND,06/08/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14332985,355,79014,NORMAL,PLAYOFF,Round 2,CUP,265708,AFC Progresul 1944 Spartac,Visita,ALL,06/08/2025,2,0,,,,,,0,6,,,22,1,0,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+14332985,355,79014,NORMAL,PLAYOFF,Round 2,CUP,265708,AFC Progresul 1944 Spartac,Visita,1ST,06/08/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14332985,355,79014,NORMAL,PLAYOFF,Round 2,CUP,265708,AFC Progresul 1944 Spartac,Visita,2ND,06/08/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14400326,355,79014,NORMAL,PLAYOFF,Round 3,CUP,448061,ACS Inter Ilfov,Local,ALL,13/08/2025,3,0,,,,,,1,,,,32,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14400326,355,79014,NORMAL,PLAYOFF,Round 3,CUP,448061,ACS Inter Ilfov,Local,1ST,13/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14400326,355,79014,NORMAL,PLAYOFF,Round 3,CUP,448061,ACS Inter Ilfov,Local,2ND,13/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14400326,355,79014,NORMAL,PLAYOFF,Round 3,CUP,400662,CS Dinamo București,Visita,ALL,13/08/2025,3,1,,,,,,4,,,,20,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14400326,355,79014,NORMAL,PLAYOFF,Round 3,CUP,400662,CS Dinamo București,Visita,1ST,13/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14400326,355,79014,NORMAL,PLAYOFF,Round 3,CUP,400662,CS Dinamo București,Visita,2ND,13/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505150,16787,80940,NORMAL,REGULAR,Round 1,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,29/08/2025,1,1,,,,,,1,,,,17,2,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+14505150,16787,80940,NORMAL,REGULAR,Round 1,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,29/08/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505150,16787,80940,NORMAL,REGULAR,Round 1,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,29/08/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505150,16787,80940,NORMAL,REGULAR,Round 1,LEAGUE,269559,CS Universitatea Craiova II,Visita,ALL,29/08/2025,1,1,,,,,,7,,,,16,1,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,
+14505150,16787,80940,NORMAL,REGULAR,Round 1,LEAGUE,269559,CS Universitatea Craiova II,Visita,1ST,29/08/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505150,16787,80940,NORMAL,REGULAR,Round 1,LEAGUE,269559,CS Universitatea Craiova II,Visita,2ND,29/08/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505162,16787,80940,NORMAL,REGULAR,Round 3,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,12/09/2025,3,2,,,,,,6,,,,6,5,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+14505162,16787,80940,NORMAL,REGULAR,Round 3,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,12/09/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505162,16787,80940,NORMAL,REGULAR,Round 3,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,12/09/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505162,16787,80940,NORMAL,REGULAR,Round 3,LEAGUE,80157,CSM Alexandria,Visita,ALL,12/09/2025,3,1,,,,,,5,,,,12,1,0,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+14505162,16787,80940,NORMAL,REGULAR,Round 3,LEAGUE,80157,CSM Alexandria,Visita,1ST,12/09/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505162,16787,80940,NORMAL,REGULAR,Round 3,LEAGUE,80157,CSM Alexandria,Visita,2ND,12/09/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505188,16787,80940,NORMAL,REGULAR,Round 5,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,23/09/2025,5,2,64%,,,,,6,7,,,12,3,0,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,
+14505188,16787,80940,NORMAL,REGULAR,Round 5,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,23/09/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505188,16787,80940,NORMAL,REGULAR,Round 5,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,23/09/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505188,16787,80940,NORMAL,REGULAR,Round 5,LEAGUE,419220,ACS Oltul Curtișoara,Visita,ALL,23/09/2025,5,0,36%,,,,,12,12,,,7,4,1,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,
+14505188,16787,80940,NORMAL,REGULAR,Round 5,LEAGUE,419220,ACS Oltul Curtișoara,Visita,1ST,23/09/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505188,16787,80940,NORMAL,REGULAR,Round 5,LEAGUE,419220,ACS Oltul Curtișoara,Visita,2ND,23/09/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505214,16787,80940,NORMAL,REGULAR,Round 7,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,03/10/2025,7,1,60%,,,,,7,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505214,16787,80940,NORMAL,REGULAR,Round 7,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,03/10/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505214,16787,80940,NORMAL,REGULAR,Round 7,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,03/10/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505214,16787,80940,NORMAL,REGULAR,Round 7,LEAGUE,449189,CSM Cetatea Turnu Măgurele,Visita,ALL,03/10/2025,7,1,40%,,,,,6,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505214,16787,80940,NORMAL,REGULAR,Round 7,LEAGUE,449189,CSM Cetatea Turnu Măgurele,Visita,1ST,03/10/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505214,16787,80940,NORMAL,REGULAR,Round 7,LEAGUE,449189,CSM Cetatea Turnu Măgurele,Visita,2ND,03/10/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505227,16787,80940,NORMAL,REGULAR,Round 8,LEAGUE,233648,ACSO Filiași,Local,ALL,10/10/2025,8,1,40%,,,,,1,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505227,16787,80940,NORMAL,REGULAR,Round 8,LEAGUE,233648,ACSO Filiași,Local,1ST,10/10/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505227,16787,80940,NORMAL,REGULAR,Round 8,LEAGUE,233648,ACSO Filiași,Local,2ND,10/10/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505227,16787,80940,NORMAL,REGULAR,Round 8,LEAGUE,448061,ACS Inter Ilfov,Visita,ALL,10/10/2025,8,2,60%,,,,,6,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505227,16787,80940,NORMAL,REGULAR,Round 8,LEAGUE,448061,ACS Inter Ilfov,Visita,1ST,10/10/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505227,16787,80940,NORMAL,REGULAR,Round 8,LEAGUE,448061,ACS Inter Ilfov,Visita,2ND,10/10/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505230,16787,80940,NORMAL,REGULAR,Round 9,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,17/10/2025,9,2,48%,,,,,2,21,,,11,4,0,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,
+14505230,16787,80940,NORMAL,REGULAR,Round 9,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,17/10/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505230,16787,80940,NORMAL,REGULAR,Round 9,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,17/10/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505230,16787,80940,NORMAL,REGULAR,Round 9,LEAGUE,509651,ACS AXI Arena,Visita,ALL,17/10/2025,9,1,52%,,,,,4,11,,,21,0,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,
+14505230,16787,80940,NORMAL,REGULAR,Round 9,LEAGUE,509651,ACS AXI Arena,Visita,1ST,17/10/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505230,16787,80940,NORMAL,REGULAR,Round 9,LEAGUE,509651,ACS AXI Arena,Visita,2ND,17/10/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505242,16787,80940,NORMAL,REGULAR,Round 11,LEAGUE,448061,ACS Inter Ilfov,Local,ALL,31/10/2025,11,0,58%,,,,,9,,,,,4,0,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505242,16787,80940,NORMAL,REGULAR,Round 11,LEAGUE,448061,ACS Inter Ilfov,Local,1ST,31/10/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505242,16787,80940,NORMAL,REGULAR,Round 11,LEAGUE,448061,ACS Inter Ilfov,Local,2ND,31/10/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505242,16787,80940,NORMAL,REGULAR,Round 11,LEAGUE,827450,ACS Academica Balș,Visita,ALL,31/10/2025,11,0,42%,,,,,2,,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505242,16787,80940,NORMAL,REGULAR,Round 11,LEAGUE,827450,ACS Academica Balș,Visita,1ST,31/10/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14505242,16787,80940,NORMAL,REGULAR,Round 11,LEAGUE,827450,ACS Academica Balș,Visita,2ND,31/10/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

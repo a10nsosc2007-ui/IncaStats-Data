@@ -1,0 +1,907 @@
+﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+10447720,328,42742,NORMAL,PLAYOFF,Qualification round 1,CUP,2712,Bari,Local,ALL,31/07/2022,1,3,,,,,,3,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10447720,328,42742,NORMAL,PLAYOFF,Qualification round 1,CUP,2712,Bari,Local,1ST,31/07/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10447720,328,42742,NORMAL,PLAYOFF,Qualification round 1,CUP,2712,Bari,Local,2ND,31/07/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10447720,328,42742,NORMAL,PLAYOFF,Qualification round 1,CUP,2741,Padova,Visita,ALL,31/07/2022,1,0,,,,,,5,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10447720,328,42742,NORMAL,PLAYOFF,Qualification round 1,CUP,2741,Padova,Visita,1ST,31/07/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10447720,328,42742,NORMAL,PLAYOFF,Qualification round 1,CUP,2741,Padova,Visita,2ND,31/07/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650570,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,06/11/2022,12,2,,,,,,9,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650570,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,06/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650570,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,06/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650570,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170634,Arzignano Valchiampo,Visita,ALL,06/11/2022,12,2,,,,,,3,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650570,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170634,Arzignano Valchiampo,Visita,1ST,06/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650570,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170634,Arzignano Valchiampo,Visita,2ND,06/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650584,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2772,Pro Sesto 1913,Local,ALL,12/11/2022,13,2,,,,,,1,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650584,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2772,Pro Sesto 1913,Local,1ST,12/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650584,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2772,Pro Sesto 1913,Local,2ND,12/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650584,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,12/11/2022,13,0,,,,,,3,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650584,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,12/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650584,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,12/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10872282,824,46081,NORMAL,PLAYOFF,Round of 16,CUP,2741,Padova,Local,ALL,16/11/2022,5,1,,,,,,3,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10872282,824,46081,NORMAL,PLAYOFF,Round of 16,CUP,2741,Padova,Local,1ST,16/11/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10872282,824,46081,NORMAL,PLAYOFF,Round of 16,CUP,2741,Padova,Local,2ND,16/11/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10872282,824,46081,NORMAL,PLAYOFF,Round of 16,CUP,2782,Gubbio,Visita,ALL,16/11/2022,5,0,,,,,,2,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10872282,824,46081,NORMAL,PLAYOFF,Round of 16,CUP,2782,Gubbio,Visita,1ST,16/11/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10872282,824,46081,NORMAL,PLAYOFF,Round of 16,CUP,2782,Gubbio,Visita,2ND,16/11/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650591,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,19/11/2022,14,2,,,,,,5,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650591,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,19/11/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650591,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,19/11/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650591,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Visita,ALL,19/11/2022,14,2,,,,,,4,,,,,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650591,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Visita,1ST,19/11/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650591,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Visita,2ND,19/11/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650603,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,27/11/2022,15,0,,,,,,8,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650603,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,27/11/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650603,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,27/11/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650603,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Visita,ALL,27/11/2022,15,1,,,,,,8,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650603,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Visita,1ST,27/11/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650603,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Visita,2ND,27/11/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650615,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,393025,FC Sangiuliano City,Local,ALL,30/11/2022,16,1,,,,,,6,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650615,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,393025,FC Sangiuliano City,Local,1ST,30/11/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650615,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,393025,FC Sangiuliano City,Local,2ND,30/11/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650615,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,30/11/2022,16,0,,,,,,7,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650615,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,30/11/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10650615,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,30/11/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689111,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,04/12/2022,17,2,,,,,,2,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689111,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,04/12/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689111,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,04/12/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689111,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Visita,ALL,04/12/2022,17,1,,,,,,3,,,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689111,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Visita,1ST,04/12/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689111,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Visita,2ND,04/12/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10895788,824,46081,NORMAL,PLAYOFF,Quarterfinals,CUP,2741,Padova,Local,ALL,07/12/2022,27,1,,,,,,7,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10895788,824,46081,NORMAL,PLAYOFF,Quarterfinals,CUP,2741,Padova,Local,1ST,07/12/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10895788,824,46081,NORMAL,PLAYOFF,Quarterfinals,CUP,2741,Padova,Local,2ND,07/12/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10895788,824,46081,NORMAL,PLAYOFF,Quarterfinals,CUP,294884,Juventus Next Gen U23,Visita,ALL,07/12/2022,27,2,,,,,,1,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10895788,824,46081,NORMAL,PLAYOFF,Quarterfinals,CUP,294884,Juventus Next Gen U23,Visita,1ST,07/12/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10895788,824,46081,NORMAL,PLAYOFF,Quarterfinals,CUP,294884,Juventus Next Gen U23,Visita,2ND,07/12/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688991,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,7933,Lecco,Local,ALL,11/12/2022,18,2,,,,,,6,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688991,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,7933,Lecco,Local,1ST,11/12/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688991,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,7933,Lecco,Local,2ND,11/12/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688991,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,11/12/2022,18,1,,,,,,7,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688991,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,11/12/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688991,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,11/12/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689009,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,17/12/2022,19,1,,,,,,8,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689009,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,17/12/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689009,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,17/12/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689009,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2770,Mantova,Visita,ALL,17/12/2022,19,1,,,,,,2,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689009,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2770,Mantova,Visita,1ST,17/12/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689009,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2770,Mantova,Visita,2ND,17/12/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649873,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,23/12/2022,20,1,,,,,,1,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649873,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,23/12/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649873,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,23/12/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649873,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2769,Pro Vercelli,Visita,ALL,23/12/2022,20,0,,,,,,4,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649873,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2769,Pro Vercelli,Visita,1ST,23/12/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649873,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2769,Pro Vercelli,Visita,2ND,23/12/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719003,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2722,L.R. Vicenza,Local,ALL,08/01/2023,21,1,,,,,,9,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719003,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2722,L.R. Vicenza,Local,1ST,08/01/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719003,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2722,L.R. Vicenza,Local,2ND,08/01/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719003,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,08/01/2023,21,1,,,,,,1,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719003,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,08/01/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719003,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,08/01/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719009,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,14/01/2023,22,1,,,,,,6,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719009,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,14/01/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719009,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,14/01/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719009,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,294884,Juventus Next Gen U23,Visita,ALL,14/01/2023,22,1,,,,,,4,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719009,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,294884,Juventus Next Gen U23,Visita,1ST,14/01/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719009,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,294884,Juventus Next Gen U23,Visita,2ND,14/01/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719033,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,29/01/2023,24,1,,,,,,6,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719033,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,29/01/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719033,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,29/01/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719033,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,111205,Pordenone,Visita,ALL,29/01/2023,24,1,,,,,,3,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719033,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,111205,Pordenone,Visita,1ST,29/01/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719033,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,111205,Pordenone,Visita,2ND,29/01/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719044,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,37173,Feralpisalò,Local,ALL,01/02/2023,25,0,,,,,,2,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719044,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,37173,Feralpisalò,Local,1ST,01/02/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719044,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,37173,Feralpisalò,Local,2ND,01/02/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719044,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,01/02/2023,25,0,,,,,,6,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719044,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,01/02/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719044,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,01/02/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10966801,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,05/02/2023,26,0,,,,,,7,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10966801,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,05/02/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10966801,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,05/02/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10966801,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113757,Pergolettese,Visita,ALL,05/02/2023,26,3,,,,,,3,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10966801,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113757,Pergolettese,Visita,1ST,05/02/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10966801,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113757,Pergolettese,Visita,2ND,05/02/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10966834,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113761,Virtus Verona,Local,ALL,11/02/2023,27,1,,,,,,2,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10966834,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113761,Virtus Verona,Local,1ST,11/02/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10966834,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113761,Virtus Verona,Local,2ND,11/02/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10966834,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,11/02/2023,27,1,,,,,,4,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10966834,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,11/02/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10966834,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,11/02/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719402,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,18/02/2023,28,1,,,,,,6,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719402,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,18/02/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719402,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,18/02/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719402,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2724,Triestina,Visita,ALL,18/02/2023,28,1,,,,,,7,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719402,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2724,Triestina,Visita,1ST,18/02/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719402,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2724,Triestina,Visita,2ND,18/02/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719420,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,05/03/2023,30,1,,,,,,7,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719420,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,05/03/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719420,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,05/03/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719420,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2700,Piacenza Calcio 1919,Visita,ALL,05/03/2023,30,1,,,,,,5,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719420,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2700,Piacenza Calcio 1919,Visita,1ST,05/03/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719420,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2700,Piacenza Calcio 1919,Visita,2ND,05/03/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719447,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,15/03/2023,32,0,,,,,,3,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719447,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,15/03/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719447,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,15/03/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719447,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2772,Pro Sesto 1913,Visita,ALL,15/03/2023,32,0,,,,,,7,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719447,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2772,Pro Sesto 1913,Visita,1ST,15/03/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719447,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2772,Pro Sesto 1913,Visita,2ND,15/03/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719483,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Local,ALL,19/03/2023,33,2,,,,,,3,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719483,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Local,1ST,19/03/2023,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719483,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Local,2ND,19/03/2023,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719483,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,19/03/2023,33,3,,,,,,8,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719483,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,19/03/2023,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719483,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,19/03/2023,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719495,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Local,ALL,25/03/2023,34,2,,,,,,1,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719495,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Local,1ST,25/03/2023,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719495,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Local,2ND,25/03/2023,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719495,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,25/03/2023,34,0,,,,,,4,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719495,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,25/03/2023,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719495,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,25/03/2023,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719507,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,02/04/2023,35,2,,,,,,4,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719507,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,02/04/2023,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719507,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,02/04/2023,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719507,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,393025,FC Sangiuliano City,Visita,ALL,02/04/2023,35,0,,,,,,4,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719507,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,393025,FC Sangiuliano City,Visita,1ST,02/04/2023,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719507,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,393025,FC Sangiuliano City,Visita,2ND,02/04/2023,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719514,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Local,ALL,08/04/2023,36,0,,,,,,3,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719514,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Local,1ST,08/04/2023,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719514,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Local,2ND,08/04/2023,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719514,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,08/04/2023,36,1,,,,,,10,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719514,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,08/04/2023,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719514,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,08/04/2023,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719522,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,16/04/2023,37,3,,,,,,7,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719522,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,16/04/2023,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719522,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,16/04/2023,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719522,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,7933,Lecco,Visita,ALL,16/04/2023,37,1,,,,,,4,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719522,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,7933,Lecco,Visita,1ST,16/04/2023,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719522,11445,45566,NORMAL,GROUP,"Serie C, Group A",LEAGUE,7933,Lecco,Visita,2ND,16/04/2023,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516792,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2770,Mantova,Local,ALL,04/09/2023,1,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516792,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2770,Mantova,Local,1ST,04/09/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516792,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2770,Mantova,Local,2ND,04/09/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516792,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,04/09/2023,1,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516792,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,04/09/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516792,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,04/09/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516822,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,10/09/2023,2,2,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516822,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,10/09/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516822,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,10/09/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516822,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117262,Legnago Salus,Visita,ALL,10/09/2023,2,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516822,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117262,Legnago Salus,Visita,1ST,10/09/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516822,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117262,Legnago Salus,Visita,2ND,10/09/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516827,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,25155,Alessandria,Local,ALL,17/09/2023,3,1,,,,,,,,,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516827,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,25155,Alessandria,Local,1ST,17/09/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516827,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,25155,Alessandria,Local,2ND,17/09/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516827,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,17/09/2023,3,2,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516827,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,17/09/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516827,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,17/09/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516841,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,20/09/2023,4,2,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516841,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,20/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516841,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,20/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516841,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2767,Novara,Visita,ALL,20/09/2023,4,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516841,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2767,Novara,Visita,1ST,20/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516841,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2767,Novara,Visita,2ND,20/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516854,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,24/09/2023,5,2,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516854,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,24/09/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516854,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,24/09/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516854,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113761,Virtus Verona,Visita,ALL,24/09/2023,5,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516854,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113761,Virtus Verona,Visita,1ST,24/09/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516854,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113761,Virtus Verona,Visita,2ND,24/09/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516864,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Local,ALL,30/09/2023,6,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516864,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Local,1ST,30/09/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516864,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Local,2ND,30/09/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516864,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,30/09/2023,6,3,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516864,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,30/09/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516864,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,30/09/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11677157,824,55215,NORMAL,PLAYOFF,Round 1,CUP,117262,Legnago Salus,Local,ALL,03/10/2023,1,2,,,,21,3,6,17,,,17,4,,5,,8,8,,,,,,,,7,,25,,,,,,,,,,,,,,,,3,,,,,3
+11677157,824,55215,NORMAL,PLAYOFF,Round 1,CUP,117262,Legnago Salus,Local,1ST,03/10/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11677157,824,55215,NORMAL,PLAYOFF,Round 1,CUP,117262,Legnago Salus,Local,2ND,03/10/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11677157,824,55215,NORMAL,PLAYOFF,Round 1,CUP,2741,Padova,Visita,ALL,03/10/2023,1,4,,,,9,3,3,16,,,24,3,,7,,2,0,,,,,,,,1,,21,,,,,,,,,,,,,,,,3,,,,,9
+11677157,824,55215,NORMAL,PLAYOFF,Round 1,CUP,2741,Padova,Visita,1ST,03/10/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11677157,824,55215,NORMAL,PLAYOFF,Round 1,CUP,2741,Padova,Visita,2ND,03/10/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516872,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,07/10/2023,7,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516872,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,07/10/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516872,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,07/10/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516872,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2746,Aurora Pro Patria,Visita,ALL,07/10/2023,7,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516872,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2746,Aurora Pro Patria,Visita,1ST,07/10/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516872,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2746,Aurora Pro Patria,Visita,2ND,07/10/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516885,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2772,Pro Sesto 1913,Local,ALL,14/10/2023,8,1,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516885,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2772,Pro Sesto 1913,Local,1ST,14/10/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516885,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2772,Pro Sesto 1913,Local,2ND,14/10/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516885,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,14/10/2023,8,1,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516885,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,14/10/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516885,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,14/10/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516888,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170634,Arzignano Valchiampo,Local,ALL,21/10/2023,9,1,,,,,,,,,,,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516888,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170634,Arzignano Valchiampo,Local,1ST,21/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516888,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170634,Arzignano Valchiampo,Local,2ND,21/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516888,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,21/10/2023,9,2,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516888,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,21/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516888,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,21/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516904,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,24/10/2023,10,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516904,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,24/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516904,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,24/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516904,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Visita,ALL,24/10/2023,10,0,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516904,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Visita,1ST,24/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516904,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Visita,2ND,24/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516972,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2722,L.R. Vicenza,Local,ALL,29/10/2023,11,1,,,,,,,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516972,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2722,L.R. Vicenza,Local,1ST,29/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516972,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2722,L.R. Vicenza,Local,2ND,29/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516972,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,29/10/2023,11,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516972,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,29/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516972,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,29/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517012,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,04/11/2023,12,3,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517012,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,04/11/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517012,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,04/11/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517012,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117232,Giana Erminio,Visita,ALL,04/11/2023,12,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517012,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117232,Giana Erminio,Visita,1ST,04/11/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517012,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117232,Giana Erminio,Visita,2ND,04/11/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11772270,824,55215,NORMAL,PLAYOFF,Round 2,CUP,2741,Padova,Local,ALL,07/11/2023,2,3,,,,9,1,2,15,,,8,2,,5,,3,1,,,,,,,,1,,18,,,,,,,,,,,,,,,,1,,,,,6
+11772270,824,55215,NORMAL,PLAYOFF,Round 2,CUP,2741,Padova,Local,1ST,07/11/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11772270,824,55215,NORMAL,PLAYOFF,Round 2,CUP,2741,Padova,Local,2ND,07/11/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11772270,824,55215,NORMAL,PLAYOFF,Round 2,CUP,117232,Giana Erminio,Visita,ALL,07/11/2023,2,0,,,,6,2,3,6,,,16,2,,2,,3,1,,,,,,,,2,,18,,,,,,,,,,,,,,,,2,,,,,6
+11772270,824,55215,NORMAL,PLAYOFF,Round 2,CUP,117232,Giana Erminio,Visita,1ST,07/11/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11772270,824,55215,NORMAL,PLAYOFF,Round 2,CUP,117232,Giana Erminio,Visita,2ND,07/11/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517025,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Local,ALL,11/11/2023,13,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517025,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Local,1ST,11/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517025,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Local,2ND,11/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517025,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,11/11/2023,13,1,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517025,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,11/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517025,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,11/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517086,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,19/11/2023,14,3,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517086,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,19/11/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517086,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,19/11/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517086,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2769,Pro Vercelli,Visita,ALL,19/11/2023,14,2,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517086,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2769,Pro Vercelli,Visita,1ST,19/11/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517086,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2769,Pro Vercelli,Visita,2ND,19/11/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517110,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113757,Pergolettese,Local,ALL,27/11/2023,15,1,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517110,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113757,Pergolettese,Local,1ST,27/11/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517110,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113757,Pergolettese,Local,2ND,27/11/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517110,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,27/11/2023,15,1,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517110,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,27/11/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517110,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,27/11/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11829091,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,2741,Padova,Local,ALL,30/11/2023,5,2,,,,19,1,5,14,,,15,1,0,12,,7,0,,,,,,,,2,,18,,,,,,,,,,,,,,,,1,,,,,6
+11829091,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,2741,Padova,Local,1ST,30/11/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11829091,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,2741,Padova,Local,2ND,30/11/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11829091,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,2738,Lumezzane,Visita,ALL,30/11/2023,5,0,,,,5,9,3,12,,,16,2,1,1,,3,1,,,,,,,,3,,18,,,,,,,,,,,,,,,,9,,,,,11
+11829091,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,2738,Lumezzane,Visita,1ST,30/11/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11829091,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,2738,Lumezzane,Visita,2ND,30/11/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517158,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,03/12/2023,16,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517158,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,03/12/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517158,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,03/12/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517158,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2738,Lumezzane,Visita,ALL,03/12/2023,16,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517158,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2738,Lumezzane,Visita,1ST,03/12/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517158,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2738,Lumezzane,Visita,2ND,03/12/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517176,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,485323,Atalanta U23,Local,ALL,09/12/2023,17,0,,,,,,,,,,,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517176,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,485323,Atalanta U23,Local,1ST,09/12/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517176,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,485323,Atalanta U23,Local,2ND,09/12/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517176,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,09/12/2023,17,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517176,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,09/12/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517176,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,09/12/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11870273,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,24745,Pontedera,Local,ALL,12/12/2023,27,0,47%,,,14,2,5,16,,,17,4,,2,,4,8,,,,,,,,2,,17,,,,,,,,,,,,,,,,2,,,,,11
+11870273,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,24745,Pontedera,Local,1ST,12/12/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11870273,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,24745,Pontedera,Local,2ND,12/12/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11870273,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,2741,Padova,Visita,ALL,12/12/2023,27,1,53%,,,12,2,4,15,,,18,1,,3,,6,3,,,,,,,,2,,17,,,,,,,,,,,,,,,,2,,,,,5
+11870273,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,2741,Padova,Visita,1ST,12/12/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11870273,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,2741,Padova,Visita,2ND,12/12/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517262,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,17/12/2023,18,3,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517262,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,17/12/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517262,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,17/12/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517262,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170644,Fiorenzuola,Visita,ALL,17/12/2023,18,0,,,,,,,,,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517262,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170644,Fiorenzuola,Visita,1ST,17/12/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517262,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170644,Fiorenzuola,Visita,2ND,17/12/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517327,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2724,Triestina,Local,ALL,22/12/2023,19,0,,,,,,,,,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517327,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2724,Triestina,Local,1ST,22/12/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517327,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2724,Triestina,Local,2ND,22/12/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517327,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,22/12/2023,19,1,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517327,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,22/12/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517327,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,22/12/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517356,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,08/01/2024,20,0,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517356,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,08/01/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517356,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,08/01/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517356,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2770,Mantova,Visita,ALL,08/01/2024,20,5,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517356,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2770,Mantova,Visita,1ST,08/01/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517356,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2770,Mantova,Visita,2ND,08/01/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516989,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117262,Legnago Salus,Local,ALL,14/01/2024,21,0,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516989,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117262,Legnago Salus,Local,1ST,14/01/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516989,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117262,Legnago Salus,Local,2ND,14/01/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516989,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,14/01/2024,21,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516989,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,14/01/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516989,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,14/01/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517007,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,20/01/2024,22,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517007,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,20/01/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517007,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,20/01/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517007,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,25155,Alessandria,Visita,ALL,20/01/2024,22,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517007,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,25155,Alessandria,Visita,1ST,20/01/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517007,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,25155,Alessandria,Visita,2ND,20/01/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11908039,824,55215,NORMAL,PLAYOFF,Semifinals,CUP,2736,Lucchese Calcio,Local,ALL,24/01/2024,28,1,,,,7,3,5,16,,,19,3,,2,,3,2,,,,,,,,4,,18,,,,,,,,,,,,,,,,3,,,,,9
+11908039,824,55215,NORMAL,PLAYOFF,Semifinals,CUP,2736,Lucchese Calcio,Local,1ST,24/01/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11908039,824,55215,NORMAL,PLAYOFF,Semifinals,CUP,2736,Lucchese Calcio,Local,2ND,24/01/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11908039,824,55215,NORMAL,PLAYOFF,Semifinals,CUP,2741,Padova,Visita,ALL,24/01/2024,28,0,,,,12,2,7,17,,,20,3,,3,,5,4,,,,,,,,2,,29,,,,,,,,,,,,,,,,2,,,,,6
+11908039,824,55215,NORMAL,PLAYOFF,Semifinals,CUP,2741,Padova,Visita,1ST,24/01/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11908039,824,55215,NORMAL,PLAYOFF,Semifinals,CUP,2741,Padova,Visita,2ND,24/01/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517059,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2767,Novara,Local,ALL,28/01/2024,23,0,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517059,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2767,Novara,Local,1ST,28/01/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517059,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2767,Novara,Local,2ND,28/01/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517059,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,28/01/2024,23,3,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517059,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,28/01/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517059,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,28/01/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517106,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113761,Virtus Verona,Local,ALL,04/02/2024,24,1,,,,,,,,,,,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517106,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113761,Virtus Verona,Local,1ST,04/02/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517106,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113761,Virtus Verona,Local,2ND,04/02/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517106,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,04/02/2024,24,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517106,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,04/02/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517106,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,04/02/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517141,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,10/02/2024,25,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517141,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,10/02/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517141,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,10/02/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517141,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Visita,ALL,10/02/2024,25,1,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517141,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Visita,1ST,10/02/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517141,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Visita,2ND,10/02/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517181,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2746,Aurora Pro Patria,Local,ALL,13/02/2024,26,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517181,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2746,Aurora Pro Patria,Local,1ST,13/02/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517181,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2746,Aurora Pro Patria,Local,2ND,13/02/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517181,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,13/02/2024,26,2,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517181,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,13/02/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517181,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,13/02/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517220,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,17/02/2024,27,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517220,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,17/02/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517220,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,17/02/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517220,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2772,Pro Sesto 1913,Visita,ALL,17/02/2024,27,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517220,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2772,Pro Sesto 1913,Visita,1ST,17/02/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517220,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2772,Pro Sesto 1913,Visita,2ND,17/02/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517271,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,24/02/2024,28,4,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517271,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,24/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517271,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,24/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517271,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170634,Arzignano Valchiampo,Visita,ALL,24/02/2024,28,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517271,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170634,Arzignano Valchiampo,Visita,1ST,24/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517271,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170634,Arzignano Valchiampo,Visita,2ND,24/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11908041,824,55215,NORMAL,PLAYOFF,Semifinals,CUP,2741,Padova,Local,ALL,28/02/2024,28,2,,,,14,5,5,13,,,27,2,,5,,5,4,,,,,,,,1,,14,,,,,,,,,,,,,,,,5,,,,,6
+11908041,824,55215,NORMAL,PLAYOFF,Semifinals,CUP,2741,Padova,Local,1ST,28/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11908041,824,55215,NORMAL,PLAYOFF,Semifinals,CUP,2741,Padova,Local,2ND,28/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11908041,824,55215,NORMAL,PLAYOFF,Semifinals,CUP,2736,Lucchese Calcio,Visita,ALL,28/02/2024,28,0,,,,11,3,4,20,,,14,3,,5,,4,2,,,,,,,,7,,19,,,,,,,,,,,,,,,,3,,,,,9
+11908041,824,55215,NORMAL,PLAYOFF,Semifinals,CUP,2736,Lucchese Calcio,Visita,1ST,28/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11908041,824,55215,NORMAL,PLAYOFF,Semifinals,CUP,2736,Lucchese Calcio,Visita,2ND,28/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517358,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Local,ALL,03/03/2024,29,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517358,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Local,1ST,03/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517358,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Local,2ND,03/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517358,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,03/03/2024,29,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517358,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,03/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517358,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,03/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517381,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,06/03/2024,30,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517381,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,06/03/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517381,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,06/03/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517381,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2722,L.R. Vicenza,Visita,ALL,06/03/2024,30,1,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517381,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2722,L.R. Vicenza,Visita,1ST,06/03/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517381,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2722,L.R. Vicenza,Visita,2ND,06/03/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517004,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117232,Giana Erminio,Local,ALL,10/03/2024,31,2,,,,,,,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517004,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117232,Giana Erminio,Local,1ST,10/03/2024,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517004,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117232,Giana Erminio,Local,2ND,10/03/2024,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517004,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,10/03/2024,31,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517004,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,10/03/2024,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517004,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,10/03/2024,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517020,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,15/03/2024,32,0,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517020,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,15/03/2024,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517020,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,15/03/2024,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517020,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Visita,ALL,15/03/2024,32,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517020,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Visita,1ST,15/03/2024,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517020,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Visita,2ND,15/03/2024,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12112793,824,55215,NORMAL,FINAL,Final,CUP,2741,Padova,Local,ALL,19/03/2024,29,2,48%,,,11,1,2,13,,,15,2,0,6,,3,2,,,,,,,,1,,22,,,,,,,,,,,,,,,,1,,,,,8
+12112793,824,55215,NORMAL,FINAL,Final,CUP,2741,Padova,Local,1ST,19/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12112793,824,55215,NORMAL,FINAL,Final,CUP,2741,Padova,Local,2ND,19/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12112793,824,55215,NORMAL,FINAL,Final,CUP,2725,Catania,Visita,ALL,19/03/2024,29,1,52%,,,8,4,4,13,,,14,1,1,2,,1,5,,,,,,,,2,,24,,,,,,,,,,,,,,,,4,,,,,5
+12112793,824,55215,NORMAL,FINAL,Final,CUP,2725,Catania,Visita,1ST,19/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12112793,824,55215,NORMAL,FINAL,Final,CUP,2725,Catania,Visita,2ND,19/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517079,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2769,Pro Vercelli,Local,ALL,24/03/2024,33,2,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517079,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2769,Pro Vercelli,Local,1ST,24/03/2024,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517079,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2769,Pro Vercelli,Local,2ND,24/03/2024,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517079,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,24/03/2024,33,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517079,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,24/03/2024,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517079,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,24/03/2024,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517116,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,28/03/2024,34,2,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517116,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,28/03/2024,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517116,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,28/03/2024,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517116,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113757,Pergolettese,Visita,ALL,28/03/2024,34,1,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517116,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113757,Pergolettese,Visita,1ST,28/03/2024,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517116,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113757,Pergolettese,Visita,2ND,28/03/2024,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12112794,824,55215,NORMAL,FINAL,Final,CUP,2725,Catania,Local,ALL,02/04/2024,29,4,57%,,,10,1,9,26,,,16,4,0,5,,5,,,,,,,,,2,,24,,,,,,,,,,,,,,,,1,,,,,8
+12112794,824,55215,NORMAL,FINAL,Final,CUP,2725,Catania,Local,1ST,02/04/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12112794,824,55215,NORMAL,FINAL,Final,CUP,2725,Catania,Local,2ND,02/04/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12112794,824,55215,NORMAL,FINAL,Final,CUP,2741,Padova,Visita,ALL,02/04/2024,29,2,43%,,,5,1,4,16,,,28,3,1,3,,2,,,,,,,,,0,,20,,,,,,,,,,,,,,,,1,,,,,9
+12112794,824,55215,NORMAL,FINAL,Final,CUP,2741,Padova,Visita,1ST,02/04/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12112794,824,55215,NORMAL,FINAL,Final,CUP,2741,Padova,Visita,2ND,02/04/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517168,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2738,Lumezzane,Local,ALL,07/04/2024,35,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517168,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2738,Lumezzane,Local,1ST,07/04/2024,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517168,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2738,Lumezzane,Local,2ND,07/04/2024,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517168,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,07/04/2024,35,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517168,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,07/04/2024,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517168,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,07/04/2024,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517190,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,13/04/2024,36,2,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517190,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,13/04/2024,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517190,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,13/04/2024,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517190,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,485323,Atalanta U23,Visita,ALL,13/04/2024,36,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517190,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,485323,Atalanta U23,Visita,1ST,13/04/2024,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517190,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,485323,Atalanta U23,Visita,2ND,13/04/2024,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517281,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170644,Fiorenzuola,Local,ALL,20/04/2024,37,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517281,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170644,Fiorenzuola,Local,1ST,20/04/2024,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517281,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170644,Fiorenzuola,Local,2ND,20/04/2024,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517281,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,20/04/2024,37,1,,,,,,,,,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517281,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,20/04/2024,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517281,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,20/04/2024,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517351,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,28/04/2024,38,3,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517351,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,28/04/2024,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517351,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,28/04/2024,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517351,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2724,Triestina,Visita,ALL,28/04/2024,38,2,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517351,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2724,Triestina,Visita,1ST,28/04/2024,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517351,11445,53814,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2724,Triestina,Visita,2ND,28/04/2024,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12512553,328,63668,NORMAL,REGULAR,Regular Season,CUP,2742,Cesena,Local,ALL,04/08/2024,,3,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12512553,328,63668,NORMAL,REGULAR,Regular Season,CUP,2742,Cesena,Local,1ST,04/08/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12512553,328,63668,NORMAL,REGULAR,Regular Season,CUP,2742,Cesena,Local,2ND,04/08/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12512553,328,63668,NORMAL,REGULAR,Regular Season,CUP,2741,Padova,Visita,ALL,04/08/2024,,1,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12512553,328,63668,NORMAL,REGULAR,Regular Season,CUP,2741,Padova,Visita,1ST,04/08/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12512553,328,63668,NORMAL,REGULAR,Regular Season,CUP,2741,Padova,Visita,2ND,04/08/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12677576,824,63521,NORMAL,PLAYOFF,Round 2,CUP,2741,Padova,Local,ALL,18/08/2024,2,3,52%,2.01,,16,4,7,19,651,1,2,3,0,4,0,7,5,12,4,,,5,24,,0,565,21,,62/77 (81%),49/67 (73%),13/29 (44%),36%,8,40/133 (30%),26/47 (55%),20/26 (77%),,1,23,,19,2,4,,,,,9
+12677576,824,63521,NORMAL,PLAYOFF,Round 2,CUP,2741,Padova,Local,1ST,18/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12677576,824,63521,NORMAL,PLAYOFF,Round 2,CUP,2741,Padova,Local,2ND,18/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12677576,824,63521,NORMAL,PLAYOFF,Round 2,CUP,37173,Feralpisalò,Visita,ALL,18/08/2024,2,2,48%,1.87,,15,1,7,16,480,3,4,4,0,5,0,5,5,8,7,,,2,18,,0,412,21,,38/51 (75%),18/34 (52%),4/17 (23%),40%,6,52/126 (41%),19/48 (40%),26/32 (81%),,3,24,,27,5,1,,,,,17
+12677576,824,63521,NORMAL,PLAYOFF,Round 2,CUP,37173,Feralpisalò,Visita,1ST,18/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12677576,824,63521,NORMAL,PLAYOFF,Round 2,CUP,37173,Feralpisalò,Visita,2ND,18/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12546002,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,26/08/2024,1,3,43%,1.19,,12,3,7,14,392,2,3,2,0,7,0,4,1,8,4,,,0,,,1,318,24,,,33/57 (57%),9/13 (69%),37%,5,41/120 (34%),14/26 (54%),12/14 (86%),,2,7,,6,,3,,,,,8
+12546002,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,26/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12546002,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,26/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12546002,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Visita,ALL,26/08/2024,1,0,57%,0.80,,9,5,5,13,477,4,2,2,0,3,0,5,1,6,3,,,3,,,3,408,18,,,28/52 (53%),4/10 (40%),40%,6,49/123 (40%),14/32 (44%),29/35 (83%),,4,22,,16,,5,,,,,7
+12546002,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Visita,1ST,26/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12546002,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Visita,2ND,26/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545994,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,327087,Caldiero Terme,Local,ALL,01/09/2024,2,0,44%,0.51,,3,0,1,20,375,3,1,6,0,0,1,1,1,3,0,,,0,,,3,296,16,,,22/52 (42%),8/13 (61%),37%,8,39/119 (33%),23/46 (50%),3/3 (100%),,3,7,,11,,0,,,,,9
+12545994,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,327087,Caldiero Terme,Local,1ST,01/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545994,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,327087,Caldiero Terme,Local,2ND,01/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545994,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,01/09/2024,2,2,56%,0.35,,8,0,2,21,458,2,2,1,0,2,0,3,3,3,5,,,4,,,2,384,30,,,38/68 (55%),5/13 (38%),32%,3,31/108 (29%),19/45 (42%),10/17 (59%),,2,12,,10,,0,,,,,4
+12545994,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,01/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545994,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,01/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545986,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170634,Arzignano Valchiampo,Local,ALL,08/09/2024,3,1,49%,0.36,,13,4,5,11,449,6,2,2,0,4,0,3,6,3,10,,,0,,,1,379,21,,,20/39 (51%),5/17 (29%),37%,6,35/102 (34%),16/35 (46%),11/18 (61%),,6,9,,14,,4,,,,,5
+12545986,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170634,Arzignano Valchiampo,Local,1ST,08/09/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545986,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170634,Arzignano Valchiampo,Local,2ND,08/09/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545986,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,08/09/2024,3,4,51%,2.14,,17,3,4,10,448,3,2,3,0,8,1,5,3,10,7,,,1,,,8,376,20,,,41/68 (60%),5/12 (41%),41%,9,41/106 (39%),17/34 (50%),18/25 (72%),,3,14,,15,,3,,,,,7
+12545986,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,08/09/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545986,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,08/09/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545970,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,14/09/2024,4,1,55%,2.68,,21,0,8,9,594,0,3,0,0,6,1,12,2,12,9,,,2,,,2,524,16,,,42/61 (68%),9/28 (32%),48%,6,57/130 (44%),21/31 (68%),17/24 (71%),,0,16,,12,,0,,,,,3
+12545970,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,14/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545970,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,14/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545970,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,380181,Alcione Milano,Visita,ALL,14/09/2024,4,0,45%,0.13,,2,5,3,15,486,0,1,3,0,0,0,0,2,1,1,,,0,,,0,425,7,,,31/44 (70%),3/15 (20%),30%,9,38/127 (30%),10/31 (32%),15/21 (71%),,0,14,,11,,5,,,,,15
+12545970,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,380181,Alcione Milano,Visita,1ST,14/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545970,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,380181,Alcione Milano,Visita,2ND,14/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545957,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2769,Pro Vercelli,Local,ALL,20/09/2024,5,1,38%,0.94,,13,3,1,19,340,0,4,3,0,6,0,5,2,8,5,,,0,,,1,287,15,,,25/46 (54%),5/10 (50%),39%,4,39/106 (37%),20/42 (48%),11/14 (79%),,0,4,,8,,3,,,,,9
+12545957,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2769,Pro Vercelli,Local,1ST,20/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545957,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2769,Pro Vercelli,Local,2ND,20/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545957,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,20/09/2024,5,3,62%,1.58,,11,5,3,16,567,5,2,0,0,5,0,5,1,9,2,,,3,,,1,505,14,,,36/60 (60%),8/18 (44%),36%,11,44/129 (34%),18/43 (42%),7/12 (58%),,5,12,,10,,5,,,,,6
+12545957,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,20/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545957,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,20/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545949,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,24/09/2024,6,4,61%,3.16,,22,1,6,10,697,3,3,1,0,8,0,8,6,11,11,,,0,,,2,617,15,,,46/65 (70%),12/29 (41%),41%,4,40/102 (39%),19/41 (46%),25/28 (89%),,3,11,,11,,1,,,,,3
+12545949,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,24/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545949,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,24/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545949,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113761,Virtus Verona,Visita,ALL,24/09/2024,6,1,39%,0.25,,5,4,2,14,431,4,1,4,0,2,0,1,2,2,3,,,3,,,1,372,10,,,32/44 (72%),4/14 (28%),38%,5,43/124 (35%),23/46 (50%),18/30 (60%),,4,26,,20,,4,,,,,13
+12545949,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113761,Virtus Verona,Visita,1ST,24/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545949,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113761,Virtus Verona,Visita,2ND,24/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545942,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2746,Aurora Pro Patria,Local,ALL,28/09/2024,7,1,35%,0.86,,8,8,3,20,292,1,2,3,0,5,0,1,2,5,3,,,1,,,1,203,22,,,30/66 (45%),6/12 (50%),32%,3,40/138 (29%),25/63 (40%),11/13 (85%),,1,20,,7,,8,,,,,11
+12545942,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2746,Aurora Pro Patria,Local,1ST,28/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545942,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2746,Aurora Pro Patria,Local,2ND,28/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545942,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,28/09/2024,7,1,65%,1.21,,15,4,3,13,575,0,3,1,0,9,0,4,2,10,5,,,1,,,3,482,29,,,48/76 (63%),11/28 (39%),40%,7,46/133 (35%),36/70 (51%),42/50 (84%),,0,14,,20,,4,,,,,4
+12545942,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,28/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545942,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,28/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545927,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,06/10/2024,8,1,47%,1.53,,7,5,1,9,376,3,3,2,0,4,0,3,0,5,2,,,0,,,2,283,12,,,37/84 (44%),1/9 (11%),44%,6,51/127 (40%),24/41 (59%),11/15 (73%),,3,15,,12,,5,,,,,4
+12545927,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,06/10/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545927,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,06/10/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545927,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2722,L.R. Vicenza,Visita,ALL,06/10/2024,8,0,53%,0.71,,13,3,6,21,459,1,4,4,0,3,1,3,6,6,7,,,2,,,2,386,28,,,42/60 (70%),11/27 (40%),30%,9,39/142 (27%),18/45 (40%),20/30 (67%),,1,12,,15,,3,,,,,3
+12545927,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2722,L.R. Vicenza,Visita,1ST,06/10/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545927,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2722,L.R. Vicenza,Visita,2ND,06/10/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545918,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117232,Giana Erminio,Local,ALL,12/10/2024,9,0,51%,0.30,,7,4,2,14,347,2,3,3,0,2,1,0,4,2,5,,,0,,,4,289,33,,,36/59 (61%),4/10 (40%),30%,4,42/129 (33%),5/23 (22%),11/15 (73%),,2,6,,4,,4,,,,,3
+12545918,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117232,Giana Erminio,Local,1ST,12/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545918,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117232,Giana Erminio,Local,2ND,12/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545918,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,12/10/2024,9,1,49%,0.62,,7,2,2,14,383,5,0,4,0,4,0,1,2,5,2,,,2,,,0,324,16,,,36/58 (62%),2/7 (28%),39%,9,41/129 (32%),26/39 (67%),6/9 (67%),,5,10,,15,,2,,,,,6
+12545918,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,12/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545918,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,12/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545908,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,20/10/2024,10,0,56%,0.87,,8,2,4,14,587,5,1,1,0,0,0,5,3,5,3,,,2,,,0,499,23,,,26/48 (54%),9/15 (60%),31%,10,37/145 (26%),21/42 (50%),17/21 (81%),,5,13,,8,,2,,,,,4
+12545908,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,20/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545908,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,20/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545908,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,37173,Feralpisalò,Visita,ALL,20/10/2024,10,0,44%,0.55,,6,0,1,16,363,2,2,4,1,2,0,2,2,1,5,,,1,,,1,295,16,,,27/51 (52%),6/17 (35%),39%,1,40/109 (37%),21/44 (48%),15/23 (65%),,2,26,,11,,0,,,,,7
+12545908,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,37173,Feralpisalò,Visita,1ST,20/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545908,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,37173,Feralpisalò,Visita,2ND,20/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545905,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Local,ALL,27/10/2024,11,0,44%,0.56,,8,1,6,16,392,3,1,2,0,2,0,1,5,4,4,,,1,,,4,327,14,,,27/43 (62%),6/14 (42%),36%,8,50/147 (34%),18/37 (49%),17/23 (74%),,3,16,,23,,1,,,,,12
+12545905,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Local,1ST,27/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545905,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Local,2ND,27/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545905,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,27/10/2024,11,2,56%,2.09,,15,2,7,7,426,5,3,1,0,3,2,7,3,9,6,,,4,,,0,356,18,,,27/46 (58%),11/30 (36%),40%,15,57/149 (38%),18/37 (49%),25/27 (93%),,5,11,,6,,2,,,,,0
+12545905,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,27/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545905,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,27/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545890,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,30/10/2024,12,1,65%,0.62,,17,2,6,15,599,3,1,3,0,3,0,10,4,6,11,,,0,,,0,535,25,,,32/44 (72%),11/31 (35%),36%,6,47/137 (34%),11/22 (50%),19/24 (79%),,3,21,,10,,2,,,,,4
+12545890,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,30/10/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545890,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,30/10/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545890,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Visita,ALL,30/10/2024,12,0,35%,0.82,,7,2,1,13,311,4,2,2,0,2,0,3,2,5,2,,,1,,,4,251,15,,,23/45 (51%),4/15 (26%),37%,12,52/139 (37%),9/23 (39%),14/18 (78%),,4,19,,26,,2,,,,,4
+12545890,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Visita,1ST,30/10/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545890,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Visita,2ND,30/10/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545882,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113757,Pergolettese,Local,ALL,03/11/2024,13,1,42%,1.09,,10,3,2,11,345,0,4,0,0,3,1,3,3,8,2,,,0,,,2,272,21,,,38/68 (55%),10/22 (45%),38%,3,46/114 (40%),15/46 (33%),16/20 (80%),,0,17,,18,,3,,,,,4
+12545882,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113757,Pergolettese,Local,1ST,03/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545882,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113757,Pergolettese,Local,2ND,03/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545882,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,03/11/2024,13,2,58%,1.15,,12,2,4,13,486,6,1,2,0,5,0,6,1,6,6,,,1,,,1,414,31,,,44/69 (63%),6/15 (40%),37%,7,34/120 (28%),28/47 (60%),9/17 (53%),,6,20,,34,,2,,,,,4
+12545882,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,03/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545882,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,03/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545872,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,11/11/2024,14,2,55%,4.18,,19,1,3,15,482,3,0,3,0,7,0,3,9,12,7,,,0,,,1,414,24,,,34/59 (57%),8/16 (50%),33%,2,32/115 (28%),21/45 (47%),8/17 (47%),,3,26,,44,,1,,,,,5
+12545872,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,11/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545872,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,11/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545872,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2767,Novara,Visita,ALL,11/11/2024,14,1,45%,0.54,,8,5,3,9,396,1,6,3,0,2,0,1,5,3,5,,,1,,,2,311,26,,,34/54 (62%),1/11 (9%),38%,2,43/112 (38%),17/43 (40%),19/29 (66%),,1,29,,27,,5,,,,,6
+12545872,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2767,Novara,Visita,1ST,11/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545872,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2767,Novara,Visita,2ND,11/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545851,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,7933,Lecco,Local,ALL,23/11/2024,16,0,42%,1.89,,14,6,6,22,319,7,3,4,1,5,2,6,1,10,4,,,0,,,4,253,27,,,28/46 (60%),5/20 (25%),41%,5,35/96 (36%),23/45 (51%),14/16 (88%),,7,10,,8,,6,,,,,11
+12545851,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,7933,Lecco,Local,1ST,23/11/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545851,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,7933,Lecco,Local,2ND,23/11/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545851,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,23/11/2024,16,3,58%,2.85,,18,5,3,7,429,1,2,1,0,9,0,6,3,16,2,,,0,,,2,354,25,,,42/66 (63%),10/19 (52%),37%,3,31/95 (33%),22/46 (48%),6/7 (86%),,1,19,,8,,5,,,,,11
+12545851,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,23/11/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545851,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,23/11/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12718845,824,63521,NORMAL,PLAYOFF,Round of 16,CUP,2741,Padova,Local,ALL,27/11/2024,5,1,62%,1.25,,12,2,5,8,619,0,1,1,2,5,0,2,5,8,4,,,3,16,,2,540,18,,55/71 (77%),22/39 (56%),7/24 (29%),37%,12,53/143 (37%),10/25 (40%),29/39 (74%),,0,17,,8,1,2,,,1,,10
+12718845,824,63521,NORMAL,PLAYOFF,Round of 16,CUP,2741,Padova,Local,1ST,27/11/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12718845,824,63521,NORMAL,PLAYOFF,Round of 16,CUP,2741,Padova,Local,2ND,27/11/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12718845,824,63521,NORMAL,PLAYOFF,Round of 16,CUP,327087,Caldiero Terme,Visita,ALL,27/11/2024,5,2,38%,1.80,,13,4,2,10,397,3,2,3,0,4,1,7,1,10,3,,,6,16,,6,328,9,,31/44 (70%),42/59 (71%),5/14 (35%),35%,5,43/139 (31%),14/23 (61%),13/19 (68%),,3,24,,19,3,4,,,0,,8
+12718845,824,63521,NORMAL,PLAYOFF,Round of 16,CUP,327087,Caldiero Terme,Visita,1ST,27/11/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12718845,824,63521,NORMAL,PLAYOFF,Round of 16,CUP,327087,Caldiero Terme,Visita,2ND,27/11/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545840,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,01/12/2024,17,1,52%,1.41,,11,2,9,12,446,3,1,0,0,4,0,4,3,4,7,,,1,,,2,362,19,,,44/68 (64%),8/29 (27%),43%,5,56/133 (42%),20/40 (50%),19/21 (90%),,3,20,,27,,2,,,,,5
+12545840,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,01/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545840,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,01/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545840,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2724,Triestina,Visita,ALL,01/12/2024,17,1,48%,0.92,,8,3,4,16,444,4,3,2,0,3,0,2,3,6,2,,,2,,,1,368,23,,,23/45 (51%),3/13 (23%),28%,13,31/135 (23%),19/42 (45%),8/11 (73%),,4,16,,20,,3,,,,,8
+12545840,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2724,Triestina,Visita,1ST,01/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545840,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2724,Triestina,Visita,2ND,01/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13112646,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,04/12/2024,15,3,35%,1.28,,10,3,5,13,347,1,1,2,0,5,0,2,3,4,6,,,3,,,2,261,17,,,32/62 (51%),2/7 (28%),38%,8,37/118 (31%),26/46 (57%),5/7 (71%),,1,31,,38,,3,,,,,5
+13112646,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,04/12/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13112646,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,04/12/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13112646,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,485323,Atalanta U23,Visita,ALL,04/12/2024,15,1,65%,0.87,,10,2,3,17,675,0,2,1,0,4,0,4,2,5,5,,,0,,,2,572,20,,,20/54 (37%),10/18 (55%),41%,2,43/108 (40%),19/42 (45%),13/18 (72%),,0,11,,9,,2,,,,,6
+13112646,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,485323,Atalanta U23,Visita,1ST,04/12/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13112646,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,485323,Atalanta U23,Visita,2ND,04/12/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545819,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,14/12/2024,19,2,59%,1.00,,12,1,6,11,500,2,1,2,0,4,0,5,3,7,5,,,4,,,2,416,29,,,35/55 (63%),4/24 (16%),42%,6,52/129 (40%),17/33 (52%),19/23 (83%),,2,16,,15,,1,,,,,8
+12545819,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,14/12/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545819,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,14/12/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545819,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2738,Lumezzane,Visita,ALL,14/12/2024,19,0,41%,1.01,,13,2,4,17,333,1,3,2,0,1,0,8,4,7,6,,,0,,,2,265,16,,,41/60 (68%),5/12 (41%),34%,7,39/128 (30%),16/32 (50%),12/21 (57%),,1,23,,17,,2,,,,,10
+12545819,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2738,Lumezzane,Visita,1ST,14/12/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545819,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2738,Lumezzane,Visita,2ND,14/12/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13211326,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,24744,Union Clodiense,Local,ALL,18/12/2024,18,1,45%,0.42,,8,2,4,8,396,2,4,1,0,4,0,2,2,4,4,,,2,,,1,326,31,,,28/46 (60%),7/17 (41%),36%,7,40/105 (38%),17/51 (33%),20/27 (74%),,2,30,,9,,2,,,,,9
+13211326,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,24744,Union Clodiense,Local,1ST,18/12/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13211326,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,24744,Union Clodiense,Local,2ND,18/12/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13211326,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,18/12/2024,18,2,55%,2.32,,15,3,6,11,587,3,1,0,0,4,0,6,5,11,4,,,3,,,6,486,16,,,41/67 (61%),11/25 (44%),44%,9,35/104 (34%),37/58 (64%),16/18 (89%),,3,8,,17,,3,,,,,6
+13211326,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,18/12/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13211326,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,18/12/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545812,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Local,ALL,22/12/2024,20,0,58%,0.66,,10,2,5,15,509,4,2,3,1,1,0,3,6,4,6,,,3,,,2,426,19,,,32/59 (54%),7/22 (31%),37%,6,42/115 (37%),18/46 (39%),21/28 (75%),,4,12,,20,,2,,,,,8
+12545812,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Local,1ST,22/12/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545812,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,258972,Trento,Local,2ND,22/12/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545812,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,22/12/2024,20,1,42%,1.79,,12,1,6,11,376,2,1,5,1,3,0,6,3,9,3,,,1,,,2,295,24,,,31/58 (53%),3/11 (27%),37%,5,38/118 (32%),24/47 (51%),7/14 (50%),,2,21,,17,,1,,,,,7
+12545812,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,22/12/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545812,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,22/12/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545802,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,05/01/2025,21,1,54%,1.99,,24,2,9,9,503,6,3,2,0,5,0,8,11,16,8,,,0,,,1,426,27,,,39/56 (69%),7/21 (33%),41%,10,39/112 (35%),27/48 (56%),24/29 (83%),,6,23,,9,,2,,,,,5
+12545802,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,05/01/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545802,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,05/01/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545802,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,327087,Caldiero Terme,Visita,ALL,05/01/2025,21,0,46%,0.62,,4,4,1,8,400,9,1,1,0,1,0,1,2,4,0,,,4,,,0,314,21,,,34/58 (58%),3/14 (21%),39%,4,42/110 (38%),20/48 (42%),16/20 (80%),,9,13,,22,,4,,,,,14
+12545802,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,327087,Caldiero Terme,Visita,1ST,05/01/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545802,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,327087,Caldiero Terme,Visita,2ND,05/01/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545793,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,12/01/2025,22,1,70%,2.67,,26,3,10,12,719,1,1,1,0,11,0,6,9,21,5,,,0,,,2,629,24,,,48/75 (64%),18/46 (39%),42%,13,62/152 (41%),21/43 (49%),27/30 (90%),,1,16,,2,,3,,,,,5
+12545793,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,12/01/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545793,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,12/01/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545793,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170634,Arzignano Valchiampo,Visita,ALL,12/01/2025,22,1,30%,0.40,,7,10,1,10,256,3,0,0,0,4,0,1,2,3,4,,,1,,,0,188,24,,,26/46 (56%),0/10 (0%),31%,11,39/145 (27%),20/43 (47%),11/17 (65%),,3,18,,46,,10,,,,,9
+12545793,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170634,Arzignano Valchiampo,Visita,1ST,12/01/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545793,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,170634,Arzignano Valchiampo,Visita,2ND,12/01/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545787,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,380181,Alcione Milano,Local,ALL,19/01/2025,23,0,42%,0.28,,6,6,2,11,328,1,6,1,1,3,0,3,0,4,2,,,0,,,1,272,26,,,27/44 (61%),2/9 (22%),34%,10,46/158 (29%),20/36 (56%),21/29 (72%),,1,9,,22,,6,,,,,14
+12545787,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,380181,Alcione Milano,Local,1ST,19/01/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545787,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,380181,Alcione Milano,Local,2ND,19/01/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545787,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,19/01/2025,23,2,58%,2.99,,18,3,7,20,529,2,1,4,0,8,0,7,3,12,6,,,2,,,2,454,20,,,32/55 (58%),7/18 (38%),36%,5,44/127 (35%),14/30 (47%),20/26 (77%),,2,14,,11,,3,,,,,3
+12545787,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,19/01/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545787,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,19/01/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545769,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,25/01/2025,24,1,63%,1.76,,12,0,8,7,606,4,1,2,0,5,0,4,3,10,2,,,4,,,4,488,26,,,41/77 (53%),5/27 (18%),37%,4,43/129 (33%),33/73 (45%),10/13 (77%),,4,8,,9,,0,,,,,6
+12545769,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,25/01/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545769,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,25/01/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545769,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2769,Pro Vercelli,Visita,ALL,25/01/2025,24,1,37%,0.27,,6,4,2,19,281,0,2,2,0,0,0,3,3,1,5,,,0,,,2,192,21,,,37/65 (56%),1/5 (20%),31%,8,32/107 (30%),23/70 (33%),14/18 (78%),,0,20,,10,,4,,,,,7
+12545769,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2769,Pro Vercelli,Visita,1ST,25/01/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545769,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2769,Pro Vercelli,Visita,2ND,25/01/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545762,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113761,Virtus Verona,Local,ALL,01/02/2025,25,1,31%,1.14,,6,5,1,16,242,1,3,2,0,2,0,2,2,5,1,,,2,,,3,164,19,,,26/59 (44%),1/4 (25%),34%,2,48/131 (37%),13/48 (27%),14/25 (56%),,1,18,,31,,5,,,,,17
+12545762,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113761,Virtus Verona,Local,1ST,01/02/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545762,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113761,Virtus Verona,Local,2ND,01/02/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545762,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,01/02/2025,25,0,69%,2.96,,29,1,9,15,579,1,4,3,0,5,4,12,8,15,14,,,1,,,3,471,31,,,41/70 (58%),14/38 (36%),40%,6,45/127 (35%),27/50 (54%),18/19 (95%),,1,8,,3,,1,,,,,3
+12545762,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,01/02/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545762,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,01/02/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545752,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,09/02/2025,26,3,56%,2.89,,19,3,4,16,462,4,2,3,0,9,0,5,5,11,8,,,1,,,1,374,28,,,30/49 (61%),7/26 (26%),41%,8,53/140 (38%),32/65 (49%),21/28 (75%),,4,21,,17,,3,,,,,7
+12545752,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,09/02/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545752,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,09/02/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545752,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2746,Aurora Pro Patria,Visita,ALL,09/02/2025,26,1,44%,2.21,,9,6,2,12,340,2,1,1,0,3,0,4,2,7,2,,,1,,,2,250,22,,,30/60 (50%),3/10 (30%),39%,10,49/141 (35%),32/66 (48%),12/20 (60%),,2,20,,19,,6,,,,,8
+12545752,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2746,Aurora Pro Patria,Visita,1ST,09/02/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545752,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2746,Aurora Pro Patria,Visita,2ND,09/02/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545737,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2722,L.R. Vicenza,Local,ALL,16/02/2025,27,1,39%,1.87,,18,2,8,17,239,3,3,3,0,7,1,9,1,9,9,,,1,,,0,180,22,,,24/34 (70%),6/19 (31%),38%,9,50/131 (38%),12/30 (40%),22/28 (79%),,3,10,,23,,2,,,,,3
+12545737,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2722,L.R. Vicenza,Local,1ST,16/02/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545737,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2722,L.R. Vicenza,Local,2ND,16/02/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545737,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,16/02/2025,27,1,61%,1.31,,10,7,2,15,484,3,2,2,0,3,0,5,2,6,4,,,1,,,2,410,24,,,21/43 (48%),5/11 (45%),37%,9,45/130 (35%),15/30 (50%),8/10 (80%),,3,14,,19,,7,,,,,10
+12545737,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,16/02/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545737,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,16/02/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545734,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,23/02/2025,28,3,48%,1.11,,9,1,2,11,419,2,3,2,0,3,1,3,2,3,6,,,2,,,0,336,18,,,24/53 (45%),4/12 (33%),36%,9,45/120 (38%),13/37 (35%),17/17 (100%),,2,19,,8,,1,,,,,6
+12545734,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,23/02/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545734,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,23/02/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545734,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117232,Giana Erminio,Visita,ALL,23/02/2025,28,0,52%,0.43,,6,0,4,10,431,1,2,0,0,1,1,2,2,4,2,,,1,,,4,354,26,,,33/61 (54%),7/17 (41%),36%,10,32/106 (30%),20/35 (57%),8/13 (62%),,1,15,,14,,0,,,,,4
+12545734,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117232,Giana Erminio,Visita,1ST,23/02/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545734,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,117232,Giana Erminio,Visita,2ND,23/02/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545718,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,37173,Feralpisalò,Local,ALL,02/03/2025,29,1,45%,0.95,,10,2,4,17,387,0,4,2,0,7,0,1,2,5,5,,,0,,,3,310,35,,,25/46 (54%),5/10 (50%),30%,4,30/103 (29%),14/43 (33%),10/15 (67%),,0,12,,12,,2,,,,,8
+12545718,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,37173,Feralpisalò,Local,1ST,02/03/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545718,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,37173,Feralpisalò,Local,2ND,02/03/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545718,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,02/03/2025,29,0,55%,1.69,,8,6,5,12,455,2,1,0,0,2,1,3,2,7,1,,,0,,,1,364,18,,,29/59 (49%),7/15 (46%),37%,6,43/130 (33%),23/44 (52%),10/11 (91%),,2,12,,28,,6,,,,,3
+12545718,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,02/03/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545718,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,02/03/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545710,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,09/03/2025,30,3,51%,1.53,,11,2,5,9,427,4,2,0,0,5,1,4,1,8,3,,,0,,,3,365,25,,,37/54 (68%),8/16 (50%),35%,11,43/133 (32%),16/34 (47%),11/13 (85%),,4,10,,13,,2,,,,,11
+12545710,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,09/03/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545710,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,09/03/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545710,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Visita,ALL,09/03/2025,30,0,49%,1.58,,11,2,7,10,434,7,1,0,0,2,0,5,4,5,6,,,2,,,1,363,19,,,21/31 (67%),6/17 (35%),36%,5,48/133 (36%),13/34 (38%),14/20 (70%),,7,6,,17,,2,,,,,6
+12545710,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Visita,1ST,09/03/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545710,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2732,AlbinoLeffe,Visita,2ND,09/03/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545702,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Local,ALL,13/03/2025,31,3,35%,1.41,,14,1,4,15,240,1,2,3,0,6,0,6,2,8,6,,,1,,,3,167,23,,,35/63 (55%),3/14 (21%),37%,8,29/90 (32%),24/51 (47%),13/15 (87%),,1,19,,37,,1,,,,,11
+12545702,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Local,1ST,13/03/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545702,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,36586,Renate,Local,2ND,13/03/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545702,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,13/03/2025,31,2,65%,1.23,,11,3,2,11,567,4,1,2,0,3,0,5,3,6,5,,,5,,,0,462,33,,,46/74 (62%),11/31 (35%),40%,4,38/91 (42%),20/53 (38%),15/17 (88%),,4,12,,29,,3,,,,,7
+12545702,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,13/03/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545702,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,13/03/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545688,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,17/03/2025,32,2,70%,3.19,,18,1,6,13,732,3,4,2,0,5,2,5,6,12,6,,,1,,,3,636,23,,,36/60 (60%),7/26 (26%),44%,4,54/125 (43%),18/38 (47%),22/27 (81%),,3,16,,9,,1,,,,,3
+12545688,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,17/03/2025,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545688,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,17/03/2025,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545688,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113757,Pergolettese,Visita,ALL,17/03/2025,32,1,30%,0.42,,3,3,2,12,251,3,3,3,1,2,0,1,0,1,2,,,0,,,0,186,14,,,34/57 (59%),3/7 (42%),27%,9,26/125 (21%),19/40 (48%),3/12 (25%),,3,26,,26,,3,,,,,10
+12545688,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113757,Pergolettese,Visita,1ST,17/03/2025,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545688,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,113757,Pergolettese,Visita,2ND,17/03/2025,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545675,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2767,Novara,Local,ALL,23/03/2025,33,2,35%,0.70,,8,4,3,13,235,3,3,2,0,3,1,3,1,4,4,,,2,,,3,185,8,,,28/49 (57%),0/6 (0%),36%,4,31/96 (32%),26/60 (43%),14/23 (61%),,3,27,,34,,4,,,,,13
+12545675,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2767,Novara,Local,1ST,23/03/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545675,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2767,Novara,Local,2ND,23/03/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545675,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,23/03/2025,33,1,65%,1.58,,14,1,8,13,619,1,3,2,0,5,0,4,5,9,5,,,0,,,2,526,23,,,32/51 (62%),12/38 (31%),43%,5,46/101 (46%),25/63 (40%),23/28 (82%),,1,8,,5,,1,,,,,4
+12545675,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,23/03/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545675,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,23/03/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545670,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,485323,Atalanta U23,Local,ALL,30/03/2025,34,1,63%,0.60,,6,2,3,10,568,1,2,1,0,5,0,1,0,3,3,,,0,,,2,486,36,,,17/35 (48%),4/15 (26%),32%,16,38/138 (28%),20/41 (49%),12/17 (71%),,1,15,,4,,2,,,,,4
+12545670,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,485323,Atalanta U23,Local,1ST,30/03/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545670,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,485323,Atalanta U23,Local,2ND,30/03/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545670,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,30/03/2025,34,1,37%,0.38,,5,4,4,18,291,2,2,2,0,3,0,2,0,3,2,,,1,,,4,199,17,,,33/65 (50%),0/10 (0%),41%,3,42/117 (36%),22/36 (61%),8/8 (100%),,2,21,,8,,4,,,,,6
+12545670,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,30/03/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545670,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,30/03/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545665,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,07/04/2025,35,2,44%,0.35,,5,4,5,15,322,9,2,4,0,3,0,2,0,4,1,,,1,,,1,248,17,,,20/46 (43%),4/12 (33%),35%,5,35/120 (29%),24/45 (53%),7/8 (88%),,9,9,,13,,4,,,,,9
+12545665,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,07/04/2025,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545665,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,07/04/2025,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545665,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,7933,Lecco,Visita,ALL,07/04/2025,35,1,56%,2.42,,15,1,4,19,453,6,2,3,0,5,1,4,5,10,5,,,1,,,2,383,23,,,27/38 (71%),8/23 (34%),39%,10,46/123 (37%),19/43 (44%),17/21 (81%),,6,13,,12,,1,,,,,4
+12545665,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,7933,Lecco,Visita,1ST,07/04/2025,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545665,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,7933,Lecco,Visita,2ND,07/04/2025,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541959,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2724,Triestina,Local,ALL,13/04/2025,36,0,55%,0.38,,7,2,3,20,393,3,4,2,0,1,0,3,3,4,3,,,0,,,1,330,30,,,24/42 (57%),9/27 (33%),39%,6,50/127 (39%),25/62 (40%),26/29 (90%),,3,6,,12,,2,,,,,10
+12541959,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2724,Triestina,Local,1ST,13/04/2025,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541959,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2724,Triestina,Local,2ND,13/04/2025,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541959,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,13/04/2025,36,1,45%,1.21,,7,1,8,13,284,8,2,3,0,3,1,2,1,5,2,,,1,,,1,230,24,,,30/45 (66%),5/14 (35%),36%,4,36/137 (26%),40/74 (54%),15/20 (75%),,8,16,,32,,1,,,,,12
+12541959,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,13/04/2025,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541959,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,13/04/2025,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541882,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,ALL,18/04/2025,37,2,56%,2.22,,14,2,8,11,444,6,4,0,0,3,0,5,6,7,7,,,0,,,0,364,28,,,36/65 (55%),6/17 (35%),40%,4,39/98 (40%),16/39 (41%),13/17 (76%),,6,23,,13,,2,,,,,3
+12541882,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,1ST,18/04/2025,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541882,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Local,2ND,18/04/2025,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541882,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,24744,Union Clodiense,Visita,ALL,18/04/2025,37,1,44%,0.92,,6,1,3,20,338,4,1,3,0,3,0,3,0,4,2,,,1,,,3,264,21,,,17/31 (54%),9/18 (50%),37%,2,32/94 (34%),17/37 (46%),18/22 (82%),,4,18,,23,,1,,,,,8
+12541882,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,24744,Union Clodiense,Visita,1ST,18/04/2025,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541882,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,24744,Union Clodiense,Visita,2ND,18/04/2025,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541837,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2738,Lumezzane,Local,ALL,25/04/2025,38,0,54%,0.16,,4,2,2,10,478,3,1,2,0,0,0,2,2,1,3,,,0,,,0,403,25,,,27/51 (52%),0/1 (0%),26%,13,25/109 (23%),12/33 (36%),6/12 (50%),,3,15,,21,,2,,,,,10
+12541837,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2738,Lumezzane,Local,1ST,25/04/2025,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541837,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2738,Lumezzane,Local,2ND,25/04/2025,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541837,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,ALL,25/04/2025,38,0,46%,0.83,,8,0,4,9,453,5,2,1,0,2,0,4,2,5,3,,,3,,,2,380,30,,,31/48 (64%),2/17 (11%),44%,7,46/112 (41%),18/33 (55%),13/17 (76%),,5,13,,10,,0,,,,,3
+12541837,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,1ST,25/04/2025,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541837,11445,63975,NORMAL,GROUP,"Serie C, Group A",LEAGUE,2741,Padova,Visita,2ND,25/04/2025,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14317933,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,2705,Empoli,Local,ALL,23/08/2025,1,3,52%,1.64,3,15,3,6,19,382,14,19,2,,4,0,6,5,12,3,3,,,30,1,1,297,21,55,63/99 (64%),23/56 (41%),6/17 (35%),51%,13,42/84 (50%),23/43 (53%),11/19 (58%),64%,14,8,45,21,1,3,-0.05,1,0,0,5
+14317933,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,2705,Empoli,Local,1ST,23/08/2025,1,2,55%,1.11,2,6,2,3,,225,4,7,1,,2,0,2,2,6,0,2,,,,0,1,186,11,28,,11/23 (48%),3/9 (33%),50%,6,17/37 (46%),10/17 (59%),7/12 (58%),75%,4,4,22,8,,2,,,,,3
+14317933,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,2705,Empoli,Local,2ND,23/08/2025,1,1,47%,0.52,1,9,1,3,,157,10,12,1,,2,0,4,3,6,3,1,,,,1,0,111,10,27,,12/33 (36%),3/8 (38%),52%,7,25/47 (53%),13/26 (50%),4/7 (57%),60%,10,4,23,13,,1,,,,,2
+14317933,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,2741,Padova,Visita,ALL,23/08/2025,1,1,48%,0.61,1,9,1,4,19,361,21,19,4,,4,0,3,2,8,1,1,,,23,2,1,265,16,48,57/95 (60%),12/53 (23%),5/14 (36%),49%,8,42/84 (50%),20/43 (47%),6/12 (50%),43%,21,11,43,22,0,1,-1.05,0,2,1,6
+14317933,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,2741,Padova,Visita,1ST,23/08/2025,1,1,45%,0.57,1,7,0,1,,183,11,7,0,,3,0,2,2,6,1,1,,,,1,1,141,4,24,,7/26 (27%),4/6 (67%),50%,2,20/37 (54%),7/17 (41%),3/5 (60%),55%,11,6,25,8,,0,,,,,2
+14317933,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,2741,Padova,Visita,2ND,23/08/2025,1,0,53%,0.04,0,2,1,3,,178,10,12,4,,1,0,1,0,2,0,0,,,,1,0,124,12,24,,5/27 (19%),1/8 (13%),48%,6,22/47 (47%),13/26 (50%),3/7 (43%),30%,10,5,18,14,,1,,,,,4
+14317939,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,2745,Carrarese,Local,ALL,31/08/2025,2,0,58%,0.62,0,16,1,4,17,471,7,15,3,0,2,0,6,8,5,11,,0,0,15,4,0,405,20,69,104/136 (76%),26/43 (60%),6/24 (25%),42%,10,23/62 (37%),24/51 (47%),2/11 (18%),86%,7,8,43,25,,1,0.04,,1,0,8
+14317939,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,2745,Carrarese,Local,1ST,31/08/2025,2,0,53%,0.38,0,8,0,2,,215,4,7,1,0,0,0,2,6,2,6,,0,0,,3,0,185,15,31,,16/22 (73%),1/12 (8%),43%,7,11/28 (39%),12/25 (48%),1/5 (20%),75%,4,5,20,6,,0,,,,,2
+14317939,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,2745,Carrarese,Local,2ND,31/08/2025,2,0,64%,0.23,0,8,1,2,,256,3,8,2,0,2,0,4,2,3,5,,0,0,,1,0,220,5,38,,10/21 (48%),5/12 (42%),40%,3,12/34 (35%),12/26 (46%),1/6 (17%),100%,3,3,23,19,,1,,,,,6
+14317939,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,2741,Padova,Visita,ALL,31/08/2025,2,0,42%,0.83,1,11,2,2,15,341,19,17,3,1,1,0,5,5,7,4,,1,1,19,3,2,265,18,48,58/91 (64%),30/69 (43%),4/20 (20%),58%,6,39/62 (63%),27/51 (53%),5/6 (83%),68%,19,8,36,37,,2,0.47,,2,1,11
+14317939,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,2741,Padova,Visita,1ST,31/08/2025,2,0,47%,0.33,1,1,0,1,,197,11,5,2,0,0,0,1,0,1,0,,1,1,,0,2,167,8,16,,12/31 (39%),1/9 (11%),57%,4,17/28 (61%),13/25 (52%),3/3 (100%),64%,11,2,21,23,,0,,,,,5
+14317939,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,2741,Padova,Visita,2ND,31/08/2025,2,0,36%,0.50,0,10,2,1,,144,8,12,2,1,1,0,4,5,6,4,,0,0,,3,0,98,10,32,,18/38 (47%),3/11 (27%),60%,2,22/34 (65%),14/26 (54%),2/3 (67%),75%,8,6,15,14,,2,,,,,6
+14317944,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,2741,Padova,Local,ALL,13/09/2025,3,0,56%,0.62,0,10,3,6,11,431,14,16,1,,5,0,4,1,5,5,,0,,18,4,2,354,20,57,81/123 (66%),19/43 (44%),2/21 (10%),52%,5,30/58 (52%),17/33 (52%),2/4 (50%),57%,14,11,42,19,1,3,0.25,0,1,1,7
+14317944,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,2741,Padova,Local,1ST,13/09/2025,3,0,41%,0.38,0,5,1,4,,162,5,7,1,,3,0,2,0,3,2,,0,,,0,0,129,7,18,,9/22 (41%),1/8 (13%),42%,2,11/25 (44%),7/18 (39%),1/1 (100%),80%,5,4,19,11,,1,,,,,5
+14317944,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,2741,Padova,Local,2ND,13/09/2025,3,0,70%,0.23,0,5,2,2,,269,9,9,0,,2,0,2,1,2,3,,0,,,4,2,225,13,39,,10/21 (48%),1/13 (8%),60%,3,19/33 (58%),10/15 (67%),1/3 (33%),44%,9,7,23,8,,2,,,,,2
+14317944,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,2801,Frosinone,Visita,ALL,13/09/2025,3,1,44%,1.05,3,13,5,4,16,348,7,11,2,,4,0,9,0,9,4,,3,,24,1,2,280,18,42,59/87 (68%),25/54 (46%),3/13 (23%),48%,9,28/58 (48%),16/33 (48%),10/15 (67%),57%,7,7,43,29,1,5,1.21,2,1,1,10
+14317944,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,2801,Frosinone,Visita,1ST,13/09/2025,3,1,59%,0.60,1,8,3,2,,233,2,7,1,,2,0,6,0,5,3,,1,,,1,0,206,8,23,,18/25 (72%),3/9 (33%),58%,4,14/25 (56%),11/18 (61%),5/6 (83%),50%,2,3,18,12,,3,,,,,5
+14317944,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,2801,Frosinone,Visita,2ND,13/09/2025,3,0,30%,0.45,2,5,2,2,,115,5,4,1,,2,0,3,0,4,1,,2,,,0,2,74,10,19,,7/29 (24%),0/4 (0%),40%,5,14/33 (42%),5/15 (33%),5/9 (56%),60%,5,4,25,17,,2,,,,,5
+14317960,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,2741,Padova,Local,ALL,21/09/2025,4,2,59%,1.38,2,10,2,5,16,423,16,18,0,0,5,1,3,2,5,5,1,1,,13,2,4,365,15,58,99/130 (76%),15/29 (52%),5/17 (29%),55%,5,40/71 (56%),12/23 (52%),6/13 (46%),50%,16,5,35,10,,2,-0.66,0,1,1,10
+14317960,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,2741,Padova,Local,1ST,21/09/2025,4,0,59%,0.46,1,6,1,3,,271,4,11,0,0,2,1,2,2,3,3,0,1,,,0,3,237,7,28,,8/13 (62%),2/8 (25%),64%,2,17/27 (63%),6/9 (67%),3/7 (43%),100%,4,4,21,4,,1,,,,,5
+14317960,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,2741,Padova,Local,2ND,21/09/2025,4,2,58%,0.92,1,4,1,2,,152,12,7,0,0,3,0,1,0,2,2,1,0,,,2,1,128,8,30,,7/16 (44%),3/9 (33%),50%,3,23/44 (52%),6/14 (43%),3/6 (50%),33%,12,1,14,6,,1,,,,,5
+14317960,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,43680,Virtus Entella,Visita,ALL,21/09/2025,4,1,41%,1.75,3,11,3,8,19,286,12,16,5,1,3,0,7,1,9,2,0,3,,13,2,4,241,20,39,51/70 (73%),19/33 (58%),10/28 (36%),45%,9,31/71 (44%),11/23 (48%),3/10 (30%),67%,12,5,34,22,,3,-0.17,1,1,1,7
+14317960,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,43680,Virtus Entella,Visita,1ST,21/09/2025,4,1,41%,1.23,2,6,2,3,,183,6,4,1,0,2,0,3,1,4,2,0,2,,,0,1,155,10,22,,12/22 (55%),5/16 (31%),36%,3,10/27 (37%),3/9 (33%),0/1 (0%),67%,6,4,20,10,,2,,,,,4
+14317960,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,43680,Virtus Entella,Visita,2ND,21/09/2025,4,0,42%,0.52,1,5,1,5,,103,6,12,4,1,1,0,4,0,5,0,0,1,,,2,3,86,10,17,,7/11 (64%),5/12 (42%),50%,6,21/44 (48%),8/14 (57%),3/9 (33%),67%,6,1,14,12,,1,,,,,3
+14317983,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,2729,Monza,Local,ALL,27/09/2025,5,0,62%,1.41,2,13,3,7,10,562,16,12,1,,4,1,4,5,9,4,,2,,28,2,3,477,24,80,151/187 (81%),23/45 (51%),5/37 (14%),48%,12,36/67 (54%),16/42 (38%),9/16 (56%),56%,16,6,45,12,0,3,0.23,0,0,0,7
+14317983,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,2729,Monza,Local,1ST,27/09/2025,5,0,54%,0.56,1,5,3,5,,251,5,5,0,,2,0,1,2,3,2,,1,,,1,1,214,6,26,,12/24 (50%),2/12 (17%),43%,6,15/32 (47%),5/15 (33%),5/8 (63%),60%,5,4,19,7,,3,,,,,7
+14317983,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,2729,Monza,Local,2ND,27/09/2025,5,0,70%,0.85,1,8,0,2,,311,11,7,1,,2,1,3,3,6,2,,1,,,1,2,263,18,54,,11/21 (52%),3/25 (12%),52%,6,21/35 (60%),11/27 (41%),4/8 (50%),55%,11,2,26,5,,0,,,,,0
+14317983,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,2741,Padova,Visita,ALL,27/09/2025,5,1,38%,0.84,1,13,4,3,12,357,19,10,2,,4,1,7,2,7,6,,1,,10,0,1,277,13,40,51/79 (65%),26/59 (44%),4/9 (44%),52%,8,31/67 (46%),26/42 (62%),3/11 (27%),53%,19,11,46,43,1,4,1.12,1,3,1,7
+14317983,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,2741,Padova,Visita,1ST,27/09/2025,5,0,46%,0.49,1,9,2,2,,215,9,5,0,,3,1,4,2,7,2,,1,,,0,1,177,6,21,,13/26 (50%),4/8 (50%),57%,3,17/32 (53%),10/15 (67%),3/5 (60%),67%,9,2,21,11,,2,,,,,3
+14317983,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,2741,Padova,Visita,2ND,27/09/2025,5,1,30%,0.34,0,4,2,1,,142,10,5,2,,1,0,3,0,0,4,,0,,,0,0,100,7,19,,13/33 (39%),0/1 (0%),48%,5,14/35 (40%),16/27 (59%),0/6 (0%),40%,10,9,25,32,,2,,,,,4
+14317814,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,2741,Padova,Local,ALL,30/09/2025,6,2,45%,0.80,2,11,3,4,14,477,16,13,2,,3,1,3,5,8,3,0,2,1,22,2,1,409,8,49,84/116 (72%),27/49 (55%),6/22 (27%),59%,5,37/66 (56%),15/22 (68%),8/12 (67%),44%,16,16,46,20,,3,0.14,1,1,,5
+14317814,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,2741,Padova,Local,1ST,30/09/2025,6,2,46%,0.67,2,7,1,2,,256,8,7,0,,3,1,1,3,6,1,0,2,1,,2,1,224,3,24,,16/27 (59%),4/10 (40%),65%,3,17/29 (59%),7/8 (88%),2/4 (50%),38%,8,9,21,4,,1,,,,,3
+14317814,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,2741,Padova,Local,2ND,30/09/2025,6,0,44%,0.13,0,4,2,2,,221,8,6,2,,0,0,2,2,2,2,0,0,0,,0,0,185,5,25,,11/22 (50%),2/12 (17%),55%,2,20/37 (54%),8/14 (57%),6/8 (75%),50%,8,7,25,16,,2,,,,,2
+14317814,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,2730,US Avellino 1912,Visita,ALL,30/09/2025,6,2,55%,1.03,2,12,1,1,13,593,9,14,1,,5,1,3,4,4,8,1,1,1,11,1,0,510,18,72,117/156 (75%),40/63 (63%),3/18 (17%),41%,7,29/66 (44%),7/22 (32%),6/15 (40%),44%,9,9,42,17,,1,-1.24,0,0,,9
+14317814,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,2730,US Avellino 1912,Visita,1ST,30/09/2025,6,2,54%,0.84,2,5,1,1,,309,5,4,0,,3,0,1,1,4,1,1,1,1,,0,0,271,4,37,,21/32 (66%),2/7 (29%),35%,5,12/29 (41%),1/8 (13%),3/6 (50%),40%,5,6,17,8,,1,,,,,5
+14317814,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,2730,US Avellino 1912,Visita,2ND,30/09/2025,6,0,56%,0.20,0,7,0,0,,284,4,10,1,,2,1,2,3,0,7,0,0,0,,1,0,239,14,35,,19/31 (61%),1/11 (9%),45%,2,17/37 (46%),6/14 (43%),3/9 (33%),50%,4,3,25,9,,0,,,,,4
+14317810,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,2712,Bari,Local,ALL,04/10/2025,7,2,50%,1.97,3,15,6,7,12,412,11,15,2,0,5,0,4,6,7,8,2,1,0,23,5,0,343,11,56,88/129 (68%),20/37 (54%),4/28 (14%),51%,5,34/62 (55%),10/24 (42%),8/12 (67%),55%,11,2,44,25,,6,1.66,1,0,0,6
+14317810,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,2712,Bari,Local,1ST,04/10/2025,7,0,44%,0.45,1,7,2,1,4,196,5,8,1,0,3,0,1,3,3,4,0,1,0,,2,0,166,8,29,,13/18 (72%),2/10 (20%),52%,4,17/31 (55%),5/11 (45%),5/6 (83%),40%,5,2,23,13,,2,,,,,1
+14317810,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,2712,Bari,Local,2ND,04/10/2025,7,2,57%,1.51,2,8,4,6,8,216,6,7,1,0,2,0,3,3,4,4,2,0,0,,3,0,177,3,27,,7/19 (37%),2/18 (11%),50%,1,17/31 (55%),5/13 (38%),3/6 (50%),67%,6,0,21,12,,4,,,,,5
+14317810,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,2741,Padova,Visita,ALL,04/10/2025,7,1,50%,1.81,3,17,3,7,16,418,9,12,0,1,7,0,6,4,12,5,1,2,1,25,1,2,344,18,59,77/110 (70%),38/68 (56%),7/24 (29%),49%,5,28/62 (45%),14/24 (58%),8/14 (57%),67%,9,5,38,25,,3,0.04,0,3,1,10
+14317810,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,2741,Padova,Visita,1ST,04/10/2025,7,0,56%,0.58,1,6,3,4,8,249,5,4,0,0,2,0,3,1,4,2,0,1,0,,0,1,211,10,35,,19/30 (63%),4/14 (29%),48%,3,14/31 (45%),6/11 (55%),5/7 (71%),60%,5,4,17,12,,3,,,,,5
+14317810,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,2741,Padova,Visita,2ND,04/10/2025,7,1,43%,1.23,2,11,0,3,8,169,4,8,0,1,5,0,3,3,8,3,1,1,1,,1,1,133,8,24,,19/38 (50%),3/10 (30%),50%,2,14/31 (45%),8/13 (62%),3/7 (43%),75%,4,1,21,13,,0,,,,,5
+14317806,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,2796,Catanzaro,Local,ALL,19/10/2025,8,0,57%,1.85,2,19,4,8,15,449,6,17,3,,3,0,11,5,13,6,0,2,,28,3,2,355,27,64,93/149 (62%),19/45 (42%),12/33 (36%),48%,8,32/74 (43%),27/49 (55%),9/25 (36%),83%,6,5,44,23,1,4,1.07,0,0,0,3
+14317806,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,2796,Catanzaro,Local,1ST,19/10/2025,8,0,53%,1.16,2,7,3,7,6,203,2,6,2,,2,0,3,2,5,2,0,2,,,1,1,155,9,25,,11/26 (42%),6/15 (40%),44%,2,13/35 (37%),11/20 (55%),4/16 (25%),100%,2,1,20,11,,3,,,,,2
+14317806,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,2796,Catanzaro,Local,2ND,19/10/2025,8,0,62%,0.69,0,12,1,1,9,246,4,11,1,,1,0,8,3,8,4,0,0,,,2,1,200,18,39,,8/19 (42%),6/18 (33%),51%,6,19/39 (49%),16/29 (55%),5/9 (56%),75%,4,4,24,12,,1,,,,,1
+14317806,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,2741,Padova,Visita,ALL,19/10/2025,8,1,43%,0.93,3,10,3,4,18,348,24,15,4,,5,0,2,3,7,3,1,2,,12,1,2,246,16,43,35/73 (48%),13/66 (20%),3/11 (27%),52%,2,42/74 (57%),22/49 (45%),5/9 (56%),67%,24,8,42,50,1,3,0.73,2,1,1,12
+14317806,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,2741,Padova,Visita,1ST,19/10/2025,8,1,47%,0.68,3,5,2,3,7,189,14,6,0,,4,0,0,1,5,0,1,2,,,0,2,142,11,24,,5/28 (18%),2/6 (33%),56%,0,22/35 (63%),9/20 (45%),3/5 (60%),64%,14,4,16,17,,2,,,,,4
+14317806,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,2741,Padova,Visita,2ND,19/10/2025,8,0,38%,0.25,0,5,1,1,11,159,10,9,4,,1,0,2,2,2,3,0,0,,,1,0,104,5,19,,8/38 (21%),1/5 (20%),49%,2,20/39 (51%),13/29 (45%),2/4 (50%),70%,10,4,26,33,,1,,,,,8
+14317999,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,2741,Padova,Local,ALL,26/10/2025,9,2,44%,1.95,2,10,4,2,9,424,14,17,2,,3,0,3,4,6,4,2,0,1,10,2,1,338,14,32,45/64 (70%),23/64 (36%),2/10 (20%),54%,3,30/56 (54%),14/26 (54%),3/6 (50%),93%,14,6,39,30,2,4,0.55,1,,1,10
+14317999,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,2741,Padova,Local,1ST,26/10/2025,9,1,45%,1.00,1,3,1,1,1,222,6,7,1,,1,0,1,1,2,1,1,0,0,,1,1,176,5,8,,14/37 (38%),1/2 (50%),62%,0,14/21 (67%),9/16 (56%),1/3 (33%),83%,6,4,21,13,,1,,,,,7
+14317999,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,2741,Padova,Local,2ND,26/10/2025,9,1,42%,0.95,1,7,3,1,8,202,8,10,1,,2,0,2,3,4,3,1,0,1,,1,0,162,9,24,,9/27 (33%),1/8 (13%),47%,3,16/35 (46%),5/10 (50%),2/3 (67%),100%,8,2,18,17,,3,,,,,3
+14317999,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,5324,Juve Stabia,Visita,ALL,26/10/2025,9,2,56%,2.24,3,17,1,3,18,539,6,9,2,,6,1,6,5,10,7,2,1,1,19,0,3,475,21,53,87/118 (74%),23/40 (57%),3/21 (14%),46%,10,26/56 (46%),12/26 (46%),11/15 (73%),67%,6,4,41,11,0,1,0.01,0,,0,8
+14317999,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,5324,Juve Stabia,Visita,1ST,26/10/2025,9,1,55%,0.86,1,10,0,2,8,264,2,1,1,,2,1,4,4,4,6,1,0,0,,0,2,229,14,26,,13/23 (57%),1/9 (11%),38%,4,7/21 (33%),7/16 (44%),4/6 (67%),50%,2,1,21,4,,0,,,,,2
+14317999,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,5324,Juve Stabia,Visita,2ND,26/10/2025,9,1,58%,1.38,2,7,1,1,10,275,4,8,1,,4,0,2,1,6,1,1,1,1,,0,1,246,7,27,,10/17 (59%),2/12 (17%),53%,6,19/35 (54%),5/10 (50%),7/9 (78%),75%,4,3,20,7,,1,,,,,6
+14318011,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,2735,Spezia,Local,ALL,29/10/2025,10,1,44%,0.49,1,9,1,3,17,392,4,16,1,,5,0,3,1,6,3,1,,,18,2,3,307,14,56,53/90 (59%),18/54 (33%),8/17 (47%),47%,8,23/51 (45%),15/30 (50%),5/8 (63%),75%,4,9,46,19,,1,0.01,0,1,0,5
+14318011,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,2735,Spezia,Local,1ST,29/10/2025,10,1,45%,0.28,1,5,1,1,7,205,1,7,0,,2,0,2,1,3,2,1,,,,2,2,160,7,27,,13/30 (43%),4/8 (50%),56%,4,10/21 (48%),15/24 (63%),4/4 (100%),100%,1,6,22,6,,1,,,,,2
+14318011,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,2735,Spezia,Local,2ND,29/10/2025,10,0,43%,0.21,0,4,0,2,10,187,3,9,1,,3,0,1,0,3,1,0,,,,0,1,147,7,29,,5/24 (21%),4/9 (44%),36%,4,13/30 (43%),0/6 (0%),1/4 (25%),67%,3,3,24,13,,0,,,,,3
+14318011,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,2741,Padova,Visita,ALL,29/10/2025,10,1,56%,0.66,1,4,4,3,16,506,11,17,6,,2,0,1,1,2,2,1,,,11,0,1,403,24,54,65/113 (58%),30/72 (42%),1/14 (7%),53%,2,28/51 (55%),15/30 (50%),3/5 (60%),45%,11,12,28,28,,4,0.26,1,1,1,7
+14318011,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,2741,Padova,Visita,1ST,29/10/2025,10,0,55%,0.04,0,2,1,1,7,257,4,7,2,,1,0,0,1,1,1,0,,,,0,1,203,11,22,,16/37 (43%),0/6 (0%),44%,0,11/21 (52%),9/24 (38%),1/2 (50%),50%,4,5,14,8,,1,,,,,7
+14318011,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,2741,Padova,Visita,2ND,29/10/2025,10,1,57%,0.62,1,2,3,2,9,249,7,10,4,,1,0,1,0,1,1,1,,,,0,0,200,13,32,,14/35 (40%),1/8 (13%),64%,2,17/30 (57%),6/6 (100%),2/3 (67%),43%,7,7,14,20,,3,,,,,0
+14317855,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,2741,Padova,Local,ALL,01/11/2025,11,1,59%,1.17,1,11,4,1,12,485,20,17,4,,2,0,3,6,4,7,1,0,,15,5,1,373,23,58,70/117 (60%),25/75 (33%),4/10 (40%),53%,6,38/65 (58%),20/44 (45%),3/5 (60%),40%,20,6,54,43,,4,0.51,,,1,4
+14317855,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,2741,Padova,Local,1ST,01/11/2025,11,0,58%,0.20,0,5,1,0,5,260,12,7,0,,0,0,2,3,0,5,0,0,,,1,0,210,13,23,,16/40 (40%),2/3 (67%),52%,5,18/33 (55%),13/27 (48%),1/2 (50%),33%,12,1,30,26,,1,,,,,2
+14317855,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,2741,Padova,Local,2ND,01/11/2025,11,1,61%,0.97,1,6,3,1,7,225,8,10,4,,2,0,1,3,4,2,1,0,,,4,1,163,10,35,,9/35 (26%),2/7 (29%),55%,1,20/32 (63%),7/17 (41%),2/3 (67%),50%,8,5,24,17,,3,,,,,2
+14317855,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,2760,Südtirol,Visita,ALL,01/11/2025,11,1,41%,0.79,2,14,0,8,18,316,8,12,3,,5,0,4,5,10,4,0,2,,26,0,2,222,20,77,93/152 (61%),33/67 (49%),7/29 (24%),47%,12,27/65 (42%),24/44 (55%),8/16 (50%),63%,8,13,51,19,,0,-0.08,,,0,6
+14317855,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,2760,Südtirol,Visita,1ST,01/11/2025,11,1,42%,0.30,1,7,0,5,7,177,6,5,0,,2,0,2,3,4,3,0,1,,,0,0,124,9,47,,23/40 (57%),1/17 (6%),48%,8,15/33 (45%),14/27 (52%),5/9 (56%),67%,6,7,33,3,,0,,,,,3
+14317855,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,2760,Südtirol,Visita,2ND,01/11/2025,11,0,39%,0.49,1,7,0,3,11,139,2,7,3,,3,0,2,2,6,1,0,1,,,0,2,98,11,30,,10/27 (37%),6/12 (50%),45%,4,12/32 (38%),10/17 (59%),3/7 (43%),50%,2,6,18,16,,0,,,,,3
+14317862,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,2770,Mantova,Local,ALL,08/11/2025,12,1,64%,1.11,2,16,1,6,8,574,16,17,2,,4,1,7,5,10,6,1,1,,29,2,,517,20,57,116/148 (78%),26/43 (60%),9/26 (35%),50%,12,39/74 (53%),11/27 (41%),6/18 (33%),81%,16,5,43,17,1,1,0.09,1,0,0,4
+14317862,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,2770,Mantova,Local,1ST,08/11/2025,12,0,65%,0.29,0,6,1,1,5,316,3,7,0,,1,0,4,1,3,3,0,0,,,1,,283,15,28,,17/26 (65%),3/12 (25%),45%,6,12/26 (46%),6/14 (43%),2/5 (40%),100%,3,4,18,9,,1,,,,,2
+14317862,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,2770,Mantova,Local,2ND,08/11/2025,12,1,62%,0.82,2,10,0,5,3,258,13,10,2,,3,1,3,4,7,3,1,1,,,1,,234,5,29,,9/17 (53%),6/14 (43%),52%,6,27/48 (56%),5/13 (38%),4/13 (31%),77%,13,1,25,8,,0,,,,,2
+14317862,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,2741,Padova,Visita,ALL,08/11/2025,12,0,36%,0.40,0,7,3,2,17,328,24,8,3,,1,1,4,2,5,2,0,0,,10,0,,254,19,31,38/62 (61%),20/53 (38%),3/12 (25%),50%,8,35/74 (47%),16/27 (59%),4/12 (33%),75%,24,4,39,21,0,3,-0.00,2,2,1,13
+14317862,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,2741,Padova,Visita,1ST,08/11/2025,12,0,35%,0.22,0,4,1,2,7,165,9,5,0,,1,1,2,1,3,1,0,0,,,0,,133,6,15,,12/27 (44%),1/7 (14%),55%,2,14/26 (54%),8/14 (57%),1/2 (50%),67%,9,3,15,9,,1,,,,,9
+14317862,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,2741,Padova,Visita,2ND,08/11/2025,12,0,38%,0.18,0,3,2,0,10,163,15,3,3,,0,0,2,1,2,1,0,0,,,0,,121,13,16,,8/26 (31%),2/5 (40%),48%,6,21/48 (44%),8/13 (62%),3/10 (30%),80%,15,1,24,12,,2,,,,,4
+14317877,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,2741,Padova,Local,ALL,22/11/2025,13,0,43%,0.82,0,12,5,8,15,338,25,16,3,,7,0,4,1,6,6,0,0,,21,1,2,260,23,37,72/101 (71%),18/36 (50%),6/19 (32%),51%,8,46/86 (53%),12/28 (43%),7/11 (64%),72%,25,14,48,34,,5,-0.00,0,1,,8
+14317877,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,2741,Padova,Local,1ST,22/11/2025,13,0,35%,0.10,0,2,3,2,9,145,12,9,0,,2,0,0,0,1,1,0,0,,,0,1,106,11,19,,10/21 (48%),0/6 (0%),52%,2,22/40 (55%),7/16 (44%),2/3 (67%),67%,12,7,16,18,,3,,,,,5
+14317877,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,2741,Padova,Local,2ND,22/11/2025,13,0,53%,0.72,0,10,2,6,6,193,13,7,3,,5,0,4,1,5,5,0,0,,,1,1,154,12,18,,8/15 (53%),6/13 (46%),50%,6,24/46 (52%),5/12 (42%),5/8 (63%),77%,13,7,32,16,,2,,,,,3
+14317877,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,2688,Venezia,Visita,ALL,22/11/2025,13,2,57%,1.95,2,16,7,6,16,458,12,14,3,,7,0,4,5,10,6,1,1,,30,2,2,375,21,48,110/147 (75%),26/55 (47%),2/13 (15%),49%,16,40/86 (47%),16/28 (57%),14/23 (61%),67%,12,10,54,26,,7,1.40,1,1,,7
+14317877,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,2688,Venezia,Visita,1ST,22/11/2025,13,1,65%,0.97,1,9,2,4,9,278,3,9,1,,4,0,4,1,7,2,0,1,,,0,1,242,10,32,,13/27 (48%),1/10 (10%),48%,7,18/40 (45%),9/16 (56%),7/12 (58%),67%,3,8,21,7,,2,,,,,1
+14317877,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,2688,Venezia,Visita,2ND,22/11/2025,13,1,47%,0.98,1,7,5,2,7,180,9,5,2,,3,0,0,4,3,4,1,0,,,2,1,133,11,16,,13/28 (46%),1/3 (33%),50%,9,22/46 (48%),7/12 (58%),7/11 (64%),67%,9,2,33,19,,5,,,,,6
+14317816,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,7935,Pescara,Local,ALL,29/11/2025,14,0,56%,1.61,2,25,4,12,15,369,15,21,0,,5,0,10,10,17,8,,2,0,35,5,4,290,27,65,88/122 (72%),32/58 (55%),10/31 (32%),57%,13,48/87 (55%),17/28 (61%),14/21 (67%),67%,15,9,42,21,,4,-0.62,1,1,0,5
+14317816,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,7935,Pescara,Local,1ST,29/11/2025,14,0,50%,0.46,0,8,2,3,8,187,10,8,0,,0,0,2,6,4,4,,0,0,,1,2,147,13,28,,17/32 (53%),2/9 (22%),53%,8,24/46 (52%),5/9 (56%),7/12 (58%),60%,10,6,25,12,,2,,,,,3
+14317816,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,7935,Pescara,Local,2ND,29/11/2025,14,0,64%,1.15,2,17,2,9,7,182,5,13,0,,5,0,8,4,13,4,,2,0,,4,2,143,14,37,,15/26 (58%),8/22 (36%),60%,5,24/41 (59%),12/19 (63%),7/9 (78%),80%,5,3,17,9,,2,,,,,2
+14317816,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,2741,Padova,Visita,ALL,29/11/2025,14,1,44%,1.28,1,12,5,5,21,298,20,15,5,,5,1,3,4,9,3,,1,1,21,0,3,214,29,43,54/85 (64%),17/60 (28%),5/15 (33%),43%,6,39/87 (45%),11/28 (39%),4/13 (31%),45%,20,7,44,40,,5,1.07,1,2,3,13
+14317816,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,2741,Padova,Visita,1ST,29/11/2025,14,0,50%,0.18,0,5,0,4,8,187,13,8,2,,2,0,1,2,3,2,,0,0,,0,1,148,16,24,,9/23 (39%),4/12 (33%),47%,5,22/46 (48%),4/9 (44%),1/6 (17%),38%,13,5,26,14,,0,,,,,4
+14317816,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,2741,Padova,Visita,2ND,29/11/2025,14,1,36%,1.11,1,7,5,1,13,111,7,7,3,,3,1,2,2,6,1,,1,1,,0,2,66,13,19,,8/37 (22%),1/3 (33%),40%,1,17/41 (41%),7/19 (37%),3/7 (43%),57%,7,2,18,26,,5,,,,,9
+14317834,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,2741,Padova,Local,ALL,08/12/2025,15,1,52%,0.31,1,8,3,2,8,561,12,17,3,,3,0,2,3,4,4,,1,,9,2,2,473,14,49,47/86 (55%),14/37 (38%),4/10 (40%),60%,2,34/53 (64%),12/24 (50%),7/13 (54%),50%,12,12,40,18,,3,0.06,,1,1,10
+14317834,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,2741,Padova,Local,1ST,08/12/2025,15,0,50%,0.11,0,2,2,1,5,271,7,8,1,,0,0,2,0,1,1,,0,,,1,1,225,9,27,,9/22 (41%),1/4 (25%),55%,1,17/28 (61%),7/16 (44%),3/7 (43%),57%,7,4,16,11,,2,,,,,5
+14317834,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,2741,Padova,Local,2ND,08/12/2025,15,1,55%,0.20,1,6,1,1,3,290,5,9,2,,3,0,0,3,3,3,,1,,,1,1,248,5,22,,5/15 (33%),3/6 (50%),67%,1,17/25 (68%),5/8 (63%),4/6 (67%),40%,5,8,24,7,,1,,,,,5
+14317834,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,2742,Cesena,Visita,ALL,08/12/2025,15,1,48%,1.48,6,15,2,4,17,507,8,8,4,,4,1,11,0,9,6,,6,,23,2,1,440,15,54,95/125 (76%),20/39 (51%),7/19 (37%),40%,8,19/53 (36%),12/24 (50%),4/8 (50%),88%,8,14,51,11,,2,-0.42,,1,0,6
+14317834,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,2742,Cesena,Visita,1ST,08/12/2025,15,0,50%,0.96,3,9,0,2,8,268,5,5,1,,2,1,7,0,5,4,,3,,,2,1,236,9,26,,12/19 (63%),4/11 (36%),45%,3,11/28 (39%),9/16 (56%),1/5 (20%),80%,5,7,22,6,,0,,,,,5
+14317834,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,2742,Cesena,Visita,2ND,08/12/2025,15,1,45%,0.52,3,6,2,2,9,239,3,3,3,,2,0,4,0,4,2,,3,,,0,0,204,6,28,,8/20 (40%),3/8 (38%),33%,5,8/25 (32%),3/8 (38%),3/3 (100%),100%,3,7,29,5,,2,,,,,1
+14317838,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,24516,Reggiana,Local,ALL,13/12/2025,16,1,42%,1.58,1,13,3,7,10,320,16,12,2,,4,0,6,3,9,4,0,1,1,25,0,1,239,16,53,58/93 (62%),20/53 (38%),6/27 (22%),60%,8,31/53 (58%),22/35 (63%),4/8 (50%),88%,16,4,45,10,1,3,0.58,,,,7
+14317838,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,24516,Reggiana,Local,1ST,13/12/2025,16,0,38%,1.26,1,8,1,7,6,145,4,5,1,,2,0,4,2,6,2,0,1,1,,0,0,114,8,22,,9/20 (45%),2/16 (13%),47%,4,10/24 (42%),10/19 (53%),2/4 (50%),100%,4,3,20,4,,1,,,,,1
+14317838,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,24516,Reggiana,Local,2ND,13/12/2025,16,1,47%,0.32,0,5,2,0,4,175,12,7,1,,2,0,2,1,3,2,0,0,0,,0,1,125,8,31,,11/33 (33%),4/11 (36%),73%,4,21/29 (72%),12/16 (75%),2/4 (50%),83%,12,1,25,6,,2,,,,,6
+14317838,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,2741,Padova,Visita,ALL,13/12/2025,16,2,58%,2.53,2,10,2,5,12,461,12,10,3,,5,0,5,0,8,2,2,0,1,13,1,1,383,16,44,62/87 (71%),15/45 (33%),3/12 (25%),40%,8,22/53 (42%),13/35 (37%),3/11 (27%),75%,12,6,35,33,1,2,-0.09,,,,11
+14317838,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,2741,Padova,Visita,1ST,13/12/2025,16,1,62%,1.05,1,3,1,1,5,261,6,6,0,,2,0,1,0,2,1,1,0,1,,1,1,223,5,18,,7/18 (39%),1/4 (25%),53%,4,14/24 (58%),9/19 (47%),3/3 (100%),83%,6,2,14,18,,1,,,,,9
+14317838,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,2741,Padova,Visita,2ND,13/12/2025,16,1,53%,1.48,1,7,1,4,7,200,6,4,3,,3,0,4,0,6,1,1,0,0,,0,0,160,11,26,,8/27 (30%),2/8 (25%),27%,4,8/29 (28%),4/16 (25%),0/8 (0%),67%,6,4,21,15,,1,,,,,2
+14317678,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,2741,Padova,Local,ALL,20/12/2025,17,1,64%,0.78,2,12,4,2,14,553,12,18,2,,2,0,7,3,8,4,1,1,,17,1,0,455,23,61,72/118 (61%),40/75 (53%),4/18 (22%),50%,7,35/66 (53%),21/46 (46%),7/11 (64%),58%,12,6,46,25,,4,0.97,1,0,,4
+14317678,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,2741,Padova,Local,1ST,20/12/2025,17,0,69%,0.19,0,6,2,1,6,307,5,11,1,,0,0,5,1,3,3,0,0,,,1,0,266,14,24,,21/30 (70%),3/10 (30%),57%,4,18/32 (56%),12/21 (57%),4/4 (100%),40%,5,4,19,13,,2,,,,,2
+14317678,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,2741,Padova,Local,2ND,20/12/2025,17,1,59%,0.59,2,6,2,1,8,246,7,7,1,,2,0,2,2,5,1,1,1,,,0,0,189,9,37,,19/45 (42%),1/8 (13%),44%,3,17/34 (50%),9/25 (36%),3/7 (43%),71%,7,2,27,12,,2,,,,,2
+14317678,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,2711,Sampdoria,Visita,ALL,20/12/2025,17,1,36%,1.13,3,12,1,5,18,309,11,14,2,,5,0,5,2,6,6,1,2,,13,2,2,230,15,39,71/101 (70%),19/52 (37%),2/16 (13%),50%,8,31/66 (47%),25/46 (54%),8/12 (67%),64%,11,8,43,31,,1,-0.71,0,1,,9
+14317678,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,2711,Sampdoria,Visita,1ST,20/12/2025,17,1,31%,0.66,2,6,0,4,11,135,4,6,2,,3,0,1,2,3,3,1,1,,,1,2,98,6,15,,5/18 (28%),1/7 (14%),43%,3,14/32 (44%),9/21 (43%),5/7 (71%),75%,4,5,21,15,,0,,,,,4
+14317678,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,2711,Sampdoria,Visita,2ND,20/12/2025,17,0,41%,0.47,1,6,1,1,7,174,7,8,0,,2,0,4,0,3,3,0,1,,,1,0,132,9,24,,14/34 (41%),1/9 (11%),56%,5,17/34 (50%),16/25 (64%),3/5 (60%),57%,7,3,22,16,,1,,,,,5
+14317675,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,2715,Palermo,Local,ALL,27/12/2025,18,1,41%,1.28,1,11,6,3,12,339,11,11,2,,3,0,3,5,8,3,1,0,,27,3,0,263,23,54,80/116 (69%),25/47 (53%),1/19 (5%),45%,7,24/55 (44%),16/34 (47%),2/10 (20%),55%,11,9,46,31,1,6,1.30,3,0,,4
+14317675,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,2715,Palermo,Local,1ST,27/12/2025,18,1,49%,0.99,1,7,4,1,6,208,4,6,2,,2,0,2,3,5,2,1,0,,,1,0,165,11,30,,15/23 (65%),0/10 (0%),41%,4,11/26 (42%),7/18 (39%),1/3 (33%),100%,4,3,24,16,,4,,,,,2
+14317675,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,2715,Palermo,Local,2ND,27/12/2025,18,0,33%,0.29,0,4,2,2,6,131,7,5,0,,1,0,1,2,3,1,0,0,,,2,0,98,12,24,,10/24 (42%),1/9 (11%),49%,3,13/29 (45%),9/16 (56%),1/7 (14%),29%,7,6,22,15,,2,,,,,2
+14317675,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,2741,Padova,Visita,ALL,27/12/2025,18,0,59%,0.82,1,11,1,8,11,491,15,12,2,,6,0,4,1,4,7,0,1,,21,2,5,399,26,47,88/116 (76%),18/42 (43%),4/27 (15%),55%,6,31/55 (56%),18/34 (53%),4/9 (44%),73%,15,13,47,19,0,1,-0.48,1,3,,5
+14317675,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,2741,Padova,Visita,1ST,27/12/2025,18,0,51%,0.63,1,6,0,4,6,212,6,6,0,,4,0,2,0,2,4,0,1,,,0,2,169,13,24,,10/20 (50%),3/16 (19%),59%,3,15/26 (58%),11/18 (61%),3/4 (75%),67%,6,7,21,11,,0,,,,,2
+14317675,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,2741,Padova,Visita,2ND,27/12/2025,18,0,67%,0.19,0,5,1,4,5,279,9,6,2,,2,0,2,1,2,3,0,0,,,2,3,230,13,23,,8/22 (36%),1/11 (9%),51%,3,16/29 (55%),7/16 (44%),1/5 (20%),78%,9,6,26,8,,1,,,,,3
+14317711,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,2741,Padova,Local,ALL,11/01/2026,19,2,36%,1.07,2,8,6,3,11,285,20,13,3,,6,0,0,2,4,4,2,0,1,10,1,3,200,18,43,42/78 (54%),18/52 (35%),0/8 (0%),49%,7,36/65 (55%),12/32 (38%),4/8 (50%),70%,20,12,36,42,1,6,0.50,,3,,13
+14317711,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,2741,Padova,Local,1ST,11/01/2026,19,1,35%,0.68,1,1,2,0,3,144,10,8,1,,1,0,0,0,1,0,1,0,0,,0,2,105,5,16,,8/29 (28%),0/3 (0%),62%,1,20/29 (69%),6/13 (46%),3/5 (60%),70%,10,1,17,22,,2,,,,,8
+14317711,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,2741,Padova,Local,2ND,11/01/2026,19,1,37%,0.40,1,7,4,3,8,141,10,5,2,,5,0,0,2,3,4,1,0,1,,1,1,95,13,27,,10/23 (43%),0/5 (0%),40%,6,16/36 (44%),6/19 (32%),1/3 (33%),70%,10,11,19,20,,4,,,,,5
+14317711,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,2706,Modena,Visita,ALL,11/01/2026,19,0,64%,2.00,6,32,4,12,13,491,11,11,1,,6,3,14,12,19,13,0,6,0,49,1,3,417,23,61,154/190 (81%),38/64 (59%),12/42 (29%),51%,10,29/65 (45%),20/32 (63%),8/18 (44%),64%,11,3,50,11,0,4,-0.50,,1,,1
+14317711,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,2706,Modena,Visita,1ST,11/01/2026,19,0,65%,0.59,1,13,0,8,8,255,3,3,1,,2,0,6,5,6,7,0,1,0,,1,1,230,9,34,,20/28 (71%),4/24 (17%),38%,4,9/29 (31%),7/13 (54%),3/9 (33%),67%,3,3,24,2,,0,,,,,0
+14317711,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,2706,Modena,Visita,2ND,11/01/2026,19,0,63%,1.41,5,19,4,4,5,236,8,8,0,,4,3,8,7,13,6,0,5,0,,0,2,187,14,27,,18/36 (50%),8/18 (44%),60%,6,20/36 (56%),13/19 (68%),5/9 (56%),63%,8,0,26,9,,4,,,,,1
+14317718,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,2741,Padova,Local,ALL,17/01/2026,20,1,58%,1.12,1,20,3,6,14,469,16,20,4,,7,0,7,6,13,7,0,1,0,34,3,2,381,15,49,102/138 (74%),17/42 (40%),9/25 (36%),53%,5,36/65 (55%),22/45 (49%),3/9 (33%),38%,16,4,33,17,1,3,-0.35,0,1,0,13
+14317718,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,2741,Padova,Local,1ST,17/01/2026,20,0,48%,0.48,0,10,3,2,9,198,9,10,1,,4,0,3,3,7,3,0,0,0,,0,1,148,8,18,,8/26 (31%),3/6 (50%),43%,2,17/31 (55%),7/25 (28%),0/1 (0%),22%,9,1,14,13,,3,,,,,8
+14317718,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,2741,Padova,Local,2ND,17/01/2026,20,1,69%,0.64,1,10,0,4,5,271,7,10,3,,3,0,4,3,6,4,0,1,0,,3,1,233,7,31,,9/16 (56%),6/19 (32%),63%,3,19/34 (56%),15/20 (75%),3/8 (38%),57%,7,3,19,4,,0,,,,,5
+14317718,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,2770,Mantova,Visita,ALL,17/01/2026,20,2,42%,1.55,4,16,6,2,20,346,11,14,3,,5,0,9,2,9,7,2,2,1,22,4,2,275,10,43,108/136 (79%),18/42 (43%),3/10 (30%),47%,10,29/65 (45%),23/45 (51%),5/11 (45%),64%,11,9,46,33,0,6,-0.01,3,1,1,5
+14317718,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,2770,Mantova,Visita,1ST,17/01/2026,20,1,52%,0.75,2,12,4,1,10,217,3,9,1,,4,0,7,1,6,6,1,1,0,,3,1,177,4,28,,13/22 (59%),1/7 (14%),57%,5,14/31 (45%),18/25 (72%),3/7 (43%),33%,3,4,26,11,,4,,,,,1
+14317718,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,2770,Mantova,Visita,2ND,17/01/2026,20,1,31%,0.80,2,4,2,1,10,129,8,5,2,,1,0,2,1,3,1,1,1,1,,1,1,98,6,15,,5/20 (25%),2/3 (67%),37%,5,15/34 (44%),5/20 (25%),2/4 (50%),75%,8,5,20,22,,2,,,,,4
+14317893,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,2760,Südtirol,Local,ALL,25/01/2026,21,3,48%,3.04,4,22,3,5,10,388,11,16,3,,7,0,11,4,16,6,3,1,1,37,5,3,265,21,85,112/185 (61%),21/75 (28%),5/23 (22%),58%,8,36/62 (58%),36/63 (57%),11/18 (61%),82%,11,7,60,26,1,3,0.64,,0,1,7
+14317893,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,2760,Südtirol,Local,1ST,25/01/2026,21,2,58%,1.80,3,13,0,3,5,229,3,7,0,,5,0,6,2,10,3,2,1,1,,4,1,163,13,49,,11/40 (28%),3/18 (17%),56%,4,12/24 (50%),24/40 (60%),3/6 (50%),67%,3,1,28,8,,0,,,,,0
+14317893,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,2760,Südtirol,Local,2ND,25/01/2026,21,1,38%,1.24,1,9,3,2,5,159,8,9,3,,2,0,5,2,6,3,1,0,0,,1,2,102,8,36,,10/35 (29%),2/5 (40%),59%,4,24/38 (63%),12/23 (52%),8/12 (67%),88%,8,6,32,18,,3,,,,,7
+14317893,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,2741,Padova,Visita,ALL,25/01/2026,21,0,52%,1.04,3,13,4,3,17,431,15,10,1,,4,1,7,2,10,3,0,3,0,24,0,1,319,24,46,73/107 (68%),31/80 (39%),3/17 (18%),42%,7,26/62 (42%),27/63 (43%),2/6 (33%),53%,15,4,43,46,0,4,0.48,,1,0,12
+14317893,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,2741,Padova,Visita,1ST,25/01/2026,21,0,42%,0.00,0,0,3,0,7,175,7,5,1,,0,0,0,0,0,0,0,0,0,,0,1,118,15,16,,10/39 (26%),1/6 (17%),44%,3,12/24 (50%),16/40 (40%),0/0 (0%),57%,7,0,16,31,,3,,,,,7
+14317893,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,2741,Padova,Visita,2ND,25/01/2026,21,0,62%,1.04,3,13,1,3,10,256,8,5,0,,4,1,7,2,10,3,0,3,0,,0,0,201,9,30,,21/41 (51%),2/11 (18%),41%,4,14/38 (37%),11/23 (48%),2/6 (33%),50%,8,4,27,15,,1,,,,,5
+14317899,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,2741,Padova,Local,ALL,01/02/2026,22,1,39%,2.46,3,19,6,3,16,327,20,8,3,,1,0,10,8,12,7,1,2,,19,3,2,251,11,33,53/78 (68%),20/51 (39%),5/14 (36%),48%,8,33/70 (47%),18/36 (50%),5/10 (50%),60%,20,13,50,22,1,6,-0.19,3,1,1,7
+14317899,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,2741,Padova,Local,1ST,01/02/2026,22,1,34%,1.10,1,8,4,1,7,146,12,3,2,,1,0,3,4,5,3,1,0,,,2,1,107,7,13,,7/24 (29%),3/7 (43%),50%,3,16/31 (52%),7/15 (47%),1/3 (33%),58%,12,6,26,15,,4,,,,,4
+14317899,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,2741,Padova,Local,2ND,01/02/2026,22,0,44%,1.36,2,11,2,2,9,181,8,5,1,,1,0,7,4,7,4,1,2,,,1,1,144,4,20,,13/27 (48%),2/7 (29%),47%,5,17/39 (44%),11/21 (52%),4/7 (57%),63%,8,7,24,7,,2,,,,,3
+14317899,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,2729,Monza,Visita,ALL,01/02/2026,22,2,61%,1.37,3,19,0,9,9,532,13,16,1,,8,1,5,6,10,9,0,3,,31,4,0,462,22,55,146/181 (81%),23/39 (59%),6/23 (26%),52%,8,37/70 (53%),18/36 (50%),9/21 (43%),62%,13,11,41,15,1,0,-0.40,0,1,1,8
+14317899,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,2729,Monza,Visita,1ST,01/02/2026,22,1,66%,0.61,2,12,0,5,4,297,5,7,1,,5,0,4,3,6,6,0,2,,,2,0,263,11,32,,8/17 (47%),3/15 (20%),50%,5,15/31 (48%),8/15 (53%),4/11 (36%),100%,5,6,19,7,,0,,,,,2
+14317899,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,2729,Monza,Visita,2ND,01/02/2026,22,1,56%,0.76,1,7,0,4,5,235,8,9,0,,3,1,1,3,4,3,0,1,,,2,0,199,11,23,,15/22 (68%),3/8 (38%),53%,3,22/39 (56%),10/21 (48%),5/10 (50%),38%,8,5,22,8,,0,,,,,6
+14317706,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,5324,Juve Stabia,Local,ALL,07/02/2026,23,3,47%,1.72,2,13,2,1,24,375,9,11,2,,4,0,5,4,7,6,2,0,,19,4,1,290,30,55,55/92 (60%),27/62 (44%),1/7 (14%),45%,11,22/69 (32%),27/40 (68%),3/9 (33%),78%,9,11,45,27,0,2,-1.13,,1,,6
+14317706,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,5324,Juve Stabia,Local,1ST,07/02/2026,23,1,58%,1.00,1,4,1,1,12,246,5,6,1,,1,0,3,0,2,2,1,0,,,2,0,202,15,26,,15/31 (48%),1/5 (20%),45%,4,10/32 (31%),11/15 (73%),0/3 (0%),80%,5,4,21,8,,1,,,,,4
+14317706,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,5324,Juve Stabia,Local,2ND,07/02/2026,23,2,35%,0.72,1,9,1,0,12,129,4,5,1,,3,0,2,4,5,4,1,0,,,2,1,88,15,29,,12/31 (39%),1/2 (0%),45%,7,12/37 (32%),16/25 (64%),3/6 (50%),75%,4,7,24,19,,1,,,,,2
+14317706,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,2741,Padova,Visita,ALL,07/02/2026,23,3,53%,1.01,4,8,1,4,12,411,17,24,3,,6,0,1,1,6,2,2,2,,12,2,3,321,32,50,43/77 (56%),32/78 (41%),5/18 (28%),55%,5,47/69 (68%),13/40 (33%),6/10 (60%),65%,17,9,30,21,1,1,-1.32,,0,,6
+14317706,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,2741,Padova,Visita,1ST,07/02/2026,23,0,42%,0.05,0,1,0,2,7,180,7,12,1,,1,0,0,0,1,0,0,0,,,1,1,137,10,21,,14/38 (37%),1/6 (17%),55%,3,22/32 (69%),4/15 (27%),3/5 (60%),86%,7,8,13,9,,0,,,,,6
+14317706,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,2741,Padova,Visita,2ND,07/02/2026,23,3,65%,0.96,4,7,1,2,5,231,10,12,2,,5,0,1,1,5,2,2,2,,,1,2,184,22,29,,18/40 (45%),4/12 (33%),55%,2,25/37 (68%),9/25 (36%),3/5 (60%),50%,10,1,17,12,,1,,,,,1
+14317727,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,2741,Padova,Local,ALL,10/02/2026,24,1,36%,0.63,1,13,1,3,18,305,19,10,2,,2,1,6,5,6,7,1,0,,16,1,2,217,14,32,33/63 (52%),30/68 (44%),4/10 (40%),55%,4,36/69 (52%),21/35 (60%),9/15 (60%),68%,19,10,50,37,,1,0.01,,2,,13
+14317727,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,2741,Padova,Local,1ST,10/02/2026,24,1,46%,0.43,1,9,1,2,9,188,11,4,0,,2,1,4,3,5,4,1,0,,,1,1,142,6,15,,17/35 (49%),4/7 (57%),52%,2,21/41 (51%),9/17 (53%),7/12 (58%),64%,11,3,25,10,,1,,,,,7
+14317727,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,2741,Padova,Local,2ND,10/02/2026,24,0,27%,0.20,0,4,0,1,9,117,8,6,2,,0,0,2,2,1,3,0,0,,,0,1,75,8,17,,13/33 (39%),0/3 (0%),59%,2,15/28 (54%),12/18 (67%),2/3 (67%),75%,8,7,25,27,,0,,,,,6
+14317727,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,2745,Carrarese,Visita,ALL,10/02/2026,24,0,64%,1.28,1,22,1,8,10,525,10,18,3,,1,0,12,9,14,8,0,1,,34,1,0,438,26,48,124/158 (78%),26/46 (57%),6/34 (18%),45%,7,33/69 (48%),14/35 (40%),7/19 (37%),60%,10,11,48,18,,1,-0.28,,0,,9
+14317727,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,2745,Carrarese,Visita,1ST,10/02/2026,24,0,54%,0.62,1,9,1,3,4,222,7,9,1,,1,0,5,3,6,3,0,1,,,0,0,186,13,16,,12/20 (60%),3/10 (30%),48%,4,20/41 (49%),8/17 (47%),5/12 (42%),57%,7,5,22,12,,1,,,,,5
+14317727,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,2745,Carrarese,Visita,2ND,10/02/2026,24,0,73%,0.66,0,13,0,5,6,303,3,9,2,,0,0,7,6,8,5,0,0,,,1,0,252,13,32,,14/26 (54%),3/24 (13%),41%,3,13/28 (46%),6/18 (33%),2/7 (29%),67%,3,6,26,6,,0,,,,,4
+14317771,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,2711,Sampdoria,Local,ALL,14/02/2026,25,1,51%,1.50,2,12,1,5,12,438,17,19,2,,3,0,5,4,8,4,1,1,,30,6,,363,21,52,77/109 (71%),28/51 (55%),5/20 (25%),56%,7,45/76 (59%),17/34 (50%),8/16 (50%),88%,17,6,52,22,,1,0.21,1,1,,3
+14317771,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,2711,Sampdoria,Local,1ST,14/02/2026,25,1,57%,1.21,1,6,1,1,6,255,6,10,2,,2,0,1,3,5,1,1,0,,,6,,217,13,29,,11/23 (48%),4/12 (33%),56%,5,22/37 (59%),7/15 (47%),5/7 (71%),100%,6,1,23,10,,1,,,,,2
+14317771,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,2711,Sampdoria,Local,2ND,14/02/2026,25,0,45%,0.28,1,6,0,4,6,183,11,9,0,,1,0,4,1,3,3,0,1,,,0,,146,8,23,,17/28 (61%),1/8 (13%),57%,2,23/39 (59%),10/19 (53%),3/9 (33%),82%,11,5,29,12,,0,,,,,1
+14317771,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,2741,Padova,Visita,ALL,14/02/2026,25,0,49%,0.23,0,4,2,1,20,413,15,12,1,,1,0,1,3,1,3,0,0,,10,3,,331,21,43,55/89 (62%),32/63 (51%),2/13 (15%),44%,11,31/76 (41%),17/34 (50%),7/13 (54%),40%,15,5,50,24,,2,0.08,0,2,,6
+14317771,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,2741,Padova,Visita,1ST,14/02/2026,25,0,43%,0.05,0,1,1,0,11,192,7,6,1,,1,0,1,0,1,1,0,0,,,1,,152,5,20,,15/33 (45%),1/4 (25%),44%,3,15/37 (41%),8/15 (53%),4/7 (57%),14%,7,3,26,13,,1,,,,,3
+14317771,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,2741,Padova,Visita,2ND,14/02/2026,25,0,55%,0.18,0,3,1,1,9,221,8,6,0,,0,0,0,3,1,2,0,0,,,2,,179,16,23,,17/30 (57%),1/9 (11%),43%,8,16/39 (41%),9/19 (47%),3/6 (50%),63%,8,2,24,11,,1,,,,,3
+14317563,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,2741,Padova,Local,ALL,21/02/2026,26,1,55%,1.08,1,9,3,9,19,443,20,15,3,,5,1,4,0,6,3,0,1,,20,2,1,360,17,60,83/125 (66%),26/59 (44%),5/25 (20%),46%,2,38/74 (51%),15/40 (38%),4/8 (50%),55%,20,3,38,23,1,3,0.53,0,0,,11
+14317563,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,2741,Padova,Local,1ST,21/02/2026,26,1,53%,0.87,1,4,0,5,9,211,11,10,1,,2,0,2,0,4,0,0,1,,,1,0,165,10,31,,11/30 (37%),2/10 (20%),43%,1,21/40 (53%),3/16 (19%),1/1 (100%),55%,11,0,20,6,,0,,,,,6
+14317563,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,2741,Padova,Local,2ND,21/02/2026,26,0,56%,0.21,0,5,3,4,10,232,9,5,2,,3,1,2,0,2,3,0,0,,,1,1,195,7,29,,15/29 (52%),3/15 (20%),50%,1,17/34 (50%),12/24 (50%),3/7 (43%),56%,9,3,18,17,,3,,,,,5
+14317563,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,2712,Bari,Visita,ALL,21/02/2026,26,1,45%,1.58,3,17,4,3,15,369,6,19,4,,4,0,7,6,11,6,1,2,,22,1,1,306,13,47,90/111 (81%),12/38 (32%),5/17 (29%),54%,9,36/74 (49%),25/40 (63%),12/23 (52%),100%,6,11,44,30,1,4,0.56,1,1,,6
+14317563,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,2712,Bari,Visita,1ST,21/02/2026,26,1,47%,0.49,2,5,1,1,10,185,1,9,2,,1,0,3,1,5,0,1,1,,,0,0,156,8,20,,6/15 (40%),2/8 (25%),57%,4,19/40 (48%),13/16 (81%),9/16 (56%),100%,1,8,27,14,,1,,,,,3
+14317563,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,2712,Bari,Visita,2ND,21/02/2026,26,0,44%,1.09,1,12,3,2,5,184,5,10,2,,3,0,4,5,6,6,0,1,,,1,1,150,5,27,,6/23 (26%),3/9 (33%),50%,5,17/34 (50%),12/24 (50%),3/7 (43%),100%,5,3,17,16,,3,,,,,3
+14317725,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,2706,Modena,Local,ALL,28/02/2026,27,1,60%,0.38,0,12,1,5,13,461,9,13,2,,5,0,4,3,6,6,0,,0,28,1,0,382,35,74,126/170 (74%),29/52 (56%),3/34 (9%),46%,14,30/68 (44%),12/24 (50%),8/16 (50%),56%,9,2,41,7,,1,-0.68,,1,0,6
+14317725,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,2706,Modena,Local,1ST,28/02/2026,27,0,55%,0.33,0,10,0,2,2,193,1,9,0,,3,0,4,3,5,5,0,,0,,0,0,147,22,34,,17/31 (55%),2/13 (15%),56%,6,14/25 (56%),8/14 (57%),4/7 (57%),0%,1,1,15,4,,0,,,,,3
+14317725,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,2706,Modena,Local,2ND,28/02/2026,27,1,65%,0.05,0,2,1,3,11,268,8,4,2,,2,0,0,0,1,1,0,,0,,1,0,235,13,40,,12/21 (57%),1/21 (5%),38%,8,16/43 (37%),4/10 (40%),4/9 (44%),63%,8,1,26,3,,1,,,,,3
+14317725,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,2741,Padova,Visita,ALL,28/02/2026,27,2,40%,0.56,2,6,4,3,13,318,22,13,3,,3,0,2,1,3,3,2,,1,9,1,1,240,22,42,67/100 (67%),28/65 (43%),1/7 (14%),54%,7,38/68 (56%),12/24 (50%),3/5 (60%),55%,22,9,47,42,,4,-0.60,,2,1,9
+14317725,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,2741,Padova,Visita,1ST,28/02/2026,27,2,45%,0.52,2,4,3,2,9,162,9,2,1,,2,0,2,0,2,2,2,,1,,0,0,115,14,25,,13/34 (38%),1/4 (25%),44%,1,11/25 (44%),6/14 (43%),0/0 (0%),56%,9,3,22,21,,3,,,,,8
+14317725,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,2741,Padova,Visita,2ND,28/02/2026,27,0,35%,0.04,0,2,1,1,4,156,13,11,2,,1,0,0,1,1,1,0,,0,,1,1,125,8,17,,15/31 (48%),0/3 (0%),62%,6,27/43 (63%),6/10 (60%),3/5 (60%),54%,13,6,25,21,,1,,,,,1
+14317738,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,2741,Padova,Local,ALL,03/03/2026,28,2,51%,1.69,3,19,8,6,15,410,22,13,0,,5,0,9,5,8,11,2,1,,23,3,1,337,15,41,83/115 (72%),26/48 (54%),7/27 (26%),48%,8,39/68 (57%),9/33 (27%),5/7 (71%),59%,22,9,49,40,,8,0.08,1,2,,2
+14317738,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,2741,Padova,Local,1ST,03/03/2026,28,1,49%,0.94,2,8,1,2,7,228,13,7,0,,2,0,4,2,3,5,1,1,,,2,1,192,6,21,,15/24 (63%),3/12 (25%),46%,5,22/39 (56%),3/15 (20%),2/4 (50%),54%,13,4,23,17,,1,,,,,2
+14317738,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,2741,Padova,Local,2ND,03/03/2026,28,1,53%,0.75,1,11,7,4,8,182,9,6,0,,3,0,5,3,5,6,1,0,,,1,0,145,9,20,,11/24 (46%),4/15 (27%),49%,3,17/29 (59%),6/18 (33%),3/3 (100%),67%,9,5,26,23,,7,,,,,0
+14317738,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,2735,Spezia,Visita,ALL,03/03/2026,28,2,49%,1.09,2,13,3,5,13,420,10,15,2,,10,0,1,2,8,5,1,1,,13,2,0,330,24,56,76/122 (62%),23/47 (49%),3/16 (19%),52%,14,29/68 (43%),24/33 (73%),5/13 (38%),60%,10,7,38,32,,3,0.12,1,0,,10
+14317738,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,2735,Spezia,Visita,1ST,03/03/2026,28,1,51%,0.70,2,5,1,0,7,251,7,7,1,,2,0,1,2,4,1,1,1,,,1,0,207,13,28,,10/19 (53%),1/5 (0%),54%,11,17/39 (44%),12/15 (80%),4/6 (67%),71%,7,3,21,14,,1,,,,,2
+14317738,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,2735,Spezia,Visita,2ND,03/03/2026,28,1,47%,0.40,0,8,2,5,6,169,3,8,1,,8,0,0,0,4,4,0,0,,,1,0,123,11,28,,13/28 (46%),3/11 (27%),51%,3,12/29 (41%),12/18 (67%),1/7 (14%),33%,3,4,17,18,,2,,,,,8
+14317744,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,2730,US Avellino 1912,Local,ALL,07/03/2026,29,1,62%,1.75,2,19,1,9,12,518,14,16,3,,5,1,9,5,13,6,,2,,44,2,3,437,23,59,153/192 (80%),34/55 (62%),8/45 (18%),56%,4,37/65 (57%),18/34 (53%),10/22 (45%),71%,14,6,42,13,,1,0.41,,0,,7
+14317744,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,2730,US Avellino 1912,Local,1ST,07/03/2026,29,0,55%,1.04,1,11,0,2,9,213,6,9,2,,2,1,6,3,6,5,,1,,,1,2,175,12,23,,11/22 (50%),4/21 (19%),49%,3,20/38 (53%),6/15 (40%),6/13 (46%),83%,6,2,24,6,,0,,,,,3
+14317744,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,2730,US Avellino 1912,Local,2ND,07/03/2026,29,1,68%,0.71,1,8,1,7,3,305,8,7,1,,3,0,3,2,7,1,,1,,,1,1,262,11,36,,23/33 (70%),4/24 (17%),63%,1,17/27 (63%),12/19 (63%),4/9 (44%),63%,8,4,18,7,,1,,,,,4
+14317744,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,2741,Padova,Visita,ALL,07/03/2026,29,0,38%,0.60,2,6,4,3,16,326,16,12,3,,1,1,3,2,3,3,,2,,9,1,0,247,15,46,46/79 (58%),23/56 (41%),2/10 (20%),44%,8,28/65 (43%),16/34 (47%),1/7 (14%),44%,16,11,39,50,,4,0.15,,2,,9
+14317744,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,2741,Padova,Visita,1ST,07/03/2026,29,0,45%,0.38,1,3,2,1,9,184,10,9,0,,0,0,2,1,2,1,,1,,,0,0,138,6,28,,13/30 (43%),1/3 (33%),51%,3,18/38 (47%),9/15 (60%),0/3 (0%),60%,10,5,19,20,,2,,,,,5
+14317744,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,2741,Padova,Visita,2ND,07/03/2026,29,0,32%,0.22,1,3,2,2,7,142,6,3,3,,1,1,1,1,1,2,,1,,,1,0,109,9,18,,10/26 (38%),1/7 (14%),37%,5,10/27 (37%),7/19 (37%),1/4 (25%),17%,6,6,20,30,,2,,,,,4
+14317593,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,2741,Padova,Local,ALL,14/03/2026,30,1,53%,1.00,1,13,2,3,18,412,18,15,1,,1,0,8,4,6,7,0,1,,17,4,0,353,18,59,98/130 (75%),33/47 (70%),4/17 (24%),50%,11,38/77 (49%),14/27 (52%),5/12 (42%),61%,18,10,41,21,,2,-1.31,2,1,,6
+14317593,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,2741,Padova,Local,1ST,14/03/2026,30,0,53%,0.36,0,4,0,1,10,213,7,9,0,,0,0,3,1,3,1,0,0,,,1,0,184,7,33,,16/22 (73%),2/9 (22%),48%,5,18/37 (49%),4/9 (44%),2/5 (40%),57%,7,4,20,10,,0,,,,,3
+14317593,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,2741,Padova,Local,2ND,14/03/2026,30,1,54%,0.64,1,9,2,2,8,199,11,6,1,,1,0,5,3,3,6,0,1,,,3,0,169,11,26,,17/25 (68%),2/8 (25%),52%,6,20/40 (50%),10/18 (56%),3/7 (43%),64%,11,6,21,11,,2,,,,,3
+14317593,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,2796,Catanzaro,Visita,ALL,14/03/2026,30,3,47%,1.02,4,13,0,6,15,364,18,18,2,,5,0,4,4,7,6,1,3,,20,3,1,290,18,34,83/116 (72%),29/57 (51%),4/14 (29%),50%,15,39/77 (51%),13/27 (48%),4/7 (57%),83%,18,11,26,25,,0,-0.81,0,0,,12
+14317593,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,2796,Catanzaro,Visita,1ST,14/03/2026,30,1,47%,0.18,1,3,0,4,9,187,8,10,1,,1,0,1,1,1,2,0,1,,,2,1,148,8,20,,15/28 (54%),2/10 (20%),52%,6,19/37 (51%),5/9 (56%),2/3 (67%),75%,8,6,15,9,,0,,,,,6
+14317593,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,2796,Catanzaro,Visita,2ND,14/03/2026,30,2,46%,0.84,3,10,0,2,6,177,10,8,1,,4,0,3,3,6,4,1,2,,,1,0,142,10,14,,14/29 (48%),2/4 (50%),48%,9,20/40 (50%),8/18 (44%),2/4 (50%),90%,10,5,11,16,,0,,,,,6
+14317609,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,2688,Venezia,Local,ALL,17/03/2026,31,3,66%,3.68,7,30,2,9,9,621,17,13,1,,9,1,9,12,21,9,2,5,0,37,1,2,548,17,76,171/203 (84%),19/38 (50%),6/17 (35%),57%,10,41/73 (56%),9/15 (60%),11/19 (58%),71%,17,9,60,10,0,2,-0.21,0,0,,4
+14317609,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,2688,Venezia,Local,1ST,17/03/2026,31,1,73%,1.29,2,14,1,2,2,331,8,8,0,,2,0,6,6,10,4,1,1,0,,1,1,295,11,42,,9/16 (56%),5/11 (45%),64%,6,25/39 (64%),3/5 (60%),9/12 (75%),63%,8,4,26,5,,1,,,,,2
+14317609,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,2688,Venezia,Local,2ND,17/03/2026,31,2,58%,2.39,5,16,1,7,7,290,9,5,1,,7,1,3,6,11,5,1,4,0,,0,1,253,6,34,,10/22 (45%),1/6 (17%),50%,4,16/34 (47%),6/10 (60%),2/7 (29%),78%,9,5,34,5,,1,,,,,2
+14317609,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,2741,Padova,Visita,ALL,17/03/2026,31,1,34%,0.63,1,8,6,1,13,326,18,9,3,,3,0,1,4,6,2,1,0,1,18,0,2,227,23,45,49/87 (56%),21/63 (33%),2/5 (40%),43%,13,32/73 (44%),6/15 (40%),6/10 (60%),78%,18,8,47,16,2,6,0.30,3,2,,11
+14317609,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,2741,Padova,Visita,1ST,17/03/2026,31,0,27%,0.22,0,3,1,1,8,123,9,2,2,,1,0,0,2,3,0,0,0,1,,0,0,78,16,20,,10/26 (38%),1/2 (50%),36%,6,14/39 (36%),2/5 (40%),3/5 (60%),89%,9,4,16,10,,1,,,,,8
+14317609,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,2741,Padova,Visita,2ND,17/03/2026,31,1,42%,0.40,1,5,5,0,5,203,9,7,1,,2,0,1,2,3,2,1,0,0,,0,2,149,7,25,,11/37 (30%),1/3 (33%),50%,7,18/34 (53%),4/10 (40%),3/5 (60%),67%,9,4,31,6,,5,,,,,3
+14317618,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,2741,Padova,Local,ALL,21/03/2026,32,0,66%,1.59,3,14,0,9,10,513,14,12,3,1,2,0,6,6,8,6,0,3,,32,2,5,437,19,71,160/203 (79%),28/58 (48%),3/31 (10%),53%,0,37/57 (65%),13/38 (34%),11/17 (65%),86%,14,4,39,27,,0,-0.08,0,1,1,7
+14317618,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,2741,Padova,Local,1ST,21/03/2026,32,0,56%,1.11,2,7,0,2,5,222,7,6,0,0,1,0,4,2,3,4,0,2,,,0,2,184,12,32,,14/30 (47%),2/15 (13%),51%,0,16/26 (62%),4/13 (31%),3/4 (75%),86%,7,4,17,11,,0,,,,,4
+14317618,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,2741,Padova,Local,2ND,21/03/2026,32,0,76%,0.49,1,7,0,7,5,291,7,6,3,1,1,0,2,4,5,2,0,1,,,2,3,253,7,39,,14/28 (50%),1/16 (6%),54%,0,21/31 (68%),9/25 (36%),8/13 (62%),86%,7,0,22,16,,0,,,,,3
+14317618,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,2715,Palermo,Visita,ALL,21/03/2026,32,1,34%,1.32,2,11,2,4,12,266,6,10,1,1,1,0,4,6,9,2,1,1,,19,2,1,199,20,43,66/97 (68%),17/50 (34%),5/20 (25%),47%,5,20/57 (35%),25/38 (66%),7/16 (44%),100%,6,5,37,53,,2,0.33,1,3,1,7
+14317618,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,2715,Palermo,Visita,1ST,21/03/2026,32,0,44%,0.47,1,6,1,2,6,177,1,5,0,1,0,0,3,3,4,2,0,1,,,1,0,142,11,20,,7/24 (29%),2/12 (17%),49%,3,10/26 (38%),9/13 (69%),5/9 (56%),100%,1,2,18,22,,1,,,,,4
+14317618,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,2715,Palermo,Visita,2ND,21/03/2026,32,1,24%,0.85,1,5,1,2,6,89,5,5,1,0,1,0,1,3,5,0,1,0,,,1,1,57,9,23,,10/26 (38%),3/8 (38%),46%,2,10/31 (32%),16/25 (64%),2/7 (29%),100%,5,3,19,31,,1,,,,,3
+14317622,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,2801,Frosinone,Local,ALL,05/04/2026,33,2,63%,2.64,4,24,2,7,10,431,15,15,1,,8,1,8,8,18,6,2,2,1,45,1,2,335,23,73,103/146 (71%),24/62 (39%),6/27 (22%),51%,14,38/77 (49%),23/42 (55%),8/19 (42%),47%,15,4,50,20,1,2,0.81,,1,,4
+14317622,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,2801,Frosinone,Local,1ST,05/04/2026,33,2,64%,2.15,4,14,1,3,5,229,11,4,0,,5,1,4,5,12,2,2,2,1,,0,1,183,13,35,,8/24 (33%),4/14 (29%),50%,8,20/41 (49%),10/19 (53%),5/11 (45%),27%,11,2,24,7,,1,,,,,1
+14317622,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,2801,Frosinone,Local,2ND,05/04/2026,33,0,63%,0.49,1,10,1,4,5,202,4,11,1,,3,0,4,3,6,4,0,1,0,,1,1,152,10,38,,16/38 (42%),2/13 (15%),53%,6,18/36 (50%),13/23 (57%),3/8 (38%),100%,4,2,26,13,,1,,,,,3
+14317622,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,2741,Padova,Visita,ALL,05/04/2026,33,0,37%,0.91,2,11,6,5,15,250,25,10,2,,2,0,6,3,8,3,0,2,0,21,0,2,162,23,48,44/83 (53%),16/60 (27%),5/16 (31%),49%,10,39/77 (51%),19/42 (45%),4/9 (44%),52%,25,3,35,32,1,6,0.74,,1,,14
+14317622,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,2741,Padova,Visita,1ST,05/04/2026,33,0,36%,0.29,1,5,3,2,4,130,14,5,0,,1,0,3,1,4,1,0,1,0,,0,2,87,11,15,,8/30 (27%),3/7 (43%),50%,8,21/41 (51%),9/19 (47%),2/5 (40%),64%,14,1,18,20,,3,,,,,5
+14317622,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,2741,Padova,Visita,2ND,05/04/2026,33,0,37%,0.63,1,6,3,3,11,120,11,5,2,,1,0,3,2,4,2,0,1,0,,0,0,75,12,33,,8/30 (27%),2/9 (22%),47%,2,18/36 (50%),10/23 (43%),2/4 (50%),36%,11,2,17,12,,3,,,,,9
+14317564,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,2741,Padova,Local,ALL,12/04/2026,34,1,44%,1.36,4,16,1,4,20,297,16,22,2,,7,0,3,6,14,2,1,3,,30,2,2,208,19,68,81/135 (60%),27/66 (41%),8/23 (35%),49%,6,44/80 (55%),22/56 (39%),6/13 (46%),44%,16,9,45,30,0,1,0.86,1,,1,6
+14317564,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,2741,Padova,Local,1ST,12/04/2026,34,0,44%,0.47,1,7,1,3,6,153,8,15,0,,4,0,1,2,5,2,0,1,,,2,1,109,8,34,,11/28 (39%),5/13 (38%),57%,2,25/38 (66%),13/29 (45%),2/5 (40%),50%,8,5,20,10,,1,,,,,4
+14317564,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,2741,Padova,Local,2ND,12/04/2026,34,1,43%,0.89,3,9,0,1,14,144,8,7,2,,3,0,2,4,9,1,1,2,,,0,1,99,11,34,,16/38 (42%),3/10 (30%),41%,4,19/42 (45%),9/27 (33%),4/8 (50%),38%,8,4,25,20,,0,,,,,2
+14317564,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,2705,Empoli,Visita,ALL,12/04/2026,34,0,56%,1.62,3,10,6,4,22,390,13,20,1,,1,1,3,6,6,4,0,3,,20,1,3,294,14,47,49/81 (60%),33/68 (49%),6/20 (30%),51%,9,36/80 (45%),34/56 (61%),7/14 (50%),46%,13,5,52,29,1,6,0.59,1,,0,7
+14317564,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,2705,Empoli,Visita,1ST,12/04/2026,34,0,56%,1.12,2,5,4,4,15,193,5,6,1,,1,0,1,3,4,1,0,2,,,0,2,152,5,15,,15/31 (48%),5/15 (33%),43%,5,13/38 (34%),16/29 (55%),2/5 (40%),40%,5,3,28,11,,4,,,,,2
+14317564,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,2705,Empoli,Visita,2ND,12/04/2026,34,0,57%,0.50,1,5,2,0,7,197,8,14,0,,0,1,2,3,2,3,0,1,,,1,1,142,9,32,,18/37 (49%),1/5 (20%),59%,4,23/42 (55%),18/27 (67%),5/9 (56%),50%,8,2,24,18,,2,,,,,5
+14317582,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,2741,Padova,Local,ALL,19/04/2026,35,1,57%,1.36,1,10,3,5,16,434,25,19,0,,2,0,5,3,5,5,1,1,1,15,2,0,350,21,77,87/137 (64%),25/67 (37%),3/22 (14%),53%,11,47/88 (53%),13/26 (50%),5/12 (42%),72%,25,12,43,33,,3,0.17,1,0,,7
+14317582,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,2741,Padova,Local,1ST,19/04/2026,35,0,52%,0.27,1,5,2,2,8,188,8,11,0,,1,0,4,0,2,3,0,1,0,,1,0,148,13,33,,10/34 (29%),1/7 (14%),54%,4,23/44 (52%),5/8 (63%),4/8 (50%),50%,8,7,18,18,,2,,,,,3
+14317582,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,2741,Padova,Local,2ND,19/04/2026,35,1,61%,1.09,1,5,1,3,8,246,17,8,0,,1,0,1,3,3,2,1,0,1,,1,0,202,8,44,,15/33 (45%),2/15 (13%),52%,7,24/44 (55%),8/18 (44%),1/4 (25%),82%,17,5,25,15,,1,,,,,4
+14317582,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,24516,Reggiana,Visita,ALL,19/04/2026,35,0,43%,0.90,2,12,1,2,19,329,18,16,2,,3,0,7,2,3,9,0,2,0,14,1,1,243,23,47,49/84 (58%),22/57 (39%),4/15 (27%),47%,17,41/88 (47%),13/26 (50%),7/15 (47%),56%,18,8,46,33,,1,0.02,0,2,,9
+14317582,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,24516,Reggiana,Visita,1ST,19/04/2026,35,0,48%,0.40,1,7,1,2,11,171,8,8,1,,2,0,3,2,1,6,0,1,0,,0,1,130,13,24,,13/27 (48%),2/8 (25%),46%,6,21/44 (48%),3/8 (38%),5/7 (71%),88%,8,6,19,15,,1,,,,,5
+14317582,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,24516,Reggiana,Visita,2ND,19/04/2026,35,0,39%,0.50,1,5,0,0,8,158,10,8,1,,1,0,4,0,2,3,0,1,0,,1,0,113,10,23,,9/30 (30%),2/7 (29%),48%,11,20/44 (45%),10/18 (56%),2/8 (25%),30%,10,2,27,18,,0,,,,,4
+14317586,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,43680,Virtus Entella,Local,ALL,25/04/2026,36,1,58%,2.38,3,14,1,5,18,424,12,14,1,,7,0,4,3,12,2,,3,,25,0,2,337,23,60,90/132 (68%),40/69 (58%),5/19 (26%),58%,6,32/62 (52%),28/42 (67%),9/15 (60%),67%,12,4,47,41,,1,0.15,0,1,,7
+14317586,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,43680,Virtus Entella,Local,1ST,25/04/2026,36,0,63%,1.08,1,5,0,1,8,215,4,7,1,,3,0,1,1,4,1,,1,,,0,1,167,12,25,,23/41 (56%),2/9 (22%),58%,3,13/25 (52%),15/23 (65%),4/5 (80%),50%,4,2,22,22,,0,,,,,7
+14317586,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,43680,Virtus Entella,Local,2ND,25/04/2026,36,1,54%,1.30,2,9,1,4,10,209,8,7,0,,4,0,3,2,8,1,,2,,,0,1,170,11,35,,17/28 (61%),3/10 (30%),57%,3,19/37 (51%),13/19 (68%),5/10 (50%),75%,8,2,25,19,,1,,,,,0
+14317586,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,2741,Padova,Visita,ALL,25/04/2026,36,0,42%,0.37,1,8,5,3,14,303,12,18,3,,1,0,5,2,6,2,,1,,15,1,3,213,23,74,56/110 (51%),21/77 (27%),5/17 (29%),42%,5,30/62 (48%),14/42 (33%),1/8 (13%),42%,12,9,46,31,,5,0.39,1,2,,7
+14317586,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,2741,Padova,Visita,1ST,25/04/2026,36,0,37%,0.21,0,5,2,1,7,125,4,8,1,,0,0,4,1,4,1,,0,,,0,1,83,14,37,,8/37 (22%),4/8 (50%),42%,1,12/25 (48%),8/23 (35%),0/4 (0%),100%,4,8,21,17,,2,,,,,1
+14317586,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,2741,Padova,Visita,2ND,25/04/2026,36,0,46%,0.16,1,3,3,2,7,178,8,10,2,,1,0,1,1,2,1,,1,,,1,2,130,9,37,,13/40 (33%),1/9 (11%),43%,5,18/37 (49%),6/19 (32%),1/4 (25%),13%,8,1,25,14,,3,,,,,6
+14317636,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,2741,Padova,Local,ALL,01/05/2026,37,1,37%,0.63,0,11,5,3,21,272,25,14,3,,4,0,3,4,5,6,,0,,11,3,5,190,15,46,48/87 (55%),15/49 (31%),1/13 (8%),58%,4,43/74 (58%),17/29 (59%),7/9 (78%),68%,25,14,59,21,0,5,1.41,2,3,,9
+14317636,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,2741,Padova,Local,1ST,01/05/2026,37,0,43%,0.32,0,5,0,1,11,167,10,7,1,,2,0,2,1,1,4,,0,,,2,4,122,6,25,,6/23 (26%),1/8 (13%),64%,3,18/33 (55%),12/14 (86%),3/3 (100%),60%,10,6,35,11,,0,,,,,2
+14317636,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,2741,Padova,Local,2ND,01/05/2026,37,1,30%,0.31,0,6,5,2,10,105,15,7,2,,2,0,1,3,4,2,,0,,,1,1,68,9,21,,9/26 (35%),0/5 (0%),54%,1,25/41 (61%),5/15 (33%),4/6 (67%),73%,15,8,24,10,,5,,,,,7
+14317636,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,7935,Pescara,Visita,ALL,01/05/2026,37,0,63%,1.22,1,11,4,6,14,476,6,20,3,,5,1,5,1,6,5,,1,,18,4,0,396,23,61,102/135 (76%),34/64 (53%),2/15 (13%),42%,14,31/74 (42%),12/29 (41%),5/16 (31%),83%,6,12,48,13,1,4,-0.11,2,1,,7
+14317636,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,7935,Pescara,Visita,1ST,01/05/2026,37,0,57%,0.03,0,1,2,3,7,219,3,11,1,,0,0,1,0,1,0,,0,,,1,0,176,6,31,,15/34 (44%),0/9 (0%),36%,9,15/33 (45%),2/14 (14%),1/2 (50%),67%,3,6,25,7,,2,,,,,4
+14317636,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,7935,Pescara,Visita,2ND,01/05/2026,37,0,70%,1.18,1,10,2,3,7,257,3,9,2,,5,1,4,1,5,5,,1,,,3,0,220,17,30,,19/30 (63%),2/6 (33%),46%,5,16/41 (39%),10/15 (67%),4/14 (29%),100%,3,6,23,6,,2,,,,,3
+14317640,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,2742,Cesena,Local,ALL,08/05/2026,38,3,58%,2.31,6,30,2,11,11,511,15,11,2,,11,1,7,12,21,9,3,3,,46,2,2,435,24,56,156/197 (79%),16/35 (46%),13/39 (33%),55%,5,37/65 (57%),11/23 (48%),11/16 (69%),53%,15,2,56,19,0,2,-1.97,0,0,1,3
+14317640,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,2742,Cesena,Local,1ST,08/05/2026,38,3,55%,1.79,5,17,1,5,4,272,7,4,0,,7,0,3,7,14,3,3,2,,,0,0,232,13,31,,6/13 (46%),7/21 (33%),56%,3,16/28 (57%),6/11 (55%),5/7 (71%),57%,7,1,30,8,,1,,,,,0
+14317640,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,2742,Cesena,Local,2ND,08/05/2026,38,0,63%,0.52,1,13,1,6,7,239,8,7,2,,4,1,4,5,7,6,0,1,,,2,2,203,11,25,,10/22 (45%),6/18 (33%),53%,2,21/37 (57%),5/12 (42%),6/9 (67%),50%,8,1,26,11,,1,,,,,3
+14317640,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,2741,Padova,Visita,ALL,08/05/2026,38,4,42%,1.85,2,15,8,3,11,372,10,11,4,,7,1,4,4,12,3,2,0,,35,2,1,308,14,37,99/128 (77%),26/58 (45%),8/18 (44%),45%,7,28/65 (43%),12/23 (52%),7/15 (47%),70%,10,10,53,35,1,8,-0.69,3,5,2,8
+14317640,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,2741,Padova,Visita,1ST,08/05/2026,38,3,45%,1.06,1,7,4,1,4,231,5,4,0,,5,0,0,2,6,1,1,0,,,0,0,196,5,17,,13/32 (41%),3/8 (38%),44%,4,12/28 (43%),5/11 (45%),3/6 (50%),80%,5,5,30,21,,4,,,,,3
+14317640,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,2741,Padova,Visita,2ND,08/05/2026,38,1,37%,0.79,1,8,4,2,7,141,5,7,4,,2,1,4,2,6,2,1,0,,,2,1,112,9,20,,13/26 (50%),5/10 (50%),47%,3,16/37 (43%),7/12 (58%),4/9 (44%),60%,5,5,23,14,,4,,,,,5

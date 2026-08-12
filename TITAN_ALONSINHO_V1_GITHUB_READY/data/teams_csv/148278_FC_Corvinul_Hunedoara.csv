@@ -1,0 +1,421 @@
+﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+11459243,562,53285,NORMAL,REGULAR,Round 2,LEAGUE,260754,CSC Dumbrăviţa,Local,ALL,12/08/2023,2,0,,,,,,2,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459243,562,53285,NORMAL,REGULAR,Round 2,LEAGUE,260754,CSC Dumbrăviţa,Local,1ST,12/08/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459243,562,53285,NORMAL,REGULAR,Round 2,LEAGUE,260754,CSC Dumbrăviţa,Local,2ND,12/08/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459243,562,53285,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,12/08/2023,2,0,,,,,,8,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459243,562,53285,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,12/08/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459243,562,53285,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,12/08/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459214,562,53285,NORMAL,REGULAR,Round 4,LEAGUE,265708,AFC Progresul 1944 Spartac,Local,ALL,27/08/2023,4,1,,,,,,0,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459214,562,53285,NORMAL,REGULAR,Round 4,LEAGUE,265708,AFC Progresul 1944 Spartac,Local,1ST,27/08/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459214,562,53285,NORMAL,REGULAR,Round 4,LEAGUE,265708,AFC Progresul 1944 Spartac,Local,2ND,27/08/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459214,562,53285,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,27/08/2023,4,2,,,,,,2,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459214,562,53285,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,27/08/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459214,562,53285,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,27/08/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459061,562,53285,NORMAL,REGULAR,Round 14,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,26/11/2023,14,0,,,,,,10,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459061,562,53285,NORMAL,REGULAR,Round 14,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,26/11/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459061,562,53285,NORMAL,REGULAR,Round 14,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,26/11/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459061,562,53285,NORMAL,REGULAR,Round 14,LEAGUE,326819,CSC 1599 Șelimbăr,Visita,ALL,26/11/2023,14,0,,,,,,4,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459061,562,53285,NORMAL,REGULAR,Round 14,LEAGUE,326819,CSC 1599 Șelimbăr,Visita,1ST,26/11/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11459061,562,53285,NORMAL,REGULAR,Round 14,LEAGUE,326819,CSC 1599 Șelimbăr,Visita,2ND,26/11/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11888573,355,53460,NORMAL,REGULAR,Quarterfinals,CUP,148278,FC Corvinul Hunedoara,Local,ALL,02/04/2024,27,4,,,,1,,,,,,,,,,,1,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,0
+11888573,355,53460,NORMAL,REGULAR,Quarterfinals,CUP,148278,FC Corvinul Hunedoara,Local,1ST,02/04/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11888573,355,53460,NORMAL,REGULAR,Quarterfinals,CUP,148278,FC Corvinul Hunedoara,Local,2ND,02/04/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11888573,355,53460,NORMAL,REGULAR,Quarterfinals,CUP,5287,CFR 1907 Cluj,Visita,ALL,02/04/2024,27,0,,,,0,,,,,,,,,,,0,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,2
+11888573,355,53460,NORMAL,REGULAR,Quarterfinals,CUP,5287,CFR 1907 Cluj,Visita,1ST,02/04/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11888573,355,53460,NORMAL,REGULAR,Quarterfinals,CUP,5287,CFR 1907 Cluj,Visita,2ND,02/04/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12438194,679,61645,NORMAL,PLAYOFF,Qualification Round 1,INTERNATIONAL,6059,Paksi FC,Local,ALL,11/07/2024,1,0,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12438194,679,61645,NORMAL,PLAYOFF,Qualification Round 1,INTERNATIONAL,6059,Paksi FC,Local,1ST,11/07/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12438194,679,61645,NORMAL,PLAYOFF,Qualification Round 1,INTERNATIONAL,6059,Paksi FC,Local,2ND,11/07/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12438194,679,61645,NORMAL,PLAYOFF,Qualification Round 1,INTERNATIONAL,148278,FC Corvinul Hunedoara,Visita,ALL,11/07/2024,1,4,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12438194,679,61645,NORMAL,PLAYOFF,Qualification Round 1,INTERNATIONAL,148278,FC Corvinul Hunedoara,Visita,1ST,11/07/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12438194,679,61645,NORMAL,PLAYOFF,Qualification Round 1,INTERNATIONAL,148278,FC Corvinul Hunedoara,Visita,2ND,11/07/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12438209,679,61645,NORMAL,PLAYOFF,Qualification Round 1,INTERNATIONAL,148278,FC Corvinul Hunedoara,Local,ALL,18/07/2024,1,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12438209,679,61645,NORMAL,PLAYOFF,Qualification Round 1,INTERNATIONAL,148278,FC Corvinul Hunedoara,Local,1ST,18/07/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12438209,679,61645,NORMAL,PLAYOFF,Qualification Round 1,INTERNATIONAL,148278,FC Corvinul Hunedoara,Local,2ND,18/07/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12438209,679,61645,NORMAL,PLAYOFF,Qualification Round 1,INTERNATIONAL,6059,Paksi FC,Visita,ALL,18/07/2024,1,2,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12438209,679,61645,NORMAL,PLAYOFF,Qualification Round 1,INTERNATIONAL,6059,Paksi FC,Visita,1ST,18/07/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12438209,679,61645,NORMAL,PLAYOFF,Qualification Round 1,INTERNATIONAL,6059,Paksi FC,Visita,2ND,18/07/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12571119,679,61645,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,148278,FC Corvinul Hunedoara,Local,ALL,25/07/2024,2,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12571119,679,61645,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,148278,FC Corvinul Hunedoara,Local,1ST,25/07/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12571119,679,61645,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,148278,FC Corvinul Hunedoara,Local,2ND,25/07/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12571119,679,61645,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2039,HNK Rijeka,Visita,ALL,25/07/2024,2,0,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12571119,679,61645,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2039,HNK Rijeka,Visita,1ST,25/07/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12571119,679,61645,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2039,HNK Rijeka,Visita,2ND,25/07/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12571150,679,61645,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2039,HNK Rijeka,Local,ALL,01/08/2024,2,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12571150,679,61645,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2039,HNK Rijeka,Local,1ST,01/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12571150,679,61645,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2039,HNK Rijeka,Local,2ND,01/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12571150,679,61645,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,148278,FC Corvinul Hunedoara,Visita,ALL,01/08/2024,2,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12571150,679,61645,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,148278,FC Corvinul Hunedoara,Visita,1ST,01/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12571150,679,61645,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,148278,FC Corvinul Hunedoara,Visita,2ND,01/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619040,562,64111,NORMAL,REGULAR,Round 4,LEAGUE,44255,FC Voluntari,Local,ALL,25/08/2024,4,2,45%,1.73,,11,2,4,8,352,2,2,1,0,4,0,4,3,9,2,,,0,20,,3,291,17,,28/44 (64%),20/41 (48%),10/21 (47%),35%,3,37/97 (38%),6/23 (26%),8/10 (80%),,2,8,,20,1,2,,,,,6
+12619040,562,64111,NORMAL,REGULAR,Round 4,LEAGUE,44255,FC Voluntari,Local,1ST,25/08/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619040,562,64111,NORMAL,REGULAR,Round 4,LEAGUE,44255,FC Voluntari,Local,2ND,25/08/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619040,562,64111,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,25/08/2024,4,0,55%,0.94,,11,2,7,11,426,1,2,4,1,0,0,6,5,6,5,,,2,10,,2,366,25,,42/56 (75%),28/47 (59%),6/19 (31%),32%,10,28/103 (27%),13/24 (54%),10/17 (59%),,1,12,,18,2,2,,,,,7
+12619040,562,64111,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,25/08/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619040,562,64111,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,25/08/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619025,562,64111,NORMAL,REGULAR,Round 5,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,01/09/2024,5,1,61%,0.80,,13,0,7,10,416,3,5,2,0,3,1,7,2,6,7,,,6,14,,0,337,28,,38/62 (61%),25/48 (52%),7/28 (25%),44%,6,43/110 (39%),19/29 (66%),25/34 (74%),,3,16,,15,2,0,,,1,,5
+12619025,562,64111,NORMAL,REGULAR,Round 5,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,01/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619025,562,64111,NORMAL,REGULAR,Round 5,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,01/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619025,562,64111,NORMAL,REGULAR,Round 5,LEAGUE,275915,CSM Ceahlăul Piatra Neamţ,Visita,ALL,01/09/2024,5,1,39%,0.24,,5,2,3,11,252,5,4,2,0,1,0,2,2,1,4,,,0,5,,1,186,22,,15/29 (52%),14/40 (35%),0/3 (0%),31%,4,33/106 (31%),9/28 (32%),12/20 (60%),,5,16,,19,3,2,,,0,,20
+12619025,562,64111,NORMAL,REGULAR,Round 5,LEAGUE,275915,CSM Ceahlăul Piatra Neamţ,Visita,1ST,01/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619025,562,64111,NORMAL,REGULAR,Round 5,LEAGUE,275915,CSM Ceahlăul Piatra Neamţ,Visita,2ND,01/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619013,562,64111,NORMAL,REGULAR,Round 6,LEAGUE,266145,Viitorul Pandurii Târgu Jiu,Local,ALL,14/09/2024,6,1,40%,1.56,,10,4,3,11,285,2,2,1,0,2,0,5,3,6,4,,,1,12,,2,215,19,,24/46 (52%),28/62 (45%),1/9 (11%),33%,7,30/101 (30%),13/26 (50%),7/9 (78%),,2,17,,21,2,4,,,0,,12
+12619013,562,64111,NORMAL,REGULAR,Round 6,LEAGUE,266145,Viitorul Pandurii Târgu Jiu,Local,1ST,14/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619013,562,64111,NORMAL,REGULAR,Round 6,LEAGUE,266145,Viitorul Pandurii Târgu Jiu,Local,2ND,14/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619013,562,64111,NORMAL,REGULAR,Round 6,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,14/09/2024,6,3,60%,2.86,,19,1,6,9,437,2,2,0,0,7,3,5,4,10,9,,,5,25,,3,360,28,,40/68 (59%),27/57 (47%),6/21 (28%),33%,6,41/132 (31%),12/24 (50%),19/23 (83%),,2,15,,12,4,1,,,1,,8
+12619013,562,64111,NORMAL,REGULAR,Round 6,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,14/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619013,562,64111,NORMAL,REGULAR,Round 6,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,14/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12826563,562,64111,NORMAL,REGULAR,Round 1,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,18/09/2024,1,1,49%,0.62,,12,1,6,21,317,4,2,1,0,2,0,6,4,5,7,,,2,13,,3,240,28,,28/54 (52%),32/56 (57%),4/13 (30%),38%,7,62/174 (36%),18/35 (51%),25/30 (83%),,4,18,,16,,1,,,0,,7
+12826563,562,64111,NORMAL,REGULAR,Round 1,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,18/09/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12826563,562,64111,NORMAL,REGULAR,Round 1,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,18/09/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12826563,562,64111,NORMAL,REGULAR,Round 1,LEAGUE,326819,CSC 1599 Șelimbăr,Visita,ALL,18/09/2024,1,0,51%,0.62,,7,1,2,13,324,4,3,3,0,1,0,3,3,6,1,,,1,13,,0,252,28,,22/49 (45%),23/50 (46%),5/10 (50%),36%,11,63/176 (36%),15/39 (38%),19/28 (68%),,4,14,,17,,1,,,1,,13
+12826563,562,64111,NORMAL,REGULAR,Round 1,LEAGUE,326819,CSC 1599 Șelimbăr,Visita,1ST,18/09/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12826563,562,64111,NORMAL,REGULAR,Round 1,LEAGUE,326819,CSC 1599 Șelimbăr,Visita,2ND,18/09/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619001,562,64111,NORMAL,REGULAR,Round 7,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,21/09/2024,7,3,54%,3.18,,17,1,8,22,420,0,0,1,0,6,0,9,2,11,6,,,1,24,,5,339,22,,47/71 (66%),32/58 (55%),13/32 (40%),41%,5,44/130 (34%),20/25 (80%),20/23 (87%),,0,6,,6,0,1,,,,,5
+12619001,562,64111,NORMAL,REGULAR,Round 7,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,21/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619001,562,64111,NORMAL,REGULAR,Round 7,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,21/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619001,562,64111,NORMAL,REGULAR,Round 7,LEAGUE,447411,AFC Câmpulung Muscel,Visita,ALL,21/09/2024,7,0,46%,0.28,,5,4,1,10,321,2,4,0,0,1,0,4,0,1,4,,,0,3,,1,254,19,,18/31 (58%),22/45 (48%),0/2 (0%),33%,8,43/128 (34%),11/31 (35%),6/9 (67%),,2,14,,15,7,4,,,,,14
+12619001,562,64111,NORMAL,REGULAR,Round 7,LEAGUE,447411,AFC Câmpulung Muscel,Visita,1ST,21/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619001,562,64111,NORMAL,REGULAR,Round 7,LEAGUE,447411,AFC Câmpulung Muscel,Visita,2ND,21/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12887476,562,64111,NORMAL,REGULAR,Round 2,LEAGUE,326418,CS Unirea Ungheni 2018,Local,ALL,25/09/2024,2,1,46%,1.10,,12,4,6,11,277,5,3,1,0,5,0,5,2,7,5,,,0,16,,2,200,20,,23/47 (49%),33/72 (45%),5/13 (38%),45%,4,51/110 (46%),17/40 (43%),22/37 (59%),,5,18,,4,6,4,,,,,10
+12887476,562,64111,NORMAL,REGULAR,Round 2,LEAGUE,326418,CS Unirea Ungheni 2018,Local,1ST,25/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12887476,562,64111,NORMAL,REGULAR,Round 2,LEAGUE,326418,CS Unirea Ungheni 2018,Local,2ND,25/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12887476,562,64111,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,25/09/2024,2,2,54%,1.16,,13,4,3,12,321,3,1,2,0,6,0,4,3,5,8,,,0,14,,1,229,31,,31/61 (51%),23/54 (42%),6/14 (42%),42%,4,43/115 (37%),25/45 (56%),20/40 (50%),,3,21,,14,2,4,,,,,14
+12887476,562,64111,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,25/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12887476,562,64111,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,25/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619005,562,64111,NORMAL,REGULAR,Round 8,LEAGUE,116221,FC Argeș Pitești,Local,ALL,28/09/2024,8,0,51%,0.92,,10,3,2,10,341,1,5,2,0,3,1,4,2,5,5,,,0,11,,1,250,51,,41/72 (57%),29/63 (46%),5/24 (20%),34%,14,39/122 (32%),23/57 (40%),5/6 (83%),,1,7,,6,2,3,,,,,8
+12619005,562,64111,NORMAL,REGULAR,Round 8,LEAGUE,116221,FC Argeș Pitești,Local,1ST,28/09/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619005,562,64111,NORMAL,REGULAR,Round 8,LEAGUE,116221,FC Argeș Pitești,Local,2ND,28/09/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619005,562,64111,NORMAL,REGULAR,Round 8,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,28/09/2024,8,1,49%,0.57,,10,3,4,14,294,2,3,3,0,4,0,4,2,3,7,,,0,7,,1,220,24,,27/51 (53%),31/55 (56%),0/5 (0%),40%,15,38/122 (31%),34/58 (59%),10/16 (63%),,2,17,,20,1,3,,,,,10
+12619005,562,64111,NORMAL,REGULAR,Round 8,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,28/09/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619005,562,64111,NORMAL,REGULAR,Round 8,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,28/09/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618975,562,64111,NORMAL,REGULAR,Round 9,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,05/10/2024,9,0,60%,1.34,,14,5,7,10,423,0,2,0,0,4,0,7,3,7,7,,,3,25,,5,326,36,,51/84 (61%),49/88 (55%),12/25 (48%),50%,8,64/140 (46%),32/51 (63%),30/38 (79%),,0,16,,7,2,5,,,0,,2
+12618975,562,64111,NORMAL,REGULAR,Round 9,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,05/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618975,562,64111,NORMAL,REGULAR,Round 9,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,05/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618975,562,64111,NORMAL,REGULAR,Round 9,LEAGUE,266951,AFC Metalul Buzău,Visita,ALL,05/10/2024,9,1,40%,0.97,,7,4,3,12,302,0,1,0,0,6,0,0,1,5,2,,,0,7,,0,235,26,,33/55 (60%),30/54 (55%),2/3 (66%),25%,6,29/133 (22%),19/53 (36%),12/16 (75%),,0,9,,46,4,4,,,1,,13
+12618975,562,64111,NORMAL,REGULAR,Round 9,LEAGUE,266951,AFC Metalul Buzău,Visita,1ST,05/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618975,562,64111,NORMAL,REGULAR,Round 9,LEAGUE,266951,AFC Metalul Buzău,Visita,2ND,05/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618966,562,64111,NORMAL,REGULAR,Round 10,LEAGUE,55371,CSM Reşiţa,Local,ALL,19/10/2024,10,1,46%,0.84,,9,2,1,11,268,6,5,1,0,3,0,6,0,4,5,,,0,8,,1,187,29,,24/50 (48%),29/57 (50%),1/5 (20%),43%,9,48/134 (36%),27/40 (68%),12/18 (67%),,6,17,,18,1,2,,,1,,13
+12618966,562,64111,NORMAL,REGULAR,Round 10,LEAGUE,55371,CSM Reşiţa,Local,1ST,19/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618966,562,64111,NORMAL,REGULAR,Round 10,LEAGUE,55371,CSM Reşiţa,Local,2ND,19/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618966,562,64111,NORMAL,REGULAR,Round 10,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,19/10/2024,10,0,54%,0.25,,6,2,4,20,332,0,5,1,0,2,0,2,2,3,3,,,4,8,,3,238,35,,36/67 (54%),33/68 (48%),1/13 (7%),30%,10,38/131 (29%),13/35 (37%),13/19 (68%),,0,10,,12,1,2,,,0,,11
+12618966,562,64111,NORMAL,REGULAR,Round 10,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,19/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618966,562,64111,NORMAL,REGULAR,Round 10,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,19/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618956,562,64111,NORMAL,REGULAR,Round 11,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,26/10/2024,11,0,66%,1.90,,17,4,7,12,525,2,1,0,0,7,0,5,5,11,6,,,1,19,,3,405,45,,58/96 (60%),30/60 (50%),11/29 (37%),31%,11,50/147 (34%),10/42 (24%),23/29 (79%),,2,12,,7,2,4,,,0,,7
+12618956,562,64111,NORMAL,REGULAR,Round 11,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,26/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618956,562,64111,NORMAL,REGULAR,Round 11,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,26/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618956,562,64111,NORMAL,REGULAR,Round 11,LEAGUE,260754,CSC Dumbrăviţa,Visita,ALL,26/10/2024,11,0,34%,0.32,,9,8,1,4,218,9,1,1,0,4,0,3,2,2,7,,,1,8,,0,139,25,,24/43 (56%),37/60 (61%),1/2 (50%),38%,13,49/152 (32%),26/43 (60%),9/13 (69%),,9,28,,35,3,8,,,1,,15
+12618956,562,64111,NORMAL,REGULAR,Round 11,LEAGUE,260754,CSC Dumbrăviţa,Visita,1ST,26/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618956,562,64111,NORMAL,REGULAR,Round 11,LEAGUE,260754,CSC Dumbrăviţa,Visita,2ND,26/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618942,562,64111,NORMAL,REGULAR,Round 12,LEAGUE,328637,Steaua București,Local,ALL,01/11/2024,12,3,36%,1.09,,8,4,4,9,306,7,3,1,0,4,0,2,2,4,4,,,2,11,,2,210,17,,18/43 (42%),29/60 (48%),2/7 (28%),35%,4,47/147 (32%),27/60 (45%),11/20 (55%),,7,22,,23,2,4,,,2,,13
+12618942,562,64111,NORMAL,REGULAR,Round 12,LEAGUE,328637,Steaua București,Local,1ST,01/11/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618942,562,64111,NORMAL,REGULAR,Round 12,LEAGUE,328637,Steaua București,Local,2ND,01/11/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618942,562,64111,NORMAL,REGULAR,Round 12,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,01/11/2024,12,0,64%,1.04,,14,2,6,13,492,6,4,1,0,4,0,7,3,4,10,,,3,20,,2,396,35,,52/71 (73%),33/57 (57%),11/26 (42%),35%,16,58/168 (35%),23/59 (39%),28/38 (74%),,6,17,,10,1,2,,,1,,6
+12618942,562,64111,NORMAL,REGULAR,Round 12,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,01/11/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618942,562,64111,NORMAL,REGULAR,Round 12,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,01/11/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619035,562,64111,NORMAL,REGULAR,Round 3,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,06/11/2024,3,2,57%,1.76,,15,6,11,15,310,1,4,3,0,7,0,3,5,9,6,,,2,,,4,229,30,,,26/54 (48%),7/22 (31%),43%,19,66/157 (42%),18/38 (47%),21/25 (84%),,1,12,,14,,6,,,,,4
+12619035,562,64111,NORMAL,REGULAR,Round 3,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,06/11/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619035,562,64111,NORMAL,REGULAR,Round 3,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,06/11/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619035,562,64111,NORMAL,REGULAR,Round 3,LEAGUE,79091,CS Afumați,Visita,ALL,06/11/2024,3,0,43%,0.74,,6,6,2,7,229,0,2,1,0,5,0,1,0,2,4,,,2,,,1,163,31,,,19/43 (44%),2/4 (50%),31%,23,46/166 (28%),19/39 (49%),6/11 (55%),,0,13,,28,,6,,,,,6
+12619035,562,64111,NORMAL,REGULAR,Round 3,LEAGUE,79091,CS Afumați,Visita,1ST,06/11/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12619035,562,64111,NORMAL,REGULAR,Round 3,LEAGUE,79091,CS Afumați,Visita,2ND,06/11/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618931,562,64111,NORMAL,REGULAR,Round 13,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,09/11/2024,13,3,61%,2.56,,21,1,8,11,450,1,3,0,0,7,0,7,7,12,9,,,0,,,3,362,19,,,29/50 (58%),6/24 (25%),41%,6,43/95 (45%),10/33 (30%),21/25 (84%),,1,15,,10,,1,,,,,4
+12618931,562,64111,NORMAL,REGULAR,Round 13,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,09/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618931,562,64111,NORMAL,REGULAR,Round 13,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,09/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618931,562,64111,NORMAL,REGULAR,Round 13,LEAGUE,267508,CSM Focșani 2007,Visita,ALL,09/11/2024,13,2,39%,0.28,,4,4,2,13,312,2,1,1,0,3,0,0,1,4,0,,,1,,,3,213,25,,,17/39 (43%),1/6 (16%),40%,4,28/90 (31%),20/30 (67%),7/14 (50%),,2,18,,17,,4,,,,,13
+12618931,562,64111,NORMAL,REGULAR,Round 13,LEAGUE,267508,CSM Focșani 2007,Visita,1ST,09/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618931,562,64111,NORMAL,REGULAR,Round 13,LEAGUE,267508,CSM Focșani 2007,Visita,2ND,09/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618930,562,64111,NORMAL,REGULAR,Round 14,LEAGUE,368762,FC Bihor Oradea,Local,ALL,24/11/2024,14,1,56%,2.02,,15,1,4,12,459,1,4,5,0,3,0,8,4,8,7,,,4,,,1,344,37,,,31/64 (48%),10/24 (41%),36%,4,47/142 (33%),21/43 (49%),22/33 (67%),,1,20,,11,,1,,,,,7
+12618930,562,64111,NORMAL,REGULAR,Round 14,LEAGUE,368762,FC Bihor Oradea,Local,1ST,24/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618930,562,64111,NORMAL,REGULAR,Round 14,LEAGUE,368762,FC Bihor Oradea,Local,2ND,24/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618930,562,64111,NORMAL,REGULAR,Round 14,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,24/11/2024,14,2,44%,1.68,,13,3,2,9,314,0,4,3,0,3,1,4,5,5,8,,,0,,,0,214,18,,,35/69 (50%),6/16 (37%),39%,10,51/145 (35%),27/52 (52%),18/21 (86%),,0,25,,21,,3,,,,,10
+12618930,562,64111,NORMAL,REGULAR,Round 14,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,24/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618930,562,64111,NORMAL,REGULAR,Round 14,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,24/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618916,562,64111,NORMAL,REGULAR,Round 15,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,30/11/2024,15,1,58%,0.92,,13,0,6,13,368,4,4,0,0,3,1,7,2,5,8,,,3,,,1,269,30,,,49/85 (57%),5/23 (21%),41%,4,41/111 (37%),24/47 (51%),20/25 (80%),,4,27,,22,,0,,,,,4
+12618916,562,64111,NORMAL,REGULAR,Round 15,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,30/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618916,562,64111,NORMAL,REGULAR,Round 15,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,30/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618916,562,64111,NORMAL,REGULAR,Round 15,LEAGUE,283972,FK Csíkszereda Miercurea Ciuc,Visita,ALL,30/11/2024,15,1,42%,0.25,,3,2,2,12,321,2,1,3,0,1,0,0,2,2,1,,,1,,,0,202,25,,,27/72 (37%),2/6 (33%),36%,7,35/114 (31%),27/56 (48%),8/12 (67%),,2,21,,12,,2,,,,,19
+12618916,562,64111,NORMAL,REGULAR,Round 15,LEAGUE,283972,FK Csíkszereda Miercurea Ciuc,Visita,1ST,30/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618916,562,64111,NORMAL,REGULAR,Round 15,LEAGUE,283972,FK Csíkszereda Miercurea Ciuc,Visita,2ND,30/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618897,562,64111,NORMAL,REGULAR,Round 16,LEAGUE,298063,CSM Slatina,Local,ALL,07/12/2024,16,1,43%,0.82,,5,5,3,8,319,4,1,2,0,2,0,2,1,1,4,,,0,,,5,182,41,,,22/67 (32%),0/15 (0%),38%,6,45/123 (37%),17/38 (45%),16/26 (62%),,4,17,,16,,5,,,,,6
+12618897,562,64111,NORMAL,REGULAR,Round 16,LEAGUE,298063,CSM Slatina,Local,1ST,07/12/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618897,562,64111,NORMAL,REGULAR,Round 16,LEAGUE,298063,CSM Slatina,Local,2ND,07/12/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618897,562,64111,NORMAL,REGULAR,Round 16,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,07/12/2024,16,0,57%,0.94,,10,1,6,15,342,3,2,1,0,4,1,1,4,5,5,,,3,,,0,235,30,,,30/70 (42%),9/29 (31%),41%,4,54/143 (38%),23/44 (52%),29/39 (74%),,3,18,,23,,1,,,,,9
+12618897,562,64111,NORMAL,REGULAR,Round 16,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,07/12/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618897,562,64111,NORMAL,REGULAR,Round 16,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,07/12/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618891,562,64111,NORMAL,REGULAR,Round 17,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,15/12/2024,17,1,62%,2.23,,30,0,16,12,379,4,4,1,0,10,0,8,12,16,14,,,2,,,2,284,35,,,38/70 (54%),14/32 (43%),44%,7,70/156 (45%),24/57 (42%),33/37 (89%),,4,16,,18,,0,,,,,5
+12618891,562,64111,NORMAL,REGULAR,Round 17,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,15/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618891,562,64111,NORMAL,REGULAR,Round 17,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,15/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618891,562,64111,NORMAL,REGULAR,Round 17,LEAGUE,24790,Concordia Chiajna,Visita,ALL,15/12/2024,17,1,38%,0.96,,8,10,6,15,255,5,2,2,0,1,1,3,3,6,2,,,0,,,2,169,25,,,31/62 (50%),5/12 (41%),28%,11,32/154 (21%),27/56 (48%),10/18 (56%),,5,12,,32,,10,,,,,12
+12618891,562,64111,NORMAL,REGULAR,Round 17,LEAGUE,24790,Concordia Chiajna,Visita,1ST,15/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618891,562,64111,NORMAL,REGULAR,Round 17,LEAGUE,24790,Concordia Chiajna,Visita,2ND,15/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618874,562,64111,NORMAL,REGULAR,Round 19,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,02/03/2025,19,0,53%,0.21,,9,4,5,13,365,4,4,0,0,2,0,5,2,4,5,,,2,,,1,263,15,,,29/55 (52%),1/13 (7%),32%,3,32/105 (30%),19/50 (38%),13/16 (81%),,4,19,,17,,4,,,,,10
+12618874,562,64111,NORMAL,REGULAR,Round 19,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,02/03/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618874,562,64111,NORMAL,REGULAR,Round 19,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,02/03/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618874,562,64111,NORMAL,REGULAR,Round 19,LEAGUE,312033,FCU 1948 Craiova,Visita,ALL,02/03/2025,19,0,47%,0.60,,10,3,4,12,387,2,4,2,0,3,0,3,4,2,8,,,2,,,2,292,28,,,40/69 (57%),5/14 (35%),40%,10,48/127 (38%),25/52 (48%),19/29 (66%),,2,23,,11,,3,,,,,9
+12618874,562,64111,NORMAL,REGULAR,Round 19,LEAGUE,312033,FCU 1948 Craiova,Visita,1ST,02/03/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618874,562,64111,NORMAL,REGULAR,Round 19,LEAGUE,312033,FCU 1948 Craiova,Visita,2ND,02/03/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618828,562,64111,NORMAL,REGULAR,Round 20,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,08/03/2025,20,0,67%,1.19,,17,2,6,7,487,0,5,0,0,4,0,4,9,4,13,,,1,,,3,378,34,,,31/63 (49%),4/20 (20%),43%,10,65/153 (42%),17/36 (47%),21/28 (75%),,0,4,,12,,2,,,,,5
+12618828,562,64111,NORMAL,REGULAR,Round 20,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,08/03/2025,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618828,562,64111,NORMAL,REGULAR,Round 20,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,08/03/2025,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618828,562,64111,NORMAL,REGULAR,Round 20,LEAGUE,79081,FC Metaloglobus București,Visita,ALL,08/03/2025,20,1,33%,0.55,,9,4,4,14,232,3,1,1,0,3,0,4,2,5,4,,,0,,,1,152,22,,,18/52 (34%),2/6 (33%),33%,5,39/131 (30%),17/38 (45%),14/24 (58%),,3,18,,36,,4,,,,,14
+12618828,562,64111,NORMAL,REGULAR,Round 20,LEAGUE,79081,FC Metaloglobus București,Visita,1ST,08/03/2025,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618828,562,64111,NORMAL,REGULAR,Round 20,LEAGUE,79081,FC Metaloglobus București,Visita,2ND,08/03/2025,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618851,562,64111,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Local,ALL,15/03/2025,21,0,38%,0.82,,4,6,2,15,299,5,3,5,0,2,0,2,0,1,3,,,1,,,2,221,33,,,25/49 (51%),5/12 (41%),28%,3,31/117 (26%),12/34 (35%),6/10 (60%),,5,13,,14,,6,,,,,8
+12618851,562,64111,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Local,1ST,15/03/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618851,562,64111,NORMAL,REGULAR,Round 21,LEAGUE,56127,Chindia Târgoviște,Local,2ND,15/03/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618851,562,64111,NORMAL,REGULAR,Round 21,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,15/03/2025,21,1,62%,1.19,,10,2,7,13,424,2,1,3,0,7,0,2,1,4,6,,,1,,,2,355,22,,,30/61 (49%),5/14 (35%),43%,3,48/120 (40%),20/35 (57%),21/32 (66%),,2,13,,27,,2,,,,,4
+12618851,562,64111,NORMAL,REGULAR,Round 21,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,15/03/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12618851,562,64111,NORMAL,REGULAR,Round 21,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,15/03/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624622,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,05/04/2025,2,2,50%,3.84,,31,2,12,13,356,9,2,2,0,14,1,13,3,20,11,,,1,,,2,299,15,,,24/39 (61%),14/30 (46%),33%,4,47/163 (29%),22/45 (49%),15/18 (83%),,9,14,,14,,2,,,,,10
+13624622,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,05/04/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624622,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,05/04/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624622,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,312033,FCU 1948 Craiova,Visita,ALL,05/04/2025,2,1,50%,1.77,,9,12,1,9,330,4,2,3,1,3,0,6,0,7,2,,,2,,,2,273,18,,,22/36 (61%),4/13 (30%),34%,11,36/118 (31%),17/37 (46%),11/15 (73%),,4,17,,20,,12,,,,,16
+13624622,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,312033,FCU 1948 Craiova,Visita,1ST,05/04/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624622,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,312033,FCU 1948 Craiova,Visita,2ND,05/04/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624615,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,326418,CS Unirea Ungheni 2018,Local,ALL,12/04/2025,3,0,44%,0.58,,11,3,5,11,391,3,3,0,0,3,0,7,1,4,7,,,1,,,6,293,31,,,23/60 (38%),2/12 (16%),30%,5,27/102 (26%),14/31 (45%),8/12 (67%),,3,23,,4,,3,,,,,7
+13624615,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,326418,CS Unirea Ungheni 2018,Local,1ST,12/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624615,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,326418,CS Unirea Ungheni 2018,Local,2ND,12/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624615,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,12/04/2025,3,3,56%,0.69,,8,3,5,7,419,4,3,0,0,6,0,0,2,2,6,,,1,,,5,308,22,,,38/66 (57%),5/20 (25%),38%,6,40/107 (37%),13/30 (43%),17/17 (100%),,4,14,,12,,3,,,,,10
+13624615,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,12/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624615,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,12/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624614,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,18/04/2025,4,5,51%,2.69,,11,3,5,7,366,2,0,0,0,6,1,2,2,8,3,,,0,,,2,295,17,,,33/65 (50%),5/10 (50%),37%,9,41/118 (35%),12/23 (52%),12/15 (80%),,2,4,,14,,3,,,,,4
+13624614,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,18/04/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624614,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,18/04/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624614,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,266951,AFC Metalul Buzău,Visita,ALL,18/04/2025,4,0,49%,0.19,,7,1,5,5,408,3,2,1,0,3,0,2,2,3,4,,,0,,,1,343,27,,,28/50 (56%),0/5 (0%),30%,9,33/109 (30%),9/28 (32%),13/21 (62%),,3,14,,14,,1,,,,,7
+13624614,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,266951,AFC Metalul Buzău,Visita,1ST,18/04/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624614,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,266951,AFC Metalul Buzău,Visita,2ND,18/04/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624611,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,368762,FC Bihor Oradea,Local,ALL,26/04/2025,5,2,51%,0.76,,7,3,2,16,326,7,5,2,0,2,0,5,0,4,3,,,1,,,1,223,52,,,17/50 (34%),1/18 (5%),38%,6,48/148 (32%),22/33 (67%),17/27 (63%),,7,17,,13,,3,,,,,10
+13624611,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,368762,FC Bihor Oradea,Local,1ST,26/04/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624611,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,368762,FC Bihor Oradea,Local,2ND,26/04/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624611,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,26/04/2025,5,4,49%,1.98,,15,0,4,10,327,4,4,1,0,7,0,7,1,10,5,,,0,,,0,250,23,,,31/66 (46%),8/15 (53%),33%,5,39/133 (29%),20/44 (45%),10/13 (77%),,4,22,,31,,0,,,,,9
+13624611,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,26/04/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624611,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,26/04/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624608,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,03/05/2025,6,0,75%,0.64,,13,0,13,13,584,1,5,2,0,3,0,2,8,3,10,,,6,,,2,484,21,,,26/47 (55%),11/38 (28%),38%,6,54/131 (41%),7/29 (24%),28/37 (76%),,1,6,,9,,0,,,,,7
+13624608,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,03/05/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624608,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,03/05/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624608,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,260754,CSC Dumbrăviţa,Visita,ALL,03/05/2025,6,1,25%,0.58,,9,4,5,9,123,5,2,2,0,1,0,5,3,4,5,,,0,,,2,66,18,,,11/33 (33%),1/5 (20%),36%,5,35/120 (29%),19/28 (68%),13/21 (62%),,5,23,,21,,4,,,,,13
+13624608,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,260754,CSC Dumbrăviţa,Visita,1ST,03/05/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624608,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,260754,CSC Dumbrăviţa,Visita,2ND,03/05/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624619,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,267508,CSM Focșani 2007,Local,ALL,10/05/2025,7,1,52%,1.54,,10,6,6,11,315,8,3,3,0,4,0,4,2,6,4,,,0,,,1,250,26,,,33/57 (57%),8/20 (40%),37%,10,57/152 (38%),20/52 (38%),16/18 (89%),,8,19,,13,,6,,,,,9
+13624619,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,267508,CSM Focșani 2007,Local,1ST,10/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624619,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,267508,CSM Focșani 2007,Local,2ND,10/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624619,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,10/05/2025,7,2,48%,1.68,,14,3,3,21,356,2,1,2,0,7,0,4,3,9,5,,,1,,,2,285,20,,,27/49 (55%),4/13 (30%),41%,3,47/127 (37%),28/54 (52%),27/30 (90%),,2,13,,24,,3,,,,,13
+13624619,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,10/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13624619,562,64111,NORMAL,GROUP,"Liga 2, Relegation Round, Group A",LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,10/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260701,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,24804,ASA Târgu Mureş,Local,ALL,02/08/2025,1,0,39%,0.51,,8,11,2,9,272,2,1,1,0,5,0,1,2,4,4,,,3,,,1,189,16,,,24/51 (47%),2/5 (40%),24%,10,31/139 (22%),9/27 (33%),4/10 (40%),,2,27,,11,,11,,,,,13
+14260701,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,24804,ASA Târgu Mureş,Local,1ST,02/08/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260701,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,24804,ASA Târgu Mureş,Local,2ND,02/08/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260701,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,02/08/2025,1,0,61%,1.59,,22,5,7,8,442,2,1,1,0,11,0,8,3,7,15,,,1,,,1,350,25,,,37/71 (52%),4/12 (33%),44%,5,43/102 (42%),12/23 (52%),24/30 (80%),,2,20,,4,,5,,,,,7
+14260701,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,02/08/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260701,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,02/08/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260711,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,10/08/2025,2,1,40%,1.86,,14,4,3,13,289,2,1,0,0,5,1,4,4,7,7,,,1,,,2,232,24,,,26/53 (49%),3/10 (30%),30%,10,36/127 (28%),16/44 (36%),12/15 (80%),,2,12,,16,,4,,,,,8
+14260711,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,10/08/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260711,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,10/08/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260711,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,10/08/2025,2,0,60%,1.36,,11,4,8,11,456,2,2,2,0,4,1,3,3,8,3,,,4,,,2,392,20,,,31/56 (55%),7/15 (46%),47%,3,53/128 (41%),30/47 (64%),20/23 (87%),,2,6,,9,,4,,,,,7
+14260711,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,10/08/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260711,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,10/08/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14382001,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,ALL,18/08/2025,3,0,54%,1.45,,11,2,3,7,544,7,4,0,0,4,0,4,3,7,4,,,3,,,3,466,25,,,26/48 (54%),7/21 (33%),39%,7,47/133 (35%),16/25 (64%),22/29 (76%),,7,15,,15,,2,,,,,5
+14382001,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,1ST,18/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14382001,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,2ND,18/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14382001,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,18/08/2025,3,2,46%,1.81,,10,4,4,13,373,3,1,1,0,4,0,3,3,7,3,,,1,,,0,301,21,,,33/54 (61%),2/9 (22%),28%,4,36/130 (28%),9/26 (35%),18/27 (67%),,3,20,,23,,4,,,,,11
+14382001,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,18/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14382001,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,18/08/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260714,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,266951,AFC Metalul Buzău,Local,ALL,23/08/2025,4,0,43%,0.44,,5,2,3,14,312,4,2,2,0,0,0,2,3,4,1,,,2,,,3,217,34,,,31/59 (52%),3/13 (23%),30%,4,30/113 (27%),24/64 (38%),10/16 (63%),,4,27,,27,,2,,,,,7
+14260714,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,266951,AFC Metalul Buzău,Local,1ST,23/08/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260714,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,266951,AFC Metalul Buzău,Local,2ND,23/08/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260714,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,23/08/2025,4,1,57%,1.35,,11,0,9,13,372,1,4,3,0,3,0,5,3,5,6,,,2,,,2,251,33,,,33/79 (41%),6/20 (30%),44%,7,50/122 (41%),32/63 (51%),25/31 (81%),,1,16,,11,,0,,,,,5
+14260714,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,23/08/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260714,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,23/08/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14481553,355,79014,NORMAL,PLAYOFF,Playoff round,CUP,148278,FC Corvinul Hunedoara,Local,ALL,28/08/2025,636,0,57%,,,,,5,10,,,24,4,0,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,
+14481553,355,79014,NORMAL,PLAYOFF,Playoff round,CUP,148278,FC Corvinul Hunedoara,Local,1ST,28/08/2025,636,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14481553,355,79014,NORMAL,PLAYOFF,Playoff round,CUP,148278,FC Corvinul Hunedoara,Local,2ND,28/08/2025,636,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14481553,355,79014,NORMAL,PLAYOFF,Playoff round,CUP,3294,FCV Farul Constanța,Visita,ALL,28/08/2025,636,1,43%,,,,,2,13,,,15,2,0,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+14481553,355,79014,NORMAL,PLAYOFF,Playoff round,CUP,3294,FCV Farul Constanța,Visita,1ST,28/08/2025,636,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14481553,355,79014,NORMAL,PLAYOFF,Playoff round,CUP,3294,FCV Farul Constanța,Visita,2ND,28/08/2025,636,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260737,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,31/08/2025,5,3,61%,3.72,,21,6,8,13,484,1,1,4,0,8,0,5,8,14,7,,,0,,,4,402,19,,,30/51 (58%),10/40 (25%),43%,4,49/120 (41%),17/32 (53%),25/30 (83%),,1,10,,21,,6,,,,,8
+14260737,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,31/08/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260737,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,31/08/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260737,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,326819,CSC 1599 Șelimbăr,Visita,ALL,31/08/2025,5,2,39%,2.11,,11,5,6,8,316,5,2,1,0,8,0,3,0,8,3,,,0,,,3,235,18,,,18/44 (40%),7/20 (35%),38%,4,32/94 (34%),16/31 (52%),10/14 (71%),,5,17,,15,,5,,,,,6
+14260737,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,326819,CSC 1599 Șelimbăr,Visita,1ST,31/08/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260737,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,326819,CSC 1599 Șelimbăr,Visita,2ND,31/08/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260734,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,324401,CSM Olimpia Satu Mare,Local,ALL,14/09/2025,6,2,42%,0.59,,7,4,1,11,287,3,0,2,0,1,0,5,1,4,3,,,0,,,2,186,31,,,26/67 (38%),3/10 (30%),43%,2,42/104 (40%),25/51 (49%),14/15 (93%),,3,12,,19,,4,,,,,6
+14260734,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,324401,CSM Olimpia Satu Mare,Local,1ST,14/09/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260734,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,324401,CSM Olimpia Satu Mare,Local,2ND,14/09/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260734,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,14/09/2025,6,4,58%,2.12,,16,0,7,13,367,2,3,2,0,8,0,4,4,12,4,,,4,,,2,286,30,,,44/74 (59%),10/24 (41%),37%,10,50/137 (36%),19/49 (39%),17/20 (85%),,2,7,,12,,0,,,,,9
+14260734,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,14/09/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260734,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,14/09/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260755,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,20/09/2025,7,3,63%,2.50,,24,3,11,11,519,5,4,2,0,8,1,7,8,15,9,,,1,,,1,448,21,,,26/54 (48%),4/9 (44%),39%,2,41/107 (38%),15/34 (44%),9/12 (75%),,5,7,,18,,3,,,,,3
+14260755,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,20/09/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260755,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,20/09/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260755,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,260754,CSC Dumbrăviţa,Visita,ALL,20/09/2025,7,1,37%,0.81,,8,5,0,11,306,2,1,1,0,4,0,2,2,4,4,,,1,,,1,233,27,,,19/49 (38%),2/6 (33%),37%,10,36/107 (34%),14/28 (50%),4/8 (50%),,2,19,,17,,5,,,,,10
+14260755,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,260754,CSC Dumbrăviţa,Visita,1ST,20/09/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260755,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,260754,CSC Dumbrăviţa,Visita,2ND,20/09/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260758,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,447411,AFC Câmpulung Muscel,Local,ALL,27/09/2025,8,0,32%,0.40,,6,3,0,11,268,7,2,1,0,1,0,1,4,4,2,,,2,,,0,186,18,,,22/45 (48%),2/7 (28%),32%,7,43/152 (28%),17/34 (50%),14/23 (61%),,7,24,,27,,3,,,,,16
+14260758,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,447411,AFC Câmpulung Muscel,Local,1ST,27/09/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260758,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,447411,AFC Câmpulung Muscel,Local,2ND,27/09/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260758,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,27/09/2025,8,1,68%,2.87,,24,1,6,7,574,0,4,1,0,3,0,13,8,16,8,,,4,,,3,493,26,,,54/79 (68%),7/26 (26%),37%,12,57/158 (36%),15/34 (44%),27/36 (75%),,0,24,,14,,1,,,,,3
+14260758,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,27/09/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260758,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,27/09/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260777,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,04/10/2025,9,0,61%,3.77,,31,1,3,10,506,7,6,2,0,12,0,11,8,18,13,,,1,,,1,421,23,,,28/54 (51%),6/22 (27%),46%,5,52/120 (43%),16/25 (64%),22/26 (85%),,7,11,,20,,1,,,,,4
+14260777,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,04/10/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260777,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,04/10/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260777,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,328637,Steaua București,Visita,ALL,04/10/2025,9,0,39%,0.22,,7,12,6,17,322,4,2,1,0,1,0,3,3,1,6,,,0,,,1,239,22,,,27/54 (50%),1/8 (12%),34%,0,35/106 (33%),11/26 (42%),9/12 (75%),,4,22,,13,,12,,,,,14
+14260777,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,328637,Steaua București,Visita,1ST,04/10/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260777,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,328637,Steaua București,Visita,2ND,04/10/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260783,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,275915,CSM Ceahlăul Piatra Neamţ,Local,ALL,18/10/2025,10,2,50%,2.06,,9,2,6,15,389,10,5,4,1,6,0,2,1,5,4,,,2,,,2,331,18,,,19/38 (50%),3/8 (37%),38%,10,47/145 (32%),20/31 (65%),13/21 (62%),,10,16,,21,,2,,,,,11
+14260783,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,275915,CSM Ceahlăul Piatra Neamţ,Local,1ST,18/10/2025,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260783,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,275915,CSM Ceahlăul Piatra Neamţ,Local,2ND,18/10/2025,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260783,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,18/10/2025,10,3,50%,1.19,,11,5,4,14,385,0,4,0,0,4,0,4,2,4,7,,,0,,,2,312,22,,,26/48 (54%),7/12 (58%),42%,2,39/96 (41%),10/20 (50%),14/21 (67%),,0,9,,8,,5,,,,,3
+14260783,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,18/10/2025,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260783,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,18/10/2025,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260806,562,79020,NORMAL,REGULAR,Round 11,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,25/10/2025,11,2,71%,1.62,,21,1,11,5,564,4,3,0,0,6,0,6,9,9,12,,,3,,,4,487,30,,,32/58 (55%),7/20 (35%),41%,8,44/113 (39%),10/16 (63%),26/35 (74%),,4,12,,9,,1,,,,,4
+14260806,562,79020,NORMAL,REGULAR,Round 11,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,25/10/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260806,562,79020,NORMAL,REGULAR,Round 11,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,25/10/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260806,562,79020,NORMAL,REGULAR,Round 11,LEAGUE,485425,ACS FC Bacău,Visita,ALL,25/10/2025,11,0,29%,0.13,,2,4,2,11,215,7,1,1,0,1,0,1,0,1,1,,,1,,,4,145,23,,,13/32 (40%),4/9 (44%),33%,3,37/111 (33%),7/20 (35%),13/18 (72%),,7,14,,23,,4,,,,,13
+14260806,562,79020,NORMAL,REGULAR,Round 11,LEAGUE,485425,ACS FC Bacău,Visita,1ST,25/10/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260806,562,79020,NORMAL,REGULAR,Round 11,LEAGUE,485425,ACS FC Bacău,Visita,2ND,25/10/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260807,562,79020,NORMAL,REGULAR,Round 12,LEAGUE,390604,CS Gloria Bistrița,Local,ALL,01/11/2025,12,0,39%,0.31,,6,3,5,13,276,10,5,5,0,2,0,4,0,3,3,,,1,,,0,208,24,,,29/51 (56%),1/5 (20%),34%,6,30/112 (27%),21/34 (62%),6/13 (46%),,10,7,,10,,3,,,,,14
+14260807,562,79020,NORMAL,REGULAR,Round 12,LEAGUE,390604,CS Gloria Bistrița,Local,1ST,01/11/2025,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260807,562,79020,NORMAL,REGULAR,Round 12,LEAGUE,390604,CS Gloria Bistrița,Local,2ND,01/11/2025,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260807,562,79020,NORMAL,REGULAR,Round 12,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,01/11/2025,12,1,61%,0.87,,11,2,4,11,466,5,5,2,0,3,0,5,3,3,8,,,0,,,2,392,19,,,34/55 (61%),7/21 (33%),44%,8,55/117 (47%),14/37 (38%),25/29 (86%),,5,17,,21,,2,,,,,11
+14260807,562,79020,NORMAL,REGULAR,Round 12,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,01/11/2025,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260807,562,79020,NORMAL,REGULAR,Round 12,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,01/11/2025,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260819,562,79020,NORMAL,REGULAR,Round 13,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,08/11/2025,13,0,62%,0.80,,18,2,6,12,550,8,4,1,0,4,0,7,6,7,11,,,3,,,0,468,19,,,26/46 (56%),11/30 (36%),33%,6,44/127 (35%),6/22 (27%),24/31 (77%),,8,14,,11,,2,,,,,5
+14260819,562,79020,NORMAL,REGULAR,Round 13,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,08/11/2025,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260819,562,79020,NORMAL,REGULAR,Round 13,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,08/11/2025,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260819,562,79020,NORMAL,REGULAR,Round 13,LEAGUE,44255,FC Voluntari,Visita,ALL,08/11/2025,13,0,38%,0.32,,6,6,3,9,337,3,1,1,1,0,0,2,3,2,4,,,0,,,2,253,26,,,27/47 (57%),2/11 (18%),33%,5,40/129 (31%),11/22 (50%),12/18 (67%),,3,28,,24,,6,,,,,12
+14260819,562,79020,NORMAL,REGULAR,Round 13,LEAGUE,44255,FC Voluntari,Visita,1ST,08/11/2025,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260819,562,79020,NORMAL,REGULAR,Round 13,LEAGUE,44255,FC Voluntari,Visita,2ND,08/11/2025,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260840,562,79020,NORMAL,REGULAR,Round 14,LEAGUE,298063,CSM Slatina,Local,ALL,22/11/2025,14,0,44%,0.58,,10,5,5,18,371,5,3,1,0,4,0,3,3,3,7,,,0,,,0,282,32,,,25/50 (50%),7/20 (35%),45%,2,59/137 (43%),19/35 (54%),29/38 (76%),,5,18,,10,,5,,,,,9
+14260840,562,79020,NORMAL,REGULAR,Round 14,LEAGUE,298063,CSM Slatina,Local,1ST,22/11/2025,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260840,562,79020,NORMAL,REGULAR,Round 14,LEAGUE,298063,CSM Slatina,Local,2ND,22/11/2025,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260840,562,79020,NORMAL,REGULAR,Round 14,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,22/11/2025,14,1,56%,1.07,,12,4,5,12,450,11,2,3,0,6,0,5,1,6,6,,,1,,,1,380,16,,,27/56 (48%),5/10 (50%),42%,4,54/130 (42%),18/38 (47%),27/40 (68%),,11,31,,27,,4,,,,,8
+14260840,562,79020,NORMAL,REGULAR,Round 14,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,22/11/2025,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260840,562,79020,NORMAL,REGULAR,Round 14,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,22/11/2025,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260842,562,79020,NORMAL,REGULAR,Round 15,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,29/11/2025,15,3,62%,2.60,,18,4,7,10,512,6,2,0,0,11,0,1,6,11,7,,,2,,,0,432,22,,,31/56 (55%),9/24 (37%),41%,3,53/122 (43%),18/48 (38%),26/32 (81%),,6,11,,14,,4,,,,,3
+14260842,562,79020,NORMAL,REGULAR,Round 15,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,29/11/2025,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260842,562,79020,NORMAL,REGULAR,Round 15,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,29/11/2025,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260842,562,79020,NORMAL,REGULAR,Round 15,LEAGUE,79091,CS Afumați,Visita,ALL,29/11/2025,15,2,38%,0.73,,13,8,6,12,327,9,4,3,0,6,0,2,5,3,10,,,0,,,1,274,19,,,25/43 (58%),0/6 (0%),37%,9,49/139 (35%),22/51 (43%),25/33 (76%),,9,18,,26,,8,,,,,7
+14260842,562,79020,NORMAL,REGULAR,Round 15,LEAGUE,79091,CS Afumați,Visita,1ST,29/11/2025,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260842,562,79020,NORMAL,REGULAR,Round 15,LEAGUE,79091,CS Afumați,Visita,2ND,29/11/2025,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260859,562,79020,NORMAL,REGULAR,Round 16,LEAGUE,44319,ACSM Politehnica Iași,Local,ALL,07/12/2025,16,0,45%,0.82,,8,7,3,9,330,4,1,1,0,2,0,4,2,4,4,,,0,,,0,242,23,,,32/57 (56%),4/19 (21%),44%,8,43/118 (36%),23/31 (74%),10/16 (63%),,4,15,,4,,7,,,,,11
+14260859,562,79020,NORMAL,REGULAR,Round 16,LEAGUE,44319,ACSM Politehnica Iași,Local,1ST,07/12/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260859,562,79020,NORMAL,REGULAR,Round 16,LEAGUE,44319,ACSM Politehnica Iași,Local,2ND,07/12/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260859,562,79020,NORMAL,REGULAR,Round 16,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,07/12/2025,16,0,55%,0.85,,20,2,8,13,448,6,5,2,0,6,1,4,9,4,16,,,1,,,3,366,14,,,27/48 (56%),8/15 (53%),42%,4,43/104 (41%),12/26 (46%),17/24 (71%),,6,25,,19,,2,,,,,8
+14260859,562,79020,NORMAL,REGULAR,Round 16,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,07/12/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260859,562,79020,NORMAL,REGULAR,Round 16,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,07/12/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260864,562,79020,NORMAL,REGULAR,Round 17,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,13/12/2025,17,3,66%,1.80,,18,0,5,14,528,0,4,1,0,7,1,6,4,8,10,,,0,,,0,444,17,,,20/45 (44%),9/25 (36%),46%,7,36/93 (39%),21/30 (70%),14/19 (74%),,0,6,,14,,0,,,,,5
+14260864,562,79020,NORMAL,REGULAR,Round 17,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,13/12/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260864,562,79020,NORMAL,REGULAR,Round 17,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,13/12/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260864,562,79020,NORMAL,REGULAR,Round 17,LEAGUE,55387,CS Tunari,Visita,ALL,13/12/2025,17,0,34%,0.27,,5,4,5,13,276,1,3,2,0,0,0,1,4,2,3,,,0,,,2,196,15,,,23/46 (50%),1/15 (6%),30%,7,28/96 (29%),9/26 (35%),3/5 (60%),,1,11,,13,,4,,,,,16
+14260864,562,79020,NORMAL,REGULAR,Round 17,LEAGUE,55387,CS Tunari,Visita,1ST,13/12/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260864,562,79020,NORMAL,REGULAR,Round 17,LEAGUE,55387,CS Tunari,Visita,2ND,13/12/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15508922,562,79020,NORMAL,REGULAR,Round 18,LEAGUE,24790,Concordia Chiajna,Local,ALL,24/02/2026,18,0,54%,1.09,,12,5,9,13,356,4,2,2,0,6,0,5,1,6,6,,,1,,,1,287,24,,,31/62 (50%),7/16 (43%),36%,11,50/136 (37%),11/29 (38%),19/22 (86%),,4,16,,21,,5,,,,,9
+15508922,562,79020,NORMAL,REGULAR,Round 18,LEAGUE,24790,Concordia Chiajna,Local,1ST,24/02/2026,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15508922,562,79020,NORMAL,REGULAR,Round 18,LEAGUE,24790,Concordia Chiajna,Local,2ND,24/02/2026,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15508922,562,79020,NORMAL,REGULAR,Round 18,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,24/02/2026,18,2,46%,2.26,,17,6,6,10,353,2,3,2,0,7,0,6,4,8,9,,,0,,,1,291,27,,,34/55 (61%),4/11 (36%),38%,6,54/142 (38%),13/31 (42%),20/30 (67%),,2,11,,27,,6,,,,,10
+15508922,562,79020,NORMAL,REGULAR,Round 18,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,24/02/2026,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15508922,562,79020,NORMAL,REGULAR,Round 18,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,24/02/2026,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260885,562,79020,NORMAL,REGULAR,Round 19,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,28/02/2026,19,2,72%,2.35,,20,1,14,4,567,1,3,1,0,4,0,8,8,13,7,,,2,,,3,479,33,,,29/63 (46%),8/21 (38%),45%,4,39/94 (41%),12/19 (63%),19/27 (70%),,1,13,,8,,1,,,,,3
+14260885,562,79020,NORMAL,REGULAR,Round 19,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,28/02/2026,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260885,562,79020,NORMAL,REGULAR,Round 19,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,28/02/2026,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260885,562,79020,NORMAL,REGULAR,Round 19,LEAGUE,400662,CS Dinamo București,Visita,ALL,28/02/2026,19,2,28%,0.98,,4,2,5,11,231,8,0,4,0,3,0,1,0,3,1,,,0,,,2,152,19,,,18/37 (48%),1/6 (16%),29%,6,30/104 (29%),6/18 (33%),7/13 (54%),,8,8,,30,,2,,,,,13
+14260885,562,79020,NORMAL,REGULAR,Round 19,LEAGUE,400662,CS Dinamo București,Visita,1ST,28/02/2026,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260885,562,79020,NORMAL,REGULAR,Round 19,LEAGUE,400662,CS Dinamo București,Visita,2ND,28/02/2026,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260899,562,79020,NORMAL,REGULAR,Round 20,LEAGUE,55371,CSM Reşiţa,Local,ALL,08/03/2026,20,1,46%,1.74,,12,4,5,15,328,8,3,3,0,3,0,3,6,9,3,,,0,,,1,261,27,,,17/41 (41%),10/22 (45%),41%,3,53/136 (39%),13/22 (59%),19/23 (83%),,8,11,,17,,4,,,,,4
+14260899,562,79020,NORMAL,REGULAR,Round 20,LEAGUE,55371,CSM Reşiţa,Local,1ST,08/03/2026,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260899,562,79020,NORMAL,REGULAR,Round 20,LEAGUE,55371,CSM Reşiţa,Local,2ND,08/03/2026,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260899,562,79020,NORMAL,REGULAR,Round 20,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,08/03/2026,20,3,54%,1.14,,14,2,3,16,357,2,3,4,0,6,1,3,4,7,7,,,0,,,1,288,27,,,28/48 (58%),4/13 (30%),32%,6,45/138 (33%),7/21 (33%),17/29 (59%),,2,19,,23,,2,,,,,11
+14260899,562,79020,NORMAL,REGULAR,Round 20,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,08/03/2026,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260899,562,79020,NORMAL,REGULAR,Round 20,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,08/03/2026,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260904,562,79020,NORMAL,REGULAR,Round 21,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,14/03/2026,21,2,55%,0.40,,9,5,3,11,290,3,2,3,0,3,1,3,2,1,8,,,0,,,2,210,25,,,26/54 (48%),4/15 (26%),41%,3,38/111 (34%),32/58 (55%),16/23 (70%),,3,17,,31,,5,,,,,5
+14260904,562,79020,NORMAL,REGULAR,Round 21,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,14/03/2026,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260904,562,79020,NORMAL,REGULAR,Round 21,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,14/03/2026,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260904,562,79020,NORMAL,REGULAR,Round 21,LEAGUE,368762,FC Bihor Oradea,Visita,ALL,14/03/2026,21,1,45%,1.42,,12,1,5,21,277,5,5,3,0,6,0,2,4,7,5,,,1,,,0,183,35,,,31/60 (51%),7/23 (30%),35%,3,38/111 (34%),18/47 (38%),15/20 (75%),,5,14,,8,,1,,,,,11
+14260904,562,79020,NORMAL,REGULAR,Round 21,LEAGUE,368762,FC Bihor Oradea,Visita,1ST,14/03/2026,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14260904,562,79020,NORMAL,REGULAR,Round 21,LEAGUE,368762,FC Bihor Oradea,Visita,2ND,14/03/2026,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737578,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,21/03/2026,1,1,46%,1.99,,15,1,5,11,360,3,1,2,0,6,0,8,1,7,8,,,2,,,0,296,17,,,26/50 (52%),4/8 (50%),42%,4,45/111 (41%),15/31 (48%),19/25 (76%),,3,17,,26,,1,,,,,8
+15737578,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,21/03/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737578,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,21/03/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737578,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,328637,Steaua București,Visita,ALL,21/03/2026,1,0,54%,0.58,,6,5,3,12,505,4,1,1,0,1,0,5,0,3,3,,,0,,,2,420,32,,,22/41 (53%),6/15 (40%),29%,10,32/122 (26%),12/27 (44%),11/15 (73%),,4,10,,9,,5,,,,,12
+15737578,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,328637,Steaua București,Visita,1ST,21/03/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737578,562,79020,NORMAL,REGULAR,Round 1,LEAGUE,328637,Steaua București,Visita,2ND,21/03/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737563,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,04/04/2026,2,0,52%,0.65,,14,4,5,13,475,9,1,2,0,3,0,5,6,5,9,,,1,,,2,408,16,,,25/42 (59%),8/20 (40%),40%,8,50/121 (41%),3/11 (27%),23/29 (79%),,9,12,,7,,4,,,,,3
+15737563,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,04/04/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737563,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,04/04/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737563,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,ALL,04/04/2026,2,1,48%,1.14,,10,3,0,14,407,2,1,4,0,4,0,3,3,7,3,,,3,,,0,348,18,,,22/42 (52%),3/13 (23%),37%,9,47/131 (36%),8/14 (57%),18/26 (69%),,2,12,,19,,3,,,,,9
+15737563,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,1ST,04/04/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737563,562,79020,NORMAL,REGULAR,Round 2,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,2ND,04/04/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737559,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,44255,FC Voluntari,Local,ALL,10/04/2026,3,1,38%,0.66,,8,1,6,15,281,4,3,3,0,4,0,3,1,4,4,,,1,,,0,200,25,,,27/54 (50%),5/15 (33%),39%,8,52/156 (33%),24/38 (63%),14/25 (56%),,4,17,,25,,1,,,,,8
+15737559,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,44255,FC Voluntari,Local,1ST,10/04/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737559,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,44255,FC Voluntari,Local,2ND,10/04/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737559,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,10/04/2026,3,0,62%,0.23,,7,3,10,14,473,5,4,1,0,0,0,5,1,2,5,,,0,,,1,372,30,,,28/55 (50%),3/10 (30%),36%,9,46/127 (36%),12/32 (38%),28/49 (57%),,5,11,,9,,3,,,,,7
+15737559,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,10/04/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737559,562,79020,NORMAL,REGULAR,Round 3,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,10/04/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737560,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,14/04/2026,4,2,59%,1.07,,17,4,7,7,509,3,1,0,0,5,0,8,4,10,7,,,1,,,3,426,18,,,25/56 (44%),2/17 (11%),41%,3,35/97 (36%),15/23 (65%),11/18 (61%),,3,11,,11,,4,,,,,5
+15737560,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,14/04/2026,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737560,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,14/04/2026,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737560,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,ALL,14/04/2026,4,0,41%,0.79,,8,4,2,8,358,3,0,2,0,4,0,3,1,6,2,,,2,,,2,275,26,,,27/58 (46%),4/11 (36%),36%,11,44/116 (38%),7/25 (28%),17/20 (85%),,3,10,,22,,4,,,,,14
+15737560,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,1ST,14/04/2026,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737560,562,79020,NORMAL,REGULAR,Round 4,LEAGUE,56127,Chindia Târgoviște,Visita,2ND,14/04/2026,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737571,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,368762,FC Bihor Oradea,Local,ALL,19/04/2026,5,1,33%,0.35,,6,0,2,13,247,7,2,4,1,3,0,2,1,4,2,,,2,,,1,178,24,,,23/45 (51%),3/10 (30%),39%,2,28/78 (36%),12/23 (52%),8/10 (80%),,7,13,,22,,0,,,,,12
+15737571,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,368762,FC Bihor Oradea,Local,1ST,19/04/2026,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737571,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,368762,FC Bihor Oradea,Local,2ND,19/04/2026,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737571,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,19/04/2026,5,3,67%,2.79,,10,2,10,5,499,3,0,2,0,2,0,7,1,6,4,,,2,,,6,427,24,,,27/54 (50%),7/16 (43%),33%,4,26/80 (33%),8/23 (35%),11/16 (69%),,3,11,,8,,2,,,,,6
+15737571,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,19/04/2026,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737571,562,79020,NORMAL,REGULAR,Round 5,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,19/04/2026,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737574,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,328637,Steaua București,Local,ALL,25/04/2026,6,1,46%,0.97,,11,3,6,18,440,3,2,1,0,5,0,2,4,7,4,,,1,,,3,353,22,,,23/48 (47%),6/16 (37%),43%,8,40/98 (41%),13/24 (54%),13/19 (68%),,3,15,,10,,3,,,,,4
+15737574,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,328637,Steaua București,Local,1ST,25/04/2026,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737574,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,328637,Steaua București,Local,2ND,25/04/2026,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737574,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,25/04/2026,6,3,54%,0.73,,7,4,4,5,484,1,1,0,0,6,0,1,0,5,2,,,0,,,1,425,14,,,27/46 (58%),4/8 (50%),40%,9,37/96 (39%),12/26 (46%),10/20 (50%),,1,14,,23,,4,,,,,6
+15737574,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,25/04/2026,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737574,562,79020,NORMAL,REGULAR,Round 6,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,25/04/2026,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737555,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,ALL,02/05/2026,7,2,45%,1.05,,9,6,4,9,358,3,3,1,0,4,0,2,3,4,5,,,1,,,1,270,30,,,17/46 (36%),7/18 (38%),37%,3,35/113 (31%),18/28 (64%),15/17 (88%),,3,11,,15,,6,,,,,7
+15737555,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,1ST,02/05/2026,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737555,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,2ND,02/05/2026,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737555,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,02/05/2026,7,1,55%,2.02,,20,2,3,14,385,2,1,4,0,7,1,6,6,11,9,,,1,,,1,306,22,,,31/49 (63%),13/20 (65%),33%,2,37/107 (35%),8/27 (30%),20/24 (83%),,2,8,,14,,2,,,,,5
+15737555,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,02/05/2026,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737555,562,79020,NORMAL,REGULAR,Round 7,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,02/05/2026,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737564,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,06/05/2026,8,2,53%,1.47,,12,3,4,14,353,2,1,2,0,4,0,4,4,6,6,,,0,,,0,281,20,,,35/78 (44%),6/13 (46%),40%,10,45/125 (36%),24/46 (52%),10/15 (67%),,2,15,,25,,3,,,,,7
+15737564,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,06/05/2026,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737564,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,06/05/2026,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737564,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,44255,FC Voluntari,Visita,ALL,06/05/2026,8,0,47%,1.14,,8,2,5,6,394,1,2,0,0,3,0,4,1,6,2,,,0,,,1,308,25,,,39/66 (59%),12/24 (50%),39%,15,51/131 (39%),19/46 (41%),15/18 (83%),,1,10,,14,,2,,,,,9
+15737564,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,44255,FC Voluntari,Visita,1ST,06/05/2026,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737564,562,79020,NORMAL,REGULAR,Round 8,LEAGUE,44255,FC Voluntari,Visita,2ND,06/05/2026,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737569,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,ALL,09/05/2026,9,1,34%,1.00,,10,0,1,8,299,3,2,0,0,3,0,5,2,5,5,,,2,,,3,231,17,,,25/51 (49%),1/3 (33%),32%,2,26/84 (31%),9/24 (38%),9/15 (60%),,3,20,,18,,0,,,,,15
+15737569,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,1ST,09/05/2026,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737569,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,56127,Chindia Târgoviște,Local,2ND,09/05/2026,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737569,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,09/05/2026,9,0,66%,1.09,,14,2,7,5,581,5,2,1,0,0,0,7,7,9,5,,,0,,,2,507,27,,,29/43 (67%),12/24 (50%),45%,6,40/90 (44%),14/28 (50%),20/25 (80%),,5,11,,9,,2,,,,,8
+15737569,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,09/05/2026,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737569,562,79020,NORMAL,REGULAR,Round 9,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,09/05/2026,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737576,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,16/05/2026,10,1,63%,1.00,,14,4,6,7,511,3,2,2,0,5,0,6,3,4,10,,,2,,,1,439,16,,,42/59 (71%),8/25 (32%),45%,6,53/119 (45%),11/23 (48%),12/33 (36%),,3,11,,5,,4,,,,,7
+15737576,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,16/05/2026,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737576,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,16/05/2026,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737576,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,368762,FC Bihor Oradea,Visita,ALL,16/05/2026,10,1,37%,1.39,,12,4,1,6,350,3,1,1,0,5,0,5,2,4,8,,,0,,,0,290,13,,,18/44 (40%),3/7 (42%),53%,7,54/94 (57%),9/23 (39%),4/6 (67%),,3,15,,22,,4,,,,,12
+15737576,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,368762,FC Bihor Oradea,Visita,1ST,16/05/2026,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15737576,562,79020,NORMAL,REGULAR,Round 10,LEAGUE,368762,FC Bihor Oradea,Visita,2ND,16/05/2026,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16403819,152,97124,NORMAL,REGULAR,Round 1,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,20/07/2026,1,3,61%,2.43,4,22,5,2,15,523,9,15,,,7,1,13,2,12,10,1,3,,26,4,0,460,20,63,101/138 (73%),39/64 (61%),6/22 (27%),45%,5,27/57 (47%),7/19 (37%),3/7 (43%),67%,9,9,45,18,1,5,,1,0,,6
+16403819,152,97124,NORMAL,REGULAR,Round 1,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,20/07/2026,1,0,65%,0.00,2,12,1,2,8,269,4,8,,,1,1,10,1,6,6,0,2,,,1,0,231,13,27,,19/37 (51%),4/15 (27%),47%,2,12/27 (44%),6/11 (55%),1/4 (25%),100%,4,3,24,9,,1,,,,,3
+16403819,152,97124,NORMAL,REGULAR,Round 1,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,20/07/2026,1,3,57%,0.00,2,10,4,0,7,254,5,7,,,6,0,3,1,6,4,1,1,,,3,0,229,7,36,,20/27 (74%),2/7 (29%),42%,3,15/30 (50%),1/8 (13%),2/3 (67%),40%,5,6,21,9,,4,,,,,3
+16403819,152,97124,NORMAL,REGULAR,Round 1,LEAGUE,283972,FK Csíkszereda Miercurea Ciuc,Visita,ALL,20/07/2026,1,0,39%,0.99,3,11,4,4,16,335,9,15,,,5,0,6,1,7,4,0,3,,16,1,1,270,15,43,52/89 (58%),24/43 (56%),5/13 (38%),55%,5,30/57 (53%),12/19 (63%),6/10 (60%),78%,9,3,40,25,1,4,,1,1,,10
+16403819,152,97124,NORMAL,REGULAR,Round 1,LEAGUE,283972,FK Csíkszereda Miercurea Ciuc,Visita,1ST,20/07/2026,1,0,35%,0.00,0,3,1,3,8,150,5,8,,,1,0,2,1,0,3,0,0,,,0,0,117,9,20,,11/28 (39%),0/5 (0%),53%,2,15/27 (56%),5/11 (45%),2/4 (50%),60%,5,1,19,19,,1,,,,,7
+16403819,152,97124,NORMAL,REGULAR,Round 1,LEAGUE,283972,FK Csíkszereda Miercurea Ciuc,Visita,2ND,20/07/2026,1,0,43%,0.00,3,8,3,1,8,185,4,7,,,4,0,4,1,7,1,0,3,,,1,1,153,6,23,,13/15 (87%),5/8 (63%),58%,3,15/30 (50%),7/8 (88%),4/6 (67%),100%,4,2,21,6,,3,,,,,3
+16403820,152,97124,NORMAL,REGULAR,Round 2,LEAGUE,3294,FCV Farul Constanța,Local,ALL,25/07/2026,2,2,64%,2.31,5,20,1,6,9,526,22,10,2,0,10,0,8,2,10,10,1,4,,30,2,0,475,21,56,153/185 (83%),17/33 (52%),6/28 (21%),54%,11,41/77 (53%),16/28 (57%),10/17 (59%),64%,22,8,45,21,0,1,,1,1,1,8
+16403820,152,97124,NORMAL,REGULAR,Round 2,LEAGUE,3294,FCV Farul Constanța,Local,1ST,25/07/2026,2,0,62%,0.00,0,6,0,2,5,319,11,7,1,0,2,0,3,1,3,3,0,0,,,1,0,293,11,29,,8/16 (50%),3/8 (38%),52%,6,20/40 (50%),5/8 (63%),3/6 (50%),73%,11,5,21,13,,0,,,,,2
+16403820,152,97124,NORMAL,REGULAR,Round 2,LEAGUE,3294,FCV Farul Constanța,Local,2ND,25/07/2026,2,2,67%,0.00,5,14,1,4,4,207,11,3,1,0,8,0,5,1,7,7,1,4,,,1,0,182,10,27,,9/17 (53%),3/20 (15%),56%,5,21/37 (57%),11/20 (55%),7/11 (64%),55%,11,3,24,8,,1,,,,,6
+16403820,152,97124,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,25/07/2026,2,0,36%,0.40,2,8,8,4,11,296,18,9,2,1,1,0,5,2,4,4,0,2,,11,2,1,231,16,49,49/80 (61%),39/77 (51%),3/15 (20%),46%,14,36/77 (47%),12/28 (43%),9/17 (53%),39%,18,4,47,35,1,8,,2,1,0,13
+16403820,152,97124,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,25/07/2026,2,0,38%,0.00,1,3,2,1,7,190,9,5,1,0,0,0,2,1,1,2,0,1,,,1,0,155,9,25,,23/41 (56%),1/7 (14%),48%,6,20/40 (50%),3/8 (38%),6/11 (55%),33%,9,2,26,9,,2,,,,,4
+16403820,152,97124,NORMAL,REGULAR,Round 2,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,25/07/2026,2,0,33%,0.00,1,5,6,3,4,106,9,4,1,1,1,0,3,1,3,2,0,1,,,1,1,76,7,24,,16/36 (44%),2/8 (25%),44%,8,16/37 (43%),9/20 (45%),3/6 (50%),44%,9,2,21,26,,6,,,,,9
+16403841,152,97124,NORMAL,REGULAR,Round 3,LEAGUE,148278,FC Corvinul Hunedoara,Local,ALL,02/08/2026,3,1,44%,1.88,3,16,2,3,13,412,18,10,0,,4,1,7,5,8,8,,3,,15,2,1,343,13,53,91/128 (71%),30/60 (50%),6/24 (25%),55%,7,35/60 (58%),9/20 (45%),7/10 (70%),56%,18,9,45,22,0,2,,,1,0,11
+16403841,152,97124,NORMAL,REGULAR,Round 3,LEAGUE,148278,FC Corvinul Hunedoara,Local,1ST,02/08/2026,3,1,47%,0.00,0,6,0,2,2,219,11,8,0,,3,0,1,2,2,4,,0,,,1,1,192,8,24,,24/38 (63%),2/8 (25%),65%,2,24/33 (73%),4/10 (40%),5/7 (71%),73%,11,5,19,7,,0,,,,,3
+16403841,152,97124,NORMAL,REGULAR,Round 3,LEAGUE,148278,FC Corvinul Hunedoara,Local,2ND,02/08/2026,3,0,42%,0.00,3,10,2,1,11,193,7,2,0,,1,1,6,3,6,4,,3,,,1,0,151,5,29,,6/22 (27%),4/16 (25%),43%,5,11/27 (41%),5/10 (50%),2/3 (67%),29%,7,4,26,15,,2,,,,,8
+16403841,152,97124,NORMAL,REGULAR,Round 3,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,ALL,02/08/2026,3,1,56%,0.81,1,13,3,2,10,539,10,13,3,,3,0,7,3,7,6,,1,,11,2,1,472,20,51,78/106 (74%),7/29 (24%),3/10 (30%),45%,10,25/60 (42%),11/20 (55%),5/13 (38%),70%,10,9,41,34,1,3,,,5,2,7
+16403841,152,97124,NORMAL,REGULAR,Round 3,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,1ST,02/08/2026,3,1,53%,0.00,0,5,2,1,8,254,4,2,2,,1,0,2,2,2,3,,0,,,0,0,223,12,24,,3/13 (23%),1/3 (33%),35%,4,9/33 (27%),6/10 (60%),3/10 (30%),100%,4,0,19,16,,2,,,,,2
+16403841,152,97124,NORMAL,REGULAR,Round 3,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Visita,2ND,02/08/2026,3,0,58%,0.00,1,8,1,1,2,285,6,11,1,,2,0,5,1,5,3,,1,,,2,1,249,8,27,,4/16 (25%),2/7 (29%),57%,6,16/27 (59%),5/10 (50%),2/3 (67%),50%,6,9,22,18,,1,,,,,5
+16403823,152,97124,NORMAL,REGULAR,Round 4,LEAGUE,24798,FC Botoșani,Local,ALL,10/08/2026,4,0,56%,1.96,2,19,3,10,12,381,12,13,2,0,2,2,11,6,11,8,,2,1,42,2,1,302,23,52,80/119 (67%),18/44 (41%),6/26 (23%),49%,5,36/73 (49%),13/27 (48%),14/28 (50%),67%,12,7,47,22,1,3,,1,2,1,16
+16403823,152,97124,NORMAL,REGULAR,Round 4,LEAGUE,24798,FC Botoșani,Local,1ST,10/08/2026,4,0,50%,0.00,1,6,2,4,6,172,6,5,2,0,1,0,4,1,3,3,,1,1,,2,1,133,9,29,,9/22 (41%),2/8 (25%),43%,3,15/34 (44%),7/17 (41%),7/13 (54%),67%,6,2,22,10,,2,,,,,7
+16403823,152,97124,NORMAL,REGULAR,Round 4,LEAGUE,24798,FC Botoșani,Local,2ND,10/08/2026,4,0,61%,0.00,1,13,1,6,6,209,6,8,0,0,1,2,7,5,8,5,,1,0,,0,0,169,14,23,,9/22 (41%),4/18 (22%),55%,2,21/39 (54%),6/10 (60%),7/15 (47%),67%,6,5,25,12,,1,,,,,9
+16403823,152,97124,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Visita,ALL,10/08/2026,4,0,44%,1.59,3,16,2,3,13,308,19,12,5,1,3,1,8,5,9,7,,3,1,20,3,2,229,24,60,69/111 (62%),31/64 (48%),4/14 (29%),51%,5,37/73 (51%),14/27 (52%),6/13 (46%),58%,19,7,55,36,0,2,,0,0,0,14
+16403823,152,97124,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Visita,1ST,10/08/2026,4,0,50%,0.00,2,11,1,2,5,170,9,6,1,0,2,1,6,3,7,4,,2,1,,2,2,124,11,28,,18/36 (50%),2/6 (33%),57%,3,19/34 (56%),10/17 (59%),4/7 (57%),44%,9,2,27,16,,1,,,,,6
+16403823,152,97124,NORMAL,REGULAR,Round 4,LEAGUE,148278,FC Corvinul Hunedoara,Visita,2ND,10/08/2026,4,0,39%,0.00,1,5,1,1,8,138,10,6,4,1,1,0,2,2,2,3,,1,0,,1,0,105,13,32,,13/28 (46%),2/8 (25%),45%,2,18/39 (46%),4/10 (40%),2/6 (33%),70%,10,5,28,20,,1,,,,,8

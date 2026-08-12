@@ -1,0 +1,157 @@
+﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+10097843,80,36975,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1758,Hammarby IF,Local,ALL,06/03/2022,3,4,44%,,,10,3,7,7,,,16,4,0,4,,6,,,,,,,,,2,,22,,,,,,,,,,,,,,,,3,,,,,10
+10097843,80,36975,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1758,Hammarby IF,Local,1ST,06/03/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10097843,80,36975,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1758,Hammarby IF,Local,2ND,06/03/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10097843,80,36975,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1760,BK Häcken,Visita,ALL,06/03/2022,3,0,56%,,,8,1,4,15,,,9,1,0,3,,5,,,,,,,,,1,,16,,,,,,,,,,,,,,,,1,,,,,9
+10097843,80,36975,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1760,BK Häcken,Visita,1ST,06/03/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10097843,80,36975,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1760,BK Häcken,Visita,2ND,06/03/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10182079,80,36975,NORMAL,REGULAR,Quarterfinals,CUP,1758,Hammarby IF,Local,ALL,13/03/2022,3,3,55%,,,4,2,5,14,,,17,3,0,3,,1,,,,,,,,,1,,20,,,,,,,,,,,,,,,,2,,,,,9
+10182079,80,36975,NORMAL,REGULAR,Quarterfinals,CUP,1758,Hammarby IF,Local,1ST,13/03/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10182079,80,36975,NORMAL,REGULAR,Quarterfinals,CUP,1758,Hammarby IF,Local,2ND,13/03/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10182079,80,36975,NORMAL,REGULAR,Quarterfinals,CUP,1769,IFK Norrköping,Visita,ALL,13/03/2022,3,2,45%,,,8,0,6,16,,,15,3,1,4,,4,,,,,,,,,1,,21,,,,,,,,,,,,,,,,0,,,,,7
+10182079,80,36975,NORMAL,REGULAR,Quarterfinals,CUP,1769,IFK Norrköping,Visita,1ST,13/03/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10182079,80,36975,NORMAL,REGULAR,Quarterfinals,CUP,1769,IFK Norrköping,Visita,2ND,13/03/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10192433,80,36975,NORMAL,REGULAR,Semifinals,CUP,1758,Hammarby IF,Local,ALL,19/03/2022,2,1,46%,,,11,6,6,16,,,18,2,0,2,,9,,,,,,,,,1,,15,,,,,,,,,,,,,,,,6,,,,,10
+10192433,80,36975,NORMAL,REGULAR,Semifinals,CUP,1758,Hammarby IF,Local,1ST,19/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10192433,80,36975,NORMAL,REGULAR,Semifinals,CUP,1758,Hammarby IF,Local,2ND,19/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10192433,80,36975,NORMAL,REGULAR,Semifinals,CUP,1762,IF Elfsborg,Visita,ALL,19/03/2022,2,0,54%,,,12,1,6,18,,,17,1,0,6,,6,,,,,,,,,0,,21,,,,,,,,,,,,,,,,1,,,,,13
+10192433,80,36975,NORMAL,REGULAR,Semifinals,CUP,1762,IF Elfsborg,Visita,1ST,19/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10192433,80,36975,NORMAL,REGULAR,Semifinals,CUP,1762,IF Elfsborg,Visita,2ND,19/03/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10206363,80,36975,NORMAL,FINAL,Final,CUP,1758,Hammarby IF,Local,ALL,26/05/2022,1,0,63%,,,8,3,9,19,,,18,2,0,3,,3,2,,,,,,,,2,,52,,,,,,,,,,,,,,,,3,,,,,8
+10206363,80,36975,NORMAL,FINAL,Final,CUP,1758,Hammarby IF,Local,1ST,26/05/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10206363,80,36975,NORMAL,FINAL,Final,CUP,1758,Hammarby IF,Local,2ND,26/05/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10206363,80,36975,NORMAL,FINAL,Final,CUP,1892,Malmö FF,Visita,ALL,26/05/2022,1,0,37%,,,8,3,5,16,,,21,2,0,3,,4,1,,,,,,,,2,,40,,,,,,,,,,,,,,,,3,,,,,13
+10206363,80,36975,NORMAL,FINAL,Final,CUP,1892,Malmö FF,Visita,1ST,26/05/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10206363,80,36975,NORMAL,FINAL,Final,CUP,1892,Malmö FF,Visita,2ND,26/05/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936514,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1758,Hammarby IF,Local,ALL,19/02/2023,1,4,,,,,,5,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936514,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1758,Hammarby IF,Local,1ST,19/02/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936514,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1758,Hammarby IF,Local,2ND,19/02/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936514,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1777,IK Brage,Visita,ALL,19/02/2023,1,1,,,,,,4,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936514,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1777,IK Brage,Visita,1ST,19/02/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936514,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1777,IK Brage,Visita,2ND,19/02/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936500,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1849,Norrby IF,Local,ALL,25/02/2023,2,0,,,,,,0,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936500,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1849,Norrby IF,Local,1ST,25/02/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936500,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1849,Norrby IF,Local,2ND,25/02/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936500,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1758,Hammarby IF,Visita,ALL,25/02/2023,2,3,,,,,,7,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936500,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1758,Hammarby IF,Visita,1ST,25/02/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936500,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1758,Hammarby IF,Visita,2ND,25/02/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11111636,80,42259,NORMAL,REGULAR,Quarterfinals,CUP,1758,Hammarby IF,Local,ALL,13/03/2023,27,2,54%,,,12,7,8,15,,,13,5,,6,,5,1,,,,,,,,1,,10,,,,,,,,,,,,,,,,7,,,,,4
+11111636,80,42259,NORMAL,REGULAR,Quarterfinals,CUP,1758,Hammarby IF,Local,1ST,13/03/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11111636,80,42259,NORMAL,REGULAR,Quarterfinals,CUP,1758,Hammarby IF,Local,2ND,13/03/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11111636,80,42259,NORMAL,REGULAR,Quarterfinals,CUP,1764,AIK,Visita,ALL,13/03/2023,27,1,46%,,,13,4,7,12,,,16,3,,8,,3,2,,,,,,,,1,,20,,,,,,,,,,,,,,,,4,,,,,9
+11111636,80,42259,NORMAL,REGULAR,Quarterfinals,CUP,1764,AIK,Visita,1ST,13/03/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11111636,80,42259,NORMAL,REGULAR,Quarterfinals,CUP,1764,AIK,Visita,2ND,13/03/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11128162,80,42259,NORMAL,REGULAR,Semifinals,CUP,1783,Mjällby AIF,Local,ALL,18/03/2023,28,1,,,,1,1,0,1,,,0,,,0,,,1,,,,,,,,,,1,,,,,,,,,,,,,,,,1,,,,,
+11128162,80,42259,NORMAL,REGULAR,Semifinals,CUP,1783,Mjällby AIF,Local,1ST,18/03/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11128162,80,42259,NORMAL,REGULAR,Semifinals,CUP,1783,Mjällby AIF,Local,2ND,18/03/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11128162,80,42259,NORMAL,REGULAR,Semifinals,CUP,1758,Hammarby IF,Visita,ALL,18/03/2023,28,0,,,,1,0,2,0,,,1,,,1,,,0,,,,,,,,,,1,,,,,,,,,,,,,,,,0,,,,,
+11128162,80,42259,NORMAL,REGULAR,Semifinals,CUP,1758,Hammarby IF,Visita,1ST,18/03/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11128162,80,42259,NORMAL,REGULAR,Semifinals,CUP,1758,Hammarby IF,Visita,2ND,18/03/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11365355,17015,52327,NORMAL,REGULAR,Qualification round 2,INTERNATIONAL,2955,FC Twente,Local,ALL,27/07/2023,2,1,70%,0.00,2,19,0,9,16,619,22,10,3,,2,1,7,10,11,8,,2,,,2,1,536,20,97,,39/58 (67%),5/31 (16%),50%,10,38/77 (49%),12/24 (50%),6/13 (46%),64%,22,7,57,11,,0,,,,,3
+11365355,17015,52327,NORMAL,REGULAR,Qualification round 2,INTERNATIONAL,2955,FC Twente,Local,1ST,27/07/2023,2,0,70%,0.00,2,12,0,2,,326,5,6,1,,1,1,7,4,8,4,,2,,,2,1,291,9,43,,23/28 (82%),4/12 (33%),51%,5,15/32 (47%),7/11 (64%),4/6 (67%),100%,5,3,29,3,,0,,,,,1
+11365355,17015,52327,NORMAL,REGULAR,Qualification round 2,INTERNATIONAL,2955,FC Twente,Local,2ND,27/07/2023,2,1,69%,0.00,0,7,0,7,,293,17,4,2,,1,0,0,6,3,4,,0,,,0,0,245,11,54,,16/30 (53%),1/19 (5%),48%,5,23/45 (51%),5/13 (38%),2/7 (29%),53%,17,4,28,8,,0,,,,,2
+11365355,17015,52327,NORMAL,REGULAR,Qualification round 2,INTERNATIONAL,1758,Hammarby IF,Visita,ALL,27/07/2023,2,0,30%,0.00,0,5,1,5,10,268,17,16,2,,0,0,4,1,2,3,,0,,,1,0,202,17,36,,16/42 (38%),1/9 (11%),50%,12,39/77 (51%),12/24 (50%),7/17 (41%),47%,17,10,45,32,,1,,,,,14
+11365355,17015,52327,NORMAL,REGULAR,Qualification round 2,INTERNATIONAL,1758,Hammarby IF,Visita,1ST,27/07/2023,2,0,30%,0.00,0,2,1,1,,140,7,7,1,,0,0,2,0,1,1,,0,,,0,0,105,7,17,,9/24 (38%),1/3 (33%),49%,1,17/32 (53%),4/11 (36%),3/7 (43%),29%,7,5,19,12,,1,,,,,12
+11365355,17015,52327,NORMAL,REGULAR,Qualification round 2,INTERNATIONAL,1758,Hammarby IF,Visita,2ND,27/07/2023,2,0,31%,0.00,0,3,0,4,,128,10,9,1,,0,0,2,1,1,2,,0,,,1,0,97,10,19,,7/18 (39%),0/6 (0%),52%,11,22/45 (49%),8/13 (62%),4/10 (40%),60%,10,5,26,20,,0,,,,,2
+11365376,17015,52327,NORMAL,REGULAR,Qualification round 2,INTERNATIONAL,1758,Hammarby IF,Local,ALL,03/08/2023,2,1,43%,0.00,0,10,4,5,9,348,11,16,3,,2,0,4,4,8,2,,0,,,3,0,273,13,36,,26/62 (42%),8/18 (44%),63%,3,33/50 (66%),9/17 (53%),6/9 (67%),45%,11,7,50,16,,4,,,,,4
+11365376,17015,52327,NORMAL,REGULAR,Qualification round 2,INTERNATIONAL,1758,Hammarby IF,Local,1ST,03/08/2023,2,1,46%,0.00,0,6,2,3,,226,9,9,1,,2,0,2,2,5,1,,0,,,1,0,182,4,20,,16/38 (42%),6/10 (60%),64%,1,20/29 (69%),5/10 (50%),2/5 (40%),33%,9,6,33,10,,2,,,,,0
+11365376,17015,52327,NORMAL,REGULAR,Qualification round 2,INTERNATIONAL,1758,Hammarby IF,Local,2ND,03/08/2023,2,0,38%,0.00,0,4,2,2,,122,2,7,1,,0,0,2,2,3,1,,0,,,2,0,91,9,16,,10/24 (42%),2/8 (25%),61%,2,13/21 (62%),4/7 (57%),4/4 (100%),100%,2,1,17,6,,2,,,,,4
+11365376,17015,52327,NORMAL,REGULAR,Qualification round 2,INTERNATIONAL,2955,FC Twente,Visita,ALL,03/08/2023,2,1,57%,0.00,1,12,1,4,17,475,6,9,3,,5,0,4,3,10,2,,1,,,2,4,404,20,51,,22/46 (48%),4/15 (27%),37%,5,17/50 (34%),8/17 (47%),2/8 (25%),33%,6,2,52,12,,1,,,,,5
+11365376,17015,52327,NORMAL,REGULAR,Qualification round 2,INTERNATIONAL,2955,FC Twente,Visita,1ST,03/08/2023,2,0,54%,0.00,0,6,1,2,,267,4,5,1,,2,0,1,3,5,1,,0,,,1,3,225,14,27,,10/23 (43%),1/9 (11%),36%,4,9/29 (31%),5/10 (50%),0/5 (0%),50%,4,1,27,5,,1,,,,,2
+11365376,17015,52327,NORMAL,REGULAR,Qualification round 2,INTERNATIONAL,2955,FC Twente,Visita,2ND,03/08/2023,2,0,62%,0.00,1,5,0,2,,208,2,4,0,,2,0,3,0,4,1,,1,,,1,1,179,6,24,,12/23 (52%),2/5 (40%),39%,1,8/21 (38%),3/7 (43%),2/3 (67%),0%,2,1,25,7,,0,,,,,3
+11910307,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1758,Hammarby IF,Local,ALL,17/02/2024,1,1,55%,1.90,,19,3,7,9,538,2,2,1,0,8,0,7,4,9,10,,,7,,,1,469,21,,,23/42 (54%),7/17 (41%),41%,107,85/203 (42%),7/21 (33%),29/40 (73%),,2,36,,14,,3,,,,,7
+11910307,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1758,Hammarby IF,Local,1ST,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910307,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1758,Hammarby IF,Local,2ND,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910307,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Visita,ALL,17/02/2024,1,2,45%,1.60,,20,7,6,17,400,4,3,2,0,5,0,5,10,9,11,,,1,,,1,347,13,,,19/38 (50%),6/16 (37%),37%,104,73/203 (36%),12/21 (57%),24/31 (77%),,4,55,,23,,7,,,,,12
+11910307,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Visita,1ST,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910307,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1775,Västerås SK,Visita,2ND,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12082235,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1758,Hammarby IF,Local,ALL,26/02/2024,2,3,,,,,,7,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12082235,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1758,Hammarby IF,Local,1ST,26/02/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12082235,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1758,Hammarby IF,Local,2ND,26/02/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12082235,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1763,GIF Sundsvall,Visita,ALL,26/02/2024,2,1,,,,,,0,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12082235,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1763,GIF Sundsvall,Visita,1ST,26/02/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12082235,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1763,GIF Sundsvall,Visita,2ND,26/02/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910311,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1758,Hammarby IF,Local,ALL,04/03/2024,3,1,62%,1.82,,21,2,5,5,665,1,2,1,0,2,1,8,10,9,12,,,1,31,,1,593,21,,60/76 (79%),13/33 (39%),1/13 (7%),44%,7,50/123 (41%),16/26 (62%),23/30 (77%),,1,11,,7,1,2,,,2,,9
+11910311,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1758,Hammarby IF,Local,1ST,04/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910311,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1758,Hammarby IF,Local,2ND,04/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910311,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1783,Mjällby AIF,Visita,ALL,04/03/2024,3,1,38%,1.24,,9,1,4,12,349,6,1,4,0,3,0,5,1,7,2,,,0,14,,2,279,18,,27/39 (69%),20/40 (50%),2/8 (25%),32%,8,38/120 (32%),9/26 (35%),9/14 (64%),,6,15,,10,8,1,,,0,,13
+11910311,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1783,Mjällby AIF,Visita,1ST,04/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910311,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 7",CUP,1783,Mjällby AIF,Visita,2ND,04/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278372,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Local,ALL,15/02/2025,1,1,74%,2.66,,17,0,6,7,755,1,3,1,0,5,0,8,4,11,6,,,1,44,,0,669,27,,53/66 (80%),15/37 (40%),11/32 (34%),41%,10,56/133 (42%),12/30 (40%),17/20 (85%),,1,13,,14,0,0,,,1,,4
+13278372,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Local,1ST,15/02/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278372,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Local,2ND,15/02/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278372,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,7101,Varbergs BoIS,Visita,ALL,15/02/2025,1,1,26%,1.06,,5,4,5,16,247,1,2,3,0,1,0,2,2,4,1,,,0,8,,1,193,18,,14/23 (61%),26/43 (60%),3/7 (42%),32%,11,38/139 (27%),16/29 (55%),13/19 (68%),,1,24,,42,1,4,,,0,,15
+13278372,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,7101,Varbergs BoIS,Visita,1ST,15/02/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278372,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,7101,Varbergs BoIS,Visita,2ND,15/02/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278390,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,227549,FC Stockholm Internazionale,Local,ALL,22/02/2025,2,0,31%,0.24,,3,2,2,20,270,7,1,2,0,0,0,3,0,2,1,,,0,7,,2,182,20,,17/30 (57%),19/41 (46%),3/7 (42%),28%,16,50/182 (27%),7/19 (37%),9/13 (69%),,7,18,,10,5,2,,,1,,11
+13278390,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,227549,FC Stockholm Internazionale,Local,1ST,22/02/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278390,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,227549,FC Stockholm Internazionale,Local,2ND,22/02/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278390,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Visita,ALL,22/02/2025,2,3,69%,2.93,,16,0,8,15,595,2,5,0,0,5,0,8,3,13,3,,,2,38,,2,503,27,,65/78 (83%),14/33 (42%),5/22 (22%),39%,17,67/183 (37%),13/20 (65%),19/25 (76%),,2,14,,3,2,0,,,0,,4
+13278390,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Visita,1ST,22/02/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278390,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Visita,2ND,22/02/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278392,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Local,ALL,03/03/2025,3,2,55%,1.01,,9,3,6,8,461,1,0,0,0,2,0,4,3,5,4,,,4,18,,2,383,21,,37/55 (67%),12/29 (41%),3/10 (30%),41%,9,43/120 (36%),20/32 (63%),20/31 (65%),,1,15,,27,7,3,,,2,,7
+13278392,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Local,1ST,03/03/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278392,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Local,2ND,03/03/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278392,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1891,Kalmar FF,Visita,ALL,03/03/2025,3,1,45%,0.66,,13,0,10,15,362,6,2,1,0,3,0,4,6,7,6,,,1,22,,1,282,29,,28/46 (61%),18/48 (37%),5/16 (31%),32%,7,38/120 (32%),12/34 (35%),11/19 (58%),,6,24,,22,1,0,,,2,,9
+13278392,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1891,Kalmar FF,Visita,1ST,03/03/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13278392,80,60631,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1891,Kalmar FF,Visita,2ND,03/03/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13564536,80,60631,NORMAL,REGULAR,Quarterfinals,CUP,1761,IFK Göteborg,Local,ALL,09/03/2025,27,4,42%,1.64,,15,1,2,16,267,2,6,1,0,5,0,6,3,9,6,,,5,17,,1,193,24,,41/65 (63%),34/59 (57%),4/12 (33%),41%,7,52/131 (40%),19/42 (45%),15/17 (88%),,2,10,,29,0,1,,,,,10
+13564536,80,60631,NORMAL,REGULAR,Quarterfinals,CUP,1761,IFK Göteborg,Local,1ST,09/03/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13564536,80,60631,NORMAL,REGULAR,Quarterfinals,CUP,1761,IFK Göteborg,Local,2ND,09/03/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13564536,80,60631,NORMAL,REGULAR,Quarterfinals,CUP,1758,Hammarby IF,Visita,ALL,09/03/2025,27,0,58%,0.51,,6,2,4,16,391,0,3,3,0,1,0,4,1,2,4,,,1,14,,5,308,26,,42/65 (65%),26/43 (60%),3/14 (21%),36%,10,47/139 (34%),19/41 (46%),15/23 (65%),,0,19,,8,1,2,,,,,13
+13564536,80,60631,NORMAL,REGULAR,Quarterfinals,CUP,1758,Hammarby IF,Visita,1ST,09/03/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13564536,80,60631,NORMAL,REGULAR,Quarterfinals,CUP,1758,Hammarby IF,Visita,2ND,09/03/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193531,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Local,ALL,20/02/2026,1,2,60%,2.69,,30,4,9,6,549,3,2,1,0,7,3,11,9,14,16,,,5,33,,1,478,13,,40/59 (68%),14/31 (45%),7/18 (38%),46%,3,57/126 (45%),18/34 (53%),24/30 (80%),,3,12,,7,0,4,,,0,,3
+15193531,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Local,1ST,20/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193531,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Local,2ND,20/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193531,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1777,IK Brage,Visita,ALL,20/02/2026,1,0,40%,0.69,,5,5,1,16,344,3,0,1,0,3,0,2,0,3,2,,,1,7,,0,292,13,,27/37 (73%),37/51 (72%),1/3 (33%),24%,8,32/130 (25%),7/30 (23%),10/18 (56%),,3,22,,10,4,5,,,1,,16
+15193531,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1777,IK Brage,Visita,1ST,20/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193531,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1777,IK Brage,Visita,2ND,20/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193527,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1768,Örebro SK,Local,ALL,02/03/2026,2,3,31%,0.59,,8,4,2,12,306,3,0,1,0,6,0,2,0,4,4,,,0,11,,2,243,13,,20/35 (57%),27/45 (60%),2/8 (25%),29%,7,33/107 (31%),5/21 (24%),9/12 (75%),,3,15,,20,2,4,,,,,9
+15193527,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1768,Örebro SK,Local,1ST,02/03/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193527,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1768,Örebro SK,Local,2ND,02/03/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193527,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Visita,ALL,02/03/2026,2,5,69%,2.72,,22,4,3,12,770,3,3,1,0,9,1,8,4,14,8,,,0,37,,1,697,17,,58/74 (78%),12/32 (37%),7/18 (38%),46%,5,54/125 (43%),13/20 (65%),26/39 (67%),,3,16,,5,3,4,,,,,3
+15193527,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Visita,1ST,02/03/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193527,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Visita,2ND,02/03/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193529,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Local,ALL,07/03/2026,3,7,62%,2.88,,28,1,7,10,594,1,1,1,0,11,0,13,4,15,13,,,1,33,,1,533,15,,44/56 (79%),10/23 (43%),2/8 (25%),50%,7,53/108 (49%),13/23 (57%),17/24 (71%),,1,7,,7,1,1,,,,,2
+15193529,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Local,1ST,07/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193529,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1758,Hammarby IF,Local,2ND,07/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193529,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1781,Östers IF,Visita,ALL,07/03/2026,3,0,38%,0.24,,3,4,0,10,331,2,0,1,0,1,0,0,2,2,1,,,1,9,,2,279,14,,21/29 (72%),25/39 (64%),1/3 (33%),32%,9,34/107 (32%),8/23 (35%),6/12 (50%),,2,14,,19,12,4,,,,,16
+15193529,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1781,Östers IF,Visita,1ST,07/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15193529,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 2",CUP,1781,Östers IF,Visita,2ND,07/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15703136,80,75545,NORMAL,REGULAR,Quarterfinals,CUP,1758,Hammarby IF,Local,ALL,15/03/2026,27,1,60%,0.73,,9,4,2,16,494,3,2,3,0,5,0,3,1,7,2,,,2,21,,2,416,19,,32/45 (71%),10/37 (27%),1/8 (12%),40%,11,50/130 (38%),16/34 (47%),16/25 (64%),,3,14,,15,3,4,,,,,13
+15703136,80,75545,NORMAL,REGULAR,Quarterfinals,CUP,1758,Hammarby IF,Local,1ST,15/03/2026,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15703136,80,75545,NORMAL,REGULAR,Quarterfinals,CUP,1758,Hammarby IF,Local,2ND,15/03/2026,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15703136,80,75545,NORMAL,REGULAR,Quarterfinals,CUP,1759,Djurgårdens IF,Visita,ALL,15/03/2026,27,0,40%,0.75,,11,4,5,16,302,2,1,5,0,4,0,4,3,5,6,,,0,13,,2,233,25,,36/55 (65%),39/61 (63%),5/12 (41%),34%,6,42/121 (35%),12/34 (35%),8/11 (73%),,2,5,,14,3,4,,,,,7
+15703136,80,75545,NORMAL,REGULAR,Quarterfinals,CUP,1759,Djurgårdens IF,Visita,1ST,15/03/2026,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15703136,80,75545,NORMAL,REGULAR,Quarterfinals,CUP,1759,Djurgårdens IF,Visita,2ND,15/03/2026,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15743251,80,75545,NORMAL,REGULAR,Semifinals,CUP,1758,Hammarby IF,Local,ALL,22/03/2026,28,3,69%,2.07,,17,3,3,19,844,4,4,3,0,5,0,6,6,8,9,,,0,25,,1,749,18,,68/94 (72%),17/38 (44%),6/19 (31%),41%,15,78/201 (39%),20/37 (54%),25/32 (78%),,4,10,,13,5,3,,,1,,9
+15743251,80,75545,NORMAL,REGULAR,Semifinals,CUP,1758,Hammarby IF,Local,1ST,22/03/2026,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15743251,80,75545,NORMAL,REGULAR,Semifinals,CUP,1758,Hammarby IF,Local,2ND,22/03/2026,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15743251,80,75545,NORMAL,REGULAR,Semifinals,CUP,1793,IK Sirius,Visita,ALL,22/03/2026,28,3,31%,2.40,,20,2,7,26,364,4,5,2,0,6,0,7,7,15,5,,,0,32,,1,299,31,,35/46 (76%),30/47 (63%),5/12 (41%),37%,12,72/201 (36%),18/41 (44%),30/39 (77%),,4,21,,20,3,2,,,0,,10
+15743251,80,75545,NORMAL,REGULAR,Semifinals,CUP,1793,IK Sirius,Visita,1ST,22/03/2026,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15743251,80,75545,NORMAL,REGULAR,Semifinals,CUP,1793,IK Sirius,Visita,2ND,22/03/2026,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15878336,80,75545,NORMAL,FINAL,Final,CUP,1783,Mjällby AIF,Local,ALL,14/05/2026,29,2,36%,1.40,,8,2,3,18,317,2,1,2,1,6,0,2,0,5,3,,,5,11,,1,244,23,,19/32 (59%),30/56 (53%),0/3 (0%),35%,10,42/148 (28%),26/45 (58%),9/16 (56%),,2,28,,23,1,2,,,,,9
+15878336,80,75545,NORMAL,FINAL,Final,CUP,1783,Mjällby AIF,Local,1ST,14/05/2026,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15878336,80,75545,NORMAL,FINAL,Final,CUP,1783,Mjällby AIF,Local,2ND,14/05/2026,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15878336,80,75545,NORMAL,FINAL,Final,CUP,1758,Hammarby IF,Visita,ALL,14/05/2026,29,1,64%,1.00,,14,4,5,11,593,3,4,2,0,3,1,4,6,3,11,,,3,21,,1,506,26,,70/91 (77%),21/50 (42%),2/20 (10%),36%,8,52/140 (37%),16/45 (36%),16/22 (73%),,3,17,,16,4,4,,,,,8
+15878336,80,75545,NORMAL,FINAL,Final,CUP,1758,Hammarby IF,Visita,1ST,14/05/2026,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15878336,80,75545,NORMAL,FINAL,Final,CUP,1758,Hammarby IF,Visita,2ND,14/05/2026,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16350375,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,1758,Hammarby IF,Local,ALL,23/07/2026,2,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16350375,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,1758,Hammarby IF,Local,1ST,23/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16350375,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,1758,Hammarby IF,Local,2ND,23/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16350375,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2900,RSC Anderlecht,Visita,ALL,23/07/2026,2,1,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16350375,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2900,RSC Anderlecht,Visita,1ST,23/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16350375,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2900,RSC Anderlecht,Visita,2ND,23/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16350379,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2900,RSC Anderlecht,Local,ALL,30/07/2026,2,3,,,,21,2,10,12,,,10,2,0,6,,12,3,,,,,,,,2,,21,,,,,,,,,,,,,,,,2,,,,,4
+16350379,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2900,RSC Anderlecht,Local,1ST,30/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16350379,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,2900,RSC Anderlecht,Local,2ND,30/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16350379,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,1758,Hammarby IF,Visita,ALL,30/07/2026,2,1,,,,6,3,0,10,,,14,3,0,3,,3,0,,,,,,,,0,,13,,,,,,,,,,,,,,,,3,,,,,14
+16350379,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,1758,Hammarby IF,Visita,1ST,30/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16350379,679,96522,NORMAL,REGULAR,Qualification Round 2,INTERNATIONAL,1758,Hammarby IF,Visita,2ND,30/07/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16585816,17015,96529,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,35268,Raków Częstochowa,Local,ALL,06/08/2026,3,0,0%,,,,,5,10,,,14,1,0,5,0,5,1,,,,,,,,0,,17,,,,,,,,,,,,,,,,,,,,,6
+16585816,17015,96529,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,35268,Raków Częstochowa,Local,1ST,06/08/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16585816,17015,96529,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,35268,Raków Częstochowa,Local,2ND,06/08/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16585816,17015,96529,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,1758,Hammarby IF,Visita,ALL,06/08/2026,3,0,0%,,,,,6,14,,,10,2,0,6,0,5,4,,,,,,,,0,,16,,,,,,,,,,,,,,,,,,,,,9
+16585816,17015,96529,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,1758,Hammarby IF,Visita,1ST,06/08/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16585816,17015,96529,NORMAL,REGULAR,Qualification Round 3,INTERNATIONAL,1758,Hammarby IF,Visita,2ND,06/08/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

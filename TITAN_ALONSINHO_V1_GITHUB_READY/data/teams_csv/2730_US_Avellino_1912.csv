@@ -1,0 +1,883 @@
+﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+10688620,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Local,ALL,07/11/2022,12,1,,,,,,6,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688620,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Local,1ST,07/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688620,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Local,2ND,07/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688620,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,07/11/2022,12,1,,,,,,3,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688620,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,07/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10688620,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,07/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689085,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,13/11/2022,13,0,51%,,,11,1,7,12,,,21,1,0,6,,3,2,,,,,,,,5,,20,,,,,,,,,,,,,,,,1,,,,,4
+10689085,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,13/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689085,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,13/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689085,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Visita,ALL,13/11/2022,13,1,49%,,,4,6,0,19,,,17,3,0,2,,2,0,,,,,,,,2,,24,,,,,,,,,,,,,,,,6,,,,,9
+10689085,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Visita,1ST,13/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689085,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Visita,2ND,13/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10872278,824,46081,NORMAL,PLAYOFF,Round of 16,CUP,2796,Catanzaro,Local,ALL,16/11/2022,5,3,,,,,,7,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10872278,824,46081,NORMAL,PLAYOFF,Round of 16,CUP,2796,Catanzaro,Local,1ST,16/11/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10872278,824,46081,NORMAL,PLAYOFF,Round of 16,CUP,2796,Catanzaro,Local,2ND,16/11/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10872278,824,46081,NORMAL,PLAYOFF,Round of 16,CUP,2730,US Avellino 1912,Visita,ALL,16/11/2022,5,3,,,,,,8,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10872278,824,46081,NORMAL,PLAYOFF,Round of 16,CUP,2730,US Avellino 1912,Visita,1ST,16/11/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10872278,824,46081,NORMAL,PLAYOFF,Round of 16,CUP,2730,US Avellino 1912,Visita,2ND,16/11/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689018,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Local,ALL,20/11/2022,14,2,,,,,,4,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689018,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Local,1ST,20/11/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689018,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Local,2ND,20/11/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689018,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,20/11/2022,14,1,,,,,,1,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689018,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,20/11/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689018,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,20/11/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719144,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,27/11/2022,15,4,,,,,,6,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719144,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,27/11/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719144,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,27/11/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719144,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Visita,ALL,27/11/2022,15,0,,,,,,6,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719144,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Visita,1ST,27/11/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719144,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Visita,2ND,27/11/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689063,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,30/11/2022,16,0,,,,,,3,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689063,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,30/11/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689063,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,30/11/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689063,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,5324,Juve Stabia,Visita,ALL,30/11/2022,16,0,,,,,,2,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689063,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,5324,Juve Stabia,Visita,1ST,30/11/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689063,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,5324,Juve Stabia,Visita,2ND,30/11/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689026,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Local,ALL,04/12/2022,17,1,,,,,,3,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689026,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Local,1ST,04/12/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689026,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Local,2ND,04/12/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689026,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,04/12/2022,17,3,,,,,,5,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689026,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,04/12/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689026,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,04/12/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689032,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,11/12/2022,18,1,,,,,,5,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689032,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,11/12/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689032,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,11/12/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689032,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2798,Fidelis Andria,Visita,ALL,11/12/2022,18,0,,,,,,4,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689032,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2798,Fidelis Andria,Visita,1ST,11/12/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10689032,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2798,Fidelis Andria,Visita,2ND,11/12/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649885,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,23/12/2022,20,1,,,,,,4,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649885,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,23/12/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649885,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,23/12/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649885,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,ALL,23/12/2022,20,0,,,,,,3,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649885,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,1ST,23/12/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10649885,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7935,Pescara,Visita,2ND,23/12/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719153,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,117412,Gelbison,Local,ALL,07/01/2023,21,1,,,,,,5,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719153,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,117412,Gelbison,Local,1ST,07/01/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719153,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,117412,Gelbison,Local,2ND,07/01/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719153,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,07/01/2023,21,1,,,,,,4,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719153,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,07/01/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719153,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,07/01/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719174,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Local,ALL,22/01/2023,23,2,,,,,,2,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719174,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Local,1ST,22/01/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719174,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Local,2ND,22/01/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719174,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,22/01/2023,23,0,,,,,,10,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719174,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,22/01/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719174,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,22/01/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719190,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,29/01/2023,24,0,,,,,,8,,,,,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719190,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,29/01/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719190,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,29/01/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719190,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Visita,ALL,29/01/2023,24,0,,,,,,0,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719190,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Visita,1ST,29/01/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719190,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Visita,2ND,29/01/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719196,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Local,ALL,01/02/2023,25,2,,,,,,2,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719196,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Local,1ST,01/02/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719196,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Local,2ND,01/02/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719196,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,01/02/2023,25,4,,,,,,5,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719196,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,01/02/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719196,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,01/02/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719206,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,06/02/2023,26,3,,,,,,4,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719206,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,06/02/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719206,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,06/02/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719206,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Visita,ALL,06/02/2023,26,1,,,,,,2,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719206,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Visita,1ST,06/02/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719206,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Visita,2ND,06/02/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719216,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263397,Audace Cerignola,Local,ALL,12/02/2023,27,3,,,,,,1,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719216,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263397,Audace Cerignola,Local,1ST,12/02/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719216,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263397,Audace Cerignola,Local,2ND,12/02/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719216,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,12/02/2023,27,1,,,,,,1,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719216,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,12/02/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719216,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,12/02/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719237,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,19/02/2023,28,0,,,,,,9,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719237,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,19/02/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719237,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,19/02/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719237,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,36588,US Viterbese,Visita,ALL,19/02/2023,28,2,,,,,,3,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719237,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,36588,US Viterbese,Visita,1ST,19/02/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719237,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,36588,US Viterbese,Visita,2ND,19/02/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719261,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,12/03/2023,31,3,,,,,,6,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719261,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,12/03/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719261,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,12/03/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719261,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Visita,ALL,12/03/2023,31,2,,,,,,10,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719261,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Visita,1ST,12/03/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10719261,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Visita,2ND,12/03/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721900,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Local,ALL,15/03/2023,32,2,,,,,,6,,,,,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721900,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Local,1ST,15/03/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721900,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Local,2ND,15/03/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721900,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,15/03/2023,32,4,,,,,,7,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721900,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,15/03/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721900,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,15/03/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721916,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,19/03/2023,33,0,,,,,,5,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721916,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,19/03/2023,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721916,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,19/03/2023,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721916,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Visita,ALL,19/03/2023,33,2,,,,,,6,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721916,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Visita,1ST,19/03/2023,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721916,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Visita,2ND,19/03/2023,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721922,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Local,ALL,25/03/2023,34,2,,,,,,1,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721922,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Local,1ST,25/03/2023,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721922,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Local,2ND,25/03/2023,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721922,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,25/03/2023,34,2,,,,,,7,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721922,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,25/03/2023,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721922,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,25/03/2023,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721930,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,5324,Juve Stabia,Local,ALL,02/04/2023,35,2,,,,,,4,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721930,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,5324,Juve Stabia,Local,1ST,02/04/2023,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721930,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,5324,Juve Stabia,Local,2ND,02/04/2023,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721930,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,02/04/2023,35,1,,,,,,2,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721930,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,02/04/2023,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721930,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,02/04/2023,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721995,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,08/04/2023,36,0,,,,,,2,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721995,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,08/04/2023,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721995,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,08/04/2023,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721995,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Visita,ALL,08/04/2023,36,1,,,,,,11,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721995,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Visita,1ST,08/04/2023,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721995,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Visita,2ND,08/04/2023,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721996,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2798,Fidelis Andria,Local,ALL,16/04/2023,37,1,,,,,,6,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721996,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2798,Fidelis Andria,Local,1ST,16/04/2023,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721996,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2798,Fidelis Andria,Local,2ND,16/04/2023,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721996,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,16/04/2023,37,0,,,,,,3,,,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721996,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,16/04/2023,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10721996,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,16/04/2023,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722012,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,23/04/2023,38,0,,,,,,9,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722012,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,23/04/2023,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722012,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,23/04/2023,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722012,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,230737,Guidonia Montecelio 1937,Visita,ALL,23/04/2023,38,2,,,,,,8,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722012,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,230737,Guidonia Montecelio 1937,Visita,1ST,23/04/2023,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10722012,11446,45567,NORMAL,GROUP,"Serie C, Group C",LEAGUE,230737,Guidonia Montecelio 1937,Visita,2ND,23/04/2023,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516808,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,02/09/2023,1,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516808,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,02/09/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516808,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,02/09/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516808,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Visita,ALL,02/09/2023,1,2,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516808,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Visita,1ST,02/09/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11516808,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Visita,2ND,02/09/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517071,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,5324,Juve Stabia,Local,ALL,11/09/2023,2,1,,,,,,,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517071,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,5324,Juve Stabia,Local,1ST,11/09/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517071,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,5324,Juve Stabia,Local,2ND,11/09/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517071,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,11/09/2023,2,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517071,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,11/09/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517071,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,11/09/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517115,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,17/09/2023,3,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517115,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,17/09/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517115,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,17/09/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517115,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Visita,ALL,17/09/2023,3,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517115,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Visita,1ST,17/09/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517115,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Visita,2ND,17/09/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517371,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7937,Sorrento,Local,ALL,21/09/2023,4,0,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517371,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7937,Sorrento,Local,1ST,21/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517371,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7937,Sorrento,Local,2ND,21/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517371,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,21/09/2023,4,1,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517371,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,21/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517371,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,21/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517388,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,24/09/2023,5,4,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517388,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,24/09/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517388,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,24/09/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517388,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Visita,ALL,24/09/2023,5,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517388,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Visita,1ST,24/09/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517388,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Visita,2ND,24/09/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517447,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Local,ALL,01/10/2023,6,1,,,,,,,,,,,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517447,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Local,1ST,01/10/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517447,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Local,2ND,01/10/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517447,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,01/10/2023,6,0,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517447,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,01/10/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517447,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,01/10/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11677165,824,55215,NORMAL,PLAYOFF,Round 1,CUP,2730,US Avellino 1912,Local,ALL,04/10/2023,1,3,,,,14,1,6,11,,,19,0,,6,,6,2,,,,,,,,0,,24,,,,,,,,,,,,,,,,1,,,,,9
+11677165,824,55215,NORMAL,PLAYOFF,Round 1,CUP,2730,US Avellino 1912,Local,1ST,04/10/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11677165,824,55215,NORMAL,PLAYOFF,Round 1,CUP,2730,US Avellino 1912,Local,2ND,04/10/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11677165,824,55215,NORMAL,PLAYOFF,Round 1,CUP,25137,Monopoli,Visita,ALL,04/10/2023,1,0,,,,6,3,5,17,,,11,1,,1,,4,1,,,,,,,,2,,22,,,,,,,,,,,,,,,,3,,,,,9
+11677165,824,55215,NORMAL,PLAYOFF,Round 1,CUP,25137,Monopoli,Visita,1ST,04/10/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11677165,824,55215,NORMAL,PLAYOFF,Round 1,CUP,25137,Monopoli,Visita,2ND,04/10/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517496,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,09/10/2023,7,4,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517496,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,09/10/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517496,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,09/10/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517496,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Visita,ALL,09/10/2023,7,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517496,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Visita,1ST,09/10/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517496,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Visita,2ND,09/10/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517549,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,53857,Casertana,Local,ALL,16/10/2023,8,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517549,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,53857,Casertana,Local,1ST,16/10/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517549,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,53857,Casertana,Local,2ND,16/10/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517549,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,16/10/2023,8,2,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517549,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,16/10/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517549,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,16/10/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517555,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,22/10/2023,9,2,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517555,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,22/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517555,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,22/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517555,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,230737,Guidonia Montecelio 1937,Visita,ALL,22/10/2023,9,1,,,,,,,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517555,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,230737,Guidonia Montecelio 1937,Visita,1ST,22/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517555,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,230737,Guidonia Montecelio 1937,Visita,2ND,22/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517584,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,25/10/2023,10,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517584,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,25/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517584,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,25/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517584,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263397,Audace Cerignola,Visita,ALL,25/10/2023,10,0,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517584,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263397,Audace Cerignola,Visita,1ST,25/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517584,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263397,Audace Cerignola,Visita,2ND,25/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517156,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2725,Catania,Local,ALL,29/10/2023,11,0,,,,,,,,,,,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517156,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2725,Catania,Local,1ST,29/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517156,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2725,Catania,Local,2ND,29/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517156,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,29/10/2023,11,2,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517156,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,29/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517156,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,29/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517193,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,04/11/2023,12,1,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517193,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,04/11/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517193,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,04/11/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517193,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205719,Virtus Francavilla,Visita,ALL,04/11/2023,12,1,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517193,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205719,Virtus Francavilla,Visita,1ST,04/11/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517193,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205719,Virtus Francavilla,Visita,2ND,04/11/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11772265,824,55215,NORMAL,PLAYOFF,Round 2,CUP,2730,US Avellino 1912,Local,ALL,08/11/2023,2,3,,,,11,3,4,18,,,10,,,5,,2,4,,,,,,,,3,,19,,,,,,,,,,,,,,,,3,,,,,11
+11772265,824,55215,NORMAL,PLAYOFF,Round 2,CUP,2730,US Avellino 1912,Local,1ST,08/11/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11772265,824,55215,NORMAL,PLAYOFF,Round 2,CUP,2730,US Avellino 1912,Local,2ND,08/11/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11772265,824,55215,NORMAL,PLAYOFF,Round 2,CUP,2803,Foggia,Visita,ALL,08/11/2023,2,1,,,,13,2,3,9,,,21,,,5,,6,2,,,,,,,,1,,28,,,,,,,,,,,,,,,,2,,,,,7
+11772265,824,55215,NORMAL,PLAYOFF,Round 2,CUP,2803,Foggia,Visita,1ST,08/11/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11772265,824,55215,NORMAL,PLAYOFF,Round 2,CUP,2803,Foggia,Visita,2ND,08/11/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517251,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2794,Brindisi,Local,ALL,12/11/2023,13,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517251,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2794,Brindisi,Local,1ST,12/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517251,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2794,Brindisi,Local,2ND,12/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517251,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,12/11/2023,13,4,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517251,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,12/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517251,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,12/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517283,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,19/11/2023,14,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517283,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,19/11/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517283,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,19/11/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517283,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Visita,ALL,19/11/2023,14,3,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517283,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Visita,1ST,19/11/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517283,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Visita,2ND,19/11/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517366,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Local,ALL,26/11/2023,15,2,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517366,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Local,1ST,26/11/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517366,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Local,2ND,26/11/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517366,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,26/11/2023,15,0,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517366,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,26/11/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517366,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,26/11/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11829092,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,2730,US Avellino 1912,Local,ALL,29/11/2023,5,1,,,,8,3,2,21,,,15,4,,2,,5,1,,,,,,,,1,,16,,,,,,,,,,,,,,,,3,,,,,13
+11829092,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,2730,US Avellino 1912,Local,1ST,29/11/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11829092,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,2730,US Avellino 1912,Local,2ND,29/11/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11829092,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,5324,Juve Stabia,Visita,ALL,29/11/2023,5,0,,,,15,1,3,13,,,22,3,,3,,7,5,,,,,,,,2,,27,,,,,,,,,,,,,,,,1,,,,,6
+11829092,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,5324,Juve Stabia,Visita,1ST,29/11/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11829092,824,55215,NORMAL,PLAYOFF,Round of 16,CUP,5324,Juve Stabia,Visita,2ND,29/11/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517372,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,03/12/2023,16,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517372,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,03/12/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517372,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,03/12/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517372,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Visita,ALL,03/12/2023,16,0,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517372,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Visita,1ST,03/12/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517372,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Visita,2ND,03/12/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517401,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2759,Benevento,Local,ALL,10/12/2023,17,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517401,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2759,Benevento,Local,1ST,10/12/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517401,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2759,Benevento,Local,2ND,10/12/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517401,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,10/12/2023,17,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517401,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,10/12/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517401,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,10/12/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11870271,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,2730,US Avellino 1912,Local,ALL,13/12/2023,27,0,,,,0,1,,1,,,1,,,0,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,1,,,,,
+11870271,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,2730,US Avellino 1912,Local,1ST,13/12/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11870271,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,2730,US Avellino 1912,Local,2ND,13/12/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11870271,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,2736,Lucchese Calcio,Visita,ALL,13/12/2023,27,1,,,,1,0,,1,,,1,,,1,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,0,,,,,
+11870271,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,2736,Lucchese Calcio,Visita,1ST,13/12/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11870271,824,55215,NORMAL,PLAYOFF,Quarterfinals,CUP,2736,Lucchese Calcio,Visita,2ND,13/12/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517422,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,17/12/2023,18,0,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517422,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,17/12/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517422,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,17/12/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517422,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Visita,ALL,17/12/2023,18,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517422,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Visita,1ST,17/12/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517422,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Visita,2ND,17/12/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517445,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Local,ALL,22/12/2023,19,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517445,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Local,1ST,22/12/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517445,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Local,2ND,22/12/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517445,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,22/12/2023,19,1,,,,,,,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517445,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,22/12/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517445,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,22/12/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517463,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Local,ALL,06/01/2024,20,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517463,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Local,1ST,06/01/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517463,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Local,2ND,06/01/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517463,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,06/01/2024,20,5,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517463,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,06/01/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517463,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,06/01/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517223,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,13/01/2024,21,2,,,,,,,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517223,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,13/01/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517223,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,13/01/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517223,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,5324,Juve Stabia,Visita,ALL,13/01/2024,21,2,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517223,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,5324,Juve Stabia,Visita,1ST,13/01/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517223,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,5324,Juve Stabia,Visita,2ND,13/01/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517311,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Local,ALL,20/01/2024,22,1,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517311,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Local,1ST,20/01/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517311,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Local,2ND,20/01/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517311,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,20/01/2024,22,3,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517311,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,20/01/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517311,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,20/01/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517460,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,29/01/2024,23,0,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517460,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,29/01/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517460,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,29/01/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517460,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7937,Sorrento,Visita,ALL,29/01/2024,23,1,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517460,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7937,Sorrento,Visita,1ST,29/01/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517460,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7937,Sorrento,Visita,2ND,29/01/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517472,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Local,ALL,03/02/2024,24,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517472,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Local,1ST,03/02/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517472,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Local,2ND,03/02/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517472,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,03/02/2024,24,1,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517472,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,03/02/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517472,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,03/02/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517503,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,11/02/2024,25,0,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517503,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,11/02/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517503,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,11/02/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517503,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Visita,ALL,11/02/2024,25,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517503,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Visita,1ST,11/02/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517503,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Visita,2ND,11/02/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517535,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Local,ALL,14/02/2024,26,2,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517535,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Local,1ST,14/02/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517535,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Local,2ND,14/02/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517535,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,14/02/2024,26,2,,,,,,,,,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517535,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,14/02/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517535,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,14/02/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517589,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,19/02/2024,27,2,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517589,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,19/02/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517589,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,19/02/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517589,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,53857,Casertana,Visita,ALL,19/02/2024,27,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517589,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,53857,Casertana,Visita,1ST,19/02/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517589,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,53857,Casertana,Visita,2ND,19/02/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517612,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,230737,Guidonia Montecelio 1937,Local,ALL,25/02/2024,28,1,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517612,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,230737,Guidonia Montecelio 1937,Local,1ST,25/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517612,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,230737,Guidonia Montecelio 1937,Local,2ND,25/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517612,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,25/02/2024,28,1,,,,,,,,,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517612,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,25/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517612,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,25/02/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517619,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263397,Audace Cerignola,Local,ALL,03/03/2024,29,1,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517619,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263397,Audace Cerignola,Local,1ST,03/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517619,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263397,Audace Cerignola,Local,2ND,03/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517619,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,03/03/2024,29,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517619,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,03/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517619,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,03/03/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517634,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,06/03/2024,30,5,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517634,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,06/03/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517634,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,06/03/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517634,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2725,Catania,Visita,ALL,06/03/2024,30,2,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517634,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2725,Catania,Visita,1ST,06/03/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517634,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2725,Catania,Visita,2ND,06/03/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517182,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205719,Virtus Francavilla,Local,ALL,10/03/2024,31,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517182,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205719,Virtus Francavilla,Local,1ST,10/03/2024,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517182,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205719,Virtus Francavilla,Local,2ND,10/03/2024,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517182,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,10/03/2024,31,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517182,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,10/03/2024,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517182,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,10/03/2024,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517363,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,16/03/2024,32,2,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517363,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,16/03/2024,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517363,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,16/03/2024,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517363,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2794,Brindisi,Visita,ALL,16/03/2024,32,0,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517363,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2794,Brindisi,Visita,1ST,16/03/2024,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517363,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2794,Brindisi,Visita,2ND,16/03/2024,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517421,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Local,ALL,23/03/2024,33,3,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517421,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Local,1ST,23/03/2024,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517421,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Local,2ND,23/03/2024,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517421,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,23/03/2024,33,2,,,,,,,,,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517421,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,23/03/2024,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517421,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,23/03/2024,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517495,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,30/03/2024,34,6,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517495,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,30/03/2024,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517495,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,30/03/2024,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517495,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Visita,ALL,30/03/2024,34,1,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517495,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Visita,1ST,30/03/2024,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517495,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Visita,2ND,30/03/2024,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517514,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Local,ALL,07/04/2024,35,0,,,,,,,,,,,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517514,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Local,1ST,07/04/2024,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517514,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Local,2ND,07/04/2024,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517514,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,07/04/2024,35,4,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517514,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,07/04/2024,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517514,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,07/04/2024,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517545,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,15/04/2024,36,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517545,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,15/04/2024,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517545,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,15/04/2024,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517545,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2759,Benevento,Visita,ALL,15/04/2024,36,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517545,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2759,Benevento,Visita,1ST,15/04/2024,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517545,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2759,Benevento,Visita,2ND,15/04/2024,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517576,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Local,ALL,21/04/2024,37,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517576,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Local,1ST,21/04/2024,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517576,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Local,2ND,21/04/2024,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517576,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,21/04/2024,37,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517576,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,21/04/2024,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517576,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,21/04/2024,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517609,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,27/04/2024,38,1,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517609,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,27/04/2024,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517609,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,27/04/2024,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517609,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Visita,ALL,27/04/2024,38,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517609,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Visita,1ST,27/04/2024,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11517609,11446,53816,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Visita,2ND,27/04/2024,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12607395,328,63668,NORMAL,REGULAR,Regular Season,CUP,2730,US Avellino 1912,Local,ALL,04/08/2024,,3,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12607395,328,63668,NORMAL,REGULAR,Regular Season,CUP,2730,US Avellino 1912,Local,1ST,04/08/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12607395,328,63668,NORMAL,REGULAR,Regular Season,CUP,2730,US Avellino 1912,Local,2ND,04/08/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12607395,328,63668,NORMAL,REGULAR,Regular Season,CUP,5324,Juve Stabia,Visita,ALL,04/08/2024,,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12607395,328,63668,NORMAL,REGULAR,Regular Season,CUP,5324,Juve Stabia,Visita,1ST,04/08/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12607395,328,63668,NORMAL,REGULAR,Regular Season,CUP,5324,Juve Stabia,Visita,2ND,04/08/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12645884,328,63668,NORMAL,REGULAR,Round of 64,CUP,2695,Udinese,Local,ALL,09/08/2024,32,4,60%,0.00,7,15,1,4,12,551,17,10,1,,7,1,6,2,12,3,4,3,2,18,2,0,493,11,64,79/110 (72%),40/55 (73%),5/14 (36%),57%,8,36/68 (53%),13/18 (72%),9/15 (60%),47%,17,7,47,12,,1,,1,,,5
+12645884,328,63668,NORMAL,REGULAR,Round of 64,CUP,2695,Udinese,Local,1ST,09/08/2024,32,1,63%,0.00,3,9,0,3,,321,7,4,0,,4,1,3,2,7,2,1,2,1,,1,0,284,9,45,,21/27 (78%),3/10 (30%),58%,4,18/36 (50%),10/12 (83%),7/13 (54%),57%,7,4,29,6,,0,,,,,0
+12645884,328,63668,NORMAL,REGULAR,Round of 64,CUP,2695,Udinese,Local,2ND,09/08/2024,32,3,57%,0.00,4,6,1,1,,230,10,6,1,,3,0,3,0,5,1,3,1,1,,1,0,209,2,19,,19/28 (68%),2/4 (50%),55%,4,18/32 (56%),3/6 (50%),2/2 (100%),40%,10,3,18,6,,1,,,,,5
+12645884,328,63668,NORMAL,REGULAR,Round of 64,CUP,2730,US Avellino 1912,Visita,ALL,09/08/2024,32,0,40%,0.00,1,2,3,6,11,351,14,12,2,,1,0,1,0,1,1,0,1,1,10,0,2,283,12,42,51/78 (65%),16/39 (41%),4/16 (25%),43%,10,32/68 (47%),5/18 (28%),6/13 (46%),64%,14,7,43,8,,3,,1,,,5
+12645884,328,63668,NORMAL,REGULAR,Round of 64,CUP,2730,US Avellino 1912,Visita,1ST,09/08/2024,32,0,37%,0.00,0,0,3,1,,189,10,7,2,,0,0,0,0,0,0,0,0,0,,0,1,151,3,25,,8/26 (31%),1/5 (20%),42%,6,18/36 (50%),2/12 (17%),1/2 (50%),70%,10,6,27,7,,3,,,,,2
+12645884,328,63668,NORMAL,REGULAR,Round of 64,CUP,2730,US Avellino 1912,Visita,2ND,09/08/2024,32,0,43%,0.00,1,2,0,5,,162,4,5,0,,1,0,1,0,1,1,0,1,1,,0,1,132,9,17,,8/13 (62%),3/11 (27%),45%,4,14/32 (44%),3/6 (50%),5/11 (45%),50%,4,1,16,1,,0,,,,,3
+12677570,824,63521,NORMAL,PLAYOFF,Round 2,CUP,2730,US Avellino 1912,Local,ALL,17/08/2024,2,1,59%,2.18,,20,2,14,21,640,0,5,2,0,8,0,7,5,13,7,,,3,34,,1,548,25,,88/102 (86%),44/60 (73%),20/51 (39%),43%,4,57/136 (42%),20/40 (50%),32/46 (70%),,0,14,,7,1,2,,,,,11
+12677570,824,63521,NORMAL,PLAYOFF,Round 2,CUP,2730,US Avellino 1912,Local,1ST,17/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12677570,824,63521,NORMAL,PLAYOFF,Round 2,CUP,2730,US Avellino 1912,Local,2ND,17/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12677570,824,63521,NORMAL,PLAYOFF,Round 2,CUP,24745,Pontedera,Visita,ALL,17/08/2024,2,1,41%,0.61,,8,7,4,15,414,3,3,4,1,3,0,3,2,5,3,,,2,10,,2,323,16,,32/52 (62%),33/67 (49%),3/12 (25%),38%,4,36/111 (32%),20/36 (56%),15/27 (56%),,3,21,,16,2,7,,,,,16
+12677570,824,63521,NORMAL,PLAYOFF,Round 2,CUP,24745,Pontedera,Visita,1ST,17/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12677570,824,63521,NORMAL,PLAYOFF,Round 2,CUP,24745,Pontedera,Visita,2ND,17/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545309,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Local,ALL,25/08/2024,1,4,52%,1.76,,14,5,2,15,368,2,2,3,0,8,1,2,3,8,6,,,2,,,0,300,17,,,33/62 (53%),5/10 (50%),36%,10,32/103 (31%),23/48 (48%),7/8 (88%),,2,12,,20,,5,,,,,3
+12545309,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Local,1ST,25/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545309,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Local,2ND,25/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545309,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,25/08/2024,1,1,48%,1.21,,11,5,4,15,338,2,3,2,0,6,1,3,1,9,2,,,3,,,4,264,32,,,34/55 (61%),5/17 (29%),40%,6,34/90 (38%),21/45 (47%),12/13 (92%),,2,10,,3,,5,,,,,4
+12545309,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,25/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545309,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,25/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545304,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,02/09/2024,2,1,64%,0.72,,11,1,7,18,481,2,5,2,1,4,1,2,4,5,6,,,0,,,1,418,22,,,21/31 (67%),13/34 (38%),42%,5,62/147 (42%),17/39 (44%),20/32 (63%),,2,10,,9,,1,,,,,8
+12545304,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,02/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545304,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,02/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545304,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Visita,ALL,02/09/2024,2,1,36%,0.75,,10,3,2,19,261,2,2,6,0,2,0,5,3,3,7,,,1,,,0,205,15,,,30/51 (58%),0/4 (0%),31%,10,40/140 (29%),15/32 (47%),18/27 (67%),,2,17,,5,,3,,,,,11
+12545304,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Visita,1ST,02/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545304,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Visita,2ND,02/09/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545286,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,08/09/2024,3,0,45%,0.78,,6,1,5,14,397,1,2,3,0,2,0,1,3,4,2,,,1,,,3,320,24,,,13/42 (30%),3/17 (17%),36%,8,44/136 (32%),16/30 (53%),14/17 (82%),,1,6,,4,,1,,,,,6
+12545286,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,08/09/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545286,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,08/09/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545286,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263397,Audace Cerignola,Visita,ALL,08/09/2024,3,0,55%,0.76,,10,2,3,16,501,0,2,2,0,1,1,4,4,5,5,,,1,,,0,432,11,,,27/54 (50%),6/12 (50%),35%,7,46/135 (34%),13/29 (45%),14/17 (82%),,0,22,,15,,2,,,,,5
+12545286,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263397,Audace Cerignola,Visita,1ST,08/09/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545286,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263397,Audace Cerignola,Visita,2ND,08/09/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545277,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,6361,Cavese,Local,ALL,15/09/2024,4,1,40%,0.67,,12,2,5,16,238,6,3,2,0,2,0,5,5,5,7,,,0,,,0,186,20,,,32/50 (64%),2/6 (33%),38%,3,36/89 (40%),14/40 (35%),10/13 (77%),,6,19,,32,,2,,,,,13
+12545277,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,6361,Cavese,Local,1ST,15/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545277,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,6361,Cavese,Local,2ND,15/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545277,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,15/09/2024,4,1,60%,0.51,,8,1,2,16,449,1,4,5,0,3,0,3,2,6,2,,,9,,,0,382,35,,,36/53 (67%),5/24 (20%),35%,6,33/110 (30%),20/40 (50%),13/21 (62%),,1,10,,13,,1,,,,,7
+12545277,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,15/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545277,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,15/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545268,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,21/09/2024,5,0,58%,1.62,,13,0,5,12,506,1,3,1,1,1,1,7,4,8,5,,,0,,,1,426,28,,,24/46 (52%),14/41 (34%),47%,11,32/74 (43%),9/13 (69%),,,1,5,,2,,0,,,,,8
+12545268,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,21/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545268,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,21/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545268,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Visita,ALL,21/09/2024,5,1,42%,0.52,,8,1,0,16,371,0,1,7,0,1,0,6,1,4,4,,,0,,,1,298,12,,,37/64 (57%),1/4 (25%),34%,11,21/70 (30%),8/15 (53%),,,0,13,,9,,1,,,,,12
+12545268,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Visita,1ST,21/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545268,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Visita,2ND,21/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545252,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Local,ALL,24/09/2024,6,0,49%,0.88,,9,6,2,8,416,2,5,1,0,2,0,4,3,4,5,,,1,,,1,344,23,,,44/61 (72%),2/10 (20%),46%,6,57/127 (45%),19/35 (54%),25/32 (78%),,2,20,,32,,6,,,,,8
+12545252,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Local,1ST,24/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545252,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Local,2ND,24/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545252,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,24/09/2024,6,0,51%,1.66,,11,3,10,20,413,0,4,3,0,5,2,1,3,8,3,,,1,,,3,343,17,,,20/43 (46%),6/23 (26%),34%,6,27/96 (28%),17/32 (53%),12/17 (71%),,0,17,,12,,3,,,,,4
+12545252,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,24/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545252,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,24/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545251,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,29/09/2024,7,2,60%,2.49,,17,2,13,13,486,0,5,3,0,5,0,6,6,12,5,,,3,,,3,416,11,,,31/49 (63%),15/34 (44%),41%,2,41/115 (36%),24/42 (57%),29/35 (83%),,0,11,,13,,2,,,,,2
+12545251,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,29/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545251,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,29/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545251,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Visita,ALL,29/09/2024,7,1,40%,0.57,,8,3,4,15,325,9,5,7,1,3,0,4,1,5,3,,,0,,,0,251,20,,,24/45 (53%),2/7 (28%),28%,6,32/128 (25%),17/44 (39%),10/13 (77%),,9,17,,26,,3,,,,,7
+12545251,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Visita,1ST,29/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545251,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Visita,2ND,29/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545238,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Local,ALL,07/10/2024,8,0,45%,0.47,,10,4,4,13,347,2,1,1,0,2,0,5,3,4,6,,,1,,,1,281,19,,,21/42 (50%),5/12 (41%),39%,13,59/155 (38%),12/24 (50%),27/36 (75%),,2,15,,18,,4,,,,,8
+12545238,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Local,1ST,07/10/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545238,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Local,2ND,07/10/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545238,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,07/10/2024,8,4,55%,1.43,,14,2,7,8,461,0,3,1,0,8,0,5,1,10,4,,,0,,,5,384,26,,,25/44 (56%),9/17 (52%),40%,11,64/169 (38%),17/31 (55%),21/25 (84%),,0,15,,14,,2,,,,,2
+12545238,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,07/10/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545238,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,07/10/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545230,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,13/10/2024,9,5,51%,2.23,,14,4,6,14,434,2,0,2,0,6,0,5,3,12,2,,,2,,,5,374,18,,,34/48 (70%),7/17 (41%),38%,2,42/112 (38%),10/24 (42%),18/19 (95%),,2,5,,17,,4,,,,,5
+12545230,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,13/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545230,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,13/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545230,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,53857,Casertana,Visita,ALL,13/10/2024,9,0,49%,0.52,,9,2,3,11,362,1,4,3,0,4,0,3,2,3,6,,,1,,,0,297,23,,,16/36 (44%),4/17 (23%),38%,5,35/94 (37%),9/21 (43%),18/19 (95%),,1,4,,10,,2,,,,,10
+12545230,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,53857,Casertana,Visita,1ST,13/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545230,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,53857,Casertana,Visita,2ND,13/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545215,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,294884,Juventus Next Gen U23,Local,ALL,20/10/2024,10,0,55%,0.62,,12,4,3,16,435,2,6,3,1,1,0,4,7,3,9,,,1,,,0,381,22,,,32/52 (61%),5/13 (38%),43%,5,56/127 (44%),18/45 (40%),12/37 (32%),,2,15,,24,,4,,,,,7
+12545215,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,294884,Juventus Next Gen U23,Local,1ST,20/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545215,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,294884,Juventus Next Gen U23,Local,2ND,20/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545215,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,20/10/2024,10,3,45%,0.92,,15,1,8,13,352,2,3,2,0,7,1,5,2,12,3,,,0,,,1,286,22,,,22/42 (52%),7/16 (43%),56%,4,72/121 (60%),18/39 (46%),7/15 (47%),,2,10,,16,,1,,,,,6
+12545215,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,20/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545215,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,20/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545209,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,27/10/2024,11,6,57%,2.66,,18,5,2,12,432,1,3,1,0,8,0,5,5,17,1,,,2,,,4,366,19,,,28/56 (50%),11/19 (57%),33%,8,40/123 (33%),13/35 (37%),19/24 (79%),,1,25,,11,,5,,,,,8
+12545209,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,27/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545209,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,27/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545209,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Visita,ALL,27/10/2024,11,0,43%,0.98,,11,2,3,15,352,4,1,3,0,5,0,4,2,5,6,,,3,,,0,279,26,,,19/32 (59%),3/18 (16%),31%,7,39/137 (28%),16/37 (43%),12/18 (67%),,4,12,,15,,2,,,,,9
+12545209,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Visita,1ST,27/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545209,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Visita,2ND,27/10/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545192,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,43686,Trapani,Local,ALL,30/10/2024,12,1,52%,0.84,,15,3,13,15,380,2,1,3,0,2,0,10,3,9,6,,,0,,,4,303,18,,,38/71 (53%),7/22 (31%),36%,3,27/95 (28%),29/58 (50%),13/20 (65%),,2,9,,16,,3,,,,,2
+12545192,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,43686,Trapani,Local,1ST,30/10/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545192,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,43686,Trapani,Local,2ND,30/10/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545192,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,30/10/2024,12,2,48%,1.98,,8,2,5,14,318,2,2,1,1,5,0,3,0,4,4,,,0,,,2,238,24,,,32/57 (56%),3/18 (16%),36%,5,37/110 (34%),22/52 (42%),9/11 (82%),,2,11,,7,,2,,,,,8
+12545192,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,30/10/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545192,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,30/10/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545190,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,03/11/2024,13,0,71%,1.48,,13,0,6,11,579,1,3,0,0,4,1,7,1,7,6,,,0,,,5,504,32,,,25/37 (67%),18/46 (39%),47%,4,55/122 (45%),22/39 (56%),29/32 (91%),,1,4,,5,,0,,,,,7
+12545190,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,03/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545190,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,03/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545190,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Visita,ALL,03/11/2024,13,1,29%,0.24,,5,4,0,10,176,4,2,2,0,1,0,4,0,2,3,,,1,,,0,119,15,,,23/47 (48%),3/5 (60%),24%,6,22/126 (17%),20/46 (43%),9/19 (47%),,4,16,,29,,4,,,,,19
+12545190,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Visita,1ST,03/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545190,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2733,S.S. Taranto 1927,Visita,2ND,03/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545175,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Local,ALL,10/11/2024,14,0,59%,0.30,,7,6,5,14,439,1,3,1,0,1,0,2,4,2,5,,,2,,,0,365,38,,,35/54 (64%),5/11 (45%),28%,9,34/123 (28%),10/32 (31%),13/26 (50%),,1,11,,7,,6,,,,,6
+12545175,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Local,1ST,10/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545175,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Local,2ND,10/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545175,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,10/11/2024,14,0,41%,0.96,,10,1,0,16,331,1,3,1,0,6,0,3,1,5,5,,,0,,,2,257,23,,,26/53 (49%),6/13 (46%),34%,8,34/128 (27%),21/31 (68%),7/9 (78%),,1,17,,24,,1,,,,,7
+12545175,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,10/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545175,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,10/11/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545169,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2759,Benevento,Local,ALL,17/11/2024,15,2,58%,1.99,,16,1,5,18,502,2,1,3,0,4,2,7,3,9,7,,,3,,,0,414,25,,,27/46 (58%),12/28 (42%),35%,4,33/104 (32%),16/35 (46%),24/32 (75%),,2,35,,13,,1,,,,,3
+12545169,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2759,Benevento,Local,1ST,17/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545169,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2759,Benevento,Local,2ND,17/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545169,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,17/11/2024,15,2,42%,1.19,,9,2,3,8,358,2,2,2,0,3,0,2,4,7,2,,,0,,,0,261,19,,,19/42 (45%),3/19 (15%),38%,3,38/105 (36%),15/33 (45%),15/17 (88%),,2,17,,14,,2,,,,,16
+12545169,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,17/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545169,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,17/11/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545158,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,23/11/2024,16,2,64%,2.17,,13,4,7,17,427,1,3,1,0,5,1,3,4,10,3,,,0,,,1,348,19,,,37/61 (60%),7/17 (41%),40%,10,56/138 (41%),14/35 (40%),16/20 (80%),,1,22,,12,,4,,,,,5
+12545158,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,23/11/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545158,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,23/11/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545158,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2725,Catania,Visita,ALL,23/11/2024,16,2,36%,1.83,,12,3,6,19,287,2,5,5,0,6,0,2,4,8,4,,,0,,,2,205,19,,,19/43 (44%),6/14 (42%),34%,9,39/142 (27%),23/40 (57%),5/8 (63%),,2,15,,10,,3,,,,,9
+12545158,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2725,Catania,Visita,1ST,23/11/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545158,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2725,Catania,Visita,2ND,23/11/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12718843,824,63521,NORMAL,PLAYOFF,Round of 16,CUP,326590,Giugliano,Local,ALL,26/11/2024,5,2,56%,0.98,,18,4,5,18,444,3,0,2,0,5,0,7,6,6,12,,,0,19,,1,375,24,,38/55 (69%),44/65 (67%),5/27 (18%),35%,10,50/146 (34%),15/37 (41%),25/36 (69%),,3,18,,13,4,4,,,1,,5
+12718843,824,63521,NORMAL,PLAYOFF,Round of 16,CUP,326590,Giugliano,Local,1ST,26/11/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12718843,824,63521,NORMAL,PLAYOFF,Round of 16,CUP,326590,Giugliano,Local,2ND,26/11/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12718843,824,63521,NORMAL,PLAYOFF,Round of 16,CUP,2730,US Avellino 1912,Visita,ALL,26/11/2024,5,4,44%,1.91,,12,4,4,22,382,5,2,2,0,8,0,3,1,5,7,,,2,18,,0,315,19,,25/46 (54%),23/42 (54%),6/14 (42%),29%,10,35/141 (25%),13/23 (57%),12/15 (80%),,5,11,,20,3,4,,,0,,11
+12718843,824,63521,NORMAL,PLAYOFF,Round of 16,CUP,2730,US Avellino 1912,Visita,1ST,26/11/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12718843,824,63521,NORMAL,PLAYOFF,Round of 16,CUP,2730,US Avellino 1912,Visita,2ND,26/11/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545147,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Local,ALL,02/12/2024,17,1,47%,0.45,,9,7,1,16,405,7,2,4,0,2,0,4,3,3,6,,,1,,,0,325,25,,,30/52 (57%),7/13 (53%),33%,3,43/142 (30%),16/35 (46%),18/22 (82%),,7,18,,18,,7,,,,,3
+12545147,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Local,1ST,02/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545147,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Local,2ND,02/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545147,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,02/12/2024,17,1,53%,1.52,,13,1,1,11,467,3,2,3,0,8,0,1,4,9,4,,,2,,,1,377,35,,,30/55 (54%),9/18 (50%),36%,7,45/124 (36%),9/26 (35%),23/28 (82%),,3,22,,13,,1,,,,,11
+12545147,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,02/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545147,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,02/12/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545140,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,08/12/2024,18,1,44%,1.06,,14,8,3,15,341,2,5,2,0,3,0,7,4,10,4,,,0,,,7,273,17,,,27/47 (57%),5/14 (35%),38%,8,50/138 (36%),15/31 (48%),16/19 (84%),,2,23,,18,,8,,,,,10
+12545140,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,08/12/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545140,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,08/12/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545140,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7937,Sorrento,Visita,ALL,08/12/2024,18,0,56%,1.30,,21,1,9,14,418,4,0,3,0,7,0,7,7,5,16,,,0,,,1,344,24,,,28/49 (57%),4/16 (25%),34%,12,45/142 (32%),16/33 (48%),19/30 (63%),,4,14,,11,,1,,,,,12
+12545140,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7937,Sorrento,Visita,1ST,08/12/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545140,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7937,Sorrento,Visita,2ND,08/12/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545126,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263370,Team Altamura,Local,ALL,13/12/2024,19,1,52%,1.08,,10,3,5,18,441,2,1,3,0,4,1,3,2,6,4,,,2,,,1,345,28,,,28/48 (58%),5/19 (26%),40%,12,63/157 (40%),13/32 (41%),26/36 (72%),,2,12,,19,,3,,,,,11
+12545126,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263370,Team Altamura,Local,1ST,13/12/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545126,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263370,Team Altamura,Local,2ND,13/12/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545126,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,13/12/2024,19,3,48%,1.78,,12,3,6,17,368,3,3,3,0,6,0,4,2,8,4,,,1,,,0,276,27,,,20/52 (38%),5/12 (41%),34%,5,46/144 (32%),16/35 (46%),13/21 (62%),,3,8,,20,,3,,,,,6
+12545126,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,13/12/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545126,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,13/12/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13179961,824,63521,NORMAL,PLAYOFF,Quarterfinals,CUP,117232,Giana Erminio,Local,ALL,18/12/2024,27,3,28%,1.50,,9,3,3,16,198,7,3,1,0,5,0,3,1,7,2,,,0,15,,0,148,17,,21/37 (57%),26/40 (65%),6/13 (46%),35%,13,57/173 (33%),18/40 (45%),16/22 (73%),,7,15,,36,3,3,,,0,,10
+13179961,824,63521,NORMAL,PLAYOFF,Quarterfinals,CUP,117232,Giana Erminio,Local,1ST,18/12/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13179961,824,63521,NORMAL,PLAYOFF,Quarterfinals,CUP,117232,Giana Erminio,Local,2ND,18/12/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13179961,824,63521,NORMAL,PLAYOFF,Quarterfinals,CUP,2730,US Avellino 1912,Visita,ALL,18/12/2024,27,0,72%,0.70,,11,2,3,15,547,2,3,2,0,3,0,4,4,4,7,,,0,21,,1,466,37,,55/72 (76%),35/55 (63%),6/28 (21%),36%,11,56/175 (32%),22/40 (55%),18/26 (69%),,2,17,,15,1,2,,,1,,7
+13179961,824,63521,NORMAL,PLAYOFF,Quarterfinals,CUP,2730,US Avellino 1912,Visita,1ST,18/12/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13179961,824,63521,NORMAL,PLAYOFF,Quarterfinals,CUP,2730,US Avellino 1912,Visita,2ND,18/12/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545121,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,22/12/2024,20,1,37%,1.09,,12,0,4,17,275,6,4,3,0,5,0,5,2,6,6,,,2,,,3,195,18,,,24/59 (40%),6/16 (37%),40%,10,54/149 (36%),18/30 (60%),18/24 (75%),,6,12,,12,,0,,,,,6
+12545121,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,22/12/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545121,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,22/12/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545121,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Visita,ALL,22/12/2024,20,0,63%,0.48,,8,4,1,19,451,4,2,4,0,0,0,3,5,2,6,,,0,,,2,375,25,,,39/58 (67%),4/12 (33%),31%,6,39/133 (29%),14/35 (40%),15/23 (65%),,4,19,,20,,4,,,,,3
+12545121,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Visita,1ST,22/12/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545121,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,205714,AZ Picerno,Visita,2ND,22/12/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545114,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Local,ALL,05/01/2025,21,1,43%,1.61,,11,3,6,14,336,3,0,3,0,4,0,3,4,8,3,,,0,,,0,262,30,,,30/49 (61%),4/17 (23%),37%,6,59/155 (38%),11/30 (37%),21/28 (75%),,3,17,,29,,3,,,,,4
+12545114,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Local,1ST,05/01/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545114,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,326590,Giugliano,Local,2ND,05/01/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545114,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,05/01/2025,21,1,57%,1.53,,10,3,3,16,455,1,3,4,0,3,1,3,3,6,4,,,1,,,1,369,33,,,19/36 (52%),9/23 (39%),33%,8,47/154 (31%),15/30 (50%),16/19 (84%),,1,13,,11,,3,,,,,3
+12545114,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,05/01/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545114,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,05/01/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545098,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263397,Audace Cerignola,Local,ALL,13/01/2025,22,1,49%,1.15,,16,3,9,17,342,4,4,5,0,6,0,3,7,8,8,,,2,,,2,251,31,,,21/44 (47%),7/20 (35%),37%,4,49/137 (36%),19/42 (45%),27/41 (66%),,4,17,,7,,3,,,,,8
+12545098,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263397,Audace Cerignola,Local,1ST,13/01/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545098,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263397,Audace Cerignola,Local,2ND,13/01/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545098,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,13/01/2025,22,1,51%,1.20,,10,5,2,10,387,4,4,2,0,3,0,5,2,8,2,,,1,,,2,306,28,,,39/60 (65%),9/23 (39%),38%,3,45/133 (34%),27/54 (50%),22/27 (81%),,4,20,,27,,5,,,,,3
+12545098,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,13/01/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545098,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,13/01/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545084,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,18/01/2025,23,2,54%,2.46,,14,3,7,16,404,4,3,2,0,7,0,3,4,9,5,,,1,,,3,333,21,,,28/48 (58%),11/22 (50%),33%,11,42/143 (29%),21/47 (45%),9/13 (69%),,4,15,,18,,3,,,,,7
+12545084,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,18/01/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545084,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,18/01/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545084,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,6361,Cavese,Visita,ALL,18/01/2025,23,1,46%,1.15,,16,6,2,18,315,4,4,4,0,4,0,9,3,6,10,,,1,,,1,239,20,,,23/45 (51%),5/14 (35%),40%,8,52/142 (37%),24/47 (51%),19/28 (68%),,4,13,,18,,6,,,,,6
+12545084,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,6361,Cavese,Visita,1ST,18/01/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545084,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,6361,Cavese,Visita,2ND,18/01/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545075,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Local,ALL,26/01/2025,24,0,47%,1.25,,15,6,7,19,341,3,4,2,0,5,0,6,4,10,5,,,1,,,1,273,16,,,34/55 (61%),9/17 (52%),46%,2,41/102 (40%),22/33 (67%),14/15 (93%),,3,10,,4,,6,,,,,7
+12545075,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Local,1ST,26/01/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545075,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,44069,Latina,Local,2ND,26/01/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545075,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,26/01/2025,24,3,53%,2.61,,15,6,3,21,372,3,6,4,0,8,0,6,1,13,2,,,0,,,3,324,6,,,28/38 (73%),7/14 (50%),36%,5,40/115 (35%),15/37 (41%),19/25 (76%),,3,16,,13,,6,,,,,10
+12545075,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,26/01/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545075,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,26/01/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545058,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,02/02/2025,25,3,69%,2.63,,20,1,9,11,543,0,3,0,0,10,1,7,2,11,9,,,7,,,2,470,27,,,28/45 (62%),14/28 (50%),36%,11,57/168 (34%),18/36 (50%),23/30 (77%),,0,16,,8,,1,,,,,1
+12545058,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,02/02/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545058,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,02/02/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545058,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Visita,ALL,02/02/2025,25,1,31%,0.19,,5,7,2,13,234,4,2,2,0,2,0,2,1,2,3,,,0,,,0,171,21,,,12/36 (33%),1/5 (20%),30%,10,44/153 (29%),13/36 (36%),12/19 (63%),,4,15,,27,,7,,,,,11
+12545058,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Visita,1ST,02/02/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545058,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,111253,Turris,Visita,2ND,02/02/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545056,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Local,ALL,08/02/2025,26,1,39%,1.10,,7,4,0,15,279,1,2,4,1,3,0,3,1,2,5,,,0,,,1,204,17,,,30/55 (54%),3/8 (37%),27%,8,38/133 (29%),9/40 (23%),5/9 (56%),,1,27,,19,,4,,,,,10
+12545056,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Local,1ST,08/02/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545056,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2803,Foggia,Local,2ND,08/02/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545056,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,08/02/2025,26,0,61%,1.50,,14,2,0,13,497,3,6,3,1,4,1,4,5,7,7,,,0,,,1,418,36,,,31/48 (64%),8/20 (40%),39%,8,41/131 (31%),27/42 (64%),19/27 (70%),,3,13,,6,,2,,,,,7
+12545056,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,08/02/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545056,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,08/02/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545041,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,16/02/2025,27,2,53%,1.54,,10,3,8,19,342,1,4,2,0,5,0,5,0,8,2,,,0,,,3,279,23,,,29/49 (59%),7/17 (41%),39%,6,52/134 (39%),14/34 (41%),19/24 (79%),,1,14,,15,,3,,,,,5
+12545041,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,16/02/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545041,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,16/02/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545041,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Visita,ALL,16/02/2025,27,1,47%,0.40,,10,3,2,13,330,3,5,4,0,3,0,5,1,3,7,,,2,,,1,258,21,,,23/52 (44%),3/11 (27%),34%,6,40/134 (30%),18/34 (53%),13/18 (72%),,3,12,,26,,3,,,,,7
+12545041,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Visita,1ST,16/02/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545041,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2718,FC Crotone,Visita,2ND,16/02/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545036,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,53857,Casertana,Local,ALL,22/02/2025,28,1,43%,0.36,,5,3,0,14,323,1,5,4,0,2,0,1,2,1,4,,,0,,,3,243,30,,,33/56 (58%),6/12 (50%),46%,3,47/115 (41%),28/47 (60%),8/16 (50%),,1,13,,9,,3,,,,,7
+12545036,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,53857,Casertana,Local,1ST,22/02/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545036,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,53857,Casertana,Local,2ND,22/02/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545036,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,22/02/2025,28,2,57%,1.17,,11,2,5,24,433,3,3,2,0,5,0,5,1,6,5,,,1,,,9,338,21,,,36/65 (55%),2/20 (10%),30%,4,36/124 (29%),18/52 (35%),11/15 (73%),,3,10,,7,,2,,,,,6
+12545036,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,22/02/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545036,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,22/02/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545022,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,02/03/2025,29,2,47%,1.28,,12,5,4,17,368,7,4,3,0,4,0,6,2,5,7,,,0,,,4,291,16,,,33/58 (56%),2/12 (16%),47%,13,72/140 (51%),11/33 (33%),17/25 (68%),,7,14,,15,,5,,,,,9
+12545022,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,02/03/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545022,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,02/03/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545022,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,294884,Juventus Next Gen U23,Visita,ALL,02/03/2025,29,1,53%,0.83,,8,2,2,18,461,0,4,2,0,5,0,3,0,4,4,,,0,,,1,389,16,,,31/56 (55%),5/12 (41%),50%,4,70/146 (48%),20/34 (59%),12/30 (40%),,0,11,,7,,2,,,,,10
+12545022,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,294884,Juventus Next Gen U23,Visita,1ST,02/03/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545022,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,294884,Juventus Next Gen U23,Visita,2ND,02/03/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545014,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Local,ALL,08/03/2025,30,0,51%,0.92,,16,1,8,13,365,1,3,3,1,1,1,7,7,7,9,,,3,,,2,290,21,,,35/57 (61%),5/14 (35%),44%,3,63/150 (42%),24/47 (51%),19/31 (61%),,1,22,,20,,1,,,,,9
+12545014,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Local,1ST,08/03/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545014,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2720,Messina,Local,2ND,08/03/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545014,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,08/03/2025,30,1,49%,0.76,,11,1,2,18,389,0,2,3,0,2,0,8,1,5,6,,,1,,,2,301,29,,,20/44 (45%),7/21 (33%),32%,8,37/127 (29%),18/40 (45%),14/15 (93%),,0,23,,7,,1,,,,,8
+12545014,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,08/03/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12545014,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,08/03/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12544994,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,12/03/2025,31,2,55%,2.47,,13,2,3,13,462,2,2,2,0,3,2,7,1,7,6,,,0,,,1,396,18,,,22/40 (55%),7/14 (50%),36%,2,43/123 (35%),10/22 (45%),9/12 (75%),,2,9,,10,,2,,,,,6
+12544994,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,12/03/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12544994,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,12/03/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12544994,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,43686,Trapani,Visita,ALL,12/03/2025,31,0,45%,0.42,,9,1,4,18,355,0,3,1,0,2,0,6,1,3,6,,,0,,,0,299,20,,,26/39 (66%),4/15 (26%),39%,11,44/119 (37%),12/24 (50%),20/30 (67%),,0,15,,10,,1,,,,,9
+12544994,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,43686,Trapani,Visita,1ST,12/03/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12544994,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,43686,Trapani,Visita,2ND,12/03/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12544978,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,24/03/2025,33,1,43%,0.21,,8,2,2,11,336,6,2,3,0,1,0,6,1,2,6,,,1,,,6,260,23,,,27/44 (61%),5/26 (19%),42%,5,46/118 (39%),17/32 (53%),14/16 (88%),,6,20,,18,,2,,,,,11
+12544978,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,24/03/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12544978,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,24/03/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12544978,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Visita,ALL,24/03/2025,33,0,57%,1.03,,11,0,5,12,398,1,1,1,0,2,0,4,5,5,6,,,2,,,3,334,33,,,20/30 (66%),6/22 (27%),32%,5,38/119 (32%),11/33 (33%),20/32 (63%),,1,24,,22,,0,,,,,12
+12544978,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Visita,1ST,24/03/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12544978,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7936,Potenza Calcio,Visita,2ND,24/03/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12544974,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,30/03/2025,34,2,51%,0.80,,6,1,3,15,335,1,5,1,0,2,1,2,1,5,1,,,2,,,3,272,27,,,20/40 (50%),6/14 (42%),40%,7,46/121 (38%),13/26 (50%),10/13 (77%),,1,14,,25,,1,,,,,2
+12544974,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,30/03/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12544974,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,30/03/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12544974,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2759,Benevento,Visita,ALL,30/03/2025,34,1,49%,0.95,,6,0,7,21,363,2,3,4,0,2,0,2,2,5,1,,,1,,,1,301,18,,,20/38 (52%),6/18 (33%),31%,10,41/128 (32%),8/26 (31%),23/31 (74%),,2,9,,13,,0,,,,,7
+12544974,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2759,Benevento,Visita,1ST,30/03/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12544974,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2759,Benevento,Visita,2ND,30/03/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541968,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2725,Catania,Local,ALL,06/04/2025,35,1,48%,1.39,,12,1,5,19,370,2,5,3,0,4,0,4,4,6,6,,,4,,,1,290,20,,,27/49 (55%),8/19 (42%),37%,2,34/99 (34%),15/31 (48%),11/16 (69%),,2,14,,5,,1,,,,,6
+12541968,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2725,Catania,Local,1ST,06/04/2025,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541968,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2725,Catania,Local,2ND,06/04/2025,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541968,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,06/04/2025,35,2,52%,0.24,,5,3,1,9,428,1,2,4,0,3,0,2,0,0,5,,,2,,,0,355,17,,,24/46 (52%),3/9 (33%),40%,8,38/99 (38%),15/32 (47%),10/17 (59%),,1,15,,20,,3,,,,,10
+12541968,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,06/04/2025,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541968,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,06/04/2025,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541929,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,13/04/2025,36,1,51%,1.66,,12,0,6,17,441,0,3,2,0,3,1,4,4,8,4,,,0,,,3,352,24,,,26/58 (44%),11/27 (40%),41%,8,55/130 (42%),16/40 (40%),24/29 (83%),,0,13,,8,,0,,,,,6
+12541929,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,13/04/2025,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541929,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,13/04/2025,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541929,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Visita,ALL,13/04/2025,36,0,49%,0.33,,7,2,1,16,407,3,2,3,0,0,0,6,1,3,4,,,0,,,2,335,16,,,28/48 (58%),4/13 (30%),34%,8,41/131 (31%),18/40 (45%),12/14 (86%),,3,19,,36,,2,,,,,2
+12541929,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Visita,1ST,13/04/2025,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541929,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,25137,Monopoli,Visita,2ND,13/04/2025,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541871,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7937,Sorrento,Local,ALL,19/04/2025,37,1,40%,0.67,,10,2,9,11,309,4,2,1,0,3,0,5,2,6,4,,,1,,,3,248,19,,,17/38 (44%),2/14 (14%),29%,18,45/149 (30%),9/32 (28%),12/16 (75%),,4,25,,20,,2,,,,,14
+12541871,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7937,Sorrento,Local,1ST,19/04/2025,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541871,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,7937,Sorrento,Local,2ND,19/04/2025,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541871,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,ALL,19/04/2025,37,2,60%,1.96,,12,2,6,8,475,1,2,1,0,4,0,5,3,9,3,,,0,,,1,396,21,,,33/55 (60%),10/28 (35%),42%,10,59/152 (39%),20/32 (63%),15/21 (71%),,1,15,,17,,2,,,,,6
+12541871,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,1ST,19/04/2025,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541871,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Visita,2ND,19/04/2025,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541997,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,ALL,27/04/2025,38,2,56%,1.40,,11,2,5,10,561,3,1,3,0,6,0,1,4,8,3,,,1,,,0,498,18,,,37/51 (72%),7/18 (38%),35%,7,35/109 (32%),15/32 (47%),7/9 (78%),,3,15,,10,,2,,,,,12
+12541997,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,1ST,27/04/2025,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541997,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,2730,US Avellino 1912,Local,2ND,27/04/2025,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541997,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263370,Team Altamura,Visita,ALL,27/04/2025,38,1,44%,0.46,,10,4,4,10,442,3,0,1,0,2,0,6,2,2,8,,,1,,,0,376,11,,,24/33 (72%),3/17 (17%),37%,8,32/103 (31%),18/31 (58%),16/19 (84%),,3,15,,20,,4,,,,,5
+12541997,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263370,Team Altamura,Visita,1ST,27/04/2025,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541997,11446,63973,NORMAL,GROUP,"Serie C, Group C",LEAGUE,263370,Team Altamura,Visita,2ND,27/04/2025,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14317962,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,2801,Frosinone,Local,ALL,24/08/2025,1,2,39%,0.92,1,15,3,6,19,293,8,16,3,1,4,0,4,7,8,7,1,,,18,5,0,212,19,41,59/92 (64%),15/51 (29%),3/15 (20%),44%,13,29/69 (42%),13/27 (48%),7/12 (58%),75%,8,5,35,21,,3,0.09,,3,0,9
+14317962,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,2801,Frosinone,Local,1ST,24/08/2025,1,2,46%,0.75,1,9,2,5,,182,6,6,1,0,4,0,2,3,3,6,1,,,,1,0,143,6,19,,8/19 (42%),3/11 (27%),49%,7,16/36 (44%),6/9 (67%),6/7 (86%),67%,6,1,16,7,,2,,,,,2
+14317962,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,2801,Frosinone,Local,2ND,24/08/2025,1,0,31%,0.17,0,6,1,1,,111,2,10,2,1,0,0,2,4,5,1,0,,,,4,0,69,13,22,,7/32 (22%),0/4 (0%),39%,6,13/33 (39%),7/18 (39%),1/5 (20%),100%,2,4,19,14,,1,,,,,7
+14317962,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,2730,US Avellino 1912,Visita,ALL,24/08/2025,1,0,61%,0.67,0,14,2,1,16,469,18,19,2,0,3,0,6,5,6,8,0,,,7,2,2,407,20,49,94/115 (82%),28/51 (55%),4/24 (17%),56%,6,40/69 (58%),14/27 (52%),4/6 (67%),50%,18,6,37,24,,2,-1.40,,1,2,8
+14317962,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,2730,US Avellino 1912,Visita,1ST,24/08/2025,1,0,54%,0.17,0,4,2,0,,226,8,11,1,0,2,0,1,1,0,4,0,,,,1,2,191,11,10,,15/27 (56%),0/6 (0%),51%,5,20/36 (56%),3/9 (33%),2/3 (67%),50%,8,3,14,15,,2,,,,,4
+14317962,53,79502,NORMAL,REGULAR,Round 1,LEAGUE,2730,US Avellino 1912,Visita,2ND,24/08/2025,1,0,69%,0.51,0,10,0,1,,243,10,8,1,0,1,0,5,4,6,4,0,,,,1,0,216,9,39,,13/24 (54%),4/18 (22%),61%,1,20/33 (61%),11/18 (61%),2/3 (67%),50%,10,3,23,9,,0,,,,,4
+14317954,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,2706,Modena,Local,ALL,31/08/2025,2,1,67%,1.42,3,22,0,7,14,407,10,15,2,0,5,2,13,4,14,8,1,2,,45,7,2,335,26,75,116/154 (75%),36/61 (59%),13/43 (30%),50%,7,23/58 (40%),34/55 (62%),1/8 (13%),70%,10,2,28,15,,0,-0.62,,1,1,5
+14317954,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,2706,Modena,Local,1ST,31/08/2025,2,0,60%,0.19,0,5,0,1,,172,5,8,1,0,0,0,4,1,3,2,0,0,,,2,2,133,17,34,,20/34 (59%),3/15 (20%),52%,2,11/28 (39%),17/26 (65%),1/3 (33%),60%,5,0,13,9,,0,,,,,3
+14317954,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,2706,Modena,Local,2ND,31/08/2025,2,1,72%,1.23,3,17,0,6,,235,5,7,1,0,5,2,9,3,11,6,1,2,,,5,0,202,9,41,,16/27 (59%),10/28 (36%),49%,5,12/30 (40%),17/29 (59%),0/5 (0%),80%,5,2,15,6,,0,,,,,2
+14317954,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,2730,US Avellino 1912,Visita,ALL,31/08/2025,2,1,33%,0.26,1,3,4,2,15,217,14,14,5,1,1,0,2,0,3,0,0,1,,8,1,0,146,19,48,28/63 (44%),22/68 (32%),0/7 (0%),50%,4,35/58 (60%),21/55 (38%),8/14 (57%),36%,14,3,29,55,,4,-0.30,,1,3,15
+14317954,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,2730,US Avellino 1912,Visita,1ST,31/08/2025,2,0,40%,0.20,1,2,0,1,,119,4,10,1,0,0,0,2,0,2,0,0,1,,,1,0,80,13,24,,14/37 (38%),0/4 (0%),48%,1,17/28 (61%),9/26 (35%),3/7 (43%),50%,4,3,13,24,,0,,,,,7
+14317954,53,79502,NORMAL,REGULAR,Round 2,LEAGUE,2730,US Avellino 1912,Visita,2ND,31/08/2025,2,1,28%,0.05,0,1,4,1,,98,10,4,4,1,1,0,0,0,1,0,0,0,,,0,0,66,6,24,,8/31 (26%),0/3 (0%),51%,3,18/30 (60%),12/29 (41%),5/7 (71%),30%,10,0,16,31,,4,,,,,8
+14317942,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,2730,US Avellino 1912,Local,ALL,12/09/2025,3,2,43%,1.45,1,12,,2,22,380,19,16,2,,2,0,5,5,10,2,1,0,,14,1,3,316,16,28,40/57 (70%),24/52 (46%),4/8 (50%),53%,6,35/67 (52%),13/24 (54%),2/2 (100%),63%,19,9,42,28,,,-0.17,,1,1,5
+14317942,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,2730,US Avellino 1912,Local,1ST,12/09/2025,3,1,52%,1.00,1,8,,2,,216,12,9,1,,1,0,5,2,7,1,1,0,,,1,1,185,10,13,,11/25 (44%),3/5 (60%),57%,3,22/38 (58%),8/15 (53%),2/2 (100%),75%,12,4,19,7,,,,,,,2
+14317942,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,2730,US Avellino 1912,Local,2ND,12/09/2025,3,1,35%,0.45,0,4,,0,,164,7,7,1,,1,0,0,3,3,1,0,0,,,0,2,131,6,15,,13/27 (48%),1/3 (33%),47%,3,13/29 (45%),5/9 (56%),0/0 (0%),43%,7,5,23,21,,,,,,,3
+14317942,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,2729,Monza,Visita,ALL,12/09/2025,3,1,57%,0.91,2,9,,3,16,493,6,22,0,,2,0,3,4,6,3,1,1,,26,4,3,431,19,66,114/147 (78%),23/37 (62%),6/23 (26%),47%,11,32/67 (48%),11/24 (46%),7/15 (47%),67%,6,5,35,5,,,-0.19,,1,0,4
+14317942,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,2729,Monza,Visita,1ST,12/09/2025,3,0,48%,0.03,0,1,,2,,196,3,10,0,,0,0,0,1,0,1,0,0,,,1,2,163,8,19,,7/15 (47%),1/6 (17%),43%,7,16/38 (42%),7/15 (47%),4/9 (44%),67%,3,3,13,1,,,,,,,4
+14317942,53,79502,NORMAL,REGULAR,Round 3,LEAGUE,2729,Monza,Visita,2ND,12/09/2025,3,1,65%,0.89,2,8,,1,,297,3,12,0,,2,0,3,3,6,2,1,1,,,3,1,268,11,47,,16/22 (73%),5/17 (29%),53%,4,16/29 (55%),4/9 (44%),3/6 (50%),67%,3,2,22,4,,,,,,,0
+14317943,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,2745,Carrarese,Local,ALL,21/09/2025,4,3,58%,1.74,2,20,0,9,19,453,13,13,1,0,6,0,9,5,12,8,2,,,39,4,0,403,22,68,126/152 (83%),27/43 (63%),12/45 (27%),50%,6,37/76 (49%),20/37 (54%),10/20 (50%),69%,13,4,45,11,,0,-2.43,,2,1,2
+14317943,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,2745,Carrarese,Local,1ST,21/09/2025,4,2,50%,1.14,2,9,0,1,,214,4,8,1,0,2,0,5,2,5,4,2,,,,4,0,189,10,27,,11/19 (58%),4/11 (36%),57%,3,18/36 (50%),10/13 (77%),5/10 (50%),75%,4,3,20,7,,0,,,,,1
+14317943,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,2745,Carrarese,Local,2ND,21/09/2025,4,1,68%,0.60,0,11,0,8,,239,9,5,0,0,4,0,4,3,7,4,0,,,,0,0,214,12,41,,16/24 (67%),8/34 (24%),45%,3,19/40 (48%),10/24 (42%),5/10 (50%),67%,9,1,25,4,,0,,,,,1
+14317943,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,2730,US Avellino 1912,Visita,ALL,21/09/2025,4,4,42%,1.35,2,5,3,2,14,348,16,19,4,1,3,0,1,1,5,0,2,,,7,4,1,281,7,45,47/77 (61%),18/59 (31%),1/9 (11%),50%,7,39/76 (51%),17/37 (46%),7/13 (54%),44%,16,1,44,41,,3,-0.22,,2,1,10
+14317943,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,2730,US Avellino 1912,Visita,1ST,21/09/2025,4,2,50%,0.15,0,2,0,2,,219,8,8,3,1,1,0,0,1,2,0,0,,,,2,0,190,3,26,,5/19 (26%),1/8 (13%),43%,1,18/36 (50%),3/13 (23%),3/6 (50%),25%,8,1,19,14,,0,,,,,4
+14317943,53,79502,NORMAL,REGULAR,Round 4,LEAGUE,2730,US Avellino 1912,Visita,2ND,21/09/2025,4,2,32%,1.21,2,3,3,0,,129,8,11,1,0,2,0,1,0,3,0,2,,,,2,1,91,4,19,,13/40 (33%),0/1 (0%),55%,6,21/40 (53%),14/24 (58%),4/7 (57%),63%,8,0,25,27,,3,,,,,6
+14317970,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,2730,US Avellino 1912,Local,ALL,27/09/2025,5,2,47%,1.66,2,12,2,3,8,416,13,18,1,,5,0,3,4,7,5,2,0,,16,2,1,356,17,44,64/92 (70%),29/53 (55%),2/14 (14%),60%,5,42/68 (62%),13/23 (57%),12/17 (71%),62%,13,7,38,30,,2,1.46,0,1,1,10
+14317970,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,2730,US Avellino 1912,Local,1ST,27/09/2025,5,1,49%,0.42,1,6,1,0,,232,7,8,0,,1,0,3,2,3,3,1,0,,,1,0,201,10,26,,12/26 (46%),2/5 (40%),59%,1,20/31 (65%),6/13 (46%),6/7 (86%),71%,7,2,21,12,,1,,,,,5
+14317970,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,2730,US Avellino 1912,Local,2ND,27/09/2025,5,1,44%,1.24,1,6,1,3,,184,6,10,1,,4,0,0,2,4,2,1,0,,,1,1,155,7,18,,17/27 (63%),0/9 (0%),62%,4,22/37 (59%),7/10 (70%),6/10 (60%),50%,6,5,17,18,,1,,,,,5
+14317970,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,43680,Virtus Entella,Visita,ALL,27/09/2025,5,0,53%,0.61,1,10,3,8,18,456,10,8,2,,2,0,3,5,6,4,0,1,,28,0,1,395,9,59,110/143 (77%),23/40 (57%),6/31 (19%),40%,7,26/68 (38%),10/23 (43%),8/14 (57%),40%,10,5,43,24,,3,-0.19,2,1,0,5
+14317970,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,43680,Virtus Entella,Visita,1ST,27/09/2025,5,0,51%,0.30,1,4,0,2,,233,2,5,2,,1,0,2,1,3,1,0,1,,,0,0,205,3,32,,11/20 (55%),3/13 (23%),41%,4,11/31 (35%),7/13 (54%),4/7 (57%),50%,2,3,23,9,,0,,,,,4
+14317970,53,79502,NORMAL,REGULAR,Round 5,LEAGUE,43680,Virtus Entella,Visita,2ND,27/09/2025,5,0,56%,0.32,0,6,3,6,,223,8,3,0,,1,0,1,4,3,3,0,0,,,0,1,190,6,27,,12/20 (60%),3/18 (17%),38%,3,15/37 (41%),3/10 (30%),4/7 (57%),38%,8,2,20,15,,3,,,,,1
+14317814,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,2741,Padova,Local,ALL,30/09/2025,6,2,45%,0.80,2,11,3,4,14,477,16,13,2,,3,1,3,5,8,3,0,2,1,22,2,1,409,8,49,84/116 (72%),27/49 (55%),6/22 (27%),59%,5,37/66 (56%),15/22 (68%),8/12 (67%),44%,16,16,46,20,,3,0.14,1,1,,5
+14317814,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,2741,Padova,Local,1ST,30/09/2025,6,2,46%,0.67,2,7,1,2,,256,8,7,0,,3,1,1,3,6,1,0,2,1,,2,1,224,3,24,,16/27 (59%),4/10 (40%),65%,3,17/29 (59%),7/8 (88%),2/4 (50%),38%,8,9,21,4,,1,,,,,3
+14317814,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,2741,Padova,Local,2ND,30/09/2025,6,0,44%,0.13,0,4,2,2,,221,8,6,2,,0,0,2,2,2,2,0,0,0,,0,0,185,5,25,,11/22 (50%),2/12 (17%),55%,2,20/37 (54%),8/14 (57%),6/8 (75%),50%,8,7,25,16,,2,,,,,2
+14317814,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,2730,US Avellino 1912,Visita,ALL,30/09/2025,6,2,55%,1.03,2,12,1,1,13,593,9,14,1,,5,1,3,4,4,8,1,1,1,11,1,0,510,18,72,117/156 (75%),40/63 (63%),3/18 (17%),41%,7,29/66 (44%),7/22 (32%),6/15 (40%),44%,9,9,42,17,,1,-1.24,0,0,,9
+14317814,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,2730,US Avellino 1912,Visita,1ST,30/09/2025,6,2,54%,0.84,2,5,1,1,,309,5,4,0,,3,0,1,1,4,1,1,1,1,,0,0,271,4,37,,21/32 (66%),2/7 (29%),35%,5,12/29 (41%),1/8 (13%),3/6 (50%),40%,5,6,17,8,,1,,,,,5
+14317814,53,79502,NORMAL,REGULAR,Round 6,LEAGUE,2730,US Avellino 1912,Visita,2ND,30/09/2025,6,0,56%,0.20,0,7,0,0,,284,4,10,1,,2,1,2,3,0,7,0,0,0,,1,0,239,14,35,,19/31 (61%),1/11 (9%),45%,2,17/37 (46%),6/14 (43%),3/9 (33%),50%,4,3,25,9,,0,,,,,4
+14317825,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,2730,US Avellino 1912,Local,ALL,04/10/2025,7,0,41%,1.34,3,12,12,8,13,313,20,13,2,,6,0,4,2,8,4,,3,2,17,2,1,260,14,44,56/82 (68%),16/41 (39%),6/23 (26%),44%,13,38/82 (46%),6/18 (33%),5/13 (38%),50%,20,9,38,21,1,12,1.39,3,,,8
+14317825,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,2730,US Avellino 1912,Local,1ST,04/10/2025,7,0,39%,0.10,0,3,8,1,6,160,10,7,0,,1,0,2,0,1,2,,0,0,,1,1,125,5,21,,7/22 (32%),3/10 (30%),52%,3,19/34 (56%),3/8 (38%),2/3 (67%),30%,10,4,24,8,,8,,,,,3
+14317825,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,2730,US Avellino 1912,Local,2ND,04/10/2025,7,0,43%,1.24,3,9,4,7,7,153,10,6,2,,5,0,2,2,7,2,,3,2,,1,0,135,9,23,,9/19 (47%),3/13 (23%),38%,10,19/48 (40%),3/10 (30%),3/10 (30%),70%,10,5,14,13,,4,,,,,5
+14317825,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,2770,Mantova,Visita,ALL,04/10/2025,7,0,59%,0.74,0,19,5,7,13,470,21,13,3,,11,0,3,5,6,13,,0,0,18,2,1,417,16,46,89/112 (79%),23/38 (61%),5/19 (26%),56%,6,44/82 (54%),12/18 (67%),10/24 (42%),38%,21,5,44,20,2,5,0.63,2,,,7
+14317825,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,2770,Mantova,Visita,1ST,04/10/2025,7,0,61%,0.54,0,11,1,4,7,260,4,6,0,,8,0,2,1,4,7,,0,0,,1,0,232,7,25,,9/16 (56%),3/9 (33%),48%,2,15/34 (44%),5/8 (63%),5/13 (38%),50%,4,3,23,8,,1,,,,,5
+14317825,53,79502,NORMAL,REGULAR,Round 7,LEAGUE,2770,Mantova,Visita,2ND,04/10/2025,7,0,57%,0.20,0,8,4,3,6,210,17,7,3,,3,0,1,4,2,6,,0,0,,1,1,185,9,21,,14/22 (64%),2/10 (20%),62%,4,29/48 (60%),7/10 (70%),5/11 (45%),35%,17,2,21,12,,4,,,,,2
+14317985,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,5324,Juve Stabia,Local,ALL,18/10/2025,8,2,44%,0.65,1,11,2,6,23,353,14,11,2,0,3,0,6,2,7,4,1,0,0,26,1,0,271,28,47,79/117 (68%),18/44 (41%),6/17 (35%),42%,18,29/82 (35%),20/35 (57%),4/10 (40%),57%,14,9,44,22,,2,0.76,,,1,6
+14317985,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,5324,Juve Stabia,Local,1ST,18/10/2025,8,2,52%,0.31,1,6,0,3,12,229,5,5,0,0,2,0,3,1,5,1,1,0,0,,1,0,190,13,32,,11/23 (48%),3/11 (27%),44%,4,12/31 (39%),9/17 (53%),2/3 (67%),0%,5,2,21,5,,0,,,,,2
+14317985,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,5324,Juve Stabia,Local,2ND,18/10/2025,8,0,35%,0.35,0,5,2,3,11,124,9,6,2,0,1,0,3,1,2,3,0,0,0,,0,0,81,15,15,,7/21 (33%),3/6 (50%),41%,14,17/51 (33%),11/18 (61%),2/7 (29%),89%,9,7,23,17,,2,,,,,4
+14317985,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,2730,US Avellino 1912,Visita,ALL,18/10/2025,8,0,56%,0.87,3,11,0,3,11,449,24,23,1,1,2,0,7,2,5,6,0,3,1,12,0,1,359,12,59,87/125 (70%),27/57 (47%),4/17 (24%),58%,9,53/82 (65%),15/35 (43%),6/11 (55%),54%,24,17,43,26,,0,-0.84,,,0,12
+14317985,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,2730,US Avellino 1912,Visita,1ST,18/10/2025,8,0,48%,0.33,1,3,0,0,5,216,5,12,0,0,0,0,3,0,2,1,0,1,0,,0,0,172,3,31,,16/31 (52%),2/3 (67%),56%,3,19/31 (61%),8/17 (47%),2/4 (50%),80%,5,9,22,12,,0,,,,,7
+14317985,53,79502,NORMAL,REGULAR,Round 8,LEAGUE,2730,US Avellino 1912,Visita,2ND,18/10/2025,8,0,65%,0.54,2,8,0,3,6,233,19,11,1,1,2,0,4,2,3,5,0,2,1,,0,1,187,9,28,,11/26 (42%),2/14 (14%),59%,6,34/51 (67%),7/18 (39%),4/7 (57%),47%,19,8,21,14,,0,,,,,5
+14317992,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,2730,US Avellino 1912,Local,ALL,25/10/2025,9,0,50%,0.66,1,7,3,7,12,378,10,19,2,1,2,0,3,2,5,2,0,1,,15,2,2,319,19,40,62/82 (76%),25/48 (52%),7/27 (26%),46%,15,35/70 (50%),11/29 (38%),7/11 (64%),50%,10,4,28,35,,3,-1.26,0,0,0,10
+14317992,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,2730,US Avellino 1912,Local,1ST,25/10/2025,9,0,62%,0.08,0,2,2,2,6,218,8,8,0,1,1,0,1,0,2,0,0,0,,,1,1,181,11,22,,15/30 (50%),3/13 (23%),48%,8,19/38 (50%),7/16 (44%),3/5 (60%),38%,8,4,16,22,,2,,,,,5
+14317992,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,2730,US Avellino 1912,Local,2ND,25/10/2025,9,0,40%,0.58,1,5,1,5,6,160,2,11,2,0,1,0,2,2,3,2,0,1,,,1,1,138,8,18,,10/18 (56%),4/14 (29%),44%,7,16/32 (50%),4/13 (31%),4/6 (67%),100%,2,0,12,13,,1,,,,,5
+14317992,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,2735,Spezia,Visita,ALL,25/10/2025,9,4,50%,2.60,3,23,3,6,19,377,19,12,1,0,7,0,5,11,15,8,3,0,,48,4,2,325,14,57,111/141 (79%),19/42 (45%),7/25 (28%),54%,6,35/70 (50%),18/29 (62%),4/8 (50%),68%,19,5,38,22,,3,0.64,1,1,1,3
+14317992,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,2735,Spezia,Visita,1ST,25/10/2025,9,0,38%,0.48,0,9,1,6,8,133,10,6,1,0,2,0,2,5,6,3,0,0,,,3,1,101,11,27,,10/23 (43%),3/10 (30%),52%,4,19/38 (50%),9/16 (56%),3/7 (43%),70%,10,2,19,15,,1,,,,,1
+14317992,53,79502,NORMAL,REGULAR,Round 9,LEAGUE,2735,Spezia,Visita,2ND,25/10/2025,9,4,60%,2.12,3,14,2,0,11,244,9,6,0,0,5,0,3,6,9,5,3,0,,,1,1,224,3,30,,9/19 (47%),4/15 (27%),56%,2,16/32 (50%),9/13 (69%),1/1 (100%),67%,9,3,19,7,,2,,,,,2
+14318010,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,7935,Pescara,Local,ALL,28/10/2025,10,1,41%,1.79,2,28,4,5,15,348,13,13,1,,7,1,11,10,15,13,1,1,1,30,1,1,283,13,36,60/77 (78%),27/56 (48%),6/26 (23%),48%,6,30/58 (52%),13/32 (41%),7/9 (78%),85%,13,4,47,33,,4,0.36,1,1,,13
+14318010,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,7935,Pescara,Local,1ST,28/10/2025,10,1,37%,0.86,2,12,2,2,7,174,6,5,1,,5,1,3,4,8,4,1,1,0,,1,1,141,4,15,,10/27 (37%),2/11 (18%),39%,3,13/28 (46%),3/13 (23%),3/4 (75%),67%,6,2,21,15,,2,,,,,6
+14318010,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,7935,Pescara,Local,2ND,28/10/2025,10,0,46%,0.93,0,16,2,3,8,174,7,8,0,,2,0,8,6,7,9,0,0,1,,0,0,142,9,21,,17/29 (59%),4/15 (27%),55%,3,17/30 (57%),10/19 (53%),4/5 (80%),100%,7,2,26,18,,2,,,,,7
+14318010,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,2730,US Avellino 1912,Visita,ALL,28/10/2025,10,1,59%,1.99,2,20,6,8,13,506,8,15,3,,5,1,9,6,16,4,0,2,0,35,2,0,435,20,52,86/119 (72%),21/49 (43%),10/34 (29%),52%,5,28/58 (48%),19/32 (59%),5/13 (38%),50%,8,8,44,29,,6,0.13,3,0,,10
+14318010,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,2730,US Avellino 1912,Visita,1ST,28/10/2025,10,1,63%,1.20,1,10,4,4,5,302,4,7,2,,3,1,5,2,8,2,0,1,0,,1,0,272,7,22,,10/20 (50%),4/13 (31%),61%,3,15/28 (54%),10/13 (77%),4/7 (57%),50%,4,3,21,11,,4,,,,,3
+14318010,53,79502,NORMAL,REGULAR,Round 10,LEAGUE,2730,US Avellino 1912,Visita,2ND,28/10/2025,10,0,54%,0.79,1,10,2,4,8,204,4,8,1,,2,0,4,4,8,2,0,1,0,,1,0,163,13,30,,11/29 (38%),6/21 (29%),45%,2,13/30 (43%),9/19 (47%),1/6 (17%),50%,4,5,23,18,,2,,,,,7
+14318013,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,2730,US Avellino 1912,Local,ALL,01/11/2025,11,4,52%,2.20,5,13,2,4,15,367,13,20,4,,5,0,2,6,8,5,3,2,2,21,6,4,302,14,44,58/80 (73%),27/56 (48%),7/14 (50%),53%,8,36/69 (52%),24/44 (55%),7/14 (50%),46%,13,7,35,25,0,2,-0.72,1,2,1,5
+14318013,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,2730,US Avellino 1912,Local,1ST,01/11/2025,11,1,57%,1.28,3,8,0,2,6,221,7,8,1,,2,0,1,5,4,4,1,2,1,,4,3,182,7,23,,15/32 (47%),4/8 (50%),58%,2,18/31 (58%),8/14 (57%),4/9 (44%),29%,7,3,18,7,,0,,,,,3
+14318013,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,2730,US Avellino 1912,Local,2ND,01/11/2025,11,3,47%,0.92,2,5,2,2,9,146,6,12,3,,3,0,1,1,4,1,2,0,1,,2,1,120,7,21,,12/24 (50%),3/6 (50%),50%,6,18/38 (47%),16/30 (53%),3/5 (60%),67%,6,4,17,18,,2,,,,,2
+14318013,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,24516,Reggiana,Visita,ALL,01/11/2025,11,3,48%,2.13,3,15,1,4,21,327,15,15,2,,4,0,7,4,10,5,2,1,0,25,1,2,263,18,41,46/74 (62%),38/66 (58%),8/23 (35%),47%,7,33/69 (48%),20/44 (45%),7/13 (54%),60%,15,9,42,19,1,1,-0.83,0,0,0,3
+14318013,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,24516,Reggiana,Visita,1ST,01/11/2025,11,1,43%,0.25,0,3,1,0,9,170,7,6,0,,0,0,3,0,2,1,0,0,0,,0,2,134,7,22,,19/36 (53%),2/7 (29%),42%,4,13/31 (42%),6/14 (43%),2/5 (40%),43%,7,5,24,14,,1,,,,,1
+14318013,53,79502,NORMAL,REGULAR,Round 11,LEAGUE,24516,Reggiana,Visita,2ND,01/11/2025,11,2,53%,1.88,3,12,0,4,12,157,8,9,2,,4,0,4,4,8,4,2,1,0,,1,0,129,11,19,,19/30 (63%),6/16 (38%),50%,3,20/38 (53%),14/30 (47%),5/8 (63%),75%,8,4,18,5,,0,,,,,2
+14317859,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,2742,Cesena,Local,ALL,09/11/2025,12,3,36%,1.82,2,11,3,5,16,343,18,9,4,,3,0,4,4,6,5,1,1,,22,3,2,276,17,36,68/92 (74%),23/48 (48%),1/15 (7%),44%,9,32/67 (48%),9/27 (33%),5/9 (56%),50%,18,11,39,31,,3,0.96,2,1,,9
+14317859,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,2742,Cesena,Local,1ST,09/11/2025,12,2,35%,0.98,1,5,1,3,9,165,6,3,1,,2,0,1,2,4,1,1,0,,,1,2,137,12,20,,9/17 (53%),1/11 (9%),33%,7,9/30 (30%),5/12 (42%),0/3 (0%),33%,6,4,21,6,,1,,,,,1
+14317859,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,2742,Cesena,Local,2ND,09/11/2025,12,1,36%,0.84,1,6,2,2,7,178,12,6,3,,1,0,3,2,2,4,0,1,,,2,0,139,5,16,,14/31 (45%),0/4 (0%),52%,2,23/37 (62%),4/15 (27%),5/6 (83%),58%,12,7,18,25,,2,,,,,8
+14317859,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,2730,US Avellino 1912,Visita,ALL,09/11/2025,12,0,64%,1.20,1,13,0,4,10,615,13,16,4,,3,0,5,5,7,6,0,1,,17,4,0,551,18,60,111/151 (74%),27/46 (59%),8/25 (32%),56%,10,35/67 (52%),18/27 (67%),7/15 (47%),62%,13,11,39,17,,0,-0.58,0,0,,4
+14317859,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,2730,US Avellino 1912,Visita,1ST,09/11/2025,12,0,65%,0.19,0,3,0,0,4,317,10,9,3,,1,0,0,2,1,2,0,0,,,2,0,286,5,24,,8/17 (47%),2/6 (33%),67%,4,21/30 (70%),7/12 (58%),3/5 (60%),80%,10,6,20,11,,0,,,,,0
+14317859,53,79502,NORMAL,REGULAR,Round 12,LEAGUE,2730,US Avellino 1912,Visita,2ND,09/11/2025,12,0,64%,1.01,1,10,0,4,6,298,3,7,1,,2,0,5,3,6,4,0,1,,,2,0,265,13,36,,19/29 (66%),6/19 (32%),48%,6,14/37 (38%),11/15 (73%),4/10 (40%),0%,3,5,19,6,,0,,,,,4
+14317866,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,2730,US Avellino 1912,Local,ALL,22/11/2025,13,0,58%,1.75,2,9,1,6,8,520,13,19,2,,3,0,4,2,6,3,0,2,,17,0,1,433,29,55,79/112 (71%),28/67 (42%),6/32 (19%),58%,7,38/62 (61%),14/27 (52%),6/9 (67%),69%,13,7,42,27,1,1,-0.36,0,1,1,7
+14317866,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,2730,US Avellino 1912,Local,1ST,22/11/2025,13,0,49%,0.15,0,3,1,1,3,223,5,13,2,,1,0,2,0,2,1,0,0,,,0,1,184,8,15,,11/27 (41%),2/8 (25%),60%,2,18/30 (60%),6/10 (60%),0/2 (0%),60%,5,4,18,16,,1,,,,,4
+14317866,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,2730,US Avellino 1912,Local,2ND,22/11/2025,13,0,67%,1.60,2,6,0,5,5,297,8,6,0,,2,0,2,2,4,2,0,2,,,0,0,249,21,40,,17/40 (43%),4/24 (17%),57%,5,20/32 (63%),8/17 (47%),6/7 (86%),75%,8,3,24,11,,0,,,,,3
+14317866,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,2705,Empoli,Visita,ALL,22/11/2025,13,3,42%,1.86,3,13,3,4,19,375,10,8,3,,4,0,7,2,9,4,2,1,,22,2,0,288,16,59,62/110 (56%),19/62 (31%),6/20 (30%),42%,9,24/62 (39%),13/27 (48%),7/11 (64%),60%,10,2,58,26,0,3,0.69,1,3,0,10
+14317866,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,2705,Empoli,Visita,1ST,22/11/2025,13,2,51%,0.73,2,8,1,3,13,222,4,3,2,,3,0,4,1,5,3,1,1,,,1,0,182,7,27,,12/29 (41%),3/14 (21%),40%,4,12/30 (40%),4/10 (40%),5/6 (83%),50%,4,0,28,7,,1,,,,,5
+14317866,53,79502,NORMAL,REGULAR,Round 13,LEAGUE,2705,Empoli,Visita,2ND,22/11/2025,13,1,33%,1.13,1,5,2,1,6,153,6,5,1,,1,0,3,1,4,1,1,0,,,1,0,106,9,32,,7/33 (21%),3/6 (50%),43%,5,12/32 (38%),9/17 (53%),2/5 (40%),67%,6,2,30,19,,2,,,,,5
+14317829,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,2760,Südtirol,Local,ALL,29/11/2025,14,0,61%,1.16,0,20,0,10,22,458,14,12,4,,3,1,15,2,12,8,,0,0,45,5,1,341,24,76,163/233 (70%),22/56 (39%),18/52 (35%),47%,13,35/81 (43%),33/64 (52%),10/17 (59%),71%,14,7,50,15,,0,-0.70,0,0,0,5
+14317829,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,2760,Südtirol,Local,1ST,29/11/2025,14,0,52%,0.24,0,6,0,3,12,189,8,3,2,,0,1,5,1,3,3,,0,0,,2,1,119,13,39,,5/30 (17%),7/14 (50%),43%,6,13/36 (36%),21/44 (48%),2/5 (40%),50%,8,6,25,9,,0,,,,,2
+14317829,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,2760,Südtirol,Local,2ND,29/11/2025,14,0,69%,0.92,0,14,0,7,10,269,6,9,2,,3,0,10,1,9,5,,0,0,,3,0,222,11,37,,17/26 (65%),11/38 (29%),52%,7,22/45 (49%),12/20 (60%),8/12 (67%),100%,6,1,25,6,,0,,,,,3
+14317829,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,2730,US Avellino 1912,Visita,ALL,29/11/2025,14,1,39%,0.74,1,6,3,2,12,319,20,22,1,,1,0,3,2,4,2,,1,1,9,2,0,217,17,50,43/78 (55%),26/86 (30%),3/9 (33%),53%,9,46/81 (57%),31/64 (48%),7/12 (58%),55%,20,13,42,55,,3,1.33,2,2,1,16
+14317829,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,2730,US Avellino 1912,Visita,1ST,29/11/2025,14,1,48%,0.40,1,4,0,1,3,184,9,12,0,,1,0,2,1,3,1,,1,1,,2,0,129,17,30,,11/42 (26%),2/5 (40%),57%,5,23/36 (64%),23/44 (52%),5/8 (63%),33%,9,6,20,23,,0,,,,,6
+14317829,53,79502,NORMAL,REGULAR,Round 14,LEAGUE,2730,US Avellino 1912,Visita,2ND,29/11/2025,14,0,31%,0.33,0,2,3,1,9,135,11,10,1,,0,0,1,1,1,1,,0,0,,0,0,88,0,20,,15/44 (34%),1/4 (25%),48%,4,23/45 (51%),8/20 (40%),2/4 (50%),73%,11,7,22,32,,3,,,,,10
+14317818,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,2730,US Avellino 1912,Local,ALL,08/12/2025,15,1,28%,0.29,2,2,9,2,15,233,24,21,1,,2,0,0,0,2,0,1,1,,7,0,2,161,13,34,31/53 (58%),31/72 (43%),2/5 (40%),50%,4,49/87 (56%),7/26 (27%),5/11 (45%),63%,24,8,37,25,,9,1.85,2,1,1,16
+14317818,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,2730,US Avellino 1912,Local,1ST,08/12/2025,15,1,30%,0.17,1,1,6,1,6,133,12,10,0,,1,0,0,0,1,0,1,0,,,0,2,97,7,13,,13/34 (38%),1/2 (50%),50%,2,22/39 (56%),3/11 (27%),1/1 (100%),50%,12,5,18,9,,6,,,,,7
+14317818,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,2730,US Avellino 1912,Local,2ND,08/12/2025,15,0,27%,0.13,1,1,3,1,9,100,12,11,1,,1,0,0,0,1,0,0,1,,,0,0,64,6,21,,18/38 (47%),1/3 (33%),49%,2,27/48 (56%),4/15 (27%),4/10 (40%),75%,12,3,19,16,,3,,,,,9
+14317818,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,2688,Venezia,Visita,ALL,08/12/2025,15,1,72%,2.22,4,26,1,10,21,566,10,15,3,,10,2,8,8,20,6,0,4,,37,4,1,506,20,65,182/215 (85%),13/26 (50%),8/35 (23%),50%,12,38/87 (44%),19/26 (73%),15/27 (56%),50%,10,8,49,8,,1,-0.06,0,0,0,4
+14317818,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,2688,Venezia,Visita,1ST,08/12/2025,15,0,70%,0.83,3,13,0,2,10,303,2,6,1,,6,2,4,3,12,1,0,3,,,2,1,280,11,34,,9/15 (60%),4/15 (27%),50%,6,17/39 (44%),8/11 (73%),9/15 (60%),100%,2,5,25,4,,0,,,,,2
+14317818,53,79502,NORMAL,REGULAR,Round 15,LEAGUE,2688,Venezia,Visita,2ND,08/12/2025,15,1,73%,1.39,1,13,1,8,11,263,8,9,2,,4,0,4,5,8,5,0,1,,,2,0,226,9,31,,4/11 (36%),4/20 (20%),51%,6,21/48 (44%),11/15 (73%),6/12 (50%),38%,8,3,24,4,,1,,,,,2
+14317833,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,2796,Catanzaro,Local,ALL,13/12/2025,16,1,56%,1.06,1,14,2,4,13,478,15,15,3,,3,0,5,6,10,4,,1,1,20,2,1,418,13,63,111/142 (78%),26/50 (52%),3/14 (21%),57%,10,33/65 (51%),20/28 (71%),4/10 (40%),47%,15,6,38,28,,2,0.28,,,,4
+14317833,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,2796,Catanzaro,Local,1ST,13/12/2025,16,0,64%,0.83,1,7,1,2,7,281,8,4,2,,1,0,2,4,6,1,,1,1,,0,0,249,8,43,,10/21 (48%),1/9 (11%),44%,4,12/29 (41%),6/12 (50%),1/5 (20%),50%,8,2,19,11,,1,,,,,2
+14317833,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,2796,Catanzaro,Local,2ND,13/12/2025,16,1,47%,0.23,0,7,1,2,6,197,7,11,1,,2,0,3,2,4,3,,0,0,,2,1,169,5,20,,16/29 (55%),2/5 (40%),67%,6,21/36 (58%),14/16 (88%),3/5 (60%),43%,7,4,19,17,,1,,,,,2
+14317833,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,2730,US Avellino 1912,Visita,ALL,13/12/2025,16,0,44%,0.26,0,6,2,2,15,372,16,13,2,,2,1,2,2,4,2,,0,0,14,3,1,304,28,42,58/83 (70%),29/46 (63%),3/18 (17%),43%,5,32/65 (49%),8/28 (29%),4/14 (29%),63%,16,5,36,19,,2,-0.58,,,,6
+14317833,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,2730,US Avellino 1912,Visita,1ST,13/12/2025,16,0,36%,0.18,0,3,1,1,4,155,8,7,1,,1,0,1,1,2,1,,0,0,,1,1,119,13,13,,13/20 (65%),2/6 (33%),56%,2,17/29 (59%),6/12 (50%),3/9 (33%),75%,8,3,18,15,,1,,,,,2
+14317833,53,79502,NORMAL,REGULAR,Round 16,LEAGUE,2730,US Avellino 1912,Visita,2ND,13/12/2025,16,0,53%,0.08,0,3,1,1,11,217,8,6,1,,1,1,1,1,2,1,,0,0,,2,0,185,15,29,,16/26 (62%),1/12 (8%),33%,3,15/36 (42%),2/16 (13%),1/5 (20%),50%,8,2,18,4,,1,,,,,4
+14317839,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,2730,US Avellino 1912,Local,ALL,20/12/2025,17,2,53%,1.74,4,12,1,4,15,401,5,22,4,0,9,0,1,2,8,4,1,3,1,21,4,3,331,15,44,70/96 (73%),17/51 (33%),3/19 (16%),48%,3,31/58 (53%),10/28 (36%),6/15 (40%),60%,5,3,30,19,0,1,-0.35,0,0,,10
+14317839,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,2730,US Avellino 1912,Local,1ST,20/12/2025,17,1,53%,1.22,2,5,0,1,6,231,2,9,0,0,2,0,1,2,3,2,1,1,1,,1,1,196,10,15,,11/22 (50%),0/8 (0%),44%,2,12/25 (48%),5/14 (36%),2/8 (25%),50%,2,2,12,13,,0,,,,,7
+14317839,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,2730,US Avellino 1912,Local,2ND,20/12/2025,17,1,53%,0.52,2,7,1,3,9,170,3,13,4,0,7,0,0,0,5,2,0,2,0,,3,2,135,5,29,,6/29 (21%),3/11 (27%),51%,1,19/33 (58%),5/14 (36%),4/7 (57%),67%,3,1,18,6,,1,,,,,3
+14317839,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,2715,Palermo,Visita,ALL,20/12/2025,17,2,47%,1.78,3,14,6,4,22,355,12,14,4,1,3,0,7,4,12,2,1,2,0,22,1,0,290,14,38,50/75 (67%),11/33 (33%),7/17 (41%),52%,3,27/58 (47%),18/28 (64%),3/5 (60%),67%,12,10,33,25,1,6,0.31,1,1,,4
+14317839,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,2715,Palermo,Visita,1ST,20/12/2025,17,0,47%,0.52,1,5,1,1,9,204,8,6,1,0,0,0,4,1,4,1,0,1,0,,0,0,175,8,20,,5/15 (33%),3/10 (30%),56%,1,13/25 (52%),9/14 (64%),1/2 (50%),63%,8,2,15,13,,1,,,,,1
+14317839,53,79502,NORMAL,REGULAR,Round 17,LEAGUE,2715,Palermo,Visita,2ND,20/12/2025,17,2,47%,1.26,2,9,5,3,13,151,4,8,3,1,3,0,3,3,8,1,1,1,0,,1,0,115,6,18,,6/18 (33%),4/7 (57%),49%,2,14/33 (42%),9/14 (64%),2/3 (67%),75%,4,8,18,12,,5,,,,,3
+14317688,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,2712,Bari,Local,ALL,27/12/2025,18,1,40%,1.33,1,10,3,3,23,302,23,21,3,,4,0,5,1,7,3,0,1,,15,3,1,201,18,56,64/114 (56%),17/53 (32%),5/18 (28%),51%,10,44/92 (48%),21/36 (58%),4/12 (33%),57%,23,19,56,39,,3,-0.13,,1,1,7
+14317688,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,2712,Bari,Local,1ST,27/12/2025,18,0,41%,1.10,1,5,0,1,15,148,10,12,0,,2,0,3,0,5,0,0,1,,,3,0,93,7,31,,7/31 (23%),3/7 (43%),45%,5,23/52 (44%),7/14 (50%),2/5 (40%),60%,10,13,26,13,,0,,,,,4
+14317688,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,2712,Bari,Local,2ND,27/12/2025,18,1,39%,0.23,0,5,3,2,8,154,13,9,3,,2,0,2,1,2,3,0,0,,,0,1,108,11,25,,10/22 (45%),2/11 (18%),56%,5,21/40 (53%),14/22 (64%),2/7 (29%),54%,13,6,30,26,,3,,,,,3
+14317688,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,2730,US Avellino 1912,Visita,ALL,27/12/2025,18,1,60%,0.69,1,11,3,3,21,450,18,23,3,,4,0,3,4,3,8,1,0,,32,1,0,347,30,65,98/147 (67%),21/59 (36%),5/29 (17%),49%,13,48/92 (52%),15/36 (42%),9/19 (47%),78%,18,12,49,35,,3,-0.25,,1,0,6
+14317688,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,2730,US Avellino 1912,Visita,1ST,27/12/2025,18,0,59%,0.05,0,3,2,2,12,216,8,15,1,,0,0,2,1,2,1,0,0,,,0,0,157,18,33,,12/34 (35%),1/7 (14%),55%,6,29/52 (56%),7/14 (50%),7/11 (64%),75%,8,4,21,11,,2,,,,,4
+14317688,53,79502,NORMAL,REGULAR,Round 18,LEAGUE,2730,US Avellino 1912,Visita,2ND,27/12/2025,18,1,61%,0.63,1,8,1,1,9,234,10,8,2,,4,0,1,3,1,7,1,0,,,1,0,190,12,32,,9/25 (36%),4/22 (18%),44%,7,19/40 (48%),8/22 (36%),2/8 (25%),80%,10,8,28,24,,1,,,,,2
+14317684,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,2730,US Avellino 1912,Local,ALL,10/01/2026,19,2,49%,0.74,1,7,4,5,15,410,12,17,3,,3,0,2,2,4,3,1,,,13,2,1,314,24,58,78/111 (70%),46/97 (47%),5/18 (28%),52%,7,30/56 (54%),17/35 (49%),2/4 (50%),75%,12,14,37,29,2,4,0.55,2,3,,14
+14317684,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,2730,US Avellino 1912,Local,1ST,10/01/2026,19,1,57%,0.19,0,3,2,4,5,244,2,9,1,,1,0,1,1,1,2,0,,,,2,1,191,18,38,,26/53 (49%),3/11 (27%),49%,2,10/18 (56%),7/17 (41%),0/1 (0%),100%,2,3,12,11,,2,,,,,7
+14317684,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,2730,US Avellino 1912,Local,2ND,10/01/2026,19,1,41%,0.56,1,4,2,1,10,166,10,8,2,,2,0,1,1,3,1,1,,,,0,0,123,6,20,,20/44 (45%),2/7 (29%),54%,5,20/38 (53%),10/18 (56%),2/3 (67%),70%,10,11,25,18,,2,,,,,7
+14317684,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,2711,Sampdoria,Visita,ALL,10/01/2026,19,1,51%,1.74,1,21,1,2,17,418,9,14,3,,5,0,11,5,8,13,1,,,28,2,2,343,17,59,94/132 (71%),16/41 (39%),6/30 (20%),48%,4,26/56 (46%),18/35 (51%),3/11 (27%),78%,9,9,48,21,0,1,-0.83,0,1,,4
+14317684,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,2711,Sampdoria,Visita,1ST,10/01/2026,19,0,43%,0.52,0,9,0,0,9,178,3,5,1,,2,0,5,2,5,4,0,,,,1,0,138,11,20,,5/23 (22%),2/13 (15%),51%,0,8/18 (44%),10/17 (59%),0/2 (0%),67%,3,5,18,18,,0,,,,,3
+14317684,53,79502,NORMAL,REGULAR,Round 19,LEAGUE,2711,Sampdoria,Visita,2ND,10/01/2026,19,1,59%,1.22,1,12,1,2,8,240,6,9,2,,3,0,6,3,3,9,1,,,,1,2,205,6,39,,11/18 (61%),4/17 (24%),46%,4,18/38 (47%),8/18 (44%),3/9 (33%),83%,6,4,30,3,,1,,,,,1
+14317685,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,2730,US Avellino 1912,Local,ALL,17/01/2026,20,1,58%,0.65,0,13,4,6,14,521,18,11,1,,5,0,4,4,5,8,0,,0,11,2,0,449,18,62,81/113 (72%),43/74 (58%),4/21 (19%),51%,6,41/82 (50%),11/19 (58%),12/25 (48%),72%,18,9,54,19,,4,-0.14,2,2,0,6
+14317685,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,2730,US Avellino 1912,Local,1ST,17/01/2026,20,1,56%,0.25,0,5,1,3,6,238,8,3,0,,1,0,3,1,2,3,0,,0,,0,0,205,8,31,,29/43 (67%),2/9 (22%),54%,2,18/34 (53%),4/7 (57%),7/14 (50%),88%,8,4,23,7,,1,,,,,3
+14317685,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,2730,US Avellino 1912,Local,2ND,17/01/2026,20,0,59%,0.40,0,8,3,3,8,283,10,8,1,,4,0,1,3,3,5,0,,0,,2,0,244,10,31,,14/31 (45%),2/12 (17%),50%,4,23/48 (48%),7/12 (58%),5/11 (45%),60%,10,5,31,12,,3,,,,,3
+14317685,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,2745,Carrarese,Visita,ALL,17/01/2026,20,2,42%,0.78,1,12,4,4,11,380,19,14,2,,6,0,4,2,5,7,1,,1,14,3,1,303,14,33,68/95 (72%),18/49 (37%),2/20 (10%),49%,8,41/82 (50%),8/19 (42%),9/19 (47%),74%,19,7,51,21,,4,-0.61,1,1,1,10
+14317685,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,2745,Carrarese,Visita,1ST,17/01/2026,20,1,44%,0.15,0,6,0,4,3,186,9,6,1,,2,0,2,2,1,5,0,,0,,1,1,151,4,11,,10/23 (43%),1/12 (8%),46%,5,16/34 (47%),3/7 (43%),1/4 (25%),67%,9,5,22,8,,0,,,,,5
+14317685,53,79502,NORMAL,REGULAR,Round 20,LEAGUE,2745,Carrarese,Visita,2ND,17/01/2026,20,1,41%,0.63,1,6,4,0,8,194,10,8,1,,4,0,2,0,4,2,1,,1,,2,0,152,10,22,,8/26 (31%),1/8 (13%),50%,3,25/48 (52%),5/12 (42%),8/15 (53%),80%,10,2,29,13,,4,,,,,5
+14317892,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,2735,Spezia,Local,ALL,24/01/2026,21,1,42%,1.03,1,12,1,3,17,322,15,14,3,,1,0,4,7,9,3,1,,0,21,2,2,233,14,53,54/97 (56%),7/40 (18%),1/10 (10%),46%,12,33/74 (45%),20/40 (50%),6/13 (46%),67%,15,14,49,38,1,1,0.05,,,,7
+14317892,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,2735,Spezia,Local,1ST,24/01/2026,21,1,49%,0.61,1,4,0,0,9,198,9,5,2,,1,0,1,2,4,0,1,,0,,1,0,153,7,27,,4/20 (20%),0/4 (0%),47%,5,19/39 (49%),8/18 (44%),5/10 (50%),67%,9,8,23,17,,0,,,,,3
+14317892,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,2735,Spezia,Local,2ND,24/01/2026,21,0,35%,0.42,0,8,1,3,8,124,6,9,1,,0,0,3,5,5,3,0,,0,,1,2,80,7,26,,3/20 (15%),1/6 (17%),46%,7,14/35 (40%),12/22 (55%),1/3 (33%),67%,6,6,26,21,,1,,,,,4
+14317892,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,2730,US Avellino 1912,Visita,ALL,24/01/2026,21,0,58%,0.47,0,11,0,9,14,437,19,17,4,,1,0,5,5,6,5,0,,2,18,4,4,335,29,43,60/100 (60%),34/58 (59%),7/30 (23%),54%,10,41/74 (55%),20/40 (50%),7/12 (58%),47%,19,8,35,24,0,0,-0.23,,,,8
+14317892,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,2730,US Avellino 1912,Visita,1ST,24/01/2026,21,0,51%,0.10,0,4,0,4,5,202,10,9,2,,0,0,3,1,1,3,0,,2,,3,2,161,16,19,,18/27 (67%),4/15 (27%),53%,5,20/39 (51%),10/18 (56%),2/6 (33%),40%,10,6,21,11,,0,,,,,2
+14317892,53,79502,NORMAL,REGULAR,Round 21,LEAGUE,2730,US Avellino 1912,Visita,2ND,24/01/2026,21,0,65%,0.36,0,7,0,5,9,235,9,8,2,,1,0,2,4,5,2,0,,0,,1,2,174,13,24,,16/31 (52%),3/15 (20%),54%,5,21/35 (60%),10/22 (45%),5/6 (83%),56%,9,2,14,13,,0,,,,,6
+14317897,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,2730,US Avellino 1912,Local,ALL,31/01/2026,22,3,49%,1.63,3,11,3,7,9,491,22,14,1,,5,2,5,1,6,5,1,2,0,16,3,0,403,15,45,94/127 (74%),22/68 (32%),3/17 (18%),54%,5,44/76 (58%),11/26 (42%),11/17 (65%),50%,22,11,57,15,,3,0.46,1,4,,9
+14317897,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,2730,US Avellino 1912,Local,1ST,31/01/2026,22,2,50%,0.28,0,5,2,3,4,232,10,4,0,,3,0,1,1,1,4,0,0,0,,1,0,196,9,24,,12/32 (38%),1/12 (8%),46%,3,17/32 (53%),2/9 (22%),3/5 (60%),60%,10,2,27,7,,2,,,,,3
+14317897,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,2730,US Avellino 1912,Local,2ND,31/01/2026,22,1,49%,1.34,3,6,1,4,5,259,12,10,1,,2,2,4,0,5,1,1,2,0,,2,0,207,6,21,,10/36 (28%),2/5 (40%),59%,2,27/44 (61%),9/17 (53%),8/12 (67%),42%,12,9,30,8,,1,,,,,6
+14317897,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,2742,Cesena,Visita,ALL,31/01/2026,22,1,51%,1.08,3,11,2,4,14,498,11,9,2,,5,1,3,3,8,3,1,2,2,26,1,1,420,12,59,104/145 (72%),34/58 (59%),4/24 (17%),46%,14,32/76 (42%),15/26 (58%),13/21 (62%),55%,11,16,55,14,,2,-0.83,0,2,,7
+14317897,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,2742,Cesena,Visita,1ST,31/01/2026,22,1,50%,0.46,1,6,1,2,4,233,5,4,2,,3,1,2,1,5,1,1,0,1,,1,1,203,6,24,,16/28 (57%),3/11 (27%),54%,7,15/32 (47%),7/9 (78%),7/10 (70%),80%,5,9,24,7,,1,,,,,4
+14317897,53,79502,NORMAL,REGULAR,Round 22,LEAGUE,2742,Cesena,Visita,2ND,31/01/2026,22,0,51%,0.62,2,5,1,2,10,265,6,5,0,,2,0,1,2,3,2,0,2,1,,1,0,217,6,35,,18/30 (60%),1/13 (8%),41%,7,17/44 (39%),8/17 (47%),6/11 (55%),33%,6,7,31,7,,1,,,,,3
+14317708,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,2729,Monza,Local,ALL,08/02/2026,23,2,58%,3.08,5,33,1,15,10,440,15,13,0,,9,0,11,13,24,9,2,3,0,57,3,3,362,18,58,128/166 (77%),27/48 (56%),15/36 (42%),56%,14,40/77 (52%),29/47 (62%),12/20 (60%),60%,15,8,52,18,0,1,-0.48,1,0,1,1
+14317708,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,2729,Monza,Local,1ST,08/02/2026,23,0,56%,0.63,0,13,1,6,7,219,6,5,0,,2,0,7,4,8,5,0,0,0,,1,1,184,8,35,,11/22 (50%),4/14 (29%),54%,1,17/32 (53%),11/20 (55%),6/8 (75%),50%,6,2,24,7,,1,,,,,1
+14317708,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,2729,Monza,Local,2ND,08/02/2026,23,2,60%,2.45,5,20,0,9,3,221,9,8,0,,7,0,4,9,16,4,2,3,0,,2,2,178,10,23,,16/26 (62%),11/22 (50%),57%,13,23/45 (51%),18/27 (67%),6/12 (50%),67%,9,6,28,11,,0,,,,,0
+14317708,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,2730,US Avellino 1912,Visita,ALL,08/02/2026,23,1,42%,0.21,0,3,7,2,14,341,22,10,3,,2,0,1,0,2,1,0,0,1,6,0,3,249,13,47,39/75 (52%),25/62 (40%),1/8 (13%),44%,6,37/77 (48%),18/47 (38%),5/14 (36%),64%,22,12,44,43,1,7,2.27,4,1,2,13
+14317708,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,2730,US Avellino 1912,Visita,1ST,08/02/2026,23,0,44%,0.14,0,2,2,2,5,180,3,7,1,,1,0,1,0,2,0,0,0,1,,0,2,143,6,15,,14/31 (45%),1/5 (20%),46%,1,15/32 (47%),9/20 (45%),5/10 (50%),100%,3,4,19,18,,2,,,,,7
+14317708,53,79502,NORMAL,REGULAR,Round 23,LEAGUE,2730,US Avellino 1912,Visita,2ND,08/02/2026,23,1,40%,0.06,0,1,5,0,9,161,19,3,2,,1,0,0,0,0,1,0,0,0,,0,1,106,7,32,,11/31 (35%),0/3 (0%),43%,5,22/45 (49%),9/27 (33%),0/4 (0%),58%,19,8,25,25,,5,,,,,6
+14317712,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,2730,US Avellino 1912,Local,ALL,11/02/2026,24,1,60%,1.09,2,15,2,6,13,433,18,14,2,,6,1,6,3,11,4,1,1,,26,1,3,347,32,52,74/111 (67%),32/64 (50%),11/28 (39%),53%,11,39/78 (50%),18/29 (62%),9/19 (47%),72%,18,4,52,33,,2,0.41,0,0,,10
+14317712,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,2730,US Avellino 1912,Local,1ST,11/02/2026,24,0,58%,0.30,0,5,1,3,5,231,10,7,1,,2,0,3,0,5,0,0,0,,,1,2,191,17,28,,16/36 (44%),5/12 (42%),53%,4,19/35 (54%),6/12 (50%),4/9 (44%),70%,10,3,22,11,,1,,,,,4
+14317712,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,2730,US Avellino 1912,Local,2ND,11/02/2026,24,1,62%,0.79,2,10,1,3,8,202,8,7,1,,4,1,3,3,6,4,1,1,,,0,1,156,15,24,,16/28 (57%),6/16 (38%),53%,7,20/43 (47%),12/17 (71%),5/10 (50%),75%,8,1,30,22,,1,,,,,6
+14317712,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,2801,Frosinone,Visita,ALL,11/02/2026,24,3,40%,2.76,4,16,5,4,14,292,21,13,1,,5,0,7,4,10,6,3,1,,30,2,0,219,20,66,80/123 (65%),20/53 (38%),1/13 (8%),47%,8,39/78 (50%),11/29 (38%),6/16 (38%),86%,21,12,50,22,,5,0.45,2,2,,10
+14317712,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,2801,Frosinone,Visita,1ST,11/02/2026,24,2,42%,1.84,3,10,2,1,7,167,9,5,0,,3,0,3,4,6,4,2,1,,,1,0,138,9,35,,12/25 (48%),1/3 (33%),47%,3,16/35 (46%),6/12 (50%),2/9 (22%),89%,9,5,22,10,,2,,,,,6
+14317712,53,79502,NORMAL,REGULAR,Round 24,LEAGUE,2801,Frosinone,Visita,2ND,11/02/2026,24,1,38%,0.92,1,6,3,3,7,125,12,8,1,,2,0,4,0,4,2,1,0,,,1,0,81,11,31,,8/28 (29%),0/10 (0%),47%,5,23/43 (53%),5/17 (29%),4/7 (57%),83%,12,7,28,12,,3,,,,,4
+14317765,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,2730,US Avellino 1912,Local,ALL,15/02/2026,25,0,60%,0.66,1,11,2,6,17,415,24,18,4,,2,0,6,3,6,5,,1,,14,3,0,331,28,44,62/96 (65%),22/47 (47%),6/32 (19%),57%,9,51/83 (61%),23/47 (49%),13/17 (76%),50%,24,10,46,21,,2,-0.15,,1,,15
+14317765,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,2730,US Avellino 1912,Local,1ST,15/02/2026,25,0,53%,0.33,1,3,2,2,10,162,12,7,4,,1,0,1,1,3,1,,1,,,2,0,120,12,13,,7/23 (30%),3/13 (23%),55%,6,26/45 (58%),12/24 (50%),8/10 (80%),58%,12,3,22,11,,2,,,,,10
+14317765,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,2730,US Avellino 1912,Local,2ND,15/02/2026,25,0,66%,0.33,0,8,0,4,7,253,12,11,0,,1,0,5,2,3,5,,0,,,1,0,211,16,31,,15/24 (63%),3/19 (16%),59%,3,25/38 (66%),11/23 (48%),5/7 (71%),42%,12,7,24,10,,0,,,,,5
+14317765,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,7935,Pescara,Visita,ALL,15/02/2026,25,1,40%,1.01,1,16,1,4,18,280,13,17,4,,3,0,9,4,7,9,,1,,28,3,1,215,23,49,49/81 (60%),27/49 (55%),5/16 (31%),43%,11,32/83 (39%),24/47 (51%),5/18 (28%),54%,13,9,50,30,,1,0.07,,0,,11
+14317765,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,7935,Pescara,Visita,1ST,15/02/2026,25,0,47%,0.67,1,11,0,4,7,150,8,10,1,,2,0,7,2,5,6,,1,,,2,0,119,9,27,,11/23 (48%),4/10 (40%),45%,9,19/45 (42%),12/24 (50%),3/6 (50%),75%,8,3,26,14,,0,,,,,4
+14317765,53,79502,NORMAL,REGULAR,Round 25,LEAGUE,7935,Pescara,Visita,2ND,15/02/2026,25,1,34%,0.34,0,5,1,0,11,130,5,7,3,,1,0,2,2,2,3,,0,,,1,1,96,14,22,,16/26 (62%),1/6 (17%),41%,2,13/38 (34%),12/23 (52%),2/12 (17%),20%,5,6,24,16,,1,,,,,7
+14317566,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,24516,Reggiana,Local,ALL,22/02/2026,26,1,47%,0.82,1,9,1,1,10,413,13,15,2,,3,0,5,1,3,6,1,0,,8,2,2,354,19,41,67/88 (76%),26/54 (48%),1/8 (0%),49%,16,35/69 (51%),15/33 (45%),9/16 (56%),62%,13,8,33,31,1,1,-0.78,,3,,9
+14317566,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,24516,Reggiana,Local,1ST,22/02/2026,26,1,51%,0.76,1,7,1,0,3,225,5,5,1,,2,0,4,1,3,4,1,0,,,0,1,199,11,17,,16/28 (57%),1/3 (0%),51%,8,16/33 (48%),6/10 (60%),7/12 (58%),60%,5,3,19,14,,1,,,,,5
+14317566,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,24516,Reggiana,Local,2ND,22/02/2026,26,0,44%,0.06,0,2,0,1,7,188,8,10,1,,1,0,1,0,1,2,0,0,,,2,1,155,8,24,,10/26 (38%),1/5 (0%),47%,8,19/36 (53%),9/23 (39%),2/4 (50%),63%,8,5,14,17,,0,,,,,4
+14317566,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,2730,US Avellino 1912,Visita,ALL,22/02/2026,26,1,53%,0.39,1,7,2,8,15,442,23,10,1,,2,0,1,4,2,5,0,1,,13,6,0,358,23,66,85/136 (63%),27/52 (52%),6/33 (18%),51%,6,34/69 (49%),18/33 (55%),2/9 (22%),39%,23,8,32,18,0,2,-0.19,,0,,9
+14317566,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,2730,US Avellino 1912,Visita,1ST,22/02/2026,26,1,49%,0.12,0,4,1,5,5,203,13,3,1,,1,0,1,2,0,4,0,0,,,2,0,166,8,29,,12/23 (52%),3/20 (15%),49%,3,17/33 (52%),4/10 (40%),1/3 (33%),46%,13,5,20,8,,1,,,,,6
+14317566,53,79502,NORMAL,REGULAR,Round 26,LEAGUE,2730,US Avellino 1912,Visita,2ND,22/02/2026,26,0,56%,0.27,1,3,1,3,10,239,10,7,0,,1,0,0,2,2,1,0,1,,,4,0,192,15,37,,15/29 (52%),3/13 (23%),53%,3,17/36 (47%),14/23 (61%),1/6 (17%),30%,10,3,12,10,,1,,,,,3
+14317559,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,2730,US Avellino 1912,Local,ALL,28/02/2026,27,0,45%,0.54,1,11,2,6,21,395,10,17,3,,3,0,6,2,6,5,,1,,11,2,1,335,12,51,93/116 (80%),20/46 (43%),7/27 (26%),44%,3,23/56 (41%),14/28 (50%),0/3 (0%),40%,10,10,33,12,0,2,0.56,0,1,,4
+14317559,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,2730,US Avellino 1912,Local,1ST,28/02/2026,27,0,49%,0.41,1,7,1,4,8,249,7,8,0,,2,0,4,1,4,3,,1,,,0,0,219,4,28,,6/22 (27%),5/17 (29%),50%,3,14/27 (52%),6/13 (46%),0/0 (0%),29%,7,3,18,7,,1,,,,,3
+14317559,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,2730,US Avellino 1912,Local,2ND,28/02/2026,27,0,39%,0.14,0,4,1,2,13,146,3,9,3,,1,0,2,1,2,2,,0,,,2,1,116,8,23,,14/24 (58%),2/10 (20%),39%,1,9/29 (31%),8/15 (53%),0/3 (0%),67%,3,7,15,5,,1,,,,,1
+14317559,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,5324,Juve Stabia,Visita,ALL,28/02/2026,27,0,55%,0.17,0,5,3,2,17,511,6,21,1,,2,0,2,1,3,2,,0,,5,4,0,445,16,37,39/60 (65%),19/47 (40%),1/12 (8%),56%,6,33/56 (59%),14/28 (50%),9/13 (69%),50%,6,2,35,23,2,3,0.71,1,1,,6
+14317559,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,5324,Juve Stabia,Visita,1ST,28/02/2026,27,0,51%,0.08,0,3,2,1,8,270,3,8,0,,1,0,2,0,1,2,,0,,,2,0,235,5,25,,12/26 (46%),1/6 (17%),50%,4,13/27 (48%),7/13 (54%),3/6 (50%),33%,3,0,17,10,,2,,,,,5
+14317559,53,79502,NORMAL,REGULAR,Round 27,LEAGUE,5324,Juve Stabia,Visita,2ND,28/02/2026,27,0,61%,0.08,0,2,1,1,9,241,3,13,1,,1,0,0,1,2,0,,0,,,2,0,210,11,12,,7/21 (33%),0/6 (0%),61%,2,20/29 (69%),7/15 (47%),6/7 (86%),67%,3,2,18,13,,1,,,,,1
+14317741,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,2688,Venezia,Local,ALL,03/03/2026,28,4,73%,1.89,5,25,0,3,11,736,15,9,1,0,5,1,9,11,12,13,1,4,,50,3,2,694,18,59,257/287 (90%),21/23 (91%),3/12 (25%),49%,11,37/79 (47%),12/22 (55%),13/30 (43%),53%,15,4,53,6,1,0,0.00,,0,,3
+14317741,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,2688,Venezia,Local,1ST,03/03/2026,28,3,74%,0.91,3,11,0,0,6,374,7,4,1,0,4,1,5,2,4,7,1,2,,,1,0,350,8,28,,11/12 (92%),0/6 (0%),48%,8,15/36 (42%),7/10 (70%),4/10 (40%),43%,7,2,24,0,,0,,,,,3
+14317741,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,2688,Venezia,Local,2ND,03/03/2026,28,1,71%,0.98,2,14,0,3,5,362,8,5,0,0,1,0,4,9,8,6,0,2,,,2,2,344,10,31,,10/11 (91%),3/6 (50%),49%,3,22/43 (51%),5/12 (42%),9/20 (45%),63%,8,2,29,6,,0,,,,,0
+14317741,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,2730,US Avellino 1912,Visita,ALL,03/03/2026,28,0,27%,0.13,0,3,1,0,9,276,28,11,2,2,0,0,2,1,0,3,0,0,,1,1,0,199,16,33,20/45 (44%),26/58 (45%),0/3 (0%),51%,8,42/79 (53%),10/22 (45%),3/10 (30%),68%,28,6,40,27,1,1,-2.16,,1,,12
+14317741,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,2730,US Avellino 1912,Visita,1ST,03/03/2026,28,0,26%,0.09,0,2,1,0,4,130,14,6,0,1,0,0,2,0,0,2,0,0,,,1,0,90,9,18,,13/29 (45%),0/0 (0%),52%,5,21/36 (58%),3/10 (30%),1/3 (33%),57%,14,4,16,17,,1,,,,,6
+14317741,53,79502,NORMAL,REGULAR,Round 28,LEAGUE,2730,US Avellino 1912,Visita,2ND,03/03/2026,28,0,29%,0.03,0,1,0,0,5,146,14,5,2,1,0,0,0,1,0,1,0,0,,,0,0,109,7,15,,13/29 (45%),0/3 (0%),51%,3,21/43 (49%),7/12 (58%),2/7 (29%),79%,14,2,24,10,,0,,,,,6
+14317744,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,2730,US Avellino 1912,Local,ALL,07/03/2026,29,1,62%,1.75,2,19,1,9,12,518,14,16,3,,5,1,9,5,13,6,,2,,44,2,3,437,23,59,153/192 (80%),34/55 (62%),8/45 (18%),56%,4,37/65 (57%),18/34 (53%),10/22 (45%),71%,14,6,42,13,,1,0.41,,0,,7
+14317744,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,2730,US Avellino 1912,Local,1ST,07/03/2026,29,0,55%,1.04,1,11,0,2,9,213,6,9,2,,2,1,6,3,6,5,,1,,,1,2,175,12,23,,11/22 (50%),4/21 (19%),49%,3,20/38 (53%),6/15 (40%),6/13 (46%),83%,6,2,24,6,,0,,,,,3
+14317744,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,2730,US Avellino 1912,Local,2ND,07/03/2026,29,1,68%,0.71,1,8,1,7,3,305,8,7,1,,3,0,3,2,7,1,,1,,,1,1,262,11,36,,23/33 (70%),4/24 (17%),63%,1,17/27 (63%),12/19 (63%),4/9 (44%),63%,8,4,18,7,,1,,,,,4
+14317744,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,2741,Padova,Visita,ALL,07/03/2026,29,0,38%,0.60,2,6,4,3,16,326,16,12,3,,1,1,3,2,3,3,,2,,9,1,0,247,15,46,46/79 (58%),23/56 (41%),2/10 (20%),44%,8,28/65 (43%),16/34 (47%),1/7 (14%),44%,16,11,39,50,,4,0.15,,2,,9
+14317744,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,2741,Padova,Visita,1ST,07/03/2026,29,0,45%,0.38,1,3,2,1,9,184,10,9,0,,0,0,2,1,2,1,,1,,,0,0,138,6,28,,13/30 (43%),1/3 (33%),51%,3,18/38 (47%),9/15 (60%),0/3 (0%),60%,10,5,19,20,,2,,,,,5
+14317744,53,79502,NORMAL,REGULAR,Round 29,LEAGUE,2741,Padova,Visita,2ND,07/03/2026,29,0,32%,0.22,1,3,2,2,7,142,6,3,3,,1,1,1,1,1,2,,1,,,1,0,109,9,18,,10/26 (38%),1/7 (14%),37%,5,10/27 (37%),7/19 (37%),1/4 (25%),17%,6,6,20,30,,2,,,,,4
+14317756,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,43680,Virtus Entella,Local,ALL,15/03/2026,30,1,59%,1.40,1,19,1,7,16,498,17,17,1,,5,1,7,7,14,5,0,1,,24,4,1,421,20,66,111/148 (75%),41/72 (57%),9/33 (27%),48%,13,42/90 (47%),17/34 (50%),8/17 (47%),41%,17,4,46,15,1,1,-0.79,0,1,,6
+14317756,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,43680,Virtus Entella,Local,1ST,15/03/2026,30,0,50%,0.83,1,8,0,4,9,197,3,5,1,,3,1,3,2,7,1,0,1,,,1,0,161,8,27,,17/32 (53%),5/16 (31%),39%,4,12/34 (35%),7/15 (47%),4/8 (50%),100%,3,2,21,10,,0,,,,,4
+14317756,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,43680,Virtus Entella,Local,2ND,15/03/2026,30,1,67%,0.57,0,11,1,3,7,301,14,12,0,,2,0,4,5,7,4,0,0,,,3,1,260,12,39,,24/40 (60%),4/17 (24%),53%,9,30/56 (54%),10/19 (53%),4/9 (44%),29%,14,2,25,5,,1,,,,,2
+14317756,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,2730,US Avellino 1912,Visita,ALL,15/03/2026,30,2,41%,0.56,2,6,5,5,17,352,22,16,1,,3,0,2,1,4,2,1,1,,9,1,3,277,23,46,50/76 (66%),28/68 (41%),3/16 (19%),52%,10,48/90 (53%),17/34 (50%),10/17 (59%),64%,22,4,44,41,1,5,0.94,1,0,,8
+14317756,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,2730,US Avellino 1912,Visita,1ST,15/03/2026,30,2,50%,0.54,2,5,3,4,5,201,8,9,1,,2,0,2,1,3,2,1,1,,,1,1,161,9,28,,12/30 (40%),3/11 (27%),61%,2,22/34 (65%),8/15 (53%),5/6 (83%),75%,8,4,22,18,,3,,,,,6
+14317756,53,79502,NORMAL,REGULAR,Round 30,LEAGUE,2730,US Avellino 1912,Visita,2ND,15/03/2026,30,0,33%,0.02,0,1,2,1,12,151,14,7,0,,1,0,0,0,1,0,0,0,,,1,2,116,14,18,,16/38 (42%),0/5 (0%),47%,8,26/56 (46%),9/19 (47%),5/11 (45%),57%,14,1,22,23,,2,,,,,2
+14317591,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,2730,US Avellino 1912,Local,ALL,18/03/2026,31,3,57%,2.06,4,8,1,2,14,370,20,28,5,,3,0,3,2,7,1,3,1,1,12,2,2,265,25,56,55/92 (60%),33/86 (38%),2/10 (20%),62%,5,52/76 (68%),19/39 (49%),6/14 (43%),60%,20,10,35,24,,1,-0.49,,0,0,6
+14317591,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,2730,US Avellino 1912,Local,1ST,18/03/2026,31,1,59%,0.17,1,1,1,0,5,218,13,16,0,,1,0,0,0,1,0,1,0,0,,0,2,161,12,28,,21/52 (40%),1/6 (17%),67%,3,29/38 (76%),13/25 (52%),2/5 (40%),69%,13,6,24,18,,1,,,,,3
+14317591,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,2730,US Avellino 1912,Local,2ND,18/03/2026,31,2,54%,1.89,3,7,0,2,9,152,7,12,5,,2,0,3,2,6,1,2,1,1,,2,0,104,13,28,,12/34 (35%),1/4 (25%),56%,2,23/38 (61%),6/14 (43%),4/9 (44%),43%,7,4,11,6,,0,,,,,3
+14317591,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,2760,Südtirol,Visita,ALL,18/03/2026,31,2,43%,1.53,2,10,0,2,28,270,13,13,6,,3,0,4,3,6,4,2,0,0,23,4,0,166,27,74,62/120 (52%),18/56 (32%),4/13 (31%),38%,7,24/76 (32%),20/39 (51%),2/15 (13%),62%,13,7,42,19,,0,-1.24,,2,1,4
+14317591,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,2760,Südtirol,Visita,1ST,18/03/2026,31,0,41%,0.30,0,4,0,0,16,148,6,5,2,,1,0,2,1,2,2,0,0,0,,0,0,94,13,42,,12/28 (43%),0/4 (0%),33%,4,9/38 (24%),12/25 (48%),0/9 (0%),50%,6,6,30,9,,0,,,,,0
+14317591,53,79502,NORMAL,REGULAR,Round 31,LEAGUE,2760,Südtirol,Visita,2ND,18/03/2026,31,2,46%,1.24,2,6,0,2,12,122,7,8,4,,2,0,2,2,4,2,2,0,0,,4,0,72,14,32,,6/28 (21%),4/9 (44%),44%,3,15/38 (39%),8/14 (57%),2/6 (33%),71%,7,1,12,10,,0,,,,,4
+14317617,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,2711,Sampdoria,Local,ALL,22/03/2026,32,2,47%,0.53,1,10,1,9,16,283,17,26,3,,5,0,3,2,6,4,0,,,19,7,2,204,19,42,53/80 (66%),23/50 (46%),5/25 (20%),54%,11,57/97 (59%),17/39 (44%),15/24 (63%),59%,17,11,41,20,,1,0.03,0,1,0,4
+14317617,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,2711,Sampdoria,Local,1ST,22/03/2026,32,0,49%,0.18,1,4,1,5,8,162,10,14,2,,1,0,3,0,1,3,0,,,,4,0,123,12,26,,12/27 (44%),2/15 (13%),55%,5,28/49 (57%),9/18 (50%),5/11 (45%),80%,10,4,21,9,,1,,,,,1
+14317617,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,2711,Sampdoria,Local,2ND,22/03/2026,32,2,44%,0.35,0,6,0,4,8,121,7,12,1,,4,0,0,2,5,1,0,,,,3,2,81,7,16,,11/23 (48%),3/10 (30%),54%,6,29/48 (60%),8/21 (38%),10/13 (77%),29%,7,7,20,11,,0,,,,,3
+14317617,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,2730,US Avellino 1912,Visita,ALL,22/03/2026,32,1,53%,0.32,1,3,3,3,26,331,20,16,4,,2,0,1,0,3,0,1,,,13,0,3,246,17,41,56/90 (62%),22/57 (39%),2/14 (14%),46%,11,40/97 (41%),22/39 (56%),5/11 (45%),55%,20,7,43,28,,3,-0.67,2,0,1,4
+14317617,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,2730,US Avellino 1912,Visita,1ST,22/03/2026,32,0,51%,0.12,0,2,1,2,14,172,11,8,2,,1,0,1,0,2,0,0,,,,0,1,123,10,18,,12/32 (38%),1/7 (14%),45%,7,21/49 (43%),9/18 (50%),3/6 (50%),55%,11,5,22,14,,1,,,,,3
+14317617,53,79502,NORMAL,REGULAR,Round 32,LEAGUE,2730,US Avellino 1912,Visita,2ND,22/03/2026,32,1,56%,0.20,1,1,2,1,12,159,9,8,2,,1,0,1,0,1,0,1,,,,0,2,123,7,23,,10/25 (40%),1/7 (14%),46%,4,19/48 (40%),13/21 (62%),2/5 (40%),56%,9,2,21,14,,2,,,,,1
+14317573,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,2715,Palermo,Local,ALL,05/04/2026,33,2,51%,0.68,2,10,1,1,14,406,14,15,2,0,3,0,7,0,6,4,1,1,,12,4,2,317,23,44,61/89 (69%),25/60 (42%),3/16 (19%),53%,2,42/74 (57%),24/50 (48%),13/22 (59%),64%,14,10,53,23,,1,0.07,,1,,4
+14317573,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,2715,Palermo,Local,1ST,05/04/2026,33,1,49%,0.41,2,6,0,0,5,199,11,8,1,0,1,0,5,0,4,2,1,1,,,2,0,151,11,27,,16/33 (48%),1/8 (13%),59%,1,29/43 (67%),10/23 (43%),10/16 (63%),64%,11,5,20,13,,0,,,,,4
+14317573,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,2715,Palermo,Local,2ND,05/04/2026,33,1,54%,0.27,0,4,1,1,9,207,3,7,1,0,2,0,2,0,2,2,0,0,,,2,2,166,12,17,,9/27 (33%),2/8 (25%),47%,2,13/31 (42%),14/27 (52%),3/6 (50%),67%,3,5,33,10,,1,,,,,0
+14317573,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,2730,US Avellino 1912,Visita,ALL,05/04/2026,33,0,49%,0.11,0,5,1,0,15,384,11,14,3,1,1,0,2,2,1,4,0,0,,8,2,3,286,21,54,57/100 (57%),15/51 (29%),3/14 (21%),47%,8,32/74 (43%),26/50 (52%),8/14 (57%),64%,11,8,51,18,,1,-1.08,,1,,7
+14317573,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,2730,US Avellino 1912,Visita,1ST,05/04/2026,33,0,51%,0.02,0,1,0,0,8,209,6,5,3,1,0,0,1,0,0,1,0,0,,,0,2,155,12,26,,4/23 (17%),1/5 (0%),41%,7,14/43 (33%),13/23 (57%),4/8 (50%),67%,6,5,25,10,,0,,,,,3
+14317573,53,79502,NORMAL,REGULAR,Round 33,LEAGUE,2730,US Avellino 1912,Visita,2ND,05/04/2026,33,0,46%,0.09,0,4,1,0,7,175,5,9,0,0,1,0,1,2,1,3,0,0,,,2,1,131,9,28,,11/28 (39%),3/9 (33%),53%,1,18/31 (58%),13/27 (48%),4/6 (67%),60%,5,3,26,8,,1,,,,,4
+14317561,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,2730,US Avellino 1912,Local,ALL,11/04/2026,34,1,43%,2.18,3,19,1,6,15,335,20,9,4,0,5,0,9,5,12,7,0,3,3,30,5,1,286,19,43,92/115 (80%),22/36 (61%),12/27 (44%),48%,5,35/80 (44%),12/18 (67%),6/13 (46%),50%,20,10,47,11,0,1,-0.40,,0,,7
+14317561,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,2730,US Avellino 1912,Local,1ST,11/04/2026,34,0,35%,0.54,1,6,1,2,11,163,7,5,3,0,1,0,4,1,4,2,0,1,2,,2,1,135,6,25,,10/18 (56%),2/9 (22%),44%,0,14/35 (40%),6/10 (60%),2/5 (40%),57%,7,7,28,7,,1,,,,,3
+14317561,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,2730,US Avellino 1912,Local,2ND,11/04/2026,34,1,56%,1.64,2,13,0,4,4,172,13,4,1,0,4,0,5,4,8,5,0,2,1,,3,0,151,13,18,,12/18 (67%),10/18 (56%),51%,5,21/45 (47%),6/8 (75%),4/8 (50%),46%,13,3,19,4,,0,,,,,4
+14317561,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,2796,Catanzaro,Visita,ALL,11/04/2026,34,1,57%,0.54,2,7,3,1,10,465,12,15,5,1,2,0,3,2,2,5,1,1,0,13,0,0,408,12,44,59/81 (73%),18/41 (44%),3/7 (43%),52%,9,45/80 (56%),6/18 (33%),19/30 (63%),67%,12,6,38,16,1,3,-0.08,,1,,14
+14317561,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,2796,Catanzaro,Visita,1ST,11/04/2026,34,0,65%,0.07,0,3,1,0,5,319,3,11,1,0,1,0,1,1,0,3,0,0,0,,0,0,285,7,24,,14/23 (61%),1/4 (25%),56%,2,21/35 (60%),4/10 (40%),8/13 (62%),67%,3,5,20,7,,1,,,,,7
+14317561,53,79502,NORMAL,REGULAR,Round 34,LEAGUE,2796,Catanzaro,Visita,2ND,11/04/2026,34,1,44%,0.47,2,4,2,1,5,146,9,4,4,1,1,0,2,1,2,2,1,1,0,,0,0,123,5,20,,4/18 (22%),2/3 (67%),49%,7,24/45 (53%),2/8 (25%),11/17 (65%),67%,9,1,18,9,,2,,,,,7
+14317579,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,2770,Mantova,Local,ALL,18/04/2026,35,0,64%,1.40,2,12,1,10,18,563,14,12,1,,3,0,3,6,9,3,,2,1,33,,0,465,20,74,95/153 (62%),27/57 (47%),6/18 (33%),48%,12,38/82 (46%),23/44 (52%),13/23 (57%),50%,14,6,54,10,,1,-1.18,0,0,0,5
+14317579,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,2770,Mantova,Local,1ST,18/04/2026,35,0,63%,1.29,2,10,1,7,8,264,3,3,0,,2,0,3,5,8,2,,2,0,,,0,226,4,31,,12/24 (50%),5/12 (42%),42%,7,15/35 (43%),7/17 (41%),9/11 (82%),67%,3,3,22,6,,1,,,,,3
+14317579,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,2770,Mantova,Local,2ND,18/04/2026,35,0,66%,0.11,0,2,0,3,10,299,11,9,1,,1,0,0,1,1,1,,0,1,,,0,239,16,43,,15/33 (45%),1/6 (17%),53%,5,23/47 (49%),16/27 (59%),4/12 (33%),45%,11,3,32,4,,0,,,,,2
+14317579,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,2730,US Avellino 1912,Visita,ALL,18/04/2026,35,2,36%,0.36,0,6,3,2,12,318,22,18,0,,3,0,2,1,3,3,,0,0,9,,3,226,10,53,39/77 (51%),21/67 (31%),1/7 (14%),52%,7,44/82 (54%),21/44 (48%),6/13 (46%),86%,22,8,53,28,,3,0.78,2,1,1,9
+14317579,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,2730,US Avellino 1912,Visita,1ST,18/04/2026,35,0,37%,0.16,0,3,2,1,3,161,9,8,0,,1,0,1,1,2,1,,0,0,,,2,123,4,18,,13/34 (38%),0/4 (0%),58%,1,20/35 (57%),10/17 (59%),5/7 (71%),67%,9,2,19,16,,2,,,,,6
+14317579,53,79502,NORMAL,REGULAR,Round 35,LEAGUE,2730,US Avellino 1912,Visita,2ND,18/04/2026,35,2,34%,0.20,0,3,1,1,9,157,13,10,0,,2,0,1,0,1,2,,0,0,,,1,103,6,35,,8/33 (24%),1/3 (33%),47%,6,24/47 (51%),11/27 (41%),1/6 (17%),100%,13,6,34,12,,1,,,,,3
+14317598,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,2730,US Avellino 1912,Local,ALL,24/04/2026,36,2,60%,2.81,8,18,0,8,13,489,17,13,2,,6,0,10,2,14,4,2,6,,32,2,1,414,12,48,132/162 (81%),36/62 (58%),3/29 (10%),50%,2,33/57 (58%),24/56 (43%),5/12 (42%),59%,17,6,43,18,1,0,0.00,0,2,0,8
+14317598,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,2730,US Avellino 1912,Local,1ST,24/04/2026,36,0,62%,0.68,3,9,0,4,6,264,4,7,1,,2,0,6,1,7,2,0,3,,,1,1,228,7,25,,23/34 (68%),2/17 (12%),54%,1,13/23 (57%),15/29 (52%),3/6 (50%),25%,4,2,16,10,,0,,,,,4
+14317598,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,2730,US Avellino 1912,Local,2ND,24/04/2026,36,2,57%,2.13,5,9,0,4,7,225,13,6,1,,4,0,4,1,7,2,2,3,,,1,0,186,5,23,,13/28 (46%),1/12 (8%),48%,2,20/34 (59%),9/27 (33%),2/6 (33%),69%,13,4,27,8,,0,,,,,4
+14317598,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,2712,Bari,Visita,ALL,24/04/2026,36,0,40%,0.51,1,9,5,4,13,324,9,13,2,,0,0,6,3,4,5,0,1,,12,2,1,255,19,44,42/69 (61%),23/45 (51%),7/21 (33%),50%,6,24/57 (42%),32/56 (57%),4/15 (27%),56%,9,4,40,39,0,5,-0.02,2,1,3,9
+14317598,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,2712,Bari,Visita,1ST,24/04/2026,36,0,38%,0.04,0,3,3,1,7,158,3,6,1,,0,0,3,0,2,1,0,0,,,1,0,121,7,27,,10/23 (43%),2/9 (22%),46%,2,10/23 (43%),14/29 (48%),1/3 (33%),67%,3,2,20,22,,3,,,,,4
+14317598,53,79502,NORMAL,REGULAR,Round 36,LEAGUE,2712,Bari,Visita,2ND,24/04/2026,36,0,43%,0.47,1,6,2,3,6,166,6,7,1,,0,0,3,3,2,4,0,1,,,1,1,134,12,17,,13/22 (59%),5/12 (42%),52%,4,14/34 (41%),18/27 (67%),3/12 (25%),50%,6,2,20,17,,2,,,,,5
+14317631,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,2705,Empoli,Local,ALL,01/05/2026,37,1,43%,2.35,4,17,2,4,21,308,11,21,3,0,9,0,3,5,13,4,1,3,,32,8,2,219,19,55,63/110 (57%),22/55 (40%),8/20 (40%),53%,13,40/85 (47%),29/45 (64%),12/17 (71%),64%,11,11,48,14,,2,0.66,1,0,0,6
+14317631,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,2705,Empoli,Local,1ST,01/05/2026,37,0,49%,0.81,1,10,0,4,11,186,3,8,0,0,4,0,1,5,8,2,0,1,,,3,0,141,11,30,,13/27 (48%),4/12 (33%),49%,10,15/39 (38%),16/24 (67%),7/8 (88%),67%,3,4,16,6,,0,,,,,5
+14317631,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,2705,Empoli,Local,2ND,01/05/2026,37,1,35%,1.55,3,7,2,0,10,122,8,13,3,0,5,0,2,0,5,2,1,2,,,5,2,78,8,25,,9/28 (32%),4/8 (50%),57%,3,25/46 (54%),13/21 (62%),5/9 (56%),63%,8,7,32,8,,2,,,,,1
+14317631,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,2730,US Avellino 1912,Visita,ALL,01/05/2026,37,0,57%,0.18,0,5,7,2,22,421,18,21,1,1,2,0,3,0,1,4,0,0,,3,3,1,322,22,47,74/106 (70%),26/72 (36%),2/14 (14%),47%,5,45/85 (53%),16/45 (36%),7/13 (54%),50%,18,12,46,19,,7,2.59,3,1,1,7
+14317631,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,2730,US Avellino 1912,Visita,1ST,01/05/2026,37,0,51%,0.04,0,2,3,1,8,192,11,11,0,0,0,0,2,0,0,2,0,0,,,2,1,146,14,14,,8/28 (29%),1/8 (13%),51%,1,24/39 (62%),8/24 (33%),2/5 (40%),36%,11,9,16,10,,3,,,,,5
+14317631,53,79502,NORMAL,REGULAR,Round 37,LEAGUE,2730,US Avellino 1912,Visita,2ND,01/05/2026,37,0,65%,0.15,0,3,4,1,14,229,7,10,1,1,2,0,1,0,1,2,0,0,,,1,0,176,8,33,,18/44 (41%),1/6 (17%),43%,5,21/46 (46%),8/21 (38%),5/8 (63%),71%,7,3,30,9,,4,,,,,2
+14317635,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,2730,US Avellino 1912,Local,ALL,08/05/2026,38,1,58%,1.04,3,17,1,6,16,520,15,15,1,,8,1,5,4,10,7,,3,,27,3,3,449,19,58,131/165 (79%),39/66 (59%),6/27 (22%),53%,8,36/70 (51%),22/39 (56%),7/17 (41%),73%,15,10,55,8,,1,0.04,0,0,1,5
+14317635,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,2730,US Avellino 1912,Local,1ST,08/05/2026,38,1,61%,0.14,0,4,1,2,9,278,11,6,0,,1,0,2,1,2,2,,0,,,1,3,238,11,29,,19/31 (61%),0/14 (0%),57%,3,19/36 (53%),14/22 (64%),3/8 (38%),64%,11,2,27,2,,1,,,,,3
+14317635,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,2730,US Avellino 1912,Local,2ND,08/05/2026,38,0,55%,0.89,3,13,0,4,7,242,4,9,1,,7,1,3,3,8,5,,3,,,2,0,211,8,29,,20/35 (57%),6/13 (46%),49%,5,17/34 (50%),8/17 (47%),4/9 (44%),100%,4,8,28,6,,0,,,,,2
+14317635,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,2706,Modena,Visita,ALL,08/05/2026,38,0,42%,0.14,0,4,8,0,15,383,18,16,1,,1,0,2,1,3,1,,0,,3,1,0,305,15,44,34/64 (53%),26/67 (39%),3/9 (33%),47%,9,34/70 (49%),17/39 (44%),4/10 (40%),67%,18,1,42,31,,8,0.25,1,2,0,9
+14317635,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,2706,Modena,Visita,1ST,08/05/2026,38,0,39%,0.13,0,3,1,0,6,179,8,9,1,,1,0,2,0,3,0,,0,,,1,0,142,6,22,,12/35 (34%),3/6 (50%),43%,7,17/36 (47%),8/22 (36%),2/6 (33%),63%,8,1,17,18,,1,,,,,4
+14317635,53,79502,NORMAL,REGULAR,Round 38,LEAGUE,2706,Modena,Visita,2ND,08/05/2026,38,0,45%,0.02,0,1,7,0,9,204,10,7,0,,0,0,0,1,0,1,,0,,,0,0,163,9,22,,14/32 (44%),0/3 (0%),51%,2,17/34 (50%),9/17 (53%),2/4 (50%),70%,10,0,25,13,,7,,,,,5
+16153569,53,79502,NORMAL,PLAYOFF,Quarterfinals,LEAGUE,2796,Catanzaro,Local,ALL,12/05/2026,27,3,47%,2.09,2,20,3,6,20,385,12,11,0,,8,1,7,5,14,6,1,1,1,27,1,1,324,14,39,72/94 (77%),19/48 (40%),3/11 (27%),47%,12,32/74 (43%),15/25 (60%),8/17 (47%),50%,12,8,51,32,1,3,0.52,0,1,1,6
+16153569,53,79502,NORMAL,PLAYOFF,Quarterfinals,LEAGUE,2796,Catanzaro,Local,1ST,12/05/2026,27,1,52%,0.51,0,10,2,1,13,223,7,4,0,,2,0,5,3,4,6,0,0,0,,0,0,188,11,19,,11/27 (41%),2/4 (50%),42%,6,14/39 (36%),7/11 (64%),3/8 (38%),57%,7,2,27,14,,2,,,,,4
+16153569,53,79502,NORMAL,PLAYOFF,Quarterfinals,LEAGUE,2796,Catanzaro,Local,2ND,12/05/2026,27,2,42%,1.58,2,10,1,5,7,162,5,7,0,,6,1,2,2,10,0,1,1,1,,1,1,136,3,20,,8/21 (38%),1/7 (14%),53%,6,18/35 (51%),8/14 (57%),5/9 (56%),40%,5,6,24,18,,1,,,,,2
+16153569,53,79502,NORMAL,PLAYOFF,Quarterfinals,LEAGUE,2730,US Avellino 1912,Visita,ALL,12/05/2026,27,0,53%,0.75,1,8,5,5,12,431,21,20,1,,3,0,3,2,5,3,0,1,0,21,4,0,350,18,58,110/157 (70%),23/54 (43%),1/16 (6%),53%,7,42/74 (57%),10/25 (40%),2/7 (29%),81%,21,8,41,16,0,5,-0.65,2,0,1,7
+16153569,53,79502,NORMAL,PLAYOFF,Quarterfinals,LEAGUE,2730,US Avellino 1912,Visita,1ST,12/05/2026,27,0,48%,0.48,1,4,1,2,4,206,11,13,1,,2,0,0,2,3,1,0,1,0,,3,0,164,9,32,,9/31 (29%),0/6 (0%),58%,5,25/39 (64%),4/11 (36%),1/3 (33%),91%,11,6,20,6,,1,,,,,4
+16153569,53,79502,NORMAL,PLAYOFF,Quarterfinals,LEAGUE,2730,US Avellino 1912,Visita,2ND,12/05/2026,27,0,58%,0.26,0,4,4,3,8,225,10,7,0,,1,0,3,1,2,2,0,0,0,,1,0,186,9,26,,14/23 (61%),1/10 (10%),47%,2,17/35 (49%),6/14 (43%),1/4 (25%),70%,10,2,21,10,,4,,,,,3

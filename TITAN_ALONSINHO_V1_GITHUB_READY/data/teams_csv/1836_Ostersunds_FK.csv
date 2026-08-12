@@ -1,0 +1,43 @@
+﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+10936569,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,7101,Varbergs BoIS,Local,ALL,18/02/2023,1,1,,,,,,4,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936569,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,7101,Varbergs BoIS,Local,1ST,18/02/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936569,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,7101,Varbergs BoIS,Local,2ND,18/02/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936569,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1836,Östersunds FK,Visita,ALL,18/02/2023,1,0,,,,,,2,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936569,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1836,Östersunds FK,Visita,1ST,18/02/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936569,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1836,Östersunds FK,Visita,2ND,18/02/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936562,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1775,Västerås SK,Local,ALL,06/03/2023,3,2,,,,,,4,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936562,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1775,Västerås SK,Local,1ST,06/03/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936562,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1775,Västerås SK,Local,2ND,06/03/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936562,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1836,Östersunds FK,Visita,ALL,06/03/2023,3,2,,,,,,4,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936562,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1836,Östersunds FK,Visita,1ST,06/03/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10936562,80,42259,NORMAL,GROUP,"Svenska Cupen, Group 5",CUP,1836,Östersunds FK,Visita,2ND,06/03/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910273,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1760,BK Häcken,Local,ALL,17/02/2024,1,2,57%,1.03,,13,4,2,14,514,1,0,3,0,6,0,4,3,6,7,,,3,12,,0,450,20,,46/57 (81%),38/53 (71%),3/8 (37%),36%,8,51/149 (34%),11/19 (58%),19/29 (66%),,1,16,,17,3,4,,,1,,4
+11910273,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1760,BK Häcken,Local,1ST,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910273,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1760,BK Häcken,Local,2ND,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910273,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1836,Östersunds FK,Visita,ALL,17/02/2024,1,0,43%,0.74,,8,4,5,20,364,2,3,2,0,4,1,1,2,6,2,,,7,21,,3,291,23,,26/40 (65%),43/62 (69%),4/16 (25%),41%,9,61/150 (41%),8/18 (44%),23/27 (85%),,2,26,,15,1,4,,,0,,4
+11910273,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1836,Östersunds FK,Visita,1ST,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910273,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1836,Östersunds FK,Visita,2ND,17/02/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910261,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1836,Östersunds FK,Local,ALL,02/03/2024,3,1,40%,0.88,,11,5,5,11,375,1,1,1,0,4,0,3,4,5,6,,,0,18,,4,291,29,,21/43 (49%),26/63 (41%),8/19 (42%),35%,2,35/119 (29%),16/26 (62%),18/22 (82%),,1,16,,13,3,5,,,,,5
+11910261,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1836,Östersunds FK,Local,1ST,02/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910261,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1836,Östersunds FK,Local,2ND,02/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910261,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1772,Landskrona BoIS,Visita,ALL,02/03/2024,3,0,60%,1.06,,13,3,7,9,630,1,0,2,0,5,0,6,2,4,9,,,2,10,,2,556,14,,42/56 (75%),28/48 (58%),3/9 (33%),32%,4,40/129 (31%),11/27 (41%),14/17 (82%),,1,15,,19,1,3,,,,,4
+11910261,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1772,Landskrona BoIS,Visita,1ST,02/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11910261,80,51878,NORMAL,GROUP,"Svenska Cupen, Group 3",CUP,1772,Landskrona BoIS,Visita,2ND,02/03/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195311,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1761,IFK Göteborg,Local,ALL,21/02/2026,1,0,65%,0.85,,13,2,3,9,635,2,3,0,0,1,0,7,5,9,4,,,2,21,,3,537,22,,78/107 (73%),24/50 (48%),15/43 (34%),41%,4,36/98 (37%),22/42 (52%),9/12 (75%),,2,7,,8,1,2,,,0,,8
+15195311,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1761,IFK Göteborg,Local,1ST,21/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195311,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1761,IFK Göteborg,Local,2ND,21/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195311,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1836,Östersunds FK,Visita,ALL,21/02/2026,1,0,35%,1.45,,14,1,3,10,275,6,1,2,0,2,0,8,4,8,6,,,1,13,,3,208,17,,20/40 (50%),41/64 (64%),6/12 (50%),33%,9,32/118 (27%),23/48 (48%),5/8 (63%),,6,15,,19,1,1,,,2,,19
+15195311,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1836,Östersunds FK,Visita,1ST,21/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195311,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1836,Östersunds FK,Visita,2ND,21/02/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195302,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1807,Degerfors IF,Local,ALL,28/02/2026,2,1,64%,1.91,,10,0,7,8,725,1,1,1,0,5,0,3,2,6,4,,,6,27,,1,627,22,,84/105 (80%),30/51 (58%),9/21 (42%),40%,7,52/128 (41%),16/38 (42%),17/24 (71%),,1,17,,17,1,0,,,,,4
+15195302,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1807,Degerfors IF,Local,1ST,28/02/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195302,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1807,Degerfors IF,Local,2ND,28/02/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195302,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1836,Östersunds FK,Visita,ALL,28/02/2026,2,1,36%,0.46,,6,4,1,12,349,6,1,5,0,1,0,2,3,3,3,,,1,7,,2,266,25,,33/55 (60%),42/74 (56%),4/13 (30%),31%,7,30/117 (26%),19/39 (49%),5/11 (45%),,6,12,,29,1,4,,,,,6
+15195302,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1836,Östersunds FK,Visita,1ST,28/02/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195302,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1836,Östersunds FK,Visita,2ND,28/02/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195345,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1836,Östersunds FK,Local,ALL,08/03/2026,3,3,52%,2.08,,14,8,4,11,511,0,1,1,0,8,0,4,2,8,6,,,2,37,,1,438,15,,30/41 (73%),36/62 (58%),6/18 (33%),34%,10,43/134 (32%),14/33 (42%),17/20 (85%),,0,27,,11,1,8,,,2,,4
+15195345,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1836,Östersunds FK,Local,1ST,08/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195345,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1836,Östersunds FK,Local,2ND,08/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195345,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1771,Trelleborgs FF,Visita,ALL,08/03/2026,3,0,48%,0.88,,15,5,4,11,452,2,2,2,0,7,1,2,5,6,9,,,2,16,,0,374,17,,36/51 (71%),29/52 (55%),6/15 (40%),40%,7,54/141 (38%),14/29 (48%),22/31 (71%),,2,13,,10,0,5,,,0,,12
+15195345,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1771,Trelleborgs FF,Visita,1ST,08/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15195345,80,75545,NORMAL,GROUP,"Svenska Cupen, Group 4",CUP,1771,Trelleborgs FF,Visita,2ND,08/03/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

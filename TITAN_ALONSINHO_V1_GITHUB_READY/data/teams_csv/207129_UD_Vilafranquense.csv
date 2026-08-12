@@ -1,0 +1,409 @@
+﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+9627266,239,37424,NORMAL,REGULAR,Round 1,LEAGUE,207129,UD Vilafranquense,Local,ALL,09/08/2021,1,0,40%,,,6,2,4,30,,,20,3,0,1,,5,,,,,,,,,2,,24,,,,,,,,,,,,,,,,2,,,,,6
+9627266,239,37424,NORMAL,REGULAR,Round 1,LEAGUE,207129,UD Vilafranquense,Local,1ST,09/08/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627266,239,37424,NORMAL,REGULAR,Round 1,LEAGUE,207129,UD Vilafranquense,Local,2ND,09/08/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627266,239,37424,NORMAL,REGULAR,Round 1,LEAGUE,3017,Penafiel,Visita,ALL,09/08/2021,1,1,60%,,,6,1,5,20,,,32,4,0,3,,3,,,,,,,,,0,,27,,,,,,,,,,,,,,,,1,,,,,7
+9627266,239,37424,NORMAL,REGULAR,Round 1,LEAGUE,3017,Penafiel,Visita,1ST,09/08/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627266,239,37424,NORMAL,REGULAR,Round 1,LEAGUE,3017,Penafiel,Visita,2ND,09/08/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627269,239,37424,NORMAL,REGULAR,Round 2,LEAGUE,3013,CD Nacional,Local,ALL,15/08/2021,2,4,60%,,,13,1,10,8,,,10,2,0,7,,6,,,,,,,,,0,,21,,,,,,,,,,,,,,,,1,,,,,5
+9627269,239,37424,NORMAL,REGULAR,Round 2,LEAGUE,3013,CD Nacional,Local,1ST,15/08/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627269,239,37424,NORMAL,REGULAR,Round 2,LEAGUE,3013,CD Nacional,Local,2ND,15/08/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627269,239,37424,NORMAL,REGULAR,Round 2,LEAGUE,207129,UD Vilafranquense,Visita,ALL,15/08/2021,2,0,40%,,,2,4,2,9,,,8,1,2,1,,1,,,,,,,,,1,,23,,,,,,,,,,,,,,,,4,,,,,14
+9627269,239,37424,NORMAL,REGULAR,Round 2,LEAGUE,207129,UD Vilafranquense,Visita,1ST,15/08/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627269,239,37424,NORMAL,REGULAR,Round 2,LEAGUE,207129,UD Vilafranquense,Visita,2ND,15/08/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627284,239,37424,NORMAL,REGULAR,Round 3,LEAGUE,207129,UD Vilafranquense,Local,ALL,23/08/2021,3,1,48%,,,8,4,4,16,,,11,2,0,2,,6,,,,,,,,,2,,20,,,,,,,,,,,,,,,,4,,,,,12
+9627284,239,37424,NORMAL,REGULAR,Round 3,LEAGUE,207129,UD Vilafranquense,Local,1ST,23/08/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627284,239,37424,NORMAL,REGULAR,Round 3,LEAGUE,207129,UD Vilafranquense,Local,2ND,23/08/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627284,239,37424,NORMAL,REGULAR,Round 3,LEAGUE,3037,SC Covilhã,Visita,ALL,23/08/2021,3,1,52%,,,13,1,3,10,,,18,0,0,5,,8,,,,,,,,,1,,26,,,,,,,,,,,,,,,,1,,,,,10
+9627284,239,37424,NORMAL,REGULAR,Round 3,LEAGUE,3037,SC Covilhã,Visita,1ST,23/08/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627284,239,37424,NORMAL,REGULAR,Round 3,LEAGUE,3037,SC Covilhã,Visita,2ND,23/08/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627292,239,37424,NORMAL,REGULAR,Round 4,LEAGUE,38744,CD Mafra,Local,ALL,30/08/2021,4,1,51%,,,6,7,5,14,,,21,3,0,3,,3,,,,,,,,,1,,25,,,,,,,,,,,,,,,,7,,,,,9
+9627292,239,37424,NORMAL,REGULAR,Round 4,LEAGUE,38744,CD Mafra,Local,1ST,30/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627292,239,37424,NORMAL,REGULAR,Round 4,LEAGUE,38744,CD Mafra,Local,2ND,30/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627292,239,37424,NORMAL,REGULAR,Round 4,LEAGUE,207129,UD Vilafranquense,Visita,ALL,30/08/2021,4,0,49%,,,5,2,2,18,,,15,3,0,4,,1,,,,,,,,,3,,37,,,,,,,,,,,,,,,,2,,,,,8
+9627292,239,37424,NORMAL,REGULAR,Round 4,LEAGUE,207129,UD Vilafranquense,Visita,1ST,30/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627292,239,37424,NORMAL,REGULAR,Round 4,LEAGUE,207129,UD Vilafranquense,Visita,2ND,30/08/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627301,239,37424,NORMAL,REGULAR,Round 5,LEAGUE,207129,UD Vilafranquense,Local,ALL,12/09/2021,5,1,41%,,,7,2,5,19,,,16,3,0,6,,1,,,,,,,,,1,,15,,,,,,,,,,,,,,,,2,,,,,14
+9627301,239,37424,NORMAL,REGULAR,Round 5,LEAGUE,207129,UD Vilafranquense,Local,1ST,12/09/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627301,239,37424,NORMAL,REGULAR,Round 5,LEAGUE,207129,UD Vilafranquense,Local,2ND,12/09/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627301,239,37424,NORMAL,REGULAR,Round 5,LEAGUE,3025,Chaves,Visita,ALL,12/09/2021,5,1,59%,,,10,5,8,14,,,20,4,0,3,,7,,,,,,,,,2,,28,,,,,,,,,,,,,,,,5,,,,,6
+9627301,239,37424,NORMAL,REGULAR,Round 5,LEAGUE,3025,Chaves,Visita,1ST,12/09/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627301,239,37424,NORMAL,REGULAR,Round 5,LEAGUE,3025,Chaves,Visita,2ND,12/09/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627307,239,37424,NORMAL,REGULAR,Round 6,LEAGUE,3015,Académica Coimbra,Local,ALL,20/09/2021,6,1,53%,,,10,0,8,22,,,24,4,1,3,,7,,,,,,,,,3,,35,,,,,,,,,,,,,,,,0,,,,,3
+9627307,239,37424,NORMAL,REGULAR,Round 6,LEAGUE,3015,Académica Coimbra,Local,1ST,20/09/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627307,239,37424,NORMAL,REGULAR,Round 6,LEAGUE,3015,Académica Coimbra,Local,2ND,20/09/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627307,239,37424,NORMAL,REGULAR,Round 6,LEAGUE,207129,UD Vilafranquense,Visita,ALL,20/09/2021,6,2,47%,,,3,2,1,20,,,25,5,1,2,,1,,,,,,,,,4,,21,,,,,,,,,,,,,,,,2,,,,,12
+9627307,239,37424,NORMAL,REGULAR,Round 6,LEAGUE,207129,UD Vilafranquense,Visita,1ST,20/09/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627307,239,37424,NORMAL,REGULAR,Round 6,LEAGUE,207129,UD Vilafranquense,Visita,2ND,20/09/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627319,239,37424,NORMAL,REGULAR,Round 7,LEAGUE,207129,UD Vilafranquense,Local,ALL,03/10/2021,7,2,,,,,,10,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627319,239,37424,NORMAL,REGULAR,Round 7,LEAGUE,207129,UD Vilafranquense,Local,1ST,03/10/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627319,239,37424,NORMAL,REGULAR,Round 7,LEAGUE,207129,UD Vilafranquense,Local,2ND,03/10/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627319,239,37424,NORMAL,REGULAR,Round 7,LEAGUE,2998,SC Farense,Visita,ALL,03/10/2021,7,2,,,,,,5,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627319,239,37424,NORMAL,REGULAR,Round 7,LEAGUE,2998,SC Farense,Visita,1ST,03/10/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627319,239,37424,NORMAL,REGULAR,Round 7,LEAGUE,2998,SC Farense,Visita,2ND,03/10/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627322,239,37424,NORMAL,REGULAR,Round 8,LEAGUE,3036,Rio Ave,Local,ALL,10/10/2021,8,2,61%,,,14,0,7,12,,,24,2,0,7,,7,,,,,,,,,1,,23,,,,,,,,,,,,,,,,0,,,,,8
+9627322,239,37424,NORMAL,REGULAR,Round 8,LEAGUE,3036,Rio Ave,Local,1ST,10/10/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627322,239,37424,NORMAL,REGULAR,Round 8,LEAGUE,3036,Rio Ave,Local,2ND,10/10/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627322,239,37424,NORMAL,REGULAR,Round 8,LEAGUE,207129,UD Vilafranquense,Visita,ALL,10/10/2021,8,1,39%,,,6,5,0,22,,,13,4,0,1,,5,,,,,,,,,2,,23,,,,,,,,,,,,,,,,5,,,,,13
+9627322,239,37424,NORMAL,REGULAR,Round 8,LEAGUE,207129,UD Vilafranquense,Visita,1ST,10/10/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627322,239,37424,NORMAL,REGULAR,Round 8,LEAGUE,207129,UD Vilafranquense,Visita,2ND,10/10/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627338,239,37424,NORMAL,REGULAR,Round 9,LEAGUE,207129,UD Vilafranquense,Local,ALL,22/10/2021,9,1,57%,,,4,1,8,18,,,19,3,0,4,,0,,,,,,,,,2,,27,,,,,,,,,,,,,,,,1,,,,,9
+9627338,239,37424,NORMAL,REGULAR,Round 9,LEAGUE,207129,UD Vilafranquense,Local,1ST,22/10/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627338,239,37424,NORMAL,REGULAR,Round 9,LEAGUE,207129,UD Vilafranquense,Local,2ND,22/10/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627338,239,37424,NORMAL,REGULAR,Round 9,LEAGUE,3018,Leixões SC,Visita,ALL,22/10/2021,9,3,43%,,,9,3,3,19,,,20,3,0,4,,5,,,,,,,,,0,,22,,,,,,,,,,,,,,,,3,,,,,10
+9627338,239,37424,NORMAL,REGULAR,Round 9,LEAGUE,3018,Leixões SC,Visita,1ST,22/10/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627338,239,37424,NORMAL,REGULAR,Round 9,LEAGUE,3018,Leixões SC,Visita,2ND,22/10/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627347,239,37424,NORMAL,REGULAR,Round 10,LEAGUE,3005,Varzim SC,Local,ALL,31/10/2021,10,0,46%,,,8,5,5,18,,,28,6,0,1,,7,,,,,,,,,2,,30,,,,,,,,,,,,,,,,5,,,,,5
+9627347,239,37424,NORMAL,REGULAR,Round 10,LEAGUE,3005,Varzim SC,Local,1ST,31/10/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627347,239,37424,NORMAL,REGULAR,Round 10,LEAGUE,3005,Varzim SC,Local,2ND,31/10/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627347,239,37424,NORMAL,REGULAR,Round 10,LEAGUE,207129,UD Vilafranquense,Visita,ALL,31/10/2021,10,2,54%,,,11,1,1,24,,,20,5,0,7,,4,,,,,,,,,4,,18,,,,,,,,,,,,,,,,1,,,,,14
+9627347,239,37424,NORMAL,REGULAR,Round 10,LEAGUE,207129,UD Vilafranquense,Visita,1ST,31/10/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627347,239,37424,NORMAL,REGULAR,Round 10,LEAGUE,207129,UD Vilafranquense,Visita,2ND,31/10/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627356,239,37424,NORMAL,REGULAR,Round 11,LEAGUE,207129,UD Vilafranquense,Local,ALL,05/11/2021,11,2,40%,,,9,5,2,16,,,17,4,0,5,,4,,,,,,,,,2,,18,,,,,,,,,,,,,,,,5,,,,,7
+9627356,239,37424,NORMAL,REGULAR,Round 11,LEAGUE,207129,UD Vilafranquense,Local,1ST,05/11/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627356,239,37424,NORMAL,REGULAR,Round 11,LEAGUE,207129,UD Vilafranquense,Local,2ND,05/11/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627356,239,37424,NORMAL,REGULAR,Round 11,LEAGUE,3035,CF Estrela Amadora,Visita,ALL,05/11/2021,11,2,60%,,,12,4,7,17,,,18,3,1,7,,5,,,,,,,,,0,,23,,,,,,,,,,,,,,,,4,,,,,10
+9627356,239,37424,NORMAL,REGULAR,Round 11,LEAGUE,3035,CF Estrela Amadora,Visita,1ST,05/11/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627356,239,37424,NORMAL,REGULAR,Round 11,LEAGUE,3035,CF Estrela Amadora,Visita,2ND,05/11/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627364,239,37424,NORMAL,REGULAR,Round 12,LEAGUE,3022,Académico Viseu FC,Local,ALL,27/11/2021,12,0,56%,,,7,2,5,16,,,26,4,0,4,,3,,,,,,,,,1,,21,,,,,,,,,,,,,,,,2,,,,,4
+9627364,239,37424,NORMAL,REGULAR,Round 12,LEAGUE,3022,Académico Viseu FC,Local,1ST,27/11/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627364,239,37424,NORMAL,REGULAR,Round 12,LEAGUE,3022,Académico Viseu FC,Local,2ND,27/11/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627364,239,37424,NORMAL,REGULAR,Round 12,LEAGUE,207129,UD Vilafranquense,Visita,ALL,27/11/2021,12,0,44%,,,5,4,6,22,,,17,3,0,2,,3,,,,,,,,,4,,25,,,,,,,,,,,,,,,,4,,,,,6
+9627364,239,37424,NORMAL,REGULAR,Round 12,LEAGUE,207129,UD Vilafranquense,Visita,1ST,27/11/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627364,239,37424,NORMAL,REGULAR,Round 12,LEAGUE,207129,UD Vilafranquense,Visita,2ND,27/11/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627374,239,37424,NORMAL,REGULAR,Round 13,LEAGUE,207129,UD Vilafranquense,Local,ALL,04/12/2021,13,1,45%,,,7,2,6,21,,,17,3,0,2,,5,,,,,,,,,0,,18,,,,,,,,,,,,,,,,2,,,,,8
+9627374,239,37424,NORMAL,REGULAR,Round 13,LEAGUE,207129,UD Vilafranquense,Local,1ST,04/12/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627374,239,37424,NORMAL,REGULAR,Round 13,LEAGUE,207129,UD Vilafranquense,Local,2ND,04/12/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627374,239,37424,NORMAL,REGULAR,Round 13,LEAGUE,4501,Feirense,Visita,ALL,04/12/2021,13,1,55%,,,9,1,6,14,,,21,2,0,3,,6,,,,,,,,,3,,26,,,,,,,,,,,,,,,,1,,,,,9
+9627374,239,37424,NORMAL,REGULAR,Round 13,LEAGUE,4501,Feirense,Visita,1ST,04/12/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627374,239,37424,NORMAL,REGULAR,Round 13,LEAGUE,4501,Feirense,Visita,2ND,04/12/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627383,239,37424,NORMAL,REGULAR,Round 14,LEAGUE,207129,UD Vilafranquense,Local,ALL,12/12/2021,14,2,33%,0.00,,7,2,3,12,,,15,2,1,4,0,3,0,0,0,,,,,,2,,24,,,,,,,,,,,,,,,,2,,,,,11
+9627383,239,37424,NORMAL,REGULAR,Round 14,LEAGUE,207129,UD Vilafranquense,Local,1ST,12/12/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627383,239,37424,NORMAL,REGULAR,Round 14,LEAGUE,207129,UD Vilafranquense,Local,2ND,12/12/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627383,239,37424,NORMAL,REGULAR,Round 14,LEAGUE,74469,FC Porto B,Visita,ALL,12/12/2021,14,1,67%,0.00,,7,2,12,13,,,14,3,0,3,0,4,0,0,0,,,,,,2,,26,,,,,,,,,,,,,,,,2,,,,,2
+9627383,239,37424,NORMAL,REGULAR,Round 14,LEAGUE,74469,FC Porto B,Visita,1ST,12/12/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627383,239,37424,NORMAL,REGULAR,Round 14,LEAGUE,74469,FC Porto B,Visita,2ND,12/12/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627388,239,37424,NORMAL,REGULAR,Round 15,LEAGUE,74465,SL Benfica B U21,Local,ALL,20/12/2021,15,0,63%,0.00,,16,2,12,14,,,23,2,0,3,0,13,0,0,0,,,,,,2,,19,,,,,,,,,,,,,,,,2,,,,,7
+9627388,239,37424,NORMAL,REGULAR,Round 15,LEAGUE,74465,SL Benfica B U21,Local,1ST,20/12/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627388,239,37424,NORMAL,REGULAR,Round 15,LEAGUE,74465,SL Benfica B U21,Local,2ND,20/12/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627388,239,37424,NORMAL,REGULAR,Round 15,LEAGUE,207129,UD Vilafranquense,Visita,ALL,20/12/2021,15,0,37%,0.00,,4,3,3,20,,,16,6,0,2,0,2,0,0,0,,,,,,3,,15,,,,,,,,,,,,,,,,3,,,,,19
+9627388,239,37424,NORMAL,REGULAR,Round 15,LEAGUE,207129,UD Vilafranquense,Visita,1ST,20/12/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627388,239,37424,NORMAL,REGULAR,Round 15,LEAGUE,207129,UD Vilafranquense,Visita,2ND,20/12/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627401,239,37424,NORMAL,REGULAR,Round 16,LEAGUE,207129,UD Vilafranquense,Local,ALL,03/01/2022,16,0,46%,,,5,1,4,17,,,21,5,1,2,,3,,,,,,,,,4,,26,,,,,,,,,,,,,,,,1,,,,,4
+9627401,239,37424,NORMAL,REGULAR,Round 16,LEAGUE,207129,UD Vilafranquense,Local,1ST,03/01/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627401,239,37424,NORMAL,REGULAR,Round 16,LEAGUE,207129,UD Vilafranquense,Local,2ND,03/01/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627401,239,37424,NORMAL,REGULAR,Round 16,LEAGUE,36365,Casa Pia,Visita,ALL,03/01/2022,16,2,54%,,,5,2,3,19,,,21,0,0,3,,2,,,,,,,,,2,,19,,,,,,,,,,,,,,,,2,,,,,6
+9627401,239,37424,NORMAL,REGULAR,Round 16,LEAGUE,36365,Casa Pia,Visita,1ST,03/01/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627401,239,37424,NORMAL,REGULAR,Round 16,LEAGUE,36365,Casa Pia,Visita,2ND,03/01/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627411,239,37424,NORMAL,REGULAR,Round 17,LEAGUE,6154,CD Trofense,Local,ALL,09/01/2022,17,1,55%,,,12,1,11,11,,,25,1,0,9,,3,,,,,,,,,1,,39,,,,,,,,,,,,,,,,1,,,,,6
+9627411,239,37424,NORMAL,REGULAR,Round 17,LEAGUE,6154,CD Trofense,Local,1ST,09/01/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627411,239,37424,NORMAL,REGULAR,Round 17,LEAGUE,6154,CD Trofense,Local,2ND,09/01/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627411,239,37424,NORMAL,REGULAR,Round 17,LEAGUE,207129,UD Vilafranquense,Visita,ALL,09/01/2022,17,3,45%,,,8,7,0,20,,,12,5,0,4,,4,,,,,,,,,5,,32,,,,,,,,,,,,,,,,7,,,,,9
+9627411,239,37424,NORMAL,REGULAR,Round 17,LEAGUE,207129,UD Vilafranquense,Visita,1ST,09/01/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627411,239,37424,NORMAL,REGULAR,Round 17,LEAGUE,207129,UD Vilafranquense,Visita,2ND,09/01/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627419,239,37424,NORMAL,REGULAR,Round 18,LEAGUE,3017,Penafiel,Local,ALL,15/01/2022,18,4,,,,8,4,6,12,,,20,2,0,4,,4,,,,,,,,,2,,18,,,,,,,,,,,,,,,,4,,,,,6
+9627419,239,37424,NORMAL,REGULAR,Round 18,LEAGUE,3017,Penafiel,Local,1ST,15/01/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627419,239,37424,NORMAL,REGULAR,Round 18,LEAGUE,3017,Penafiel,Local,2ND,15/01/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627419,239,37424,NORMAL,REGULAR,Round 18,LEAGUE,207129,UD Vilafranquense,Visita,ALL,15/01/2022,18,3,,,,10,1,3,18,,,14,5,0,7,,3,,,,,,,,,2,,30,,,,,,,,,,,,,,,,1,,,,,5
+9627419,239,37424,NORMAL,REGULAR,Round 18,LEAGUE,207129,UD Vilafranquense,Visita,1ST,15/01/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627419,239,37424,NORMAL,REGULAR,Round 18,LEAGUE,207129,UD Vilafranquense,Visita,2ND,15/01/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627422,239,37424,NORMAL,REGULAR,Round 19,LEAGUE,207129,UD Vilafranquense,Local,ALL,22/01/2022,19,4,38%,0.00,,13,1,4,25,,,19,4,0,6,0,7,0,0,0,,,,,,4,,18,,,,,,,,,,,,,,,,1,,,,,8
+9627422,239,37424,NORMAL,REGULAR,Round 19,LEAGUE,207129,UD Vilafranquense,Local,1ST,22/01/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627422,239,37424,NORMAL,REGULAR,Round 19,LEAGUE,207129,UD Vilafranquense,Local,2ND,22/01/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627422,239,37424,NORMAL,REGULAR,Round 19,LEAGUE,3013,CD Nacional,Visita,ALL,22/01/2022,19,3,62%,0.00,,9,2,7,16,,,29,3,0,4,0,5,0,0,0,,,,,,3,,23,,,,,,,,,,,,,,,,2,,,,,8
+9627422,239,37424,NORMAL,REGULAR,Round 19,LEAGUE,3013,CD Nacional,Visita,1ST,22/01/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627422,239,37424,NORMAL,REGULAR,Round 19,LEAGUE,3013,CD Nacional,Visita,2ND,22/01/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627437,239,37424,NORMAL,REGULAR,Round 20,LEAGUE,3037,SC Covilhã,Local,ALL,30/01/2022,20,1,55%,,,11,3,9,9,,,13,1,0,4,,7,,,,,,,,,3,,43,,,,,,,,,,,,,,,,3,,,,,10
+9627437,239,37424,NORMAL,REGULAR,Round 20,LEAGUE,3037,SC Covilhã,Local,1ST,30/01/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627437,239,37424,NORMAL,REGULAR,Round 20,LEAGUE,3037,SC Covilhã,Local,2ND,30/01/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627437,239,37424,NORMAL,REGULAR,Round 20,LEAGUE,207129,UD Vilafranquense,Visita,ALL,30/01/2022,20,1,45%,,,8,3,5,13,,,12,2,0,4,,4,,,,,,,,,0,,36,,,,,,,,,,,,,,,,3,,,,,10
+9627437,239,37424,NORMAL,REGULAR,Round 20,LEAGUE,207129,UD Vilafranquense,Visita,1ST,30/01/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627437,239,37424,NORMAL,REGULAR,Round 20,LEAGUE,207129,UD Vilafranquense,Visita,2ND,30/01/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627445,239,37424,NORMAL,REGULAR,Round 21,LEAGUE,207129,UD Vilafranquense,Local,ALL,06/02/2022,21,2,37%,,,12,4,6,14,,,14,2,0,7,,5,,,,,,,,,1,,14,,,,,,,,,,,,,,,,4,,,,,12
+9627445,239,37424,NORMAL,REGULAR,Round 21,LEAGUE,207129,UD Vilafranquense,Local,1ST,06/02/2022,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627445,239,37424,NORMAL,REGULAR,Round 21,LEAGUE,207129,UD Vilafranquense,Local,2ND,06/02/2022,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627445,239,37424,NORMAL,REGULAR,Round 21,LEAGUE,38744,CD Mafra,Visita,ALL,06/02/2022,21,0,63%,,,7,5,8,13,,,15,3,0,4,,3,,,,,,,,,1,,20,,,,,,,,,,,,,,,,5,,,,,8
+9627445,239,37424,NORMAL,REGULAR,Round 21,LEAGUE,38744,CD Mafra,Visita,1ST,06/02/2022,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627445,239,37424,NORMAL,REGULAR,Round 21,LEAGUE,38744,CD Mafra,Visita,2ND,06/02/2022,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627454,239,37424,NORMAL,REGULAR,Round 22,LEAGUE,3025,Chaves,Local,ALL,14/02/2022,22,1,62%,,,7,3,2,12,,,22,1,0,2,,5,,,,,,,,,3,,28,,,,,,,,,,,,,,,,3,,,,,3
+9627454,239,37424,NORMAL,REGULAR,Round 22,LEAGUE,3025,Chaves,Local,1ST,14/02/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627454,239,37424,NORMAL,REGULAR,Round 22,LEAGUE,3025,Chaves,Local,2ND,14/02/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627454,239,37424,NORMAL,REGULAR,Round 22,LEAGUE,207129,UD Vilafranquense,Visita,ALL,14/02/2022,22,0,38%,,,6,0,2,16,,,15,4,0,4,,2,,,,,,,,,6,,17,,,,,,,,,,,,,,,,0,,,,,8
+9627454,239,37424,NORMAL,REGULAR,Round 22,LEAGUE,207129,UD Vilafranquense,Visita,1ST,14/02/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627454,239,37424,NORMAL,REGULAR,Round 22,LEAGUE,207129,UD Vilafranquense,Visita,2ND,14/02/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627460,239,37424,NORMAL,REGULAR,Round 23,LEAGUE,207129,UD Vilafranquense,Local,ALL,19/02/2022,23,2,44%,0.00,,5,0,4,21,,,14,7,0,4,0,1,0,0,0,,,,,,1,,22,,,,,,,,,,,,,,,,0,,,,,15
+9627460,239,37424,NORMAL,REGULAR,Round 23,LEAGUE,207129,UD Vilafranquense,Local,1ST,19/02/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627460,239,37424,NORMAL,REGULAR,Round 23,LEAGUE,207129,UD Vilafranquense,Local,2ND,19/02/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627460,239,37424,NORMAL,REGULAR,Round 23,LEAGUE,3015,Académica Coimbra,Visita,ALL,19/02/2022,23,1,56%,0.00,,8,2,4,14,,,22,2,0,1,0,7,0,0,0,,,,,,0,,31,,,,,,,,,,,,,,,,2,,,,,4
+9627460,239,37424,NORMAL,REGULAR,Round 23,LEAGUE,3015,Académica Coimbra,Visita,1ST,19/02/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627460,239,37424,NORMAL,REGULAR,Round 23,LEAGUE,3015,Académica Coimbra,Visita,2ND,19/02/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627472,239,37424,NORMAL,REGULAR,Round 24,LEAGUE,2998,SC Farense,Local,ALL,27/02/2022,24,1,58%,,,8,1,7,14,,,12,2,0,3,,5,,,,,,,,,1,,35,,,,,,,,,,,,,,,,1,,,,,8
+9627472,239,37424,NORMAL,REGULAR,Round 24,LEAGUE,2998,SC Farense,Local,1ST,27/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627472,239,37424,NORMAL,REGULAR,Round 24,LEAGUE,2998,SC Farense,Local,2ND,27/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627472,239,37424,NORMAL,REGULAR,Round 24,LEAGUE,207129,UD Vilafranquense,Visita,ALL,27/02/2022,24,0,42%,,,5,2,5,12,,,15,1,0,1,,4,,,,,,,,,0,,34,,,,,,,,,,,,,,,,2,,,,,11
+9627472,239,37424,NORMAL,REGULAR,Round 24,LEAGUE,207129,UD Vilafranquense,Visita,1ST,27/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627472,239,37424,NORMAL,REGULAR,Round 24,LEAGUE,207129,UD Vilafranquense,Visita,2ND,27/02/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627475,239,37424,NORMAL,REGULAR,Round 25,LEAGUE,207129,UD Vilafranquense,Local,ALL,07/03/2022,25,1,,,,,,1,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627475,239,37424,NORMAL,REGULAR,Round 25,LEAGUE,207129,UD Vilafranquense,Local,1ST,07/03/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627475,239,37424,NORMAL,REGULAR,Round 25,LEAGUE,207129,UD Vilafranquense,Local,2ND,07/03/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627475,239,37424,NORMAL,REGULAR,Round 25,LEAGUE,3036,Rio Ave,Visita,ALL,07/03/2022,25,2,,,,,,11,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627475,239,37424,NORMAL,REGULAR,Round 25,LEAGUE,3036,Rio Ave,Visita,1ST,07/03/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627475,239,37424,NORMAL,REGULAR,Round 25,LEAGUE,3036,Rio Ave,Visita,2ND,07/03/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627491,239,37424,NORMAL,REGULAR,Round 26,LEAGUE,3018,Leixões SC,Local,ALL,14/03/2022,26,1,62%,,,9,2,14,13,,,24,2,0,2,,7,,,,,,,,,5,,26,,,,,,,,,,,,,,,,2,,,,,8
+9627491,239,37424,NORMAL,REGULAR,Round 26,LEAGUE,3018,Leixões SC,Local,1ST,14/03/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627491,239,37424,NORMAL,REGULAR,Round 26,LEAGUE,3018,Leixões SC,Local,2ND,14/03/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627491,239,37424,NORMAL,REGULAR,Round 26,LEAGUE,207129,UD Vilafranquense,Visita,ALL,14/03/2022,26,1,38%,,,9,1,3,19,,,18,2,0,3,,6,,,,,,,,,5,,17,,,,,,,,,,,,,,,,1,,,,,10
+9627491,239,37424,NORMAL,REGULAR,Round 26,LEAGUE,207129,UD Vilafranquense,Visita,1ST,14/03/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627491,239,37424,NORMAL,REGULAR,Round 26,LEAGUE,207129,UD Vilafranquense,Visita,2ND,14/03/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627500,239,37424,NORMAL,REGULAR,Round 27,LEAGUE,207129,UD Vilafranquense,Local,ALL,20/03/2022,27,0,35%,,,5,5,2,16,,,18,3,0,0,,5,,,,,,,,,0,,20,,,,,,,,,,,,,,,,5,,,,,11
+9627500,239,37424,NORMAL,REGULAR,Round 27,LEAGUE,207129,UD Vilafranquense,Local,1ST,20/03/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627500,239,37424,NORMAL,REGULAR,Round 27,LEAGUE,207129,UD Vilafranquense,Local,2ND,20/03/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627500,239,37424,NORMAL,REGULAR,Round 27,LEAGUE,3005,Varzim SC,Visita,ALL,20/03/2022,27,0,65%,,,9,0,9,15,,,16,3,0,5,,4,,,,,,,,,3,,30,,,,,,,,,,,,,,,,0,,,,,10
+9627500,239,37424,NORMAL,REGULAR,Round 27,LEAGUE,3005,Varzim SC,Visita,1ST,20/03/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627500,239,37424,NORMAL,REGULAR,Round 27,LEAGUE,3005,Varzim SC,Visita,2ND,20/03/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627509,239,37424,NORMAL,REGULAR,Round 28,LEAGUE,3035,CF Estrela Amadora,Local,ALL,03/04/2022,28,0,55%,,,8,6,8,15,,,15,4,0,3,,5,,,,,,,,,1,,28,,,,,,,,,,,,,,,,6,,,,,3
+9627509,239,37424,NORMAL,REGULAR,Round 28,LEAGUE,3035,CF Estrela Amadora,Local,1ST,03/04/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627509,239,37424,NORMAL,REGULAR,Round 28,LEAGUE,3035,CF Estrela Amadora,Local,2ND,03/04/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627509,239,37424,NORMAL,REGULAR,Round 28,LEAGUE,207129,UD Vilafranquense,Visita,ALL,03/04/2022,28,1,45%,,,7,5,3,12,,,16,3,0,6,,1,,,,,,,,,3,,19,,,,,,,,,,,,,,,,5,,,,,11
+9627509,239,37424,NORMAL,REGULAR,Round 28,LEAGUE,207129,UD Vilafranquense,Visita,1ST,03/04/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627509,239,37424,NORMAL,REGULAR,Round 28,LEAGUE,207129,UD Vilafranquense,Visita,2ND,03/04/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627517,239,37424,NORMAL,REGULAR,Round 29,LEAGUE,207129,UD Vilafranquense,Local,ALL,09/04/2022,29,2,45%,,,4,2,3,12,,,13,2,0,2,,2,,,,,,,,,4,,29,,,,,,,,,,,,,,,,2,,,,,12
+9627517,239,37424,NORMAL,REGULAR,Round 29,LEAGUE,207129,UD Vilafranquense,Local,1ST,09/04/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627517,239,37424,NORMAL,REGULAR,Round 29,LEAGUE,207129,UD Vilafranquense,Local,2ND,09/04/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627517,239,37424,NORMAL,REGULAR,Round 29,LEAGUE,3022,Académico Viseu FC,Visita,ALL,09/04/2022,29,1,55%,,,10,1,7,13,,,16,2,0,3,,7,,,,,,,,,0,,19,,,,,,,,,,,,,,,,1,,,,,6
+9627517,239,37424,NORMAL,REGULAR,Round 29,LEAGUE,3022,Académico Viseu FC,Visita,1ST,09/04/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627517,239,37424,NORMAL,REGULAR,Round 29,LEAGUE,3022,Académico Viseu FC,Visita,2ND,09/04/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627527,239,37424,NORMAL,REGULAR,Round 30,LEAGUE,4501,Feirense,Local,ALL,16/04/2022,30,1,61%,,,5,5,4,14,,,20,1,0,2,,3,,,,,,,,,4,,33,,,,,,,,,,,,,,,,5,,,,,6
+9627527,239,37424,NORMAL,REGULAR,Round 30,LEAGUE,4501,Feirense,Local,1ST,16/04/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627527,239,37424,NORMAL,REGULAR,Round 30,LEAGUE,4501,Feirense,Local,2ND,16/04/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627527,239,37424,NORMAL,REGULAR,Round 30,LEAGUE,207129,UD Vilafranquense,Visita,ALL,16/04/2022,30,1,39%,,,8,1,2,17,,,18,3,0,6,,2,,,,,,,,,3,,27,,,,,,,,,,,,,,,,1,,,,,10
+9627527,239,37424,NORMAL,REGULAR,Round 30,LEAGUE,207129,UD Vilafranquense,Visita,1ST,16/04/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627527,239,37424,NORMAL,REGULAR,Round 30,LEAGUE,207129,UD Vilafranquense,Visita,2ND,16/04/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627536,239,37424,NORMAL,REGULAR,Round 31,LEAGUE,74469,FC Porto B,Local,ALL,24/04/2022,31,0,55%,,,11,2,4,17,,,12,2,0,8,,3,,,,,,,,,1,,25,,,,,,,,,,,,,,,,2,,,,,4
+9627536,239,37424,NORMAL,REGULAR,Round 31,LEAGUE,74469,FC Porto B,Local,1ST,24/04/2022,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627536,239,37424,NORMAL,REGULAR,Round 31,LEAGUE,74469,FC Porto B,Local,2ND,24/04/2022,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627536,239,37424,NORMAL,REGULAR,Round 31,LEAGUE,207129,UD Vilafranquense,Visita,ALL,24/04/2022,31,1,45%,,,5,8,1,12,,,18,2,0,3,,2,,,,,,,,,0,,12,,,,,,,,,,,,,,,,8,,,,,11
+9627536,239,37424,NORMAL,REGULAR,Round 31,LEAGUE,207129,UD Vilafranquense,Visita,1ST,24/04/2022,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627536,239,37424,NORMAL,REGULAR,Round 31,LEAGUE,207129,UD Vilafranquense,Visita,2ND,24/04/2022,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627541,239,37424,NORMAL,REGULAR,Round 32,LEAGUE,207129,UD Vilafranquense,Local,ALL,01/05/2022,32,1,45%,,,13,4,4,14,,,17,1,0,7,,4,2,,,,,,,,1,,22,,,,,,,,,,,,,,,,4,,,,,5
+9627541,239,37424,NORMAL,REGULAR,Round 32,LEAGUE,207129,UD Vilafranquense,Local,1ST,01/05/2022,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627541,239,37424,NORMAL,REGULAR,Round 32,LEAGUE,207129,UD Vilafranquense,Local,2ND,01/05/2022,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627541,239,37424,NORMAL,REGULAR,Round 32,LEAGUE,74465,SL Benfica B U21,Visita,ALL,01/05/2022,32,2,55%,,,7,6,7,17,,,15,1,0,6,,1,0,,,,,,,,0,,22,,,,,,,,,,,,,,,,6,,,,,5
+9627541,239,37424,NORMAL,REGULAR,Round 32,LEAGUE,74465,SL Benfica B U21,Visita,1ST,01/05/2022,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627541,239,37424,NORMAL,REGULAR,Round 32,LEAGUE,74465,SL Benfica B U21,Visita,2ND,01/05/2022,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627554,239,37424,NORMAL,REGULAR,Round 33,LEAGUE,36365,Casa Pia,Local,ALL,07/05/2022,33,2,,,,,,5,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627554,239,37424,NORMAL,REGULAR,Round 33,LEAGUE,36365,Casa Pia,Local,1ST,07/05/2022,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627554,239,37424,NORMAL,REGULAR,Round 33,LEAGUE,36365,Casa Pia,Local,2ND,07/05/2022,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627554,239,37424,NORMAL,REGULAR,Round 33,LEAGUE,207129,UD Vilafranquense,Visita,ALL,07/05/2022,33,1,,,,,,3,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627554,239,37424,NORMAL,REGULAR,Round 33,LEAGUE,207129,UD Vilafranquense,Visita,1ST,07/05/2022,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627554,239,37424,NORMAL,REGULAR,Round 33,LEAGUE,207129,UD Vilafranquense,Visita,2ND,07/05/2022,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627564,239,37424,NORMAL,REGULAR,Round 34,LEAGUE,207129,UD Vilafranquense,Local,ALL,14/05/2022,34,2,,,,,,5,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627564,239,37424,NORMAL,REGULAR,Round 34,LEAGUE,207129,UD Vilafranquense,Local,1ST,14/05/2022,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627564,239,37424,NORMAL,REGULAR,Round 34,LEAGUE,207129,UD Vilafranquense,Local,2ND,14/05/2022,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627564,239,37424,NORMAL,REGULAR,Round 34,LEAGUE,6154,CD Trofense,Visita,ALL,14/05/2022,34,4,,,,,,10,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627564,239,37424,NORMAL,REGULAR,Round 34,LEAGUE,6154,CD Trofense,Visita,1ST,14/05/2022,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9627564,239,37424,NORMAL,REGULAR,Round 34,LEAGUE,6154,CD Trofense,Visita,2ND,14/05/2022,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438948,239,42663,NORMAL,REGULAR,Round 1,LEAGUE,3014,Moreirense,Local,ALL,07/08/2022,1,1,,0.00,,9,4,4,10,,,16,3,0,3,0,4,2,0,0,,,,,,2,,27,,,,,,,,,,,,,,,,4,,,,,11
+10438948,239,42663,NORMAL,REGULAR,Round 1,LEAGUE,3014,Moreirense,Local,1ST,07/08/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438948,239,42663,NORMAL,REGULAR,Round 1,LEAGUE,3014,Moreirense,Local,2ND,07/08/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438948,239,42663,NORMAL,REGULAR,Round 1,LEAGUE,207129,UD Vilafranquense,Visita,ALL,07/08/2022,1,0,,0.00,,11,2,10,15,,,12,3,0,4,0,6,1,0,0,,,,,,1,,26,,,,,,,,,,,,,,,,2,,,,,7
+10438948,239,42663,NORMAL,REGULAR,Round 1,LEAGUE,207129,UD Vilafranquense,Visita,1ST,07/08/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438948,239,42663,NORMAL,REGULAR,Round 1,LEAGUE,207129,UD Vilafranquense,Visita,2ND,07/08/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438965,239,42663,NORMAL,REGULAR,Round 2,LEAGUE,207129,UD Vilafranquense,Local,ALL,14/08/2022,2,2,,0.00,,16,2,7,24,,,14,5,0,7,0,8,1,0,0,,,,,,0,,36,,,,,,,,,,,,,,,,2,,,,,9
+10438965,239,42663,NORMAL,REGULAR,Round 2,LEAGUE,207129,UD Vilafranquense,Local,1ST,14/08/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438965,239,42663,NORMAL,REGULAR,Round 2,LEAGUE,207129,UD Vilafranquense,Local,2ND,14/08/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438965,239,42663,NORMAL,REGULAR,Round 2,LEAGUE,21831,UD Oliveirense,Visita,ALL,14/08/2022,2,1,,0.00,,9,4,1,13,,,24,3,0,3,0,4,2,0,0,,,,,,1,,24,,,,,,,,,,,,,,,,4,,,,,14
+10438965,239,42663,NORMAL,REGULAR,Round 2,LEAGUE,21831,UD Oliveirense,Visita,1ST,14/08/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438965,239,42663,NORMAL,REGULAR,Round 2,LEAGUE,21831,UD Oliveirense,Visita,2ND,14/08/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438970,239,42663,NORMAL,REGULAR,Round 3,LEAGUE,6154,CD Trofense,Local,ALL,20/08/2022,3,1,,0.00,,9,1,6,13,,,23,2,0,6,0,3,0,0,0,,,,,,0,,34,,,,,,,,,,,,,,,,1,,,,,10
+10438970,239,42663,NORMAL,REGULAR,Round 3,LEAGUE,6154,CD Trofense,Local,1ST,20/08/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438970,239,42663,NORMAL,REGULAR,Round 3,LEAGUE,6154,CD Trofense,Local,2ND,20/08/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438970,239,42663,NORMAL,REGULAR,Round 3,LEAGUE,207129,UD Vilafranquense,Visita,ALL,20/08/2022,3,3,,0.00,,15,5,5,17,,,13,4,0,6,0,8,1,0,0,,,,,,6,,14,,,,,,,,,,,,,,,,5,,,,,12
+10438970,239,42663,NORMAL,REGULAR,Round 3,LEAGUE,207129,UD Vilafranquense,Visita,1ST,20/08/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438970,239,42663,NORMAL,REGULAR,Round 3,LEAGUE,207129,UD Vilafranquense,Visita,2ND,20/08/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438981,239,42663,NORMAL,REGULAR,Round 4,LEAGUE,207129,UD Vilafranquense,Local,ALL,26/08/2022,4,1,,0.00,,5,1,3,17,,,11,4,0,1,0,2,2,0,0,,,,,,2,,37,,,,,,,,,,,,,,,,1,,,,,5
+10438981,239,42663,NORMAL,REGULAR,Round 4,LEAGUE,207129,UD Vilafranquense,Local,1ST,26/08/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438981,239,42663,NORMAL,REGULAR,Round 4,LEAGUE,207129,UD Vilafranquense,Local,2ND,26/08/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438981,239,42663,NORMAL,REGULAR,Round 4,LEAGUE,4501,Feirense,Visita,ALL,26/08/2022,4,0,,0.00,,6,0,3,10,,,19,5,0,1,0,2,3,0,0,,,,,,1,,30,,,,,,,,,,,,,,,,0,,,,,10
+10438981,239,42663,NORMAL,REGULAR,Round 4,LEAGUE,4501,Feirense,Visita,1ST,26/08/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438981,239,42663,NORMAL,REGULAR,Round 4,LEAGUE,4501,Feirense,Visita,2ND,26/08/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438988,239,42663,NORMAL,REGULAR,Round 5,LEAGUE,74469,FC Porto B,Local,ALL,03/09/2022,5,0,61%,0.00,,9,2,7,15,,,22,1,0,3,0,3,3,0,0,,,,,,0,,21,,,,,,,,,,,,,,,,2,,,,,8
+10438988,239,42663,NORMAL,REGULAR,Round 5,LEAGUE,74469,FC Porto B,Local,1ST,03/09/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438988,239,42663,NORMAL,REGULAR,Round 5,LEAGUE,74469,FC Porto B,Local,2ND,03/09/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438988,239,42663,NORMAL,REGULAR,Round 5,LEAGUE,207129,UD Vilafranquense,Visita,ALL,03/09/2022,5,1,39%,0.00,,9,3,7,18,,,15,2,0,3,0,6,0,0,0,,,,,,4,,24,,,,,,,,,,,,,,,,3,,,,,8
+10438988,239,42663,NORMAL,REGULAR,Round 5,LEAGUE,207129,UD Vilafranquense,Visita,1ST,03/09/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10438988,239,42663,NORMAL,REGULAR,Round 5,LEAGUE,207129,UD Vilafranquense,Visita,2ND,03/09/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439000,239,42663,NORMAL,REGULAR,Round 6,LEAGUE,207129,UD Vilafranquense,Local,ALL,10/09/2022,6,3,41%,0.00,,18,4,8,15,,,20,6,0,9,0,6,3,0,0,,,,,,2,,19,,,,,,,,,,,,,,,,4,,,,,6
+10439000,239,42663,NORMAL,REGULAR,Round 6,LEAGUE,207129,UD Vilafranquense,Local,1ST,10/09/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439000,239,42663,NORMAL,REGULAR,Round 6,LEAGUE,207129,UD Vilafranquense,Local,2ND,10/09/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439000,239,42663,NORMAL,REGULAR,Round 6,LEAGUE,74465,SL Benfica B U21,Visita,ALL,10/09/2022,6,2,59%,0.00,,10,6,2,19,,,17,5,0,6,0,4,0,0,0,,,,,,1,,18,,,,,,,,,,,,,,,,6,,,,,10
+10439000,239,42663,NORMAL,REGULAR,Round 6,LEAGUE,74465,SL Benfica B U21,Visita,1ST,10/09/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439000,239,42663,NORMAL,REGULAR,Round 6,LEAGUE,74465,SL Benfica B U21,Visita,2ND,10/09/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439006,239,42663,NORMAL,REGULAR,Round 7,LEAGUE,2998,SC Farense,Local,ALL,18/09/2022,7,2,52%,0.00,,14,1,8,18,,,21,2,0,7,0,7,0,0,0,,,,,,0,,24,,,,,,,,,,,,,,,,1,,,,,7
+10439006,239,42663,NORMAL,REGULAR,Round 7,LEAGUE,2998,SC Farense,Local,1ST,18/09/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439006,239,42663,NORMAL,REGULAR,Round 7,LEAGUE,2998,SC Farense,Local,2ND,18/09/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439006,239,42663,NORMAL,REGULAR,Round 7,LEAGUE,207129,UD Vilafranquense,Visita,ALL,18/09/2022,7,1,48%,0.00,,7,5,4,20,,,18,7,1,2,0,3,2,0,0,,,,,,1,,31,,,,,,,,,,,,,,,,5,,,,,10
+10439006,239,42663,NORMAL,REGULAR,Round 7,LEAGUE,207129,UD Vilafranquense,Visita,1ST,18/09/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439006,239,42663,NORMAL,REGULAR,Round 7,LEAGUE,207129,UD Vilafranquense,Visita,2ND,18/09/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439018,239,42663,NORMAL,REGULAR,Round 8,LEAGUE,207129,UD Vilafranquense,Local,ALL,08/10/2022,8,0,61%,0.00,,8,0,1,18,,,19,5,0,2,0,3,3,0,0,,,,,,6,,42,,,,,,,,,,,,,,,,0,,,,,5
+10439018,239,42663,NORMAL,REGULAR,Round 8,LEAGUE,207129,UD Vilafranquense,Local,1ST,08/10/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439018,239,42663,NORMAL,REGULAR,Round 8,LEAGUE,207129,UD Vilafranquense,Local,2ND,08/10/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439018,239,42663,NORMAL,REGULAR,Round 8,LEAGUE,3017,Penafiel,Visita,ALL,08/10/2022,8,1,39%,0.00,,5,2,3,18,,,24,3,0,1,0,4,0,0,0,,,,,,1,,29,,,,,,,,,,,,,,,,2,,,,,8
+10439018,239,42663,NORMAL,REGULAR,Round 8,LEAGUE,3017,Penafiel,Visita,1ST,08/10/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439018,239,42663,NORMAL,REGULAR,Round 8,LEAGUE,3017,Penafiel,Visita,2ND,08/10/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439022,239,42663,NORMAL,REGULAR,Round 9,LEAGUE,3013,CD Nacional,Local,ALL,19/10/2022,9,1,46%,0.00,,8,2,2,9,,,28,2,0,3,0,4,1,0,0,,,,,,3,,24,,,,,,,,,,,,,,,,2,,,,,10
+10439022,239,42663,NORMAL,REGULAR,Round 9,LEAGUE,3013,CD Nacional,Local,1ST,19/10/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439022,239,42663,NORMAL,REGULAR,Round 9,LEAGUE,3013,CD Nacional,Local,2ND,19/10/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439022,239,42663,NORMAL,REGULAR,Round 9,LEAGUE,207129,UD Vilafranquense,Visita,ALL,19/10/2022,9,1,54%,0.00,,8,2,13,27,,,12,5,0,4,0,4,0,0,0,,,,,,1,,26,,,,,,,,,,,,,,,,2,,,,,6
+10439022,239,42663,NORMAL,REGULAR,Round 9,LEAGUE,207129,UD Vilafranquense,Visita,1ST,19/10/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439022,239,42663,NORMAL,REGULAR,Round 9,LEAGUE,207129,UD Vilafranquense,Visita,2ND,19/10/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439030,239,42663,NORMAL,REGULAR,Round 10,LEAGUE,207129,UD Vilafranquense,Local,ALL,23/10/2022,10,1,,0.00,,15,0,6,17,,,19,6,0,6,0,6,3,0,0,,,,,,0,,26,,,,,,,,,,,,,,,,0,,,,,5
+10439030,239,42663,NORMAL,REGULAR,Round 10,LEAGUE,207129,UD Vilafranquense,Local,1ST,23/10/2022,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439030,239,42663,NORMAL,REGULAR,Round 10,LEAGUE,207129,UD Vilafranquense,Local,2ND,23/10/2022,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439030,239,42663,NORMAL,REGULAR,Round 10,LEAGUE,3022,Académico Viseu FC,Visita,ALL,23/10/2022,10,3,,0.00,,7,4,2,18,,,17,3,0,3,0,4,0,0,0,,,,,,1,,22,,,,,,,,,,,,,,,,4,,,,,11
+10439030,239,42663,NORMAL,REGULAR,Round 10,LEAGUE,3022,Académico Viseu FC,Visita,1ST,23/10/2022,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439030,239,42663,NORMAL,REGULAR,Round 10,LEAGUE,3022,Académico Viseu FC,Visita,2ND,23/10/2022,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439042,239,42663,NORMAL,REGULAR,Round 11,LEAGUE,3035,CF Estrela Amadora,Local,ALL,31/10/2022,11,1,,0.00,,8,2,6,15,,,16,1,0,2,0,2,4,0,0,,,,,,4,,26,,,,,,,,,,,,,,,,2,,,,,14
+10439042,239,42663,NORMAL,REGULAR,Round 11,LEAGUE,3035,CF Estrela Amadora,Local,1ST,31/10/2022,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439042,239,42663,NORMAL,REGULAR,Round 11,LEAGUE,3035,CF Estrela Amadora,Local,2ND,31/10/2022,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439042,239,42663,NORMAL,REGULAR,Round 11,LEAGUE,207129,UD Vilafranquense,Visita,ALL,31/10/2022,11,1,,0.00,,10,1,3,13,,,19,1,0,3,0,6,1,0,0,,,,,,3,,28,,,,,,,,,,,,,,,,1,,,,,5
+10439042,239,42663,NORMAL,REGULAR,Round 11,LEAGUE,207129,UD Vilafranquense,Visita,1ST,31/10/2022,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439042,239,42663,NORMAL,REGULAR,Round 11,LEAGUE,207129,UD Vilafranquense,Visita,2ND,31/10/2022,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439052,239,42663,NORMAL,REGULAR,Round 12,LEAGUE,207129,UD Vilafranquense,Local,ALL,05/11/2022,12,1,,0.00,,10,1,3,26,,,19,4,1,3,0,3,4,0,0,,,,,,1,,20,,,,,,,,,,,,,,,,1,,,,,7
+10439052,239,42663,NORMAL,REGULAR,Round 12,LEAGUE,207129,UD Vilafranquense,Local,1ST,05/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439052,239,42663,NORMAL,REGULAR,Round 12,LEAGUE,207129,UD Vilafranquense,Local,2ND,05/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439052,239,42663,NORMAL,REGULAR,Round 12,LEAGUE,38396,Tondela,Visita,ALL,05/11/2022,12,1,,0.00,,7,2,6,17,,,27,3,0,2,0,4,1,0,0,,,,,,2,,16,,,,,,,,,,,,,,,,2,,,,,8
+10439052,239,42663,NORMAL,REGULAR,Round 12,LEAGUE,38396,Tondela,Visita,1ST,05/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439052,239,42663,NORMAL,REGULAR,Round 12,LEAGUE,38396,Tondela,Visita,2ND,05/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439060,239,42663,NORMAL,REGULAR,Round 13,LEAGUE,25787,Torreense,Local,ALL,11/11/2022,13,0,40%,0.00,,9,1,1,18,,,20,4,0,6,0,3,0,0,0,,,,,,3,,29,,,,,,,,,,,,,,,,1,,,,,14
+10439060,239,42663,NORMAL,REGULAR,Round 13,LEAGUE,25787,Torreense,Local,1ST,11/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439060,239,42663,NORMAL,REGULAR,Round 13,LEAGUE,25787,Torreense,Local,2ND,11/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439060,239,42663,NORMAL,REGULAR,Round 13,LEAGUE,207129,UD Vilafranquense,Visita,ALL,11/11/2022,13,1,60%,0.00,,6,6,6,19,,,21,5,0,2,0,1,3,0,0,,,,,,1,,23,,,,,,,,,,,,,,,,6,,,,,6
+10439060,239,42663,NORMAL,REGULAR,Round 13,LEAGUE,207129,UD Vilafranquense,Visita,1ST,11/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439060,239,42663,NORMAL,REGULAR,Round 13,LEAGUE,207129,UD Vilafranquense,Visita,2ND,11/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439069,239,42663,NORMAL,REGULAR,Round 14,LEAGUE,207129,UD Vilafranquense,Local,ALL,23/12/2022,14,3,,0.00,,12,0,0,21,,,11,6,0,5,0,3,4,0,0,,,,,,1,,14,,,,,,,,,,,,,,,,0,,,,,4
+10439069,239,42663,NORMAL,REGULAR,Round 14,LEAGUE,207129,UD Vilafranquense,Local,1ST,23/12/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439069,239,42663,NORMAL,REGULAR,Round 14,LEAGUE,207129,UD Vilafranquense,Local,2ND,23/12/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439069,239,42663,NORMAL,REGULAR,Round 14,LEAGUE,38744,CD Mafra,Visita,ALL,23/12/2022,14,3,,0.00,,7,2,3,10,,,22,2,0,3,0,3,1,0,0,,,,,,1,,16,,,,,,,,,,,,,,,,2,,,,,7
+10439069,239,42663,NORMAL,REGULAR,Round 14,LEAGUE,38744,CD Mafra,Visita,1ST,23/12/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439069,239,42663,NORMAL,REGULAR,Round 14,LEAGUE,38744,CD Mafra,Visita,2ND,23/12/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439078,239,42663,NORMAL,REGULAR,Round 15,LEAGUE,3037,SC Covilhã,Local,ALL,08/01/2023,15,0,,0.00,,9,3,4,17,,,25,1,0,3,0,3,3,0,0,,,,,,1,,49,,,,,,,,,,,,,,,,3,,,,,8
+10439078,239,42663,NORMAL,REGULAR,Round 15,LEAGUE,3037,SC Covilhã,Local,1ST,08/01/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439078,239,42663,NORMAL,REGULAR,Round 15,LEAGUE,3037,SC Covilhã,Local,2ND,08/01/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439078,239,42663,NORMAL,REGULAR,Round 15,LEAGUE,207129,UD Vilafranquense,Visita,ALL,08/01/2023,15,0,,0.00,,7,3,7,20,,,18,1,0,3,0,2,2,0,0,,,,,,5,,41,,,,,,,,,,,,,,,,3,,,,,7
+10439078,239,42663,NORMAL,REGULAR,Round 15,LEAGUE,207129,UD Vilafranquense,Visita,1ST,08/01/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439078,239,42663,NORMAL,REGULAR,Round 15,LEAGUE,207129,UD Vilafranquense,Visita,2ND,08/01/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439088,239,42663,NORMAL,REGULAR,Round 16,LEAGUE,207129,UD Vilafranquense,Local,ALL,14/01/2023,16,2,,0.00,,14,4,4,16,,,10,3,0,5,0,6,3,0,0,,,,,,2,,24,,,,,,,,,,,,,,,,4,,,,,6
+10439088,239,42663,NORMAL,REGULAR,Round 16,LEAGUE,207129,UD Vilafranquense,Local,1ST,14/01/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439088,239,42663,NORMAL,REGULAR,Round 16,LEAGUE,207129,UD Vilafranquense,Local,2ND,14/01/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439088,239,42663,NORMAL,REGULAR,Round 16,LEAGUE,3018,Leixões SC,Visita,ALL,14/01/2023,16,0,,0.00,,9,3,4,9,,,18,2,0,4,0,3,2,0,0,,,,,,1,,25,,,,,,,,,,,,,,,,3,,,,,9
+10439088,239,42663,NORMAL,REGULAR,Round 16,LEAGUE,3018,Leixões SC,Visita,1ST,14/01/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439088,239,42663,NORMAL,REGULAR,Round 16,LEAGUE,3018,Leixões SC,Visita,2ND,14/01/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439092,239,42663,NORMAL,REGULAR,Round 17,LEAGUE,3004,B-SAD,Local,ALL,21/01/2023,17,0,53%,0.00,,10,1,9,13,,,22,3,0,1,0,6,3,0,0,,,,,,0,,24,,,,,,,,,,,,,,,,1,,,,,8
+10439092,239,42663,NORMAL,REGULAR,Round 17,LEAGUE,3004,B-SAD,Local,1ST,21/01/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439092,239,42663,NORMAL,REGULAR,Round 17,LEAGUE,3004,B-SAD,Local,2ND,21/01/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439092,239,42663,NORMAL,REGULAR,Round 17,LEAGUE,207129,UD Vilafranquense,Visita,ALL,21/01/2023,17,3,47%,0.00,,8,1,6,19,,,13,6,0,5,0,2,1,0,0,,,,,,3,,17,,,,,,,,,,,,,,,,1,,,,,11
+10439092,239,42663,NORMAL,REGULAR,Round 17,LEAGUE,207129,UD Vilafranquense,Visita,1ST,21/01/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439092,239,42663,NORMAL,REGULAR,Round 17,LEAGUE,207129,UD Vilafranquense,Visita,2ND,21/01/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439101,239,42663,NORMAL,REGULAR,Round 18,LEAGUE,207129,UD Vilafranquense,Local,ALL,29/01/2023,18,1,49%,0.00,,11,0,5,11,,,15,2,0,6,0,4,1,0,0,,,,,,2,,26,,,,,,,,,,,,,,,,0,,,,,6
+10439101,239,42663,NORMAL,REGULAR,Round 18,LEAGUE,207129,UD Vilafranquense,Local,1ST,29/01/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439101,239,42663,NORMAL,REGULAR,Round 18,LEAGUE,207129,UD Vilafranquense,Local,2ND,29/01/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439101,239,42663,NORMAL,REGULAR,Round 18,LEAGUE,3014,Moreirense,Visita,ALL,29/01/2023,18,2,51%,0.00,,4,5,4,15,,,13,2,0,2,0,1,1,0,0,,,,,,0,,33,,,,,,,,,,,,,,,,5,,,,,12
+10439101,239,42663,NORMAL,REGULAR,Round 18,LEAGUE,3014,Moreirense,Visita,1ST,29/01/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439101,239,42663,NORMAL,REGULAR,Round 18,LEAGUE,3014,Moreirense,Visita,2ND,29/01/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439118,239,42663,NORMAL,REGULAR,Round 19,LEAGUE,21831,UD Oliveirense,Local,ALL,04/02/2023,19,2,,0.00,,15,2,6,19,,,22,5,0,6,0,2,7,0,0,,,,,,3,,32,,,,,,,,,,,,,,,,2,,,,,5
+10439118,239,42663,NORMAL,REGULAR,Round 19,LEAGUE,21831,UD Oliveirense,Local,1ST,04/02/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439118,239,42663,NORMAL,REGULAR,Round 19,LEAGUE,21831,UD Oliveirense,Local,2ND,04/02/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439118,239,42663,NORMAL,REGULAR,Round 19,LEAGUE,207129,UD Vilafranquense,Visita,ALL,04/02/2023,19,2,,0.00,,7,4,3,22,,,22,6,0,4,0,1,2,0,0,,,,,,0,,25,,,,,,,,,,,,,,,,4,,,,,8
+10439118,239,42663,NORMAL,REGULAR,Round 19,LEAGUE,207129,UD Vilafranquense,Visita,1ST,04/02/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439118,239,42663,NORMAL,REGULAR,Round 19,LEAGUE,207129,UD Vilafranquense,Visita,2ND,04/02/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439123,239,42663,NORMAL,REGULAR,Round 20,LEAGUE,207129,UD Vilafranquense,Local,ALL,11/02/2023,20,0,46%,0.00,,6,2,0,21,,,17,2,0,1,0,5,0,0,0,,,,,,7,,13,,,,,,,,,,,,,,,,2,,,,,5
+10439123,239,42663,NORMAL,REGULAR,Round 20,LEAGUE,207129,UD Vilafranquense,Local,1ST,11/02/2023,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439123,239,42663,NORMAL,REGULAR,Round 20,LEAGUE,207129,UD Vilafranquense,Local,2ND,11/02/2023,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439123,239,42663,NORMAL,REGULAR,Round 20,LEAGUE,6154,CD Trofense,Visita,ALL,11/02/2023,20,1,54%,0.00,,7,1,5,17,,,28,2,0,3,0,3,1,0,0,,,,,,0,,27,,,,,,,,,,,,,,,,1,,,,,11
+10439123,239,42663,NORMAL,REGULAR,Round 20,LEAGUE,6154,CD Trofense,Visita,1ST,11/02/2023,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439123,239,42663,NORMAL,REGULAR,Round 20,LEAGUE,6154,CD Trofense,Visita,2ND,11/02/2023,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439134,239,42663,NORMAL,REGULAR,Round 21,LEAGUE,4501,Feirense,Local,ALL,18/02/2023,21,1,42%,0.00,,21,8,10,10,,,14,2,0,9,0,4,8,0,0,,,,,,,,29,,,,,,,,,,,,,,,,8,,,,,3
+10439134,239,42663,NORMAL,REGULAR,Round 21,LEAGUE,4501,Feirense,Local,1ST,18/02/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439134,239,42663,NORMAL,REGULAR,Round 21,LEAGUE,4501,Feirense,Local,2ND,18/02/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439134,239,42663,NORMAL,REGULAR,Round 21,LEAGUE,207129,UD Vilafranquense,Visita,ALL,18/02/2023,21,2,58%,0.00,,15,8,8,14,,,10,6,0,10,0,2,3,0,0,,,,,,,,21,,,,,,,,,,,,,,,,8,,,,,6
+10439134,239,42663,NORMAL,REGULAR,Round 21,LEAGUE,207129,UD Vilafranquense,Visita,1ST,18/02/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439134,239,42663,NORMAL,REGULAR,Round 21,LEAGUE,207129,UD Vilafranquense,Visita,2ND,18/02/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439141,239,42663,NORMAL,REGULAR,Round 22,LEAGUE,207129,UD Vilafranquense,Local,ALL,26/02/2023,22,1,,0.00,,9,2,2,18,,,14,6,0,7,0,2,0,0,0,,,,,,2,,16,,,,,,,,,,,,,,,,2,,,,,7
+10439141,239,42663,NORMAL,REGULAR,Round 22,LEAGUE,207129,UD Vilafranquense,Local,1ST,26/02/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439141,239,42663,NORMAL,REGULAR,Round 22,LEAGUE,207129,UD Vilafranquense,Local,2ND,26/02/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439141,239,42663,NORMAL,REGULAR,Round 22,LEAGUE,74469,FC Porto B,Visita,ALL,26/02/2023,22,2,,0.00,,8,5,11,12,,,20,2,0,4,0,3,1,0,0,,,,,,2,,25,,,,,,,,,,,,,,,,5,,,,,6
+10439141,239,42663,NORMAL,REGULAR,Round 22,LEAGUE,74469,FC Porto B,Visita,1ST,26/02/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439141,239,42663,NORMAL,REGULAR,Round 22,LEAGUE,74469,FC Porto B,Visita,2ND,26/02/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439158,239,42663,NORMAL,REGULAR,Round 23,LEAGUE,74465,SL Benfica B U21,Local,ALL,04/03/2023,23,0,,0.00,,12,2,12,8,,,20,1,0,3,0,5,4,0,0,,,,,,0,,17,,,,,,,,,,,,,,,,2,,,,,8
+10439158,239,42663,NORMAL,REGULAR,Round 23,LEAGUE,74465,SL Benfica B U21,Local,1ST,04/03/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439158,239,42663,NORMAL,REGULAR,Round 23,LEAGUE,74465,SL Benfica B U21,Local,2ND,04/03/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439158,239,42663,NORMAL,REGULAR,Round 23,LEAGUE,207129,UD Vilafranquense,Visita,ALL,04/03/2023,23,2,,0.00,,17,3,9,16,,,8,3,0,4,0,7,6,0,0,,,,,,4,,21,,,,,,,,,,,,,,,,3,,,,,10
+10439158,239,42663,NORMAL,REGULAR,Round 23,LEAGUE,207129,UD Vilafranquense,Visita,1ST,04/03/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439158,239,42663,NORMAL,REGULAR,Round 23,LEAGUE,207129,UD Vilafranquense,Visita,2ND,04/03/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10899007,239,42663,NORMAL,REGULAR,Round 24,LEAGUE,207129,UD Vilafranquense,Local,ALL,11/03/2023,24,1,48%,0.00,,7,3,4,20,,,12,4,0,1,0,4,2,0,0,,,,,,0,,21,,,,,,,,,,,,,,,,3,,,,,8
+10899007,239,42663,NORMAL,REGULAR,Round 24,LEAGUE,207129,UD Vilafranquense,Local,1ST,11/03/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10899007,239,42663,NORMAL,REGULAR,Round 24,LEAGUE,207129,UD Vilafranquense,Local,2ND,11/03/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10899007,239,42663,NORMAL,REGULAR,Round 24,LEAGUE,2998,SC Farense,Visita,ALL,11/03/2023,24,1,52%,0.00,,9,0,6,11,,,20,2,0,5,0,3,1,0,0,,,,,,1,,29,,,,,,,,,,,,,,,,0,,,,,6
+10899007,239,42663,NORMAL,REGULAR,Round 24,LEAGUE,2998,SC Farense,Visita,1ST,11/03/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10899007,239,42663,NORMAL,REGULAR,Round 24,LEAGUE,2998,SC Farense,Visita,2ND,11/03/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439176,239,42663,NORMAL,REGULAR,Round 25,LEAGUE,3017,Penafiel,Local,ALL,19/03/2023,25,1,,0.00,,2,1,7,14,,,25,3,0,2,0,0,0,0,0,,,,,,3,,30,,,,,,,,,,,,,,,,1,,,,,9
+10439176,239,42663,NORMAL,REGULAR,Round 25,LEAGUE,3017,Penafiel,Local,1ST,19/03/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439176,239,42663,NORMAL,REGULAR,Round 25,LEAGUE,3017,Penafiel,Local,2ND,19/03/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439176,239,42663,NORMAL,REGULAR,Round 25,LEAGUE,207129,UD Vilafranquense,Visita,ALL,19/03/2023,25,1,,0.00,,5,1,1,20,,,17,3,0,2,0,3,0,0,0,,,,,,5,,29,,,,,,,,,,,,,,,,1,,,,,4
+10439176,239,42663,NORMAL,REGULAR,Round 25,LEAGUE,207129,UD Vilafranquense,Visita,1ST,19/03/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439176,239,42663,NORMAL,REGULAR,Round 25,LEAGUE,207129,UD Vilafranquense,Visita,2ND,19/03/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439180,239,42663,NORMAL,REGULAR,Round 26,LEAGUE,207129,UD Vilafranquense,Local,ALL,02/04/2023,26,4,56%,0.00,,14,4,3,13,,,10,2,0,8,0,3,3,0,0,,,,,,2,,10,,,,,,,,,,,,,,,,4,,,,,8
+10439180,239,42663,NORMAL,REGULAR,Round 26,LEAGUE,207129,UD Vilafranquense,Local,1ST,02/04/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439180,239,42663,NORMAL,REGULAR,Round 26,LEAGUE,207129,UD Vilafranquense,Local,2ND,02/04/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439180,239,42663,NORMAL,REGULAR,Round 26,LEAGUE,3013,CD Nacional,Visita,ALL,02/04/2023,26,0,44%,0.00,,9,4,5,9,,,15,1,0,4,0,5,0,0,0,,,,,,1,,21,,,,,,,,,,,,,,,,4,,,,,7
+10439180,239,42663,NORMAL,REGULAR,Round 26,LEAGUE,3013,CD Nacional,Visita,1ST,02/04/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439180,239,42663,NORMAL,REGULAR,Round 26,LEAGUE,3013,CD Nacional,Visita,2ND,02/04/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439188,239,42663,NORMAL,REGULAR,Round 27,LEAGUE,3022,Académico Viseu FC,Local,ALL,08/04/2023,27,2,42%,0.00,,14,4,6,11,,,13,2,0,5,0,6,3,0,0,,,,,,0,,23,,,,,,,,,,,,,,,,4,,,,,10
+10439188,239,42663,NORMAL,REGULAR,Round 27,LEAGUE,3022,Académico Viseu FC,Local,1ST,08/04/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439188,239,42663,NORMAL,REGULAR,Round 27,LEAGUE,3022,Académico Viseu FC,Local,2ND,08/04/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439188,239,42663,NORMAL,REGULAR,Round 27,LEAGUE,207129,UD Vilafranquense,Visita,ALL,08/04/2023,27,0,58%,0.00,,16,3,9,10,,,11,2,0,4,0,7,5,0,0,,,,,,3,,26,,,,,,,,,,,,,,,,3,,,,,9
+10439188,239,42663,NORMAL,REGULAR,Round 27,LEAGUE,207129,UD Vilafranquense,Visita,1ST,08/04/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439188,239,42663,NORMAL,REGULAR,Round 27,LEAGUE,207129,UD Vilafranquense,Visita,2ND,08/04/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439200,239,42663,NORMAL,REGULAR,Round 28,LEAGUE,207129,UD Vilafranquense,Local,ALL,17/04/2023,28,0,45%,0.00,,9,3,2,17,,,17,2,0,5,0,2,2,0,0,,,,,,1,,15,,,,,,,,,,,,,,,,3,,,,,8
+10439200,239,42663,NORMAL,REGULAR,Round 28,LEAGUE,207129,UD Vilafranquense,Local,1ST,17/04/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439200,239,42663,NORMAL,REGULAR,Round 28,LEAGUE,207129,UD Vilafranquense,Local,2ND,17/04/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439200,239,42663,NORMAL,REGULAR,Round 28,LEAGUE,3035,CF Estrela Amadora,Visita,ALL,17/04/2023,28,1,55%,0.00,,11,5,5,16,,,18,3,0,4,0,5,2,0,0,,,,,,1,,22,,,,,,,,,,,,,,,,5,,,,,8
+10439200,239,42663,NORMAL,REGULAR,Round 28,LEAGUE,3035,CF Estrela Amadora,Visita,1ST,17/04/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439200,239,42663,NORMAL,REGULAR,Round 28,LEAGUE,3035,CF Estrela Amadora,Visita,2ND,17/04/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439210,239,42663,NORMAL,REGULAR,Round 29,LEAGUE,38396,Tondela,Local,ALL,23/04/2023,29,1,45%,0.00,,11,2,7,13,,,18,1,0,3,0,6,2,0,0,,,,,,0,,20,,,,,,,,,,,,,,,,2,,,,,6
+10439210,239,42663,NORMAL,REGULAR,Round 29,LEAGUE,38396,Tondela,Local,1ST,23/04/2023,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439210,239,42663,NORMAL,REGULAR,Round 29,LEAGUE,38396,Tondela,Local,2ND,23/04/2023,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439210,239,42663,NORMAL,REGULAR,Round 29,LEAGUE,207129,UD Vilafranquense,Visita,ALL,23/04/2023,29,0,55%,0.00,,9,4,7,15,,,13,4,0,2,0,6,1,0,0,,,,,,3,,22,,,,,,,,,,,,,,,,4,,,,,10
+10439210,239,42663,NORMAL,REGULAR,Round 29,LEAGUE,207129,UD Vilafranquense,Visita,1ST,23/04/2023,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439210,239,42663,NORMAL,REGULAR,Round 29,LEAGUE,207129,UD Vilafranquense,Visita,2ND,23/04/2023,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439218,239,42663,NORMAL,REGULAR,Round 30,LEAGUE,207129,UD Vilafranquense,Local,ALL,29/04/2023,30,2,38%,0.00,,4,1,1,12,,,10,1,1,2,0,2,0,0,0,,,,,,4,,16,,,,,,,,,,,,,,,,1,,,,,8
+10439218,239,42663,NORMAL,REGULAR,Round 30,LEAGUE,207129,UD Vilafranquense,Local,1ST,29/04/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439218,239,42663,NORMAL,REGULAR,Round 30,LEAGUE,207129,UD Vilafranquense,Local,2ND,29/04/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439218,239,42663,NORMAL,REGULAR,Round 30,LEAGUE,25787,Torreense,Visita,ALL,29/04/2023,30,0,62%,0.00,,9,0,9,9,,,16,3,0,1,0,6,2,0,0,,,,,,1,,18,,,,,,,,,,,,,,,,0,,,,,4
+10439218,239,42663,NORMAL,REGULAR,Round 30,LEAGUE,25787,Torreense,Visita,1ST,29/04/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439218,239,42663,NORMAL,REGULAR,Round 30,LEAGUE,25787,Torreense,Visita,2ND,29/04/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439227,239,42663,NORMAL,REGULAR,Round 31,LEAGUE,38744,CD Mafra,Local,ALL,06/05/2023,31,2,53%,0.00,,9,4,4,9,,,17,0,0,4,0,2,3,0,0,,,,,,1,,21,,,,,,,,,,,,,,,,4,,,,,11
+10439227,239,42663,NORMAL,REGULAR,Round 31,LEAGUE,38744,CD Mafra,Local,1ST,06/05/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439227,239,42663,NORMAL,REGULAR,Round 31,LEAGUE,38744,CD Mafra,Local,2ND,06/05/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439227,239,42663,NORMAL,REGULAR,Round 31,LEAGUE,207129,UD Vilafranquense,Visita,ALL,06/05/2023,31,1,47%,0.00,,14,2,5,15,,,11,2,0,5,0,7,2,0,0,,,,,,2,,30,,,,,,,,,,,,,,,,2,,,,,2
+10439227,239,42663,NORMAL,REGULAR,Round 31,LEAGUE,207129,UD Vilafranquense,Visita,1ST,06/05/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439227,239,42663,NORMAL,REGULAR,Round 31,LEAGUE,207129,UD Vilafranquense,Visita,2ND,06/05/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439236,239,42663,NORMAL,REGULAR,Round 32,LEAGUE,207129,UD Vilafranquense,Local,ALL,14/05/2023,32,0,56%,0.00,,9,1,3,10,,,14,1,0,2,0,4,3,0,0,,,,,,3,,26,,,,,,,,,,,,,,,,1,,,,,8
+10439236,239,42663,NORMAL,REGULAR,Round 32,LEAGUE,207129,UD Vilafranquense,Local,1ST,14/05/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439236,239,42663,NORMAL,REGULAR,Round 32,LEAGUE,207129,UD Vilafranquense,Local,2ND,14/05/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439236,239,42663,NORMAL,REGULAR,Round 32,LEAGUE,3037,SC Covilhã,Visita,ALL,14/05/2023,32,0,44%,0.00,,5,2,3,13,,,13,1,0,1,0,4,0,0,0,,,,,,1,,28,,,,,,,,,,,,,,,,2,,,,,9
+10439236,239,42663,NORMAL,REGULAR,Round 32,LEAGUE,3037,SC Covilhã,Visita,1ST,14/05/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439236,239,42663,NORMAL,REGULAR,Round 32,LEAGUE,3037,SC Covilhã,Visita,2ND,14/05/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10439246,239,42663,NORMAL,REGULAR,Round 33,LEAGUE,3018,Leixões SC,Local,ALL,19/05/2023,33,2,39%,0.00,0,5,2,3,17,320,9,12,2,,2,0,3,0,4,1,,0,0,,2,2,247,28,49,,27/71 (38%),3/13 (23%),42%,15,27/65 (42%),8/19 (42%),6/10 (60%),44%,9,10,,18,,2,,,,,7
+10439246,239,42663,NORMAL,REGULAR,Round 33,LEAGUE,3018,Leixões SC,Local,1ST,19/05/2023,33,0,48%,0.00,0,1,1,2,,225,3,6,2,,0,0,1,0,0,1,,0,0,,1,1,190,13,27,,15/31 (48%),2/9 (22%),40%,9,11/27 (41%),5/13 (38%),2/3 (67%),33%,3,6,,4,,1,,,,,4
+10439246,239,42663,NORMAL,REGULAR,Round 33,LEAGUE,3018,Leixões SC,Local,2ND,19/05/2023,33,2,27%,0.00,0,4,1,1,,95,6,6,0,,2,0,2,0,4,0,,0,0,,1,1,57,15,22,,12/40 (30%),1/4 (25%),43%,6,16/38 (42%),3/6 (50%),4/7 (57%),50%,6,4,,14,,1,,,,,3
+10439246,239,42663,NORMAL,REGULAR,Round 33,LEAGUE,207129,UD Vilafranquense,Visita,ALL,19/05/2023,33,0,61%,0.00,2,8,0,5,13,491,19,16,3,,2,0,4,2,3,5,,2,1,,2,1,419,16,70,,34/53 (64%),7/28 (25%),58%,5,38/65 (58%),11/19 (58%),3/7 (43%),84%,19,2,,17,,0,,,,,8
+10439246,239,42663,NORMAL,REGULAR,Round 33,LEAGUE,207129,UD Vilafranquense,Visita,1ST,19/05/2023,33,0,52%,0.00,1,4,0,2,,245,10,6,1,,1,0,2,1,2,2,,1,1,,0,0,205,9,28,,17/30 (57%),1/7 (14%),60%,2,16/27 (59%),8/13 (62%),0/1 (0%),100%,10,1,,8,,0,,,,,4
+10439246,239,42663,NORMAL,REGULAR,Round 33,LEAGUE,207129,UD Vilafranquense,Visita,2ND,19/05/2023,33,0,73%,0.00,1,4,0,3,,246,9,10,2,,1,0,2,1,1,3,,1,0,,2,1,214,7,42,,17/23 (74%),6/21 (29%),57%,3,22/38 (58%),3/6 (50%),3/6 (50%),67%,9,1,,9,,0,,,,,4
+10439250,239,42663,NORMAL,REGULAR,Round 34,LEAGUE,207129,UD Vilafranquense,Local,ALL,28/05/2023,34,1,65%,0.00,3,12,1,3,24,532,15,19,2,,5,0,3,4,7,5,1,2,2,,6,5,465,23,69,,23/44 (52%),7/28 (25%),47%,6,45/93 (48%),8/20 (40%),11/25 (44%),80%,15,7,68,4,,1,,,,,4
+10439250,239,42663,NORMAL,REGULAR,Round 34,LEAGUE,207129,UD Vilafranquense,Local,1ST,28/05/2023,34,0,61%,0.00,1,5,0,1,,273,7,10,1,,3,0,0,2,3,2,0,1,1,,4,3,236,13,24,,8/22 (36%),3/10 (30%),44%,3,22/45 (49%),1/7 (14%),5/12 (42%),57%,7,5,32,2,,0,,,,,1
+10439250,239,42663,NORMAL,REGULAR,Round 34,LEAGUE,207129,UD Vilafranquense,Local,2ND,28/05/2023,34,1,69%,0.00,2,7,1,2,,259,8,9,1,,2,0,3,2,4,3,1,1,1,,2,2,229,10,45,,15/22 (68%),4/18 (22%),49%,3,23/48 (48%),7/13 (54%),6/13 (46%),100%,8,2,36,2,,1,,,,,3
+10439250,239,42663,NORMAL,REGULAR,Round 34,LEAGUE,3004,B-SAD,Visita,ALL,28/05/2023,34,1,35%,0.00,1,7,4,2,21,294,20,23,3,,2,0,3,2,3,4,1,0,0,,3,0,221,22,37,,16/50 (32%),2/7 (29%),53%,9,48/93 (52%),12/20 (60%),5/11 (45%),50%,20,9,58,22,,4,,,,,3
+10439250,239,42663,NORMAL,REGULAR,Round 34,LEAGUE,3004,B-SAD,Visita,1ST,28/05/2023,34,1,39%,0.00,1,3,3,0,,176,10,11,0,,1,0,1,1,1,2,1,0,0,,1,0,141,8,17,,10/26 (38%),0/0 (0%),56%,3,23/45 (51%),6/7 (86%),2/6 (33%),50%,10,5,29,5,,3,,,,,0
+10439250,239,42663,NORMAL,REGULAR,Round 34,LEAGUE,3004,B-SAD,Visita,2ND,28/05/2023,34,0,31%,0.00,0,4,1,2,,118,10,12,3,,1,0,2,1,2,2,0,0,0,,2,0,80,14,20,,6/24 (25%),2/7 (29%),51%,6,25/48 (52%),6/13 (46%),3/5 (60%),50%,10,4,29,17,,1,,,,,3

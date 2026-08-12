@@ -1,0 +1,709 @@
+﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+9655401,183,37550,NORMAL,REGULAR,Round 32,LEAGUE,1713,Cholet,Local,ALL,29/04/2022,32,1,,,,,,4,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655401,183,37550,NORMAL,REGULAR,Round 32,LEAGUE,1713,Cholet,Local,1ST,29/04/2022,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655401,183,37550,NORMAL,REGULAR,Round 32,LEAGUE,1713,Cholet,Local,2ND,29/04/2022,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655401,183,37550,NORMAL,REGULAR,Round 32,LEAGUE,1672,Le Mans,Visita,ALL,29/04/2022,32,0,,,,,,6,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655401,183,37550,NORMAL,REGULAR,Round 32,LEAGUE,1672,Le Mans,Visita,1ST,29/04/2022,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655401,183,37550,NORMAL,REGULAR,Round 32,LEAGUE,1672,Le Mans,Visita,2ND,29/04/2022,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655413,183,37550,NORMAL,REGULAR,Round 33,LEAGUE,1672,Le Mans,Local,ALL,06/05/2022,33,1,,,,,,3,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655413,183,37550,NORMAL,REGULAR,Round 33,LEAGUE,1672,Le Mans,Local,1ST,06/05/2022,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655413,183,37550,NORMAL,REGULAR,Round 33,LEAGUE,1672,Le Mans,Local,2ND,06/05/2022,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655413,183,37550,NORMAL,REGULAR,Round 33,LEAGUE,35066,Avranches,Visita,ALL,06/05/2022,33,3,,,,,,2,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655413,183,37550,NORMAL,REGULAR,Round 33,LEAGUE,35066,Avranches,Visita,1ST,06/05/2022,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655413,183,37550,NORMAL,REGULAR,Round 33,LEAGUE,35066,Avranches,Visita,2ND,06/05/2022,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655426,183,37550,NORMAL,REGULAR,Round 34,LEAGUE,211608,Stade Briochin,Local,ALL,13/05/2022,34,2,,,,,,5,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655426,183,37550,NORMAL,REGULAR,Round 34,LEAGUE,211608,Stade Briochin,Local,1ST,13/05/2022,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655426,183,37550,NORMAL,REGULAR,Round 34,LEAGUE,211608,Stade Briochin,Local,2ND,13/05/2022,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655426,183,37550,NORMAL,REGULAR,Round 34,LEAGUE,1672,Le Mans,Visita,ALL,13/05/2022,34,2,,,,,,3,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655426,183,37550,NORMAL,REGULAR,Round 34,LEAGUE,1672,Le Mans,Visita,1ST,13/05/2022,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9655426,183,37550,NORMAL,REGULAR,Round 34,LEAGUE,1672,Le Mans,Visita,2ND,13/05/2022,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10493709,183,42921,NORMAL,REGULAR,Round 1,LEAGUE,6918,USL Dunkerque,Local,ALL,12/08/2022,1,3,,,,,,8,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10493709,183,42921,NORMAL,REGULAR,Round 1,LEAGUE,6918,USL Dunkerque,Local,1ST,12/08/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10493709,183,42921,NORMAL,REGULAR,Round 1,LEAGUE,6918,USL Dunkerque,Local,2ND,12/08/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10493709,183,42921,NORMAL,REGULAR,Round 1,LEAGUE,1672,Le Mans,Visita,ALL,12/08/2022,1,0,,,,,,3,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10493709,183,42921,NORMAL,REGULAR,Round 1,LEAGUE,1672,Le Mans,Visita,1ST,12/08/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10493709,183,42921,NORMAL,REGULAR,Round 1,LEAGUE,1672,Le Mans,Visita,2ND,12/08/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501310,183,42921,NORMAL,REGULAR,Round 11,LEAGUE,1713,Cholet,Local,ALL,04/11/2022,11,2,,,,,,4,,,,,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501310,183,42921,NORMAL,REGULAR,Round 11,LEAGUE,1713,Cholet,Local,1ST,04/11/2022,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501310,183,42921,NORMAL,REGULAR,Round 11,LEAGUE,1713,Cholet,Local,2ND,04/11/2022,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501310,183,42921,NORMAL,REGULAR,Round 11,LEAGUE,1672,Le Mans,Visita,ALL,04/11/2022,11,1,,,,,,7,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501310,183,42921,NORMAL,REGULAR,Round 11,LEAGUE,1672,Le Mans,Visita,1ST,04/11/2022,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501310,183,42921,NORMAL,REGULAR,Round 11,LEAGUE,1672,Le Mans,Visita,2ND,04/11/2022,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501320,183,42921,NORMAL,REGULAR,Round 12,LEAGUE,1672,Le Mans,Local,ALL,11/11/2022,12,5,,,,,,5,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501320,183,42921,NORMAL,REGULAR,Round 12,LEAGUE,1672,Le Mans,Local,1ST,11/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501320,183,42921,NORMAL,REGULAR,Round 12,LEAGUE,1672,Le Mans,Local,2ND,11/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501320,183,42921,NORMAL,REGULAR,Round 12,LEAGUE,181754,Le Puy-en-Velay,Visita,ALL,11/11/2022,12,1,,,,,,5,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501320,183,42921,NORMAL,REGULAR,Round 12,LEAGUE,181754,Le Puy-en-Velay,Visita,1ST,11/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501320,183,42921,NORMAL,REGULAR,Round 12,LEAGUE,181754,Le Puy-en-Velay,Visita,2ND,11/11/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10894497,183,42921,NORMAL,REGULAR,Round 13,LEAGUE,1666,Châteauroux,Local,ALL,28/11/2022,13,0,,,,,,3,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10894497,183,42921,NORMAL,REGULAR,Round 13,LEAGUE,1666,Châteauroux,Local,1ST,28/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10894497,183,42921,NORMAL,REGULAR,Round 13,LEAGUE,1666,Châteauroux,Local,2ND,28/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10894497,183,42921,NORMAL,REGULAR,Round 13,LEAGUE,1672,Le Mans,Visita,ALL,28/11/2022,13,3,,,,,,5,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10894497,183,42921,NORMAL,REGULAR,Round 13,LEAGUE,1672,Le Mans,Visita,1ST,28/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10894497,183,42921,NORMAL,REGULAR,Round 13,LEAGUE,1672,Le Mans,Visita,2ND,28/11/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501287,183,42921,NORMAL,REGULAR,Round 14,LEAGUE,1672,Le Mans,Local,ALL,02/12/2022,14,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501287,183,42921,NORMAL,REGULAR,Round 14,LEAGUE,1672,Le Mans,Local,1ST,02/12/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501287,183,42921,NORMAL,REGULAR,Round 14,LEAGUE,1672,Le Mans,Local,2ND,02/12/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501287,183,42921,NORMAL,REGULAR,Round 14,LEAGUE,35056,Bourg-en-Bresse,Visita,ALL,02/12/2022,14,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501287,183,42921,NORMAL,REGULAR,Round 14,LEAGUE,35056,Bourg-en-Bresse,Visita,1ST,02/12/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501287,183,42921,NORMAL,REGULAR,Round 14,LEAGUE,35056,Bourg-en-Bresse,Visita,2ND,02/12/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501297,183,42921,NORMAL,REGULAR,Round 15,LEAGUE,211608,Stade Briochin,Local,ALL,09/12/2022,15,1,,,,,,3,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501297,183,42921,NORMAL,REGULAR,Round 15,LEAGUE,211608,Stade Briochin,Local,1ST,09/12/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501297,183,42921,NORMAL,REGULAR,Round 15,LEAGUE,211608,Stade Briochin,Local,2ND,09/12/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501297,183,42921,NORMAL,REGULAR,Round 15,LEAGUE,1672,Le Mans,Visita,ALL,09/12/2022,15,1,,,,,,2,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501297,183,42921,NORMAL,REGULAR,Round 15,LEAGUE,1672,Le Mans,Visita,1ST,09/12/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501297,183,42921,NORMAL,REGULAR,Round 15,LEAGUE,1672,Le Mans,Visita,2ND,09/12/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501303,183,42921,NORMAL,REGULAR,Round 16,LEAGUE,1672,Le Mans,Local,ALL,16/12/2022,16,2,,,,,,4,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501303,183,42921,NORMAL,REGULAR,Round 16,LEAGUE,1672,Le Mans,Local,1ST,16/12/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501303,183,42921,NORMAL,REGULAR,Round 16,LEAGUE,1672,Le Mans,Local,2ND,16/12/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501303,183,42921,NORMAL,REGULAR,Round 16,LEAGUE,6921,US Orléans,Visita,ALL,16/12/2022,16,0,,,,,,4,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501303,183,42921,NORMAL,REGULAR,Round 16,LEAGUE,6921,US Orléans,Visita,1ST,16/12/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501303,183,42921,NORMAL,REGULAR,Round 16,LEAGUE,6921,US Orléans,Visita,2ND,16/12/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10545180,183,42921,NORMAL,REGULAR,Round 17,LEAGUE,1672,Le Mans,Local,ALL,13/01/2023,17,1,,,,,,5,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10545180,183,42921,NORMAL,REGULAR,Round 17,LEAGUE,1672,Le Mans,Local,1ST,13/01/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10545180,183,42921,NORMAL,REGULAR,Round 17,LEAGUE,1672,Le Mans,Local,2ND,13/01/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10545180,183,42921,NORMAL,REGULAR,Round 17,LEAGUE,32934,FC Villefranche Beaujolais,Visita,ALL,13/01/2023,17,1,,,,,,4,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10545180,183,42921,NORMAL,REGULAR,Round 17,LEAGUE,32934,FC Villefranche Beaujolais,Visita,1ST,13/01/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10545180,183,42921,NORMAL,REGULAR,Round 17,LEAGUE,32934,FC Villefranche Beaujolais,Visita,2ND,13/01/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501272,183,42921,NORMAL,REGULAR,Round 18,LEAGUE,1650,CS Sedan,Local,ALL,23/01/2023,18,2,,,,,,3,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501272,183,42921,NORMAL,REGULAR,Round 18,LEAGUE,1650,CS Sedan,Local,1ST,23/01/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501272,183,42921,NORMAL,REGULAR,Round 18,LEAGUE,1650,CS Sedan,Local,2ND,23/01/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501272,183,42921,NORMAL,REGULAR,Round 18,LEAGUE,1672,Le Mans,Visita,ALL,23/01/2023,18,0,,,,,,8,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501272,183,42921,NORMAL,REGULAR,Round 18,LEAGUE,1672,Le Mans,Visita,1ST,23/01/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501272,183,42921,NORMAL,REGULAR,Round 18,LEAGUE,1672,Le Mans,Visita,2ND,23/01/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501274,183,42921,NORMAL,REGULAR,Round 19,LEAGUE,1672,Le Mans,Local,ALL,06/02/2023,19,3,,,,,,1,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501274,183,42921,NORMAL,REGULAR,Round 19,LEAGUE,1672,Le Mans,Local,1ST,06/02/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501274,183,42921,NORMAL,REGULAR,Round 19,LEAGUE,1672,Le Mans,Local,2ND,06/02/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501274,183,42921,NORMAL,REGULAR,Round 19,LEAGUE,6917,US Concarneau,Visita,ALL,06/02/2023,19,2,,,,,,4,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501274,183,42921,NORMAL,REGULAR,Round 19,LEAGUE,6917,US Concarneau,Visita,1ST,06/02/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501274,183,42921,NORMAL,REGULAR,Round 19,LEAGUE,6917,US Concarneau,Visita,2ND,06/02/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501285,183,42921,NORMAL,REGULAR,Round 20,LEAGUE,52874,Red Star FC,Local,ALL,10/02/2023,20,0,,,,,,2,,,,,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501285,183,42921,NORMAL,REGULAR,Round 20,LEAGUE,52874,Red Star FC,Local,1ST,10/02/2023,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501285,183,42921,NORMAL,REGULAR,Round 20,LEAGUE,52874,Red Star FC,Local,2ND,10/02/2023,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501285,183,42921,NORMAL,REGULAR,Round 20,LEAGUE,1672,Le Mans,Visita,ALL,10/02/2023,20,0,,,,,,4,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501285,183,42921,NORMAL,REGULAR,Round 20,LEAGUE,1672,Le Mans,Visita,1ST,10/02/2023,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501285,183,42921,NORMAL,REGULAR,Round 20,LEAGUE,1672,Le Mans,Visita,2ND,10/02/2023,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501247,183,42921,NORMAL,REGULAR,Round 21,LEAGUE,1672,Le Mans,Local,ALL,17/02/2023,21,0,,,,,,9,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501247,183,42921,NORMAL,REGULAR,Round 21,LEAGUE,1672,Le Mans,Local,1ST,17/02/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501247,183,42921,NORMAL,REGULAR,Round 21,LEAGUE,1672,Le Mans,Local,2ND,17/02/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501247,183,42921,NORMAL,REGULAR,Round 21,LEAGUE,1675,Nancy,Visita,ALL,17/02/2023,21,1,,,,,,2,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501247,183,42921,NORMAL,REGULAR,Round 21,LEAGUE,1675,Nancy,Visita,1ST,17/02/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501247,183,42921,NORMAL,REGULAR,Round 21,LEAGUE,1675,Nancy,Visita,2ND,17/02/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10618184,183,42921,NORMAL,REGULAR,Round 22,LEAGUE,327159,Paris 13 Atletico,Local,ALL,24/02/2023,22,1,,,,,,2,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10618184,183,42921,NORMAL,REGULAR,Round 22,LEAGUE,327159,Paris 13 Atletico,Local,1ST,24/02/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10618184,183,42921,NORMAL,REGULAR,Round 22,LEAGUE,327159,Paris 13 Atletico,Local,2ND,24/02/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10618184,183,42921,NORMAL,REGULAR,Round 22,LEAGUE,1672,Le Mans,Visita,ALL,24/02/2023,22,1,,,,,,8,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10618184,183,42921,NORMAL,REGULAR,Round 22,LEAGUE,1672,Le Mans,Visita,1ST,24/02/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10618184,183,42921,NORMAL,REGULAR,Round 22,LEAGUE,1672,Le Mans,Visita,2ND,24/02/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501263,183,42921,NORMAL,REGULAR,Round 23,LEAGUE,1672,Le Mans,Local,ALL,03/03/2023,23,1,,,,,,5,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501263,183,42921,NORMAL,REGULAR,Round 23,LEAGUE,1672,Le Mans,Local,1ST,03/03/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501263,183,42921,NORMAL,REGULAR,Round 23,LEAGUE,1672,Le Mans,Local,2ND,03/03/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501263,183,42921,NORMAL,REGULAR,Round 23,LEAGUE,304040,FC Borgo,Visita,ALL,03/03/2023,23,1,,,,,,3,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501263,183,42921,NORMAL,REGULAR,Round 23,LEAGUE,304040,FC Borgo,Visita,1ST,03/03/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501263,183,42921,NORMAL,REGULAR,Round 23,LEAGUE,304040,FC Borgo,Visita,2ND,03/03/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501212,183,42921,NORMAL,REGULAR,Round 25,LEAGUE,1672,Le Mans,Local,ALL,20/03/2023,25,0,,,,,,5,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501212,183,42921,NORMAL,REGULAR,Round 25,LEAGUE,1672,Le Mans,Local,1ST,20/03/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501212,183,42921,NORMAL,REGULAR,Round 25,LEAGUE,1672,Le Mans,Local,2ND,20/03/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501212,183,42921,NORMAL,REGULAR,Round 25,LEAGUE,39126,FC Versailles 78,Visita,ALL,20/03/2023,25,0,,,,,,2,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501212,183,42921,NORMAL,REGULAR,Round 25,LEAGUE,39126,FC Versailles 78,Visita,1ST,20/03/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501212,183,42921,NORMAL,REGULAR,Round 25,LEAGUE,39126,FC Versailles 78,Visita,2ND,20/03/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11101412,183,42921,NORMAL,REGULAR,Round 26,LEAGUE,1664,FC Martigues,Local,ALL,27/03/2023,26,3,,,,,,7,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11101412,183,42921,NORMAL,REGULAR,Round 26,LEAGUE,1664,FC Martigues,Local,1ST,27/03/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11101412,183,42921,NORMAL,REGULAR,Round 26,LEAGUE,1664,FC Martigues,Local,2ND,27/03/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11101412,183,42921,NORMAL,REGULAR,Round 26,LEAGUE,1672,Le Mans,Visita,ALL,27/03/2023,26,1,,,,,,1,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11101412,183,42921,NORMAL,REGULAR,Round 26,LEAGUE,1672,Le Mans,Visita,1ST,27/03/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11101412,183,42921,NORMAL,REGULAR,Round 26,LEAGUE,1672,Le Mans,Visita,2ND,27/03/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501241,183,42921,NORMAL,REGULAR,Round 27,LEAGUE,1672,Le Mans,Local,ALL,31/03/2023,27,2,,,,,,4,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501241,183,42921,NORMAL,REGULAR,Round 27,LEAGUE,1672,Le Mans,Local,1ST,31/03/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501241,183,42921,NORMAL,REGULAR,Round 27,LEAGUE,1672,Le Mans,Local,2ND,31/03/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501241,183,42921,NORMAL,REGULAR,Round 27,LEAGUE,1713,Cholet,Visita,ALL,31/03/2023,27,0,,,,,,7,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501241,183,42921,NORMAL,REGULAR,Round 27,LEAGUE,1713,Cholet,Visita,1ST,31/03/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501241,183,42921,NORMAL,REGULAR,Round 27,LEAGUE,1713,Cholet,Visita,2ND,31/03/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501202,183,42921,NORMAL,REGULAR,Round 29,LEAGUE,1672,Le Mans,Local,ALL,14/04/2023,29,1,,,,,,4,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501202,183,42921,NORMAL,REGULAR,Round 29,LEAGUE,1672,Le Mans,Local,1ST,14/04/2023,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501202,183,42921,NORMAL,REGULAR,Round 29,LEAGUE,1672,Le Mans,Local,2ND,14/04/2023,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501202,183,42921,NORMAL,REGULAR,Round 29,LEAGUE,1666,Châteauroux,Visita,ALL,14/04/2023,29,1,,,,,,3,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501202,183,42921,NORMAL,REGULAR,Round 29,LEAGUE,1666,Châteauroux,Visita,1ST,14/04/2023,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501202,183,42921,NORMAL,REGULAR,Round 29,LEAGUE,1666,Châteauroux,Visita,2ND,14/04/2023,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501169,183,42921,NORMAL,REGULAR,Round 31,LEAGUE,1672,Le Mans,Local,ALL,29/04/2023,31,2,,,,,,1,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501169,183,42921,NORMAL,REGULAR,Round 31,LEAGUE,1672,Le Mans,Local,1ST,29/04/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501169,183,42921,NORMAL,REGULAR,Round 31,LEAGUE,1672,Le Mans,Local,2ND,29/04/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501169,183,42921,NORMAL,REGULAR,Round 31,LEAGUE,211608,Stade Briochin,Visita,ALL,29/04/2023,31,2,,,,,,6,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501169,183,42921,NORMAL,REGULAR,Round 31,LEAGUE,211608,Stade Briochin,Visita,1ST,29/04/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501169,183,42921,NORMAL,REGULAR,Round 31,LEAGUE,211608,Stade Briochin,Visita,2ND,29/04/2023,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501175,183,42921,NORMAL,REGULAR,Round 32,LEAGUE,6921,US Orléans,Local,ALL,10/05/2023,32,0,,,,,,3,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501175,183,42921,NORMAL,REGULAR,Round 32,LEAGUE,6921,US Orléans,Local,1ST,10/05/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501175,183,42921,NORMAL,REGULAR,Round 32,LEAGUE,6921,US Orléans,Local,2ND,10/05/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501175,183,42921,NORMAL,REGULAR,Round 32,LEAGUE,1672,Le Mans,Visita,ALL,10/05/2023,32,1,,,,,,3,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501175,183,42921,NORMAL,REGULAR,Round 32,LEAGUE,1672,Le Mans,Visita,1ST,10/05/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501175,183,42921,NORMAL,REGULAR,Round 32,LEAGUE,1672,Le Mans,Visita,2ND,10/05/2023,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501180,183,42921,NORMAL,REGULAR,Round 34,LEAGUE,1672,Le Mans,Local,ALL,26/05/2023,34,2,,,,,,2,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501180,183,42921,NORMAL,REGULAR,Round 34,LEAGUE,1672,Le Mans,Local,1ST,26/05/2023,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501180,183,42921,NORMAL,REGULAR,Round 34,LEAGUE,1672,Le Mans,Local,2ND,26/05/2023,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501180,183,42921,NORMAL,REGULAR,Round 34,LEAGUE,6918,USL Dunkerque,Visita,ALL,26/05/2023,34,3,,,,,,3,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501180,183,42921,NORMAL,REGULAR,Round 34,LEAGUE,6918,USL Dunkerque,Visita,1ST,26/05/2023,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10501180,183,42921,NORMAL,REGULAR,Round 34,LEAGUE,6918,USL Dunkerque,Visita,2ND,26/05/2023,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438046,183,53055,NORMAL,REGULAR,Round 1,LEAGUE,33765,Marignane Gignac FC,Local,ALL,11/08/2023,1,0,,,,,,0,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438046,183,53055,NORMAL,REGULAR,Round 1,LEAGUE,33765,Marignane Gignac FC,Local,1ST,11/08/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438046,183,53055,NORMAL,REGULAR,Round 1,LEAGUE,33765,Marignane Gignac FC,Local,2ND,11/08/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438046,183,53055,NORMAL,REGULAR,Round 1,LEAGUE,1672,Le Mans,Visita,ALL,11/08/2023,1,2,,,,,,1,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438046,183,53055,NORMAL,REGULAR,Round 1,LEAGUE,1672,Le Mans,Visita,1ST,11/08/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438046,183,53055,NORMAL,REGULAR,Round 1,LEAGUE,1672,Le Mans,Visita,2ND,11/08/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438050,183,53055,NORMAL,REGULAR,Round 2,LEAGUE,1672,Le Mans,Local,ALL,21/08/2023,2,1,,,,,,1,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438050,183,53055,NORMAL,REGULAR,Round 2,LEAGUE,1672,Le Mans,Local,1ST,21/08/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438050,183,53055,NORMAL,REGULAR,Round 2,LEAGUE,1672,Le Mans,Local,2ND,21/08/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438050,183,53055,NORMAL,REGULAR,Round 2,LEAGUE,1686,Dijon,Visita,ALL,21/08/2023,2,1,,,,,,12,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438050,183,53055,NORMAL,REGULAR,Round 2,LEAGUE,1686,Dijon,Visita,1ST,21/08/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438050,183,53055,NORMAL,REGULAR,Round 2,LEAGUE,1686,Dijon,Visita,2ND,21/08/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438025,183,53055,NORMAL,REGULAR,Round 3,LEAGUE,1663,Nîmes Olympique,Local,ALL,25/08/2023,3,1,,,,,,2,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438025,183,53055,NORMAL,REGULAR,Round 3,LEAGUE,1663,Nîmes Olympique,Local,1ST,25/08/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438025,183,53055,NORMAL,REGULAR,Round 3,LEAGUE,1663,Nîmes Olympique,Local,2ND,25/08/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438025,183,53055,NORMAL,REGULAR,Round 3,LEAGUE,1672,Le Mans,Visita,ALL,25/08/2023,3,1,,,,,,4,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438025,183,53055,NORMAL,REGULAR,Round 3,LEAGUE,1672,Le Mans,Visita,1ST,25/08/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438025,183,53055,NORMAL,REGULAR,Round 3,LEAGUE,1672,Le Mans,Visita,2ND,25/08/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438029,183,53055,NORMAL,REGULAR,Round 4,LEAGUE,1672,Le Mans,Local,ALL,01/09/2023,4,0,,,,,,2,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438029,183,53055,NORMAL,REGULAR,Round 4,LEAGUE,1672,Le Mans,Local,1ST,01/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438029,183,53055,NORMAL,REGULAR,Round 4,LEAGUE,1672,Le Mans,Local,2ND,01/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438029,183,53055,NORMAL,REGULAR,Round 4,LEAGUE,39126,FC Versailles 78,Visita,ALL,01/09/2023,4,0,,,,,,7,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438029,183,53055,NORMAL,REGULAR,Round 4,LEAGUE,39126,FC Versailles 78,Visita,1ST,01/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438029,183,53055,NORMAL,REGULAR,Round 4,LEAGUE,39126,FC Versailles 78,Visita,2ND,01/09/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438037,183,53055,NORMAL,REGULAR,Round 5,LEAGUE,6921,US Orléans,Local,ALL,11/09/2023,5,1,,,,,,6,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438037,183,53055,NORMAL,REGULAR,Round 5,LEAGUE,6921,US Orléans,Local,1ST,11/09/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438037,183,53055,NORMAL,REGULAR,Round 5,LEAGUE,6921,US Orléans,Local,2ND,11/09/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438037,183,53055,NORMAL,REGULAR,Round 5,LEAGUE,1672,Le Mans,Visita,ALL,11/09/2023,5,3,,,,,,4,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438037,183,53055,NORMAL,REGULAR,Round 5,LEAGUE,1672,Le Mans,Visita,1ST,11/09/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438037,183,53055,NORMAL,REGULAR,Round 5,LEAGUE,1672,Le Mans,Visita,2ND,11/09/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438008,183,53055,NORMAL,REGULAR,Round 6,LEAGUE,1672,Le Mans,Local,ALL,15/09/2023,6,1,,,,,,5,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438008,183,53055,NORMAL,REGULAR,Round 6,LEAGUE,1672,Le Mans,Local,1ST,15/09/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438008,183,53055,NORMAL,REGULAR,Round 6,LEAGUE,1672,Le Mans,Local,2ND,15/09/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438008,183,53055,NORMAL,REGULAR,Round 6,LEAGUE,52874,Red Star FC,Visita,ALL,15/09/2023,6,2,,,,,,1,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438008,183,53055,NORMAL,REGULAR,Round 6,LEAGUE,52874,Red Star FC,Visita,1ST,15/09/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438008,183,53055,NORMAL,REGULAR,Round 6,LEAGUE,52874,Red Star FC,Visita,2ND,15/09/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437996,183,53055,NORMAL,REGULAR,Round 7,LEAGUE,361815,GOAL FC,Local,ALL,22/09/2023,7,1,,,,,,2,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437996,183,53055,NORMAL,REGULAR,Round 7,LEAGUE,361815,GOAL FC,Local,1ST,22/09/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437996,183,53055,NORMAL,REGULAR,Round 7,LEAGUE,361815,GOAL FC,Local,2ND,22/09/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437996,183,53055,NORMAL,REGULAR,Round 7,LEAGUE,1672,Le Mans,Visita,ALL,22/09/2023,7,2,,,,,,5,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437996,183,53055,NORMAL,REGULAR,Round 7,LEAGUE,1672,Le Mans,Visita,1ST,22/09/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437996,183,53055,NORMAL,REGULAR,Round 7,LEAGUE,1672,Le Mans,Visita,2ND,22/09/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437985,183,53055,NORMAL,REGULAR,Round 9,LEAGUE,1664,FC Martigues,Local,ALL,06/10/2023,9,4,,,,,,3,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437985,183,53055,NORMAL,REGULAR,Round 9,LEAGUE,1664,FC Martigues,Local,1ST,06/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437985,183,53055,NORMAL,REGULAR,Round 9,LEAGUE,1664,FC Martigues,Local,2ND,06/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437985,183,53055,NORMAL,REGULAR,Round 9,LEAGUE,1672,Le Mans,Visita,ALL,06/10/2023,9,0,,,,,,6,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437985,183,53055,NORMAL,REGULAR,Round 9,LEAGUE,1672,Le Mans,Visita,1ST,06/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437985,183,53055,NORMAL,REGULAR,Round 9,LEAGUE,1672,Le Mans,Visita,2ND,06/10/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437989,183,53055,NORMAL,REGULAR,Round 10,LEAGUE,1672,Le Mans,Local,ALL,11/10/2023,10,0,,,,,,4,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437989,183,53055,NORMAL,REGULAR,Round 10,LEAGUE,1672,Le Mans,Local,1ST,11/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437989,183,53055,NORMAL,REGULAR,Round 10,LEAGUE,1672,Le Mans,Local,2ND,11/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437989,183,53055,NORMAL,REGULAR,Round 10,LEAGUE,4493,FC Rouen,Visita,ALL,11/10/2023,10,1,,,,,,0,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437989,183,53055,NORMAL,REGULAR,Round 10,LEAGUE,4493,FC Rouen,Visita,1ST,11/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437989,183,53055,NORMAL,REGULAR,Round 10,LEAGUE,4493,FC Rouen,Visita,2ND,11/10/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437975,183,53055,NORMAL,REGULAR,Round 11,LEAGUE,35064,Sas Épinal,Local,ALL,20/10/2023,11,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437975,183,53055,NORMAL,REGULAR,Round 11,LEAGUE,35064,Sas Épinal,Local,1ST,20/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437975,183,53055,NORMAL,REGULAR,Round 11,LEAGUE,35064,Sas Épinal,Local,2ND,20/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437975,183,53055,NORMAL,REGULAR,Round 11,LEAGUE,1672,Le Mans,Visita,ALL,20/10/2023,11,2,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437975,183,53055,NORMAL,REGULAR,Round 11,LEAGUE,1672,Le Mans,Visita,1ST,20/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437975,183,53055,NORMAL,REGULAR,Round 11,LEAGUE,1672,Le Mans,Visita,2ND,20/10/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437966,183,53055,NORMAL,REGULAR,Round 13,LEAGUE,1672,Le Mans,Local,ALL,13/11/2023,13,1,,,,,,5,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437966,183,53055,NORMAL,REGULAR,Round 13,LEAGUE,1672,Le Mans,Local,1ST,13/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437966,183,53055,NORMAL,REGULAR,Round 13,LEAGUE,1672,Le Mans,Local,2ND,13/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437966,183,53055,NORMAL,REGULAR,Round 13,LEAGUE,1666,Châteauroux,Visita,ALL,13/11/2023,13,1,,,,,,2,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437966,183,53055,NORMAL,REGULAR,Round 13,LEAGUE,1666,Châteauroux,Visita,1ST,13/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437966,183,53055,NORMAL,REGULAR,Round 13,LEAGUE,1666,Châteauroux,Visita,2ND,13/11/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437937,183,53055,NORMAL,REGULAR,Round 15,LEAGUE,1672,Le Mans,Local,ALL,01/12/2023,15,1,,,,,,12,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437937,183,53055,NORMAL,REGULAR,Round 15,LEAGUE,1672,Le Mans,Local,1ST,01/12/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437937,183,53055,NORMAL,REGULAR,Round 15,LEAGUE,1672,Le Mans,Local,2ND,01/12/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437937,183,53055,NORMAL,REGULAR,Round 15,LEAGUE,1675,Nancy,Visita,ALL,01/12/2023,15,3,,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437937,183,53055,NORMAL,REGULAR,Round 15,LEAGUE,1675,Nancy,Visita,1ST,01/12/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437937,183,53055,NORMAL,REGULAR,Round 15,LEAGUE,1675,Nancy,Visita,2ND,01/12/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437926,183,53055,NORMAL,REGULAR,Round 17,LEAGUE,1672,Le Mans,Local,ALL,12/01/2024,17,0,,,,,,7,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437926,183,53055,NORMAL,REGULAR,Round 17,LEAGUE,1672,Le Mans,Local,1ST,12/01/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437926,183,53055,NORMAL,REGULAR,Round 17,LEAGUE,1672,Le Mans,Local,2ND,12/01/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437926,183,53055,NORMAL,REGULAR,Round 17,LEAGUE,1665,Chamois Niortais,Visita,ALL,12/01/2024,17,2,,,,,,2,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437926,183,53055,NORMAL,REGULAR,Round 17,LEAGUE,1665,Chamois Niortais,Visita,1ST,12/01/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437926,183,53055,NORMAL,REGULAR,Round 17,LEAGUE,1665,Chamois Niortais,Visita,2ND,12/01/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437887,183,53055,NORMAL,REGULAR,Round 20,LEAGUE,39126,FC Versailles 78,Local,ALL,09/02/2024,20,0,,,,,,9,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437887,183,53055,NORMAL,REGULAR,Round 20,LEAGUE,39126,FC Versailles 78,Local,1ST,09/02/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437887,183,53055,NORMAL,REGULAR,Round 20,LEAGUE,39126,FC Versailles 78,Local,2ND,09/02/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437887,183,53055,NORMAL,REGULAR,Round 20,LEAGUE,1672,Le Mans,Visita,ALL,09/02/2024,20,0,,,,,,6,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437887,183,53055,NORMAL,REGULAR,Round 20,LEAGUE,1672,Le Mans,Visita,1ST,09/02/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437887,183,53055,NORMAL,REGULAR,Round 20,LEAGUE,1672,Le Mans,Visita,2ND,09/02/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437881,183,53055,NORMAL,REGULAR,Round 21,LEAGUE,1672,Le Mans,Local,ALL,16/02/2024,21,0,,,,,,7,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437881,183,53055,NORMAL,REGULAR,Round 21,LEAGUE,1672,Le Mans,Local,1ST,16/02/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437881,183,53055,NORMAL,REGULAR,Round 21,LEAGUE,1672,Le Mans,Local,2ND,16/02/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437881,183,53055,NORMAL,REGULAR,Round 21,LEAGUE,6921,US Orléans,Visita,ALL,16/02/2024,21,1,,,,,,7,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437881,183,53055,NORMAL,REGULAR,Round 21,LEAGUE,6921,US Orléans,Visita,1ST,16/02/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437881,183,53055,NORMAL,REGULAR,Round 21,LEAGUE,6921,US Orléans,Visita,2ND,16/02/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437862,183,53055,NORMAL,REGULAR,Round 22,LEAGUE,52874,Red Star FC,Local,ALL,23/02/2024,22,4,,,,,,6,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437862,183,53055,NORMAL,REGULAR,Round 22,LEAGUE,52874,Red Star FC,Local,1ST,23/02/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437862,183,53055,NORMAL,REGULAR,Round 22,LEAGUE,52874,Red Star FC,Local,2ND,23/02/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437862,183,53055,NORMAL,REGULAR,Round 22,LEAGUE,1672,Le Mans,Visita,ALL,23/02/2024,22,1,,,,,,4,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437862,183,53055,NORMAL,REGULAR,Round 22,LEAGUE,1672,Le Mans,Visita,1ST,23/02/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437862,183,53055,NORMAL,REGULAR,Round 22,LEAGUE,1672,Le Mans,Visita,2ND,23/02/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437866,183,53055,NORMAL,REGULAR,Round 23,LEAGUE,1672,Le Mans,Local,ALL,02/03/2024,23,2,,,,,,8,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437866,183,53055,NORMAL,REGULAR,Round 23,LEAGUE,1672,Le Mans,Local,1ST,02/03/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437866,183,53055,NORMAL,REGULAR,Round 23,LEAGUE,1672,Le Mans,Local,2ND,02/03/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437866,183,53055,NORMAL,REGULAR,Round 23,LEAGUE,361815,GOAL FC,Visita,ALL,02/03/2024,23,0,,,,,,3,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437866,183,53055,NORMAL,REGULAR,Round 23,LEAGUE,361815,GOAL FC,Visita,1ST,02/03/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11437866,183,53055,NORMAL,REGULAR,Round 23,LEAGUE,361815,GOAL FC,Visita,2ND,02/03/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438011,183,53055,NORMAL,REGULAR,Round 25,LEAGUE,1672,Le Mans,Local,ALL,15/03/2024,25,2,,,,,,7,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438011,183,53055,NORMAL,REGULAR,Round 25,LEAGUE,1672,Le Mans,Local,1ST,15/03/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438011,183,53055,NORMAL,REGULAR,Round 25,LEAGUE,1672,Le Mans,Local,2ND,15/03/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438011,183,53055,NORMAL,REGULAR,Round 25,LEAGUE,1664,FC Martigues,Visita,ALL,15/03/2024,25,0,,,,,,2,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438011,183,53055,NORMAL,REGULAR,Round 25,LEAGUE,1664,FC Martigues,Visita,1ST,15/03/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438011,183,53055,NORMAL,REGULAR,Round 25,LEAGUE,1664,FC Martigues,Visita,2ND,15/03/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438110,183,53055,NORMAL,REGULAR,Round 26,LEAGUE,4493,FC Rouen,Local,ALL,22/03/2024,26,0,,,,,,6,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438110,183,53055,NORMAL,REGULAR,Round 26,LEAGUE,4493,FC Rouen,Local,1ST,22/03/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438110,183,53055,NORMAL,REGULAR,Round 26,LEAGUE,4493,FC Rouen,Local,2ND,22/03/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438110,183,53055,NORMAL,REGULAR,Round 26,LEAGUE,1672,Le Mans,Visita,ALL,22/03/2024,26,1,,,,,,4,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438110,183,53055,NORMAL,REGULAR,Round 26,LEAGUE,1672,Le Mans,Visita,1ST,22/03/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438110,183,53055,NORMAL,REGULAR,Round 26,LEAGUE,1672,Le Mans,Visita,2ND,22/03/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438119,183,53055,NORMAL,REGULAR,Round 27,LEAGUE,1672,Le Mans,Local,ALL,29/03/2024,27,1,,,,,,4,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438119,183,53055,NORMAL,REGULAR,Round 27,LEAGUE,1672,Le Mans,Local,1ST,29/03/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438119,183,53055,NORMAL,REGULAR,Round 27,LEAGUE,1672,Le Mans,Local,2ND,29/03/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438119,183,53055,NORMAL,REGULAR,Round 27,LEAGUE,35064,Sas Épinal,Visita,ALL,29/03/2024,27,0,,,,,,4,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438119,183,53055,NORMAL,REGULAR,Round 27,LEAGUE,35064,Sas Épinal,Visita,1ST,29/03/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11438119,183,53055,NORMAL,REGULAR,Round 27,LEAGUE,35064,Sas Épinal,Visita,2ND,29/03/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12659728,183,64124,NORMAL,REGULAR,Round 1,LEAGUE,39126,FC Versailles 78,Local,ALL,19/08/2024,1,1,48%,0.31,,6,3,2,9,474,3,1,0,0,3,0,3,0,1,5,,,4,12,,3,405,23,,37/55 (67%),38/62 (61%),5/7 (71%),34%,2,44/138 (32%),17/41 (41%),19/30 (63%),,3,24,,14,1,3,,,,,7
+12659728,183,64124,NORMAL,REGULAR,Round 1,LEAGUE,39126,FC Versailles 78,Local,1ST,19/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12659728,183,64124,NORMAL,REGULAR,Round 1,LEAGUE,39126,FC Versailles 78,Local,2ND,19/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12659728,183,64124,NORMAL,REGULAR,Round 1,LEAGUE,1672,Le Mans,Visita,ALL,19/08/2024,1,0,52%,0.99,,6,3,5,12,470,0,0,0,0,2,0,2,2,6,0,,,2,15,,1,391,25,,45/59 (76%),28/46 (60%),5/14 (35%),39%,10,35/100 (35%),20/40 (50%),15/18 (83%),,0,14,,15,0,3,,,,,4
+12659728,183,64124,NORMAL,REGULAR,Round 1,LEAGUE,1672,Le Mans,Visita,1ST,19/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12659728,183,64124,NORMAL,REGULAR,Round 1,LEAGUE,1672,Le Mans,Visita,2ND,19/08/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572311,183,64124,NORMAL,REGULAR,Round 2,LEAGUE,1672,Le Mans,Local,ALL,23/08/2024,2,0,57%,0.84,,17,0,11,13,426,2,3,5,1,3,1,8,5,8,9,,,0,19,,4,345,20,,43/72 (60%),24/48 (50%),7/20 (35%),36%,9,42/122 (34%),31/78 (40%),5/8 (63%),,2,8,,4,2,0,,,0,,6
+12572311,183,64124,NORMAL,REGULAR,Round 2,LEAGUE,1672,Le Mans,Local,1ST,23/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572311,183,64124,NORMAL,REGULAR,Round 2,LEAGUE,1672,Le Mans,Local,2ND,23/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572311,183,64124,NORMAL,REGULAR,Round 2,LEAGUE,32934,FC Villefranche Beaujolais,Visita,ALL,23/08/2024,2,0,43%,0.15,,3,3,3,10,297,6,3,1,0,0,0,2,1,2,1,,,0,5,,0,233,21,,21/37 (57%),38/61 (62%),2/6 (33%),32%,4,35/134 (26%),30/69 (43%),4/7 (57%),,6,5,,15,5,3,,,1,,17
+12572311,183,64124,NORMAL,REGULAR,Round 2,LEAGUE,32934,FC Villefranche Beaujolais,Visita,1ST,23/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572311,183,64124,NORMAL,REGULAR,Round 2,LEAGUE,32934,FC Villefranche Beaujolais,Visita,2ND,23/08/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572298,183,64124,NORMAL,REGULAR,Round 3,LEAGUE,1657,Sochaux,Local,ALL,30/08/2024,3,0,61%,0.62,,10,0,4,6,372,3,6,1,0,1,0,7,2,5,5,,,2,14,,1,300,37,,33/44 (75%),23/41 (56%),3/15 (20%),45%,11,42/108 (39%),25/39 (64%),13/21 (62%),,3,16,,15,1,0,,,1,,5
+12572298,183,64124,NORMAL,REGULAR,Round 3,LEAGUE,1657,Sochaux,Local,1ST,30/08/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572298,183,64124,NORMAL,REGULAR,Round 3,LEAGUE,1657,Sochaux,Local,2ND,30/08/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572298,183,64124,NORMAL,REGULAR,Round 3,LEAGUE,1672,Le Mans,Visita,ALL,30/08/2024,3,1,39%,0.66,,8,1,2,19,304,5,0,4,0,1,0,3,4,3,5,,,1,9,,3,225,24,,24/37 (65%),19/44 (43%),2/10 (20%),30%,5,30/100 (30%),12/40 (30%),5/7 (71%),,5,16,,13,2,1,,,0,,14
+12572298,183,64124,NORMAL,REGULAR,Round 3,LEAGUE,1672,Le Mans,Visita,1ST,30/08/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572298,183,64124,NORMAL,REGULAR,Round 3,LEAGUE,1672,Le Mans,Visita,2ND,30/08/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572294,183,64124,NORMAL,REGULAR,Round 4,LEAGUE,1672,Le Mans,Local,ALL,06/09/2024,4,0,41%,0.06,,4,5,3,9,347,9,1,4,1,1,0,1,2,0,4,,,0,3,,3,266,22,,24/51 (47%),20/45 (44%),2/7 (28%),37%,3,41/110 (37%),22/56 (39%),14/21 (67%),,9,20,,8,1,5,,,,,13
+12572294,183,64124,NORMAL,REGULAR,Round 4,LEAGUE,1672,Le Mans,Local,1ST,06/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572294,183,64124,NORMAL,REGULAR,Round 4,LEAGUE,1672,Le Mans,Local,2ND,06/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572294,183,64124,NORMAL,REGULAR,Round 4,LEAGUE,1686,Dijon,Visita,ALL,06/09/2024,4,0,59%,0.80,,16,1,4,22,516,4,3,4,0,5,0,8,3,8,8,,,4,12,,3,447,30,,46/59 (78%),46/58 (79%),3/11 (27%),33%,9,35/127 (28%),27/56 (48%),17/24 (71%),,4,19,,16,0,1,,,,,2
+12572294,183,64124,NORMAL,REGULAR,Round 4,LEAGUE,1686,Dijon,Visita,1ST,06/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572294,183,64124,NORMAL,REGULAR,Round 4,LEAGUE,1686,Dijon,Visita,2ND,06/09/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572288,183,64124,NORMAL,REGULAR,Round 5,LEAGUE,1711,US Boulogne Côte-d'Opale,Local,ALL,13/09/2024,5,3,38%,1.27,,11,2,5,8,241,4,4,1,0,6,0,5,0,5,6,,,0,10,,1,182,18,,24/36 (67%),23/42 (54%),2/9 (22%),41%,11,44/115 (38%),20/38 (53%),9/16 (56%),,4,25,,26,1,2,,,,,9
+12572288,183,64124,NORMAL,REGULAR,Round 5,LEAGUE,1711,US Boulogne Côte-d'Opale,Local,1ST,13/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572288,183,64124,NORMAL,REGULAR,Round 5,LEAGUE,1711,US Boulogne Côte-d'Opale,Local,2ND,13/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572288,183,64124,NORMAL,REGULAR,Round 5,LEAGUE,1672,Le Mans,Visita,ALL,13/09/2024,5,2,62%,1.25,,11,3,2,18,518,5,1,2,0,4,0,5,2,8,3,,,2,14,,4,432,30,,54/81 (67%),21/43 (48%),9/23 (39%),33%,5,41/135 (30%),18/40 (45%),10/16 (63%),,5,12,,11,2,3,,,,,11
+12572288,183,64124,NORMAL,REGULAR,Round 5,LEAGUE,1672,Le Mans,Visita,1ST,13/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572288,183,64124,NORMAL,REGULAR,Round 5,LEAGUE,1672,Le Mans,Visita,2ND,13/09/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572277,183,64124,NORMAL,REGULAR,Round 6,LEAGUE,1672,Le Mans,Local,ALL,20/09/2024,6,1,53%,1.13,,8,3,5,11,435,3,2,4,0,3,0,4,1,5,3,,,9,16,,5,352,27,,43/65 (66%),25/49 (51%),4/16 (25%),47%,5,42/93 (45%),21/41 (51%),19/26 (73%),,3,7,,14,2,3,,,,,4
+12572277,183,64124,NORMAL,REGULAR,Round 6,LEAGUE,1672,Le Mans,Local,1ST,20/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572277,183,64124,NORMAL,REGULAR,Round 6,LEAGUE,1672,Le Mans,Local,2ND,20/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572277,183,64124,NORMAL,REGULAR,Round 6,LEAGUE,35056,Bourg-en-Bresse,Visita,ALL,20/09/2024,6,2,47%,1.37,,9,2,3,12,333,3,3,3,0,5,0,3,1,9,0,,,3,15,,1,268,19,,31/47 (66%),34/55 (61%),4/12 (33%),28%,6,22/101 (22%),18/41 (44%),8/14 (57%),,3,8,,17,0,2,,,,,9
+12572277,183,64124,NORMAL,REGULAR,Round 6,LEAGUE,35056,Bourg-en-Bresse,Visita,1ST,20/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572277,183,64124,NORMAL,REGULAR,Round 6,LEAGUE,35056,Bourg-en-Bresse,Visita,2ND,20/09/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572270,183,64124,NORMAL,REGULAR,Round 7,LEAGUE,210099,Quevilly - Rouen Métropole,Local,ALL,27/09/2024,7,1,57%,0.67,,9,5,3,19,463,3,4,3,1,3,0,5,1,4,5,,,2,11,,2,384,21,,34/57 (60%),30/57 (52%),7/16 (43%),38%,3,54/149 (36%),13/23 (57%),17/22 (77%),,3,18,,15,1,5,,,,,7
+12572270,183,64124,NORMAL,REGULAR,Round 7,LEAGUE,210099,Quevilly - Rouen Métropole,Local,1ST,27/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572270,183,64124,NORMAL,REGULAR,Round 7,LEAGUE,210099,Quevilly - Rouen Métropole,Local,2ND,27/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572270,183,64124,NORMAL,REGULAR,Round 7,LEAGUE,1672,Le Mans,Visita,ALL,27/09/2024,7,2,43%,2.06,,11,2,3,17,381,2,3,2,0,6,1,4,0,7,4,,,0,15,,3,302,20,,29/46 (63%),21/41 (51%),4/16 (25%),36%,6,54/151 (36%),10/25 (40%),25/34 (74%),,2,14,,17,0,2,,,,,7
+12572270,183,64124,NORMAL,REGULAR,Round 7,LEAGUE,1672,Le Mans,Visita,1ST,27/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572270,183,64124,NORMAL,REGULAR,Round 7,LEAGUE,1672,Le Mans,Visita,2ND,27/09/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572246,183,64124,NORMAL,REGULAR,Round 9,LEAGUE,1666,Châteauroux,Local,ALL,18/10/2024,9,1,36%,0.32,,5,4,5,13,248,6,5,0,1,3,0,1,1,3,2,,,2,5,,2,183,20,,21/37 (57%),24/46 (52%),0/3 (0%),41%,5,36/94 (38%),18/37 (49%),12/19 (63%),,6,13,,12,,4,,,1,,4
+12572246,183,64124,NORMAL,REGULAR,Round 9,LEAGUE,1666,Châteauroux,Local,1ST,18/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572246,183,64124,NORMAL,REGULAR,Round 9,LEAGUE,1666,Châteauroux,Local,2ND,18/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572246,183,64124,NORMAL,REGULAR,Round 9,LEAGUE,1672,Le Mans,Visita,ALL,18/10/2024,9,2,64%,1.29,,6,3,3,20,477,2,5,2,0,5,1,0,0,4,2,,,2,8,,3,398,23,,56/83 (67%),29/51 (56%),4/12 (33%),29%,10,27/109 (25%),15/33 (45%),9/12 (75%),,2,11,,5,,3,,,1,,5
+12572246,183,64124,NORMAL,REGULAR,Round 9,LEAGUE,1672,Le Mans,Visita,1ST,18/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572246,183,64124,NORMAL,REGULAR,Round 9,LEAGUE,1672,Le Mans,Visita,2ND,18/10/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572241,183,64124,NORMAL,REGULAR,Round 10,LEAGUE,327159,Paris 13 Atletico,Local,ALL,23/10/2024,10,2,59%,0.66,,12,3,4,8,453,0,7,2,0,8,0,2,2,6,6,,,1,13,,1,375,31,,39/62 (63%),41/71 (57%),9/25 (36%),42%,12,31/87 (36%),25/44 (57%),7/8 (88%),,0,20,,7,2,3,,,,,3
+12572241,183,64124,NORMAL,REGULAR,Round 10,LEAGUE,327159,Paris 13 Atletico,Local,1ST,23/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572241,183,64124,NORMAL,REGULAR,Round 10,LEAGUE,327159,Paris 13 Atletico,Local,2ND,23/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572241,183,64124,NORMAL,REGULAR,Round 10,LEAGUE,1672,Le Mans,Visita,ALL,23/10/2024,10,3,41%,1.38,,10,6,5,20,362,1,1,3,0,6,0,1,3,8,2,,,0,17,,4,272,11,,41/64 (64%),37/61 (60%),2/13 (15%),37%,3,33/92 (36%),19/48 (40%),3/6 (50%),,1,18,,12,4,6,,,,,6
+12572241,183,64124,NORMAL,REGULAR,Round 10,LEAGUE,1672,Le Mans,Visita,1ST,23/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572241,183,64124,NORMAL,REGULAR,Round 10,LEAGUE,1672,Le Mans,Visita,2ND,23/10/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572228,183,64124,NORMAL,REGULAR,Round 11,LEAGUE,1672,Le Mans,Local,ALL,01/11/2024,11,0,62%,1.31,,11,2,6,13,445,8,5,4,0,1,0,7,3,6,5,,,0,21,,4,352,27,,51/68 (75%),25/42 (59%),4/22 (18%),39%,5,58/146 (40%),18/47 (38%),25/35 (71%),,8,13,,8,1,2,,,1,,1
+12572228,183,64124,NORMAL,REGULAR,Round 11,LEAGUE,1672,Le Mans,Local,1ST,01/11/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572228,183,64124,NORMAL,REGULAR,Round 11,LEAGUE,1672,Le Mans,Local,2ND,01/11/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572228,183,64124,NORMAL,REGULAR,Round 11,LEAGUE,1675,Nancy,Visita,ALL,01/11/2024,11,4,38%,0.99,,7,2,3,17,275,5,2,4,0,6,0,0,1,5,2,,,0,13,,1,213,20,,16/25 (64%),26/49 (53%),4/11 (36%),33%,9,40/146 (27%),25/47 (53%),15/22 (68%),,5,24,,14,1,2,,,0,,13
+12572228,183,64124,NORMAL,REGULAR,Round 11,LEAGUE,1675,Nancy,Visita,1ST,01/11/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572228,183,64124,NORMAL,REGULAR,Round 11,LEAGUE,1675,Nancy,Visita,2ND,01/11/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572222,183,64124,NORMAL,REGULAR,Round 12,LEAGUE,59792,Aubagne FC,Local,ALL,08/11/2024,12,1,53%,1.53,,10,3,3,9,436,1,3,1,0,3,0,6,1,6,4,,,4,18,,2,349,24,,28/46 (61%),30/54 (55%),2/13 (15%),37%,16,58/171 (34%),23/46 (50%),26/41 (63%),,1,31,,27,4,3,,,0,,6
+12572222,183,64124,NORMAL,REGULAR,Round 12,LEAGUE,59792,Aubagne FC,Local,1ST,08/11/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572222,183,64124,NORMAL,REGULAR,Round 12,LEAGUE,59792,Aubagne FC,Local,2ND,08/11/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572222,183,64124,NORMAL,REGULAR,Round 12,LEAGUE,1672,Le Mans,Visita,ALL,08/11/2024,12,0,47%,0.74,,9,2,4,15,422,7,1,2,0,3,0,4,2,4,5,,,4,13,,6,302,21,,38/73 (52%),39/83 (46%),5/17 (29%),40%,5,64/171 (37%),26/50 (52%),20/25 (80%),,7,20,,17,3,2,,,2,,7
+12572222,183,64124,NORMAL,REGULAR,Round 12,LEAGUE,1672,Le Mans,Visita,1ST,08/11/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572222,183,64124,NORMAL,REGULAR,Round 12,LEAGUE,1672,Le Mans,Visita,2ND,08/11/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572212,183,64124,NORMAL,REGULAR,Round 13,LEAGUE,1672,Le Mans,Local,ALL,22/11/2024,13,0,46%,0.06,,3,2,4,13,407,2,4,3,1,0,0,1,2,0,3,,,0,,,3,330,23,,,24/48 (50%),2/16 (12%),37%,3,33/84 (39%),9/28 (32%),11/19 (58%),,2,15,,11,,2,,,,,4
+12572212,183,64124,NORMAL,REGULAR,Round 13,LEAGUE,1672,Le Mans,Local,1ST,22/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572212,183,64124,NORMAL,REGULAR,Round 13,LEAGUE,1672,Le Mans,Local,2ND,22/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572212,183,64124,NORMAL,REGULAR,Round 13,LEAGUE,6921,US Orléans,Visita,ALL,22/11/2024,13,2,54%,1.42,,9,0,7,10,565,4,1,4,0,4,1,3,1,7,2,,,1,,,3,479,14,,,34/60 (56%),4/7 (57%),37%,3,27/86 (31%),17/32 (53%),6/10 (60%),,4,25,,10,,0,,,,,4
+12572212,183,64124,NORMAL,REGULAR,Round 13,LEAGUE,6921,US Orléans,Visita,1ST,22/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572212,183,64124,NORMAL,REGULAR,Round 13,LEAGUE,6921,US Orléans,Visita,2ND,22/11/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572200,183,64124,NORMAL,REGULAR,Round 14,LEAGUE,1663,Nîmes Olympique,Local,ALL,06/12/2024,14,0,59%,0.71,,3,2,6,8,578,2,2,3,0,1,0,1,1,2,1,,,3,,,4,506,23,,,32/53 (60%),4/15 (26%),38%,14,45/125 (36%),17/34 (50%),16/27 (59%),,2,29,,12,,2,,,,,6
+12572200,183,64124,NORMAL,REGULAR,Round 14,LEAGUE,1663,Nîmes Olympique,Local,1ST,06/12/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572200,183,64124,NORMAL,REGULAR,Round 14,LEAGUE,1663,Nîmes Olympique,Local,2ND,06/12/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572200,183,64124,NORMAL,REGULAR,Round 14,LEAGUE,1672,Le Mans,Visita,ALL,06/12/2024,14,0,41%,1.18,,10,1,1,15,375,6,2,2,0,2,1,4,3,5,5,,,0,,,4,291,14,,,23/53 (43%),7/21 (33%),36%,7,48/129 (37%),13/37 (35%),17/21 (81%),,6,19,,14,,1,,,,,8
+12572200,183,64124,NORMAL,REGULAR,Round 14,LEAGUE,1672,Le Mans,Visita,1ST,06/12/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572200,183,64124,NORMAL,REGULAR,Round 14,LEAGUE,1672,Le Mans,Visita,2ND,06/12/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572191,183,64124,NORMAL,REGULAR,Round 15,LEAGUE,1672,Le Mans,Local,ALL,13/12/2024,15,2,55%,2.66,,18,3,4,7,437,4,3,2,0,7,0,5,6,13,5,,,5,,,5,354,27,,,20/41 (48%),12/19 (63%),36%,3,34/104 (33%),15/31 (48%),14/16 (88%),,4,9,,10,,3,,,,,4
+12572191,183,64124,NORMAL,REGULAR,Round 15,LEAGUE,1672,Le Mans,Local,1ST,13/12/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572191,183,64124,NORMAL,REGULAR,Round 15,LEAGUE,1672,Le Mans,Local,2ND,13/12/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572191,183,64124,NORMAL,REGULAR,Round 15,LEAGUE,5061,Valenciennes,Visita,ALL,13/12/2024,15,1,45%,0.88,,9,5,3,11,338,3,4,3,0,4,0,4,1,4,5,,,2,,,4,258,28,,,23/47 (48%),1/7 (14%),34%,5,28/101 (28%),18/34 (53%),12/17 (71%),,3,17,,15,,5,,,,,10
+12572191,183,64124,NORMAL,REGULAR,Round 15,LEAGUE,5061,Valenciennes,Visita,1ST,13/12/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572191,183,64124,NORMAL,REGULAR,Round 15,LEAGUE,5061,Valenciennes,Visita,2ND,13/12/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13245239,335,68468,NORMAL,REGULAR,Round of 64,CUP,939241,FC Marmande 47,Local,ALL,22/12/2024,32,0,41%,0.00,0,8,8,6,5,286,22,4,,,3,0,3,2,2,6,0,,1,16,1,1,213,23,54,42/80 (53%),18/48 (38%),3/16 (19%),49%,31,56/115 (49%),8/15 (53%),30/43 (70%),68%,22,6,73,28,0,8,,2,,2,6
+13245239,335,68468,NORMAL,REGULAR,Round of 64,CUP,939241,FC Marmande 47,Local,1ST,22/12/2024,32,0,32%,0.00,0,2,4,2,,121,16,1,,,1,0,1,0,1,1,0,,0,,0,0,80,14,33,,8/28 (29%),0/4 (0%),49%,16,28/58 (48%),5/10 (50%),11/15 (73%),75%,16,4,38,22,,4,,,,,0
+13245239,335,68468,NORMAL,REGULAR,Round of 64,CUP,939241,FC Marmande 47,Local,2ND,22/12/2024,32,0,51%,0.00,0,6,4,4,,165,6,3,,,2,0,2,2,1,5,0,,1,,1,1,133,9,21,,10/20 (50%),3/12 (25%),50%,15,28/57 (49%),3/5 (60%),19/28 (68%),50%,6,2,35,6,,4,,,,,6
+13245239,335,68468,NORMAL,REGULAR,Round of 64,CUP,1672,Le Mans,Visita,ALL,22/12/2024,32,7,59%,0.00,4,26,3,5,4,415,44,5,,,15,1,6,5,17,9,4,,0,44,3,4,331,22,69,104/151 (69%),27/53 (51%),7/22 (32%),51%,8,59/115 (51%),7/15 (47%),10/24 (42%),64%,44,8,79,28,1,3,,0,,1,7
+13245239,335,68468,NORMAL,REGULAR,Round of 64,CUP,1672,Le Mans,Visita,1ST,22/12/2024,32,4,68%,0.00,2,12,1,2,,246,20,4,,,8,0,1,3,7,5,2,,0,,2,2,197,14,35,,12/25 (48%),5/14 (36%),51%,7,30/58 (52%),5/10 (50%),6/15 (40%),65%,20,5,41,15,,1,,,,,4
+13245239,335,68468,NORMAL,REGULAR,Round of 64,CUP,1672,Le Mans,Visita,2ND,22/12/2024,32,3,49%,0.00,2,14,2,3,,169,24,1,,,7,1,5,2,10,4,2,,0,,1,2,134,8,34,,15/28 (54%),2/8 (25%),50%,1,29/57 (51%),2/5 (40%),4/9 (44%),63%,24,3,38,13,,2,,,,,3
+12572188,183,64124,NORMAL,REGULAR,Round 16,LEAGUE,4493,FC Rouen,Local,ALL,10/01/2025,16,2,61%,3.51,,14,5,7,16,489,1,4,1,0,5,0,3,6,11,3,,,5,,,4,392,27,,,40/67 (59%),7/28 (25%),40%,10,45/123 (37%),24/48 (50%),14/24 (58%),,1,10,,12,,5,,,,,3
+12572188,183,64124,NORMAL,REGULAR,Round 16,LEAGUE,4493,FC Rouen,Local,1ST,10/01/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572188,183,64124,NORMAL,REGULAR,Round 16,LEAGUE,4493,FC Rouen,Local,2ND,10/01/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572188,183,64124,NORMAL,REGULAR,Round 16,LEAGUE,1672,Le Mans,Visita,ALL,10/01/2025,16,2,39%,2.33,,15,3,2,14,315,5,2,1,0,7,2,1,5,6,9,,,1,,,3,246,19,,,23/45 (51%),4/7 (57%),31%,4,40/123 (33%),14/48 (29%),10/15 (67%),,5,19,,26,,3,,,,,9
+12572188,183,64124,NORMAL,REGULAR,Round 16,LEAGUE,1672,Le Mans,Visita,1ST,10/01/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572188,183,64124,NORMAL,REGULAR,Round 16,LEAGUE,1672,Le Mans,Visita,2ND,10/01/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13262276,335,68468,NORMAL,REGULAR,Round of 32,CUP,1672,Le Mans,Local,ALL,14/01/2025,6,1,55%,0.00,3,12,2,6,4,490,12,10,2,,7,0,4,1,7,5,0,3,1,23,3,1,391,23,74,88/136 (65%),24/49 (49%),0/18 (0%),54%,4,25/44 (57%),18/35 (51%),5/8 (63%),58%,12,9,58,19,,2,,2,2,,4
+13262276,335,68468,NORMAL,REGULAR,Round of 32,CUP,1672,Le Mans,Local,1ST,14/01/2025,6,1,54%,0.00,1,7,1,2,,256,10,5,1,,4,0,2,1,4,3,0,1,0,,3,1,214,12,37,,12/18 (67%),0/8 (0%),54%,2,15/25 (60%),6/14 (43%),1/2 (50%),60%,10,6,26,8,,1,,,,,3
+13262276,335,68468,NORMAL,REGULAR,Round of 32,CUP,1672,Le Mans,Local,2ND,14/01/2025,6,0,56%,0.00,2,5,1,4,,234,2,5,1,,3,0,2,0,3,2,0,2,1,,0,0,177,11,37,,12/31 (39%),0/10 (0%),55%,2,10/19 (53%),12/21 (57%),4/6 (67%),50%,2,3,32,11,,1,,,,,1
+13262276,335,68468,NORMAL,REGULAR,Round of 32,CUP,5061,Valenciennes,Visita,ALL,14/01/2025,6,1,45%,0.00,3,7,6,3,10,395,7,4,3,,3,0,4,0,6,1,1,2,1,15,0,2,313,27,52,54/89 (61%),28/53 (53%),6/19 (32%),46%,5,19/44 (43%),17/35 (49%),8/15 (53%),71%,7,13,50,28,,6,,0,3,,8
+13262276,335,68468,NORMAL,REGULAR,Round of 32,CUP,5061,Valenciennes,Visita,1ST,14/01/2025,6,0,46%,0.00,2,5,3,2,,213,3,3,1,,1,0,4,0,4,1,0,2,1,,0,1,174,12,21,,12/20 (60%),4/8 (50%),46%,5,10/25 (40%),8/14 (57%),4/9 (44%),100%,3,8,25,15,,3,,,,,2
+13262276,335,68468,NORMAL,REGULAR,Round of 32,CUP,5061,Valenciennes,Visita,2ND,14/01/2025,6,1,44%,0.00,1,2,3,1,,182,4,1,2,,2,0,0,0,2,0,1,0,0,,0,1,139,15,31,,16/33 (48%),2/11 (18%),45%,0,9/19 (47%),9/21 (43%),4/6 (67%),50%,4,5,25,13,,3,,,,,6
+12572175,183,64124,NORMAL,REGULAR,Round 17,LEAGUE,1672,Le Mans,Local,ALL,18/01/2025,17,3,52%,2.76,,12,1,3,10,420,1,1,1,0,6,0,4,2,6,6,,,0,,,7,329,18,,,26/53 (49%),7/17 (41%),40%,2,35/95 (37%),23/50 (46%),12/15 (80%),,1,19,,12,,1,,,,,5
+12572175,183,64124,NORMAL,REGULAR,Round 17,LEAGUE,1672,Le Mans,Local,1ST,18/01/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572175,183,64124,NORMAL,REGULAR,Round 17,LEAGUE,1672,Le Mans,Local,2ND,18/01/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572175,183,64124,NORMAL,REGULAR,Round 17,LEAGUE,6917,US Concarneau,Visita,ALL,18/01/2025,17,1,48%,0.78,,5,3,3,11,404,2,3,3,0,2,0,2,1,5,0,,,1,,,3,338,17,,,50/71 (70%),4/16 (25%),37%,6,36/114 (32%),23/45 (51%),13/19 (68%),,2,19,,7,,3,,,,,7
+12572175,183,64124,NORMAL,REGULAR,Round 17,LEAGUE,6917,US Concarneau,Visita,1ST,18/01/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572175,183,64124,NORMAL,REGULAR,Round 17,LEAGUE,6917,US Concarneau,Visita,2ND,18/01/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572157,183,64124,NORMAL,REGULAR,Round 18,LEAGUE,32934,FC Villefranche Beaujolais,Local,ALL,24/01/2025,18,0,48%,0.26,,9,2,6,13,314,2,5,1,0,2,0,3,4,3,6,,,0,,,4,222,25,,,25/48 (52%),1/14 (7%),35%,8,39/138 (28%),24/41 (59%),22/29 (76%),,2,19,,30,,2,,,,,7
+12572157,183,64124,NORMAL,REGULAR,Round 18,LEAGUE,32934,FC Villefranche Beaujolais,Local,1ST,24/01/2025,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572157,183,64124,NORMAL,REGULAR,Round 18,LEAGUE,32934,FC Villefranche Beaujolais,Local,2ND,24/01/2025,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572157,183,64124,NORMAL,REGULAR,Round 18,LEAGUE,1672,Le Mans,Visita,ALL,24/01/2025,18,3,52%,1.17,,10,3,5,10,407,5,3,0,0,5,1,2,2,8,2,,,2,,,4,299,22,,,27/56 (48%),3/18 (16%),32%,6,50/159 (31%),16/44 (36%),18/24 (75%),,5,24,,19,,3,,,,,6
+12572157,183,64124,NORMAL,REGULAR,Round 18,LEAGUE,1672,Le Mans,Visita,1ST,24/01/2025,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572157,183,64124,NORMAL,REGULAR,Round 18,LEAGUE,1672,Le Mans,Visita,2ND,24/01/2025,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572155,183,64124,NORMAL,REGULAR,Round 19,LEAGUE,1672,Le Mans,Local,ALL,31/01/2025,19,1,55%,1.44,,17,7,7,14,405,3,2,1,0,3,0,6,8,8,9,,,2,,,2,314,25,,,23/46 (50%),7/23 (30%),41%,4,38/109 (35%),27/49 (55%),16/20 (80%),,3,15,,18,,7,,,,,5
+12572155,183,64124,NORMAL,REGULAR,Round 19,LEAGUE,1672,Le Mans,Local,1ST,31/01/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572155,183,64124,NORMAL,REGULAR,Round 19,LEAGUE,1672,Le Mans,Local,2ND,31/01/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572155,183,64124,NORMAL,REGULAR,Round 19,LEAGUE,1657,Sochaux,Visita,ALL,31/01/2025,19,1,45%,1.98,,13,2,6,11,317,1,4,2,1,8,0,4,1,9,4,,,2,,,2,247,19,,,29/55 (52%),4/10 (40%),39%,6,41/113 (36%),22/47 (47%),14/22 (64%),,1,17,,18,,2,,,,,10
+12572155,183,64124,NORMAL,REGULAR,Round 19,LEAGUE,1657,Sochaux,Visita,1ST,31/01/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572155,183,64124,NORMAL,REGULAR,Round 19,LEAGUE,1657,Sochaux,Visita,2ND,31/01/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13350301,335,68468,NORMAL,REGULAR,Round of 16,CUP,1672,Le Mans,Local,ALL,04/02/2025,5,0,29%,0.00,2,9,1,2,8,327,15,11,2,,2,0,3,4,4,5,0,2,2,19,2,6,258,9,37,63/90 (70%),29/49 (59%),3/11 (27%),51%,10,37/75 (49%),6/10 (60%),11/19 (58%),73%,15,6,57,20,1,1,,,2,,13
+13350301,335,68468,NORMAL,REGULAR,Round of 16,CUP,1672,Le Mans,Local,1ST,04/02/2025,5,0,27%,0.00,1,4,0,1,,142,9,8,2,,0,0,2,2,2,2,0,1,1,,1,3,112,7,16,,14/23 (61%),1/5 (20%),55%,5,23/43 (53%),4/6 (67%),6/11 (55%),67%,9,2,28,10,,0,,,,,5
+13350301,335,68468,NORMAL,REGULAR,Round of 16,CUP,1672,Le Mans,Local,2ND,04/02/2025,5,0,30%,0.00,1,5,1,1,,185,6,3,0,,2,0,1,2,2,3,0,1,1,,1,3,146,2,21,,15/26 (58%),2/6 (33%),44%,5,14/32 (44%),2/4 (50%),5/8 (63%),83%,6,4,29,10,,1,,,,,8
+13350301,335,68468,NORMAL,REGULAR,Round of 16,CUP,1644,Paris Saint-Germain,Visita,ALL,04/02/2025,5,2,71%,0.00,3,12,2,5,11,842,18,8,3,,3,0,8,1,8,4,1,2,8,27,3,0,782,14,68,132/171 (77%),46/55 (84%),0/10 (0%),49%,9,38/75 (51%),4/10 (40%),12/18 (67%),44%,18,2,57,3,0,2,,,0,,6
+13350301,335,68468,NORMAL,REGULAR,Round of 16,CUP,1644,Paris Saint-Germain,Visita,1ST,04/02/2025,5,1,73%,0.00,0,5,0,2,,394,10,4,1,,1,0,4,0,3,2,0,0,5,,1,0,369,6,22,,22/25 (88%),0/8 (0%),45%,5,20/43 (47%),2/6 (33%),6/10 (60%),50%,10,1,28,1,,0,,,,,4
+13350301,335,68468,NORMAL,REGULAR,Round of 16,CUP,1644,Paris Saint-Germain,Visita,2ND,04/02/2025,5,1,70%,0.00,3,7,2,3,,448,8,4,2,,2,0,4,1,5,2,1,2,3,,2,0,413,8,46,,24/30 (80%),0/2 (0%),56%,4,18/32 (56%),2/4 (50%),6/8 (75%),38%,8,1,29,2,,2,,,,,2
+12572146,183,64124,NORMAL,REGULAR,Round 20,LEAGUE,1686,Dijon,Local,ALL,08/02/2025,20,0,62%,1.02,,11,1,3,14,582,5,4,1,0,5,0,4,2,8,3,,,1,,,1,498,25,,,29/45 (64%),4/14 (28%),39%,13,55/147 (37%),17/34 (50%),18/31 (58%),,5,18,,11,,1,,,,,3
+12572146,183,64124,NORMAL,REGULAR,Round 20,LEAGUE,1686,Dijon,Local,1ST,08/02/2025,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572146,183,64124,NORMAL,REGULAR,Round 20,LEAGUE,1686,Dijon,Local,2ND,08/02/2025,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572146,183,64124,NORMAL,REGULAR,Round 20,LEAGUE,1672,Le Mans,Visita,ALL,08/02/2025,20,5,38%,0.81,,9,6,0,11,417,2,1,1,0,6,0,1,2,6,3,,,1,,,5,329,23,,,36/70 (51%),4/8 (50%),37%,6,53/148 (36%),13/30 (43%),19/26 (73%),,2,23,,6,,6,,,,,4
+12572146,183,64124,NORMAL,REGULAR,Round 20,LEAGUE,1672,Le Mans,Visita,1ST,08/02/2025,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572146,183,64124,NORMAL,REGULAR,Round 20,LEAGUE,1672,Le Mans,Visita,2ND,08/02/2025,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570313,183,64124,NORMAL,REGULAR,Round 21,LEAGUE,1672,Le Mans,Local,ALL,14/02/2025,21,1,54%,1.99,,11,2,4,14,459,1,1,3,0,5,0,4,2,7,4,,,6,,,4,368,19,,,28/60 (46%),2/10 (20%),37%,4,32/102 (31%),25/50 (50%),7/12 (58%),,1,18,,16,,2,,,,,7
+12570313,183,64124,NORMAL,REGULAR,Round 21,LEAGUE,1672,Le Mans,Local,1ST,14/02/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570313,183,64124,NORMAL,REGULAR,Round 21,LEAGUE,1672,Le Mans,Local,2ND,14/02/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570313,183,64124,NORMAL,REGULAR,Round 21,LEAGUE,1711,US Boulogne Côte-d'Opale,Visita,ALL,14/02/2025,21,0,46%,1.08,,9,3,1,16,420,0,6,3,1,2,0,6,1,3,6,,,1,,,1,337,20,,,29/58 (50%),2/6 (33%),30%,10,29/119 (24%),21/45 (47%),4/10 (40%),,0,22,,20,,3,,,,,10
+12570313,183,64124,NORMAL,REGULAR,Round 21,LEAGUE,1711,US Boulogne Côte-d'Opale,Visita,1ST,14/02/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570313,183,64124,NORMAL,REGULAR,Round 21,LEAGUE,1711,US Boulogne Côte-d'Opale,Visita,2ND,14/02/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570328,183,64124,NORMAL,REGULAR,Round 22,LEAGUE,35056,Bourg-en-Bresse,Local,ALL,21/02/2025,22,0,54%,0.69,,11,6,3,13,474,5,4,2,0,4,0,2,5,5,6,,,2,,,2,385,23,,,38/72 (52%),5/15 (33%),34%,7,48/147 (33%),21/52 (40%),15/21 (71%),,5,23,,6,,6,,,,,5
+12570328,183,64124,NORMAL,REGULAR,Round 22,LEAGUE,35056,Bourg-en-Bresse,Local,1ST,21/02/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570328,183,64124,NORMAL,REGULAR,Round 22,LEAGUE,35056,Bourg-en-Bresse,Local,2ND,21/02/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570328,183,64124,NORMAL,REGULAR,Round 22,LEAGUE,1672,Le Mans,Visita,ALL,21/02/2025,22,1,46%,1.27,,13,4,5,19,404,4,3,1,0,7,0,2,4,4,9,,,2,,,4,321,20,,,28/56 (50%),3/9 (33%),37%,4,42/146 (29%),32/54 (59%),13/18 (72%),,4,33,,11,,4,,,,,5
+12570328,183,64124,NORMAL,REGULAR,Round 22,LEAGUE,1672,Le Mans,Visita,1ST,21/02/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570328,183,64124,NORMAL,REGULAR,Round 22,LEAGUE,1672,Le Mans,Visita,2ND,21/02/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570334,183,64124,NORMAL,REGULAR,Round 23,LEAGUE,1672,Le Mans,Local,ALL,28/02/2025,23,2,66%,1.88,,15,0,2,14,633,5,3,1,0,5,0,6,4,9,6,,,1,,,4,549,20,,,16/38 (42%),12/22 (54%),41%,2,43/114 (38%),23/45 (51%),16/20 (80%),,5,14,,14,,0,,,,,3
+12570334,183,64124,NORMAL,REGULAR,Round 23,LEAGUE,1672,Le Mans,Local,1ST,28/02/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570334,183,64124,NORMAL,REGULAR,Round 23,LEAGUE,1672,Le Mans,Local,2ND,28/02/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570334,183,64124,NORMAL,REGULAR,Round 23,LEAGUE,210099,Quevilly - Rouen Métropole,Visita,ALL,28/02/2025,23,1,34%,0.83,,5,3,5,14,262,2,5,3,1,1,0,2,2,2,3,,,1,,,4,193,19,,,26/52 (50%),1/7 (14%),32%,7,31/113 (27%),20/42 (48%),13/18 (72%),,2,15,,16,,3,,,,,8
+12570334,183,64124,NORMAL,REGULAR,Round 23,LEAGUE,210099,Quevilly - Rouen Métropole,Visita,1ST,28/02/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570334,183,64124,NORMAL,REGULAR,Round 23,LEAGUE,210099,Quevilly - Rouen Métropole,Visita,2ND,28/02/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572120,183,64124,NORMAL,REGULAR,Round 25,LEAGUE,1672,Le Mans,Local,ALL,14/03/2025,25,2,58%,1.72,,11,2,4,25,526,4,1,3,0,5,1,2,3,6,5,,,1,,,1,417,25,,,36/59 (61%),4/19 (21%),34%,5,43/133 (32%),22/53 (42%),10/12 (83%),,4,20,,15,,2,,,,,4
+12572120,183,64124,NORMAL,REGULAR,Round 25,LEAGUE,1672,Le Mans,Local,1ST,14/03/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572120,183,64124,NORMAL,REGULAR,Round 25,LEAGUE,1672,Le Mans,Local,2ND,14/03/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572120,183,64124,NORMAL,REGULAR,Round 25,LEAGUE,1666,Châteauroux,Visita,ALL,14/03/2025,25,0,42%,1.09,,7,4,2,14,390,4,2,0,0,2,1,2,2,4,3,,,1,,,2,305,30,,,30/55 (54%),4/11 (36%),37%,13,41/133 (31%),30/54 (56%),16/25 (64%),,4,21,,17,,4,,,,,5
+12572120,183,64124,NORMAL,REGULAR,Round 25,LEAGUE,1666,Châteauroux,Visita,1ST,14/03/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12572120,183,64124,NORMAL,REGULAR,Round 25,LEAGUE,1666,Châteauroux,Visita,2ND,14/03/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570292,183,64124,NORMAL,REGULAR,Round 26,LEAGUE,1672,Le Mans,Local,ALL,21/03/2025,26,1,66%,1.76,,13,1,4,16,600,2,2,2,0,5,1,3,4,7,6,,,1,,,3,519,21,,,39/55 (70%),13/35 (37%),33%,1,28/110 (25%),17/26 (65%),9/15 (60%),,2,6,,8,,1,,,,,2
+12570292,183,64124,NORMAL,REGULAR,Round 26,LEAGUE,1672,Le Mans,Local,1ST,21/03/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570292,183,64124,NORMAL,REGULAR,Round 26,LEAGUE,1672,Le Mans,Local,2ND,21/03/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570292,183,64124,NORMAL,REGULAR,Round 26,LEAGUE,327159,Paris 13 Atletico,Visita,ALL,21/03/2025,26,0,34%,0.21,,2,4,2,9,287,1,3,1,1,1,0,1,0,1,1,,,0,,,0,221,14,,,28/58 (48%),1/5 (20%),38%,3,36/97 (37%),11/26 (42%),13/20 (65%),,1,14,,13,,4,,,,,7
+12570292,183,64124,NORMAL,REGULAR,Round 26,LEAGUE,327159,Paris 13 Atletico,Visita,1ST,21/03/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570292,183,64124,NORMAL,REGULAR,Round 26,LEAGUE,327159,Paris 13 Atletico,Visita,2ND,21/03/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570300,183,64124,NORMAL,REGULAR,Round 27,LEAGUE,1675,Nancy,Local,ALL,28/03/2025,27,2,46%,0.49,,8,5,2,13,295,6,4,4,1,4,0,2,2,7,1,,,1,,,5,218,35,,,27/56 (48%),3/10 (30%),42%,11,50/140 (36%),38/65 (58%),25/38 (66%),,6,23,,17,,5,,,,,7
+12570300,183,64124,NORMAL,REGULAR,Round 27,LEAGUE,1675,Nancy,Local,1ST,28/03/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570300,183,64124,NORMAL,REGULAR,Round 27,LEAGUE,1675,Nancy,Local,2ND,28/03/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570300,183,64124,NORMAL,REGULAR,Round 27,LEAGUE,1672,Le Mans,Visita,ALL,28/03/2025,27,0,54%,1.00,,9,2,0,20,378,4,6,3,0,5,0,2,2,5,4,,,2,,,3,288,27,,,27/50 (54%),6/12 (50%),32%,3,29/105 (28%),23/55 (42%),10/12 (83%),,4,13,,13,,2,,,,,4
+12570300,183,64124,NORMAL,REGULAR,Round 27,LEAGUE,1672,Le Mans,Visita,1ST,28/03/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570300,183,64124,NORMAL,REGULAR,Round 27,LEAGUE,1672,Le Mans,Visita,2ND,28/03/2025,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570302,183,64124,NORMAL,REGULAR,Round 28,LEAGUE,1672,Le Mans,Local,ALL,04/04/2025,28,1,54%,2.51,,26,1,10,18,478,3,3,2,0,5,1,8,12,18,8,,,3,,,5,384,17,,,24/38 (63%),15/24 (62%),35%,1,42/123 (34%),13/31 (42%),16/21 (76%),,3,17,,9,,1,,,,,6
+12570302,183,64124,NORMAL,REGULAR,Round 28,LEAGUE,1672,Le Mans,Local,1ST,04/04/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570302,183,64124,NORMAL,REGULAR,Round 28,LEAGUE,1672,Le Mans,Local,2ND,04/04/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570302,183,64124,NORMAL,REGULAR,Round 28,LEAGUE,59792,Aubagne FC,Visita,ALL,04/04/2025,28,1,46%,0.83,,3,4,2,11,315,4,3,3,0,2,0,0,1,3,0,,,1,,,6,237,14,,,22/44 (50%),4/4 (100%),41%,9,51/133 (38%),17/30 (57%),16/29 (55%),,4,30,,23,,4,,,,,15
+12570302,183,64124,NORMAL,REGULAR,Round 28,LEAGUE,59792,Aubagne FC,Visita,1ST,04/04/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570302,183,64124,NORMAL,REGULAR,Round 28,LEAGUE,59792,Aubagne FC,Visita,2ND,04/04/2025,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570248,183,64124,NORMAL,REGULAR,Round 29,LEAGUE,6921,US Orléans,Local,ALL,11/04/2025,29,1,54%,2.54,,13,3,4,11,511,3,2,3,0,8,0,3,2,8,5,,,1,,,3,396,28,,,38/76 (50%),5/13 (38%),32%,9,37/121 (31%),14/34 (41%),13/20 (65%),,3,19,,7,,3,,,,,8
+12570248,183,64124,NORMAL,REGULAR,Round 29,LEAGUE,6921,US Orléans,Local,1ST,11/04/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570248,183,64124,NORMAL,REGULAR,Round 29,LEAGUE,6921,US Orléans,Local,2ND,11/04/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570248,183,64124,NORMAL,REGULAR,Round 29,LEAGUE,1672,Le Mans,Visita,ALL,11/04/2025,29,2,46%,1.48,,11,7,2,14,363,3,4,1,0,5,1,5,0,5,6,,,5,,,4,277,21,,,32/48 (66%),6/14 (42%),42%,8,41/105 (39%),15/26 (58%),11/11 (100%),,3,27,,27,,7,,,,,8
+12570248,183,64124,NORMAL,REGULAR,Round 29,LEAGUE,1672,Le Mans,Visita,1ST,11/04/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570248,183,64124,NORMAL,REGULAR,Round 29,LEAGUE,1672,Le Mans,Visita,2ND,11/04/2025,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570265,183,64124,NORMAL,REGULAR,Round 30,LEAGUE,1672,Le Mans,Local,ALL,18/04/2025,30,4,51%,3.02,,15,2,5,16,430,6,3,2,0,6,2,6,1,10,5,,,1,,,2,356,13,,,43/66 (65%),7/17 (41%),45%,6,51/124 (41%),19/31 (61%),16/21 (76%),,6,17,,16,,2,,,,,7
+12570265,183,64124,NORMAL,REGULAR,Round 30,LEAGUE,1672,Le Mans,Local,1ST,18/04/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570265,183,64124,NORMAL,REGULAR,Round 30,LEAGUE,1672,Le Mans,Local,2ND,18/04/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570265,183,64124,NORMAL,REGULAR,Round 30,LEAGUE,1663,Nîmes Olympique,Visita,ALL,18/04/2025,30,0,49%,0.98,,8,2,3,9,370,1,2,3,0,2,0,4,2,5,3,,,3,,,3,293,18,,,39/64 (60%),1/5 (20%),36%,9,41/114 (36%),12/30 (40%),16/24 (67%),,1,16,,17,,2,,,,,9
+12570265,183,64124,NORMAL,REGULAR,Round 30,LEAGUE,1663,Nîmes Olympique,Visita,1ST,18/04/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570265,183,64124,NORMAL,REGULAR,Round 30,LEAGUE,1663,Nîmes Olympique,Visita,2ND,18/04/2025,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570272,183,64124,NORMAL,REGULAR,Round 31,LEAGUE,5061,Valenciennes,Local,ALL,25/04/2025,31,0,50%,0.21,,7,5,5,17,341,4,3,4,0,2,0,2,3,1,6,,,3,,,1,255,28,,,31/57 (54%),1/8 (12%),31%,10,40/131 (31%),16/45 (36%),10/13 (77%),,4,12,,6,,5,,,,,12
+12570272,183,64124,NORMAL,REGULAR,Round 31,LEAGUE,5061,Valenciennes,Local,1ST,25/04/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570272,183,64124,NORMAL,REGULAR,Round 31,LEAGUE,5061,Valenciennes,Local,2ND,25/04/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570272,183,64124,NORMAL,REGULAR,Round 31,LEAGUE,1672,Le Mans,Visita,ALL,25/04/2025,31,1,50%,1.77,,16,2,1,15,380,5,1,3,1,6,0,7,3,11,5,,,0,,,3,296,13,,,32/61 (52%),2/11 (18%),46%,8,50/127 (39%),29/44 (66%),18/20 (90%),,5,21,,17,,2,,,,,3
+12570272,183,64124,NORMAL,REGULAR,Round 31,LEAGUE,1672,Le Mans,Visita,1ST,25/04/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570272,183,64124,NORMAL,REGULAR,Round 31,LEAGUE,1672,Le Mans,Visita,2ND,25/04/2025,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570280,183,64124,NORMAL,REGULAR,Round 32,LEAGUE,1672,Le Mans,Local,ALL,02/05/2025,32,2,55%,1.92,,9,2,6,22,466,6,2,3,0,5,0,1,3,5,4,,,7,,,1,380,24,,,25/51 (49%),2/15 (13%),35%,9,32/116 (28%),23/39 (59%),13/23 (57%),,6,13,,8,,2,,,,,9
+12570280,183,64124,NORMAL,REGULAR,Round 32,LEAGUE,1672,Le Mans,Local,1ST,02/05/2025,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570280,183,64124,NORMAL,REGULAR,Round 32,LEAGUE,1672,Le Mans,Local,2ND,02/05/2025,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570280,183,64124,NORMAL,REGULAR,Round 32,LEAGUE,4493,FC Rouen,Visita,ALL,02/05/2025,32,2,45%,1.21,,10,3,0,10,379,3,3,2,0,4,0,5,1,6,4,,,0,,,0,303,19,,,31/59 (52%),4/11 (36%),42%,9,53/121 (44%),15/40 (38%),15/18 (83%),,3,14,,19,,3,,,,,4
+12570280,183,64124,NORMAL,REGULAR,Round 32,LEAGUE,4493,FC Rouen,Visita,1ST,02/05/2025,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570280,183,64124,NORMAL,REGULAR,Round 32,LEAGUE,4493,FC Rouen,Visita,2ND,02/05/2025,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570281,183,64124,NORMAL,REGULAR,Round 33,LEAGUE,6917,US Concarneau,Local,ALL,09/05/2025,33,5,47%,1.90,,11,2,5,16,397,0,1,2,0,8,0,2,1,7,4,,,2,,,2,314,24,,,45/73 (61%),4/10 (40%),33%,7,32/114 (28%),21/46 (46%),12/19 (63%),,0,13,,17,,2,,,,,9
+12570281,183,64124,NORMAL,REGULAR,Round 33,LEAGUE,6917,US Concarneau,Local,1ST,09/05/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570281,183,64124,NORMAL,REGULAR,Round 33,LEAGUE,6917,US Concarneau,Local,2ND,09/05/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570281,183,64124,NORMAL,REGULAR,Round 33,LEAGUE,1672,Le Mans,Visita,ALL,09/05/2025,33,2,53%,1.79,,17,3,4,13,450,9,3,3,0,4,0,3,10,10,7,,,2,,,1,354,23,,,39/74 (52%),6/18 (33%),39%,5,36/107 (34%),22/40 (55%),10/14 (71%),,9,19,,20,,3,,,,,5
+12570281,183,64124,NORMAL,REGULAR,Round 33,LEAGUE,1672,Le Mans,Visita,1ST,09/05/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570281,183,64124,NORMAL,REGULAR,Round 33,LEAGUE,1672,Le Mans,Visita,2ND,09/05/2025,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570255,183,64124,NORMAL,REGULAR,Round 34,LEAGUE,1672,Le Mans,Local,ALL,16/05/2025,34,2,47%,2.15,,15,1,8,10,382,10,4,1,0,4,0,8,3,12,3,,,1,,,1,303,16,,,37/66 (56%),8/23 (34%),33%,9,37/130 (28%),20/42 (48%),7/12 (58%),,10,28,,14,,1,,,,,8
+12570255,183,64124,NORMAL,REGULAR,Round 34,LEAGUE,1672,Le Mans,Local,1ST,16/05/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570255,183,64124,NORMAL,REGULAR,Round 34,LEAGUE,1672,Le Mans,Local,2ND,16/05/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570255,183,64124,NORMAL,REGULAR,Round 34,LEAGUE,39126,FC Versailles 78,Visita,ALL,16/05/2025,34,0,53%,0.51,,8,2,2,13,476,3,2,2,0,1,0,4,3,5,3,,,1,,,3,375,23,,,36/66 (54%),2/11 (18%),34%,8,35/123 (28%),24/50 (48%),10/15 (67%),,3,15,,18,,2,,,,,11
+12570255,183,64124,NORMAL,REGULAR,Round 34,LEAGUE,39126,FC Versailles 78,Visita,1ST,16/05/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12570255,183,64124,NORMAL,REGULAR,Round 34,LEAGUE,39126,FC Versailles 78,Visita,2ND,16/05/2025,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14065058,182,77357,NORMAL,REGULAR,Round 1,LEAGUE,1654,Guingamp,Local,ALL,09/08/2025,1,3,62%,0.00,3,14,0,10,16,488,12,22,3,0,7,0,5,2,11,3,2,1,2,23,4,2,403,28,57,75/111 (68%),31/50 (62%),7/30 (23%),51%,11,36/74 (49%),19/34 (56%),5/14 (36%),58%,12,6,36,15,0,0,,0,0,,6
+14065058,182,77357,NORMAL,REGULAR,Round 1,LEAGUE,1654,Guingamp,Local,1ST,09/08/2025,1,0,56%,0.00,1,7,0,3,8,233,4,11,1,0,2,0,4,1,4,3,0,1,1,,1,0,192,16,26,,14/25 (56%),3/8 (38%),54%,6,18/36 (50%),9/14 (64%),4/6 (67%),75%,4,4,13,5,,0,,,,,2
+14065058,182,77357,NORMAL,REGULAR,Round 1,LEAGUE,1654,Guingamp,Local,2ND,09/08/2025,1,3,68%,0.00,2,7,0,7,8,255,8,11,2,0,5,0,1,1,7,0,2,0,1,,3,2,211,12,31,,17/25 (68%),4/22 (18%),48%,5,18/38 (47%),10/20 (50%),1/8 (13%),50%,8,2,23,10,,0,,,,,4
+14065058,182,77357,NORMAL,REGULAR,Round 1,LEAGUE,1672,Le Mans,Visita,ALL,09/08/2025,1,3,38%,0.00,3,10,4,5,22,303,20,16,3,1,3,0,5,2,8,2,2,1,0,16,3,2,231,20,51,41/72 (57%),20/49 (41%),5/20 (25%),49%,10,38/74 (51%),15/34 (44%),2/4 (50%),40%,20,11,37,36,1,4,,2,1,,6
+14065058,182,77357,NORMAL,REGULAR,Round 1,LEAGUE,1672,Le Mans,Visita,1ST,09/08/2025,1,2,44%,0.00,1,4,2,2,11,178,8,8,1,0,2,0,1,1,4,0,1,0,0,,2,2,144,11,31,,15/31 (48%),2/12 (17%),46%,4,18/36 (50%),5/14 (36%),2/2 (100%),38%,8,4,18,12,,2,,,,,5
+14065058,182,77357,NORMAL,REGULAR,Round 1,LEAGUE,1672,Le Mans,Visita,2ND,09/08/2025,1,1,32%,0.00,2,6,2,3,11,125,12,8,2,1,1,0,4,1,4,2,1,1,0,,1,0,87,9,20,,5/18 (28%),3/8 (38%),52%,6,20/38 (53%),10/20 (50%),0/2 (0%),42%,12,7,19,24,,2,,,,,1
+14120347,182,77357,NORMAL,REGULAR,Round 2,LEAGUE,1672,Le Mans,Local,ALL,18/08/2025,2,1,55%,0.00,1,11,1,5,10,430,20,14,3,,3,0,6,2,8,3,0,1,,17,3,2,345,22,60,62/97 (64%),42/67 (63%),4/16 (25%),52%,7,35/68 (51%),19/36 (53%),1/8 (13%),60%,20,8,44,35,,1,,1,1,3,6
+14120347,182,77357,NORMAL,REGULAR,Round 2,LEAGUE,1672,Le Mans,Local,1ST,18/08/2025,2,0,54%,0.00,0,4,1,3,5,213,11,8,0,,1,0,3,0,3,1,0,0,,,1,1,177,8,22,,23/34 (68%),1/7 (14%),55%,3,20/35 (57%),10/20 (50%),1/6 (17%),64%,11,2,22,19,,1,,,,,3
+14120347,182,77357,NORMAL,REGULAR,Round 2,LEAGUE,1672,Le Mans,Local,2ND,18/08/2025,2,1,55%,0.00,1,7,0,2,5,217,9,6,3,,2,0,3,2,5,2,0,1,,,2,1,168,14,38,,19/33 (58%),3/9 (33%),49%,4,15/33 (45%),9/16 (56%),0/2 (0%),56%,9,6,22,16,,0,,,,,3
+14120347,182,77357,NORMAL,REGULAR,Round 2,LEAGUE,1642,Montpellier,Visita,ALL,18/08/2025,2,2,45%,0.00,2,12,2,9,14,352,14,10,2,,3,0,4,5,6,6,2,0,,26,1,2,259,24,54,59/109 (54%),18/52 (35%),4/15 (27%),48%,7,33/68 (49%),17/36 (47%),9/22 (41%),64%,14,9,53,19,,2,,0,2,0,7
+14120347,182,77357,NORMAL,REGULAR,Round 2,LEAGUE,1642,Montpellier,Visita,1ST,18/08/2025,2,0,46%,0.00,0,4,1,5,8,177,8,5,1,,1,0,2,1,3,1,0,0,,,0,1,140,13,26,,11/22 (50%),3/8 (38%),45%,5,15/35 (43%),10/20 (50%),2/8 (25%),63%,8,4,21,9,,1,,,,,3
+14120347,182,77357,NORMAL,REGULAR,Round 2,LEAGUE,1642,Montpellier,Visita,2ND,18/08/2025,2,2,45%,0.00,2,8,1,4,6,175,6,5,1,,2,0,2,4,3,5,2,0,,,1,1,119,11,28,,7/30 (23%),1/7 (14%),51%,2,18/33 (55%),7/16 (44%),7/14 (50%),67%,6,5,32,10,,1,,,,,4
+14064611,182,77357,NORMAL,REGULAR,Round 3,LEAGUE,1672,Le Mans,Local,ALL,22/08/2025,3,1,52%,0.00,2,13,3,9,17,328,13,10,4,,3,0,5,5,7,6,1,1,1,13,2,2,251,21,41,61/90 (68%),27/60 (45%),5/29 (17%),51%,2,28/61 (46%),25/42 (60%),6/9 (67%),46%,13,5,44,30,,3,,1,3,,7
+14064611,182,77357,NORMAL,REGULAR,Round 3,LEAGUE,1672,Le Mans,Local,1ST,22/08/2025,3,0,51%,0.00,1,7,2,7,7,170,8,4,1,,1,0,2,4,3,4,0,1,1,,1,2,128,15,24,,13/31 (42%),3/17 (18%),57%,1,13/26 (50%),11/16 (69%),2/3 (67%),50%,8,3,25,9,,2,,,,,3
+14064611,182,77357,NORMAL,REGULAR,Round 3,LEAGUE,1672,Le Mans,Local,2ND,22/08/2025,3,1,54%,0.00,1,6,1,2,10,158,5,6,3,,2,0,3,1,4,2,1,0,0,,1,0,123,6,17,,14/29 (48%),2/12 (17%),48%,1,15/35 (43%),14/26 (54%),4/6 (67%),40%,5,2,19,21,,1,,,,,4
+14064611,182,77357,NORMAL,REGULAR,Round 3,LEAGUE,1655,Bastia,Visita,ALL,22/08/2025,3,0,48%,0.00,1,13,2,5,11,308,5,17,2,,3,0,5,5,7,6,0,1,1,14,6,3,237,25,48,38/79 (48%),27/61 (44%),5/21 (24%),49%,9,33/61 (54%),17/42 (40%),11/15 (73%),60%,5,6,43,31,,2,,0,2,,7
+14064611,182,77357,NORMAL,REGULAR,Round 3,LEAGUE,1655,Bastia,Visita,1ST,22/08/2025,3,0,49%,0.00,0,4,1,2,4,173,2,7,0,,2,0,2,0,4,0,0,0,1,,2,1,138,13,23,,18/37 (49%),2/7 (29%),43%,5,13/26 (50%),5/16 (31%),4/7 (57%),100%,2,3,26,19,,1,,,,,3
+14064611,182,77357,NORMAL,REGULAR,Round 3,LEAGUE,1655,Bastia,Visita,2ND,22/08/2025,3,0,46%,0.00,1,9,1,3,7,135,3,10,2,,1,0,3,5,3,6,0,1,0,,4,2,99,12,25,,9/24 (38%),3/14 (21%),52%,4,20/35 (57%),12/26 (46%),7/8 (88%),33%,3,3,17,12,,1,,,,,4
+14064619,182,77357,NORMAL,REGULAR,Round 4,LEAGUE,1682,Stade de Reims,Local,ALL,30/08/2025,4,1,56%,0.00,2,12,0,5,10,457,8,15,0,,3,0,4,5,7,5,1,1,2,17,2,4,391,30,63,98/135 (73%),18/42 (43%),3/17 (18%),43%,14,27/63 (43%),12/28 (43%),4/10 (40%),75%,8,7,42,29,0,0,,,,,7
+14064619,182,77357,NORMAL,REGULAR,Round 4,LEAGUE,1682,Stade de Reims,Local,1ST,30/08/2025,4,0,54%,0.00,1,4,0,4,,232,3,6,0,,2,0,1,1,3,1,0,1,1,,0,3,207,14,25,,9/17 (53%),1/8 (13%),37%,5,10/26 (38%),3/9 (33%),1/3 (33%),100%,3,2,17,14,,0,,,,,4
+14064619,182,77357,NORMAL,REGULAR,Round 4,LEAGUE,1682,Stade de Reims,Local,2ND,30/08/2025,4,1,57%,0.00,1,8,0,1,,225,5,9,0,,1,0,3,4,4,4,1,0,1,,2,1,184,16,38,,9/25 (36%),2/9 (22%),46%,9,17/37 (46%),9/19 (47%),3/7 (43%),60%,5,5,25,15,,0,,,,,3
+14064619,182,77357,NORMAL,REGULAR,Round 4,LEAGUE,1672,Le Mans,Visita,ALL,30/08/2025,4,0,44%,0.00,1,5,2,4,15,361,20,10,2,,0,0,4,1,2,3,0,1,0,10,1,2,294,22,48,61/99 (62%),38/58 (66%),2/20 (10%),57%,2,36/63 (57%),16/28 (57%),7/13 (54%),60%,20,2,41,32,1,2,,,,,5
+14064619,182,77357,NORMAL,REGULAR,Round 4,LEAGUE,1672,Le Mans,Visita,1ST,30/08/2025,4,0,46%,0.00,0,3,2,3,,194,7,5,1,,0,0,2,1,1,2,0,0,0,,1,0,165,9,21,,20/31 (65%),1/10 (10%),63%,2,16/26 (62%),6/9 (67%),4/5 (80%),71%,7,0,19,13,,2,,,,,1
+14064619,182,77357,NORMAL,REGULAR,Round 4,LEAGUE,1672,Le Mans,Visita,2ND,30/08/2025,4,0,43%,0.00,1,2,0,1,,167,13,5,1,,0,0,2,0,1,1,0,1,0,,0,2,129,13,27,,18/27 (67%),1/10 (10%),54%,0,20/37 (54%),10/19 (53%),3/8 (38%),54%,13,2,22,19,,0,,,,,4
+14064855,182,77357,NORMAL,REGULAR,Round 5,LEAGUE,1672,Le Mans,Local,ALL,12/09/2025,5,0,60%,0.00,1,19,4,5,10,537,15,14,3,,3,0,12,4,13,6,0,1,1,31,2,2,451,24,63,123/167 (74%),36/57 (63%),4/27 (15%),53%,10,38/70 (54%),18/35 (51%),9/18 (50%),73%,15,7,51,37,,4,,0,0,0,7
+14064855,182,77357,NORMAL,REGULAR,Round 5,LEAGUE,1672,Le Mans,Local,1ST,12/09/2025,5,0,55%,0.00,0,7,1,1,,265,11,5,3,,0,0,5,2,4,3,0,0,1,,0,0,225,10,30,,13/24 (54%),1/10 (10%),47%,7,18/36 (50%),4/11 (36%),2/5 (40%),73%,11,7,25,19,,1,,,,,5
+14064855,182,77357,NORMAL,REGULAR,Round 5,LEAGUE,1672,Le Mans,Local,2ND,12/09/2025,5,0,65%,0.00,1,12,3,4,,272,4,9,0,,3,0,7,2,9,3,0,1,0,,2,2,226,14,33,,23/33 (70%),3/17 (18%),59%,3,20/34 (59%),14/24 (58%),7/13 (54%),75%,4,0,26,18,,3,,,,,2
+14064855,182,77357,NORMAL,REGULAR,Round 5,LEAGUE,6925,Rodez AF,Visita,ALL,12/09/2025,5,1,40%,0.00,4,12,4,3,14,355,19,10,2,,5,1,5,2,11,1,1,3,0,20,1,1,258,24,67,53/105 (50%),20/69 (29%),6/18 (33%),47%,5,32/70 (46%),17/35 (49%),3/13 (23%),58%,19,16,45,26,,4,,2,2,1,17
+14064855,182,77357,NORMAL,REGULAR,Round 5,LEAGUE,6925,Rodez AF,Visita,1ST,12/09/2025,5,0,45%,0.00,2,4,0,1,,213,10,7,2,,1,0,3,0,4,0,0,2,0,,0,1,167,12,33,,13/31 (42%),1/7 (14%),53%,3,18/36 (50%),7/11 (64%),1/9 (11%),70%,10,5,28,10,,0,,,,,7
+14064855,182,77357,NORMAL,REGULAR,Round 5,LEAGUE,6925,Rodez AF,Visita,2ND,12/09/2025,5,1,35%,0.00,2,8,4,2,,142,9,3,0,,4,1,2,2,7,1,1,1,0,,1,0,91,12,34,,7/38 (18%),5/11 (45%),41%,2,14/34 (41%),10/24 (42%),2/4 (50%),44%,9,11,17,16,,4,,,,,10
+14064869,182,77357,NORMAL,REGULAR,Round 6,LEAGUE,6918,USL Dunkerque,Local,ALL,19/09/2025,6,2,66%,0.00,3,15,3,7,12,590,9,11,1,1,5,0,7,3,13,2,2,1,,33,1,2,515,14,90,131/174 (75%),15/37 (41%),7/21 (33%),49%,7,29/64 (45%),15/25 (60%),10/19 (53%),78%,9,6,46,25,0,3,,1,1,,5
+14064869,182,77357,NORMAL,REGULAR,Round 6,LEAGUE,6918,USL Dunkerque,Local,1ST,19/09/2025,6,1,67%,0.00,1,6,2,3,,290,5,7,0,0,3,0,3,0,5,1,1,0,,,0,1,245,7,42,,8/20 (40%),4/8 (50%),49%,4,16/33 (48%),7/14 (50%),4/9 (44%),60%,5,4,22,4,,2,,,,,3
+14064869,182,77357,NORMAL,REGULAR,Round 6,LEAGUE,6918,USL Dunkerque,Local,2ND,19/09/2025,6,1,66%,0.00,2,9,1,4,,300,4,4,1,1,2,0,4,3,8,1,1,1,,,1,1,270,7,48,,7/17 (41%),3/13 (23%),50%,3,13/31 (42%),8/11 (73%),6/10 (60%),100%,4,2,24,21,,1,,,,,2
+14064869,182,77357,NORMAL,REGULAR,Round 6,LEAGUE,1672,Le Mans,Visita,ALL,19/09/2025,6,2,34%,0.00,3,8,3,3,11,292,16,12,3,1,5,1,1,2,7,1,1,2,,13,1,2,214,18,57,33/74 (45%),28/69 (41%),3/14 (21%),51%,6,35/64 (55%),10/25 (40%),7/10 (70%),75%,16,10,47,32,1,3,,1,3,,7
+14064869,182,77357,NORMAL,REGULAR,Round 6,LEAGUE,1672,Le Mans,Visita,1ST,19/09/2025,6,1,33%,0.00,3,5,2,0,,141,9,5,2,1,3,1,1,1,5,0,1,2,,,1,2,104,8,29,,15/34 (44%),0/3 (0%),51%,3,17/33 (52%),7/14 (50%),3/5 (60%),78%,9,8,24,17,,2,,,,,3
+14064869,182,77357,NORMAL,REGULAR,Round 6,LEAGUE,1672,Le Mans,Visita,2ND,19/09/2025,6,1,34%,0.00,0,3,1,3,,151,7,7,1,0,2,0,0,1,2,1,0,0,,,0,0,110,10,28,,13/35 (37%),3/11 (27%),50%,3,18/31 (58%),3/11 (27%),4/5 (80%),71%,7,2,23,15,,1,,,,,4
+14064876,182,77357,NORMAL,REGULAR,Round 7,LEAGUE,1672,Le Mans,Local,ALL,23/09/2025,7,1,30%,0.00,1,7,1,5,16,217,18,10,4,1,2,0,2,3,4,3,,1,0,7,0,2,119,26,45,28/66 (42%),21/66 (32%),1/12 (8%),45%,9,31/72 (43%),23/49 (47%),5/9 (56%),72%,18,11,28,25,,1,,,1,1,14
+14064876,182,77357,NORMAL,REGULAR,Round 7,LEAGUE,1672,Le Mans,Local,1ST,23/09/2025,7,1,32%,0.00,0,4,0,1,,121,11,7,2,1,2,0,0,2,3,1,,0,0,,0,0,79,15,19,,10/29 (34%),0/3 (0%),51%,5,20/39 (51%),11/22 (50%),4/7 (57%),64%,11,7,11,13,,0,,,,,5
+14064876,182,77357,NORMAL,REGULAR,Round 7,LEAGUE,1672,Le Mans,Local,2ND,23/09/2025,7,0,27%,0.00,1,3,1,4,,96,7,3,2,0,0,0,2,1,1,2,,1,0,,0,2,40,11,26,,11/37 (30%),1/9 (11%),38%,4,11/33 (33%),12/27 (44%),1/2 (50%),86%,7,4,17,12,,1,,,,,9
+14064876,182,77357,NORMAL,REGULAR,Round 7,LEAGUE,1671,Grenoble Foot 38,Visita,ALL,23/09/2025,7,0,70%,0.00,1,11,1,5,10,523,13,16,2,0,1,0,7,3,6,5,,1,1,17,2,6,446,25,73,95/139 (68%),25/51 (49%),6/16 (38%),55%,7,41/72 (57%),26/49 (53%),14/25 (56%),54%,13,5,41,21,,1,,,1,1,3
+14064876,182,77357,NORMAL,REGULAR,Round 7,LEAGUE,1671,Grenoble Foot 38,Visita,1ST,23/09/2025,7,0,68%,0.00,0,4,1,2,,257,8,9,0,0,0,0,3,1,1,3,,0,0,,1,1,222,13,29,,15/28 (54%),1/4 (25%),49%,4,19/39 (49%),11/22 (50%),4/11 (36%),50%,8,2,16,8,,1,,,,,0
+14064876,182,77357,NORMAL,REGULAR,Round 7,LEAGUE,1671,Grenoble Foot 38,Visita,2ND,23/09/2025,7,0,73%,0.00,1,7,0,3,,266,5,7,2,0,1,0,4,2,5,2,,1,1,,1,5,224,12,44,,10/23 (43%),5/12 (42%),62%,3,22/33 (67%),15/27 (56%),10/14 (71%),60%,5,3,25,13,,0,,,,,3
+14064630,182,77357,NORMAL,REGULAR,Round 8,LEAGUE,1680,Clermont Foot,Local,ALL,26/09/2025,8,1,46%,0.00,3,8,7,2,7,403,13,12,2,,2,1,6,0,6,2,1,2,,13,1,0,319,23,48,40/76 (53%),31/70 (44%),4/9 (44%),49%,10,32/63 (51%),12/26 (46%),7/16 (44%),77%,13,19,47,34,,7,,3,,1,14
+14064630,182,77357,NORMAL,REGULAR,Round 8,LEAGUE,1680,Clermont Foot,Local,1ST,26/09/2025,8,1,53%,0.00,3,7,4,1,,266,7,4,1,,2,1,5,0,5,2,1,2,,,0,0,222,18,38,,16/37 (43%),2/4 (50%),50%,5,14/27 (52%),5/11 (45%),3/10 (30%),57%,7,8,30,12,,4,,,,,3
+14064630,182,77357,NORMAL,REGULAR,Round 8,LEAGUE,1680,Clermont Foot,Local,2ND,26/09/2025,8,0,38%,0.00,0,1,3,1,,137,6,8,1,,0,0,1,0,1,0,0,0,,,1,0,97,5,10,,15/33 (45%),2/5 (40%),49%,5,18/36 (50%),7/15 (47%),4/6 (67%),100%,6,11,17,22,,3,,,,,11
+14064630,182,77357,NORMAL,REGULAR,Round 8,LEAGUE,1672,Le Mans,Visita,ALL,26/09/2025,8,1,54%,0.00,2,24,1,13,12,441,19,7,3,,7,0,9,8,20,4,0,2,,46,2,2,357,21,81,101/149 (68%),32/57 (56%),15/40 (38%),51%,7,31/63 (49%),14/26 (54%),6/12 (50%),74%,19,11,61,23,,1,,0,,0,5
+14064630,182,77357,NORMAL,REGULAR,Round 8,LEAGUE,1672,Le Mans,Visita,1ST,26/09/2025,8,0,47%,0.00,1,11,1,3,,229,12,2,0,,4,0,3,4,8,3,0,1,,,1,0,192,7,40,,18/32 (56%),5/14 (36%),50%,4,13/27 (48%),6/11 (55%),0/3 (0%),75%,12,8,31,14,,1,,,,,5
+14064630,182,77357,NORMAL,REGULAR,Round 8,LEAGUE,1672,Le Mans,Visita,2ND,26/09/2025,8,1,62%,0.00,1,13,0,10,,212,7,5,3,,3,0,6,4,12,1,0,1,,,1,2,165,14,41,,14/25 (56%),10/26 (38%),51%,3,18/36 (50%),8/15 (53%),6/9 (67%),71%,7,3,30,9,,0,,,,,0
+14064633,182,77357,NORMAL,REGULAR,Round 9,LEAGUE,1672,Le Mans,Local,ALL,03/10/2025,9,2,55%,0.00,3,13,1,1,17,438,26,12,1,,6,0,5,2,11,2,1,2,0,27,0,3,353,26,54,77/112 (69%),38/72 (53%),9/27 (33%),53%,11,38/78 (49%),30/50 (60%),1/5 (20%),69%,26,10,46,28,,1,,0,2,1,8
+14064633,182,77357,NORMAL,REGULAR,Round 9,LEAGUE,1672,Le Mans,Local,1ST,03/10/2025,9,0,50%,0.00,0,4,0,1,,197,15,6,1,,2,0,2,0,3,1,0,0,0,,0,2,163,10,18,,17/31 (55%),3/8 (38%),59%,3,21/33 (64%),8/16 (50%),1/1 (100%),73%,15,6,22,11,,0,,,,,5
+14064633,182,77357,NORMAL,REGULAR,Round 9,LEAGUE,1672,Le Mans,Local,2ND,03/10/2025,9,2,59%,0.00,3,9,1,0,,241,11,6,0,,4,0,3,2,8,1,1,2,0,,0,1,190,16,36,,21/41 (51%),6/19 (32%),49%,8,17/45 (38%),22/34 (65%),0/4 (0%),64%,11,4,24,17,,1,,,,,3
+14064633,182,77357,NORMAL,REGULAR,Round 9,LEAGUE,1652,Troyes,Visita,ALL,03/10/2025,9,2,45%,0.00,2,8,5,6,12,363,15,17,3,,3,0,4,1,5,3,1,1,2,17,4,1,297,17,60,74/104 (71%),26/48 (54%),1/17 (6%),47%,12,40/78 (51%),20/50 (40%),9/23 (39%),47%,15,9,50,37,,5,,3,1,1,5
+14064633,182,77357,NORMAL,REGULAR,Round 9,LEAGUE,1652,Troyes,Visita,1ST,03/10/2025,9,0,50%,0.00,0,2,3,3,,194,3,6,3,,0,0,2,0,0,2,0,0,0,,1,1,172,10,28,,13/19 (68%),0/7 (0%),41%,8,12/33 (36%),8/16 (50%),3/10 (30%),33%,3,3,25,8,,3,,,,,2
+14064633,182,77357,NORMAL,REGULAR,Round 9,LEAGUE,1652,Troyes,Visita,2ND,03/10/2025,9,2,41%,0.00,2,6,2,3,,169,12,11,0,,3,0,2,1,5,1,1,1,2,,3,0,125,7,32,,13/29 (45%),1/10 (10%),51%,4,28/45 (62%),12/34 (35%),6/13 (46%),50%,12,6,25,29,,2,,,,,3
+14064640,182,77357,NORMAL,REGULAR,Round 10,LEAGUE,1678,Saint-Étienne,Local,ALL,18/10/2025,10,2,72%,0.00,3,11,4,4,14,610,10,23,3,,4,1,4,3,6,5,1,2,,20,7,0,539,25,56,109/138 (79%),23/35 (66%),2/9 (22%),57%,5,43/76 (57%),7/12 (58%),11/23 (48%),60%,10,2,39,7,1,4,,2,0,,8
+14064640,182,77357,NORMAL,REGULAR,Round 10,LEAGUE,1678,Saint-Étienne,Local,1ST,18/10/2025,10,1,71%,0.00,1,6,2,2,10,321,5,13,1,,2,0,3,1,2,4,0,1,,,4,0,283,10,20,,14/22 (64%),2/6 (33%),56%,3,21/37 (57%),3/6 (50%),4/6 (67%),40%,5,1,23,3,,2,,,,,3
+14064640,182,77357,NORMAL,REGULAR,Round 10,LEAGUE,1678,Saint-Étienne,Local,2ND,18/10/2025,10,1,74%,0.00,2,5,2,2,4,289,5,10,2,,2,1,1,2,4,1,1,1,,,3,0,256,15,36,,9/13 (69%),0/3 (0%),58%,2,22/39 (56%),4/6 (67%),7/17 (41%),80%,5,1,16,4,,2,,,,,5
+14064640,182,77357,NORMAL,REGULAR,Round 10,LEAGUE,1672,Le Mans,Visita,ALL,18/10/2025,10,3,28%,0.00,4,14,1,3,24,229,17,13,4,,7,1,7,0,8,6,3,1,,21,2,1,162,13,46,40/73 (55%),15/48 (31%),6/7 (86%),43%,3,33/76 (43%),5/12 (42%),3/10 (30%),65%,17,10,40,14,0,1,,0,1,,7
+14064640,182,77357,NORMAL,REGULAR,Round 10,LEAGUE,1672,Le Mans,Visita,1ST,18/10/2025,10,1,29%,0.00,1,5,0,1,13,131,5,10,2,,3,0,2,0,2,3,1,0,,,1,0,99,6,21,,5/21 (24%),0/1 (0%),44%,1,16/37 (43%),3/6 (50%),2/6 (33%),80%,5,3,16,7,,0,,,,,5
+14064640,182,77357,NORMAL,REGULAR,Round 10,LEAGUE,1672,Le Mans,Visita,2ND,18/10/2025,10,2,26%,0.00,3,9,1,2,11,98,12,3,2,,4,1,5,0,6,3,2,1,,,1,1,63,7,25,,10/27 (37%),6/6 (100%),42%,2,17/39 (44%),2/6 (33%),1/4 (25%),58%,12,7,24,7,,1,,,,,2
+14382998,182,77357,NORMAL,REGULAR,Round 11,LEAGUE,1672,Le Mans,Local,ALL,24/10/2025,11,1,67%,0.00,2,15,1,10,11,511,16,19,2,,6,1,2,7,12,3,,2,,25,2,4,421,25,62,87/121 (72%),22/43 (51%),12/39 (31%),57%,3,38/69 (55%),19/31 (61%),5/17 (29%),75%,16,11,42,14,,1,,0,1,,3
+14382998,182,77357,NORMAL,REGULAR,Round 11,LEAGUE,1672,Le Mans,Local,1ST,24/10/2025,11,0,69%,0.00,1,7,0,4,7,265,7,8,1,,3,1,1,3,7,0,,1,,,1,2,222,11,31,,10/25 (40%),5/15 (33%),53%,1,16/34 (47%),9/13 (69%),2/9 (22%),100%,7,5,22,5,,0,,,,,2
+14382998,182,77357,NORMAL,REGULAR,Round 11,LEAGUE,1672,Le Mans,Local,2ND,24/10/2025,11,1,66%,0.00,1,8,1,6,4,246,9,11,1,,3,0,1,4,5,3,,1,,,1,2,199,14,31,,12/18 (67%),7/24 (29%),60%,2,22/35 (63%),10/18 (56%),3/8 (38%),56%,9,6,20,9,,1,,,,,1
+14382998,182,77357,NORMAL,REGULAR,Round 11,LEAGUE,1711,US Boulogne Côte-d'Opale,Visita,ALL,24/10/2025,11,0,33%,0.00,0,4,4,3,19,258,15,11,2,,1,0,2,1,1,3,,0,,7,2,2,165,20,40,27/65 (42%),13/50 (26%),2/10 (20%),43%,5,31/69 (45%),12/31 (39%),6/17 (35%),67%,15,16,42,27,,4,,1,0,,6
+14382998,182,77357,NORMAL,REGULAR,Round 11,LEAGUE,1711,US Boulogne Côte-d'Opale,Visita,1ST,24/10/2025,11,0,31%,0.00,0,1,2,1,8,122,8,7,1,,0,0,1,0,0,1,,0,,,2,2,71,11,16,,5/26 (19%),0/3 (0%),47%,1,18/34 (53%),4/13 (31%),3/9 (33%),75%,8,5,23,11,,2,,,,,4
+14382998,182,77357,NORMAL,REGULAR,Round 11,LEAGUE,1711,US Boulogne Côte-d'Opale,Visita,2ND,24/10/2025,11,0,34%,0.00,0,3,2,2,11,136,7,4,1,,1,0,1,1,1,2,,0,,,0,0,94,9,24,,8/24 (33%),2/7 (29%),40%,4,13/35 (37%),8/18 (44%),3/8 (38%),57%,7,11,19,16,,2,,,,,2
+14064659,182,77357,NORMAL,REGULAR,Round 12,LEAGUE,1673,Stade Lavallois,Local,ALL,28/10/2025,12,1,52%,0.00,3,9,2,6,16,370,10,18,3,,7,0,1,1,7,2,1,2,1,11,2,1,273,40,76,55/107 (51%),36/79 (46%),8/20 (40%),43%,7,31/71 (44%),21/49 (43%),3/15 (20%),60%,10,2,46,26,,2,,,,1,5
+14064659,182,77357,NORMAL,REGULAR,Round 12,LEAGUE,1673,Stade Lavallois,Local,1ST,28/10/2025,12,0,49%,0.00,0,3,1,5,5,168,6,6,1,,2,0,1,0,2,1,0,0,0,,0,0,116,20,38,,15/41 (37%),5/15 (33%),43%,4,14/32 (44%),12/29 (41%),2/9 (22%),50%,6,1,29,11,,1,,,,,3
+14064659,182,77357,NORMAL,REGULAR,Round 12,LEAGUE,1673,Stade Lavallois,Local,2ND,28/10/2025,12,1,55%,0.00,3,6,1,1,11,202,4,12,2,,5,0,0,1,5,1,1,2,1,,2,1,157,20,38,,21/38 (55%),3/5 (60%),44%,3,17/39 (44%),9/20 (45%),1/6 (17%),75%,4,1,17,15,,1,,,,,2
+14064659,182,77357,NORMAL,REGULAR,Round 12,LEAGUE,1672,Le Mans,Visita,ALL,28/10/2025,12,1,48%,0.00,2,6,5,6,18,345,19,16,3,,3,0,3,0,3,3,0,2,0,12,3,2,245,28,73,55/109 (50%),23/67 (34%),2/15 (13%),57%,2,40/71 (56%),28/49 (57%),6/14 (43%),68%,19,8,53,42,,5,,,,0,4
+14064659,182,77357,NORMAL,REGULAR,Round 12,LEAGUE,1672,Le Mans,Visita,1ST,28/10/2025,12,1,51%,0.00,0,4,2,3,6,186,11,5,1,,2,0,2,0,1,3,0,0,0,,1,1,137,15,32,,13/32 (41%),1/7 (14%),57%,2,18/32 (56%),17/29 (59%),2/6 (33%),73%,11,6,29,24,,2,,,,,3
+14064659,182,77357,NORMAL,REGULAR,Round 12,LEAGUE,1672,Le Mans,Visita,2ND,28/10/2025,12,0,45%,0.00,2,2,3,3,12,159,8,11,2,,1,0,1,0,2,0,0,2,0,,2,1,108,13,41,,10/35 (29%),1/8 (13%),56%,0,22/39 (56%),11/20 (55%),4/8 (50%),63%,8,2,24,18,,3,,,,,1
+14064656,182,77357,NORMAL,REGULAR,Round 13,LEAGUE,1672,Le Mans,Local,ALL,31/10/2025,13,1,49%,0.00,1,9,1,7,12,394,10,11,5,,2,0,6,1,6,3,1,0,,15,0,2,302,20,61,59/112 (53%),34/68 (50%),5/15 (33%),48%,8,23/54 (43%),23/42 (55%),3/10 (30%),70%,10,11,40,32,,1,,0,1,1,9
+14064656,182,77357,NORMAL,REGULAR,Round 13,LEAGUE,1672,Le Mans,Local,1ST,31/10/2025,13,0,46%,0.00,0,3,0,4,4,188,4,4,2,,0,0,2,1,3,0,0,0,,,0,1,150,12,26,,17/33 (52%),4/9 (44%),47%,7,8/27 (30%),15/22 (68%),0/5 (0%),75%,4,6,19,18,,0,,,,,3
+14064656,182,77357,NORMAL,REGULAR,Round 13,LEAGUE,1672,Le Mans,Local,2ND,31/10/2025,13,1,53%,0.00,1,6,1,3,8,206,6,7,3,,2,0,4,0,3,3,1,0,,,0,1,152,8,35,,17/35 (49%),1/6 (17%),49%,1,15/27 (56%),8/20 (40%),3/5 (60%),67%,6,5,21,14,,1,,,,,6
+14064656,182,77357,NORMAL,REGULAR,Round 13,LEAGUE,1675,Nancy,Visita,ALL,31/10/2025,13,0,51%,0.00,1,8,1,3,11,417,15,12,2,,1,0,3,4,2,6,0,1,,8,4,2,317,26,65,65/116 (56%),27/58 (47%),3/14 (21%),52%,3,31/54 (57%),19/42 (45%),4/11 (36%),80%,15,8,45,20,,1,,1,0,0,8
+14064656,182,77357,NORMAL,REGULAR,Round 13,LEAGUE,1675,Nancy,Visita,1ST,31/10/2025,13,0,54%,0.00,0,1,0,1,4,233,12,4,0,,0,0,1,0,0,1,0,0,,,0,2,184,11,28,,11/28 (39%),0/5 (0%),53%,1,19/27 (70%),7/22 (32%),3/6 (50%),75%,12,5,27,6,,0,,,,,4
+14064656,182,77357,NORMAL,REGULAR,Round 13,LEAGUE,1675,Nancy,Visita,2ND,31/10/2025,13,0,47%,0.00,1,7,1,2,7,184,3,8,2,,1,0,2,4,2,5,0,1,,,4,0,133,15,37,,16/30 (53%),3/9 (33%),51%,2,12/27 (44%),12/20 (60%),1/5 (20%),100%,3,3,18,14,,1,,,,,4
+14064674,182,77357,NORMAL,REGULAR,Round 14,LEAGUE,1672,Le Mans,Local,ALL,08/11/2025,14,0,45%,0.00,,9,1,5,17,392,14,4,,,3,0,6,0,6,3,,,,19,,3,311,16,67,75/122 (61%),27/58 (47%),7/25 (28%),41%,7,21/61 (34%),17/32 (53%),3/7 (43%),57%,14,13,57,15,,1,,,3,1,3
+14064674,182,77357,NORMAL,REGULAR,Round 14,LEAGUE,1672,Le Mans,Local,1ST,08/11/2025,14,0,44%,0.00,,4,0,3,7,209,7,2,,,1,0,3,0,3,1,,,,,,1,170,4,38,,15/31 (48%),2/11 (18%),44%,2,11/27 (41%),7/14 (50%),2/4 (50%),71%,7,4,27,4,,0,,,,,2
+14064674,182,77357,NORMAL,REGULAR,Round 14,LEAGUE,1672,Le Mans,Local,2ND,08/11/2025,14,0,46%,0.00,,5,1,2,10,183,7,2,,,2,0,3,0,3,2,,,,,,2,141,12,29,,12/27 (44%),5/14 (36%),38%,5,10/34 (29%),10/18 (56%),1/3 (33%),43%,7,9,30,11,,1,,,,,1
+14064674,182,77357,NORMAL,REGULAR,Round 14,LEAGUE,52874,Red Star FC,Visita,ALL,08/11/2025,14,0,55%,0.00,,8,3,6,4,503,11,17,,,2,0,2,4,6,2,,,,23,,1,425,17,41,45/70 (64%),44/84 (52%),2/15 (13%),59%,3,40/61 (66%),15/32 (47%),14/25 (56%),36%,11,9,44,17,,3,,,0,1,10
+14064674,182,77357,NORMAL,REGULAR,Round 14,LEAGUE,52874,Red Star FC,Visita,1ST,08/11/2025,14,0,56%,0.00,,3,1,3,2,274,4,7,,,0,0,1,2,2,1,,,,,,1,232,10,21,,21/44 (48%),0/5 (0%),56%,2,16/27 (59%),7/14 (50%),5/10 (50%),50%,4,3,22,9,,1,,,,,6
+14064674,182,77357,NORMAL,REGULAR,Round 14,LEAGUE,52874,Red Star FC,Visita,2ND,08/11/2025,14,0,54%,0.00,,5,2,3,2,229,7,10,,,2,0,1,2,4,1,,,,,,0,193,7,20,,23/40 (57%),2/10 (20%),62%,1,24/34 (71%),8/18 (44%),9/15 (60%),29%,7,6,22,8,,2,,,,,4
+14986299,335,85565,NORMAL,REGULAR,Round 7,CUP,60790,US Ivry,Local,ALL,15/11/2025,7,1,,,,6,0,6,,,,16,2,0,3,,2,1,,,,,,,,1,,19,,,,,,,,,,,,,,,,0,,,,,9
+14986299,335,85565,NORMAL,REGULAR,Round 7,CUP,60790,US Ivry,Local,1ST,15/11/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14986299,335,85565,NORMAL,REGULAR,Round 7,CUP,60790,US Ivry,Local,2ND,15/11/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14986299,335,85565,NORMAL,REGULAR,Round 7,CUP,1672,Le Mans,Visita,ALL,15/11/2025,7,1,,,,2,0,6,,,,8,4,1,0,,2,0,,,,,,,,4,,23,,,,,,,,,,,,,,,,0,,,,,4
+14986299,335,85565,NORMAL,REGULAR,Round 7,CUP,1672,Le Mans,Visita,1ST,15/11/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14986299,335,85565,NORMAL,REGULAR,Round 7,CUP,1672,Le Mans,Visita,2ND,15/11/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14064789,182,77357,NORMAL,REGULAR,Round 15,LEAGUE,1685,Pau FC,Local,ALL,21/11/2025,15,1,61%,0.00,1,12,2,7,8,568,13,17,3,,2,1,5,5,9,3,1,0,,29,4,0,476,25,68,127/176 (72%),40/68 (59%),6/33 (18%),51%,6,36/68 (53%),9/21 (43%),8/22 (36%),85%,13,3,65,17,,2,,1,1,0,3
+14064789,182,77357,NORMAL,REGULAR,Round 15,LEAGUE,1685,Pau FC,Local,1ST,21/11/2025,15,1,53%,0.00,1,4,1,2,6,259,5,8,3,,1,1,1,2,3,1,1,0,,,1,0,217,14,28,,26/41 (63%),1/7 (14%),48%,4,16/34 (47%),3/6 (50%),5/9 (56%),80%,5,1,29,12,,1,,,,,3
+14064789,182,77357,NORMAL,REGULAR,Round 15,LEAGUE,1685,Pau FC,Local,2ND,21/11/2025,15,0,69%,0.00,0,8,1,5,2,309,8,9,0,,1,0,4,3,6,2,0,0,,,3,0,259,11,40,,14/27 (52%),5/26 (19%),53%,2,20/34 (59%),6/15 (40%),3/13 (23%),88%,8,2,36,5,,1,,,,,0
+14064789,182,77357,NORMAL,REGULAR,Round 15,LEAGUE,1672,Le Mans,Visita,ALL,21/11/2025,15,2,39%,0.00,2,5,1,2,17,363,20,7,3,,3,0,1,1,5,0,1,1,,17,1,3,292,11,58,58/93 (62%),30/61 (49%),3/13 (23%),49%,3,32/68 (47%),12/21 (57%),6/16 (38%),40%,20,17,68,40,,1,,0,3,1,2
+14064789,182,77357,NORMAL,REGULAR,Round 15,LEAGUE,1672,Le Mans,Visita,1ST,21/11/2025,15,2,47%,0.00,2,4,0,1,8,225,8,5,0,,2,0,1,1,4,0,1,1,,,1,1,189,2,45,,19/34 (56%),3/9 (33%),52%,2,18/34 (53%),3/6 (50%),5/8 (63%),75%,8,8,37,9,,0,,,,,0
+14064789,182,77357,NORMAL,REGULAR,Round 15,LEAGUE,1672,Le Mans,Visita,2ND,21/11/2025,15,0,31%,0.00,0,1,1,1,9,138,12,2,3,,1,0,0,0,1,0,0,0,,,0,2,103,9,13,,11/27 (41%),0/4 (0%),47%,1,14/34 (41%),9/15 (60%),1/8 (13%),17%,12,9,31,31,,1,,,,,2
+15118755,335,85565,NORMAL,REGULAR,Round 8,CUP,1141647,Amicale Villeneuve-Garenne,Local,ALL,29/11/2025,8,2,,,,3,0,2,,,,17,2,0,2,,1,0,,,,,,,,2,,31,,,,,,,,,,,,,,,,0,,,,,12
+15118755,335,85565,NORMAL,REGULAR,Round 8,CUP,1141647,Amicale Villeneuve-Garenne,Local,1ST,29/11/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15118755,335,85565,NORMAL,REGULAR,Round 8,CUP,1141647,Amicale Villeneuve-Garenne,Local,2ND,29/11/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15118755,335,85565,NORMAL,REGULAR,Round 8,CUP,1672,Le Mans,Visita,ALL,29/11/2025,8,2,,,,7,0,7,,,,12,1,0,1,,6,0,,,,,,,,1,,30,,,,,,,,,,,,,,,,0,,,,,7
+15118755,335,85565,NORMAL,REGULAR,Round 8,CUP,1672,Le Mans,Visita,1ST,29/11/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15118755,335,85565,NORMAL,REGULAR,Round 8,CUP,1672,Le Mans,Visita,2ND,29/11/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14064797,182,77357,NORMAL,REGULAR,Round 16,LEAGUE,1672,Le Mans,Local,ALL,05/12/2025,16,1,62%,0.00,3,14,1,6,23,527,36,4,1,,3,0,7,4,11,3,1,2,,27,0,1,425,24,78,104/146 (71%),28/63 (44%),7/21 (33%),50%,5,43/87 (49%),16/30 (53%),3/12 (25%),61%,36,14,60,22,,1,,0,,0,6
+14064797,182,77357,NORMAL,REGULAR,Round 16,LEAGUE,1672,Le Mans,Local,1ST,05/12/2025,16,1,70%,0.00,1,8,0,3,10,314,12,2,0,,1,0,3,4,7,1,1,0,,,0,1,266,13,50,,19/32 (59%),4/15 (27%),51%,1,17/37 (46%),12/20 (60%),3/9 (33%),67%,12,6,34,7,,0,,,,,0
+14064797,182,77357,NORMAL,REGULAR,Round 16,LEAGUE,1672,Le Mans,Local,2ND,05/12/2025,16,0,54%,0.00,2,6,1,3,13,213,24,2,1,,2,0,4,0,4,2,0,2,,,0,0,159,11,28,,9/31 (29%),3/6 (50%),50%,4,26/50 (52%),4/10 (40%),0/3 (0%),58%,24,8,26,15,,1,,,,,6
+14064797,182,77357,NORMAL,REGULAR,Round 16,LEAGUE,1676,Amiens SC,Visita,ALL,05/12/2025,16,0,38%,0.00,0,3,2,3,4,322,14,23,0,,1,0,2,0,2,1,0,0,,11,2,2,221,33,48,47/92 (51%),27/64 (42%),4/11 (36%),50%,14,44/87 (51%),14/30 (47%),7/29 (24%),79%,14,13,42,23,,2,,1,,1,15
+14064797,182,77357,NORMAL,REGULAR,Round 16,LEAGUE,1676,Amiens SC,Visita,1ST,05/12/2025,16,0,30%,0.00,0,0,0,1,2,140,7,10,0,,0,0,0,0,0,0,0,0,,,0,0,92,7,26,,12/31 (39%),1/2 (50%),49%,6,20/37 (54%),8/20 (40%),3/9 (33%),71%,7,9,23,16,,0,,,,,9
+14064797,182,77357,NORMAL,REGULAR,Round 16,LEAGUE,1676,Amiens SC,Visita,2ND,05/12/2025,16,0,46%,0.00,0,3,2,2,2,182,7,13,0,,1,0,2,0,2,1,0,0,,,2,2,129,26,22,,15/33 (45%),3/9 (33%),50%,8,24/50 (48%),6/10 (60%),4/20 (20%),86%,7,4,19,7,,2,,,,,6
+14064800,182,77357,NORMAL,REGULAR,Round 17,LEAGUE,210894,Annecy FC,Local,ALL,12/12/2025,17,1,58%,0.00,1,8,1,5,22,439,9,20,2,,3,0,1,4,4,4,0,1,,20,1,2,303,47,61,66/118 (56%),19/56 (34%),3/14 (21%),45%,12,35/84 (42%),34/69 (49%),7/21 (33%),67%,9,6,52,23,,1,,,,,4
+14064800,182,77357,NORMAL,REGULAR,Round 17,LEAGUE,210894,Annecy FC,Local,1ST,12/12/2025,17,0,50%,0.00,1,1,1,2,14,169,2,7,1,,1,0,0,0,1,0,0,1,,,1,1,95,22,23,,7/30 (23%),0/7 (0%),44%,4,11/33 (33%),19/35 (54%),3/6 (50%),100%,2,3,23,9,,1,,,,,2
+14064800,182,77357,NORMAL,REGULAR,Round 17,LEAGUE,210894,Annecy FC,Local,2ND,12/12/2025,17,1,65%,0.00,0,7,0,3,8,270,7,13,1,,2,0,1,4,3,4,0,0,,,0,1,208,25,38,,12/26 (46%),3/7 (43%),46%,8,24/51 (47%),15/34 (44%),4/15 (27%),57%,7,3,29,14,,0,,,,,2
+14064800,182,77357,NORMAL,REGULAR,Round 17,LEAGUE,1672,Le Mans,Visita,ALL,12/12/2025,17,2,42%,0.00,2,7,2,5,20,316,26,21,3,,3,0,3,1,6,1,2,0,,13,2,4,177,24,73,37/99 (37%),25/92 (27%),3/12 (25%),55%,5,49/84 (58%),35/69 (51%),4/8 (50%),65%,26,12,54,40,,2,,,,,7
+14064800,182,77357,NORMAL,REGULAR,Round 17,LEAGUE,1672,Le Mans,Visita,1ST,12/12/2025,17,1,50%,0.00,1,3,1,3,7,169,7,13,1,,2,0,1,0,3,0,1,0,,,2,3,96,15,35,,16/46 (35%),1/8 (13%),56%,1,22/33 (67%),16/35 (46%),2/3 (67%),71%,7,9,26,15,,1,,,,,2
+14064800,182,77357,NORMAL,REGULAR,Round 17,LEAGUE,1672,Le Mans,Visita,2ND,12/12/2025,17,1,35%,0.00,1,4,1,2,13,147,19,8,2,,1,0,2,1,3,1,1,0,,,0,1,81,9,38,,9/46 (20%),2/4 (50%),54%,4,27/51 (53%),19/34 (56%),2/5 (40%),63%,19,3,28,25,,1,,,,,5
+15171818,335,85565,NORMAL,REGULAR,Round of 64,CUP,1048155,FC Perigny,Local,ALL,19/12/2025,32,1,25%,0.00,1,4,4,3,11,204,15,16,1,,2,0,1,1,2,2,1,0,0,7,1,2,103,27,52,13/56 (23%),10/53 (19%),2/10 (20%),47%,12,33/68 (49%),16/37 (43%),2/11 (18%),60%,15,16,47,42,,4,,1,1,1,5
+15171818,335,85565,NORMAL,REGULAR,Round of 64,CUP,1048155,FC Perigny,Local,1ST,19/12/2025,32,1,27%,0.00,1,3,2,2,4,103,5,10,1,,2,0,0,1,2,1,1,0,0,,1,0,62,12,17,,5/22 (23%),0/5 (0%),48%,5,16/32 (50%),4/10 (40%),1/8 (13%),100%,5,12,23,13,,2,,,,,2
+15171818,335,85565,NORMAL,REGULAR,Round of 64,CUP,1048155,FC Perigny,Local,2ND,19/12/2025,32,0,24%,0.00,0,1,2,1,7,101,10,6,0,,0,0,1,0,0,1,0,0,0,,0,2,41,15,35,,5/31 (16%),2/5 (40%),46%,7,17/36 (47%),12/27 (44%),1/3 (33%),40%,10,4,24,29,,2,,,,,3
+15171818,335,85565,NORMAL,REGULAR,Round of 64,CUP,1672,Le Mans,Visita,ALL,19/12/2025,32,2,75%,0.00,2,12,1,7,17,610,21,11,2,,6,0,5,1,8,4,1,1,2,25,2,5,501,29,66,80/142 (56%),31/57 (54%),3/30 (10%),53%,6,35/68 (51%),21/37 (57%),5/14 (36%),57%,21,9,65,20,,1,,0,2,0,3
+15171818,335,85565,NORMAL,REGULAR,Round of 64,CUP,1672,Le Mans,Visita,1ST,19/12/2025,32,1,73%,0.00,1,5,1,3,11,293,12,4,1,,3,0,2,0,4,1,1,0,1,,1,1,243,11,32,,13/24 (54%),2/15 (13%),52%,2,16/32 (50%),6/10 (60%),1/4 (25%),58%,12,4,35,8,,1,,,,,0
+15171818,335,85565,NORMAL,REGULAR,Round of 64,CUP,1672,Le Mans,Visita,2ND,19/12/2025,32,1,76%,0.00,1,7,0,4,6,317,9,7,1,,3,0,3,1,4,3,0,1,1,,1,4,258,18,34,,18/33 (55%),1/15 (7%),54%,4,19/36 (53%),15/27 (56%),4/10 (40%),56%,9,5,30,12,,0,,,,,3
+14064809,182,77357,NORMAL,REGULAR,Round 18,LEAGUE,1672,Le Mans,Local,ALL,03/01/2026,18,0,39%,0.00,0,10,4,5,16,328,25,7,2,,4,0,5,1,9,1,,0,0,21,3,2,227,30,52,63/107 (59%),26/63 (41%),6/25 (24%),53%,7,41/78 (53%),20/38 (53%),9/17 (53%),72%,25,16,54,19,,4,,0,0,,8
+14064809,182,77357,NORMAL,REGULAR,Round 18,LEAGUE,1672,Le Mans,Local,1ST,03/01/2026,18,0,40%,0.00,0,3,1,3,4,182,16,4,0,,1,0,1,1,3,0,,0,0,,3,2,126,19,25,,14/35 (40%),1/14 (7%),56%,5,25/41 (61%),12/25 (48%),5/9 (56%),63%,16,10,28,7,,1,,,,,6
+14064809,182,77357,NORMAL,REGULAR,Round 18,LEAGUE,1672,Le Mans,Local,2ND,03/01/2026,18,0,37%,0.00,0,7,3,2,12,146,9,3,2,,3,0,4,0,6,1,,0,0,,0,0,101,11,27,,12/28 (43%),5/11 (45%),48%,2,16/37 (43%),8/13 (62%),4/8 (50%),89%,9,6,26,12,,3,,,,,2
+14064809,182,77357,NORMAL,REGULAR,Round 18,LEAGUE,1678,Saint-Étienne,Visita,ALL,03/01/2026,18,0,61%,0.00,2,14,4,10,7,551,15,16,2,,4,0,4,6,8,6,,2,1,29,2,2,455,21,44,87/121 (72%),29/59 (49%),1/14 (7%),47%,11,37/78 (47%),18/38 (47%),6/20 (30%),73%,15,8,53,28,,4,,1,1,,8
+14064809,182,77357,NORMAL,REGULAR,Round 18,LEAGUE,1678,Saint-Étienne,Visita,1ST,03/01/2026,18,0,60%,0.00,0,5,1,1,4,291,9,4,0,,1,0,3,1,2,3,,0,1,,0,1,233,15,19,,13/29 (45%),0/2 (0%),44%,8,16/41 (39%),13/25 (52%),3/11 (27%),78%,9,3,31,18,,1,,,,,3
+14064809,182,77357,NORMAL,REGULAR,Round 18,LEAGUE,1678,Saint-Étienne,Visita,2ND,03/01/2026,18,0,63%,0.00,2,9,3,9,3,260,6,12,2,,3,0,1,5,6,3,,2,0,,2,1,222,6,25,,16/30 (53%),1/12 (8%),52%,3,21/37 (57%),5/13 (38%),3/9 (33%),67%,6,5,22,10,,3,,,,,5
+15262369,335,85565,NORMAL,REGULAR,Round of 32,CUP,1672,Le Mans,Local,ALL,11/01/2026,6,0,67%,0.00,1,12,3,5,15,572,17,11,0,,4,0,3,5,5,7,,1,,18,4,3,486,15,88,89/145 (61%),33/61 (54%),4/21 (19%),52%,6,33/62 (53%),12/24 (50%),5/10 (50%),65%,17,8,59,22,2,3,,1,3,,7
+15262369,335,85565,NORMAL,REGULAR,Round of 32,CUP,1672,Le Mans,Local,1ST,11/01/2026,6,0,70%,0.00,0,3,2,4,9,280,9,4,0,,1,0,0,2,2,1,,0,,,1,1,237,5,32,,19/33 (58%),2/10 (20%),40%,2,14/30 (47%),4/15 (27%),1/4 (25%),67%,9,3,26,14,,2,,,,,6
+15262369,335,85565,NORMAL,REGULAR,Round of 32,CUP,1672,Le Mans,Local,2ND,11/01/2026,6,0,65%,0.00,1,9,1,1,6,292,8,7,0,,3,0,3,3,3,6,,1,,,3,2,249,10,56,,14/28 (50%),2/11 (18%),66%,4,19/32 (59%),8/9 (89%),4/6 (67%),63%,8,5,33,8,,1,,,,,1
+15262369,335,85565,NORMAL,REGULAR,Round of 32,CUP,1675,Nancy,Visita,ALL,11/01/2026,6,0,33%,0.00,1,10,4,5,11,280,11,15,3,,3,0,3,4,7,3,,1,,13,1,2,184,15,41,42/78 (54%),24/67 (36%),2/11 (18%),48%,10,29/62 (47%),12/24 (50%),4/11 (36%),73%,11,9,52,31,1,4,,2,1,,12
+15262369,335,85565,NORMAL,REGULAR,Round of 32,CUP,1675,Nancy,Visita,1ST,11/01/2026,6,0,30%,0.00,0,7,1,4,4,119,5,9,1,,2,0,3,2,5,2,,0,,,1,2,75,9,20,,15/30 (50%),2/8 (25%),60%,6,16/30 (53%),11/15 (73%),3/6 (50%),80%,5,4,30,11,,1,,,,,2
+15262369,335,85565,NORMAL,REGULAR,Round of 32,CUP,1675,Nancy,Visita,2ND,11/01/2026,6,0,35%,0.00,1,3,3,1,7,161,6,6,2,,1,0,0,2,2,1,,1,,,0,0,109,6,21,,9/37 (24%),0/3 (0%),34%,4,13/32 (41%),1/9 (11%),1/5 (20%),67%,6,5,22,20,,3,,,,,10
+14064714,182,77357,NORMAL,REGULAR,Round 19,LEAGUE,6925,Rodez AF,Local,ALL,16/01/2026,19,1,45%,0.00,3,5,3,4,11,321,11,17,1,,1,0,3,1,4,1,1,2,,20,0,2,227,31,52,50/91 (55%),18/57 (32%),4/17 (24%),45%,9,36/79 (46%),12/27 (44%),11/29 (38%),64%,11,14,58,36,,3,,,2,1,12
+14064714,182,77357,NORMAL,REGULAR,Round 19,LEAGUE,6925,Rodez AF,Local,1ST,16/01/2026,19,0,38%,0.00,0,0,1,1,8,152,5,9,0,,0,0,0,0,0,0,0,0,,,0,1,118,10,22,,10/23 (43%),0/5 (0%),41%,5,18/41 (44%),5/15 (33%),6/14 (43%),80%,5,8,29,20,,1,,,,,2
+14064714,182,77357,NORMAL,REGULAR,Round 19,LEAGUE,6925,Rodez AF,Local,2ND,16/01/2026,19,1,54%,0.00,3,5,2,3,3,169,6,8,1,,1,0,3,1,4,1,1,2,,,0,1,109,21,30,,8/34 (24%),4/12 (33%),50%,4,18/38 (47%),7/12 (58%),5/15 (33%),50%,6,6,29,16,,2,,,,,10
+14064714,182,77357,NORMAL,REGULAR,Round 19,LEAGUE,1672,Le Mans,Visita,ALL,16/01/2026,19,1,55%,0.00,3,10,0,8,17,382,27,11,2,,4,0,5,1,6,4,0,3,,15,2,1,290,35,68,86/138 (62%),24/58 (41%),2/30 (7%),55%,3,43/79 (54%),15/27 (56%),6/14 (43%),70%,27,14,56,31,,0,,,0,0,4
+14064714,182,77357,NORMAL,REGULAR,Round 19,LEAGUE,1672,Le Mans,Visita,1ST,16/01/2026,19,0,62%,0.00,1,2,0,5,9,238,13,8,0,,1,0,1,0,2,0,0,1,,,1,0,186,21,34,,14/29 (48%),1/18 (6%),59%,2,23/41 (56%),10/15 (67%),3/6 (50%),54%,13,5,24,8,,0,,,,,1
+14064714,182,77357,NORMAL,REGULAR,Round 19,LEAGUE,1672,Le Mans,Visita,2ND,16/01/2026,19,1,46%,0.00,2,8,0,3,8,144,14,3,2,,3,0,4,1,4,4,0,2,,,1,1,104,14,34,,10/29 (34%),1/12 (8%),50%,1,20/38 (53%),5/12 (42%),3/8 (38%),86%,14,9,32,23,,0,,,,,3
+15150254,182,77357,NORMAL,REGULAR,Round 20,LEAGUE,1672,Le Mans,Local,ALL,26/01/2026,20,1,37%,0.00,2,10,3,1,19,322,13,10,4,,4,0,3,3,6,4,1,1,2,13,0,6,240,13,43,36/64 (56%),23/62 (37%),2/6 (33%),44%,6,32/68 (47%),10/27 (37%),9/13 (69%),62%,13,10,61,23,,3,,,2,,9
+15150254,182,77357,NORMAL,REGULAR,Round 20,LEAGUE,1672,Le Mans,Local,1ST,26/01/2026,20,0,40%,0.00,0,5,2,1,9,179,7,5,0,,2,0,2,1,2,3,0,0,0,,0,2,141,7,21,,14/30 (47%),1/4 (25%),50%,2,17/31 (55%),4/11 (36%),5/8 (63%),57%,7,7,25,11,,2,,,,,4
+15150254,182,77357,NORMAL,REGULAR,Round 20,LEAGUE,1672,Le Mans,Local,2ND,26/01/2026,20,1,35%,0.00,2,5,1,0,10,143,6,5,4,,2,0,1,2,4,1,1,1,2,,0,4,99,6,22,,9/32 (28%),1/2 (50%),40%,4,15/37 (41%),6/16 (38%),4/5 (80%),67%,6,3,36,12,,1,,,,,5
+15150254,182,77357,NORMAL,REGULAR,Round 20,LEAGUE,6918,USL Dunkerque,Visita,ALL,26/01/2026,20,0,63%,0.00,1,14,3,2,10,543,10,19,2,,3,1,6,5,7,7,0,1,0,14,4,2,462,18,66,88/125 (70%),26/53 (49%),2/15 (13%),56%,3,36/68 (53%),17/27 (63%),8/18 (44%),70%,10,6,49,32,,3,,,0,,6
+15150254,182,77357,NORMAL,REGULAR,Round 20,LEAGUE,6918,USL Dunkerque,Visita,1ST,26/01/2026,20,0,60%,0.00,0,4,2,0,5,281,5,9,1,,2,0,2,0,2,2,0,0,0,,0,1,234,10,23,,15/34 (44%),0/2 (0%),50%,2,14/31 (45%),7/11 (64%),1/6 (17%),60%,5,2,23,18,,2,,,,,3
+15150254,182,77357,NORMAL,REGULAR,Round 20,LEAGUE,6918,USL Dunkerque,Visita,2ND,26/01/2026,20,0,65%,0.00,1,10,1,2,5,262,5,10,1,,1,1,4,5,5,5,0,1,0,,4,1,228,8,43,,11/19 (58%),2/13 (15%),60%,1,22/37 (59%),10/16 (63%),7/12 (58%),80%,5,4,26,14,,1,,,,,3
+14064710,182,77357,NORMAL,REGULAR,Round 21,LEAGUE,1652,Troyes,Local,ALL,31/01/2026,21,0,63%,0.00,3,13,1,3,8,441,13,19,3,0,3,1,7,3,8,5,0,3,3,28,3,10,369,22,70,116/162 (72%),22/35 (63%),7/24 (29%),61%,7,42/67 (63%),29/49 (59%),11/21 (52%),62%,13,5,47,17,1,1,,1,0,,5
+14064710,182,77357,NORMAL,REGULAR,Round 21,LEAGUE,1652,Troyes,Local,1ST,31/01/2026,21,0,51%,0.00,2,8,1,0,2,200,11,8,0,0,2,0,3,3,5,3,0,2,0,,1,5,161,10,32,,12/20 (60%),1/6 (17%),63%,4,27/39 (69%),14/26 (54%),8/13 (62%),55%,11,5,24,12,,1,,,,,3
+14064710,182,77357,NORMAL,REGULAR,Round 21,LEAGUE,1652,Troyes,Local,2ND,31/01/2026,21,0,78%,0.00,1,5,0,3,6,241,2,11,3,0,1,1,4,0,3,2,0,1,3,,2,5,208,12,38,,10/15 (67%),6/18 (33%),59%,3,15/28 (54%),15/23 (65%),3/8 (38%),100%,2,1,23,5,,0,,,,,2
+14064710,182,77357,NORMAL,REGULAR,Round 21,LEAGUE,1672,Le Mans,Visita,ALL,31/01/2026,21,2,37%,0.00,3,4,2,3,19,267,17,8,5,1,3,0,1,1,4,1,2,1,2,14,0,2,171,13,48,35/75 (47%),18/70 (26%),1/10 (10%),39%,7,25/67 (37%),20/49 (41%),2/8 (25%),53%,17,13,41,31,0,2,,0,1,,10
+14064710,182,77357,NORMAL,REGULAR,Round 21,LEAGUE,1672,Le Mans,Visita,1ST,31/01/2026,21,2,49%,0.00,3,3,0,2,8,194,9,2,1,0,3,0,1,0,3,1,2,1,2,,0,2,141,9,29,,13/36 (36%),1/10 (10%),37%,6,12/39 (31%),12/26 (46%),1/6 (17%),44%,9,7,21,5,,0,,,,,5
+14064710,182,77357,NORMAL,REGULAR,Round 21,LEAGUE,1672,Le Mans,Visita,2ND,31/01/2026,21,0,22%,0.00,0,1,2,1,11,73,8,6,4,1,0,0,0,1,1,0,0,0,0,,0,0,30,4,19,,5/34 (15%),0/0 (0%),41%,1,13/28 (46%),8/23 (35%),1/2 (50%),63%,8,6,20,26,,2,,,,,5
+15366336,335,85565,NORMAL,REGULAR,Round of 16,CUP,1682,Stade de Reims,Local,ALL,03/02/2026,5,3,54%,0.00,4,10,1,2,6,508,11,11,1,,7,0,2,1,7,3,3,1,1,14,0,2,434,25,62,72/103 (70%),32/65 (49%),4/9 (44%),55%,6,35/62 (56%),15/29 (52%),13/21 (62%),27%,11,17,61,29,1,1,,,,1,8
+15366336,335,85565,NORMAL,REGULAR,Round of 16,CUP,1682,Stade de Reims,Local,1ST,03/02/2026,5,1,60%,0.00,2,6,1,1,2,297,8,6,0,,4,0,1,1,5,1,1,1,0,,0,2,260,11,38,,15/33 (45%),3/7 (43%),57%,3,18/32 (56%),11/19 (58%),4/10 (40%),25%,8,8,34,17,,1,,,,,2
+15366336,335,85565,NORMAL,REGULAR,Round of 16,CUP,1682,Stade de Reims,Local,2ND,03/02/2026,5,2,48%,0.00,2,4,0,1,4,211,3,5,1,,3,0,1,0,2,2,2,0,1,,0,0,174,14,24,,17/32 (53%),1/2 (50%),53%,3,17/30 (57%),4/10 (40%),9/11 (82%),33%,3,9,27,12,,0,,,,,6
+15366336,335,85565,NORMAL,REGULAR,Round of 16,CUP,1672,Le Mans,Visita,ALL,03/02/2026,5,0,46%,0.00,0,7,4,4,11,410,14,6,2,,1,0,3,3,3,4,0,0,1,19,3,1,308,28,58,62/103 (60%),19/55 (35%),4/20 (20%),45%,4,27/62 (44%),14/29 (48%),7/14 (50%),79%,14,11,64,22,1,4,,,,0,3
+15366336,335,85565,NORMAL,REGULAR,Round of 16,CUP,1672,Le Mans,Visita,1ST,03/02/2026,5,0,40%,0.00,0,3,3,1,6,187,9,2,1,,1,0,1,1,2,1,0,0,1,,1,0,135,12,26,,9/27 (33%),3/11 (27%),43%,3,14/32 (44%),8/19 (42%),3/8 (38%),67%,9,4,34,16,,3,,,,,1
+15366336,335,85565,NORMAL,REGULAR,Round of 16,CUP,1672,Le Mans,Visita,2ND,03/02/2026,5,0,52%,0.00,0,4,1,3,5,223,5,4,1,,0,0,2,2,1,3,0,0,0,,2,1,173,16,32,,10/28 (36%),1/9 (11%),47%,1,13/30 (43%),6/10 (60%),4/6 (67%),100%,5,7,30,6,,1,,,,,2
+14064716,182,77357,NORMAL,REGULAR,Round 22,LEAGUE,1672,Le Mans,Local,ALL,07/02/2026,22,1,65%,0.00,4,9,2,10,20,467,13,10,2,,5,0,3,1,8,1,0,4,1,31,3,0,392,17,68,92/131 (70%),24/42 (57%),7/36 (19%),51%,5,29/62 (47%),17/29 (59%),7/12 (58%),69%,13,8,50,21,,2,,0,1,,4
+14064716,182,77357,NORMAL,REGULAR,Round 22,LEAGUE,1672,Le Mans,Local,1ST,07/02/2026,22,0,60%,0.00,2,2,1,4,10,216,4,5,1,,0,0,2,0,2,0,0,2,1,,2,0,184,6,33,,16/23 (70%),3/14 (21%),54%,2,12/27 (44%),7/8 (88%),4/6 (67%),50%,4,7,28,9,,1,,,,,2
+14064716,182,77357,NORMAL,REGULAR,Round 22,LEAGUE,1672,Le Mans,Local,2ND,07/02/2026,22,1,70%,0.00,2,7,1,6,10,251,9,5,1,,5,0,1,1,6,1,0,2,0,,1,0,208,11,35,,8/19 (42%),4/22 (18%),48%,3,17/35 (49%),10/21 (48%),3/6 (50%),78%,9,1,22,12,,1,,,,,2
+14064716,182,77357,NORMAL,REGULAR,Round 22,LEAGUE,1673,Stade Lavallois,Visita,ALL,07/02/2026,22,1,35%,0.00,3,8,4,4,10,261,10,19,3,,3,0,3,2,3,5,1,2,0,9,2,2,180,15,54,34/71 (48%),18/61 (30%),1/9 (11%),49%,5,33/62 (53%),12/29 (41%),5/13 (38%),70%,10,16,46,32,,4,,1,2,,8
+14064716,182,77357,NORMAL,REGULAR,Round 22,LEAGUE,1673,Stade Lavallois,Visita,1ST,07/02/2026,22,0,40%,0.00,2,3,0,1,5,152,4,10,2,,1,0,1,1,1,2,0,2,0,,0,1,116,7,31,,8/29 (28%),0/3 (0%),46%,1,15/27 (56%),1/8 (13%),3/6 (50%),50%,4,3,26,14,,0,,,,,5
+14064716,182,77357,NORMAL,REGULAR,Round 22,LEAGUE,1673,Stade Lavallois,Visita,2ND,07/02/2026,22,1,30%,0.00,1,5,4,3,5,109,6,9,1,,2,0,2,1,2,3,1,0,0,,2,1,64,8,23,,10/32 (31%),1/6 (17%),52%,4,18/35 (51%),11/21 (52%),2/7 (29%),83%,6,13,20,18,,4,,,,,3
+14064832,182,77357,NORMAL,REGULAR,Round 23,LEAGUE,1642,Montpellier,Local,ALL,14/02/2026,23,4,46%,0.00,3,7,5,4,8,316,16,15,0,,4,0,3,0,7,1,3,0,1,25,3,5,233,21,56,48/96 (50%),15/50 (30%),4/14 (29%),53%,8,35/71 (49%),17/27 (63%),4/17 (24%),69%,16,14,51,26,1,5,,2,,,10
+14064832,182,77357,NORMAL,REGULAR,Round 23,LEAGUE,1642,Montpellier,Local,1ST,14/02/2026,23,1,55%,0.00,0,4,2,2,4,191,8,9,0,,1,0,3,0,4,1,0,0,0,,3,1,142,12,29,,7/26 (27%),3/9 (33%),57%,5,19/38 (50%),12/16 (75%),2/11 (18%),75%,8,7,20,11,,2,,,,,5
+14064832,182,77357,NORMAL,REGULAR,Round 23,LEAGUE,1642,Montpellier,Local,2ND,14/02/2026,23,3,37%,0.00,3,3,3,2,4,125,8,6,0,,3,0,0,0,3,0,3,0,1,,0,4,91,9,27,,8/24 (33%),1/5 (20%),48%,3,16/33 (48%),5/11 (45%),2/6 (33%),63%,8,7,31,15,,3,,,,,5
+14064832,182,77357,NORMAL,REGULAR,Round 23,LEAGUE,1672,Le Mans,Visita,ALL,14/02/2026,23,2,54%,0.00,3,13,0,6,15,374,21,8,2,,8,0,2,3,11,2,2,1,0,23,1,5,278,23,59,51/98 (52%),38/71 (54%),3/20 (15%),47%,8,36/71 (51%),10/27 (37%),8/16 (50%),76%,21,5,43,17,1,0,,0,,,12
+14064832,182,77357,NORMAL,REGULAR,Round 23,LEAGUE,1672,Le Mans,Visita,1ST,14/02/2026,23,1,45%,0.00,2,5,0,2,9,165,14,4,0,,4,0,1,0,4,1,1,1,0,,1,3,115,16,31,,15/34 (44%),1/4 (25%),43%,4,19/38 (50%),4/16 (25%),1/5 (20%),64%,14,3,16,10,,0,,,,,8
+14064832,182,77357,NORMAL,REGULAR,Round 23,LEAGUE,1672,Le Mans,Visita,2ND,14/02/2026,23,1,63%,0.00,1,8,0,4,6,209,7,4,2,,4,0,1,3,7,1,1,0,0,,0,2,163,7,28,,23/37 (62%),2/16 (13%),52%,4,17/33 (52%),6/11 (55%),7/11 (64%),100%,7,2,27,7,,0,,,,,4
+15285229,182,77357,NORMAL,REGULAR,Round 24,LEAGUE,1672,Le Mans,Local,ALL,23/02/2026,24,1,40%,0.00,2,9,5,3,19,326,12,13,3,,4,0,3,2,6,3,1,1,0,14,3,1,243,19,40,31/67 (46%),22/55 (40%),6/18 (33%),42%,7,29/68 (43%),17/42 (40%),6/14 (43%),58%,12,7,55,21,1,5,,1,2,,3
+15285229,182,77357,NORMAL,REGULAR,Round 24,LEAGUE,1672,Le Mans,Local,1ST,23/02/2026,24,1,33%,0.00,1,2,2,0,8,136,6,7,0,,1,0,1,0,2,0,1,0,0,,1,1,93,9,17,,12/31 (39%),4/5 (80%),44%,5,14/34 (41%),10/20 (50%),3/9 (33%),67%,6,3,24,13,,2,,,,,2
+15285229,182,77357,NORMAL,REGULAR,Round 24,LEAGUE,1672,Le Mans,Local,2ND,23/02/2026,24,0,47%,0.00,1,7,3,3,11,190,6,6,3,,3,0,2,2,4,3,0,1,0,,3,0,150,10,23,,10/24 (42%),2/13 (15%),39%,2,15/34 (44%),7/22 (32%),3/5 (60%),50%,6,4,31,8,,3,,,,,1
+15285229,182,77357,NORMAL,REGULAR,Round 24,LEAGUE,1654,Guingamp,Visita,ALL,23/02/2026,24,1,60%,0.00,5,14,3,4,13,506,15,19,1,,6,0,2,6,9,5,1,4,1,21,1,1,409,26,51,49/82 (60%),38/61 (62%),4/14 (29%),58%,5,39/68 (57%),25/42 (60%),6/13 (46%),60%,15,9,44,22,0,3,,0,1,,7
+15285229,182,77357,NORMAL,REGULAR,Round 24,LEAGUE,1654,Guingamp,Visita,1ST,23/02/2026,24,0,67%,0.00,1,7,0,2,7,279,11,8,0,,2,0,1,4,4,3,0,1,0,,1,0,231,17,29,,22/33 (67%),4/11 (36%),56%,2,20/34 (59%),10/20 (50%),2/6 (33%),73%,11,5,19,7,,0,,,,,3
+15285229,182,77357,NORMAL,REGULAR,Round 24,LEAGUE,1654,Guingamp,Visita,2ND,23/02/2026,24,1,53%,0.00,4,7,3,2,6,227,4,11,1,,4,0,1,2,5,2,1,3,1,,0,1,178,9,22,,16/28 (57%),0/3 (0%),61%,3,19/34 (56%),15/22 (68%),4/7 (57%),25%,4,4,25,15,,3,,,,,4
+14064847,182,77357,NORMAL,REGULAR,Round 25,LEAGUE,52874,Red Star FC,Local,ALL,28/02/2026,25,0,54%,0.00,2,7,2,6,9,377,16,17,2,,0,0,5,2,2,5,,2,,11,3,3,294,31,58,71/110 (65%),27/57 (47%),8/25 (32%),50%,6,37/69 (54%),8/21 (38%),4/17 (24%),69%,16,3,42,7,,2,,,1,,7
+14064847,182,77357,NORMAL,REGULAR,Round 25,LEAGUE,52874,Red Star FC,Local,1ST,28/02/2026,25,0,50%,0.00,0,2,2,5,5,190,8,6,0,,0,0,1,1,0,2,,0,,,1,0,150,17,22,,15/30 (50%),3/12 (25%),49%,4,16/32 (50%),5/11 (45%),2/8 (25%),63%,8,2,19,2,,2,,,,,5
+14064847,182,77357,NORMAL,REGULAR,Round 25,LEAGUE,52874,Red Star FC,Local,2ND,28/02/2026,25,0,58%,0.00,2,5,0,1,4,187,8,11,2,,0,0,4,1,2,3,,2,,,2,3,144,14,36,,12/27 (44%),5/13 (38%),51%,2,21/37 (57%),3/10 (30%),2/9 (22%),75%,8,1,23,5,,0,,,,,2
+14064847,182,77357,NORMAL,REGULAR,Round 25,LEAGUE,1672,Le Mans,Visita,ALL,28/02/2026,25,0,46%,0.00,1,6,0,4,17,333,19,9,3,,2,0,2,2,4,2,,1,,9,1,1,254,16,51,36/77 (47%),22/60 (37%),5/15 (33%),50%,4,32/69 (46%),13/21 (62%),4/16 (25%),79%,19,9,38,30,,0,,,1,,13
+14064847,182,77357,NORMAL,REGULAR,Round 25,LEAGUE,1672,Le Mans,Visita,1ST,28/02/2026,25,0,50%,0.00,1,5,0,1,6,194,10,5,1,,2,0,1,2,3,2,,1,,,0,1,159,8,28,,7/22 (32%),3/7 (43%),51%,2,16/32 (50%),6/11 (55%),1/7 (14%),70%,10,6,19,14,,0,,,,,5
+14064847,182,77357,NORMAL,REGULAR,Round 25,LEAGUE,1672,Le Mans,Visita,2ND,28/02/2026,25,0,42%,0.00,0,1,0,3,11,139,9,4,2,,0,0,1,0,1,0,,0,,,1,0,95,8,23,,15/38 (39%),2/8 (25%),49%,2,16/37 (43%),7/10 (70%),3/9 (33%),89%,9,3,19,16,,0,,,,,8
+14064723,182,77357,NORMAL,REGULAR,Round 26,LEAGUE,1672,Le Mans,Local,ALL,07/03/2026,26,3,55%,0.00,5,16,3,6,11,493,20,9,4,,6,1,8,2,11,5,2,3,2,28,0,9,397,22,62,53/96 (55%),45/79 (57%),6/18 (33%),45%,1,33/65 (51%),10/30 (33%),5/21 (24%),45%,20,15,63,22,0,3,,,0,,6
+14064723,182,77357,NORMAL,REGULAR,Round 26,LEAGUE,1672,Le Mans,Local,1ST,07/03/2026,26,2,51%,0.00,2,8,2,2,5,208,11,5,3,,4,0,3,1,6,2,2,0,2,,0,6,158,10,24,,22/41 (54%),1/5 (20%),45%,1,17/31 (55%),5/18 (28%),2/7 (29%),45%,11,7,29,13,,2,,,,,3
+14064723,182,77357,NORMAL,REGULAR,Round 26,LEAGUE,1672,Le Mans,Local,2ND,07/03/2026,26,1,59%,0.00,3,8,1,4,6,285,9,4,1,,2,1,5,1,5,3,1,3,0,,0,3,239,12,38,,23/38 (61%),5/13 (38%),46%,0,16/34 (47%),5/12 (42%),3/14 (21%),44%,9,8,34,9,,1,,,,,3
+14064723,182,77357,NORMAL,REGULAR,Round 26,LEAGUE,210894,Annecy FC,Visita,ALL,07/03/2026,26,0,45%,0.00,2,10,2,5,9,400,16,11,0,,3,0,5,2,6,4,0,2,0,17,1,2,307,26,65,52/89 (58%),30/57 (53%),3/12 (25%),55%,10,32/65 (49%),20/30 (67%),6/16 (38%),56%,16,10,48,20,2,2,,,1,,8
+14064723,182,77357,NORMAL,REGULAR,Round 26,LEAGUE,210894,Annecy FC,Visita,1ST,07/03/2026,26,0,49%,0.00,2,4,2,3,5,198,5,5,0,,2,0,2,0,4,0,0,2,0,,1,2,156,14,44,,19/31 (61%),1/6 (17%),55%,5,14/31 (45%),13/18 (72%),4/10 (40%),60%,5,3,21,12,,2,,,,,3
+14064723,182,77357,NORMAL,REGULAR,Round 26,LEAGUE,210894,Annecy FC,Visita,2ND,07/03/2026,26,0,41%,0.00,0,6,1,2,4,202,11,6,0,,1,0,3,2,2,4,0,0,0,,0,0,151,12,21,,11/26 (42%),2/6 (33%),54%,5,18/34 (53%),7/12 (58%),2/6 (33%),55%,11,7,27,8,,1,,,,,5
+14064729,182,77357,NORMAL,REGULAR,Round 27,LEAGUE,1675,Nancy,Local,ALL,13/03/2026,27,2,40%,0.00,2,7,1,4,10,328,24,19,1,,4,0,1,2,3,4,1,1,,13,3,0,228,20,61,50/92 (54%),32/68 (47%),1/13 (8%),61%,6,47/71 (66%),16/33 (48%),4/8 (50%),63%,24,9,56,31,0,1,,0,1,,9
+14064729,182,77357,NORMAL,REGULAR,Round 27,LEAGUE,1675,Nancy,Local,1ST,13/03/2026,27,1,33%,0.00,1,4,0,2,5,150,12,5,0,,2,0,0,2,1,3,1,0,,,0,0,99,8,28,,13/32 (41%),1/7 (14%),60%,2,18/27 (67%),7/15 (47%),1/1 (100%),58%,12,6,36,16,,0,,,,,5
+14064729,182,77357,NORMAL,REGULAR,Round 27,LEAGUE,1675,Nancy,Local,2ND,13/03/2026,27,1,47%,0.00,1,3,1,2,5,178,12,14,1,,2,0,1,1,2,1,0,1,,,3,0,129,12,33,,19/36 (53%),1/6 (0%),61%,4,29/44 (66%),9/18 (50%),3/7 (43%),67%,12,3,20,15,,1,,,,,4
+14064729,182,77357,NORMAL,REGULAR,Round 27,LEAGUE,1672,Le Mans,Visita,ALL,13/03/2026,27,4,60%,0.00,3,11,2,7,19,501,10,10,1,,5,0,1,5,8,3,3,0,,25,1,1,406,27,64,62/108 (57%),31/74 (42%),4/17 (24%),39%,11,24/71 (34%),17/33 (52%),5/18 (28%),80%,10,12,54,20,1,2,,1,2,,4
+14064729,182,77357,NORMAL,REGULAR,Round 27,LEAGUE,1672,Le Mans,Visita,1ST,13/03/2026,27,1,67%,0.00,1,3,1,2,5,303,2,5,0,,1,0,1,1,2,1,1,0,,,1,0,250,17,39,,17/40 (43%),1/8 (13%),40%,6,9/27 (33%),8/15 (53%),3/9 (33%),100%,2,5,27,8,,1,,,,,1
+14064729,182,77357,NORMAL,REGULAR,Round 27,LEAGUE,1672,Le Mans,Visita,2ND,13/03/2026,27,3,53%,0.00,2,8,1,5,14,198,8,5,1,,4,0,0,4,6,2,2,0,,,0,1,156,10,25,,14/34 (41%),3/9 (33%),39%,5,15/44 (34%),9/18 (50%),2/9 (22%),75%,8,7,27,12,,1,,,,,3
+14064736,182,77357,NORMAL,REGULAR,Round 28,LEAGUE,1676,Amiens SC,Local,ALL,20/03/2026,28,3,48%,0.00,4,9,4,1,15,349,18,22,5,1,5,0,2,2,5,4,2,2,1,12,3,2,258,22,40,40/73 (55%),19/51 (37%),1/7 (14%),51%,5,47/86 (55%),10/26 (38%),8/19 (42%),56%,18,14,50,24,,4,,,3,,10
+14064736,182,77357,NORMAL,REGULAR,Round 28,LEAGUE,1676,Amiens SC,Local,1ST,20/03/2026,28,2,59%,0.00,2,5,3,1,4,220,8,13,1,0,2,0,1,2,3,2,2,0,1,,3,1,170,13,24,,12/27 (44%),1/5 (20%),53%,1,25/43 (58%),6/15 (40%),5/12 (42%),50%,8,6,23,13,,3,,,,,4
+14064736,182,77357,NORMAL,REGULAR,Round 28,LEAGUE,1676,Amiens SC,Local,2ND,20/03/2026,28,1,37%,0.00,2,4,1,0,11,129,10,9,4,1,3,0,1,0,2,2,1,2,0,,0,1,88,9,16,,7/24 (29%),0/2 (0%),48%,4,22/43 (51%),4/11 (36%),3/7 (43%),60%,10,8,27,11,,1,,,,,6
+14064736,182,77357,NORMAL,REGULAR,Round 28,LEAGUE,1672,Le Mans,Visita,ALL,20/03/2026,28,4,52%,0.00,2,18,2,7,22,365,16,15,3,0,8,0,5,5,14,4,1,1,0,30,1,1,285,23,64,66/109 (61%),25/55 (45%),9/26 (35%),49%,7,39/86 (45%),16/26 (62%),9/20 (45%),69%,16,15,52,16,,2,,,0,,3
+14064736,182,77357,NORMAL,REGULAR,Round 28,LEAGUE,1672,Le Mans,Visita,1ST,20/03/2026,28,3,41%,0.00,1,10,0,4,13,146,8,4,1,0,6,0,1,3,8,2,1,0,0,,0,1,105,11,25,,12/29 (41%),5/11 (45%),47%,1,18/43 (42%),9/15 (60%),6/13 (46%),75%,8,10,26,12,,0,,,,,1
+14064736,182,77357,NORMAL,REGULAR,Round 28,LEAGUE,1672,Le Mans,Visita,2ND,20/03/2026,28,1,63%,0.00,2,8,2,3,9,219,8,11,2,0,2,0,4,2,6,2,1,1,0,,1,0,180,12,39,,13/26 (50%),4/15 (27%),52%,6,21/43 (49%),7/11 (64%),3/7 (43%),63%,8,5,26,4,,2,,,,,2
+15489810,182,77357,NORMAL,REGULAR,Round 29,LEAGUE,1672,Le Mans,Local,ALL,06/04/2026,29,4,53%,0.00,9,17,2,6,20,427,24,3,1,,9,0,5,3,14,3,4,5,,36,2,3,348,16,57,65/103 (63%),31/47 (66%),8/21 (38%),43%,7,31/76 (41%),11/22 (50%),3/12 (25%),58%,24,11,56,18,1,2,,1,1,,9
+15489810,182,77357,NORMAL,REGULAR,Round 29,LEAGUE,1672,Le Mans,Local,1ST,06/04/2026,29,2,56%,0.00,4,9,1,5,10,219,6,1,0,,4,0,2,3,7,2,2,2,,,2,0,181,11,24,,15/23 (65%),5/14 (36%),36%,3,8/29 (28%),6/10 (60%),1/5 (20%),33%,6,4,26,10,,1,,,,,4
+15489810,182,77357,NORMAL,REGULAR,Round 29,LEAGUE,1672,Le Mans,Local,2ND,06/04/2026,29,2,51%,0.00,5,8,1,1,10,208,18,2,1,,5,0,3,0,7,1,2,3,,,0,3,167,5,33,,16/24 (67%),3/7 (43%),47%,4,23/47 (49%),5/12 (42%),3/7 (43%),67%,18,7,30,8,,1,,,,,5
+15489810,182,77357,NORMAL,REGULAR,Round 29,LEAGUE,1685,Pau FC,Visita,ALL,06/04/2026,29,0,47%,0.00,3,5,5,3,4,378,16,20,3,,2,0,2,1,4,1,0,3,,18,4,2,310,21,40,54/80 (68%),24/44 (55%),1/15 (7%),57%,10,45/76 (59%),11/22 (50%),9/23 (39%),63%,16,4,53,18,2,5,,0,0,,6
+15489810,182,77357,NORMAL,REGULAR,Round 29,LEAGUE,1685,Pau FC,Visita,1ST,06/04/2026,29,0,44%,0.00,2,3,2,2,2,177,8,10,2,,1,0,2,0,2,1,0,2,,,1,1,142,9,15,,8/21 (38%),1/9 (11%),64%,3,21/29 (72%),4/10 (40%),3/6 (50%),75%,8,2,27,10,,2,,,,,2
+15489810,182,77357,NORMAL,REGULAR,Round 29,LEAGUE,1685,Pau FC,Visita,2ND,06/04/2026,29,0,49%,0.00,1,2,3,1,2,201,8,10,1,,1,0,0,1,2,0,0,1,,,3,1,168,12,25,,16/23 (70%),0/6 (0%),53%,7,24/47 (51%),7/12 (58%),6/17 (35%),50%,8,2,26,8,,3,,,,,4
+14383022,182,77357,NORMAL,REGULAR,Round 30,LEAGUE,1711,US Boulogne Côte-d'Opale,Local,ALL,11/04/2026,30,0,38%,0.00,1,2,1,2,10,261,24,13,,,2,0,0,1,2,0,,1,0,6,2,3,161,26,45,23/62 (37%),16/60 (27%),2/11 (18%),57%,8,41/65 (63%),15/34 (44%),5/11 (45%),58%,24,11,42,28,,1,,,1,,9
+14383022,182,77357,NORMAL,REGULAR,Round 30,LEAGUE,1711,US Boulogne Côte-d'Opale,Local,1ST,11/04/2026,30,0,44%,0.00,0,1,0,2,4,148,13,6,,,1,0,0,0,1,0,,0,0,,1,2,96,11,23,,8/28 (29%),1/8 (13%),54%,5,21/37 (57%),5/11 (45%),3/9 (33%),54%,13,8,23,6,,0,,,,,4
+14383022,182,77357,NORMAL,REGULAR,Round 30,LEAGUE,1711,US Boulogne Côte-d'Opale,Local,2ND,11/04/2026,30,0,33%,0.00,1,1,1,0,6,113,11,7,,,1,0,0,1,1,0,,1,0,,1,1,65,15,22,,8/32 (25%),1/3 (33%),59%,3,20/28 (71%),10/23 (43%),2/2 (100%),64%,11,3,19,22,,1,,,,,5
+14383022,182,77357,NORMAL,REGULAR,Round 30,LEAGUE,1672,Le Mans,Visita,ALL,11/04/2026,30,0,62%,0.00,4,13,1,7,13,428,14,10,,,3,2,8,2,11,2,,4,2,21,0,5,325,36,61,54/99 (55%),35/71 (49%),6/21 (29%),43%,6,24/65 (37%),19/34 (56%),2/20 (10%),29%,14,8,48,16,,1,,,0,,3
+14383022,182,77357,NORMAL,REGULAR,Round 30,LEAGUE,1672,Le Mans,Visita,1ST,11/04/2026,30,0,56%,0.00,3,5,1,3,6,195,11,4,,,2,1,2,1,5,0,,3,1,,0,2,147,18,29,,16/33 (48%),2/8 (25%),46%,4,16/37 (43%),6/11 (55%),1/10 (10%),27%,11,5,21,11,,1,,,,,3
+14383022,182,77357,NORMAL,REGULAR,Round 30,LEAGUE,1672,Le Mans,Visita,2ND,11/04/2026,30,0,67%,0.00,1,8,0,4,7,233,3,6,,,1,1,6,1,6,2,,1,1,,0,3,178,18,32,,19/38 (50%),4/13 (31%),41%,2,8/28 (29%),13/23 (57%),1/10 (10%),33%,3,3,27,5,,0,,,,,0
+14064762,182,77357,NORMAL,REGULAR,Round 31,LEAGUE,1672,Le Mans,Local,ALL,17/04/2026,31,1,58%,0.00,3,13,1,6,24,482,15,8,1,,6,0,1,6,8,5,1,2,1,25,1,3,410,19,65,90/133 (68%),21/38 (55%),5/28 (18%),35%,5,26/73 (36%),5/15 (33%),5/11 (45%),53%,15,7,52,19,1,1,,1,1,,6
+14064762,182,77357,NORMAL,REGULAR,Round 31,LEAGUE,1672,Le Mans,Local,1ST,17/04/2026,31,0,65%,0.00,2,8,1,3,8,268,5,6,0,,5,0,0,3,6,2,0,2,0,,1,0,238,10,35,,10/19 (53%),3/20 (15%),35%,2,11/28 (39%),1/6 (17%),1/3 (33%),60%,5,5,28,5,,1,,,,,3
+14064762,182,77357,NORMAL,REGULAR,Round 31,LEAGUE,1672,Le Mans,Local,2ND,17/04/2026,31,1,51%,0.00,1,5,0,3,16,214,10,2,1,,1,0,1,3,2,3,1,0,1,,1,3,172,9,30,,11/19 (58%),2/8 (25%),35%,3,15/45 (33%),4/9 (44%),4/8 (50%),50%,10,2,24,14,,0,,,,,3
+14064762,182,77357,NORMAL,REGULAR,Round 31,LEAGUE,1680,Clermont Foot,Visita,ALL,17/04/2026,31,0,42%,0.00,0,10,4,4,8,360,11,24,1,,1,0,5,4,6,4,0,0,1,10,5,1,286,21,47,46/73 (63%),27/62 (44%),4/11 (36%),65%,7,47/73 (64%),10/15 (67%),13/21 (62%),73%,11,6,47,30,1,4,,1,1,,6
+14064762,182,77357,NORMAL,REGULAR,Round 31,LEAGUE,1680,Clermont Foot,Visita,1ST,17/04/2026,31,0,35%,0.00,0,5,4,3,6,149,4,8,1,,1,0,3,1,3,2,0,0,1,,1,0,114,8,14,,8/25 (32%),1/6 (17%),65%,1,17/28 (61%),5/6 (83%),5/10 (50%),75%,4,3,25,24,,4,,,,,4
+14064762,182,77357,NORMAL,REGULAR,Round 31,LEAGUE,1680,Clermont Foot,Visita,2ND,17/04/2026,31,0,49%,0.00,0,5,0,1,2,211,7,16,0,,0,0,2,3,3,2,0,0,0,,4,1,172,13,33,,19/37 (51%),3/5 (60%),65%,7,30/45 (67%),5/9 (56%),8/11 (73%),71%,7,3,22,6,,0,,,,,2
+14064776,182,77357,NORMAL,REGULAR,Round 32,LEAGUE,1671,Grenoble Foot 38,Local,ALL,25/04/2026,32,1,42%,0.00,2,6,3,1,14,288,6,20,3,,2,0,3,1,4,2,1,1,1,12,3,3,197,28,59,47/96 (49%),26/70 (37%),1/11 (9%),51%,10,33/69 (48%),23/40 (57%),8/17 (47%),50%,6,12,44,16,1,3,,,2,,8
+14064776,182,77357,NORMAL,REGULAR,Round 32,LEAGUE,1671,Grenoble Foot 38,Local,1ST,25/04/2026,32,1,46%,0.00,1,2,1,0,4,175,4,8,0,,1,0,0,1,1,1,1,0,0,,1,1,129,12,26,,15/34 (44%),1/8 (13%),57%,6,17/33 (52%),13/20 (65%),5/11 (45%),50%,4,8,26,10,,1,,,,,5
+14064776,182,77357,NORMAL,REGULAR,Round 32,LEAGUE,1671,Grenoble Foot 38,Local,2ND,25/04/2026,32,0,37%,0.00,1,4,2,1,10,113,2,12,3,,1,0,3,0,3,1,0,1,1,,2,2,68,16,33,,11/36 (31%),1/3 (0%),46%,4,16/36 (44%),10/20 (50%),3/6 (50%),50%,2,4,18,6,,2,,,,,3
+14064776,182,77357,NORMAL,REGULAR,Round 32,LEAGUE,1672,Le Mans,Visita,ALL,25/04/2026,32,1,58%,0.00,3,8,1,4,21,396,19,14,1,,4,0,4,1,6,2,1,2,0,18,0,3,301,24,42,47/85 (55%),29/62 (47%),4/16 (25%),49%,4,36/69 (52%),17/40 (43%),4/6 (67%),63%,19,6,43,20,0,1,,,0,,9
+14064776,182,77357,NORMAL,REGULAR,Round 32,LEAGUE,1672,Le Mans,Visita,1ST,25/04/2026,32,1,54%,0.00,2,4,0,2,9,205,12,4,1,,2,0,2,0,3,1,1,1,0,,0,2,153,8,22,,13/30 (43%),1/10 (10%),43%,3,16/33 (48%),7/20 (35%),1/2 (50%),75%,12,4,27,4,,0,,,,,4
+14064776,182,77357,NORMAL,REGULAR,Round 32,LEAGUE,1672,Le Mans,Visita,2ND,25/04/2026,32,0,63%,0.00,1,4,1,2,12,191,7,10,0,,2,0,2,1,3,1,0,1,0,,0,1,148,16,20,,16/32 (50%),3/6 (50%),54%,1,20/36 (56%),10/20 (50%),3/4 (75%),43%,7,2,16,16,,1,,,,,5
+14349964,182,77357,NORMAL,REGULAR,Round 33,LEAGUE,1672,Le Mans,Local,ALL,02/05/2026,33,1,46%,0.00,3,17,2,3,16,391,18,7,0,,7,0,7,3,10,7,0,3,,22,3,0,300,22,64,63/115 (55%),19/51 (37%),7/21 (33%),49%,5,31/66 (47%),13/23 (57%),6/12 (50%),61%,18,14,52,15,1,2,,,1,,5
+14349964,182,77357,NORMAL,REGULAR,Round 33,LEAGUE,1672,Le Mans,Local,1ST,02/05/2026,33,1,40%,0.00,1,8,1,1,7,164,12,5,0,,5,0,2,1,3,5,0,1,,,1,0,120,11,28,,7/22 (32%),3/8 (38%),56%,2,19/34 (56%),6/11 (55%),2/4 (50%),67%,12,5,22,11,,1,,,,,4
+14349964,182,77357,NORMAL,REGULAR,Round 33,LEAGUE,1672,Le Mans,Local,2ND,02/05/2026,33,0,52%,0.00,2,9,1,2,9,227,6,2,0,,2,0,5,2,7,2,0,2,,,2,0,180,11,36,,12/29 (41%),4/13 (31%),43%,3,12/32 (38%),7/12 (58%),4/8 (50%),50%,6,9,30,4,,1,,,,,1
+14349964,182,77357,NORMAL,REGULAR,Round 33,LEAGUE,1682,Stade de Reims,Visita,ALL,02/05/2026,33,1,54%,0.00,2,8,6,2,7,468,11,16,1,,3,0,2,3,6,2,1,1,,20,2,7,375,26,51,53/94 (56%),25/64 (39%),3/9 (33%),51%,10,35/66 (53%),10/23 (43%),8/16 (50%),73%,11,17,59,20,1,6,,,1,,9
+14349964,182,77357,NORMAL,REGULAR,Round 33,LEAGUE,1682,Stade de Reims,Visita,1ST,02/05/2026,33,1,60%,0.00,2,5,4,0,5,255,4,7,0,,2,0,2,1,4,1,1,1,,,2,4,214,15,35,,8/30 (27%),3/6 (50%),44%,7,15/34 (44%),5/11 (45%),4/9 (44%),50%,4,8,27,10,,4,,,,,5
+14349964,182,77357,NORMAL,REGULAR,Round 33,LEAGUE,1682,Stade de Reims,Visita,2ND,02/05/2026,33,0,48%,0.00,0,3,2,2,2,213,7,9,1,,1,0,0,2,2,1,0,0,,,0,3,161,11,16,,17/34 (50%),0/3 (0%),57%,3,20/32 (63%),5/12 (42%),4/7 (57%),86%,7,9,32,10,,2,,,,,4
+14061917,182,77357,NORMAL,REGULAR,Round 34,LEAGUE,1655,Bastia,Local,ALL,09/05/2026,34,0,,0.00,,0,,,,,,,4,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14061917,182,77357,NORMAL,REGULAR,Round 34,LEAGUE,1655,Bastia,Local,1ST,09/05/2026,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14061917,182,77357,NORMAL,REGULAR,Round 34,LEAGUE,1655,Bastia,Local,2ND,09/05/2026,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14061917,182,77357,NORMAL,REGULAR,Round 34,LEAGUE,1672,Le Mans,Visita,ALL,09/05/2026,34,2,,0.00,,0,,,,,,,2,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14061917,182,77357,NORMAL,REGULAR,Round 34,LEAGUE,1672,Le Mans,Visita,1ST,09/05/2026,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14061917,182,77357,NORMAL,REGULAR,Round 34,LEAGUE,1672,Le Mans,Visita,2ND,09/05/2026,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
