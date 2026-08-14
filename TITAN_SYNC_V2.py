@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-TITAN SYNC V1
+TITAN SYNC V2
 Fusiona un ZIP DELTA de TITAN con la carpeta viva:
   IncaStats-Data/TITAN_ALONSINHO_V1_GITHUB_READY/
 No hace push: GitHub Desktop muestra los cambios y el usuario hace Commit + Push.
@@ -169,7 +169,7 @@ def safe_int(v):
 
 def main():
     print("="*66)
-    print("TITAN SYNC V1  |  DELTA -> IncaStats-Data -> GitHub Desktop")
+    print("TITAN SYNC V2  |  DELTA ALL-OFFICIAL -> IncaStats-Data -> GitHub Desktop")
     print("="*66)
 
     script_dir = Path(__file__).resolve().parent
@@ -183,7 +183,7 @@ def main():
     live = repo / LIVE_FOLDER
     if not live.is_dir():
         die(f"No encuentro {LIVE_FOLDER} dentro de:\n{repo}\n"
-            f"Pon TITAN_SYNC_V1.py en la raíz local de IncaStats-Data o selecciónala.")
+            f"Pon TITAN_SYNC_V2.py en la raíz local de IncaStats-Data o selecciónala.")
 
     delta_zip = None
     if len(sys.argv) > 1:
@@ -217,17 +217,22 @@ def main():
             die("Proveedor DELTA inesperado.")
 
         scope = dmanifest.get("scope") or {}
-        allowed = [safe_int(x) for x in scope.get("allowed_competition_ids", [])]
+        # V2: las 31 ligas son el universo que SELECCIONA los equipos.
+        # No son un filtro de competiciones de sus partidos.
+        seed = scope.get("seed_competition_ids", scope.get("allowed_competition_ids", []))
+        allowed = [safe_int(x) for x in seed]
         allowed = [x for x in allowed if x is not None]
         if len(set(allowed)) != 31:
-            die(f"Este DELTA no trae las 31 ligas esperadas. Encontré {len(set(allowed))}.")
+            die(f"Este DELTA no trae las 31 ligas semilla esperadas. Encontré {len(set(allowed))}.")
+        event_scope = scope.get("event_competition_scope", "LEGACY_31_ONLY")
 
         counts = dmanifest.get("counts") or {}
         print(f"\nDELTA: {delta_zip.name}")
         print(f"  Eventos válidos: {counts.get('valid_events', 0)}")
         print(f"  Equipos afectados: {counts.get('affected_teams', 0)}")
         print(f"  Incompletos auditados: {counts.get('incomplete', 0)}")
-        print(f"  Ligas permitidas: {len(set(allowed))}")
+        print(f"  Ligas semilla: {len(set(allowed))}")
+        print(f"  Alcance de partidos: {event_scope}")
 
         team_dir = live / TEAM_CSV_REL
         man_dir = live / MANIFEST_REL
@@ -325,7 +330,7 @@ def main():
                     "name": team_info.get("name") or dp.stem.split("_",1)[-1].replace("_"," "),
                     "country": country,
                     "region": region,
-                    "source_batch": "DELTA_V1",
+                    "source_batch": "DELTA_V2",
                     "file": relfile,
                     "valid_matches": 0,
                     "incomplete_matches": 0
@@ -344,7 +349,7 @@ def main():
                     "name": t.get("name"),
                     "country": t.get("country"),
                     "region": t.get("region"),
-                    "source_batch": "DELTA_V1",
+                    "source_batch": "DELTA_V2",
                     "file": relfile,
                     "valid_matches": t["valid_matches"],
                     "incomplete_matches": 0,
@@ -362,8 +367,9 @@ def main():
                 cid, sid = safe_int(md.get("competition_id")), safe_int(md.get("season_id"))
                 if cid is None or sid is None:
                     continue
-                if cid not in set(allowed):
-                    continue
+                # V2: NO filtrar metadata por las 31 ligas semilla.
+                # Si el equipo seleccionado juega copa o torneo internacional,
+                # esa competición también debe entrar al manifiesto.
 
                 # Región del membership correspondiente.
                 mem = next((m for m in memberships if safe_int(m.get("competition_id")) == cid and safe_int(m.get("season_id")) == sid), None) or primary
@@ -391,7 +397,7 @@ def main():
                     "competition_stage": stage,
                     "competition_type": md.get("competition_type"),
                     "season_status": md.get("season_status"),
-                    "season_status_basis": md.get("season_status_basis") or "TITAN_DELTA_V1",
+                    "season_status_basis": md.get("season_status_basis") or "TITAN_DELTA_V2",
                     "titan_pro_validation": True,
                     "filename": f"compat_{cid}_{sid}.csv",
                     "last_update": datetime.now(timezone.utc).isoformat().replace("+00:00","Z")
@@ -433,7 +439,7 @@ def main():
                         "end_year": safe_int(md.get("end_year")) or 0,
                         "season_format": md.get("season_format"),
                         "season_status": md.get("season_status"),
-                        "season_status_basis": md.get("season_status_basis") or "TITAN_DELTA_V1",
+                        "season_status_basis": md.get("season_status_basis") or "TITAN_DELTA_V2",
                         "phases": [],
                         "stages": [],
                         "regions": [reg] if reg else []
@@ -441,7 +447,7 @@ def main():
                     seasons_arr.append(sobj); season_index[sk] = sobj
                 if md.get("season_status") == "CURRENT":
                     sobj["season_status"] = "CURRENT"
-                    sobj["season_status_basis"] = md.get("season_status_basis") or "TITAN_DELTA_V1"
+                    sobj["season_status_basis"] = md.get("season_status_basis") or "TITAN_DELTA_V2"
                 phases = list(sobj.get("phases") or [])
                 if phase and phase not in phases: phases.append(phase)
                 sobj["phases"] = phases

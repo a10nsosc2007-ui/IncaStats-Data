@@ -1,17 +1,17 @@
 @echo off
 setlocal
-title TITAN SYNC V1
+title TITAN SYNC V2
 cd /d "%~dp0"
 
 where py >nul 2>&1
 if %errorlevel%==0 (
-  py -3 "%~dp0TITAN_SYNC_V1.py" %*
+  py -3 "%~dp0TITAN_SYNC_V2.py" %*
   goto :end
 )
 
 where python >nul 2>&1
 if %errorlevel%==0 (
-  python "%~dp0TITAN_SYNC_V1.py" %*
+  python "%~dp0TITAN_SYNC_V2.py" %*
   goto :end
 )
 
