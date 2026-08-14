@@ -21107,7 +21107,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_390_89840.csv",
-          "last_update": "2026-08-12T05:10:39.560969Z"
+          "last_update": "2026-08-14T06:07:14.227400Z"
         }
       ]
     },
@@ -23044,7 +23044,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_155_87913.csv",
-          "last_update": "2026-08-12T05:10:20.493578Z"
+          "last_update": "2026-08-14T06:07:13.226993Z"
         }
       ]
     },
@@ -25333,7 +25333,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_98_98149.csv",
-          "last_update": "2026-08-12T05:10:13.532896Z"
+          "last_update": "2026-08-14T06:07:12.605214Z"
         }
       ]
     },
@@ -38732,7 +38732,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_155_87913.csv",
-          "last_update": "2026-08-12T05:10:20.196325Z"
+          "last_update": "2026-08-14T06:07:13.113425Z"
         }
       ]
     },
@@ -39220,7 +39220,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_155_87913.csv",
-          "last_update": "2026-08-12T05:10:17.582243Z"
+          "last_update": "2026-08-14T06:07:12.962702Z"
         }
       ]
     },
@@ -42494,7 +42494,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_238_97436.csv",
-          "last_update": "2026-08-12T05:10:09.107429Z"
+          "last_update": "2026-08-14T06:07:12.456171Z"
         }
       ]
     },
@@ -44533,7 +44533,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_155_87913.csv",
-          "last_update": "2026-08-12T05:10:36.637260Z"
+          "last_update": "2026-08-14T06:07:14.059363Z"
         }
       ]
     },
@@ -50446,7 +50446,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_155_87913.csv",
-          "last_update": "2026-08-12T05:10:15.191003Z"
+          "last_update": "2026-08-14T06:07:12.740629Z"
         }
       ]
     },
@@ -51400,7 +51400,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_155_87913.csv",
-          "last_update": "2026-08-12T05:10:15.554474Z"
+          "last_update": "2026-08-14T06:07:12.839355Z"
         }
       ]
     },
@@ -52626,7 +52626,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_390_89840.csv",
-          "last_update": "2026-08-12T05:09:32.451670Z"
+          "last_update": "2026-08-14T06:07:11.554349Z"
         }
       ]
     },
@@ -64127,7 +64127,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_40_87925.csv",
-          "last_update": "2026-08-12T05:09:09.320528Z"
+          "last_update": "2026-08-14T06:07:10.615370Z"
         }
       ]
     },
@@ -71768,7 +71768,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_152_97124.csv",
-          "last_update": "2026-08-12T05:09:38.877921Z"
+          "last_update": "2026-08-14T06:07:11.666983Z"
         }
       ]
     },
@@ -72814,7 +72814,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_152_97124.csv",
-          "last_update": "2026-08-12T05:09:07.235972Z"
+          "last_update": "2026-08-14T06:07:10.519509Z"
         }
       ]
     },
@@ -74314,7 +74314,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_131_96187.csv",
-          "last_update": "2026-08-12T05:10:05.877676Z"
+          "last_update": "2026-08-14T06:07:12.192776Z"
         }
       ]
     },
@@ -78813,7 +78813,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/74469_FC_Porto_B.csv",
-      "valid_matches": 170,
+      "valid_matches": 171,
       "incomplete_matches": 6,
       "competition_details": [
         {
@@ -78900,6 +78900,23 @@
           "titan_pro_validation": true,
           "filename": "compat_239_77801.csv",
           "last_update": "2026-08-11T20:32:50.398Z"
+        },
+        {
+          "competition_id": 239,
+          "competition_name": "Liga Portugal 2",
+          "season_id": 97470,
+          "season_label": "Liga Portugal 2 26/27",
+          "start_year": 2026,
+          "end_year": 2027,
+          "season_format": "NORMAL",
+          "competition_phase": "REGULAR",
+          "competition_stage": "Round 1",
+          "competition_type": "LEAGUE",
+          "season_status": "CURRENT",
+          "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
+          "titan_pro_validation": true,
+          "filename": "compat_239_97470.csv",
+          "last_update": "2026-08-14T06:07:14.461373Z"
         }
       ]
     },
@@ -82001,7 +82018,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_131_96187.csv",
-          "last_update": "2026-08-12T05:10:01.617253Z"
+          "last_update": "2026-08-14T06:07:11.992731Z"
         }
       ]
     },
@@ -82950,7 +82967,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_152_97124.csv",
-          "last_update": "2026-08-12T05:10:21.849171Z"
+          "last_update": "2026-08-14T06:07:13.386024Z"
         }
       ]
     },
@@ -94848,7 +94865,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_390_89840.csv",
-          "last_update": "2026-08-12T05:09:15.032720Z"
+          "last_update": "2026-08-14T06:07:11.252623Z"
         }
       ]
     },
@@ -103313,7 +103330,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_40_87925.csv",
-          "last_update": "2026-08-12T05:09:09.919660Z"
+          "last_update": "2026-08-14T06:07:10.749468Z"
         }
       ]
     },
@@ -104087,7 +104104,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_40_87925.csv",
-          "last_update": "2026-08-12T05:09:09.961580Z"
+          "last_update": "2026-08-14T06:07:10.787236Z"
         }
       ]
     },
@@ -107376,7 +107393,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_131_96187.csv",
-          "last_update": "2026-08-12T05:10:28.785418Z"
+          "last_update": "2026-08-14T06:07:13.831141Z"
         }
       ]
     },
@@ -107604,7 +107621,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_131_96187.csv",
-          "last_update": "2026-08-12T05:10:29.046513Z"
+          "last_update": "2026-08-14T06:07:13.928793Z"
         }
       ]
     },
@@ -114346,7 +114363,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_239_97470.csv",
-          "last_update": "2026-08-12T05:10:10.386392Z"
+          "last_update": "2026-08-14T06:07:12.545167Z"
         }
       ]
     },
@@ -116890,7 +116907,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_390_89840.csv",
-          "last_update": "2026-08-12T05:09:25.772532Z"
+          "last_update": "2026-08-14T06:07:11.413277Z"
         }
       ]
     },
@@ -117719,7 +117736,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/35174_Lusitania_Lourosa.csv",
-      "valid_matches": 96,
+      "valid_matches": 97,
       "incomplete_matches": 80,
       "competition_details": [
         {
@@ -117874,6 +117891,23 @@
           "titan_pro_validation": true,
           "filename": "compat_239_77801.csv",
           "last_update": "2026-08-11T20:32:50.295Z"
+        },
+        {
+          "competition_id": 239,
+          "competition_name": "Liga Portugal 2",
+          "season_id": 97470,
+          "season_label": "Liga Portugal 2 26/27",
+          "start_year": 2026,
+          "end_year": 2027,
+          "season_format": "NORMAL",
+          "competition_phase": "REGULAR",
+          "competition_stage": "Round 1",
+          "competition_type": "LEAGUE",
+          "season_status": "CURRENT",
+          "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
+          "titan_pro_validation": true,
+          "filename": "compat_239_97470.csv",
+          "last_update": "2026-08-14T06:07:13.561066Z"
         }
       ]
     },
@@ -132469,7 +132503,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_39_95785.csv",
-          "last_update": "2026-08-12T05:09:06.142006Z"
+          "last_update": "2026-08-14T06:07:10.403379Z"
         }
       ]
     },
@@ -140613,7 +140647,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_98_98149.csv",
-          "last_update": "2026-08-12T05:10:38.536390Z"
+          "last_update": "2026-08-14T06:07:14.136482Z"
         }
       ]
     },
@@ -161110,7 +161144,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_238_97436.csv",
-          "last_update": "2026-08-12T05:10:08.858231Z"
+          "last_update": "2026-08-14T06:07:12.360970Z"
         }
       ]
     },
@@ -166178,7 +166212,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_152_97124.csv",
-          "last_update": "2026-08-12T05:09:11.459871Z"
+          "last_update": "2026-08-14T06:07:10.967723Z"
         }
       ]
     },
@@ -168676,7 +168710,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_39_95785.csv",
-          "last_update": "2026-08-12T05:09:05.807389Z"
+          "last_update": "2026-08-14T06:07:10.099850Z"
         }
       ]
     },
@@ -170545,7 +170579,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_239_97470.csv",
-          "last_update": "2026-08-12T05:10:39.810223Z"
+          "last_update": "2026-08-14T06:07:14.320284Z"
         }
       ]
     },
@@ -197279,7 +197313,7 @@
           "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
           "titan_pro_validation": true,
           "filename": "compat_40_87925.csv",
-          "last_update": "2026-08-12T05:09:09.757845Z"
+          "last_update": "2026-08-14T06:07:10.680862Z"
         }
       ]
     },

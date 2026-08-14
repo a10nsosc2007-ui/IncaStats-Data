@@ -2,7 +2,7 @@
   "schema_version": "titan.master_manifest.v1",
   "product": "TITAN ALONSINHO V1 PRO",
   "extractor_version": "1.0.0_TITAN_ALONSINHO_PRO",
-  "generated_at": "2026-08-12",
+  "generated_at": "2026-08-14",
   "coverage": {
     "start_year": 2021,
     "end_year": 2026,
@@ -16,10 +16,10 @@
   "counts": {
     "competitions": 150,
     "competition_seasons": 615,
-    "unique_matches": 77882,
+    "unique_matches": 77883,
     "cards": 355826,
     "portal_shards": 615,
-    "portal_rows": 467292
+    "portal_rows": 467298
   },
   "dedupe": {
     "portal_rows_removed": 185130,
@@ -97,26 +97,26 @@
   "full_data_release": "TITAN_ALONSINHO_V1_FULL_DATA_RELEASE.zip",
   "live_update": {
     "sync_version": "TITAN_SYNC_V1",
-    "updated_at": "2026-08-12T05:11:13.488207Z",
-    "delta_file": "TITAN_DELTA_2026-08-12T04-51-00-000Z_152_eventos.zip",
-    "delta_sha256": "546a11989a69e5a4cfaac4c170dbddcc1cb67a506e96a599fe697a5c02947be9",
+    "updated_at": "2026-08-14T06:08:06.376971Z",
+    "delta_file": "TITAN_DELTA_2026-08-14T05-58-00-000Z_16_eventos.zip",
+    "delta_sha256": "2c7164f1cfdc386e1f7f5ebe46ffa44975afd73f4e416659ce9d05ac5fb0e0d3",
     "window": {
-      "requested_from": "2026-08-09T04:51:00.000Z",
-      "effective_from": "2026-08-07T04:51:00.000Z",
-      "requested_to": "2026-08-12T04:51:00.000Z",
+      "requested_from": "2026-08-12T04:51:00.000Z",
+      "effective_from": "2026-08-10T04:51:00.000Z",
+      "requested_to": "2026-08-14T05:58:00.000Z",
       "overlap_hours": 48
     },
     "delta_counts": {
-      "unique_events_discovered": 157,
-      "valid_events": 152,
-      "incomplete": 5,
+      "unique_events_discovered": 17,
+      "valid_events": 16,
+      "incomplete": 1,
       "friendlies_excluded": 0,
-      "affected_teams": 304,
-      "requests": 1448
+      "affected_teams": 32,
+      "requests": 764
     },
-    "affected_team_files": 304,
-    "inserted_rows": 276,
-    "replaced_rows": 1548,
+    "affected_team_files": 32,
+    "inserted_rows": 12,
+    "replaced_rows": 180,
     "note": "cards count remains the original full snapshot unless a future full cards rebuild is run"
   }
 }

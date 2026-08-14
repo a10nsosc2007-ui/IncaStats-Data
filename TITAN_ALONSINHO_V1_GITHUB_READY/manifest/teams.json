@@ -2809,7 +2809,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/74469_FC_Porto_B.csv",
-      "valid_matches": 170,
+      "valid_matches": 171,
       "incomplete_matches": 6
     },
     {
@@ -4349,7 +4349,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/35174_Lusitania_Lourosa.csv",
-      "valid_matches": 96,
+      "valid_matches": 97,
       "incomplete_matches": 80
     },
     {
