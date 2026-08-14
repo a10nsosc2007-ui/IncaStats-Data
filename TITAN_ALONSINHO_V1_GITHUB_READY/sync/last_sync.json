@@ -1,0 +1,30 @@
+{
+  "schema_version": "incastats.titan_sync.v2.1",
+  "synced_at": "2026-08-14T07:24:47.628089Z",
+  "delta": "TITAN_DELTA_2026-08-14T07-21-00-000Z_76_eventos.zip",
+  "delta_sha256": "299d9443c9930f125c734cd1b24f6fe0bf7a38990e2d9f386a06b04819187f9f",
+  "window": {
+    "requested_from": "2026-08-11T06:36:00.000Z",
+    "effective_from": "2026-08-09T06:36:00.000Z",
+    "requested_to": "2026-08-14T07:21:00.000Z",
+    "overlap_hours": 48
+  },
+  "counts": {
+    "unique_events_discovered": 77,
+    "valid_events": 76,
+    "incomplete": 1,
+    "friendlies_excluded": 0,
+    "affected_teams": 152,
+    "requests": 1000
+  },
+  "merge": {
+    "team_files_changed": 152,
+    "rows_inserted": 216,
+    "rows_replaced": 696,
+    "master_unique_matches_after": 77879,
+    "teams_after": 737,
+    "competitions_after": 150,
+    "seasons_after": 615
+  },
+  "backup_folder": "C:\\Users\\MSI CYBORG\\OneDrive\\Documentos\\GitHub\\IncaStats-Data_TITAN_BACKUPS\\20260814_022405"
+}
