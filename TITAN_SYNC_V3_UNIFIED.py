@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-TITAN SYNC V2.2 SAFE
-Fusiona un ZIP DELTA de TITAN con la carpeta viva:
+TITAN SYNC V3 UNIFIED
+Fusiona un ZIP DELTA V3 con partidos + stats de jugadores de liga.
   IncaStats-Data/TITAN_ALONSINHO_V1_GITHUB_READY/
 No hace push: GitHub Desktop muestra los cambios y el usuario hace Commit + Push.
 Solo usa librería estándar de Python.
@@ -19,8 +19,23 @@ TEAM_CSV_REL = Path("data/teams_csv")
 MANIFEST_REL = Path("manifest")
 DELTA_ARCHIVE_REL = Path("deltas")
 SYNC_REL = Path("sync")
+PLAYER_FOLDER = "TITAN_PLAYERS_CURRENT"
+PLAYER_EXT_REL = Path("MASTER/PLAYER_MATCH_STATS_CURRENT_EXTENDED.csv")
+PLAYER_LEGACY_REL = Path("MASTER/PLAYER_MATCH_STATS_CURRENT_MASTER.csv")
+PLAYER_BY_LEAGUE_REL = Path("BY_LEAGUE")
+PLAYER_MANIFEST_REL = Path("manifest.json")
 
 KEY_FIELDS = ("Event_ID", "Team_ID", "Tiempo")
+PLAYER_KEY_FIELDS = ("Event_ID", "Player_ID")
+PLAYER_LEGACY_COLUMNS = [
+    "Liga","Temporada","Partido","Fecha","Jugador","Posicion","Equipo",
+    "Minutos_Jugados","Rating","Goles","Asistencias","xG","xA",
+    "Tiros_Totales","Tiros_Al_Arco","Tiros_Al_Palo","Pases_Totales",
+    "Pases_Clave","Grandes_Ocasiones_Creadas","Grandes_Ocasiones_Falladas",
+    "Toques","Regates_Completados","Entradas(Tackles)","Intercepciones",
+    "Duelos_Ganados","Faltas_Cometidas","Faltas_Recibidas",
+    "Tarjetas_Amarillas","Tarjetas_Rojas","Offsides","Atajadas(Portero)"
+]
 
 def die(msg: str, code: int = 1):
     print("\nERROR:", msg)
@@ -230,6 +245,148 @@ def merge_csv(master: Path, delta: Path):
 
     return len(old_rows), inserts, replacements
 
+
+def player_row_key(row):
+    return "|".join(str(row.get(k, "") or "").strip() for k in PLAYER_KEY_FIELDS)
+
+def merge_player_csv(master: Path, delta: Path):
+    """UPSERT seguro de jugadores por Event_ID + Player_ID."""
+    old_rows, old_fields = csv_read(master)
+    new_rows, new_fields = csv_read(delta)
+    fields = list(old_fields)
+    for f in new_fields:
+        if f not in fields:
+            fields.append(f)
+    if not fields:
+        return 0, 0, 0
+
+    # DELTA debe ser único por Event_ID+Player_ID.
+    seen_delta = set()
+    for r in new_rows:
+        k = player_row_key(r)
+        if not k.strip("|"):
+            raise RuntimeError(f"{delta.name}: fila jugador sin Event_ID + Player_ID")
+        if k in seen_delta:
+            raise RuntimeError(f"{delta.name}: jugador duplicado en clave {k}")
+        seen_delta.add(k)
+
+    old_index = {}
+    for i, r in enumerate(old_rows):
+        k = player_row_key(r)
+        if not k.strip("|"):
+            raise RuntimeError(f"{master.name}: fila jugador histórica sin clave en {i+2}")
+        if k in old_index:
+            raise RuntimeError(f"{master.name}: clave jugador histórica duplicada {k}")
+        old_index[k] = i
+
+    before_keys = set(old_index)
+    rows = [dict(r) for r in old_rows]
+    inserted_index = {}
+    inserts = replacements = 0
+
+    for r in new_rows:
+        k = player_row_key(r)
+        if k in old_index:
+            idx = old_index[k]
+            base = dict(rows[idx])
+            for f in fields:
+                nv = r.get(f, "")
+                if _nonblank(nv) or not _nonblank(base.get(f, "")):
+                    base[f] = nv
+            rows[idx] = base
+            replacements += 1
+        elif k in inserted_index:
+            idx = inserted_index[k]
+            base = dict(rows[idx])
+            for f in fields:
+                nv = r.get(f, "")
+                if _nonblank(nv) or not _nonblank(base.get(f, "")):
+                    base[f] = nv
+            rows[idx] = base
+        else:
+            inserted_index[k] = len(rows)
+            rows.append({f:r.get(f,"") for f in fields})
+            inserts += 1
+
+    after_keys = {player_row_key(r) for r in rows if player_row_key(r).strip("|")}
+    if not before_keys.issubset(after_keys) or len(rows) < len(old_rows):
+        raise RuntimeError(
+            f"BLOQUEO PLAYER SAFE: histórico perdido. "
+            f"keys_faltantes={len(before_keys-after_keys)}, antes={len(old_rows)}, despues={len(rows)}"
+        )
+
+    fmt = csv_format_info(master)
+    csv_write(master, rows, fields, fmt=fmt)
+
+    check_rows, _ = csv_read(master)
+    check_keys = {player_row_key(r) for r in check_rows if player_row_key(r).strip("|")}
+    if not before_keys.issubset(check_keys) or len(check_rows) < len(old_rows):
+        raise RuntimeError("POST-WRITE FAIL PLAYER MASTER")
+    return len(old_rows), inserts, replacements
+
+def safe_filename_token(v):
+    import re
+    s = str(v or "item")
+    s = re.sub(r"[^A-Za-z0-9._-]+", "_", s).strip("_")
+    return s[:80] or "item"
+
+def rebuild_player_derived(player_root: Path):
+    ext_path = player_root / PLAYER_EXT_REL
+    rows, fields = csv_read(ext_path)
+    legacy_path = player_root / PLAYER_LEGACY_REL
+    csv_write(legacy_path, rows, PLAYER_LEGACY_COLUMNS, fmt={"lineterminator":"\n","final_newline":True})
+
+    by_dir = player_root / PLAYER_BY_LEAGUE_REL
+    by_dir.mkdir(parents=True, exist_ok=True)
+    for old in by_dir.glob("*.csv"):
+        old.unlink()
+
+    groups = {}
+    for r in rows:
+        cid = str(r.get("Competition_ID","")).strip()
+        sid = str(r.get("Season_ID","")).strip()
+        groups.setdefault((cid,sid), []).append(r)
+
+    league_summary = []
+    for (cid,sid), group in sorted(groups.items(), key=lambda x: (safe_int(x[0][0]) or 0, safe_int(x[0][1]) or 0)):
+        league = next((str(r.get("Liga","")).strip() for r in group if str(r.get("Liga","")).strip()), f"Competition {cid}")
+        season = next((str(r.get("Temporada","")).strip() for r in group if str(r.get("Temporada","")).strip()), sid)
+        name = f"{cid}_{safe_filename_token(league)}_{safe_filename_token(season)}.csv"
+        csv_write(by_dir/name, group, PLAYER_LEGACY_COLUMNS, fmt={"lineterminator":"\n","final_newline":True})
+        league_summary.append({
+            "competition_id": safe_int(cid) or 0,
+            "season_id": safe_int(sid) or 0,
+            "league": league,
+            "season": season,
+            "rows": len(group),
+            "unique_events": len({str(r.get("Event_ID","")).strip() for r in group if str(r.get("Event_ID","")).strip()}),
+            "unique_players": len({str(r.get("Player_ID","")).strip() for r in group if str(r.get("Player_ID","")).strip()})
+        })
+
+    manifest_path = player_root / PLAYER_MANIFEST_REL
+    old_manifest = load_json(manifest_path) if manifest_path.exists() else {}
+    old_manifest.update({
+        "schema_version": "incastats.player_current_master.v2",
+        "provider": "sofascore",
+        "generated_at": datetime.now(timezone.utc).isoformat().replace("+00:00","Z"),
+        "scope": "LEAGUE_ONLY_CURRENT_SEASON",
+        "merge_key": ["Event_ID","Player_ID"],
+        "counts": {
+            "rows": len(rows),
+            "unique_events": len({str(r.get("Event_ID","")).strip() for r in rows if str(r.get("Event_ID","")).strip()}),
+            "unique_players": len({str(r.get("Player_ID","")).strip() for r in rows if str(r.get("Player_ID","")).strip()}),
+            "competitions": len({str(r.get("Competition_ID","")).strip() for r in rows if str(r.get("Competition_ID","")).strip()})
+        },
+        "leagues": league_summary,
+        "files": {
+            "extended": PLAYER_EXT_REL.as_posix(),
+            "legacy": PLAYER_LEGACY_REL.as_posix(),
+            "by_league": PLAYER_BY_LEAGUE_REL.as_posix() + "/"
+        }
+    })
+    save_json(manifest_path, old_manifest)
+    return old_manifest
+
 def unique_event_count(csv_path: Path):
     seen = set()
     if not csv_path.exists():
@@ -343,7 +500,7 @@ def restore_latest_backup(repo: Path, live: Path, delta_zip: Path):
 
 def main():
     print("="*66)
-    print("TITAN SYNC V2.2 SAFE  |  DELTA ALL-OFFICIAL -> IncaStats-Data -> GitHub Desktop")
+    print("TITAN SYNC V3 UNIFIED  |  DELTA ALL-OFFICIAL -> IncaStats-Data -> GitHub Desktop")
     print("="*66)
 
     script_dir = Path(__file__).resolve().parent
@@ -357,7 +514,7 @@ def main():
     live = repo / LIVE_FOLDER
     if not live.is_dir():
         die(f"No encuentro {LIVE_FOLDER} dentro de:\n{repo}\n"
-            f"Pon TITAN_SYNC_V2_2_SAFE.py en la raíz local de IncaStats-Data o selecciónala.")
+            f"Pon TITAN_SYNC_V3_UNIFIED.py en la raíz local de IncaStats-Data o selecciónala.")
 
     args = list(sys.argv[1:])
     repair_mode = "--repair-latest-backup" in args
@@ -393,9 +550,9 @@ def main():
         dmanifest = load_json(manifest_path)
 
         schema = str(dmanifest.get("schema_version") or "")
-        supported_schemas = {"incastats.delta_manifest.v1", "incastats.delta_manifest.v2"}
+        supported_schemas = {"incastats.delta_manifest.v1", "incastats.delta_manifest.v2", "incastats.delta_manifest.v3"}
         if schema not in supported_schemas:
-            die(f"Schema DELTA no reconocido: {schema or '(vacío)'}. Esperaba v1 o v2.")
+            die(f"Schema DELTA no reconocido: {schema or '(vacío)'}. Esperaba v1, v2 o v3.")
         if dmanifest.get("provider") != "sofascore":
             die("Proveedor DELTA inesperado.")
 
@@ -409,7 +566,7 @@ def main():
         if allowed and len(set(allowed)) != 31:
             die(f"El DELTA declara una lista semilla incompleta: {len(set(allowed))} IDs; esperaba 31 si la lista está presente.")
 
-        if schema == "incastats.delta_manifest.v2":
+        if schema in {"incastats.delta_manifest.v2", "incastats.delta_manifest.v3"}:
             if scope.get("official_only") is not True or scope.get("exclude_friendlies") is not True:
                 die("DELTA v2 no está certificado como ALL_OFFICIAL SAFE. Usa el ZIP V2.2 SAFE (official_only=true y exclude_friendlies=true).")
             event_scope = "ALL_OFFICIAL"
@@ -423,6 +580,9 @@ def main():
         operation = str(merge_policy.get("operation") or "")
         if operation and operation != "UPSERT_REPLACE_SAME_KEYS":
             die(f"Operación DELTA inesperada: {operation}")
+        player_key_declared = str(merge_policy.get("player_key") or "")
+        if schema == "incastats.delta_manifest.v3" and player_key_declared and player_key_declared != "Event_ID + Player_ID":
+            die(f"Clave PLAYER DELTA inesperada: {player_key_declared}")
 
         counts = dmanifest.get("counts") or {}
         print(f"\nDELTA: {delta_zip.name}")
@@ -431,9 +591,14 @@ def main():
         print(f"  Incompletos auditados: {counts.get('incomplete', 0)}")
         print(f"  Ligas semilla declaradas en ZIP: {len(set(allowed)) if allowed else 'no incluidas (se conserva catálogo vivo)'}")
         print(f"  Alcance de partidos: {event_scope}")
+        if schema == "incastats.delta_manifest.v3":
+            print(f"  Filas de jugadores (solo liga): {counts.get('player_rows', 0)}")
+            print(f"  Partidos con player stats: {counts.get('player_events', 0)}")
 
         team_dir = live / TEAM_CSV_REL
         man_dir = live / MANIFEST_REL
+        player_root = repo / PLAYER_FOLDER
+        player_delta = temp / "players" / "player_match_stats_upsert.csv"
         required = [
             man_dir/"manifest_global.json",
             man_dir/"teams.json",
@@ -454,6 +619,11 @@ def main():
         (backup_root / "manifest").mkdir(parents=True, exist_ok=True)
         for p in required:
             shutil.copy2(p, backup_root/"manifest"/p.name)
+
+        player_backup = backup_root / "players_current"
+        player_existed_before = player_root.exists()
+        if player_existed_before:
+            shutil.copytree(player_root, player_backup, dirs_exist_ok=True)
 
         # ---------- LOAD MANIFESTS ----------
         global_m = load_json(man_dir/"manifest_global.json")
@@ -694,6 +864,45 @@ def main():
                     print("WARN rollback", target.name, re)
             raise RuntimeError("SYNC CANCELADO Y CSV RESTAURADOS. No hagas commit.") from merge_error
 
+        # ---------- MERGE PLAYER CURRENT ----------
+        player_before = player_inserts = player_replacements = 0
+        player_manifest = None
+        if schema == "incastats.delta_manifest.v3":
+            if not player_delta.exists():
+                raise RuntimeError("DELTA v3 sin players/player_match_stats_upsert.csv")
+            player_root.mkdir(parents=True, exist_ok=True)
+            ext_master = player_root / PLAYER_EXT_REL
+            if not ext_master.exists():
+                # Primera instalación: conserva exactamente el header del DELTA.
+                new_rows, new_fields = csv_read(player_delta)
+                csv_write(ext_master, [], new_fields, fmt={"lineterminator":"\n","final_newline":True})
+
+            try:
+                player_before, player_inserts, player_replacements = merge_player_csv(ext_master, player_delta)
+                player_manifest = rebuild_player_derived(player_root)
+            except Exception as player_error:
+                print("\nBLOQUEO PLAYER SAFE ACTIVADO:", player_error)
+                # Restaura PLAYER.
+                if player_existed_before and player_backup.exists():
+                    if player_root.exists():
+                        shutil.rmtree(player_root)
+                    shutil.copytree(player_backup, player_root)
+                elif not player_existed_before and player_root.exists():
+                    shutil.rmtree(player_root)
+
+                # Restaura también los CSV de partidos tocados para que V3 sea atómico.
+                bcsv = backup_root / "teams_csv"
+                for target, existed in original_exists.items():
+                    bp = bcsv / target.name
+                    try:
+                        if existed and bp.exists():
+                            shutil.copy2(bp, target)
+                        elif not existed and target.exists():
+                            target.unlink()
+                    except Exception as re:
+                        print("WARN rollback", target.name, re)
+                raise RuntimeError("SYNC V3 CANCELADO: PARTIDOS Y JUGADORES RESTAURADOS. No hagas commit.") from player_error
+
         # ---------- SORT + COUNTS ----------
         teams_arr.sort(key=lambda x: str(x.get("name") or "").casefold())
         details_arr.sort(key=lambda x: str(x.get("name") or "").casefold())
@@ -735,7 +944,7 @@ def main():
         global_m["counts"]["portal_shards"] = len(seasons_arr)
         global_m["counts"]["portal_rows"] = len(global_events) * 6
         global_m["live_update"] = {
-            "sync_version": "TITAN_SYNC_V2_2_SAFE",
+            "sync_version": "TITAN_SYNC_V3_UNIFIED",
             "updated_at": datetime.now(timezone.utc).isoformat().replace("+00:00","Z"),
             "delta_file": delta_zip.name,
             "delta_sha256": sha256(delta_zip),
@@ -744,7 +953,11 @@ def main():
             "affected_team_files": len(set(affected_files)),
             "inserted_rows": total_inserts,
             "replaced_rows": total_replacements,
-            "note": "cards count remains the original full snapshot unless a future full cards rebuild is run"
+            "player_rows_before": player_before,
+            "player_rows_inserted": player_inserts,
+            "player_rows_replaced": player_replacements,
+            "player_rows_after": (player_manifest or {}).get("counts", {}).get("rows", 0),
+            "note": "V3 actualiza match stats ALL_OFFICIAL y player stats SOLO LEAGUE en una sola operación."
         }
 
         save_json(man_dir/"teams.json", teams_m)
@@ -769,7 +982,7 @@ def main():
         sync_dir = live / SYNC_REL
         sync_dir.mkdir(parents=True, exist_ok=True)
         sync_log = {
-            "schema_version": "incastats.titan_sync.v2.2",
+            "schema_version": "incastats.titan_sync.v3",
             "synced_at": datetime.now(timezone.utc).isoformat().replace("+00:00","Z"),
             "delta": delta_zip.name,
             "delta_sha256": sha256(delta_zip),
@@ -779,6 +992,10 @@ def main():
                 "team_files_changed": len(set(affected_files)),
                 "rows_inserted": total_inserts,
                 "rows_replaced": total_replacements,
+                "player_rows_before": player_before,
+                "player_rows_inserted": player_inserts,
+                "player_rows_replaced": player_replacements,
+                "player_rows_after": (player_manifest or {}).get("counts", {}).get("rows", 0),
                 "master_unique_matches_after": len(global_events),
                 "teams_after": len(teams_arr),
                 "competitions_after": len(comps_arr),
@@ -794,7 +1011,7 @@ def main():
             "master_unique_matches": len(global_events)
         })
         save_json(sync_dir/"safety_last_sync.json", {
-            "schema_version": "incastats.titan_sync_safety.v2.2",
+            "schema_version": "incastats.titan_sync_safety.v3",
             "synced_at": sync_log["synced_at"],
             "delta": delta_zip.name,
             "status": "PASS",
@@ -802,7 +1019,10 @@ def main():
             "files": safety_files,
             "total_historical_rows_lost": 0,
             "total_rows_inserted": total_inserts,
-            "total_rows_replaced": total_replacements
+            "total_rows_replaced": total_replacements,
+            "player_rows_inserted": player_inserts,
+            "player_rows_replaced": player_replacements,
+            "player_historical_rows_lost": 0
         })
 
         print("\n" + "="*66)
@@ -812,6 +1032,12 @@ def main():
         print("Filas nuevas insertadas:", total_inserts)
         print("Filas DELTA reemplazadas:", total_replacements)
         print("Histórico perdido:", 0, "filas  <-- SAFE PASS")
+        if schema == "incastats.delta_manifest.v3":
+            print("PLAYER filas antes:", player_before)
+            print("PLAYER filas nuevas:", player_inserts)
+            print("PLAYER filas reemplazadas:", player_replacements)
+            print("PLAYER filas MASTER:", (player_manifest or {}).get("counts", {}).get("rows", 0))
+            print("PLAYER histórico perdido:", 0, "filas  <-- SAFE PASS")
         print("Partidos únicos MASTER:", len(global_events))
         print("Equipos MASTER:", len(teams_arr))
         print("Competiciones MASTER:", len(comps_arr))
