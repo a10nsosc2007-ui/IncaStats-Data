@@ -1,6 +1,6 @@
 {
   "schema": "titan.seasons.v1",
-  "count": 615,
+  "count": 621,
   "seasons": [
     {
       "competition_id": 7,
@@ -263,6 +263,25 @@
       "season_format": "NORMAL",
       "season_status": "FINISHED",
       "season_status_basis": "NO_FUTURE_EVENT_AND_OUTSIDE_GRACE",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Round 1"
+      ],
+      "regions": [
+        "Europe"
+      ]
+    },
+    {
+      "competition_id": 8,
+      "season_id": 97268,
+      "label": "LaLiga 26/27",
+      "start_year": 2026,
+      "end_year": 2027,
+      "season_format": "NORMAL",
+      "season_status": "CURRENT",
+      "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
       "phases": [
         "REGULAR"
       ],
@@ -563,6 +582,25 @@
       ]
     },
     {
+      "competition_id": 18,
+      "season_id": 97037,
+      "label": "Championship 26/27",
+      "start_year": 2026,
+      "end_year": 2027,
+      "season_format": "NORMAL",
+      "season_status": "CURRENT",
+      "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Round 1"
+      ],
+      "regions": [
+        "Europe"
+      ]
+    },
+    {
       "competition_id": 19,
       "season_id": 39384,
       "label": "FA Cup 21/22",
@@ -698,7 +736,8 @@
         "REGULAR"
       ],
       "stages": [
-        "Round 17"
+        "Round 17",
+        "Round 18"
       ],
       "regions": [
         "Europe"
@@ -1059,6 +1098,25 @@
       ]
     },
     {
+      "competition_id": 24,
+      "season_id": 97077,
+      "label": "League One 26/27",
+      "start_year": 2026,
+      "end_year": 2027,
+      "season_format": "NORMAL",
+      "season_status": "CURRENT",
+      "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Round 1"
+      ],
+      "regions": [
+        "Europe"
+      ]
+    },
+    {
       "competition_id": 25,
       "season_id": 37156,
       "label": "League Two 21/22",
@@ -1169,6 +1227,25 @@
         "Final",
         "Round 1",
         "Semifinals"
+      ],
+      "regions": [
+        "Europe"
+      ]
+    },
+    {
+      "competition_id": 25,
+      "season_id": 97078,
+      "label": "League Two 26/27",
+      "start_year": 2026,
+      "end_year": 2027,
+      "season_format": "NORMAL",
+      "season_status": "CURRENT",
+      "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Round 1"
       ],
       "regions": [
         "Europe"
@@ -1524,7 +1601,8 @@
         "REGULAR"
       ],
       "stages": [
-        "Round 1"
+        "Round 1",
+        "Round 2"
       ],
       "regions": [
         "Europe"
@@ -1658,7 +1736,8 @@
         "REGULAR"
       ],
       "stages": [
-        "Round 1"
+        "Round 1",
+        "Round 2"
       ],
       "regions": [
         "Europe"
@@ -1783,7 +1862,8 @@
       ],
       "stages": [
         "Round 1",
-        "Round 3"
+        "Round 3",
+        "Round 4"
       ],
       "regions": [
         "Europe"
@@ -1802,7 +1882,8 @@
         "REGULAR"
       ],
       "stages": [
-        "Round 16"
+        "Round 16",
+        "Round 17"
       ],
       "regions": [
         "Europe"
@@ -1926,7 +2007,8 @@
         "REGULAR"
       ],
       "stages": [
-        "Round 1"
+        "Round 1",
+        "Round 2"
       ],
       "regions": [
         "Europe"
@@ -2061,7 +2143,8 @@
       ],
       "stages": [
         "Round 1",
-        "Round 2"
+        "Round 2",
+        "Round 3"
       ],
       "regions": [
         "Europe"
@@ -2287,6 +2370,25 @@
       "stages": [
         "Round 1",
         "Round 2"
+      ],
+      "regions": [
+        "Europe"
+      ]
+    },
+    {
+      "competition_id": 52,
+      "season_id": 98080,
+      "label": "Super Lig 26/27",
+      "start_year": 2026,
+      "end_year": 2027,
+      "season_format": "NORMAL",
+      "season_status": "CURRENT",
+      "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Round 1"
       ],
       "regions": [
         "Europe"
@@ -2524,6 +2626,25 @@
         "Final",
         "Round 1",
         "Semifinals"
+      ],
+      "regions": [
+        "Europe"
+      ]
+    },
+    {
+      "competition_id": 54,
+      "season_id": 97280,
+      "label": "LaLiga 2 26/27",
+      "start_year": 2026,
+      "end_year": 2027,
+      "season_format": "NORMAL",
+      "season_status": "CURRENT",
+      "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Round 1"
       ],
       "regions": [
         "Europe"
@@ -3267,7 +3388,8 @@
         "REGULAR"
       ],
       "stages": [
-        "Round 1"
+        "Round 1",
+        "Round 2"
       ],
       "regions": [
         "Europe"
@@ -3383,7 +3505,8 @@
         "REGULAR"
       ],
       "stages": [
-        "Round 1"
+        "Round 1",
+        "Round 2"
       ],
       "regions": [
         "Europe"
@@ -3631,7 +3754,8 @@
       ],
       "stages": [
         "Round 1",
-        "Round 4"
+        "Round 4",
+        "Round 5"
       ],
       "regions": [
         "Europe"
@@ -3777,7 +3901,8 @@
         "Final",
         "Round 1",
         "Round of 16",
-        "Round 4"
+        "Round 4",
+        "Round 5"
       ],
       "regions": [
         "America"
@@ -4117,12 +4242,13 @@
       "end_year": 2027,
       "season_format": "NORMAL",
       "season_status": "CURRENT",
-      "season_status_basis": "SOFASCORE_NEXT_EVENT",
+      "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
       "phases": [
         "REGULAR"
       ],
       "stages": [
-        "Round 1"
+        "Round 1",
+        "Round 2"
       ],
       "regions": [
         "Europe"
@@ -4883,7 +5009,8 @@
         "REGULAR"
       ],
       "stages": [
-        "Round 1"
+        "Round 1",
+        "Round 2"
       ],
       "regions": [
         "Europe"
@@ -5007,7 +5134,8 @@
         "REGULAR"
       ],
       "stages": [
-        "Round 1"
+        "Round 1",
+        "Round 2"
       ],
       "regions": [
         "Europe"
@@ -5126,7 +5254,7 @@
       "end_year": 2026,
       "season_format": "CALENDAR",
       "season_status": "CURRENT",
-      "season_status_basis": "SOFASCORE_NEXT_EVENT",
+      "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
       "phases": [
         "REGULAR_SEASON"
       ],
@@ -5246,7 +5374,8 @@
       ],
       "stages": [
         "Round 1",
-        "Round 22"
+        "Round 22",
+        "Round 23"
       ],
       "regions": [
         "America"
@@ -8046,7 +8175,8 @@
       ],
       "stages": [
         "Round 1",
-        "Round 21"
+        "Round 21",
+        "Round 22"
       ],
       "regions": [
         "America"
@@ -8287,7 +8417,8 @@
       ],
       "stages": [
         "Round 1",
-        "Round 4"
+        "Round 4",
+        "Round 5"
       ],
       "regions": [
         "America"

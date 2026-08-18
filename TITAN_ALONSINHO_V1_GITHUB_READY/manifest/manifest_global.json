@@ -2,24 +2,24 @@
   "schema_version": "titan.master_manifest.v1",
   "product": "TITAN ALONSINHO V1 PRO",
   "extractor_version": "1.0.0_TITAN_ALONSINHO_PRO",
-  "generated_at": "2026-08-14",
+  "generated_at": "2026-08-18",
   "coverage": {
     "start_year": 2021,
     "end_year": 2026,
-    "teams": 737,
+    "teams": 743,
     "regions": {
-      "Europe": 591,
+      "Europe": 597,
       "America": 146
     },
     "countries": 25
   },
   "counts": {
     "competitions": 150,
-    "competition_seasons": 615,
-    "unique_matches": 77879,
+    "competition_seasons": 621,
+    "unique_matches": 78099,
     "cards": 355826,
-    "portal_shards": 615,
-    "portal_rows": 467274
+    "portal_shards": 621,
+    "portal_rows": 468594
   },
   "dedupe": {
     "portal_rows_removed": 185130,
@@ -97,26 +97,26 @@
   "full_data_release": "TITAN_ALONSINHO_V1_FULL_DATA_RELEASE.zip",
   "live_update": {
     "sync_version": "TITAN_SYNC_V2_1_SAFE",
-    "updated_at": "2026-08-14T07:24:47.443729Z",
-    "delta_file": "TITAN_DELTA_2026-08-14T07-21-00-000Z_76_eventos.zip",
-    "delta_sha256": "299d9443c9930f125c734cd1b24f6fe0bf7a38990e2d9f386a06b04819187f9f",
+    "updated_at": "2026-08-18T06:29:49.548778Z",
+    "delta_file": "TITAN_DELTA_2026-08-18T06-24-00-000Z_220_eventos.zip",
+    "delta_sha256": "4c35056d4260e414ac61471791d68f6e7ba9a1b77e7c3ff1c1b57711ad216662",
     "window": {
-      "requested_from": "2026-08-11T06:36:00.000Z",
-      "effective_from": "2026-08-09T06:36:00.000Z",
-      "requested_to": "2026-08-14T07:21:00.000Z",
+      "requested_from": "2026-08-14T07:21:00.000Z",
+      "effective_from": "2026-08-12T07:21:00.000Z",
+      "requested_to": "2026-08-18T06:24:00.000Z",
       "overlap_hours": 48
     },
     "delta_counts": {
-      "unique_events_discovered": 77,
-      "valid_events": 76,
-      "incomplete": 1,
+      "unique_events_discovered": 229,
+      "valid_events": 220,
+      "incomplete": 9,
       "friendlies_excluded": 0,
-      "affected_teams": 152,
-      "requests": 1000
+      "affected_teams": 440,
+      "requests": 1617
     },
-    "affected_team_files": 152,
-    "inserted_rows": 216,
-    "replaced_rows": 696,
+    "affected_team_files": 440,
+    "inserted_rows": 2640,
+    "replaced_rows": 0,
     "note": "cards count remains the original full snapshot unless a future full cards rebuild is run"
   }
 }
