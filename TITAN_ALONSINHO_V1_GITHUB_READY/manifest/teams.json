@@ -1,6 +1,6 @@
 {
   "schema": "titan.teams.v1",
-  "count": 743,
+  "count": 751,
   "teams": [
     {
       "team_id": 5885,
@@ -89,7 +89,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/677_Aalesunds_FK.csv",
-      "valid_matches": 2,
+      "valid_matches": 180,
       "incomplete_matches": 0
     },
     {
@@ -309,7 +309,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/1764_AIK.csv",
-      "valid_matches": 22,
+      "valid_matches": 187,
       "incomplete_matches": 15
     },
     {
@@ -1009,7 +1009,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/1760_BK_Hacken.csv",
-      "valid_matches": 49,
+      "valid_matches": 214,
       "incomplete_matches": 18
     },
     {
@@ -1069,7 +1069,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/656_Bod_Glimt.csv",
-      "valid_matches": 75,
+      "valid_matches": 255,
       "incomplete_matches": 14
     },
     {
@@ -1249,7 +1249,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/663_Bryne_FK.csv",
-      "valid_matches": 0,
+      "valid_matches": 179,
       "incomplete_matches": 0
     },
     {
@@ -2129,7 +2129,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/1807_Degerfors_IF.csv",
-      "valid_matches": 16,
+      "valid_matches": 181,
       "incomplete_matches": 7
     },
     {
@@ -2229,7 +2229,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/1759_Djurgardens_IF.csv",
-      "valid_matches": 48,
+      "valid_matches": 212,
       "incomplete_matches": 18
     },
     {
@@ -2241,6 +2241,16 @@
       "file": "data/teams_csv/84_Doncaster_Rovers.csv",
       "valid_matches": 274,
       "incomplete_matches": 28
+    },
+    {
+      "team_id": 920,
+      "name": "Egersund",
+      "country": "Norway",
+      "region": null,
+      "source_batch": "DELTA_V2_2_SAFE",
+      "file": "data/teams_csv/920_Egersund.csv",
+      "valid_matches": 106,
+      "incomplete_matches": 0
     },
     {
       "team_id": 2839,
@@ -3099,7 +3109,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/862_FK_Jerv.csv",
-      "valid_matches": 0,
+      "valid_matches": 137,
       "incomplete_matches": 0
     },
     {
@@ -3179,7 +3189,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/687_Fredrikstad_FK.csv",
-      "valid_matches": 6,
+      "valid_matches": 179,
       "incomplete_matches": 0
     },
     {
@@ -3209,7 +3219,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1786_GAIS.csv",
-      "valid_matches": 19,
+      "valid_matches": 162,
       "incomplete_matches": 8
     },
     {
@@ -3289,7 +3299,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1763_GIF_Sundsvall.csv",
-      "valid_matches": 7,
+      "valid_matches": 178,
       "incomplete_matches": 11
     },
     {
@@ -3509,7 +3519,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1767_Halmstads_BK.csv",
-      "valid_matches": 15,
+      "valid_matches": 172,
       "incomplete_matches": 9
     },
     {
@@ -3529,7 +3539,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/666_HamKam.csv",
-      "valid_matches": 2,
+      "valid_matches": 171,
       "incomplete_matches": 0
     },
     {
@@ -3539,7 +3549,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1758_Hammarby_IF.csv",
-      "valid_matches": 29,
+      "valid_matches": 194,
       "incomplete_matches": 20
     },
     {
@@ -3589,7 +3599,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/673_Haugesund.csv",
-      "valid_matches": 0,
+      "valid_matches": 175,
       "incomplete_matches": 0
     },
     {
@@ -3619,7 +3629,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1890_Helsingborgs_IF.csv",
-      "valid_matches": 10,
+      "valid_matches": 181,
       "incomplete_matches": 7
     },
     {
@@ -3719,7 +3729,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1787_IF_Brommapojkarna.csv",
-      "valid_matches": 13,
+      "valid_matches": 141,
       "incomplete_matches": 10
     },
     {
@@ -3729,7 +3739,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1762_IF_Elfsborg.csv",
-      "valid_matches": 34,
+      "valid_matches": 199,
       "incomplete_matches": 13
     },
     {
@@ -3739,7 +3749,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1761_IFK_Goteborg.csv",
-      "valid_matches": 22,
+      "valid_matches": 187,
       "incomplete_matches": 9
     },
     {
@@ -3749,7 +3759,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1769_IFK_Norrkoping.csv",
-      "valid_matches": 18,
+      "valid_matches": 189,
       "incomplete_matches": 7
     },
     {
@@ -3759,7 +3769,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1842_IFK_Varnamo.csv",
-      "valid_matches": 9,
+      "valid_matches": 180,
       "incomplete_matches": 8
     },
     {
@@ -3769,7 +3779,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1793_IK_Sirius.csv",
-      "valid_matches": 17,
+      "valid_matches": 182,
       "incomplete_matches": 7
     },
     {
@@ -3779,7 +3789,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/667_IK_Start.csv",
-      "valid_matches": 1,
+      "valid_matches": 170,
       "incomplete_matches": 0
     },
     {
@@ -3969,7 +3979,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1891_Kalmar_FF.csv",
-      "valid_matches": 19,
+      "valid_matches": 184,
       "incomplete_matches": 6
     },
     {
@@ -4029,7 +4039,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/786_KFUM_Oslo.csv",
-      "valid_matches": 2,
+      "valid_matches": 179,
       "incomplete_matches": 0
     },
     {
@@ -4041,6 +4051,16 @@
       "file": "data/teams_csv/3065_Kocaelispor.csv",
       "valid_matches": 159,
       "incomplete_matches": 42
+    },
+    {
+      "team_id": 672,
+      "name": "Kongsvinger",
+      "country": "Norway",
+      "region": null,
+      "source_batch": "DELTA_V2_2_SAFE",
+      "file": "data/teams_csv/672_Kongsvinger.csv",
+      "valid_matches": 153,
+      "incomplete_matches": 0
     },
     {
       "team_id": 3085,
@@ -4069,7 +4089,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/957_Kristiansund_BK.csv",
-      "valid_matches": 2,
+      "valid_matches": 178,
       "incomplete_matches": 0
     },
     {
@@ -4131,6 +4151,16 @@
       "file": "data/teams_csv/2513_LA_Galaxy.csv",
       "valid_matches": 226,
       "incomplete_matches": 8
+    },
+    {
+      "team_id": 1772,
+      "name": "Landskrona BoIS",
+      "country": "Sweden",
+      "region": null,
+      "source_batch": "DELTA_V2_2_SAFE",
+      "file": "data/teams_csv/1772_Landskrona_BoIS.csv",
+      "valid_matches": 171,
+      "incomplete_matches": 0
     },
     {
       "team_id": 2058,
@@ -4269,7 +4299,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/664_Lillestr_m_SK.csv",
-      "valid_matches": 6,
+      "valid_matches": 185,
       "incomplete_matches": 0
     },
     {
@@ -4363,6 +4393,16 @@
       "incomplete_matches": 12
     },
     {
+      "team_id": 657,
+      "name": "Lyn FK",
+      "country": "Norway",
+      "region": null,
+      "source_batch": "DELTA_V2_2_SAFE",
+      "file": "data/teams_csv/657_Lyn_FK.csv",
+      "valid_matches": 107,
+      "incomplete_matches": 0
+    },
+    {
       "team_id": 1756,
       "name": "Lyngby",
       "country": "Denmark",
@@ -4389,7 +4429,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1892_Malmo_FF.csv",
-      "valid_matches": 74,
+      "valid_matches": 239,
       "incomplete_matches": 17
     },
     {
@@ -4549,7 +4589,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1783_Mjallby_AIF.csv",
-      "valid_matches": 22,
+      "valid_matches": 186,
       "incomplete_matches": 13
     },
     {
@@ -4559,7 +4599,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/903_Mj_ndalen_IF.csv",
-      "valid_matches": 0,
+      "valid_matches": 174,
       "incomplete_matches": 0
     },
     {
@@ -4589,7 +4629,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/661_Molde_FK.csv",
-      "valid_matches": 46,
+      "valid_matches": 221,
       "incomplete_matches": 4
     },
     {
@@ -4631,6 +4671,16 @@
       "file": "data/teams_csv/3014_Moreirense.csv",
       "valid_matches": 180,
       "incomplete_matches": 15
+    },
+    {
+      "team_id": 662,
+      "name": "Moss FK",
+      "country": "Norway",
+      "region": null,
+      "source_batch": "DELTA_V2_2_SAFE",
+      "file": "data/teams_csv/662_Moss_FK.csv",
+      "valid_matches": 124,
+      "incomplete_matches": 0
     },
     {
       "team_id": 7034,
@@ -4859,7 +4909,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/659_Odds_BK.csv",
-      "valid_matches": 0,
+      "valid_matches": 171,
       "incomplete_matches": 0
     },
     {
@@ -5373,6 +5423,16 @@
       "incomplete_matches": 7
     },
     {
+      "team_id": 708,
+      "name": "Ranheim IL",
+      "country": "Norway",
+      "region": null,
+      "source_batch": "DELTA_V2_2_SAFE",
+      "file": "data/teams_csv/708_Ranheim_IL.csv",
+      "valid_matches": 172,
+      "incomplete_matches": 0
+    },
+    {
       "team_id": 2818,
       "name": "Rayo Vallecano",
       "country": "Spain",
@@ -5669,7 +5729,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/1161_Rosenborg_BK.csv",
-      "valid_matches": 7,
+      "valid_matches": 180,
       "incomplete_matches": 11
     },
     {
@@ -5819,7 +5879,17 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/676_Sandefjord_Fotball.csv",
-      "valid_matches": 2,
+      "valid_matches": 174,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 929,
+      "name": "Sandnes Ulf",
+      "country": "Norway",
+      "region": null,
+      "source_batch": "DELTA_V2_2_SAFE",
+      "file": "data/teams_csv/929_Sandnes_Ulf.csv",
+      "valid_matches": 165,
       "incomplete_matches": 0
     },
     {
@@ -5859,7 +5929,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/822_Sarpsborg_08.csv",
-      "valid_matches": 2,
+      "valid_matches": 179,
       "incomplete_matches": 0
     },
     {
@@ -6139,7 +6209,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/1159_SK_Brann.csv",
-      "valid_matches": 24,
+      "valid_matches": 203,
       "incomplete_matches": 7
     },
     {
@@ -6359,7 +6429,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/1162_Stab_k_Fotball.csv",
-      "valid_matches": 0,
+      "valid_matches": 177,
       "incomplete_matches": 0
     },
     {
@@ -6459,7 +6529,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/1163_Str_msgodset.csv",
-      "valid_matches": 0,
+      "valid_matches": 172,
       "incomplete_matches": 0
     },
     {
@@ -6729,7 +6799,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/660_Troms_IL.csv",
-      "valid_matches": 6,
+      "valid_matches": 178,
       "incomplete_matches": 3
     },
     {
@@ -6933,6 +7003,16 @@
       "incomplete_matches": 14
     },
     {
+      "team_id": 7536,
+      "name": "Utsiktens BK",
+      "country": "Sweden",
+      "region": null,
+      "source_batch": "DELTA_V2_2_SAFE",
+      "file": "data/teams_csv/7536_Utsiktens_BK.csv",
+      "valid_matches": 139,
+      "incomplete_matches": 0
+    },
+    {
       "team_id": 2828,
       "name": "Valencia",
       "country": "Spain",
@@ -6979,7 +7059,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/7101_Varbergs_BoIS.csv",
-      "valid_matches": 11,
+      "valid_matches": 182,
       "incomplete_matches": 9
     },
     {
@@ -7079,7 +7159,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/1164_Viking_FK.csv",
-      "valid_matches": 7,
+      "valid_matches": 182,
       "incomplete_matches": 5
     },
     {
@@ -7199,7 +7279,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/1775_Vasteras_SK.csv",
-      "valid_matches": 13,
+      "valid_matches": 167,
       "incomplete_matches": 6
     },
     {
@@ -7209,7 +7289,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/1165_Valerenga_IF.csv",
-      "valid_matches": 2,
+      "valid_matches": 175,
       "incomplete_matches": 2
     },
     {
@@ -7389,7 +7469,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1768_Orebro_SK.csv",
-      "valid_matches": 10,
+      "valid_matches": 170,
       "incomplete_matches": 9
     },
     {
@@ -7399,7 +7479,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1766_Orgryte_IS.csv",
-      "valid_matches": 11,
+      "valid_matches": 172,
       "incomplete_matches": 8
     },
     {
@@ -7409,7 +7489,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1781_Osters_IF.csv",
-      "valid_matches": 8,
+      "valid_matches": 168,
       "incomplete_matches": 9
     },
     {
@@ -7419,7 +7499,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1836_Ostersunds_FK.csv",
-      "valid_matches": 7,
+      "valid_matches": 170,
       "incomplete_matches": 7
     },
     {

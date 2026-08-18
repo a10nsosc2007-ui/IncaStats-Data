@@ -1,6 +1,6 @@
 {
   "schema": "titan.competitions.v1",
-  "count": 153,
+  "count": 160,
   "competitions": [
     {
       "competition_id": 44,
@@ -35,6 +35,18 @@
       ]
     },
     {
+      "competition_id": 11085,
+      "name": "2nd Division, Group 1",
+      "competition_type": "LEAGUE",
+      "regions": [],
+      "season_ids": [
+        40494,
+        47949,
+        70834,
+        88715
+      ]
+    },
+    {
       "competition_id": 491,
       "name": "3. Liga",
       "competition_type": "LEAGUE",
@@ -48,6 +60,15 @@
         63786,
         77744,
         98012
+      ]
+    },
+    {
+      "competition_id": 11084,
+      "name": "3rd Division, Group 1",
+      "competition_type": "LEAGUE",
+      "regions": [],
+      "season_ids": [
+        40609
       ]
     },
     {
@@ -70,6 +91,11 @@
         "Europe"
       ],
       "season_ids": [
+        35306,
+        40406,
+        47730,
+        57284,
+        69956,
         87925
       ]
     },
@@ -795,6 +821,11 @@
         "Europe"
       ],
       "season_ids": [
+        35403,
+        40405,
+        47806,
+        57322,
+        70174,
         87809
       ]
     },
@@ -808,6 +839,25 @@
       "season_ids": [
         68371,
         80114
+      ]
+    },
+    {
+      "competition_id": 11617,
+      "name": "Ettan, Relegation/Promotion",
+      "competition_type": "LEAGUE",
+      "regions": [],
+      "season_ids": [
+        35653,
+        89299
+      ]
+    },
+    {
+      "competition_id": 68,
+      "name": "Ettan, Södra",
+      "competition_type": "LEAGUE",
+      "regions": [],
+      "season_ids": [
+        40620
       ]
     },
     {
@@ -1370,6 +1420,33 @@
       ]
     },
     {
+      "competition_id": 22,
+      "name": "Norwegian 1st Division",
+      "competition_type": "LEAGUE",
+      "regions": [],
+      "season_ids": [
+        35404,
+        40407,
+        47820,
+        57356,
+        70186,
+        87867
+      ]
+    },
+    {
+      "competition_id": 29,
+      "name": "Norwegian Football Cup",
+      "competition_type": "CUP",
+      "regions": [],
+      "season_ids": [
+        37245,
+        41406,
+        50479,
+        73890,
+        80163
+      ]
+    },
+    {
       "competition_id": 76,
       "name": "Oddset Pokalen",
       "competition_type": "LEAGUE",
@@ -1856,6 +1933,20 @@
         48056,
         61595,
         76517
+      ]
+    },
+    {
+      "competition_id": 46,
+      "name": "Superettan",
+      "competition_type": "LEAGUE",
+      "regions": [],
+      "season_ids": [
+        35307,
+        40408,
+        47762,
+        57444,
+        70171,
+        87924
       ]
     },
     {

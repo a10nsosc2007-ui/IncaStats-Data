@@ -1,6 +1,6 @@
 {
   "schema": "titan.seasons.v1",
-  "count": 625,
+  "count": 660,
   "seasons": [
     {
       "competition_id": 7,
@@ -34,7 +34,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 7,
@@ -69,7 +70,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 7,
@@ -104,7 +106,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 7,
@@ -130,7 +133,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 7,
@@ -152,11 +156,19 @@
         "Qualification Round 2",
         "Qualification Round 3",
         "Round 1",
-        "Round of 16"
+        "Round of 16",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8"
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 7,
@@ -166,7 +178,7 @@
       "end_year": 2027,
       "season_format": "NORMAL",
       "season_status": "CURRENT",
-      "season_status_basis": "RECENT_ACTIVITY_GRACE",
+      "season_status_basis": "SOFASCORE_NEXT_EVENT",
       "phases": [
         "REGULAR"
       ],
@@ -728,19 +740,292 @@
     },
     {
       "competition_id": 20,
+      "season_id": 35403,
+      "label": "Eliteserien 2021",
+      "start_year": 2021,
+      "end_year": 2021,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "FINAL"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 14",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 18",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30",
+        "Final",
+        "Qualification round 2",
+        "Qualification round 3"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 20,
+      "season_id": 40405,
+      "label": "Eliteserien 2022",
+      "start_year": 2022,
+      "end_year": 2022,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 18",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30",
+        "Qualification round 3",
+        "Qualification round 2",
+        "Qualification round 4"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 20,
+      "season_id": 47806,
+      "label": "Eliteserien 2023",
+      "start_year": 2023,
+      "end_year": 2023,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "FINAL"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 18",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 19",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 20",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30",
+        "Final",
+        "Qualification round 2",
+        "Qualification round 3"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 20,
+      "season_id": 57322,
+      "label": "Eliteserien 2024",
+      "start_year": 2024,
+      "end_year": 2024,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "PLAYOFF",
+        "FINAL"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 16",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 18",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 17",
+        "Round 19",
+        "Round 21",
+        "Round 22",
+        "Round 20",
+        "Round 23",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30",
+        "Qualification Round 1",
+        "Qualification Round 3",
+        "Final",
+        "Qualification Round 2"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 20,
+      "season_id": 70174,
+      "label": "Eliteserien 2025",
+      "start_year": 2025,
+      "end_year": 2025,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "FINAL",
+        "PLAYOFF"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 17",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 15",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 16",
+        "Round 18",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 19",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 23",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30",
+        "Final",
+        "Qualification Round 3",
+        "Qualification Round 2",
+        "Qualification Round 1"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 20,
       "season_id": 87809,
       "label": "Eliteserien 2026",
       "start_year": 2026,
       "end_year": 2026,
       "season_format": "CALENDAR",
       "season_status": "CURRENT",
-      "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
+      "season_status_basis": "SOFASCORE_NEXT_EVENT",
       "phases": [
         "REGULAR"
       ],
       "stages": [
         "Round 17",
-        "Round 18"
+        "Round 18",
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 9",
+        "Round 8",
+        "Round 10",
+        "Round 11",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16"
       ],
       "regions": [
         "Europe"
@@ -889,6 +1174,282 @@
         "Europe"
       ],
       "competition_type": "CUP"
+    },
+    {
+      "competition_id": 22,
+      "season_id": 35404,
+      "label": "1st Division 2021",
+      "start_year": 2021,
+      "end_year": 2021,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 15",
+        "Round 14",
+        "Round 16",
+        "Round 17",
+        "Round 18",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 22,
+      "season_id": 40407,
+      "label": "1st Division 2022",
+      "start_year": 2022,
+      "end_year": 2022,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 18",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 22,
+      "season_id": 47820,
+      "label": "1st Division 2023",
+      "start_year": 2023,
+      "end_year": 2023,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "FINAL",
+        "REGULAR"
+      ],
+      "stages": [
+        "Final",
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 18",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 22,
+      "season_id": 57356,
+      "label": "1st Division 2024",
+      "start_year": 2024,
+      "end_year": 2024,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "FINAL"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 4",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 12",
+        "Round 17",
+        "Round 18",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30",
+        "Final"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 22,
+      "season_id": 70186,
+      "label": "1st Division 2025",
+      "start_year": 2025,
+      "end_year": 2025,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "FINAL"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 18",
+        "Round 17",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 24",
+        "Round 29",
+        "Round 30",
+        "Final"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 22,
+      "season_id": 87867,
+      "label": "1st Division 2026",
+      "start_year": 2026,
+      "end_year": 2026,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "CURRENT",
+      "season_status_basis": "SOFASCORE_NEXT_EVENT",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 18"
+      ],
+      "regions": []
     },
     {
       "competition_id": 23,
@@ -1257,6 +1818,123 @@
         "Europe"
       ],
       "competition_type": "LEAGUE"
+    },
+    {
+      "competition_id": 29,
+      "season_id": 37245,
+      "label": "NM Cup 2021",
+      "start_year": 2021,
+      "end_year": 2021,
+      "season_format": "CALENDAR",
+      "competition_type": "CUP",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "FINAL"
+      ],
+      "stages": [
+        "Semifinals",
+        "Final"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 29,
+      "season_id": 41406,
+      "label": "NM Cup 2022",
+      "start_year": 2022,
+      "end_year": 2022,
+      "season_format": "CALENDAR",
+      "competition_type": "CUP",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "FINAL",
+        "PLAYOFF"
+      ],
+      "stages": [
+        "Quarterfinals",
+        "Semifinals",
+        "Final",
+        "Round 2",
+        "Round 4",
+        "Round 3",
+        "Round 1"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 29,
+      "season_id": 50479,
+      "label": "NM Cup 2023",
+      "start_year": 2023,
+      "end_year": 2023,
+      "season_format": "CALENDAR",
+      "competition_type": "CUP",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Round 3",
+        "Round 4",
+        "Quarterfinals",
+        "Round 2",
+        "Semifinals"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 29,
+      "season_id": 73890,
+      "label": "NM Cup 2025",
+      "start_year": 2025,
+      "end_year": 2025,
+      "season_format": "CALENDAR",
+      "competition_type": "CUP",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "PLAYOFF",
+        "REGULAR",
+        "FINAL"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Quarterfinals",
+        "Semifinals",
+        "Final"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 29,
+      "season_id": 80163,
+      "label": "NM Cup 2026",
+      "start_year": 2026,
+      "end_year": 2026,
+      "season_format": "CALENDAR",
+      "competition_type": "CUP",
+      "season_status": "FINISHED",
+      "season_status_basis": "NO_FUTURE_EVENT_AND_OUTSIDE_GRACE",
+      "phases": [
+        "REGULAR",
+        "FINAL"
+      ],
+      "stages": [
+        "Quarterfinals",
+        "Semifinals",
+        "Final",
+        "Round 4",
+        "Round 3"
+      ],
+      "regions": []
     },
     {
       "competition_id": 34,
@@ -1881,19 +2559,279 @@
     },
     {
       "competition_id": 40,
+      "season_id": 35306,
+      "label": "Allsvenskan 2021",
+      "start_year": 2021,
+      "end_year": 2021,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "PLAYOFF"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 18",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30",
+        "Qualification round 1"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 40,
+      "season_id": 40406,
+      "label": "Allsvenskan 2022",
+      "start_year": 2022,
+      "end_year": 2022,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "PLAYOFF"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 18",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30",
+        "Qualification round 1"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 40,
+      "season_id": 47730,
+      "label": "Allsvenskan 2023",
+      "start_year": 2023,
+      "end_year": 2023,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "FINAL"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 18",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30",
+        "Final"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 40,
+      "season_id": 57284,
+      "label": "Allsvenskan 2024",
+      "start_year": 2024,
+      "end_year": 2024,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "FINAL"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 18",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30",
+        "Final"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 40,
+      "season_id": 69956,
+      "label": "Allsvenskan 2025",
+      "start_year": 2025,
+      "end_year": 2025,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "FINAL"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 18",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30",
+        "Final"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 40,
       "season_id": 87925,
       "label": "Allsvenskan 2026",
       "start_year": 2026,
       "end_year": 2026,
       "season_format": "CALENDAR",
       "season_status": "CURRENT",
-      "season_status_basis": "DELTA_TEAM_BUILDER_CURRENT_SEASON",
+      "season_status_basis": "SOFASCORE_NEXT_EVENT",
       "phases": [
         "REGULAR"
       ],
       "stages": [
         "Round 16",
-        "Round 17"
+        "Round 17",
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 15",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14"
       ],
       "regions": [
         "Europe"
@@ -2162,6 +3100,276 @@
         "Europe"
       ],
       "competition_type": "LEAGUE"
+    },
+    {
+      "competition_id": 46,
+      "season_id": 35307,
+      "label": "Superettan 2021",
+      "start_year": 2021,
+      "end_year": 2021,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 24",
+        "Round 18",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 46,
+      "season_id": 40408,
+      "label": "Superettan 2022",
+      "start_year": 2022,
+      "end_year": 2022,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "PLAYOFF"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 18",
+        "Round 19",
+        "Round 30",
+        "Qualification round 1",
+        "Round 29"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 46,
+      "season_id": 47762,
+      "label": "Superettan 2023",
+      "start_year": 2023,
+      "end_year": 2023,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "PLAYOFF"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 18",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30",
+        "Qualification round 1"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 46,
+      "season_id": 57444,
+      "label": "Superettan 2024",
+      "start_year": 2024,
+      "end_year": 2024,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "FINAL"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 18",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30",
+        "Final"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 46,
+      "season_id": 70171,
+      "label": "Superettan 2025",
+      "start_year": 2025,
+      "end_year": 2025,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR",
+        "FINAL"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 18",
+        "Round 19",
+        "Round 20",
+        "Round 21",
+        "Round 22",
+        "Round 23",
+        "Round 24",
+        "Round 25",
+        "Round 26",
+        "Round 27",
+        "Round 28",
+        "Round 29",
+        "Round 30",
+        "Final"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 46,
+      "season_id": 87924,
+      "label": "Superettan 2026",
+      "start_year": 2026,
+      "end_year": 2026,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "CURRENT",
+      "season_status_basis": "SOFASCORE_NEXT_EVENT",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17",
+        "Round 18",
+        "Round 19"
+      ],
+      "regions": []
     },
     {
       "competition_id": 47,
@@ -2666,6 +3874,30 @@
       "competition_type": "LEAGUE"
     },
     {
+      "competition_id": 68,
+      "season_id": 40620,
+      "label": "Ettan, Sodra 2022",
+      "start_year": 2022,
+      "end_year": 2022,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 10",
+        "Round 11",
+        "Round 12",
+        "Round 13"
+      ],
+      "regions": []
+    },
+    {
       "competition_id": 76,
       "season_id": 37610,
       "label": "DBU Pokalen 21/22",
@@ -2819,11 +4051,13 @@
         "Svenska Cupen, Group 5",
         "Svenska Cupen, Group 6",
         "Svenska Cupen, Group 7",
-        "Svenska Cupen, Group 8"
+        "Svenska Cupen, Group 8",
+        "Semifinals"
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "CUP"
     },
     {
       "competition_id": 80,
@@ -2849,11 +4083,13 @@
         "Svenska Cupen, Group 5",
         "Svenska Cupen, Group 6",
         "Svenska Cupen, Group 7",
-        "Svenska Cupen, Group 8"
+        "Svenska Cupen, Group 8",
+        "Semifinals"
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "CUP"
     },
     {
       "competition_id": 80,
@@ -2880,11 +4116,13 @@
         "Svenska Cupen, Group 5",
         "Svenska Cupen, Group 6",
         "Svenska Cupen, Group 7",
-        "Svenska Cupen, Group 8"
+        "Svenska Cupen, Group 8",
+        "Semifinals"
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "CUP"
     },
     {
       "competition_id": 80,
@@ -2908,11 +4146,13 @@
         "Svenska Cupen, Group 5",
         "Svenska Cupen, Group 6",
         "Svenska Cupen, Group 7",
-        "Svenska Cupen, Group 8"
+        "Svenska Cupen, Group 8",
+        "Semifinals"
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "CUP"
     },
     {
       "competition_id": 80,
@@ -2938,11 +4178,14 @@
         "Svenska Cupen, Group 5",
         "Svenska Cupen, Group 6",
         "Svenska Cupen, Group 7",
-        "Svenska Cupen, Group 8"
+        "Svenska Cupen, Group 8",
+        "Semifinals",
+        "Round 2"
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "CUP"
     },
     {
       "competition_id": 92,
@@ -9690,7 +10933,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 679,
@@ -9723,7 +10967,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 679,
@@ -9746,11 +10991,21 @@
         "Qualification Round 2",
         "Qualification Round 3",
         "Round 1",
-        "Round of 16"
+        "Round of 16",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Quarterfinals",
+        "Semifinals"
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 679,
@@ -9773,11 +11028,19 @@
         "Qualification Round 2",
         "Qualification Round 3",
         "Round 1",
-        "Round of 16"
+        "Round of 16",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8"
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 679,
@@ -9787,7 +11050,7 @@
       "end_year": 2027,
       "season_format": "NORMAL",
       "season_status": "CURRENT",
-      "season_status_basis": "SOFASCORE_NEXT_EVENT",
+      "season_status_basis": "RECENT_ACTIVITY_GRACE",
       "phases": [
         "PLAYOFF",
         "REGULAR"
@@ -11257,6 +12520,96 @@
       ]
     },
     {
+      "competition_id": 11084,
+      "season_id": 40609,
+      "label": "3rd Division, Group 1, 2022",
+      "start_year": 2022,
+      "end_year": 2022,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "GROUP"
+      ],
+      "stages": [
+        "3rd Division, Group 1"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 11085,
+      "season_id": 40494,
+      "label": "2nd Division 2022, Group 1",
+      "start_year": 2022,
+      "end_year": 2022,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "GROUP"
+      ],
+      "stages": [
+        "2nd Division, Group 1"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 11085,
+      "season_id": 47949,
+      "label": "2nd Division Group 1 2023",
+      "start_year": 2023,
+      "end_year": 2023,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "GROUP"
+      ],
+      "stages": [
+        "2nd Division, Group 1"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 11085,
+      "season_id": 70834,
+      "label": "2nd Division Group 1 2025",
+      "start_year": 2025,
+      "end_year": 2025,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "GROUP"
+      ],
+      "stages": [
+        "2nd Division, Group 1"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 11085,
+      "season_id": 88715,
+      "label": "2nd Division Group 1 2026",
+      "start_year": 2026,
+      "end_year": 2026,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "CURRENT",
+      "season_status_basis": "SOFASCORE_NEXT_EVENT",
+      "phases": [
+        "GROUP"
+      ],
+      "stages": [
+        "2nd Division, Group 1"
+      ],
+      "regions": []
+    },
+    {
       "competition_id": 11415,
       "season_id": 78480,
       "label": "3. Lig, Group 3 25/26",
@@ -11540,6 +12893,56 @@
       "regions": [
         "America"
       ]
+    },
+    {
+      "competition_id": 11617,
+      "season_id": 35653,
+      "label": "Ettan, Relegation/Promotion 2021",
+      "start_year": 2021,
+      "end_year": 2021,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "FINISHED",
+      "season_status_basis": "SOFASCORE_OR_SAFE_DATE",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Regular Season"
+      ],
+      "regions": []
+    },
+    {
+      "competition_id": 11617,
+      "season_id": 89299,
+      "label": "Ettan, Relegation/Promotion 2026",
+      "start_year": 2026,
+      "end_year": 2026,
+      "season_format": "CALENDAR",
+      "competition_type": "LEAGUE",
+      "season_status": "CURRENT",
+      "season_status_basis": "SOFASCORE_NEXT_EVENT",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 5",
+        "Round 6",
+        "Round 7",
+        "Round 8",
+        "Round 9",
+        "Round 11",
+        "Round 12",
+        "Round 13",
+        "Round 14",
+        "Round 15",
+        "Round 16",
+        "Round 17"
+      ],
+      "regions": []
     },
     {
       "competition_id": 11663,
@@ -12482,11 +13885,13 @@
         "UEFA Europa Conference League, Group E",
         "UEFA Europa Conference League, Group F",
         "UEFA Europa Conference League, Group G",
-        "UEFA Europa Conference League, Group H"
+        "UEFA Europa Conference League, Group H",
+        "Quarterfinals"
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 17015,
@@ -12521,7 +13926,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 17015,
@@ -12550,11 +13956,13 @@
         "UEFA Europa Conference League, Group E",
         "UEFA Europa Conference League, Group F",
         "UEFA Europa Conference League, Group G",
-        "UEFA Europa Conference League, Group H"
+        "UEFA Europa Conference League, Group H",
+        "Round of 16"
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 17015,
@@ -12576,11 +13984,19 @@
         "Qualification Round 2",
         "Qualification Round 3",
         "Round 1",
-        "Round of 16"
+        "Round of 16",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6",
+        "Quarterfinals",
+        "Semifinals"
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 17015,
@@ -12601,11 +14017,17 @@
         "Playoff round",
         "Qualification Round 2",
         "Qualification Round 3",
-        "Round 1"
+        "Round 1",
+        "Round 2",
+        "Round 3",
+        "Round 4",
+        "Round 5",
+        "Round 6"
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 17015,

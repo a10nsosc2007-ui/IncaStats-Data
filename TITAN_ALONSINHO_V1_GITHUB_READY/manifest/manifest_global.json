@@ -6,20 +6,21 @@
   "coverage": {
     "start_year": 2021,
     "end_year": 2026,
-    "teams": 743,
+    "teams": 751,
     "regions": {
       "Europe": 597,
-      "America": 146
+      "America": 146,
+      "Unknown": 8
     },
     "countries": 25
   },
   "counts": {
-    "competitions": 153,
-    "competition_seasons": 625,
-    "unique_matches": 78182,
+    "competitions": 160,
+    "competition_seasons": 660,
+    "unique_matches": 83449,
     "cards": 355826,
-    "portal_shards": 625,
-    "portal_rows": 469092
+    "portal_shards": 660,
+    "portal_rows": 500694
   },
   "dedupe": {
     "portal_rows_removed": 185130,
@@ -97,26 +98,22 @@
   "full_data_release": "TITAN_ALONSINHO_V1_FULL_DATA_RELEASE.zip",
   "live_update": {
     "sync_version": "TITAN_SYNC_V2_2_SAFE",
-    "updated_at": "2026-08-18T07:42:05.540165Z",
-    "delta_file": "TITAN_DELTA_V2.2_2026-08-18T07-12-00-000Z_558_eventos_SAFE.zip",
-    "delta_sha256": "e2a328678c6cf0735a50a9f2b32145caf8e1221f7a891856af694559978c1332",
-    "window": {
-      "requested_from": "2026-08-07T07:12:00.000Z",
-      "effective_from": "2026-08-05T07:12:00.000Z",
-      "requested_to": "2026-08-18T07:12:00.000Z",
-      "overlap_hours": 48
-    },
+    "updated_at": "2026-08-18T16:36:44.479642Z",
+    "delta_file": "ACTUALIZAR_GITHUB_SUECIA_NORUEGA_55_SAFE.zip",
+    "delta_sha256": "9c076bde37ea2a6a20e54632212085eafdd4aec1afe2f5d80ae04994c1a79a2a",
+    "window": null,
     "delta_counts": {
-      "unique_events_discovered": 771,
-      "valid_events": 558,
-      "incomplete": 30,
-      "friendlies_excluded": 183,
-      "affected_teams": 515,
-      "requests": 2314
+      "source_unique_events": 5803,
+      "valid_events": 5800,
+      "affected_teams": 55,
+      "team_csv_rows": 58248,
+      "incomplete": 1402,
+      "friendlies_excluded_by_extractor": 2359,
+      "exhibition_events_removed_by_safe_patch": 3
     },
-    "affected_team_files": 515,
-    "inserted_rows": 738,
-    "replaced_rows": 5346,
+    "affected_team_files": 55,
+    "inserted_rows": 54078,
+    "replaced_rows": 4170,
     "note": "cards count remains the original full snapshot unless a future full cards rebuild is run"
   }
 }

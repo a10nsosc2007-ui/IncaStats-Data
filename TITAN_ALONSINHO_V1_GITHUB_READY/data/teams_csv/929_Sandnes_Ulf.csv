@@ -1,0 +1,991 @@
+﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+9475986,22,35404,CALENDAR,REGULAR,Round 1,LEAGUE,929,Sandnes Ulf,Local,ALL,15/05/2021,1,1,54%,,,13,6,11,13,,,6,5,0,6,,7,,,,,,,,,,,23,,,,,,,,,,,,,,,,6,,,,,6
+9475986,22,35404,CALENDAR,REGULAR,Round 1,LEAGUE,929,Sandnes Ulf,Local,1ST,15/05/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475986,22,35404,CALENDAR,REGULAR,Round 1,LEAGUE,929,Sandnes Ulf,Local,2ND,15/05/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475986,22,35404,CALENDAR,REGULAR,Round 1,LEAGUE,667,IK Start,Visita,ALL,15/05/2021,1,2,46%,,,11,5,6,6,,,13,1,0,8,,3,,,,,,,,,,,20,,,,,,,,,,,,,,,,5,,,,,12
+9475986,22,35404,CALENDAR,REGULAR,Round 1,LEAGUE,667,IK Start,Visita,1ST,15/05/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475986,22,35404,CALENDAR,REGULAR,Round 1,LEAGUE,667,IK Start,Visita,2ND,15/05/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476006,22,35404,CALENDAR,REGULAR,Round 2,LEAGUE,687,Fredrikstad FK,Local,ALL,20/05/2021,2,2,45%,,,8,5,5,17,,,14,0,0,4,,4,,,,,,,,,1,,20,,,,,,,,,,,,,,,,5,,,,,11
+9476006,22,35404,CALENDAR,REGULAR,Round 2,LEAGUE,687,Fredrikstad FK,Local,1ST,20/05/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476006,22,35404,CALENDAR,REGULAR,Round 2,LEAGUE,687,Fredrikstad FK,Local,2ND,20/05/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476006,22,35404,CALENDAR,REGULAR,Round 2,LEAGUE,929,Sandnes Ulf,Visita,ALL,20/05/2021,2,1,55%,,,7,2,9,14,,,18,2,0,6,,1,,,,,,,,,0,,18,,,,,,,,,,,,,,,,2,,,,,8
+9476006,22,35404,CALENDAR,REGULAR,Round 2,LEAGUE,929,Sandnes Ulf,Visita,1ST,20/05/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476006,22,35404,CALENDAR,REGULAR,Round 2,LEAGUE,929,Sandnes Ulf,Visita,2ND,20/05/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476053,22,35404,CALENDAR,REGULAR,Round 3,LEAGUE,929,Sandnes Ulf,Local,ALL,26/05/2021,3,2,52%,,,9,1,4,18,,,15,2,0,6,,3,,,,,,,,,,,16,,,,,,,,,,,,,,,,1,,,,,5
+9476053,22,35404,CALENDAR,REGULAR,Round 3,LEAGUE,929,Sandnes Ulf,Local,1ST,26/05/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476053,22,35404,CALENDAR,REGULAR,Round 3,LEAGUE,929,Sandnes Ulf,Local,2ND,26/05/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476053,22,35404,CALENDAR,REGULAR,Round 3,LEAGUE,692,Ullensaker Kisa,Visita,ALL,26/05/2021,3,1,48%,,,3,4,4,15,,,18,3,0,2,,1,,,,,,,,,,,10,,,,,,,,,,,,,,,,4,,,,,15
+9476053,22,35404,CALENDAR,REGULAR,Round 3,LEAGUE,692,Ullensaker Kisa,Visita,1ST,26/05/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476053,22,35404,CALENDAR,REGULAR,Round 3,LEAGUE,692,Ullensaker Kisa,Visita,2ND,26/05/2021,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475920,22,35404,CALENDAR,REGULAR,Round 4,LEAGUE,665,Sogndal IL,Local,ALL,29/05/2021,4,2,53%,,,16,2,12,16,,,14,2,0,5,,11,,,,,,,,,1,,14,,,,,,,,,,,,,,,,2,,,,,11
+9475920,22,35404,CALENDAR,REGULAR,Round 4,LEAGUE,665,Sogndal IL,Local,1ST,29/05/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475920,22,35404,CALENDAR,REGULAR,Round 4,LEAGUE,665,Sogndal IL,Local,2ND,29/05/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475920,22,35404,CALENDAR,REGULAR,Round 4,LEAGUE,929,Sandnes Ulf,Visita,ALL,29/05/2021,4,2,47%,,,9,3,6,13,,,17,3,0,4,,5,,,,,,,,,1,,15,,,,,,,,,,,,,,,,3,,,,,14
+9475920,22,35404,CALENDAR,REGULAR,Round 4,LEAGUE,929,Sandnes Ulf,Visita,1ST,29/05/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475920,22,35404,CALENDAR,REGULAR,Round 4,LEAGUE,929,Sandnes Ulf,Visita,2ND,29/05/2021,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475930,22,35404,CALENDAR,REGULAR,Round 5,LEAGUE,929,Sandnes Ulf,Local,ALL,12/06/2021,5,1,,,,,,9,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475930,22,35404,CALENDAR,REGULAR,Round 5,LEAGUE,929,Sandnes Ulf,Local,1ST,12/06/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475930,22,35404,CALENDAR,REGULAR,Round 5,LEAGUE,929,Sandnes Ulf,Local,2ND,12/06/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475930,22,35404,CALENDAR,REGULAR,Round 5,LEAGUE,668,Raufoss,Visita,ALL,12/06/2021,5,1,,,,,,15,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475930,22,35404,CALENDAR,REGULAR,Round 5,LEAGUE,668,Raufoss,Visita,1ST,12/06/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475930,22,35404,CALENDAR,REGULAR,Round 5,LEAGUE,668,Raufoss,Visita,2ND,12/06/2021,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475963,22,35404,CALENDAR,REGULAR,Round 6,LEAGUE,727,Stjørdals/Blink,Local,ALL,18/06/2021,6,1,,,,,,6,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475963,22,35404,CALENDAR,REGULAR,Round 6,LEAGUE,727,Stjørdals/Blink,Local,1ST,18/06/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475963,22,35404,CALENDAR,REGULAR,Round 6,LEAGUE,727,Stjørdals/Blink,Local,2ND,18/06/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475963,22,35404,CALENDAR,REGULAR,Round 6,LEAGUE,929,Sandnes Ulf,Visita,ALL,18/06/2021,6,2,,,,,,6,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475963,22,35404,CALENDAR,REGULAR,Round 6,LEAGUE,929,Sandnes Ulf,Visita,1ST,18/06/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475963,22,35404,CALENDAR,REGULAR,Round 6,LEAGUE,929,Sandnes Ulf,Visita,2ND,18/06/2021,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475971,22,35404,CALENDAR,REGULAR,Round 7,LEAGUE,682,Åsane,Local,ALL,22/06/2021,7,2,70%,,,10,0,5,11,,,21,0,0,7,,3,,,,,,,,,4,,19,,,,,,,,,,,,,,,,0,,,,,11
+9475971,22,35404,CALENDAR,REGULAR,Round 7,LEAGUE,682,Åsane,Local,1ST,22/06/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475971,22,35404,CALENDAR,REGULAR,Round 7,LEAGUE,682,Åsane,Local,2ND,22/06/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475971,22,35404,CALENDAR,REGULAR,Round 7,LEAGUE,929,Sandnes Ulf,Visita,ALL,22/06/2021,7,2,30%,,,8,5,4,19,,,15,3,0,2,,6,,,,,,,,,2,,15,,,,,,,,,,,,,,,,5,,,,,11
+9475971,22,35404,CALENDAR,REGULAR,Round 7,LEAGUE,929,Sandnes Ulf,Visita,1ST,22/06/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475971,22,35404,CALENDAR,REGULAR,Round 7,LEAGUE,929,Sandnes Ulf,Visita,2ND,22/06/2021,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475980,22,35404,CALENDAR,REGULAR,Round 8,LEAGUE,929,Sandnes Ulf,Local,ALL,27/06/2021,8,0,,,,,,9,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475980,22,35404,CALENDAR,REGULAR,Round 8,LEAGUE,929,Sandnes Ulf,Local,1ST,27/06/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475980,22,35404,CALENDAR,REGULAR,Round 8,LEAGUE,929,Sandnes Ulf,Local,2ND,27/06/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475980,22,35404,CALENDAR,REGULAR,Round 8,LEAGUE,862,FK Jerv,Visita,ALL,27/06/2021,8,2,,,,,,6,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475980,22,35404,CALENDAR,REGULAR,Round 8,LEAGUE,862,FK Jerv,Visita,1ST,27/06/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9475980,22,35404,CALENDAR,REGULAR,Round 8,LEAGUE,862,FK Jerv,Visita,2ND,27/06/2021,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476045,22,35404,CALENDAR,REGULAR,Round 9,LEAGUE,7320,Grorud,Local,ALL,02/07/2021,9,1,,,,,,4,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476045,22,35404,CALENDAR,REGULAR,Round 9,LEAGUE,7320,Grorud,Local,1ST,02/07/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476045,22,35404,CALENDAR,REGULAR,Round 9,LEAGUE,7320,Grorud,Local,2ND,02/07/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476045,22,35404,CALENDAR,REGULAR,Round 9,LEAGUE,929,Sandnes Ulf,Visita,ALL,02/07/2021,9,0,,,,,,10,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476045,22,35404,CALENDAR,REGULAR,Round 9,LEAGUE,929,Sandnes Ulf,Visita,1ST,02/07/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476045,22,35404,CALENDAR,REGULAR,Round 9,LEAGUE,929,Sandnes Ulf,Visita,2ND,02/07/2021,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476036,22,35404,CALENDAR,REGULAR,Round 10,LEAGUE,929,Sandnes Ulf,Local,ALL,05/07/2021,10,0,43%,,,8,3,6,11,,,14,1,0,1,,7,,,,,,,,,2,,21,,,,,,,,,,,,,,,,3,,,,,13
+9476036,22,35404,CALENDAR,REGULAR,Round 10,LEAGUE,929,Sandnes Ulf,Local,1ST,05/07/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476036,22,35404,CALENDAR,REGULAR,Round 10,LEAGUE,929,Sandnes Ulf,Local,2ND,05/07/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476036,22,35404,CALENDAR,REGULAR,Round 10,LEAGUE,677,Aalesunds FK,Visita,ALL,05/07/2021,10,0,57%,,,14,1,14,13,,,13,1,0,3,,11,,,,,,,,,1,,29,,,,,,,,,,,,,,,,1,,,,,12
+9476036,22,35404,CALENDAR,REGULAR,Round 10,LEAGUE,677,Aalesunds FK,Visita,1ST,05/07/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476036,22,35404,CALENDAR,REGULAR,Round 10,LEAGUE,677,Aalesunds FK,Visita,2ND,05/07/2021,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476085,22,35404,CALENDAR,REGULAR,Round 11,LEAGUE,708,Ranheim IL,Local,ALL,12/07/2021,11,4,60%,,,12,4,8,16,,,18,2,0,8,,4,,,,,,,,,1,,16,,,,,,,,,,,,,,,,4,,,,,8
+9476085,22,35404,CALENDAR,REGULAR,Round 11,LEAGUE,708,Ranheim IL,Local,1ST,12/07/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476085,22,35404,CALENDAR,REGULAR,Round 11,LEAGUE,708,Ranheim IL,Local,2ND,12/07/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476085,22,35404,CALENDAR,REGULAR,Round 11,LEAGUE,929,Sandnes Ulf,Visita,ALL,12/07/2021,11,0,40%,,,6,4,3,18,,,17,4,0,4,,2,,,,,,,,,0,,25,,,,,,,,,,,,,,,,4,,,,,9
+9476085,22,35404,CALENDAR,REGULAR,Round 11,LEAGUE,929,Sandnes Ulf,Visita,1ST,12/07/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476085,22,35404,CALENDAR,REGULAR,Round 11,LEAGUE,929,Sandnes Ulf,Visita,2ND,12/07/2021,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476092,22,35404,CALENDAR,REGULAR,Round 12,LEAGUE,929,Sandnes Ulf,Local,ALL,17/07/2021,12,1,,,,,,7,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476092,22,35404,CALENDAR,REGULAR,Round 12,LEAGUE,929,Sandnes Ulf,Local,1ST,17/07/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476092,22,35404,CALENDAR,REGULAR,Round 12,LEAGUE,929,Sandnes Ulf,Local,2ND,17/07/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476092,22,35404,CALENDAR,REGULAR,Round 12,LEAGUE,666,HamKam,Visita,ALL,17/07/2021,12,2,,,,,,4,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476092,22,35404,CALENDAR,REGULAR,Round 12,LEAGUE,666,HamKam,Visita,1ST,17/07/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476092,22,35404,CALENDAR,REGULAR,Round 12,LEAGUE,666,HamKam,Visita,2ND,17/07/2021,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476138,22,35404,CALENDAR,REGULAR,Round 13,LEAGUE,663,Bryne FK,Local,ALL,21/07/2021,13,0,,,,,,12,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476138,22,35404,CALENDAR,REGULAR,Round 13,LEAGUE,663,Bryne FK,Local,1ST,21/07/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476138,22,35404,CALENDAR,REGULAR,Round 13,LEAGUE,663,Bryne FK,Local,2ND,21/07/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476138,22,35404,CALENDAR,REGULAR,Round 13,LEAGUE,929,Sandnes Ulf,Visita,ALL,21/07/2021,13,1,,,,,,1,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476138,22,35404,CALENDAR,REGULAR,Round 13,LEAGUE,929,Sandnes Ulf,Visita,1ST,21/07/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476138,22,35404,CALENDAR,REGULAR,Round 13,LEAGUE,929,Sandnes Ulf,Visita,2ND,21/07/2021,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476139,22,35404,CALENDAR,REGULAR,Round 14,LEAGUE,929,Sandnes Ulf,Local,ALL,18/08/2021,14,3,,,,,,9,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476139,22,35404,CALENDAR,REGULAR,Round 14,LEAGUE,929,Sandnes Ulf,Local,1ST,18/08/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476139,22,35404,CALENDAR,REGULAR,Round 14,LEAGUE,929,Sandnes Ulf,Local,2ND,18/08/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476139,22,35404,CALENDAR,REGULAR,Round 14,LEAGUE,885,Strømmen IF,Visita,ALL,18/08/2021,14,2,,,,,,3,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476139,22,35404,CALENDAR,REGULAR,Round 14,LEAGUE,885,Strømmen IF,Visita,1ST,18/08/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476139,22,35404,CALENDAR,REGULAR,Round 14,LEAGUE,885,Strømmen IF,Visita,2ND,18/08/2021,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476113,22,35404,CALENDAR,REGULAR,Round 15,LEAGUE,786,KFUM Oslo,Local,ALL,23/08/2021,15,1,,,,,,9,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476113,22,35404,CALENDAR,REGULAR,Round 15,LEAGUE,786,KFUM Oslo,Local,1ST,23/08/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476113,22,35404,CALENDAR,REGULAR,Round 15,LEAGUE,786,KFUM Oslo,Local,2ND,23/08/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476113,22,35404,CALENDAR,REGULAR,Round 15,LEAGUE,929,Sandnes Ulf,Visita,ALL,23/08/2021,15,1,,,,,,5,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476113,22,35404,CALENDAR,REGULAR,Round 15,LEAGUE,929,Sandnes Ulf,Visita,1ST,23/08/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476113,22,35404,CALENDAR,REGULAR,Round 15,LEAGUE,929,Sandnes Ulf,Visita,2ND,23/08/2021,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476126,22,35404,CALENDAR,REGULAR,Round 16,LEAGUE,929,Sandnes Ulf,Local,ALL,28/08/2021,16,2,,,,,,7,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476126,22,35404,CALENDAR,REGULAR,Round 16,LEAGUE,929,Sandnes Ulf,Local,1ST,28/08/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476126,22,35404,CALENDAR,REGULAR,Round 16,LEAGUE,929,Sandnes Ulf,Local,2ND,28/08/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476126,22,35404,CALENDAR,REGULAR,Round 16,LEAGUE,7320,Grorud,Visita,ALL,28/08/2021,16,3,,,,,,3,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476126,22,35404,CALENDAR,REGULAR,Round 16,LEAGUE,7320,Grorud,Visita,1ST,28/08/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476126,22,35404,CALENDAR,REGULAR,Round 16,LEAGUE,7320,Grorud,Visita,2ND,28/08/2021,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476116,22,35404,CALENDAR,REGULAR,Round 17,LEAGUE,668,Raufoss,Local,ALL,11/09/2021,17,1,,,,,,4,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476116,22,35404,CALENDAR,REGULAR,Round 17,LEAGUE,668,Raufoss,Local,1ST,11/09/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476116,22,35404,CALENDAR,REGULAR,Round 17,LEAGUE,668,Raufoss,Local,2ND,11/09/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476116,22,35404,CALENDAR,REGULAR,Round 17,LEAGUE,929,Sandnes Ulf,Visita,ALL,11/09/2021,17,0,,,,,,5,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476116,22,35404,CALENDAR,REGULAR,Round 17,LEAGUE,929,Sandnes Ulf,Visita,1ST,11/09/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476116,22,35404,CALENDAR,REGULAR,Round 17,LEAGUE,929,Sandnes Ulf,Visita,2ND,11/09/2021,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476154,22,35404,CALENDAR,REGULAR,Round 18,LEAGUE,929,Sandnes Ulf,Local,ALL,15/09/2021,18,5,,,,,,2,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476154,22,35404,CALENDAR,REGULAR,Round 18,LEAGUE,929,Sandnes Ulf,Local,1ST,15/09/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476154,22,35404,CALENDAR,REGULAR,Round 18,LEAGUE,929,Sandnes Ulf,Local,2ND,15/09/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476154,22,35404,CALENDAR,REGULAR,Round 18,LEAGUE,708,Ranheim IL,Visita,ALL,15/09/2021,18,4,,,,,,3,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476154,22,35404,CALENDAR,REGULAR,Round 18,LEAGUE,708,Ranheim IL,Visita,1ST,15/09/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9476154,22,35404,CALENDAR,REGULAR,Round 18,LEAGUE,708,Ranheim IL,Visita,2ND,15/09/2021,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477236,22,35404,CALENDAR,REGULAR,Round 19,LEAGUE,862,FK Jerv,Local,ALL,18/09/2021,19,1,,,,,,4,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477236,22,35404,CALENDAR,REGULAR,Round 19,LEAGUE,862,FK Jerv,Local,1ST,18/09/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477236,22,35404,CALENDAR,REGULAR,Round 19,LEAGUE,862,FK Jerv,Local,2ND,18/09/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477236,22,35404,CALENDAR,REGULAR,Round 19,LEAGUE,929,Sandnes Ulf,Visita,ALL,18/09/2021,19,0,,,,,,6,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477236,22,35404,CALENDAR,REGULAR,Round 19,LEAGUE,929,Sandnes Ulf,Visita,1ST,18/09/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477236,22,35404,CALENDAR,REGULAR,Round 19,LEAGUE,929,Sandnes Ulf,Visita,2ND,18/09/2021,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477237,22,35404,CALENDAR,REGULAR,Round 20,LEAGUE,929,Sandnes Ulf,Local,ALL,25/09/2021,20,2,,,,,,5,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477237,22,35404,CALENDAR,REGULAR,Round 20,LEAGUE,929,Sandnes Ulf,Local,1ST,25/09/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477237,22,35404,CALENDAR,REGULAR,Round 20,LEAGUE,929,Sandnes Ulf,Local,2ND,25/09/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477237,22,35404,CALENDAR,REGULAR,Round 20,LEAGUE,727,Stjørdals/Blink,Visita,ALL,25/09/2021,20,1,,,,,,3,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477237,22,35404,CALENDAR,REGULAR,Round 20,LEAGUE,727,Stjørdals/Blink,Visita,1ST,25/09/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477237,22,35404,CALENDAR,REGULAR,Round 20,LEAGUE,727,Stjørdals/Blink,Visita,2ND,25/09/2021,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477245,22,35404,CALENDAR,REGULAR,Round 21,LEAGUE,666,HamKam,Local,ALL,29/09/2021,21,3,59%,,,6,0,3,6,,,6,0,0,4,,2,,,,,,,,,,,7,,,,,,,,,,,,,,,,0,,,,,7
+9477245,22,35404,CALENDAR,REGULAR,Round 21,LEAGUE,666,HamKam,Local,1ST,29/09/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477245,22,35404,CALENDAR,REGULAR,Round 21,LEAGUE,666,HamKam,Local,2ND,29/09/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477245,22,35404,CALENDAR,REGULAR,Round 21,LEAGUE,929,Sandnes Ulf,Visita,ALL,29/09/2021,21,1,41%,,,1,1,3,6,,,6,3,0,1,,0,,,,,,,,,,,6,,,,,,,,,,,,,,,,1,,,,,9
+9477245,22,35404,CALENDAR,REGULAR,Round 21,LEAGUE,929,Sandnes Ulf,Visita,1ST,29/09/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477245,22,35404,CALENDAR,REGULAR,Round 21,LEAGUE,929,Sandnes Ulf,Visita,2ND,29/09/2021,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477268,22,35404,CALENDAR,REGULAR,Round 22,LEAGUE,929,Sandnes Ulf,Local,ALL,02/10/2021,22,2,,,,,,1,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477268,22,35404,CALENDAR,REGULAR,Round 22,LEAGUE,929,Sandnes Ulf,Local,1ST,02/10/2021,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477268,22,35404,CALENDAR,REGULAR,Round 22,LEAGUE,929,Sandnes Ulf,Local,2ND,02/10/2021,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477268,22,35404,CALENDAR,REGULAR,Round 22,LEAGUE,663,Bryne FK,Visita,ALL,02/10/2021,22,0,,,,,,9,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477268,22,35404,CALENDAR,REGULAR,Round 22,LEAGUE,663,Bryne FK,Visita,1ST,02/10/2021,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477268,22,35404,CALENDAR,REGULAR,Round 22,LEAGUE,663,Bryne FK,Visita,2ND,02/10/2021,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477257,22,35404,CALENDAR,REGULAR,Round 23,LEAGUE,885,Strømmen IF,Local,ALL,16/10/2021,23,2,,,,,,11,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477257,22,35404,CALENDAR,REGULAR,Round 23,LEAGUE,885,Strømmen IF,Local,1ST,16/10/2021,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477257,22,35404,CALENDAR,REGULAR,Round 23,LEAGUE,885,Strømmen IF,Local,2ND,16/10/2021,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477257,22,35404,CALENDAR,REGULAR,Round 23,LEAGUE,929,Sandnes Ulf,Visita,ALL,16/10/2021,23,2,,,,,,1,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477257,22,35404,CALENDAR,REGULAR,Round 23,LEAGUE,929,Sandnes Ulf,Visita,1ST,16/10/2021,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477257,22,35404,CALENDAR,REGULAR,Round 23,LEAGUE,929,Sandnes Ulf,Visita,2ND,16/10/2021,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477274,22,35404,CALENDAR,REGULAR,Round 24,LEAGUE,929,Sandnes Ulf,Local,ALL,20/10/2021,24,3,,,,,,3,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477274,22,35404,CALENDAR,REGULAR,Round 24,LEAGUE,929,Sandnes Ulf,Local,1ST,20/10/2021,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477274,22,35404,CALENDAR,REGULAR,Round 24,LEAGUE,929,Sandnes Ulf,Local,2ND,20/10/2021,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477274,22,35404,CALENDAR,REGULAR,Round 24,LEAGUE,682,Åsane,Visita,ALL,20/10/2021,24,2,,,,,,8,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477274,22,35404,CALENDAR,REGULAR,Round 24,LEAGUE,682,Åsane,Visita,1ST,20/10/2021,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477274,22,35404,CALENDAR,REGULAR,Round 24,LEAGUE,682,Åsane,Visita,2ND,20/10/2021,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477279,22,35404,CALENDAR,REGULAR,Round 25,LEAGUE,677,Aalesunds FK,Local,ALL,24/10/2021,25,2,,,,,,7,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477279,22,35404,CALENDAR,REGULAR,Round 25,LEAGUE,677,Aalesunds FK,Local,1ST,24/10/2021,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477279,22,35404,CALENDAR,REGULAR,Round 25,LEAGUE,677,Aalesunds FK,Local,2ND,24/10/2021,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477279,22,35404,CALENDAR,REGULAR,Round 25,LEAGUE,929,Sandnes Ulf,Visita,ALL,24/10/2021,25,2,,,,,,0,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477279,22,35404,CALENDAR,REGULAR,Round 25,LEAGUE,929,Sandnes Ulf,Visita,1ST,24/10/2021,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477279,22,35404,CALENDAR,REGULAR,Round 25,LEAGUE,929,Sandnes Ulf,Visita,2ND,24/10/2021,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477302,22,35404,CALENDAR,REGULAR,Round 26,LEAGUE,929,Sandnes Ulf,Local,ALL,29/10/2021,26,0,,,,,,5,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477302,22,35404,CALENDAR,REGULAR,Round 26,LEAGUE,929,Sandnes Ulf,Local,1ST,29/10/2021,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477302,22,35404,CALENDAR,REGULAR,Round 26,LEAGUE,929,Sandnes Ulf,Local,2ND,29/10/2021,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477302,22,35404,CALENDAR,REGULAR,Round 26,LEAGUE,665,Sogndal IL,Visita,ALL,29/10/2021,26,2,,,,,,7,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477302,22,35404,CALENDAR,REGULAR,Round 26,LEAGUE,665,Sogndal IL,Visita,1ST,29/10/2021,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477302,22,35404,CALENDAR,REGULAR,Round 26,LEAGUE,665,Sogndal IL,Visita,2ND,29/10/2021,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477293,22,35404,CALENDAR,REGULAR,Round 27,LEAGUE,929,Sandnes Ulf,Local,ALL,01/11/2021,27,2,,,,,,6,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477293,22,35404,CALENDAR,REGULAR,Round 27,LEAGUE,929,Sandnes Ulf,Local,1ST,01/11/2021,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477293,22,35404,CALENDAR,REGULAR,Round 27,LEAGUE,929,Sandnes Ulf,Local,2ND,01/11/2021,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477293,22,35404,CALENDAR,REGULAR,Round 27,LEAGUE,687,Fredrikstad FK,Visita,ALL,01/11/2021,27,1,,,,,,4,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477293,22,35404,CALENDAR,REGULAR,Round 27,LEAGUE,687,Fredrikstad FK,Visita,1ST,01/11/2021,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477293,22,35404,CALENDAR,REGULAR,Round 27,LEAGUE,687,Fredrikstad FK,Visita,2ND,01/11/2021,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477316,22,35404,CALENDAR,REGULAR,Round 28,LEAGUE,692,Ullensaker Kisa,Local,ALL,06/11/2021,28,1,,,,,,2,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477316,22,35404,CALENDAR,REGULAR,Round 28,LEAGUE,692,Ullensaker Kisa,Local,1ST,06/11/2021,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477316,22,35404,CALENDAR,REGULAR,Round 28,LEAGUE,692,Ullensaker Kisa,Local,2ND,06/11/2021,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477316,22,35404,CALENDAR,REGULAR,Round 28,LEAGUE,929,Sandnes Ulf,Visita,ALL,06/11/2021,28,2,,,,,,5,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477316,22,35404,CALENDAR,REGULAR,Round 28,LEAGUE,929,Sandnes Ulf,Visita,1ST,06/11/2021,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477316,22,35404,CALENDAR,REGULAR,Round 28,LEAGUE,929,Sandnes Ulf,Visita,2ND,06/11/2021,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477322,22,35404,CALENDAR,REGULAR,Round 30,LEAGUE,667,IK Start,Local,ALL,27/11/2021,30,2,,,,,,10,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477322,22,35404,CALENDAR,REGULAR,Round 30,LEAGUE,667,IK Start,Local,1ST,27/11/2021,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477322,22,35404,CALENDAR,REGULAR,Round 30,LEAGUE,667,IK Start,Local,2ND,27/11/2021,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477322,22,35404,CALENDAR,REGULAR,Round 30,LEAGUE,929,Sandnes Ulf,Visita,ALL,27/11/2021,30,2,,,,,,7,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477322,22,35404,CALENDAR,REGULAR,Round 30,LEAGUE,929,Sandnes Ulf,Visita,1ST,27/11/2021,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9477322,22,35404,CALENDAR,REGULAR,Round 30,LEAGUE,929,Sandnes Ulf,Visita,2ND,27/11/2021,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10212442,22,40407,CALENDAR,REGULAR,Round 1,LEAGUE,929,Sandnes Ulf,Local,ALL,02/04/2022,1,2,,,,,,2,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10212442,22,40407,CALENDAR,REGULAR,Round 1,LEAGUE,929,Sandnes Ulf,Local,1ST,02/04/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10212442,22,40407,CALENDAR,REGULAR,Round 1,LEAGUE,929,Sandnes Ulf,Local,2ND,02/04/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10212442,22,40407,CALENDAR,REGULAR,Round 1,LEAGUE,663,Bryne FK,Visita,ALL,02/04/2022,1,1,,,,,,6,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10212442,22,40407,CALENDAR,REGULAR,Round 1,LEAGUE,663,Bryne FK,Visita,1ST,02/04/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10212442,22,40407,CALENDAR,REGULAR,Round 1,LEAGUE,663,Bryne FK,Visita,2ND,02/04/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074527,22,40407,CALENDAR,REGULAR,Round 2,LEAGUE,727,Stjørdals/Blink,Local,ALL,11/04/2022,2,1,,,,,,8,,,,,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074527,22,40407,CALENDAR,REGULAR,Round 2,LEAGUE,727,Stjørdals/Blink,Local,1ST,11/04/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074527,22,40407,CALENDAR,REGULAR,Round 2,LEAGUE,727,Stjørdals/Blink,Local,2ND,11/04/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074527,22,40407,CALENDAR,REGULAR,Round 2,LEAGUE,929,Sandnes Ulf,Visita,ALL,11/04/2022,2,2,,,,,,8,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074527,22,40407,CALENDAR,REGULAR,Round 2,LEAGUE,929,Sandnes Ulf,Visita,1ST,11/04/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074527,22,40407,CALENDAR,REGULAR,Round 2,LEAGUE,929,Sandnes Ulf,Visita,2ND,11/04/2022,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074559,22,40407,CALENDAR,REGULAR,Round 3,LEAGUE,929,Sandnes Ulf,Local,ALL,19/04/2022,3,4,,,,,,2,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074559,22,40407,CALENDAR,REGULAR,Round 3,LEAGUE,929,Sandnes Ulf,Local,1ST,19/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074559,22,40407,CALENDAR,REGULAR,Round 3,LEAGUE,929,Sandnes Ulf,Local,2ND,19/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074559,22,40407,CALENDAR,REGULAR,Round 3,LEAGUE,672,Kongsvinger,Visita,ALL,19/04/2022,3,1,,,,,,2,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074559,22,40407,CALENDAR,REGULAR,Round 3,LEAGUE,672,Kongsvinger,Visita,1ST,19/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074559,22,40407,CALENDAR,REGULAR,Round 3,LEAGUE,672,Kongsvinger,Visita,2ND,19/04/2022,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074547,22,40407,CALENDAR,REGULAR,Round 4,LEAGUE,1162,Stabæk Fotball,Local,ALL,25/04/2022,4,0,,,,,,5,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074547,22,40407,CALENDAR,REGULAR,Round 4,LEAGUE,1162,Stabæk Fotball,Local,1ST,25/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074547,22,40407,CALENDAR,REGULAR,Round 4,LEAGUE,1162,Stabæk Fotball,Local,2ND,25/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074547,22,40407,CALENDAR,REGULAR,Round 4,LEAGUE,929,Sandnes Ulf,Visita,ALL,25/04/2022,4,1,,,,,,1,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074547,22,40407,CALENDAR,REGULAR,Round 4,LEAGUE,929,Sandnes Ulf,Visita,1ST,25/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074547,22,40407,CALENDAR,REGULAR,Round 4,LEAGUE,929,Sandnes Ulf,Visita,2ND,25/04/2022,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074552,22,40407,CALENDAR,REGULAR,Round 5,LEAGUE,929,Sandnes Ulf,Local,ALL,09/05/2022,5,0,,,,,,10,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074552,22,40407,CALENDAR,REGULAR,Round 5,LEAGUE,929,Sandnes Ulf,Local,1ST,09/05/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074552,22,40407,CALENDAR,REGULAR,Round 5,LEAGUE,929,Sandnes Ulf,Local,2ND,09/05/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074552,22,40407,CALENDAR,REGULAR,Round 5,LEAGUE,687,Fredrikstad FK,Visita,ALL,09/05/2022,5,4,,,,,,2,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074552,22,40407,CALENDAR,REGULAR,Round 5,LEAGUE,687,Fredrikstad FK,Visita,1ST,09/05/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074552,22,40407,CALENDAR,REGULAR,Round 5,LEAGUE,687,Fredrikstad FK,Visita,2ND,09/05/2022,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074511,22,40407,CALENDAR,REGULAR,Round 6,LEAGUE,1159,SK Brann,Local,ALL,16/05/2022,6,3,,,,,,11,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074511,22,40407,CALENDAR,REGULAR,Round 6,LEAGUE,1159,SK Brann,Local,1ST,16/05/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074511,22,40407,CALENDAR,REGULAR,Round 6,LEAGUE,1159,SK Brann,Local,2ND,16/05/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074511,22,40407,CALENDAR,REGULAR,Round 6,LEAGUE,929,Sandnes Ulf,Visita,ALL,16/05/2022,6,0,,,,,,4,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074511,22,40407,CALENDAR,REGULAR,Round 6,LEAGUE,929,Sandnes Ulf,Visita,1ST,16/05/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074511,22,40407,CALENDAR,REGULAR,Round 6,LEAGUE,929,Sandnes Ulf,Visita,2ND,16/05/2022,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074535,22,40407,CALENDAR,REGULAR,Round 7,LEAGUE,929,Sandnes Ulf,Local,ALL,23/05/2022,7,0,42%,,,14,0,9,14,,,13,2,0,6,,7,1,,,,,,,,0,,17,,,,,,,,,,,,,,,,0,,,,,3
+10074535,22,40407,CALENDAR,REGULAR,Round 7,LEAGUE,929,Sandnes Ulf,Local,1ST,23/05/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074535,22,40407,CALENDAR,REGULAR,Round 7,LEAGUE,929,Sandnes Ulf,Local,2ND,23/05/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074535,22,40407,CALENDAR,REGULAR,Round 7,LEAGUE,903,Mjøndalen IF,Visita,ALL,23/05/2022,7,2,58%,,,7,6,1,12,,,14,2,0,2,,4,1,,,,,,,,1,,17,,,,,,,,,,,,,,,,6,,,,,13
+10074535,22,40407,CALENDAR,REGULAR,Round 7,LEAGUE,903,Mjøndalen IF,Visita,1ST,23/05/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074535,22,40407,CALENDAR,REGULAR,Round 7,LEAGUE,903,Mjøndalen IF,Visita,2ND,23/05/2022,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074533,22,40407,CALENDAR,REGULAR,Round 8,LEAGUE,679,Skeid,Local,ALL,26/05/2022,8,0,,,,,,2,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074533,22,40407,CALENDAR,REGULAR,Round 8,LEAGUE,679,Skeid,Local,1ST,26/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074533,22,40407,CALENDAR,REGULAR,Round 8,LEAGUE,679,Skeid,Local,2ND,26/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074533,22,40407,CALENDAR,REGULAR,Round 8,LEAGUE,929,Sandnes Ulf,Visita,ALL,26/05/2022,8,1,,,,,,6,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074533,22,40407,CALENDAR,REGULAR,Round 8,LEAGUE,929,Sandnes Ulf,Visita,1ST,26/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074533,22,40407,CALENDAR,REGULAR,Round 8,LEAGUE,929,Sandnes Ulf,Visita,2ND,26/05/2022,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074520,22,40407,CALENDAR,REGULAR,Round 9,LEAGUE,665,Sogndal IL,Local,ALL,29/05/2022,9,1,,,,,,5,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074520,22,40407,CALENDAR,REGULAR,Round 9,LEAGUE,665,Sogndal IL,Local,1ST,29/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074520,22,40407,CALENDAR,REGULAR,Round 9,LEAGUE,665,Sogndal IL,Local,2ND,29/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074520,22,40407,CALENDAR,REGULAR,Round 9,LEAGUE,929,Sandnes Ulf,Visita,ALL,29/05/2022,9,2,,,,,,3,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074520,22,40407,CALENDAR,REGULAR,Round 9,LEAGUE,929,Sandnes Ulf,Visita,1ST,29/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074520,22,40407,CALENDAR,REGULAR,Round 9,LEAGUE,929,Sandnes Ulf,Visita,2ND,29/05/2022,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074656,22,40407,CALENDAR,REGULAR,Round 10,LEAGUE,929,Sandnes Ulf,Local,ALL,20/06/2022,10,2,,,,15,4,8,12,,,14,3,0,7,,5,3,,,,,,,,0,,20,,,,,,,,,,,,,,,,4,,,,,6
+10074656,22,40407,CALENDAR,REGULAR,Round 10,LEAGUE,929,Sandnes Ulf,Local,1ST,20/06/2022,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074656,22,40407,CALENDAR,REGULAR,Round 10,LEAGUE,929,Sandnes Ulf,Local,2ND,20/06/2022,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074656,22,40407,CALENDAR,REGULAR,Round 10,LEAGUE,786,KFUM Oslo,Visita,ALL,20/06/2022,10,2,,,,10,5,5,12,,,12,1,0,6,,2,2,,,,,,,,2,,16,,,,,,,,,,,,,,,,5,,,,,10
+10074656,22,40407,CALENDAR,REGULAR,Round 10,LEAGUE,786,KFUM Oslo,Visita,1ST,20/06/2022,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074656,22,40407,CALENDAR,REGULAR,Round 10,LEAGUE,786,KFUM Oslo,Visita,2ND,20/06/2022,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074636,22,40407,CALENDAR,REGULAR,Round 11,LEAGUE,682,Åsane,Local,ALL,27/06/2022,11,2,51%,,,13,7,5,13,,,13,0,0,6,,6,1,,,,,,,,1,,16,,,,,,,,,,,,,,,,7,,,,,10
+10074636,22,40407,CALENDAR,REGULAR,Round 11,LEAGUE,682,Åsane,Local,1ST,27/06/2022,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074636,22,40407,CALENDAR,REGULAR,Round 11,LEAGUE,682,Åsane,Local,2ND,27/06/2022,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074636,22,40407,CALENDAR,REGULAR,Round 11,LEAGUE,929,Sandnes Ulf,Visita,ALL,27/06/2022,11,1,49%,,,15,4,5,13,,,14,1,0,8,,3,4,,,,,,,,0,,14,,,,,,,,,,,,,,,,4,,,,,11
+10074636,22,40407,CALENDAR,REGULAR,Round 11,LEAGUE,929,Sandnes Ulf,Visita,1ST,27/06/2022,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074636,22,40407,CALENDAR,REGULAR,Round 11,LEAGUE,929,Sandnes Ulf,Visita,2ND,27/06/2022,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074609,22,40407,CALENDAR,REGULAR,Round 12,LEAGUE,929,Sandnes Ulf,Local,ALL,04/07/2022,12,1,,,,,,11,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074609,22,40407,CALENDAR,REGULAR,Round 12,LEAGUE,929,Sandnes Ulf,Local,1ST,04/07/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074609,22,40407,CALENDAR,REGULAR,Round 12,LEAGUE,929,Sandnes Ulf,Local,2ND,04/07/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074609,22,40407,CALENDAR,REGULAR,Round 12,LEAGUE,668,Raufoss,Visita,ALL,04/07/2022,12,4,,,,,,6,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074609,22,40407,CALENDAR,REGULAR,Round 12,LEAGUE,668,Raufoss,Visita,1ST,04/07/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074609,22,40407,CALENDAR,REGULAR,Round 12,LEAGUE,668,Raufoss,Visita,2ND,04/07/2022,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074452,22,40407,CALENDAR,REGULAR,Round 13,LEAGUE,7320,Grorud,Local,ALL,07/07/2022,13,1,,,,15,1,6,11,,,10,1,0,5,,7,3,,,,,,,,,,23,,,,,,,,,,,,,,,,1,,,,,12
+10074452,22,40407,CALENDAR,REGULAR,Round 13,LEAGUE,7320,Grorud,Local,1ST,07/07/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074452,22,40407,CALENDAR,REGULAR,Round 13,LEAGUE,7320,Grorud,Local,2ND,07/07/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074452,22,40407,CALENDAR,REGULAR,Round 13,LEAGUE,929,Sandnes Ulf,Visita,ALL,07/07/2022,13,3,,,,12,4,6,10,,,11,2,0,4,,6,2,,,,,,,,,,15,,,,,,,,,,,,,,,,4,,,,,9
+10074452,22,40407,CALENDAR,REGULAR,Round 13,LEAGUE,929,Sandnes Ulf,Visita,1ST,07/07/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074452,22,40407,CALENDAR,REGULAR,Round 13,LEAGUE,929,Sandnes Ulf,Visita,2ND,07/07/2022,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074626,22,40407,CALENDAR,REGULAR,Round 14,LEAGUE,929,Sandnes Ulf,Local,ALL,10/07/2022,14,3,,,,,,6,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074626,22,40407,CALENDAR,REGULAR,Round 14,LEAGUE,929,Sandnes Ulf,Local,1ST,10/07/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074626,22,40407,CALENDAR,REGULAR,Round 14,LEAGUE,929,Sandnes Ulf,Local,2ND,10/07/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074626,22,40407,CALENDAR,REGULAR,Round 14,LEAGUE,708,Ranheim IL,Visita,ALL,10/07/2022,14,2,,,,,,12,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074626,22,40407,CALENDAR,REGULAR,Round 14,LEAGUE,708,Ranheim IL,Visita,1ST,10/07/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074626,22,40407,CALENDAR,REGULAR,Round 14,LEAGUE,708,Ranheim IL,Visita,2ND,10/07/2022,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074603,22,40407,CALENDAR,REGULAR,Round 15,LEAGUE,667,IK Start,Local,ALL,18/07/2022,15,1,,,,17,1,4,11,,,6,1,0,4,,9,4,,,,,,,,3,,19,,,,,,,,,,,,,,,,1,,,,,12
+10074603,22,40407,CALENDAR,REGULAR,Round 15,LEAGUE,667,IK Start,Local,1ST,18/07/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074603,22,40407,CALENDAR,REGULAR,Round 15,LEAGUE,667,IK Start,Local,2ND,18/07/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074603,22,40407,CALENDAR,REGULAR,Round 15,LEAGUE,929,Sandnes Ulf,Visita,ALL,18/07/2022,15,2,,,,12,3,3,6,,,14,1,0,3,,8,1,,,,,,,,0,,14,,,,,,,,,,,,,,,,3,,,,,11
+10074603,22,40407,CALENDAR,REGULAR,Round 15,LEAGUE,929,Sandnes Ulf,Visita,1ST,18/07/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074603,22,40407,CALENDAR,REGULAR,Round 15,LEAGUE,929,Sandnes Ulf,Visita,2ND,18/07/2022,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074572,22,40407,CALENDAR,REGULAR,Round 16,LEAGUE,929,Sandnes Ulf,Local,ALL,25/07/2022,16,6,,,,13,0,2,11,,,11,0,0,8,,4,1,,,,,,,,3,,14,,,,,,,,,,,,,,,,0,,,,,6
+10074572,22,40407,CALENDAR,REGULAR,Round 16,LEAGUE,929,Sandnes Ulf,Local,1ST,25/07/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074572,22,40407,CALENDAR,REGULAR,Round 16,LEAGUE,929,Sandnes Ulf,Local,2ND,25/07/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074572,22,40407,CALENDAR,REGULAR,Round 16,LEAGUE,682,Åsane,Visita,ALL,25/07/2022,16,0,,,,3,2,6,7,,,14,1,0,0,,1,2,,,,,,,,4,,14,,,,,,,,,,,,,,,,2,,,,,8
+10074572,22,40407,CALENDAR,REGULAR,Round 16,LEAGUE,682,Åsane,Visita,1ST,25/07/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074572,22,40407,CALENDAR,REGULAR,Round 16,LEAGUE,682,Åsane,Visita,2ND,25/07/2022,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074575,22,40407,CALENDAR,REGULAR,Round 17,LEAGUE,668,Raufoss,Local,ALL,31/07/2022,17,1,43%,,,10,5,7,6,,,14,2,1,3,,5,2,,,,,,,,0,,27,,,,,,,,,,,,,,,,5,,,,,13
+10074575,22,40407,CALENDAR,REGULAR,Round 17,LEAGUE,668,Raufoss,Local,1ST,31/07/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074575,22,40407,CALENDAR,REGULAR,Round 17,LEAGUE,668,Raufoss,Local,2ND,31/07/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074575,22,40407,CALENDAR,REGULAR,Round 17,LEAGUE,929,Sandnes Ulf,Visita,ALL,31/07/2022,17,1,57%,,,14,3,10,12,,,6,2,1,5,,6,3,,,,,,,,2,,28,,,,,,,,,,,,,,,,3,,,,,12
+10074575,22,40407,CALENDAR,REGULAR,Round 17,LEAGUE,929,Sandnes Ulf,Visita,1ST,31/07/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074575,22,40407,CALENDAR,REGULAR,Round 17,LEAGUE,929,Sandnes Ulf,Visita,2ND,31/07/2022,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074711,22,40407,CALENDAR,REGULAR,Round 18,LEAGUE,929,Sandnes Ulf,Local,ALL,04/08/2022,18,6,55%,,,18,0,9,15,,,6,3,0,8,,4,6,,,,,,,,0,,20,,,,,,,,,,,,,,,,0,,,,,8
+10074711,22,40407,CALENDAR,REGULAR,Round 18,LEAGUE,929,Sandnes Ulf,Local,1ST,04/08/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074711,22,40407,CALENDAR,REGULAR,Round 18,LEAGUE,929,Sandnes Ulf,Local,2ND,04/08/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074711,22,40407,CALENDAR,REGULAR,Round 18,LEAGUE,665,Sogndal IL,Visita,ALL,04/08/2022,18,0,45%,,,3,3,4,4,,,15,1,0,0,,1,2,,,,,,,,2,,19,,,,,,,,,,,,,,,,3,,,,,5
+10074711,22,40407,CALENDAR,REGULAR,Round 18,LEAGUE,665,Sogndal IL,Visita,1ST,04/08/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074711,22,40407,CALENDAR,REGULAR,Round 18,LEAGUE,665,Sogndal IL,Visita,2ND,04/08/2022,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074702,22,40407,CALENDAR,REGULAR,Round 19,LEAGUE,929,Sandnes Ulf,Local,ALL,08/08/2022,19,0,,,,5,3,9,14,,,12,2,0,1,,4,,,,,,,,,0,,25,,,,,,,,,,,,,,,,3,,,,,11
+10074702,22,40407,CALENDAR,REGULAR,Round 19,LEAGUE,929,Sandnes Ulf,Local,1ST,08/08/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074702,22,40407,CALENDAR,REGULAR,Round 19,LEAGUE,929,Sandnes Ulf,Local,2ND,08/08/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074702,22,40407,CALENDAR,REGULAR,Round 19,LEAGUE,679,Skeid,Visita,ALL,08/08/2022,19,0,,,,6,1,4,11,,,14,1,0,3,,3,,,,,,,,,1,,22,,,,,,,,,,,,,,,,1,,,,,9
+10074702,22,40407,CALENDAR,REGULAR,Round 19,LEAGUE,679,Skeid,Visita,1ST,08/08/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074702,22,40407,CALENDAR,REGULAR,Round 19,LEAGUE,679,Skeid,Visita,2ND,08/08/2022,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074647,22,40407,CALENDAR,REGULAR,Round 20,LEAGUE,786,KFUM Oslo,Local,ALL,14/08/2022,20,3,,,,14,4,10,13,,,12,0,0,8,,1,5,,,,,,,,2,,20,,,,,,,,,,,,,,,,4,,,,,7
+10074647,22,40407,CALENDAR,REGULAR,Round 20,LEAGUE,786,KFUM Oslo,Local,1ST,14/08/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074647,22,40407,CALENDAR,REGULAR,Round 20,LEAGUE,786,KFUM Oslo,Local,2ND,14/08/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074647,22,40407,CALENDAR,REGULAR,Round 20,LEAGUE,929,Sandnes Ulf,Visita,ALL,14/08/2022,20,2,,,,16,5,8,10,,,15,1,0,6,,2,8,,,,,,,,2,,23,,,,,,,,,,,,,,,,5,,,,,4
+10074647,22,40407,CALENDAR,REGULAR,Round 20,LEAGUE,929,Sandnes Ulf,Visita,1ST,14/08/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074647,22,40407,CALENDAR,REGULAR,Round 20,LEAGUE,929,Sandnes Ulf,Visita,2ND,14/08/2022,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074684,22,40407,CALENDAR,REGULAR,Round 21,LEAGUE,929,Sandnes Ulf,Local,ALL,21/08/2022,21,0,,,,11,3,9,11,,,8,1,0,3,,7,1,,,,,,,,5,,32,,,,,,,,,,,,,,,,3,,,,,6
+10074684,22,40407,CALENDAR,REGULAR,Round 21,LEAGUE,929,Sandnes Ulf,Local,1ST,21/08/2022,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074684,22,40407,CALENDAR,REGULAR,Round 21,LEAGUE,929,Sandnes Ulf,Local,2ND,21/08/2022,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074684,22,40407,CALENDAR,REGULAR,Round 21,LEAGUE,727,Stjørdals/Blink,Visita,ALL,21/08/2022,21,0,,,,8,2,3,8,,,16,3,0,3,,3,2,,,,,,,,0,,27,,,,,,,,,,,,,,,,2,,,,,13
+10074684,22,40407,CALENDAR,REGULAR,Round 21,LEAGUE,727,Stjørdals/Blink,Visita,1ST,21/08/2022,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074684,22,40407,CALENDAR,REGULAR,Round 21,LEAGUE,727,Stjørdals/Blink,Visita,2ND,21/08/2022,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074680,22,40407,CALENDAR,REGULAR,Round 22,LEAGUE,903,Mjøndalen IF,Local,ALL,29/08/2022,22,4,51%,,,17,2,3,16,,,9,2,0,7,,8,2,,,,,,,,1,,19,,,,,,,,,,,,,,,,2,,,,,5
+10074680,22,40407,CALENDAR,REGULAR,Round 22,LEAGUE,903,Mjøndalen IF,Local,1ST,29/08/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074680,22,40407,CALENDAR,REGULAR,Round 22,LEAGUE,903,Mjøndalen IF,Local,2ND,29/08/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074680,22,40407,CALENDAR,REGULAR,Round 22,LEAGUE,929,Sandnes Ulf,Visita,ALL,29/08/2022,22,1,49%,,,10,3,6,9,,,17,1,0,3,,2,5,,,,,,,,0,,17,,,,,,,,,,,,,,,,3,,,,,13
+10074680,22,40407,CALENDAR,REGULAR,Round 22,LEAGUE,929,Sandnes Ulf,Visita,1ST,29/08/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074680,22,40407,CALENDAR,REGULAR,Round 22,LEAGUE,929,Sandnes Ulf,Visita,2ND,29/08/2022,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074707,22,40407,CALENDAR,REGULAR,Round 23,LEAGUE,929,Sandnes Ulf,Local,ALL,04/09/2022,23,3,,,,11,1,7,7,,,7,2,0,6,,5,0,,,,,,,,1,,14,,,,,,,,,,,,,,,,1,,,,,8
+10074707,22,40407,CALENDAR,REGULAR,Round 23,LEAGUE,929,Sandnes Ulf,Local,1ST,04/09/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074707,22,40407,CALENDAR,REGULAR,Round 23,LEAGUE,929,Sandnes Ulf,Local,2ND,04/09/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074707,22,40407,CALENDAR,REGULAR,Round 23,LEAGUE,667,IK Start,Visita,ALL,04/09/2022,23,5,,,,11,3,5,6,,,8,0,0,6,,4,1,,,,,,,,1,,24,,,,,,,,,,,,,,,,3,,,,,12
+10074707,22,40407,CALENDAR,REGULAR,Round 23,LEAGUE,667,IK Start,Visita,1ST,04/09/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074707,22,40407,CALENDAR,REGULAR,Round 23,LEAGUE,667,IK Start,Visita,2ND,04/09/2022,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074652,22,40407,CALENDAR,REGULAR,Round 24,LEAGUE,687,Fredrikstad FK,Local,ALL,11/09/2022,24,1,51%,,,13,6,9,18,,,10,3,0,5,,4,4,,,,,,,,,,25,,,,,,,,,,,,,,,,6,,,,,12
+10074652,22,40407,CALENDAR,REGULAR,Round 24,LEAGUE,687,Fredrikstad FK,Local,1ST,11/09/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074652,22,40407,CALENDAR,REGULAR,Round 24,LEAGUE,687,Fredrikstad FK,Local,2ND,11/09/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074652,22,40407,CALENDAR,REGULAR,Round 24,LEAGUE,929,Sandnes Ulf,Visita,ALL,11/09/2022,24,2,49%,,,20,6,7,10,,,18,2,0,8,,6,6,,,,,,,,,,21,,,,,,,,,,,,,,,,6,,,,,10
+10074652,22,40407,CALENDAR,REGULAR,Round 24,LEAGUE,929,Sandnes Ulf,Visita,1ST,11/09/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074652,22,40407,CALENDAR,REGULAR,Round 24,LEAGUE,929,Sandnes Ulf,Visita,2ND,11/09/2022,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074464,22,40407,CALENDAR,REGULAR,Round 25,LEAGUE,929,Sandnes Ulf,Local,ALL,17/09/2022,25,0,37%,,,5,5,4,9,,,17,1,0,2,,3,,,,,,,,,1,,19,,,,,,,,,,,,,,,,5,,,,,15
+10074464,22,40407,CALENDAR,REGULAR,Round 25,LEAGUE,929,Sandnes Ulf,Local,1ST,17/09/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074464,22,40407,CALENDAR,REGULAR,Round 25,LEAGUE,929,Sandnes Ulf,Local,2ND,17/09/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074464,22,40407,CALENDAR,REGULAR,Round 25,LEAGUE,1159,SK Brann,Visita,ALL,17/09/2022,25,3,63%,,,11,2,5,16,,,10,3,0,8,,3,,,,,,,,,1,,23,,,,,,,,,,,,,,,,2,,,,,6
+10074464,22,40407,CALENDAR,REGULAR,Round 25,LEAGUE,1159,SK Brann,Visita,1ST,17/09/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074464,22,40407,CALENDAR,REGULAR,Round 25,LEAGUE,1159,SK Brann,Visita,2ND,17/09/2022,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074645,22,40407,CALENDAR,REGULAR,Round 26,LEAGUE,708,Ranheim IL,Local,ALL,03/10/2022,26,1,61%,,,15,4,8,12,,,13,1,0,6,,7,2,,,,,,,,1,,23,,,,,,,,,,,,,,,,4,,,,,6
+10074645,22,40407,CALENDAR,REGULAR,Round 26,LEAGUE,708,Ranheim IL,Local,1ST,03/10/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074645,22,40407,CALENDAR,REGULAR,Round 26,LEAGUE,708,Ranheim IL,Local,2ND,03/10/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074645,22,40407,CALENDAR,REGULAR,Round 26,LEAGUE,929,Sandnes Ulf,Visita,ALL,03/10/2022,26,2,39%,,,11,5,1,11,,,13,2,0,6,,5,0,,,,,,,,2,,18,,,,,,,,,,,,,,,,5,,,,,13
+10074645,22,40407,CALENDAR,REGULAR,Round 26,LEAGUE,929,Sandnes Ulf,Visita,1ST,03/10/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074645,22,40407,CALENDAR,REGULAR,Round 26,LEAGUE,929,Sandnes Ulf,Visita,2ND,03/10/2022,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074608,22,40407,CALENDAR,REGULAR,Round 27,LEAGUE,929,Sandnes Ulf,Local,ALL,10/10/2022,27,2,52%,,,13,3,7,13,,,9,4,0,5,,7,1,,,,,,,,2,,17,,,,,,,,,,,,,,,,3,,,,,8
+10074608,22,40407,CALENDAR,REGULAR,Round 27,LEAGUE,929,Sandnes Ulf,Local,1ST,10/10/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074608,22,40407,CALENDAR,REGULAR,Round 27,LEAGUE,929,Sandnes Ulf,Local,2ND,10/10/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074608,22,40407,CALENDAR,REGULAR,Round 27,LEAGUE,7320,Grorud,Visita,ALL,10/10/2022,27,4,48%,,,13,3,6,7,,,15,2,0,7,,5,1,,,,,,,,2,,18,,,,,,,,,,,,,,,,3,,,,,10
+10074608,22,40407,CALENDAR,REGULAR,Round 27,LEAGUE,7320,Grorud,Visita,1ST,10/10/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074608,22,40407,CALENDAR,REGULAR,Round 27,LEAGUE,7320,Grorud,Visita,2ND,10/10/2022,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074617,22,40407,CALENDAR,REGULAR,Round 28,LEAGUE,672,Kongsvinger,Local,ALL,17/10/2022,28,3,45%,,,13,4,3,11,,,7,1,0,6,,4,3,,,,,,,,1,,23,,,,,,,,,,,,,,,,4,,,,,8
+10074617,22,40407,CALENDAR,REGULAR,Round 28,LEAGUE,672,Kongsvinger,Local,1ST,17/10/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074617,22,40407,CALENDAR,REGULAR,Round 28,LEAGUE,672,Kongsvinger,Local,2ND,17/10/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074617,22,40407,CALENDAR,REGULAR,Round 28,LEAGUE,929,Sandnes Ulf,Visita,ALL,17/10/2022,28,1,55%,,,15,3,6,5,,,12,1,0,5,,6,4,,,,,,,,2,,25,,,,,,,,,,,,,,,,3,,,,,7
+10074617,22,40407,CALENDAR,REGULAR,Round 28,LEAGUE,929,Sandnes Ulf,Visita,1ST,17/10/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074617,22,40407,CALENDAR,REGULAR,Round 28,LEAGUE,929,Sandnes Ulf,Visita,2ND,17/10/2022,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074701,22,40407,CALENDAR,REGULAR,Round 29,LEAGUE,929,Sandnes Ulf,Local,ALL,22/10/2022,29,2,,,,7,2,4,15,,,10,2,0,5,,2,0,,,,,,,,0,,20,,,,,,,,,,,,,,,,2,,,,,8
+10074701,22,40407,CALENDAR,REGULAR,Round 29,LEAGUE,929,Sandnes Ulf,Local,1ST,22/10/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074701,22,40407,CALENDAR,REGULAR,Round 29,LEAGUE,929,Sandnes Ulf,Local,2ND,22/10/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074701,22,40407,CALENDAR,REGULAR,Round 29,LEAGUE,1162,Stabæk Fotball,Visita,ALL,22/10/2022,29,2,,,,13,2,4,7,,,15,1,0,4,,6,3,,,,,,,,3,,30,,,,,,,,,,,,,,,,2,,,,,8
+10074701,22,40407,CALENDAR,REGULAR,Round 29,LEAGUE,1162,Stabæk Fotball,Visita,1ST,22/10/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074701,22,40407,CALENDAR,REGULAR,Round 29,LEAGUE,1162,Stabæk Fotball,Visita,2ND,22/10/2022,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074596,22,40407,CALENDAR,REGULAR,Round 30,LEAGUE,663,Bryne FK,Local,ALL,29/10/2022,30,0,,,,7,1,2,16,,,16,3,0,1,,6,0,,,,,,,,0,,27,,,,,,,,,,,,,,,,1,,,,,14
+10074596,22,40407,CALENDAR,REGULAR,Round 30,LEAGUE,663,Bryne FK,Local,1ST,29/10/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074596,22,40407,CALENDAR,REGULAR,Round 30,LEAGUE,663,Bryne FK,Local,2ND,29/10/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074596,22,40407,CALENDAR,REGULAR,Round 30,LEAGUE,929,Sandnes Ulf,Visita,ALL,29/10/2022,30,2,,,,12,1,9,14,,,16,2,0,2,,9,1,,,,,,,,2,,17,,,,,,,,,,,,,,,,1,,,,,10
+10074596,22,40407,CALENDAR,REGULAR,Round 30,LEAGUE,929,Sandnes Ulf,Visita,1ST,29/10/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10074596,22,40407,CALENDAR,REGULAR,Round 30,LEAGUE,929,Sandnes Ulf,Visita,2ND,29/10/2022,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934278,22,47820,CALENDAR,REGULAR,Round 1,LEAGUE,929,Sandnes Ulf,Local,ALL,10/04/2023,1,4,55%,1.97,,20,3,4,12,509,5,4,1,0,4,0,7,8,12,8,,,3,28,,0,433,25,,72/86 (84%),25/37 (67%),8/21 (38%),39%,3,66/172 (38%),11/21 (52%),40/56 (71%),,5,12,,8,2,3,,,1,,5
+10934278,22,47820,CALENDAR,REGULAR,Round 1,LEAGUE,929,Sandnes Ulf,Local,1ST,10/04/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934278,22,47820,CALENDAR,REGULAR,Round 1,LEAGUE,929,Sandnes Ulf,Local,2ND,10/04/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934278,22,47820,CALENDAR,REGULAR,Round 1,LEAGUE,679,Skeid,Visita,ALL,10/04/2023,1,1,45%,0.69,,11,1,3,8,338,4,2,0,1,4,0,2,5,7,4,,,0,19,,2,272,30,,12/28 (43%),20/45 (44%),1/6 (16%),34%,10,52/155 (34%),9/21 (43%),18/27 (67%),,4,15,,18,5,1,,,1,,12
+10934278,22,47820,CALENDAR,REGULAR,Round 1,LEAGUE,679,Skeid,Visita,1ST,10/04/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934278,22,47820,CALENDAR,REGULAR,Round 1,LEAGUE,679,Skeid,Visita,2ND,10/04/2023,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934280,22,47820,CALENDAR,REGULAR,Round 2,LEAGUE,665,Sogndal IL,Local,ALL,15/04/2023,2,1,44%,0.52,,6,2,9,16,310,1,2,2,0,2,0,2,2,4,2,,,0,21,,1,237,20,,32/42 (76%),20/39 (51%),3/14 (21%),37%,8,53/143 (37%),17/42 (40%),22/33 (67%),,1,12,,24,,2,,,1,,13
+10934280,22,47820,CALENDAR,REGULAR,Round 2,LEAGUE,665,Sogndal IL,Local,1ST,15/04/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934280,22,47820,CALENDAR,REGULAR,Round 2,LEAGUE,665,Sogndal IL,Local,2ND,15/04/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934280,22,47820,CALENDAR,REGULAR,Round 2,LEAGUE,929,Sandnes Ulf,Visita,ALL,15/04/2023,2,0,56%,1.26,,11,1,5,11,457,4,5,2,0,2,1,8,0,8,3,,,2,29,,0,379,27,,44/64 (69%),35/61 (57%),17/27 (62%),41%,6,48/136 (35%),27/43 (63%),22/32 (69%),,4,12,,14,,1,,,3,,6
+10934280,22,47820,CALENDAR,REGULAR,Round 2,LEAGUE,929,Sandnes Ulf,Visita,1ST,15/04/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934280,22,47820,CALENDAR,REGULAR,Round 2,LEAGUE,929,Sandnes Ulf,Visita,2ND,15/04/2023,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934312,22,47820,CALENDAR,REGULAR,Round 3,LEAGUE,929,Sandnes Ulf,Local,ALL,22/04/2023,3,0,56%,1.12,,11,10,5,13,417,3,2,0,0,3,0,4,4,8,3,,,4,15,,3,349,29,,44/65 (68%),33/53 (62%),5/14 (35%),39%,8,53/148 (36%),22/42 (52%),14/26 (54%),,3,16,,16,4,10,,,2,,10
+10934312,22,47820,CALENDAR,REGULAR,Round 3,LEAGUE,929,Sandnes Ulf,Local,1ST,22/04/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934312,22,47820,CALENDAR,REGULAR,Round 3,LEAGUE,929,Sandnes Ulf,Local,2ND,22/04/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934312,22,47820,CALENDAR,REGULAR,Round 3,LEAGUE,668,Raufoss,Visita,ALL,22/04/2023,3,0,44%,1.11,,18,3,10,11,316,4,4,3,0,10,0,4,4,8,10,,,2,21,,2,238,20,,39/57 (68%),22/47 (46%),6/21 (28%),41%,2,67/167 (40%),22/46 (48%),30/39 (77%),,4,15,,19,3,3,,,0,,6
+10934312,22,47820,CALENDAR,REGULAR,Round 3,LEAGUE,668,Raufoss,Visita,1ST,22/04/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934312,22,47820,CALENDAR,REGULAR,Round 3,LEAGUE,668,Raufoss,Visita,2ND,22/04/2023,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934337,22,47820,CALENDAR,REGULAR,Round 4,LEAGUE,687,Fredrikstad FK,Local,ALL,30/04/2023,4,0,55%,0.48,,10,2,11,12,522,3,3,0,0,2,0,4,4,6,4,,,2,18,,2,442,22,,40/57 (70%),30/53 (56%),8/20 (40%),33%,4,49/156 (31%),18/43 (42%),23/33 (70%),,3,21,,18,2,2,,,0,,8
+10934337,22,47820,CALENDAR,REGULAR,Round 4,LEAGUE,687,Fredrikstad FK,Local,1ST,30/04/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934337,22,47820,CALENDAR,REGULAR,Round 4,LEAGUE,687,Fredrikstad FK,Local,2ND,30/04/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934337,22,47820,CALENDAR,REGULAR,Round 4,LEAGUE,929,Sandnes Ulf,Visita,ALL,30/04/2023,4,0,45%,0.67,,8,2,3,13,385,0,1,0,0,2,0,4,2,1,7,,,3,12,,0,311,31,,27/48 (56%),26/52 (50%),3/8 (37%),31%,6,41/143 (29%),16/38 (42%),20/30 (67%),,0,12,,21,2,2,,,1,,6
+10934337,22,47820,CALENDAR,REGULAR,Round 4,LEAGUE,929,Sandnes Ulf,Visita,1ST,30/04/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934337,22,47820,CALENDAR,REGULAR,Round 4,LEAGUE,929,Sandnes Ulf,Visita,2ND,30/04/2023,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934373,22,47820,CALENDAR,REGULAR,Round 5,LEAGUE,929,Sandnes Ulf,Local,ALL,03/05/2023,5,1,52%,2.12,,16,3,3,10,461,4,4,2,0,3,1,11,1,9,7,,,1,22,,1,369,28,,41/61 (67%),30/53 (56%),12/28 (42%),32%,14,50/165 (30%),16/39 (41%),28/39 (72%),,4,19,,21,2,3,,,,,2
+10934373,22,47820,CALENDAR,REGULAR,Round 5,LEAGUE,929,Sandnes Ulf,Local,1ST,03/05/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934373,22,47820,CALENDAR,REGULAR,Round 5,LEAGUE,929,Sandnes Ulf,Local,2ND,03/05/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934373,22,47820,CALENDAR,REGULAR,Round 5,LEAGUE,672,Kongsvinger,Visita,ALL,03/05/2023,5,2,48%,1.44,,11,2,7,14,410,2,0,3,0,5,0,2,4,8,3,,,1,23,,2,317,21,,35/57 (61%),28/62 (45%),2/11 (18%),39%,8,64/171 (37%),18/38 (47%),21/31 (68%),,2,20,,32,2,2,,,,,13
+10934373,22,47820,CALENDAR,REGULAR,Round 5,LEAGUE,672,Kongsvinger,Visita,1ST,03/05/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934373,22,47820,CALENDAR,REGULAR,Round 5,LEAGUE,672,Kongsvinger,Visita,2ND,03/05/2023,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934399,22,47820,CALENDAR,REGULAR,Round 6,LEAGUE,662,Moss FK,Local,ALL,07/05/2023,6,1,52%,2.32,,18,4,6,10,318,7,4,2,0,3,1,6,8,12,6,,,8,24,,2,238,32,,29/47 (62%),36/63 (57%),7/16 (43%),47%,9,80/181 (44%),38/68 (56%),39/51 (76%),,7,19,,16,2,4,,,0,,9
+10934399,22,47820,CALENDAR,REGULAR,Round 6,LEAGUE,662,Moss FK,Local,1ST,07/05/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934399,22,47820,CALENDAR,REGULAR,Round 6,LEAGUE,662,Moss FK,Local,2ND,07/05/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934399,22,47820,CALENDAR,REGULAR,Round 6,LEAGUE,929,Sandnes Ulf,Visita,ALL,07/05/2023,6,0,48%,0.59,,8,4,3,11,310,3,4,2,0,3,0,3,2,4,4,,,1,7,,0,226,28,,31/56 (55%),28/62 (45%),2/9 (22%),29%,10,36/161 (22%),30/66 (45%),12/24 (50%),,3,16,,26,2,4,,,3,,13
+10934399,22,47820,CALENDAR,REGULAR,Round 6,LEAGUE,929,Sandnes Ulf,Visita,1ST,07/05/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934399,22,47820,CALENDAR,REGULAR,Round 6,LEAGUE,929,Sandnes Ulf,Visita,2ND,07/05/2023,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934414,22,47820,CALENDAR,REGULAR,Round 7,LEAGUE,929,Sandnes Ulf,Local,ALL,12/05/2023,7,1,48%,1.40,,10,1,8,9,366,3,0,2,1,4,0,2,4,6,4,,,1,11,,2,292,27,,30/47 (64%),31/53 (58%),4/16 (25%),30%,8,32/119 (27%),12/23 (52%),8/13 (62%),,3,14,,10,2,1,,,,,12
+10934414,22,47820,CALENDAR,REGULAR,Round 7,LEAGUE,929,Sandnes Ulf,Local,1ST,12/05/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934414,22,47820,CALENDAR,REGULAR,Round 7,LEAGUE,929,Sandnes Ulf,Local,2ND,12/05/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934414,22,47820,CALENDAR,REGULAR,Round 7,LEAGUE,957,Kristiansund BK,Visita,ALL,12/05/2023,7,1,52%,1.18,,7,3,4,5,405,0,3,0,0,2,0,4,1,5,2,,,2,12,,3,337,20,,38/53 (72%),20/38 (52%),4/19 (21%),44%,6,53/121 (44%),11/24 (46%),15/21 (71%),,0,17,,16,2,3,,,,,6
+10934414,22,47820,CALENDAR,REGULAR,Round 7,LEAGUE,957,Kristiansund BK,Visita,1ST,12/05/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934414,22,47820,CALENDAR,REGULAR,Round 7,LEAGUE,957,Kristiansund BK,Visita,2ND,12/05/2023,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934434,22,47820,CALENDAR,REGULAR,Round 8,LEAGUE,667,IK Start,Local,ALL,16/05/2023,8,3,53%,1.27,,12,3,6,10,467,3,3,1,0,6,0,2,4,6,6,,,2,24,,5,389,22,,41/63 (65%),22/48 (45%),3/10 (30%),43%,6,45/108 (42%),24/51 (47%),15/20 (75%),,3,21,,25,1,3,,,0,,9
+10934434,22,47820,CALENDAR,REGULAR,Round 8,LEAGUE,667,IK Start,Local,1ST,16/05/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934434,22,47820,CALENDAR,REGULAR,Round 8,LEAGUE,667,IK Start,Local,2ND,16/05/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934434,22,47820,CALENDAR,REGULAR,Round 8,LEAGUE,929,Sandnes Ulf,Visita,ALL,16/05/2023,8,3,47%,1.18,,12,4,1,10,439,2,3,2,0,4,0,3,5,6,6,,,0,22,,1,364,21,,44/60 (73%),23/46 (50%),14/25 (56%),32%,5,31/102 (30%),20/54 (37%),10/22 (45%),,2,15,,11,1,4,,,1,,8
+10934434,22,47820,CALENDAR,REGULAR,Round 8,LEAGUE,929,Sandnes Ulf,Visita,1ST,16/05/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934434,22,47820,CALENDAR,REGULAR,Round 8,LEAGUE,929,Sandnes Ulf,Visita,2ND,16/05/2023,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934446,22,47820,CALENDAR,REGULAR,Round 9,LEAGUE,929,Sandnes Ulf,Local,ALL,20/05/2023,9,2,52%,1.21,,14,3,3,5,416,2,4,1,0,3,1,6,4,8,6,,,5,16,,5,340,22,,39/60 (65%),31/54 (57%),1/14 (7%),32%,11,39/143 (27%),20/39 (51%),12/25 (48%),,2,13,,21,2,3,,,1,,9
+10934446,22,47820,CALENDAR,REGULAR,Round 9,LEAGUE,929,Sandnes Ulf,Local,1ST,20/05/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934446,22,47820,CALENDAR,REGULAR,Round 9,LEAGUE,929,Sandnes Ulf,Local,2ND,20/05/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934446,22,47820,CALENDAR,REGULAR,Round 9,LEAGUE,663,Bryne FK,Visita,ALL,20/05/2023,9,0,48%,1.08,,9,2,7,12,377,9,0,3,0,3,0,3,3,6,3,,,1,21,,0,295,26,,34/54 (63%),29/51 (56%),10/21 (47%),35%,8,51/147 (35%),15/39 (38%),26/33 (79%),,9,19,,24,2,2,,,0,,10
+10934446,22,47820,CALENDAR,REGULAR,Round 9,LEAGUE,663,Bryne FK,Visita,1ST,20/05/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934446,22,47820,CALENDAR,REGULAR,Round 9,LEAGUE,663,Bryne FK,Visita,2ND,20/05/2023,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934462,22,47820,CALENDAR,REGULAR,Round 10,LEAGUE,903,Mjøndalen IF,Local,ALL,29/05/2023,10,1,62%,2.41,,14,2,6,12,620,2,3,0,0,3,0,7,4,8,6,,,5,30,,2,550,18,,65/73 (89%),34/48 (70%),10/32 (31%),37%,9,41/133 (31%),18/26 (69%),24/34 (71%),,2,17,,11,6,2,,,1,,7
+10934462,22,47820,CALENDAR,REGULAR,Round 10,LEAGUE,903,Mjøndalen IF,Local,1ST,29/05/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934462,22,47820,CALENDAR,REGULAR,Round 10,LEAGUE,903,Mjøndalen IF,Local,2ND,29/05/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934462,22,47820,CALENDAR,REGULAR,Round 10,LEAGUE,929,Sandnes Ulf,Visita,ALL,29/05/2023,10,3,38%,1.62,,15,2,2,13,360,3,0,0,0,5,0,5,5,10,5,,,8,25,,2,290,16,,31/46 (67%),32/59 (54%),2/6 (33%),40%,3,53/124 (43%),7/25 (28%),22/30 (73%),,3,18,,20,1,2,,,0,,13
+10934462,22,47820,CALENDAR,REGULAR,Round 10,LEAGUE,929,Sandnes Ulf,Visita,1ST,29/05/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934462,22,47820,CALENDAR,REGULAR,Round 10,LEAGUE,929,Sandnes Ulf,Visita,2ND,29/05/2023,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934476,22,47820,CALENDAR,REGULAR,Round 11,LEAGUE,929,Sandnes Ulf,Local,ALL,04/06/2023,11,2,54%,2.80,,18,4,6,10,515,4,1,1,0,5,0,4,9,14,4,,,2,36,,1,434,26,,62/83 (75%),22/39 (56%),12/34 (35%),40%,8,59/156 (38%),18/35 (51%),28/43 (65%),,4,8,,15,3,4,,,,,6
+10934476,22,47820,CALENDAR,REGULAR,Round 11,LEAGUE,929,Sandnes Ulf,Local,1ST,04/06/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934476,22,47820,CALENDAR,REGULAR,Round 11,LEAGUE,929,Sandnes Ulf,Local,2ND,04/06/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934476,22,47820,CALENDAR,REGULAR,Round 11,LEAGUE,862,FK Jerv,Visita,ALL,04/06/2023,11,3,46%,1.44,,11,3,2,9,418,6,2,2,0,7,0,3,1,7,4,,,1,15,,4,346,17,,27/55 (49%),19/55 (34%),3/7 (42%),32%,11,46/159 (29%),16/32 (50%),11/18 (61%),,6,20,,34,3,3,,,,,11
+10934476,22,47820,CALENDAR,REGULAR,Round 11,LEAGUE,862,FK Jerv,Visita,1ST,04/06/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934476,22,47820,CALENDAR,REGULAR,Round 11,LEAGUE,862,FK Jerv,Visita,2ND,04/06/2023,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934488,22,47820,CALENDAR,REGULAR,Round 12,LEAGUE,929,Sandnes Ulf,Local,ALL,11/06/2023,12,1,55%,1.39,,13,0,4,14,500,1,1,1,0,5,0,4,4,8,5,,,4,29,,1,426,21,,51/62 (82%),21/40 (52%),11/33 (33%),32%,11,48/164 (29%),18/39 (46%),30/42 (71%),,1,13,,9,3,0,,,1,,8
+10934488,22,47820,CALENDAR,REGULAR,Round 12,LEAGUE,929,Sandnes Ulf,Local,1ST,11/06/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934488,22,47820,CALENDAR,REGULAR,Round 12,LEAGUE,929,Sandnes Ulf,Local,2ND,11/06/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934488,22,47820,CALENDAR,REGULAR,Round 12,LEAGUE,680,Hødd IL,Visita,ALL,11/06/2023,12,3,45%,1.01,,10,4,3,10,337,2,1,1,0,3,0,3,4,7,3,,,6,16,,1,269,18,,29/44 (66%),29/45 (64%),5/10 (50%),40%,7,64/165 (39%),20/40 (50%),18/22 (82%),,2,21,,25,5,4,,,0,,11
+10934488,22,47820,CALENDAR,REGULAR,Round 12,LEAGUE,680,Hødd IL,Visita,1ST,11/06/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934488,22,47820,CALENDAR,REGULAR,Round 12,LEAGUE,680,Hødd IL,Visita,2ND,11/06/2023,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934266,22,47820,CALENDAR,REGULAR,Round 13,LEAGUE,786,KFUM Oslo,Local,ALL,25/06/2023,13,3,53%,1.90,,17,2,7,13,479,2,2,1,0,8,1,6,2,9,8,,,2,18,,2,404,20,,62/78 (79%),25/42 (59%),2/13 (15%),33%,7,56/168 (33%),13/38 (34%),34/47 (72%),,2,9,,7,1,2,,,0,,8
+10934266,22,47820,CALENDAR,REGULAR,Round 13,LEAGUE,786,KFUM Oslo,Local,1ST,25/06/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934266,22,47820,CALENDAR,REGULAR,Round 13,LEAGUE,786,KFUM Oslo,Local,2ND,25/06/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934266,22,47820,CALENDAR,REGULAR,Round 13,LEAGUE,929,Sandnes Ulf,Visita,ALL,25/06/2023,13,1,47%,1.55,,9,5,3,13,380,3,4,3,0,3,1,4,1,6,3,,,1,20,,2,298,21,,25/45 (56%),25/57 (43%),5/12 (41%),41%,4,58/165 (35%),29/46 (63%),21/30 (70%),,3,16,,26,1,5,,,2,,12
+10934266,22,47820,CALENDAR,REGULAR,Round 13,LEAGUE,929,Sandnes Ulf,Visita,1ST,25/06/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934266,22,47820,CALENDAR,REGULAR,Round 13,LEAGUE,929,Sandnes Ulf,Visita,2ND,25/06/2023,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934279,22,47820,CALENDAR,REGULAR,Round 14,LEAGUE,929,Sandnes Ulf,Local,ALL,01/07/2023,14,3,47%,1.54,,12,3,5,19,421,5,3,1,0,6,1,3,2,7,5,,,5,17,,1,369,17,,39/52 (75%),29/44 (65%),4/7 (57%),35%,2,39/113 (35%),13/34 (38%),18/25 (72%),,5,15,,11,1,3,,,1,,9
+10934279,22,47820,CALENDAR,REGULAR,Round 14,LEAGUE,929,Sandnes Ulf,Local,1ST,01/07/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934279,22,47820,CALENDAR,REGULAR,Round 14,LEAGUE,929,Sandnes Ulf,Local,2ND,01/07/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934279,22,47820,CALENDAR,REGULAR,Round 14,LEAGUE,682,Åsane,Visita,ALL,01/07/2023,14,3,53%,2.76,,11,4,2,11,503,4,2,0,0,6,0,2,3,9,2,,,1,19,,3,438,16,,46/54 (85%),22/35 (62%),5/17 (29%),37%,8,42/114 (37%),13/32 (41%),20/30 (67%),,4,11,,9,0,4,,,0,,5
+10934279,22,47820,CALENDAR,REGULAR,Round 14,LEAGUE,682,Åsane,Visita,1ST,01/07/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934279,22,47820,CALENDAR,REGULAR,Round 14,LEAGUE,682,Åsane,Visita,2ND,01/07/2023,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934295,22,47820,CALENDAR,REGULAR,Round 15,LEAGUE,708,Ranheim IL,Local,ALL,08/07/2023,15,0,52%,1.03,,12,4,6,7,454,1,3,1,1,2,0,6,4,7,5,,,2,13,,2,384,22,,37/57 (65%),26/43 (60%),8/19 (42%),37%,3,44/121 (36%),11/25 (44%),25/34 (74%),,1,18,,18,1,4,,,,,8
+10934295,22,47820,CALENDAR,REGULAR,Round 15,LEAGUE,708,Ranheim IL,Local,1ST,08/07/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934295,22,47820,CALENDAR,REGULAR,Round 15,LEAGUE,708,Ranheim IL,Local,2ND,08/07/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934295,22,47820,CALENDAR,REGULAR,Round 15,LEAGUE,929,Sandnes Ulf,Visita,ALL,08/07/2023,15,5,48%,2.70,,14,2,5,12,463,0,3,1,0,8,0,5,1,9,5,,,6,28,,2,404,12,,43/58 (74%),22/44 (50%),5/13 (38%),33%,0,39/121 (32%),10/25 (40%),23/30 (77%),,0,23,,27,3,2,,,,,8
+10934295,22,47820,CALENDAR,REGULAR,Round 15,LEAGUE,929,Sandnes Ulf,Visita,1ST,08/07/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934295,22,47820,CALENDAR,REGULAR,Round 15,LEAGUE,929,Sandnes Ulf,Visita,2ND,08/07/2023,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934330,22,47820,CALENDAR,REGULAR,Round 16,LEAGUE,929,Sandnes Ulf,Local,ALL,06/08/2023,16,1,50%,1.24,,17,3,2,7,387,1,4,3,0,5,0,8,4,8,9,,,1,25,,1,307,18,,45/62 (73%),37/59 (62%),7/24 (29%),31%,8,39/151 (26%),24/48 (50%),17/19 (89%),,1,24,,24,4,3,,,1,,14
+10934330,22,47820,CALENDAR,REGULAR,Round 16,LEAGUE,929,Sandnes Ulf,Local,1ST,06/08/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934330,22,47820,CALENDAR,REGULAR,Round 16,LEAGUE,929,Sandnes Ulf,Local,2ND,06/08/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934330,22,47820,CALENDAR,REGULAR,Round 16,LEAGUE,665,Sogndal IL,Visita,ALL,06/08/2023,16,2,50%,2.37,,12,4,8,10,417,4,2,2,0,4,0,3,5,6,6,,,1,21,,1,328,13,,37/47 (79%),25/41 (60%),1/21 (4%),38%,4,54/152 (36%),23/47 (49%),21/33 (64%),,4,12,,11,3,4,,,0,,16
+10934330,22,47820,CALENDAR,REGULAR,Round 16,LEAGUE,665,Sogndal IL,Visita,1ST,06/08/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934330,22,47820,CALENDAR,REGULAR,Round 16,LEAGUE,665,Sogndal IL,Visita,2ND,06/08/2023,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934375,22,47820,CALENDAR,REGULAR,Round 18,LEAGUE,929,Sandnes Ulf,Local,ALL,13/08/2023,18,2,46%,1.91,,19,6,3,11,343,1,2,1,0,6,0,8,5,12,7,,,3,24,,2,280,12,,36/50 (72%),18/40 (45%),7/13 (53%),32%,8,39/131 (30%),19/45 (42%),24/33 (73%),,1,23,,11,5,6,,,,,13
+10934375,22,47820,CALENDAR,REGULAR,Round 18,LEAGUE,929,Sandnes Ulf,Local,1ST,13/08/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934375,22,47820,CALENDAR,REGULAR,Round 18,LEAGUE,929,Sandnes Ulf,Local,2ND,13/08/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934375,22,47820,CALENDAR,REGULAR,Round 18,LEAGUE,662,Moss FK,Visita,ALL,13/08/2023,18,0,54%,2.72,,22,4,8,8,365,6,3,3,0,6,0,10,6,12,10,,,2,22,,1,295,15,,46/60 (77%),33/45 (73%),4/17 (23%),42%,3,53/134 (40%),23/43 (53%),27/30 (90%),,6,20,,12,6,4,,,,,18
+10934375,22,47820,CALENDAR,REGULAR,Round 18,LEAGUE,662,Moss FK,Visita,1ST,13/08/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934375,22,47820,CALENDAR,REGULAR,Round 18,LEAGUE,662,Moss FK,Visita,2ND,13/08/2023,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934390,22,47820,CALENDAR,REGULAR,Round 19,LEAGUE,862,FK Jerv,Local,ALL,19/08/2023,19,0,65%,1.09,,15,6,12,8,490,9,3,1,0,5,0,6,4,8,7,,,1,23,,2,398,28,,54/80 (68%),27/51 (52%),9/34 (26%),48%,5,68/146 (47%),21/39 (54%),40/54 (74%),,9,16,,8,9,6,,,,,9
+10934390,22,47820,CALENDAR,REGULAR,Round 19,LEAGUE,862,FK Jerv,Local,1ST,19/08/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934390,22,47820,CALENDAR,REGULAR,Round 19,LEAGUE,862,FK Jerv,Local,2ND,19/08/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934390,22,47820,CALENDAR,REGULAR,Round 19,LEAGUE,929,Sandnes Ulf,Visita,ALL,19/08/2023,19,2,35%,1.92,,17,5,4,13,243,4,1,2,0,8,0,7,2,10,7,,,5,20,,2,179,23,,23/38 (61%),30/59 (50%),3/7 (42%),28%,9,42/166 (25%),17/43 (40%),12/22 (55%),,4,23,,24,3,5,,,,,13
+10934390,22,47820,CALENDAR,REGULAR,Round 19,LEAGUE,929,Sandnes Ulf,Visita,1ST,19/08/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934390,22,47820,CALENDAR,REGULAR,Round 19,LEAGUE,929,Sandnes Ulf,Visita,2ND,19/08/2023,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934411,22,47820,CALENDAR,REGULAR,Round 20,LEAGUE,957,Kristiansund BK,Local,ALL,23/08/2023,20,0,57%,2.00,,15,3,10,11,505,4,4,2,0,7,0,4,4,10,5,,,0,40,,0,419,30,,49/59 (83%),23/41 (56%),11/39 (28%),38%,15,61/171 (36%),16/30 (53%),32/54 (59%),,4,11,,8,2,3,,,,,6
+10934411,22,47820,CALENDAR,REGULAR,Round 20,LEAGUE,957,Kristiansund BK,Local,1ST,23/08/2023,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934411,22,47820,CALENDAR,REGULAR,Round 20,LEAGUE,957,Kristiansund BK,Local,2ND,23/08/2023,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934411,22,47820,CALENDAR,REGULAR,Round 20,LEAGUE,929,Sandnes Ulf,Visita,ALL,23/08/2023,20,1,43%,0.80,,10,7,2,13,330,5,0,3,0,4,0,3,3,6,4,,,2,12,,2,252,18,,28/53 (53%),23/53 (43%),1/7 (14%),35%,9,61/173 (35%),12/30 (40%),16/26 (62%),,5,20,,46,5,7,,,,,12
+10934411,22,47820,CALENDAR,REGULAR,Round 20,LEAGUE,929,Sandnes Ulf,Visita,1ST,23/08/2023,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934411,22,47820,CALENDAR,REGULAR,Round 20,LEAGUE,929,Sandnes Ulf,Visita,2ND,23/08/2023,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934431,22,47820,CALENDAR,REGULAR,Round 21,LEAGUE,929,Sandnes Ulf,Local,ALL,27/08/2023,21,1,49%,1.40,,14,5,6,9,396,0,3,4,0,6,0,3,5,4,10,,,0,11,,1,337,26,,33/51 (65%),19/40 (47%),4/11 (36%),38%,5,46/131 (35%),16/28 (57%),15/23 (65%),,0,15,,13,0,5,,,1,,8
+10934431,22,47820,CALENDAR,REGULAR,Round 21,LEAGUE,929,Sandnes Ulf,Local,1ST,27/08/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934431,22,47820,CALENDAR,REGULAR,Round 21,LEAGUE,929,Sandnes Ulf,Local,2ND,27/08/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934431,22,47820,CALENDAR,REGULAR,Round 21,LEAGUE,903,Mjøndalen IF,Visita,ALL,27/08/2023,21,0,51%,1.33,,9,5,7,16,442,6,1,0,0,5,0,3,1,5,4,,,0,16,,3,372,26,,45/54 (83%),32/50 (64%),5/22 (22%),36%,5,40/117 (34%),15/33 (45%),19/30 (63%),,6,12,,25,2,5,,,1,,11
+10934431,22,47820,CALENDAR,REGULAR,Round 21,LEAGUE,903,Mjøndalen IF,Visita,1ST,27/08/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934431,22,47820,CALENDAR,REGULAR,Round 21,LEAGUE,903,Mjøndalen IF,Visita,2ND,27/08/2023,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934437,22,47820,CALENDAR,REGULAR,Round 22,LEAGUE,663,Bryne FK,Local,ALL,03/09/2023,22,3,45%,2.00,,15,3,3,13,296,3,1,2,0,9,1,5,0,12,3,,,2,20,,1,226,25,,26/46 (57%),32/49 (65%),0/7 (0%),35%,5,37/126 (29%),27/53 (51%),11/19 (58%),,3,13,,30,3,3,,,,,10
+10934437,22,47820,CALENDAR,REGULAR,Round 22,LEAGUE,663,Bryne FK,Local,1ST,03/09/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934437,22,47820,CALENDAR,REGULAR,Round 22,LEAGUE,663,Bryne FK,Local,2ND,03/09/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934437,22,47820,CALENDAR,REGULAR,Round 22,LEAGUE,929,Sandnes Ulf,Visita,ALL,03/09/2023,22,0,55%,1.33,,12,7,7,14,393,4,4,4,0,3,0,6,3,7,5,,,6,11,,0,313,21,,43/60 (72%),25/53 (47%),5/20 (25%),39%,6,54/141 (38%),21/49 (43%),22/32 (69%),,4,22,,24,5,7,,,,,5
+10934437,22,47820,CALENDAR,REGULAR,Round 22,LEAGUE,929,Sandnes Ulf,Visita,1ST,03/09/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934437,22,47820,CALENDAR,REGULAR,Round 22,LEAGUE,929,Sandnes Ulf,Visita,2ND,03/09/2023,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934464,22,47820,CALENDAR,REGULAR,Round 23,LEAGUE,929,Sandnes Ulf,Local,ALL,16/09/2023,23,1,44%,1.34,,10,3,4,8,370,0,3,2,0,5,0,3,2,6,4,,,0,13,,1,292,23,,28/48 (58%),29/61 (47%),4/15 (26%),40%,11,57/156 (37%),19/34 (56%),14/17 (82%),,0,20,,12,3,3,,,2,,12
+10934464,22,47820,CALENDAR,REGULAR,Round 23,LEAGUE,929,Sandnes Ulf,Local,1ST,16/09/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934464,22,47820,CALENDAR,REGULAR,Round 23,LEAGUE,929,Sandnes Ulf,Local,2ND,16/09/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934464,22,47820,CALENDAR,REGULAR,Round 23,LEAGUE,786,KFUM Oslo,Visita,ALL,16/09/2023,23,2,56%,1.54,,11,4,5,9,510,2,1,1,0,5,0,3,3,5,6,,,3,15,,0,425,28,,71/93 (76%),27/53 (50%),2/15 (13%),30%,15,44/170 (26%),17/33 (52%),8/18 (44%),,2,16,,12,3,4,,,1,,4
+10934464,22,47820,CALENDAR,REGULAR,Round 23,LEAGUE,786,KFUM Oslo,Visita,1ST,16/09/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934464,22,47820,CALENDAR,REGULAR,Round 23,LEAGUE,786,KFUM Oslo,Visita,2ND,16/09/2023,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934477,22,47820,CALENDAR,REGULAR,Round 24,LEAGUE,668,Raufoss,Local,ALL,24/09/2023,24,1,43%,1.19,,9,1,7,11,380,6,2,4,0,2,0,4,3,6,3,,,0,22,,1,280,34,,32/60 (53%),32/59 (54%),3/14 (21%),26%,8,29/122 (24%),11/27 (41%),10/10 (100%),,6,7,,12,1,1,,,1,,8
+10934477,22,47820,CALENDAR,REGULAR,Round 24,LEAGUE,668,Raufoss,Local,1ST,24/09/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934477,22,47820,CALENDAR,REGULAR,Round 24,LEAGUE,668,Raufoss,Local,2ND,24/09/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934477,22,47820,CALENDAR,REGULAR,Round 24,LEAGUE,929,Sandnes Ulf,Visita,ALL,24/09/2023,24,1,57%,1.28,,10,1,10,10,396,2,3,1,0,2,0,4,4,5,5,,,1,16,,0,315,32,,42/58 (72%),23/45 (51%),7/22 (31%),45%,2,55/130 (42%),16/27 (59%),26/35 (74%),,2,11,,21,2,1,,,0,,9
+10934477,22,47820,CALENDAR,REGULAR,Round 24,LEAGUE,929,Sandnes Ulf,Visita,1ST,24/09/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934477,22,47820,CALENDAR,REGULAR,Round 24,LEAGUE,929,Sandnes Ulf,Visita,2ND,24/09/2023,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11673623,22,47820,CALENDAR,REGULAR,Round 17,LEAGUE,680,Hødd IL,Local,ALL,27/09/2023,17,1,55%,2.96,,20,1,9,8,393,4,5,2,0,6,1,11,2,15,5,,,3,34,,1,305,29,,52/71 (73%),43/67 (64%),11/26 (42%),38%,6,42/136 (31%),42/85 (49%),8/11 (73%),,4,13,,17,1,1,,,0,,10
+11673623,22,47820,CALENDAR,REGULAR,Round 17,LEAGUE,680,Hødd IL,Local,1ST,27/09/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11673623,22,47820,CALENDAR,REGULAR,Round 17,LEAGUE,680,Hødd IL,Local,2ND,27/09/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11673623,22,47820,CALENDAR,REGULAR,Round 17,LEAGUE,929,Sandnes Ulf,Visita,ALL,27/09/2023,17,1,45%,1.60,,9,5,4,13,308,2,0,3,0,2,1,4,2,8,1,,,1,18,,1,215,23,,21/47 (45%),24/59 (40%),5/12 (41%),38%,10,43/126 (34%),39/85 (46%),20/29 (69%),,2,14,,13,3,5,,,1,,16
+11673623,22,47820,CALENDAR,REGULAR,Round 17,LEAGUE,929,Sandnes Ulf,Visita,1ST,27/09/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11673623,22,47820,CALENDAR,REGULAR,Round 17,LEAGUE,929,Sandnes Ulf,Visita,2ND,27/09/2023,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934497,22,47820,CALENDAR,REGULAR,Round 25,LEAGUE,929,Sandnes Ulf,Local,ALL,30/09/2023,25,1,35%,0.95,,13,5,4,14,246,3,5,3,0,5,0,8,0,6,7,,,2,16,,0,195,13,,22/30 (73%),16/25 (64%),1/11 (9%),39%,4,49/128 (38%),15/35 (43%),14/18 (78%),,3,13,,23,3,5,,,2,,12
+10934497,22,47820,CALENDAR,REGULAR,Round 25,LEAGUE,929,Sandnes Ulf,Local,1ST,30/09/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934497,22,47820,CALENDAR,REGULAR,Round 25,LEAGUE,929,Sandnes Ulf,Local,2ND,30/09/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934497,22,47820,CALENDAR,REGULAR,Round 25,LEAGUE,667,IK Start,Visita,ALL,30/09/2023,25,0,65%,1.51,,20,4,11,14,498,4,3,2,0,4,0,3,13,12,8,,,0,32,,2,437,23,,65/79 (82%),25/38 (65%),10/21 (47%),39%,10,49/127 (39%),15/36 (42%),19/24 (79%),,4,16,,14,2,4,,,1,,10
+10934497,22,47820,CALENDAR,REGULAR,Round 25,LEAGUE,667,IK Start,Visita,1ST,30/09/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934497,22,47820,CALENDAR,REGULAR,Round 25,LEAGUE,667,IK Start,Visita,2ND,30/09/2023,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934300,22,47820,CALENDAR,REGULAR,Round 26,LEAGUE,679,Skeid,Local,ALL,07/10/2023,26,3,45%,3.26,,21,7,8,7,351,3,6,0,0,10,2,4,5,16,5,,,1,34,,2,292,19,,47/60 (78%),33/50 (66%),5/12 (41%),37%,7,54/149 (36%),15/33 (45%),26/37 (70%),,3,19,,15,0,7,,,,,11
+10934300,22,47820,CALENDAR,REGULAR,Round 26,LEAGUE,679,Skeid,Local,1ST,07/10/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934300,22,47820,CALENDAR,REGULAR,Round 26,LEAGUE,679,Skeid,Local,2ND,07/10/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934300,22,47820,CALENDAR,REGULAR,Round 26,LEAGUE,929,Sandnes Ulf,Visita,ALL,07/10/2023,26,0,55%,1.56,,14,7,6,11,431,3,0,2,0,5,0,5,4,10,4,,,0,20,,1,356,17,,47/64 (73%),25/47 (53%),11/24 (45%),39%,5,50/133 (38%),17/36 (47%),30/44 (68%),,3,16,,16,5,7,,,,,8
+10934300,22,47820,CALENDAR,REGULAR,Round 26,LEAGUE,929,Sandnes Ulf,Visita,1ST,07/10/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934300,22,47820,CALENDAR,REGULAR,Round 26,LEAGUE,929,Sandnes Ulf,Visita,2ND,07/10/2023,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934332,22,47820,CALENDAR,REGULAR,Round 27,LEAGUE,929,Sandnes Ulf,Local,ALL,21/10/2023,27,2,49%,1.60,,14,1,5,14,371,3,1,1,0,4,0,4,6,7,7,,,2,18,,1,287,23,,26/47 (55%),27/51 (52%),6/15 (40%),42%,2,43/101 (43%),13/32 (41%),18/28 (64%),,3,18,,14,0,1,,,,,5
+10934332,22,47820,CALENDAR,REGULAR,Round 27,LEAGUE,929,Sandnes Ulf,Local,1ST,21/10/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934332,22,47820,CALENDAR,REGULAR,Round 27,LEAGUE,929,Sandnes Ulf,Local,2ND,21/10/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934332,22,47820,CALENDAR,REGULAR,Round 27,LEAGUE,687,Fredrikstad FK,Visita,ALL,21/10/2023,27,3,51%,2.05,,7,3,2,12,451,1,2,2,0,3,0,1,3,5,2,,,0,16,,3,376,19,,30/50 (60%),23/44 (52%),3/9 (33%),38%,6,39/115 (34%),19/37 (51%),14/20 (70%),,1,18,,22,6,3,,,,,13
+10934332,22,47820,CALENDAR,REGULAR,Round 27,LEAGUE,687,Fredrikstad FK,Visita,1ST,21/10/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934332,22,47820,CALENDAR,REGULAR,Round 27,LEAGUE,687,Fredrikstad FK,Visita,2ND,21/10/2023,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934338,22,47820,CALENDAR,REGULAR,Round 28,LEAGUE,672,Kongsvinger,Local,ALL,29/10/2023,28,4,63%,2.80,,13,3,2,9,670,5,4,0,0,9,0,2,2,7,6,,,2,20,,3,587,21,,51/66 (77%),22/40 (55%),3/9 (33%),39%,10,60/152 (39%),11/28 (39%),23/33 (70%),,5,24,,11,2,3,,,0,,3
+10934338,22,47820,CALENDAR,REGULAR,Round 28,LEAGUE,672,Kongsvinger,Local,1ST,29/10/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934338,22,47820,CALENDAR,REGULAR,Round 28,LEAGUE,672,Kongsvinger,Local,2ND,29/10/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934338,22,47820,CALENDAR,REGULAR,Round 28,LEAGUE,929,Sandnes Ulf,Visita,ALL,29/10/2023,28,0,37%,0.92,,10,5,6,13,308,2,0,0,1,3,0,5,2,4,6,,,1,16,,4,231,17,,25/41 (61%),22/44 (50%),4/20 (20%),39%,10,56/158 (35%),17/28 (61%),23/32 (72%),,2,21,,27,3,5,,,2,,6
+10934338,22,47820,CALENDAR,REGULAR,Round 28,LEAGUE,929,Sandnes Ulf,Visita,1ST,29/10/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934338,22,47820,CALENDAR,REGULAR,Round 28,LEAGUE,929,Sandnes Ulf,Visita,2ND,29/10/2023,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934377,22,47820,CALENDAR,REGULAR,Round 29,LEAGUE,929,Sandnes Ulf,Local,ALL,05/11/2023,29,3,45%,1.76,,16,5,6,14,332,3,1,2,0,8,0,5,3,8,8,,,4,21,,1,262,23,,24/45 (53%),21/46 (45%),6/9 (66%),38%,5,50/149 (34%),25/46 (54%),24/33 (73%),,3,17,,26,4,5,,,1,,8
+10934377,22,47820,CALENDAR,REGULAR,Round 29,LEAGUE,929,Sandnes Ulf,Local,1ST,05/11/2023,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934377,22,47820,CALENDAR,REGULAR,Round 29,LEAGUE,929,Sandnes Ulf,Local,2ND,05/11/2023,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934377,22,47820,CALENDAR,REGULAR,Round 29,LEAGUE,708,Ranheim IL,Visita,ALL,05/11/2023,29,2,55%,1.88,,20,6,10,5,415,3,2,2,0,7,0,5,8,10,10,,,1,26,,2,341,17,,31/49 (63%),33/56 (58%),6/15 (40%),35%,5,47/126 (37%),11/39 (28%),23/32 (72%),,3,22,,11,5,6,,,0,,14
+10934377,22,47820,CALENDAR,REGULAR,Round 29,LEAGUE,708,Ranheim IL,Visita,1ST,05/11/2023,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934377,22,47820,CALENDAR,REGULAR,Round 29,LEAGUE,708,Ranheim IL,Visita,2ND,05/11/2023,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934400,22,47820,CALENDAR,REGULAR,Round 30,LEAGUE,682,Åsane,Local,ALL,12/11/2023,30,2,44%,4.64,,15,1,7,11,461,1,1,2,0,7,1,3,4,15,0,,,6,27,,4,402,16,,28/40 (70%),47/60 (78%),11/17 (64%),31%,7,35/114 (31%),10/30 (33%),15/22 (68%),,1,18,,7,2,1,,,,,8
+10934400,22,47820,CALENDAR,REGULAR,Round 30,LEAGUE,682,Åsane,Local,1ST,12/11/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934400,22,47820,CALENDAR,REGULAR,Round 30,LEAGUE,682,Åsane,Local,2ND,12/11/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934400,22,47820,CALENDAR,REGULAR,Round 30,LEAGUE,929,Sandnes Ulf,Visita,ALL,12/11/2023,30,0,56%,0.75,,10,6,3,8,522,5,2,0,0,1,0,4,5,5,5,,,1,11,,4,439,16,,49/77 (64%),22/44 (50%),7/18 (38%),38%,9,42/117 (36%),15/31 (48%),21/26 (81%),,5,18,,15,4,6,,,,,6
+10934400,22,47820,CALENDAR,REGULAR,Round 30,LEAGUE,929,Sandnes Ulf,Visita,1ST,12/11/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10934400,22,47820,CALENDAR,REGULAR,Round 30,LEAGUE,929,Sandnes Ulf,Visita,2ND,12/11/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918088,22,57356,CALENDAR,REGULAR,Round 1,LEAGUE,929,Sandnes Ulf,Local,ALL,01/04/2024,1,3,43%,1.85,,14,3,6,9,378,4,3,3,0,7,0,2,5,9,5,,,1,13,,2,307,24,,39/55 (71%),27/59 (45%),6/15 (40%),34%,5,38/126 (30%),21/47 (45%),20/30 (67%),,4,11,,16,4,3,,,2,,11
+11918088,22,57356,CALENDAR,REGULAR,Round 1,LEAGUE,929,Sandnes Ulf,Local,1ST,01/04/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918088,22,57356,CALENDAR,REGULAR,Round 1,LEAGUE,929,Sandnes Ulf,Local,2ND,01/04/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918088,22,57356,CALENDAR,REGULAR,Round 1,LEAGUE,920,Egersund,Visita,ALL,01/04/2024,1,4,57%,2.05,,16,4,4,12,462,2,0,1,0,7,0,4,5,9,7,,,0,20,,1,396,22,,47/62 (76%),28/54 (51%),4/12 (33%),34%,9,37/127 (29%),23/46 (50%),13/19 (68%),,2,15,,6,4,4,,,0,,5
+11918088,22,57356,CALENDAR,REGULAR,Round 1,LEAGUE,920,Egersund,Visita,1ST,01/04/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918088,22,57356,CALENDAR,REGULAR,Round 1,LEAGUE,920,Egersund,Visita,2ND,01/04/2024,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918095,22,57356,CALENDAR,REGULAR,Round 2,LEAGUE,708,Ranheim IL,Local,ALL,06/04/2024,2,3,63%,2.58,,15,2,10,11,508,3,2,2,0,7,0,5,3,11,4,,,3,29,,1,440,20,,45/65 (69%),33/50 (66%),5/19 (26%),39%,5,36/91 (40%),14/37 (38%),19/22 (86%),,3,11,,14,1,2,,,,,4
+11918095,22,57356,CALENDAR,REGULAR,Round 2,LEAGUE,708,Ranheim IL,Local,1ST,06/04/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918095,22,57356,CALENDAR,REGULAR,Round 2,LEAGUE,708,Ranheim IL,Local,2ND,06/04/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918095,22,57356,CALENDAR,REGULAR,Round 2,LEAGUE,929,Sandnes Ulf,Visita,ALL,06/04/2024,2,1,37%,1.26,,9,4,6,13,325,4,2,2,0,3,0,5,1,6,3,,,3,16,,0,265,21,,21/36 (58%),30/47 (63%),4/11 (36%),42%,1,39/104 (38%),23/41 (56%),15/22 (68%),,4,11,,23,2,4,,,,,5
+11918095,22,57356,CALENDAR,REGULAR,Round 2,LEAGUE,929,Sandnes Ulf,Visita,1ST,06/04/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918095,22,57356,CALENDAR,REGULAR,Round 2,LEAGUE,929,Sandnes Ulf,Visita,2ND,06/04/2024,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918105,22,57356,CALENDAR,REGULAR,Round 3,LEAGUE,929,Sandnes Ulf,Local,ALL,15/04/2024,3,2,51%,0.60,,6,1,1,12,496,1,1,2,0,4,0,1,1,3,3,,,3,11,,0,438,13,,45/57 (79%),32/53 (60%),5/11 (45%),30%,4,29/118 (25%),17/33 (52%),13/15 (87%),,1,9,,44,1,1,,,1,,14
+11918105,22,57356,CALENDAR,REGULAR,Round 3,LEAGUE,929,Sandnes Ulf,Local,1ST,15/04/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918105,22,57356,CALENDAR,REGULAR,Round 3,LEAGUE,929,Sandnes Ulf,Local,2ND,15/04/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918105,22,57356,CALENDAR,REGULAR,Round 3,LEAGUE,668,Raufoss,Visita,ALL,15/04/2024,3,0,49%,0.79,,13,2,6,11,423,1,3,3,0,1,0,4,8,4,9,,,0,12,,2,347,36,,57/77 (74%),25/39 (64%),6/22 (27%),37%,3,42/107 (39%),10/31 (32%),27/32 (84%),,1,12,,7,1,2,,,0,,5
+11918105,22,57356,CALENDAR,REGULAR,Round 3,LEAGUE,668,Raufoss,Visita,1ST,15/04/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918105,22,57356,CALENDAR,REGULAR,Round 3,LEAGUE,668,Raufoss,Visita,2ND,15/04/2024,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918114,22,57356,CALENDAR,REGULAR,Round 4,LEAGUE,667,IK Start,Local,ALL,20/04/2024,4,1,51%,0.95,,12,2,4,13,456,3,2,2,0,4,0,4,4,5,7,,,2,10,,2,375,25,,41/63 (65%),23/53 (43%),3/9 (33%),39%,5,44/131 (34%),26/47 (55%),19/26 (73%),,3,31,,23,2,2,,,1,,11
+11918114,22,57356,CALENDAR,REGULAR,Round 4,LEAGUE,667,IK Start,Local,1ST,20/04/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918114,22,57356,CALENDAR,REGULAR,Round 4,LEAGUE,667,IK Start,Local,2ND,20/04/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918114,22,57356,CALENDAR,REGULAR,Round 4,LEAGUE,929,Sandnes Ulf,Visita,ALL,20/04/2024,4,1,49%,2.44,,11,3,8,8,513,3,4,2,0,3,0,5,3,8,3,,,1,15,,1,422,29,,35/58 (60%),32/67 (47%),8/19 (42%),30%,7,40/137 (29%),19/54 (35%),14/24 (58%),,3,15,,14,1,3,,,2,,5
+11918114,22,57356,CALENDAR,REGULAR,Round 4,LEAGUE,929,Sandnes Ulf,Visita,1ST,20/04/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918114,22,57356,CALENDAR,REGULAR,Round 4,LEAGUE,929,Sandnes Ulf,Visita,2ND,20/04/2024,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918119,22,57356,CALENDAR,REGULAR,Round 5,LEAGUE,929,Sandnes Ulf,Local,ALL,27/04/2024,5,2,41%,0.37,,7,1,2,8,394,3,1,1,0,3,0,3,1,2,5,,,4,5,,1,322,17,,46/66 (70%),30/60 (50%),1/9 (11%),38%,6,30/111 (27%),30/45 (67%),10/16 (63%),,3,16,,15,7,1,,,1,,10
+11918119,22,57356,CALENDAR,REGULAR,Round 5,LEAGUE,929,Sandnes Ulf,Local,1ST,27/04/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918119,22,57356,CALENDAR,REGULAR,Round 5,LEAGUE,929,Sandnes Ulf,Local,2ND,27/04/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918119,22,57356,CALENDAR,REGULAR,Round 5,LEAGUE,866,Levanger FK,Visita,ALL,27/04/2024,5,2,59%,2.12,,18,1,6,6,567,1,2,1,0,3,3,6,6,11,7,,,0,29,,2,492,19,,66/84 (79%),28/44 (63%),13/26 (50%),33%,11,44/120 (37%),11/42 (26%),23/31 (74%),,1,10,,12,0,1,,,0,,6
+11918119,22,57356,CALENDAR,REGULAR,Round 5,LEAGUE,866,Levanger FK,Visita,1ST,27/04/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918119,22,57356,CALENDAR,REGULAR,Round 5,LEAGUE,866,Levanger FK,Visita,2ND,27/04/2024,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918128,22,57356,CALENDAR,REGULAR,Round 6,LEAGUE,929,Sandnes Ulf,Local,ALL,04/05/2024,6,3,42%,1.35,,14,5,4,10,362,4,2,5,0,6,0,7,1,9,5,,,0,22,,0,283,17,,29/50 (58%),18/52 (34%),6/11 (54%),41%,7,46/109 (42%),15/37 (41%),19/24 (79%),,4,20,,13,9,5,,,1,,11
+11918128,22,57356,CALENDAR,REGULAR,Round 6,LEAGUE,929,Sandnes Ulf,Local,1ST,04/05/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918128,22,57356,CALENDAR,REGULAR,Round 6,LEAGUE,929,Sandnes Ulf,Local,2ND,04/05/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918128,22,57356,CALENDAR,REGULAR,Round 6,LEAGUE,662,Moss FK,Visita,ALL,04/05/2024,6,3,58%,3.26,,20,3,5,11,485,4,2,1,0,8,1,4,7,16,4,,,2,31,,2,413,12,,42/59 (71%),36/56 (64%),9/17 (52%),39%,4,37/113 (33%),21/33 (64%),13/18 (72%),,4,16,,13,4,3,,,2,,8
+11918128,22,57356,CALENDAR,REGULAR,Round 6,LEAGUE,662,Moss FK,Visita,1ST,04/05/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918128,22,57356,CALENDAR,REGULAR,Round 6,LEAGUE,662,Moss FK,Visita,2ND,04/05/2024,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918137,22,57356,CALENDAR,REGULAR,Round 7,LEAGUE,665,Sogndal IL,Local,ALL,11/05/2024,7,5,53%,3.01,,16,3,4,4,475,1,3,0,0,7,1,2,6,12,4,,,0,38,,1,409,20,,53/66 (80%),29/57 (50%),4/14 (28%),39%,4,32/83 (39%),12/28 (43%),19/27 (70%),,1,7,,7,3,3,,,1,,7
+11918137,22,57356,CALENDAR,REGULAR,Round 7,LEAGUE,665,Sogndal IL,Local,1ST,11/05/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918137,22,57356,CALENDAR,REGULAR,Round 7,LEAGUE,665,Sogndal IL,Local,2ND,11/05/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918137,22,57356,CALENDAR,REGULAR,Round 7,LEAGUE,929,Sandnes Ulf,Visita,ALL,11/05/2024,7,1,47%,1.20,,13,3,4,7,467,1,0,1,0,4,0,4,5,11,2,,,1,26,,0,406,16,,41/57 (72%),26/41 (63%),5/15 (33%),36%,7,42/127 (33%),14/27 (52%),19/22 (86%),,1,15,,8,1,3,,,0,,8
+11918137,22,57356,CALENDAR,REGULAR,Round 7,LEAGUE,929,Sandnes Ulf,Visita,1ST,11/05/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918137,22,57356,CALENDAR,REGULAR,Round 7,LEAGUE,929,Sandnes Ulf,Visita,2ND,11/05/2024,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918143,22,57356,CALENDAR,REGULAR,Round 8,LEAGUE,929,Sandnes Ulf,Local,ALL,16/05/2024,8,2,39%,2.43,,11,10,5,12,239,2,2,3,0,4,1,0,6,8,3,,,0,10,,0,164,20,,18/33 (55%),28/65 (43%),2/6 (33%),32%,9,30/113 (27%),30/71 (42%),12/19 (63%),,2,19,,33,3,10,,,3,,14
+11918143,22,57356,CALENDAR,REGULAR,Round 8,LEAGUE,929,Sandnes Ulf,Local,1ST,16/05/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918143,22,57356,CALENDAR,REGULAR,Round 8,LEAGUE,929,Sandnes Ulf,Local,2ND,16/05/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918143,22,57356,CALENDAR,REGULAR,Round 8,LEAGUE,663,Bryne FK,Visita,ALL,16/05/2024,8,1,61%,2.88,,31,2,13,11,479,2,3,2,0,11,1,8,11,20,11,,,1,47,,1,394,34,,58/82 (71%),33/53 (62%),14/35 (40%),39%,4,44/121 (36%),31/68 (46%),20/28 (71%),,2,12,,13,1,2,,,0,,9
+11918143,22,57356,CALENDAR,REGULAR,Round 8,LEAGUE,663,Bryne FK,Visita,1ST,16/05/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918143,22,57356,CALENDAR,REGULAR,Round 8,LEAGUE,663,Bryne FK,Visita,2ND,16/05/2024,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918155,22,57356,CALENDAR,REGULAR,Round 9,LEAGUE,657,Lyn FK,Local,ALL,23/05/2024,9,5,48%,2.80,,16,0,2,11,324,0,2,0,0,10,1,4,1,12,4,,,3,22,,5,245,27,,47/68 (69%),28/52 (53%),7/21 (33%),31%,7,33/110 (30%),17/50 (34%),12/20 (60%),,0,15,,17,1,0,,,,,15
+11918155,22,57356,CALENDAR,REGULAR,Round 9,LEAGUE,657,Lyn FK,Local,1ST,23/05/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918155,22,57356,CALENDAR,REGULAR,Round 9,LEAGUE,657,Lyn FK,Local,2ND,23/05/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918155,22,57356,CALENDAR,REGULAR,Round 9,LEAGUE,929,Sandnes Ulf,Visita,ALL,23/05/2024,9,0,52%,0.85,,12,5,5,8,400,2,0,1,0,0,0,7,5,6,6,,,2,23,,2,312,30,,32/54 (59%),36/75 (48%),8/18 (44%),49%,9,46/109 (42%),31/48 (65%),16/22 (73%),,2,20,,27,3,5,,,,,7
+11918155,22,57356,CALENDAR,REGULAR,Round 9,LEAGUE,929,Sandnes Ulf,Visita,1ST,23/05/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918155,22,57356,CALENDAR,REGULAR,Round 9,LEAGUE,929,Sandnes Ulf,Visita,2ND,23/05/2024,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918161,22,57356,CALENDAR,REGULAR,Round 10,LEAGUE,929,Sandnes Ulf,Local,ALL,27/05/2024,10,0,59%,1.28,,16,5,9,8,599,5,0,3,0,4,0,7,5,7,9,,,2,17,,2,521,23,,56/67 (84%),31/54 (57%),5/23 (21%),36%,5,47/137 (34%),11/21 (52%),16/24 (67%),,5,22,,15,5,5,,,0,,9
+11918161,22,57356,CALENDAR,REGULAR,Round 10,LEAGUE,929,Sandnes Ulf,Local,1ST,27/05/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918161,22,57356,CALENDAR,REGULAR,Round 10,LEAGUE,929,Sandnes Ulf,Local,2ND,27/05/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918161,22,57356,CALENDAR,REGULAR,Round 10,LEAGUE,672,Kongsvinger,Visita,ALL,27/05/2024,10,2,41%,1.61,,15,4,4,4,423,1,2,2,0,7,0,2,6,9,6,,,0,17,,3,347,21,,40/63 (63%),28/55 (50%),5/13 (38%),35%,4,36/115 (31%),11/18 (61%),15/20 (75%),,1,16,,18,3,4,,,1,,10
+11918161,22,57356,CALENDAR,REGULAR,Round 10,LEAGUE,672,Kongsvinger,Visita,1ST,27/05/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918161,22,57356,CALENDAR,REGULAR,Round 10,LEAGUE,672,Kongsvinger,Visita,2ND,27/05/2024,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918172,22,57356,CALENDAR,REGULAR,Round 11,LEAGUE,682,Åsane,Local,ALL,01/06/2024,11,1,39%,0.92,,11,4,3,12,306,1,0,2,0,4,0,4,3,7,4,,,1,11,,2,238,17,,35/57 (61%),23/52 (44%),8/16 (50%),39%,0,22/66 (33%),21/44 (48%),11/14 (79%),,1,11,,34,1,4,,,3,,14
+11918172,22,57356,CALENDAR,REGULAR,Round 11,LEAGUE,682,Åsane,Local,1ST,01/06/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918172,22,57356,CALENDAR,REGULAR,Round 11,LEAGUE,682,Åsane,Local,2ND,01/06/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918172,22,57356,CALENDAR,REGULAR,Round 11,LEAGUE,929,Sandnes Ulf,Visita,ALL,01/06/2024,11,0,61%,0.20,,6,3,14,10,565,1,3,1,0,4,0,1,1,2,4,,,0,15,,1,489,31,,65/94 (69%),45/74 (60%),7/24 (29%),36%,3,34/85 (40%),12/41 (29%),18/27 (67%),,1,21,,8,0,3,,,0,,8
+11918172,22,57356,CALENDAR,REGULAR,Round 11,LEAGUE,929,Sandnes Ulf,Visita,1ST,01/06/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918172,22,57356,CALENDAR,REGULAR,Round 11,LEAGUE,929,Sandnes Ulf,Visita,2ND,01/06/2024,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918188,22,57356,CALENDAR,REGULAR,Round 13,LEAGUE,929,Sandnes Ulf,Local,ALL,16/06/2024,13,2,52%,1.68,,16,3,2,9,442,5,3,0,0,4,0,6,6,7,9,,,2,22,,3,365,20,,45/70 (64%),38/69 (55%),8/19 (42%),40%,3,43/118 (36%),18/33 (55%),19/28 (68%),,5,15,,19,3,3,,,,,11
+11918188,22,57356,CALENDAR,REGULAR,Round 13,LEAGUE,929,Sandnes Ulf,Local,1ST,16/06/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918188,22,57356,CALENDAR,REGULAR,Round 13,LEAGUE,929,Sandnes Ulf,Local,2ND,16/06/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918188,22,57356,CALENDAR,REGULAR,Round 13,LEAGUE,903,Mjøndalen IF,Visita,ALL,16/06/2024,13,3,48%,1.67,,12,2,9,16,341,0,0,1,0,6,1,4,1,7,5,,,0,22,,3,271,23,,35/53 (66%),20/45 (44%),6/12 (50%),31%,4,34/110 (31%),12/37 (32%),16/23 (70%),,0,7,,17,3,2,,,,,12
+11918188,22,57356,CALENDAR,REGULAR,Round 13,LEAGUE,903,Mjøndalen IF,Visita,1ST,16/06/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918188,22,57356,CALENDAR,REGULAR,Round 13,LEAGUE,903,Mjøndalen IF,Visita,2ND,16/06/2024,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918195,22,57356,CALENDAR,REGULAR,Round 14,LEAGUE,1165,Vålerenga IF,Local,ALL,23/06/2024,14,8,67%,4.93,,27,3,5,5,561,0,1,0,0,14,1,8,4,15,12,,,0,36,,0,513,21,,74/82 (90%),27/35 (77%),11/24 (45%),43%,8,38/87 (44%),7/17 (41%),9/14 (64%),,0,8,,5,0,3,,,0,,7
+11918195,22,57356,CALENDAR,REGULAR,Round 14,LEAGUE,1165,Vålerenga IF,Local,1ST,23/06/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918195,22,57356,CALENDAR,REGULAR,Round 14,LEAGUE,1165,Vålerenga IF,Local,2ND,23/06/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918195,22,57356,CALENDAR,REGULAR,Round 14,LEAGUE,929,Sandnes Ulf,Visita,ALL,23/06/2024,14,0,33%,0.35,,5,6,4,8,329,2,2,0,0,3,0,1,1,3,2,,,1,10,,0,283,10,,26/38 (68%),14/27 (51%),2/5 (40%),28%,2,19/95 (20%),15/25 (60%),2/3 (67%),,2,10,,10,2,6,,,1,,17
+11918195,22,57356,CALENDAR,REGULAR,Round 14,LEAGUE,929,Sandnes Ulf,Visita,1ST,23/06/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918195,22,57356,CALENDAR,REGULAR,Round 14,LEAGUE,929,Sandnes Ulf,Visita,2ND,23/06/2024,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918207,22,57356,CALENDAR,REGULAR,Round 16,LEAGUE,663,Bryne FK,Local,ALL,27/07/2024,16,1,62%,1.25,,16,2,8,12,554,1,2,1,0,5,0,6,5,11,5,,,1,27,,0,466,32,,64/79 (81%),39/70 (55%),12/25 (48%),39%,7,35/109 (32%),42/84 (50%),13/19 (68%),,1,18,,14,2,2,,,0,,6
+11918207,22,57356,CALENDAR,REGULAR,Round 16,LEAGUE,663,Bryne FK,Local,1ST,27/07/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918207,22,57356,CALENDAR,REGULAR,Round 16,LEAGUE,663,Bryne FK,Local,2ND,27/07/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918207,22,57356,CALENDAR,REGULAR,Round 16,LEAGUE,929,Sandnes Ulf,Visita,ALL,27/07/2024,16,1,38%,1.07,,13,5,4,11,266,4,3,2,0,2,1,6,4,5,8,,,1,12,,1,178,17,,23/52 (44%),41/82 (50%),1/2 (50%),37%,4,29/99 (29%),33/66 (50%),11/13 (85%),,4,15,,23,3,5,,,1,,13
+11918207,22,57356,CALENDAR,REGULAR,Round 16,LEAGUE,929,Sandnes Ulf,Visita,1ST,27/07/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918207,22,57356,CALENDAR,REGULAR,Round 16,LEAGUE,929,Sandnes Ulf,Visita,2ND,27/07/2024,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12388233,22,57356,CALENDAR,REGULAR,Round 12,LEAGUE,1162,Stabæk Fotball,Local,ALL,31/07/2024,12,3,65%,2.86,,23,1,2,4,638,0,2,0,0,10,0,7,6,14,9,,,3,33,,4,569,31,,55/76 (72%),14/38 (36%),5/9 (55%),46%,6,60/135 (44%),18/33 (55%),30/37 (81%),,0,10,,13,5,1,,,1,,8
+12388233,22,57356,CALENDAR,REGULAR,Round 12,LEAGUE,1162,Stabæk Fotball,Local,1ST,31/07/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12388233,22,57356,CALENDAR,REGULAR,Round 12,LEAGUE,1162,Stabæk Fotball,Local,2ND,31/07/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12388233,22,57356,CALENDAR,REGULAR,Round 12,LEAGUE,929,Sandnes Ulf,Visita,ALL,31/07/2024,12,0,35%,1.45,,10,7,7,21,288,4,0,2,0,1,0,6,3,7,3,,,1,13,,2,224,25,,24/44 (55%),33/61 (54%),3/8 (37%),27%,7,31/134 (23%),17/39 (44%),8/16 (50%),,4,22,,14,1,7,,,1,,9
+12388233,22,57356,CALENDAR,REGULAR,Round 12,LEAGUE,929,Sandnes Ulf,Visita,1ST,31/07/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12388233,22,57356,CALENDAR,REGULAR,Round 12,LEAGUE,929,Sandnes Ulf,Visita,2ND,31/07/2024,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918221,22,57356,CALENDAR,REGULAR,Round 17,LEAGUE,929,Sandnes Ulf,Local,ALL,03/08/2024,17,0,40%,1.05,,17,1,11,11,392,2,2,1,0,5,0,7,5,8,9,,,5,29,,1,317,26,,40/53 (75%),38/69 (55%),6/24 (25%),41%,5,41/110 (37%),21/40 (53%),12/13 (92%),,2,9,,4,2,1,,,1,,8
+11918221,22,57356,CALENDAR,REGULAR,Round 17,LEAGUE,929,Sandnes Ulf,Local,1ST,03/08/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918221,22,57356,CALENDAR,REGULAR,Round 17,LEAGUE,929,Sandnes Ulf,Local,2ND,03/08/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918221,22,57356,CALENDAR,REGULAR,Round 17,LEAGUE,682,Åsane,Visita,ALL,03/08/2024,17,3,60%,0.86,,10,5,4,9,535,0,1,2,0,4,0,3,3,5,5,,,3,26,,1,468,15,,55/75 (73%),23/44 (52%),8/20 (40%),39%,7,36/104 (35%),22/44 (50%),16/18 (89%),,0,19,,34,5,5,,,4,,12
+11918221,22,57356,CALENDAR,REGULAR,Round 17,LEAGUE,682,Åsane,Visita,1ST,03/08/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918221,22,57356,CALENDAR,REGULAR,Round 17,LEAGUE,682,Åsane,Visita,2ND,03/08/2024,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918225,22,57356,CALENDAR,REGULAR,Round 18,LEAGUE,903,Mjøndalen IF,Local,ALL,10/08/2024,18,0,60%,2.06,,18,3,6,13,481,4,3,2,0,4,1,10,3,12,6,,,3,25,,2,396,31,,56/79 (71%),28/54 (51%),13/26 (50%),39%,4,48/130 (37%),21/45 (47%),30/37 (81%),,4,10,,17,2,3,,,,,6
+11918225,22,57356,CALENDAR,REGULAR,Round 18,LEAGUE,903,Mjøndalen IF,Local,1ST,10/08/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918225,22,57356,CALENDAR,REGULAR,Round 18,LEAGUE,903,Mjøndalen IF,Local,2ND,10/08/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918225,22,57356,CALENDAR,REGULAR,Round 18,LEAGUE,929,Sandnes Ulf,Visita,ALL,10/08/2024,18,1,40%,0.56,,5,4,1,14,267,8,1,3,0,3,0,2,0,3,2,,,1,5,,1,200,25,,32/41 (78%),29/48 (60%),3/9 (33%),34%,9,41/134 (31%),22/47 (47%),17/21 (81%),,8,21,,26,9,4,,,,,22
+11918225,22,57356,CALENDAR,REGULAR,Round 18,LEAGUE,929,Sandnes Ulf,Visita,1ST,10/08/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918225,22,57356,CALENDAR,REGULAR,Round 18,LEAGUE,929,Sandnes Ulf,Visita,2ND,10/08/2024,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541690,22,57356,CALENDAR,REGULAR,Round 15,LEAGUE,929,Sandnes Ulf,Local,ALL,14/08/2024,15,0,46%,0.59,,7,3,6,14,376,4,2,2,0,4,1,1,1,3,4,,,13,9,,1,285,30,,38/63 (60%),35/68 (51%),6/16 (37%),39%,10,41/128 (32%),35/64 (55%),16/20 (80%),,4,17,,20,3,3,,,,,7
+12541690,22,57356,CALENDAR,REGULAR,Round 15,LEAGUE,929,Sandnes Ulf,Local,1ST,14/08/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541690,22,57356,CALENDAR,REGULAR,Round 15,LEAGUE,929,Sandnes Ulf,Local,2ND,14/08/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541690,22,57356,CALENDAR,REGULAR,Round 15,LEAGUE,677,Aalesunds FK,Visita,ALL,14/08/2024,15,2,54%,1.31,,13,4,5,8,426,1,2,2,0,5,0,2,6,6,7,,,6,16,,3,346,25,,42/67 (63%),34/55 (61%),2/15 (13%),40%,13,53/137 (39%),26/60 (43%),21/23 (91%),,1,21,,15,1,4,,,,,5
+12541690,22,57356,CALENDAR,REGULAR,Round 15,LEAGUE,677,Aalesunds FK,Visita,1ST,14/08/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12541690,22,57356,CALENDAR,REGULAR,Round 15,LEAGUE,677,Aalesunds FK,Visita,2ND,14/08/2024,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918238,22,57356,CALENDAR,REGULAR,Round 19,LEAGUE,929,Sandnes Ulf,Local,ALL,19/08/2024,19,1,45%,1.73,,9,6,5,13,354,6,2,1,0,2,0,5,2,6,3,,,1,13,,4,270,20,,34/62 (55%),26/53 (49%),3/13 (23%),32%,9,39/141 (28%),21/45 (47%),12/20 (60%),,6,16,,10,4,6,,,0,,12
+11918238,22,57356,CALENDAR,REGULAR,Round 19,LEAGUE,929,Sandnes Ulf,Local,1ST,19/08/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918238,22,57356,CALENDAR,REGULAR,Round 19,LEAGUE,929,Sandnes Ulf,Local,2ND,19/08/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918238,22,57356,CALENDAR,REGULAR,Round 19,LEAGUE,1162,Stabæk Fotball,Visita,ALL,19/08/2024,19,3,55%,3.86,,23,1,9,5,419,5,1,1,0,9,0,6,8,17,6,,,4,29,,4,350,20,,50/66 (76%),25/46 (54%),1/9 (11%),42%,10,60/142 (42%),20/46 (43%),32/44 (73%),,5,23,,21,4,1,,,1,,11
+11918238,22,57356,CALENDAR,REGULAR,Round 19,LEAGUE,1162,Stabæk Fotball,Visita,1ST,19/08/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918238,22,57356,CALENDAR,REGULAR,Round 19,LEAGUE,1162,Stabæk Fotball,Visita,2ND,19/08/2024,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918241,22,57356,CALENDAR,REGULAR,Round 20,LEAGUE,672,Kongsvinger,Local,ALL,27/08/2024,20,1,55%,1.93,,19,2,12,15,556,3,2,1,0,6,0,7,6,13,6,,,3,33,,0,491,17,,81/93 (87%),32/50 (64%),6/21 (28%),38%,6,39/118 (33%),18/32 (56%),19/26 (73%),,3,23,,19,0,2,,,1,,8
+11918241,22,57356,CALENDAR,REGULAR,Round 20,LEAGUE,672,Kongsvinger,Local,1ST,27/08/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918241,22,57356,CALENDAR,REGULAR,Round 20,LEAGUE,672,Kongsvinger,Local,2ND,27/08/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918241,22,57356,CALENDAR,REGULAR,Round 20,LEAGUE,929,Sandnes Ulf,Visita,ALL,27/08/2024,20,0,45%,0.81,,8,7,3,10,427,0,3,1,0,2,0,2,4,4,4,,,2,20,,3,364,14,,42/52 (81%),48/66 (72%),2/18 (11%),33%,8,38/118 (32%),14/38 (37%),14/18 (78%),,0,16,,22,3,7,,,3,,10
+11918241,22,57356,CALENDAR,REGULAR,Round 20,LEAGUE,929,Sandnes Ulf,Visita,1ST,27/08/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918241,22,57356,CALENDAR,REGULAR,Round 20,LEAGUE,929,Sandnes Ulf,Visita,2ND,27/08/2024,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918254,22,57356,CALENDAR,REGULAR,Round 21,LEAGUE,929,Sandnes Ulf,Local,ALL,01/09/2024,21,0,39%,0.95,,8,6,4,11,327,2,1,2,0,2,1,2,3,5,3,,,1,18,,1,256,21,,24/36 (67%),23/47 (48%),3/14 (21%),31%,2,19/94 (20%),21/35 (60%),7/10 (70%),,2,22,,19,1,6,,,,,15
+11918254,22,57356,CALENDAR,REGULAR,Round 21,LEAGUE,929,Sandnes Ulf,Local,1ST,01/09/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918254,22,57356,CALENDAR,REGULAR,Round 21,LEAGUE,929,Sandnes Ulf,Local,2ND,01/09/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918254,22,57356,CALENDAR,REGULAR,Round 21,LEAGUE,1165,Vålerenga IF,Visita,ALL,01/09/2024,21,2,61%,2.29,,18,2,12,8,492,0,2,0,0,8,0,7,3,10,8,,,0,21,,2,414,23,,59/71 (83%),33/53 (62%),4/19 (21%),35%,7,28/82 (34%),13/35 (37%),14/17 (82%),,0,10,,4,3,2,,,,,7
+11918254,22,57356,CALENDAR,REGULAR,Round 21,LEAGUE,1165,Vålerenga IF,Visita,1ST,01/09/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918254,22,57356,CALENDAR,REGULAR,Round 21,LEAGUE,1165,Vålerenga IF,Visita,2ND,01/09/2024,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918263,22,57356,CALENDAR,REGULAR,Round 22,LEAGUE,677,Aalesunds FK,Local,ALL,16/09/2024,22,2,42%,3.91,,18,3,12,13,276,1,8,0,0,7,1,3,7,14,4,,,2,40,,0,213,19,,29/47 (62%),26/43 (60%),9/25 (36%),39%,8,50/142 (35%),27/55 (49%),24/35 (69%),,1,22,,19,6,3,,,0,,13
+11918263,22,57356,CALENDAR,REGULAR,Round 22,LEAGUE,677,Aalesunds FK,Local,1ST,16/09/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918263,22,57356,CALENDAR,REGULAR,Round 22,LEAGUE,677,Aalesunds FK,Local,2ND,16/09/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918263,22,57356,CALENDAR,REGULAR,Round 22,LEAGUE,929,Sandnes Ulf,Visita,ALL,16/09/2024,22,0,58%,1.60,,13,5,6,13,463,6,1,4,0,3,0,8,2,10,3,,,1,15,,2,392,23,,39/56 (70%),33/57 (57%),3/13 (23%),37%,10,49/139 (35%),24/58 (41%),13/24 (54%),,6,15,,37,4,5,,,2,,8
+11918263,22,57356,CALENDAR,REGULAR,Round 22,LEAGUE,929,Sandnes Ulf,Visita,1ST,16/09/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918263,22,57356,CALENDAR,REGULAR,Round 22,LEAGUE,929,Sandnes Ulf,Visita,2ND,16/09/2024,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918269,22,57356,CALENDAR,REGULAR,Round 23,LEAGUE,929,Sandnes Ulf,Local,ALL,21/09/2024,23,1,40%,1.02,,7,3,1,19,292,2,3,2,0,1,0,3,3,3,4,,,1,8,,1,222,22,,29/51 (57%),26/65 (40%),5/6 (83%),43%,8,46/143 (32%),39/53 (74%),14/17 (82%),,2,17,,20,1,3,,,2,,13
+11918269,22,57356,CALENDAR,REGULAR,Round 23,LEAGUE,929,Sandnes Ulf,Local,1ST,21/09/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918269,22,57356,CALENDAR,REGULAR,Round 23,LEAGUE,929,Sandnes Ulf,Local,2ND,21/09/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918269,22,57356,CALENDAR,REGULAR,Round 23,LEAGUE,665,Sogndal IL,Visita,ALL,21/09/2024,23,0,60%,1.49,,13,0,5,14,446,0,7,2,0,3,0,6,4,9,4,,,4,22,,1,380,18,,49/62 (79%),33/48 (68%),5/18 (27%),32%,10,50/143 (35%),12/49 (24%),24/32 (75%),,0,4,,8,3,0,,,0,,6
+11918269,22,57356,CALENDAR,REGULAR,Round 23,LEAGUE,665,Sogndal IL,Visita,1ST,21/09/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918269,22,57356,CALENDAR,REGULAR,Round 23,LEAGUE,665,Sogndal IL,Visita,2ND,21/09/2024,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918275,22,57356,CALENDAR,REGULAR,Round 24,LEAGUE,662,Moss FK,Local,ALL,25/09/2024,24,6,52%,2.75,,14,3,4,11,371,3,5,2,0,8,0,5,1,11,3,,,3,35,,1,299,12,,31/47 (66%),28/52 (53%),10/18 (55%),45%,4,46/108 (43%),17/32 (53%),20/29 (69%),,3,17,,20,0,3,,,,,8
+11918275,22,57356,CALENDAR,REGULAR,Round 24,LEAGUE,662,Moss FK,Local,1ST,25/09/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918275,22,57356,CALENDAR,REGULAR,Round 24,LEAGUE,662,Moss FK,Local,2ND,25/09/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918275,22,57356,CALENDAR,REGULAR,Round 24,LEAGUE,929,Sandnes Ulf,Visita,ALL,25/09/2024,24,1,48%,0.89,,6,4,6,16,371,3,5,1,0,4,0,2,0,2,4,,,2,9,,3,286,29,,32/55 (58%),23/56 (41%),3/8 (37%),25%,6,25/106 (24%),10/29 (34%),6/9 (67%),,3,6,,11,3,4,,,,,10
+11918275,22,57356,CALENDAR,REGULAR,Round 24,LEAGUE,929,Sandnes Ulf,Visita,1ST,25/09/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918275,22,57356,CALENDAR,REGULAR,Round 24,LEAGUE,929,Sandnes Ulf,Visita,2ND,25/09/2024,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918284,22,57356,CALENDAR,REGULAR,Round 25,LEAGUE,929,Sandnes Ulf,Local,ALL,28/09/2024,25,0,52%,0.64,,11,3,4,11,379,3,4,2,1,3,0,5,3,2,9,,,1,13,,0,295,16,,37/56 (66%),28/55 (50%),13/29 (44%),34%,6,39/105 (37%),18/59 (31%),7/10 (70%),,3,9,,18,2,3,,,0,,6
+11918284,22,57356,CALENDAR,REGULAR,Round 25,LEAGUE,929,Sandnes Ulf,Local,1ST,28/09/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918284,22,57356,CALENDAR,REGULAR,Round 25,LEAGUE,929,Sandnes Ulf,Local,2ND,28/09/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918284,22,57356,CALENDAR,REGULAR,Round 25,LEAGUE,667,IK Start,Visita,ALL,28/09/2024,25,4,48%,1.80,,11,4,6,10,373,0,2,0,0,6,1,1,3,7,4,,,0,19,,2,290,24,,32/59 (54%),26/55 (47%),1/8 (12%),40%,8,24/79 (30%),32/60 (53%),3/3 (100%),,0,13,,14,3,4,,,1,,8
+11918284,22,57356,CALENDAR,REGULAR,Round 25,LEAGUE,667,IK Start,Visita,1ST,28/09/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918284,22,57356,CALENDAR,REGULAR,Round 25,LEAGUE,667,IK Start,Visita,2ND,28/09/2024,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12913182,22,57356,CALENDAR,REGULAR,Round 26,LEAGUE,668,Raufoss,Local,ALL,02/10/2024,26,1,66%,0.90,,10,1,1,9,631,0,2,1,0,3,0,5,2,3,7,,,0,9,,1,539,31,,68/85 (80%),23/46 (50%),7/28 (25%),34%,8,32/99 (32%),13/31 (42%),13/18 (72%),,0,13,,5,2,1,,,1,,4
+12913182,22,57356,CALENDAR,REGULAR,Round 26,LEAGUE,668,Raufoss,Local,1ST,02/10/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12913182,22,57356,CALENDAR,REGULAR,Round 26,LEAGUE,668,Raufoss,Local,2ND,02/10/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12913182,22,57356,CALENDAR,REGULAR,Round 26,LEAGUE,929,Sandnes Ulf,Visita,ALL,02/10/2024,26,1,34%,1.54,,10,2,4,8,316,5,0,1,0,2,0,3,5,5,5,,,3,12,,1,261,15,,26/39 (67%),26/46 (56%),4/5 (80%),41%,5,39/100 (39%),16/33 (48%),20/33 (61%),,5,24,,37,6,2,,,1,,10
+12913182,22,57356,CALENDAR,REGULAR,Round 26,LEAGUE,929,Sandnes Ulf,Visita,1ST,02/10/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12913182,22,57356,CALENDAR,REGULAR,Round 26,LEAGUE,929,Sandnes Ulf,Visita,2ND,02/10/2024,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918301,22,57356,CALENDAR,REGULAR,Round 27,LEAGUE,929,Sandnes Ulf,Local,ALL,21/10/2024,27,0,49%,1.66,,20,3,5,10,341,1,7,2,0,6,0,8,6,10,10,,,1,17,,1,268,22,,32/49 (65%),28/55 (50%),3/10 (30%),41%,9,50/131 (38%),27/53 (51%),14/19 (74%),,1,30,,16,0,3,,,,,3
+11918301,22,57356,CALENDAR,REGULAR,Round 27,LEAGUE,929,Sandnes Ulf,Local,1ST,21/10/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918301,22,57356,CALENDAR,REGULAR,Round 27,LEAGUE,929,Sandnes Ulf,Local,2ND,21/10/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918301,22,57356,CALENDAR,REGULAR,Round 27,LEAGUE,657,Lyn FK,Visita,ALL,21/10/2024,27,1,51%,0.38,,6,6,9,15,377,1,0,0,0,4,0,0,2,4,2,,,1,16,,1,294,22,,42/58 (72%),27/50 (54%),5/18 (27%),36%,10,43/133 (32%),26/57 (46%),10/12 (83%),,1,9,,14,8,6,,,,,10
+11918301,22,57356,CALENDAR,REGULAR,Round 27,LEAGUE,657,Lyn FK,Visita,1ST,21/10/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918301,22,57356,CALENDAR,REGULAR,Round 27,LEAGUE,657,Lyn FK,Visita,2ND,21/10/2024,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918306,22,57356,CALENDAR,REGULAR,Round 28,LEAGUE,866,Levanger FK,Local,ALL,26/10/2024,28,4,48%,2.49,,12,3,5,12,379,3,2,0,0,8,1,1,2,10,2,,,1,33,,1,316,22,,55/74 (74%),33/58 (56%),6/12 (50%),28%,9,33/137 (24%),22/57 (39%),9/14 (64%),,3,16,,6,1,3,,,,,8
+11918306,22,57356,CALENDAR,REGULAR,Round 28,LEAGUE,866,Levanger FK,Local,1ST,26/10/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918306,22,57356,CALENDAR,REGULAR,Round 28,LEAGUE,866,Levanger FK,Local,2ND,26/10/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918306,22,57356,CALENDAR,REGULAR,Round 28,LEAGUE,929,Sandnes Ulf,Visita,ALL,26/10/2024,28,0,52%,0.44,,9,4,2,7,451,1,4,0,0,3,0,4,2,4,5,,,0,8,,0,378,18,,49/64 (77%),33/55 (60%),2/8 (25%),44%,10,55/135 (41%),30/56 (54%),14/20 (70%),,1,14,,12,4,4,,,,,4
+11918306,22,57356,CALENDAR,REGULAR,Round 28,LEAGUE,929,Sandnes Ulf,Visita,1ST,26/10/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918306,22,57356,CALENDAR,REGULAR,Round 28,LEAGUE,929,Sandnes Ulf,Visita,2ND,26/10/2024,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918318,22,57356,CALENDAR,REGULAR,Round 29,LEAGUE,929,Sandnes Ulf,Local,ALL,02/11/2024,29,2,41%,2.00,,22,4,6,8,360,3,3,2,0,6,2,4,10,13,9,,,2,31,,0,297,15,,27/45 (60%),26/46 (56%),5/16 (31%),40%,9,49/137 (36%),22/39 (56%),32/45 (71%),,3,25,,23,4,4,,,0,,7
+11918318,22,57356,CALENDAR,REGULAR,Round 29,LEAGUE,929,Sandnes Ulf,Local,1ST,02/11/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918318,22,57356,CALENDAR,REGULAR,Round 29,LEAGUE,929,Sandnes Ulf,Local,2ND,02/11/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918318,22,57356,CALENDAR,REGULAR,Round 29,LEAGUE,708,Ranheim IL,Visita,ALL,02/11/2024,29,6,59%,3.21,,21,4,3,9,529,2,2,3,0,10,1,4,6,13,8,,,6,30,,0,466,20,,46/65 (71%),29/46 (63%),7/12 (58%),35%,8,41/124 (33%),17/39 (44%),23/31 (74%),,2,19,,26,4,4,,,3,,6
+11918318,22,57356,CALENDAR,REGULAR,Round 29,LEAGUE,708,Ranheim IL,Visita,1ST,02/11/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918318,22,57356,CALENDAR,REGULAR,Round 29,LEAGUE,708,Ranheim IL,Visita,2ND,02/11/2024,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918322,22,57356,CALENDAR,REGULAR,Round 30,LEAGUE,920,Egersund,Local,ALL,09/11/2024,30,3,57%,2.27,,10,4,4,9,463,1,1,0,1,4,0,1,5,6,4,,,2,17,,3,386,28,,24/50 (48%),24/49 (48%),5/14 (35%),43%,10,41/104 (39%),19/33 (58%),11/14 (79%),,1,10,,17,3,4,,,1,,6
+11918322,22,57356,CALENDAR,REGULAR,Round 30,LEAGUE,920,Egersund,Local,1ST,09/11/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918322,22,57356,CALENDAR,REGULAR,Round 30,LEAGUE,920,Egersund,Local,2ND,09/11/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918322,22,57356,CALENDAR,REGULAR,Round 30,LEAGUE,929,Sandnes Ulf,Visita,ALL,09/11/2024,30,1,43%,0.92,,14,1,6,8,397,3,4,4,0,5,0,5,3,7,7,,,2,13,,0,335,27,,34/49 (69%),19/42 (45%),4/13 (30%),31%,7,29/115 (25%),20/40 (50%),4/4 (100%),,3,14,,17,2,1,,,2,,6
+11918322,22,57356,CALENDAR,REGULAR,Round 30,LEAGUE,929,Sandnes Ulf,Visita,1ST,09/11/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11918322,22,57356,CALENDAR,REGULAR,Round 30,LEAGUE,929,Sandnes Ulf,Visita,2ND,09/11/2024,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335946,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,ALL,30/03/2025,1,3,64%,3.21,,13,3,8,13,467,1,3,2,0,8,0,1,4,10,3,,,1,24,,0,397,24,,52/69 (75%),32/51 (62%),1/5 (20%),35%,9,45/122 (37%),16/52 (31%),16/26 (62%),,1,19,,25,3,3,,,0,,12
+13335946,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,1ST,30/03/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335946,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,2ND,30/03/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335946,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,339270,Eik Tønsberg,Visita,ALL,30/03/2025,1,1,36%,1.20,,11,5,3,12,233,3,7,1,0,4,0,3,4,6,5,,,1,16,,2,148,18,,26/52 (50%),28/62 (45%),5/14 (35%),42%,4,41/120 (34%),32/52 (62%),10/14 (71%),,3,14,,17,2,5,,,2,,8
+13335946,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,339270,Eik Tønsberg,Visita,1ST,30/03/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335946,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,339270,Eik Tønsberg,Visita,2ND,30/03/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335952,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,755,Arendal,Local,ALL,05/04/2025,2,3,54%,3.06,,20,1,7,12,410,6,2,1,0,8,0,8,4,11,9,,,0,26,,1,319,20,,45/68 (66%),27/57 (47%),9/28 (32%),43%,8,59/147 (40%),24/45 (53%),27/30 (90%),,6,18,,15,1,1,,,0,,6
+13335952,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,755,Arendal,Local,1ST,05/04/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335952,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,755,Arendal,Local,2ND,05/04/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335952,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,ALL,05/04/2025,2,3,46%,1.83,,8,5,3,18,359,4,1,1,0,4,0,1,3,8,0,,,2,22,,2,268,21,,28/49 (57%),32/58 (55%),4/15 (26%),29%,9,34/145 (23%),21/43 (49%),8/15 (53%),,4,19,,25,3,5,,,1,,12
+13335952,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,1ST,05/04/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335952,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,2ND,05/04/2025,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13701962,29,73890,CALENDAR,PLAYOFF,Round 1,CUP,709,FK Vidar,Local,ALL,13/04/2025,1,2,35%,,,,,5,8,,,11,3,0,4,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+13701962,29,73890,CALENDAR,PLAYOFF,Round 1,CUP,709,FK Vidar,Local,1ST,13/04/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13701962,29,73890,CALENDAR,PLAYOFF,Round 1,CUP,709,FK Vidar,Local,2ND,13/04/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13701962,29,73890,CALENDAR,PLAYOFF,Round 1,CUP,929,Sandnes Ulf,Visita,ALL,13/04/2025,1,0,65%,,,,,8,11,,,8,1,0,2,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,
+13701962,29,73890,CALENDAR,PLAYOFF,Round 1,CUP,929,Sandnes Ulf,Visita,1ST,13/04/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13701962,29,73890,CALENDAR,PLAYOFF,Round 1,CUP,929,Sandnes Ulf,Visita,2ND,13/04/2025,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335959,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,ALL,21/04/2025,3,2,49%,3.00,,25,1,10,10,433,4,2,1,0,10,0,9,6,14,11,,,4,37,,1,363,21,,47/67 (70%),25/45 (55%),12/31 (38%),46%,1,50/99 (51%),9/27 (33%),22/23 (96%),,4,11,,8,2,1,,,,,8
+13335959,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,1ST,21/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335959,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,2ND,21/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335959,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,729,Pors Grenland,Visita,ALL,21/04/2025,3,1,51%,1.52,,9,8,0,12,422,5,4,3,1,2,0,3,4,7,2,,,2,18,,1,361,16,,36/51 (71%),23/45 (51%),3/7 (42%),31%,6,26/97 (27%),13/27 (48%),10/13 (77%),,5,16,,21,5,8,,,,,11
+13335959,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,729,Pors Grenland,Visita,1ST,21/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335959,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,729,Pors Grenland,Visita,2ND,21/04/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335970,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,872,SK Brann II,Local,ALL,28/04/2025,4,2,71%,1.07,,20,7,7,11,628,2,0,4,0,7,1,3,9,9,11,,,1,27,,1,561,9,,74/92 (80%),19/35 (54%),3/12 (25%),46%,9,51/123 (41%),22/33 (67%),27/34 (79%),,2,22,,16,2,7,,,,,9
+13335970,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,872,SK Brann II,Local,1ST,28/04/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335970,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,872,SK Brann II,Local,2ND,28/04/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335970,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,ALL,28/04/2025,4,1,29%,2.55,,20,6,6,6,286,2,3,2,0,8,0,8,4,14,6,,,2,32,,5,219,15,,22/36 (61%),26/53 (49%),4/16 (25%),38%,5,49/126 (39%),12/34 (35%),21/25 (84%),,2,18,,12,3,6,,,,,8
+13335970,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,1ST,28/04/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335970,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,2ND,28/04/2025,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335974,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,ALL,03/05/2025,5,1,65%,2.51,,18,1,14,9,604,2,0,1,0,6,1,6,5,15,3,,,2,42,,3,522,23,,71/85 (84%),17/35 (48%),10/36 (27%),43%,4,46/97 (47%),11/34 (32%),21/24 (88%),,2,15,,12,0,1,,,,,4
+13335974,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,1ST,03/05/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335974,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,2ND,03/05/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335974,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,689,Træff,Visita,ALL,03/05/2025,5,1,35%,0.60,,4,5,3,8,297,0,1,3,0,2,1,1,0,4,0,,,0,6,,0,234,18,,15/36 (42%),18/46 (39%),0/6 (0%),33%,7,23/97 (24%),21/33 (64%),8/14 (57%),,0,23,,48,3,5,,,,,13
+13335974,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,689,Træff,Visita,1ST,03/05/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335974,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,689,Træff,Visita,2ND,03/05/2025,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335982,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,954,Brattvåg,Local,ALL,11/05/2025,6,2,59%,1.91,,16,1,7,11,611,1,2,2,0,11,0,2,3,10,6,,,1,30,,3,538,22,,70/81 (86%),16/31 (51%),5/8 (62%),40%,7,39/111 (35%),17/26 (65%),10/14 (71%),,1,15,,24,3,1,,,,,9
+13335982,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,954,Brattvåg,Local,1ST,11/05/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335982,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,954,Brattvåg,Local,2ND,11/05/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335982,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,ALL,11/05/2025,6,5,41%,2.94,,14,9,9,11,333,3,4,1,0,6,0,4,4,11,3,,,2,19,,2,259,20,,29/53 (55%),22/46 (47%),2/8 (25%),37%,3,35/96 (36%),8/20 (40%),5/11 (45%),,3,14,,7,2,9,,,,,6
+13335982,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,1ST,11/05/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335982,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,2ND,11/05/2025,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335987,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,ALL,24/05/2025,7,0,51%,1.71,,12,1,7,12,406,2,2,2,0,3,0,6,3,10,2,,,0,23,,1,325,28,,54/69 (78%),27/48 (56%),11/22 (50%),42%,9,38/112 (34%),31/52 (60%),16/19 (84%),,2,8,,9,2,1,,,0,,6
+13335987,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,1ST,24/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335987,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,2ND,24/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335987,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,193952,Lysekloster IL,Visita,ALL,24/05/2025,7,0,49%,0.07,,6,3,2,13,361,1,7,2,0,1,0,4,1,1,5,,,0,5,,1,289,20,,21/41 (51%),23/54 (42%),4/7 (57%),40%,5,37/97 (38%),27/63 (43%),8/10 (80%),,1,13,,32,3,3,,,1,,13
+13335987,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,193952,Lysekloster IL,Visita,1ST,24/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335987,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,193952,Lysekloster IL,Visita,2ND,24/05/2025,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335995,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,862,FK Jerv,Local,ALL,31/05/2025,8,1,61%,2.81,,18,1,8,9,536,4,1,3,0,7,1,6,4,12,6,,,1,33,,2,440,32,,57/83 (69%),53/81 (65%),15/32 (46%),37%,5,40/120 (33%),25/52 (48%),18/23 (78%),,4,13,,25,1,1,,,0,,6
+13335995,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,862,FK Jerv,Local,1ST,31/05/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335995,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,862,FK Jerv,Local,2ND,31/05/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335995,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,ALL,31/05/2025,8,3,39%,2.31,,8,7,3,6,275,0,0,3,0,4,0,1,3,8,0,,,4,18,,0,188,26,,23/45 (51%),26/63 (41%),4/10 (40%),41%,5,41/110 (37%),30/62 (48%),14/20 (70%),,0,21,,28,4,7,,,1,,8
+13335995,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,1ST,31/05/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335995,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,2ND,31/05/2025,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335999,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,703,Vard Haugesund,Local,ALL,07/06/2025,9,2,46%,0.85,,8,3,2,10,389,1,1,2,0,5,0,3,0,7,1,,,3,15,,1,292,21,,30/67 (45%),33/67 (49%),4/12 (33%),38%,8,37/114 (32%),24/45 (53%),12/19 (63%),,1,22,,19,1,3,,,,,13
+13335999,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,703,Vard Haugesund,Local,1ST,07/06/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335999,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,703,Vard Haugesund,Local,2ND,07/06/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335999,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,ALL,07/06/2025,9,2,54%,2.24,,14,3,5,8,457,1,3,1,0,5,3,2,4,10,4,,,2,28,,1,346,38,,41/69 (59%),37/79 (46%),7/31 (22%),37%,1,44/110 (40%),13/43 (30%),19/27 (70%),,1,19,,16,1,3,,,,,9
+13335999,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,1ST,07/06/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13335999,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,2ND,07/06/2025,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336011,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,ALL,14/06/2025,10,3,41%,1.89,,15,5,2,17,267,5,2,3,0,7,0,5,3,12,3,,,1,29,,1,203,22,,32/49 (65%),21/42 (50%),2/13 (15%),30%,6,35/140 (25%),24/51 (47%),12/18 (67%),,5,5,,37,2,5,,,2,,11
+13336011,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,1ST,14/06/2025,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336011,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,2ND,14/06/2025,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336011,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,781,Flekkerøy,Visita,ALL,14/06/2025,10,0,59%,1.69,,15,6,9,8,371,2,3,2,0,5,1,5,4,6,9,,,0,19,,3,300,22,,21/34 (62%),33/53 (62%),11/21 (52%),47%,7,63/124 (51%),19/49 (39%),26/30 (87%),,2,9,,15,2,6,,,0,,11
+13336011,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,781,Flekkerøy,Visita,1ST,14/06/2025,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336011,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,781,Flekkerøy,Visita,2ND,14/06/2025,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336016,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,833,Notodden FK,Local,ALL,22/06/2025,11,0,40%,0.51,,8,3,4,9,272,1,3,2,1,2,1,2,3,2,6,,,1,4,,2,227,12,,15/23 (65%),29/47 (61%),2/8 (25%),37%,6,32/91 (35%),16/36 (44%),15/20 (75%),,1,12,,22,4,3,,,5,,19
+13336016,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,833,Notodden FK,Local,1ST,22/06/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336016,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,833,Notodden FK,Local,2ND,22/06/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336016,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,ALL,22/06/2025,11,4,60%,2.16,,20,2,12,16,502,2,2,2,0,7,0,3,10,14,6,,,2,29,,3,446,15,,76/87 (87%),18/35 (51%),10/27 (37%),43%,4,42/105 (40%),19/35 (54%),19/24 (79%),,2,7,,12,1,2,,,0,,5
+13336016,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,1ST,22/06/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336016,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,2ND,22/06/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336023,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,ALL,28/06/2025,12,5,47%,2.83,,16,1,6,10,336,3,2,1,0,9,0,3,4,13,3,,,1,27,,1,265,19,,33/55 (60%),27/52 (51%),3/10 (30%),43%,2,51/116 (44%),17/41 (41%),19/26 (73%),,3,14,,25,0,1,,,0,,7
+13336023,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,1ST,28/06/2025,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336023,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,2ND,28/06/2025,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336023,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,7472,Sandviken,Visita,ALL,28/06/2025,12,1,53%,0.51,,7,4,4,7,393,6,1,0,0,2,0,3,2,4,3,,,1,15,,3,328,21,,22/42 (52%),39/64 (60%),4/9 (44%),31%,8,28/118 (24%),22/40 (55%),10/14 (71%),,6,16,,8,1,4,,,1,,7
+13336023,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,7472,Sandviken,Visita,1ST,28/06/2025,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336023,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,7472,Sandviken,Visita,2ND,28/06/2025,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336032,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,94839,Sotra,Local,ALL,05/07/2025,13,1,62%,1.78,,15,0,7,15,544,3,1,2,0,2,0,6,7,12,3,,,6,25,,2,466,22,,68/84 (81%),29/46 (63%),11/25 (44%),42%,6,57/139 (41%),22/49 (45%),30/36 (83%),,3,10,,14,4,0,,,1,,6
+13336032,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,94839,Sotra,Local,1ST,05/07/2025,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336032,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,94839,Sotra,Local,2ND,05/07/2025,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336032,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,ALL,05/07/2025,13,2,38%,1.17,,8,3,3,15,311,1,1,4,0,2,0,3,3,5,3,,,3,11,,3,243,26,,31/52 (60%),22/46 (47%),5/8 (62%),34%,9,44/148 (30%),24/48 (50%),14/21 (67%),,1,15,,29,4,3,,,2,,10
+13336032,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,1ST,05/07/2025,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336032,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,2ND,05/07/2025,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336039,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,ALL,13/07/2025,14,7,43%,2.50,,21,6,1,14,306,6,6,1,0,9,0,9,3,12,9,,,0,20,,2,252,21,,20/31 (65%),22/35 (62%),4/6 (66%),39%,10,40/105 (38%),15/33 (45%),13/17 (76%),,6,10,,21,6,6,,,2,,5
+13336039,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,1ST,13/07/2025,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336039,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,2ND,13/07/2025,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336039,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,833,Notodden FK,Visita,ALL,13/07/2025,14,0,57%,1.15,,12,2,7,18,401,1,5,2,0,6,0,4,2,6,6,,,0,15,,1,329,24,,23/33 (70%),17/33 (51%),2/12 (16%),42%,8,49/127 (39%),18/31 (58%),16/22 (73%),,1,10,,13,6,2,,,0,,10
+13336039,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,833,Notodden FK,Visita,1ST,13/07/2025,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336039,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,833,Notodden FK,Visita,2ND,13/07/2025,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336045,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,7472,Sandviken,Local,ALL,09/08/2025,15,0,53%,0.77,,15,3,6,11,420,3,4,1,0,3,1,4,7,4,11,,,3,17,,1,340,17,,22/44 (50%),16/39 (41%),3/12 (25%),40%,4,39/109 (36%),21/38 (55%),20/25 (80%),,3,13,,22,0,3,,,2,,9
+13336045,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,7472,Sandviken,Local,1ST,09/08/2025,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336045,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,7472,Sandviken,Local,2ND,09/08/2025,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336045,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,ALL,09/08/2025,15,2,47%,1.08,,9,4,2,14,367,5,2,2,0,5,0,4,0,7,2,,,3,15,,3,285,37,,25/48 (52%),19/44 (43%),4/10 (40%),36%,1,36/124 (29%),26/47 (55%),9/21 (43%),,5,14,,24,2,4,,,1,,13
+13336045,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,1ST,09/08/2025,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336045,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,2ND,09/08/2025,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336054,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,ALL,17/08/2025,16,0,58%,0.39,,11,0,4,9,462,5,6,3,0,2,0,6,3,2,9,,,0,14,,2,375,22,,51/72 (71%),28/61 (45%),2/22 (9%),45%,6,36/85 (42%),14/25 (56%),6/6 (100%),,5,10,,10,,0,,,0,,9
+13336054,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,1ST,17/08/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336054,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,2ND,17/08/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336054,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,94839,Sotra,Visita,ALL,17/08/2025,16,0,42%,0.62,,7,2,4,19,320,4,1,1,0,0,0,4,3,4,3,,,0,9,,0,248,26,,21/49 (43%),15/45 (33%),3/7 (42%),34%,7,21/75 (28%),16/31 (52%),7/11 (64%),,4,12,,16,,2,,,1,,12
+13336054,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,94839,Sotra,Visita,1ST,17/08/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336054,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,94839,Sotra,Visita,2ND,17/08/2025,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336058,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,729,Pors Grenland,Local,ALL,23/08/2025,17,4,43%,1.20,,11,6,2,8,331,0,3,1,0,4,1,3,3,6,5,,,3,13,,2,273,16,,23/35 (66%),30/58 (51%),3/9 (33%),35%,10,37/117 (32%),25/57 (44%),13/21 (62%),,0,15,,22,3,6,,,2,,15
+13336058,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,729,Pors Grenland,Local,1ST,23/08/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336058,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,729,Pors Grenland,Local,2ND,23/08/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336058,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,ALL,23/08/2025,17,2,57%,2.38,,16,1,7,11,490,3,1,3,0,8,0,8,0,10,6,,,10,20,,2,413,25,,56/76 (74%),32/57 (56%),7/24 (29%),43%,5,44/117 (38%),30/52 (58%),12/17 (71%),,3,3,,15,4,1,,,0,,8
+13336058,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,1ST,23/08/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336058,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,2ND,23/08/2025,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336072,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,ALL,31/08/2025,18,4,38%,2.58,,19,5,3,12,366,5,3,2,0,9,0,7,3,13,6,,,0,21,,0,280,15,,33/56 (59%),29/58 (50%),3/13 (23%),42%,3,43/109 (39%),12/21 (57%),11/18 (61%),,5,19,,20,0,5,,,1,,9
+13336072,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,1ST,31/08/2025,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336072,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,2ND,31/08/2025,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336072,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,862,FK Jerv,Visita,ALL,31/08/2025,18,0,62%,2.08,,13,5,7,14,520,2,3,2,0,5,1,3,4,8,5,,,0,20,,0,432,23,,61/83 (73%),30/56 (53%),4/21 (19%),37%,18,47/124 (38%),8/21 (38%),18/22 (82%),,2,17,,11,2,5,,,0,,9
+13336072,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,862,FK Jerv,Visita,1ST,31/08/2025,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336072,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,862,FK Jerv,Visita,2ND,31/08/2025,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336078,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,689,Træff,Local,ALL,07/09/2025,19,3,40%,0.93,,11,2,5,8,298,2,2,0,0,4,0,4,3,7,4,,,0,18,,3,232,17,,22/42 (52%),31/67 (46%),7/13 (53%),43%,2,36/94 (38%),33/64 (52%),13/17 (76%),,2,24,,28,1,2,,,0,,8
+13336078,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,689,Træff,Local,1ST,07/09/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336078,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,689,Træff,Local,2ND,07/09/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336078,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,ALL,07/09/2025,19,2,60%,0.65,,9,2,8,8,470,0,1,0,0,4,0,3,2,3,6,,,4,16,,9,391,25,,47/67 (70%),40/68 (58%),5/22 (22%),35%,6,26/97 (27%),33/69 (48%),11/28 (39%),,0,9,,21,5,2,,,1,,10
+13336078,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,1ST,07/09/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336078,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,2ND,07/09/2025,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336088,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,ALL,15/09/2025,20,5,50%,3.21,,18,3,11,7,439,4,1,0,0,10,1,2,5,10,8,,,4,30,,6,352,17,,40/58 (69%),25/52 (48%),7/27 (25%),37%,7,45/132 (34%),12/21 (57%),18/21 (86%),,4,14,,6,2,3,,,1,,2
+13336088,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,1ST,15/09/2025,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336088,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,2ND,15/09/2025,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336088,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,872,SK Brann II,Visita,ALL,15/09/2025,20,0,50%,0.17,,7,8,1,9,498,1,2,3,1,2,0,3,2,2,5,,,0,10,,1,417,21,,27/42 (64%),19/42 (45%),0/1 (0%),33%,5,33/104 (32%),10/26 (38%),7/9 (78%),,1,15,,16,2,8,,,2,,8
+13336088,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,872,SK Brann II,Visita,1ST,15/09/2025,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336088,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,872,SK Brann II,Visita,2ND,15/09/2025,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336090,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,781,Flekkerøy,Local,ALL,20/09/2025,21,0,47%,0.33,,6,0,5,8,358,2,2,3,0,0,0,3,3,3,3,,,1,10,,2,271,21,,30/53 (57%),28/58 (48%),1/12 (8%),34%,1,34/99 (34%),15/44 (34%),16/19 (84%),,2,18,,6,0,0,,,,,19
+13336090,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,781,Flekkerøy,Local,1ST,20/09/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336090,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,781,Flekkerøy,Local,2ND,20/09/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336090,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,ALL,20/09/2025,21,2,53%,1.94,,14,0,3,6,448,0,2,3,0,2,0,6,6,9,5,,,3,27,,1,374,25,,47/71 (66%),34/58 (58%),8/17 (47%),46%,5,40/107 (37%),33/49 (67%),17/22 (77%),,0,26,,14,2,0,,,,,8
+13336090,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,1ST,20/09/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336090,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,2ND,20/09/2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14592309,29,80163,CALENDAR,REGULAR,Round 3,CUP,929,Sandnes Ulf,Local,ALL,24/09/2025,3,1,26%,1.07,,3,5,1,15,227,0,0,2,0,2,1,0,0,2,1,,,0,,,2,157,18,,,9/31 (29%),0/3 (0%),28%,14,27/106 (25%),11/27 (41%),8/10 (80%),,0,6,,18,,5,,,,,17
+14592309,29,80163,CALENDAR,REGULAR,Round 3,CUP,929,Sandnes Ulf,Local,1ST,24/09/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14592309,29,80163,CALENDAR,REGULAR,Round 3,CUP,929,Sandnes Ulf,Local,2ND,24/09/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14592309,29,80163,CALENDAR,REGULAR,Round 3,CUP,664,Lillestrøm SK,Visita,ALL,24/09/2025,3,2,74%,2.82,,21,4,10,5,738,3,1,3,0,7,0,7,7,14,7,,,3,,,3,663,19,,,35/52 (67%),10/25 (40%),52%,9,54/108 (50%),16/25 (64%),21/27 (78%),,3,15,,5,,4,,,,,3
+14592309,29,80163,CALENDAR,REGULAR,Round 3,CUP,664,Lillestrøm SK,Visita,1ST,24/09/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14592309,29,80163,CALENDAR,REGULAR,Round 3,CUP,664,Lillestrøm SK,Visita,2ND,24/09/2025,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336097,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,ALL,27/09/2025,22,4,71%,2.00,,13,1,4,9,648,2,3,1,0,8,0,4,1,8,5,,,3,24,,1,587,15,,71/81 (88%),19/35 (54%),6/21 (28%),47%,4,39/86 (45%),18/33 (55%),11/15 (73%),,2,9,,7,0,1,,,0,,7
+13336097,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,1ST,27/09/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336097,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,2ND,27/09/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336097,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,703,Vard Haugesund,Visita,ALL,27/09/2025,22,0,29%,0.70,,8,4,4,16,235,1,4,0,1,1,0,5,2,3,5,,,1,6,,1,183,9,,19/32 (59%),22/45 (48%),5/8 (62%),33%,10,25/84 (30%),15/34 (44%),2/4 (50%),,1,13,,12,2,4,,,1,,10
+13336097,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,703,Vard Haugesund,Visita,1ST,27/09/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336097,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,703,Vard Haugesund,Visita,2ND,27/09/2025,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336104,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,193952,Lysekloster IL,Local,ALL,04/10/2025,23,2,64%,2.04,,6,2,2,10,674,6,1,4,0,3,0,2,1,6,0,,,1,18,,0,594,20,,77/99 (78%),23/42 (54%),6/20 (30%),38%,2,28/78 (36%),6/10 (60%),14/24 (58%),,6,16,,1,2,2,,,1,,8
+13336104,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,193952,Lysekloster IL,Local,1ST,04/10/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336104,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,193952,Lysekloster IL,Local,2ND,04/10/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336104,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,ALL,04/10/2025,23,3,36%,1.08,,10,1,4,10,383,0,1,1,0,5,0,3,2,6,4,,,0,13,,0,314,10,,25/41 (61%),21/48 (43%),2/7 (28%),40%,2,29/75 (39%),6/12 (50%),8/13 (62%),,0,19,,0,0,1,,,0,,6
+13336104,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,1ST,04/10/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336104,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,2ND,04/10/2025,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336115,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,ALL,12/10/2025,24,2,50%,2.53,,15,2,6,12,450,2,2,1,0,8,0,3,4,11,4,,,3,26,,2,387,20,,38/56 (68%),32/51 (62%),4/12 (33%),42%,2,47/111 (42%),4/10 (40%),12/24 (50%),,2,9,,10,1,2,,,,,4
+13336115,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,1ST,12/10/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336115,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,2ND,12/10/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336115,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,954,Brattvåg,Visita,ALL,12/10/2025,24,2,50%,0.77,,9,7,1,14,636,1,2,2,0,4,0,3,2,5,4,,,3,13,,2,567,26,,56/68 (82%),16/34 (47%),0/2 (0%),35%,12,36/108 (33%),5/9 (56%),10/13 (77%),,1,13,,14,1,7,,,,,8
+13336115,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,954,Brattvåg,Visita,1ST,12/10/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336115,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,954,Brattvåg,Visita,2ND,12/10/2025,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336120,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,ALL,18/10/2025,25,4,47%,2.60,,13,1,5,14,406,3,3,0,0,8,0,1,4,10,3,,,0,14,,0,351,20,,41/60 (68%),24/49 (48%),5/12 (41%),41%,3,41/107 (38%),17/33 (52%),12/19 (63%),,3,5,,12,2,1,,,,,5
+13336120,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,1ST,18/10/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336120,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Local,2ND,18/10/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336120,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,755,Arendal,Visita,ALL,18/10/2025,25,1,53%,0.41,,9,4,3,9,396,1,5,0,0,2,0,3,4,6,3,,,3,15,,2,341,11,,34/49 (69%),18/36 (50%),2/10 (20%),42%,9,44/108 (41%),15/32 (47%),16/20 (80%),,1,15,,16,1,4,,,,,7
+13336120,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,755,Arendal,Visita,1ST,18/10/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336120,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,755,Arendal,Visita,2ND,18/10/2025,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336130,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,339270,Eik Tønsberg,Local,ALL,25/10/2025,26,3,44%,0.66,,12,6,3,9,417,0,0,1,0,4,0,6,1,4,8,,,1,5,,0,360,16,,20/32 (63%),27/50 (54%),1/2 (50%),29%,2,23/80 (29%),8/24 (33%),5/7 (71%),,0,17,,9,7,6,,,1,,14
+13336130,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,339270,Eik Tønsberg,Local,1ST,25/10/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336130,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,339270,Eik Tønsberg,Local,2ND,25/10/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336130,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,ALL,25/10/2025,26,1,56%,2.70,,14,2,7,9,593,0,3,1,0,6,0,4,4,7,7,,,0,25,,1,501,27,,64/79 (81%),12/33 (36%),1/19 (5%),45%,3,30/74 (41%),16/27 (59%),9/13 (69%),,0,9,,2,1,2,,,1,,7
+13336130,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,1ST,25/10/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13336130,11085,70834,CALENDAR,GROUP,"2nd Division, Group 1",LEAGUE,929,Sandnes Ulf,Visita,2ND,25/10/2025,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265728,22,87867,CALENDAR,REGULAR,Round 1,LEAGUE,680,Hødd IL,Local,ALL,07/04/2026,1,2,57%,1.50,,6,3,0,13,464,3,3,1,0,4,0,1,1,2,4,,,0,9,,0,385,20,,35/57 (61%),24/55 (43%),1/5 (20%),40%,6,26/83 (31%),37/71 (52%),14/17 (82%),,3,21,,22,1,3,,,4,,12
+15265728,22,87867,CALENDAR,REGULAR,Round 1,LEAGUE,680,Hødd IL,Local,1ST,07/04/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265728,22,87867,CALENDAR,REGULAR,Round 1,LEAGUE,680,Hødd IL,Local,2ND,07/04/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265728,22,87867,CALENDAR,REGULAR,Round 1,LEAGUE,929,Sandnes Ulf,Visita,ALL,07/04/2026,1,1,43%,1.42,,11,3,11,12,401,2,5,1,0,4,0,4,3,9,2,,,6,25,,2,330,15,,47/65 (72%),38/55 (69%),10/19 (52%),37%,7,33/90 (37%),26/66 (39%),10/15 (67%),,2,13,,4,0,3,,,0,,0
+15265728,22,87867,CALENDAR,REGULAR,Round 1,LEAGUE,929,Sandnes Ulf,Visita,1ST,07/04/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265728,22,87867,CALENDAR,REGULAR,Round 1,LEAGUE,929,Sandnes Ulf,Visita,2ND,07/04/2026,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265730,22,87867,CALENDAR,REGULAR,Round 2,LEAGUE,929,Sandnes Ulf,Local,ALL,11/04/2026,2,1,31%,1.07,,6,5,2,16,252,4,6,4,0,3,0,3,0,4,2,,,0,8,,3,190,10,,17/39 (44%),18/49 (36%),3/7 (42%),36%,1,34/94 (36%),7/18 (39%),7/12 (58%),,4,14,,26,3,5,,,,,5
+15265730,22,87867,CALENDAR,REGULAR,Round 2,LEAGUE,929,Sandnes Ulf,Local,1ST,11/04/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265730,22,87867,CALENDAR,REGULAR,Round 2,LEAGUE,929,Sandnes Ulf,Local,2ND,11/04/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265730,22,87867,CALENDAR,REGULAR,Round 2,LEAGUE,659,Odds BK,Visita,ALL,11/04/2026,2,3,69%,1.50,,11,2,7,19,639,2,4,3,0,8,0,1,2,7,4,,,0,16,,2,557,34,,61/79 (77%),29/53 (54%),6/21 (28%),38%,3,38/101 (38%),10/25 (40%),13/16 (81%),,2,9,,8,0,2,,,,,5
+15265730,22,87867,CALENDAR,REGULAR,Round 2,LEAGUE,659,Odds BK,Visita,1ST,11/04/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265730,22,87867,CALENDAR,REGULAR,Round 2,LEAGUE,659,Odds BK,Visita,2ND,11/04/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265745,22,87867,CALENDAR,REGULAR,Round 3,LEAGUE,657,Lyn FK,Local,ALL,20/04/2026,3,0,66%,1.42,,13,4,12,13,698,0,2,1,0,5,2,4,2,9,4,,,1,21,,0,605,25,,111/128 (87%),19/44 (43%),5/22 (22%),38%,11,38/112 (34%),27/55 (49%),11/14 (79%),,0,10,,14,2,4,,,2,,6
+15265745,22,87867,CALENDAR,REGULAR,Round 3,LEAGUE,657,Lyn FK,Local,1ST,20/04/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265745,22,87867,CALENDAR,REGULAR,Round 3,LEAGUE,657,Lyn FK,Local,2ND,20/04/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265745,22,87867,CALENDAR,REGULAR,Round 3,LEAGUE,929,Sandnes Ulf,Visita,ALL,20/04/2026,3,2,34%,1.99,,14,5,7,14,286,2,6,5,0,6,1,2,5,10,4,,,0,14,,3,204,19,,21/44 (48%),24/66 (36%),5/13 (38%),38%,8,36/112 (32%),27/53 (51%),11/14 (79%),,2,20,,24,0,5,,,2,,8
+15265745,22,87867,CALENDAR,REGULAR,Round 3,LEAGUE,929,Sandnes Ulf,Visita,1ST,20/04/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265745,22,87867,CALENDAR,REGULAR,Round 3,LEAGUE,929,Sandnes Ulf,Visita,2ND,20/04/2026,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265751,22,87867,CALENDAR,REGULAR,Round 4,LEAGUE,929,Sandnes Ulf,Local,ALL,26/04/2026,4,1,34%,1.02,,10,6,6,9,283,3,1,1,0,3,1,2,4,6,4,,,0,13,,1,219,20,,19/27 (70%),25/43 (58%),6/12 (50%),37%,6,29/82 (35%),23/58 (40%),12/13 (92%),,3,9,,22,3,6,,,2,,7
+15265751,22,87867,CALENDAR,REGULAR,Round 4,LEAGUE,929,Sandnes Ulf,Local,1ST,26/04/2026,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265751,22,87867,CALENDAR,REGULAR,Round 4,LEAGUE,929,Sandnes Ulf,Local,2ND,26/04/2026,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265751,22,87867,CALENDAR,REGULAR,Round 4,LEAGUE,1163,Strømsgodset,Visita,ALL,26/04/2026,4,1,66%,1.61,,14,4,10,15,670,3,3,1,0,7,0,2,5,9,5,,,1,29,,4,601,13,,75/101 (74%),39/64 (60%),6/14 (42%),43%,9,30/85 (35%),32/58 (55%),18/21 (86%),,3,9,,20,2,4,,,0,,8
+15265751,22,87867,CALENDAR,REGULAR,Round 4,LEAGUE,1163,Strømsgodset,Visita,1ST,26/04/2026,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265751,22,87867,CALENDAR,REGULAR,Round 4,LEAGUE,1163,Strømsgodset,Visita,2ND,26/04/2026,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265755,22,87867,CALENDAR,REGULAR,Round 5,LEAGUE,673,Haugesund,Local,ALL,01/05/2026,5,2,57%,1.54,,10,1,7,19,422,3,4,1,0,4,0,3,3,7,3,,,4,24,,3,346,23,,40/55 (73%),25/50 (50%),5/16 (31%),36%,10,40/127 (31%),20/37 (54%),18/24 (75%),,3,15,,25,2,1,,,1,,10
+15265755,22,87867,CALENDAR,REGULAR,Round 5,LEAGUE,673,Haugesund,Local,1ST,01/05/2026,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265755,22,87867,CALENDAR,REGULAR,Round 5,LEAGUE,673,Haugesund,Local,2ND,01/05/2026,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265755,22,87867,CALENDAR,REGULAR,Round 5,LEAGUE,929,Sandnes Ulf,Visita,ALL,01/05/2026,5,0,43%,1.01,,8,2,5,9,294,3,5,2,0,0,1,3,4,5,3,,,1,14,,3,224,24,,15/31 (48%),25/41 (60%),4/10 (40%),35%,2,38/97 (39%),9/37 (24%),13/21 (62%),,3,19,,11,3,2,,,1,,7
+15265755,22,87867,CALENDAR,REGULAR,Round 5,LEAGUE,929,Sandnes Ulf,Visita,1ST,01/05/2026,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265755,22,87867,CALENDAR,REGULAR,Round 5,LEAGUE,929,Sandnes Ulf,Visita,2ND,01/05/2026,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265765,22,87867,CALENDAR,REGULAR,Round 6,LEAGUE,929,Sandnes Ulf,Local,ALL,10/05/2026,6,0,50%,0.82,,16,0,9,12,431,4,2,2,0,2,1,6,7,6,10,,,0,16,,0,331,21,,45/70 (64%),39/72 (54%),4/24 (16%),44%,5,42/104 (40%),24/46 (52%),16/20 (80%),,4,11,,9,0,0,,,2,,3
+15265765,22,87867,CALENDAR,REGULAR,Round 6,LEAGUE,929,Sandnes Ulf,Local,1ST,10/05/2026,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265765,22,87867,CALENDAR,REGULAR,Round 6,LEAGUE,929,Sandnes Ulf,Local,2ND,10/05/2026,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265765,22,87867,CALENDAR,REGULAR,Round 6,LEAGUE,1162,Stabæk Fotball,Visita,ALL,10/05/2026,6,1,50%,0.15,,4,2,4,18,465,1,3,3,0,1,0,1,2,2,2,,,1,11,,2,382,20,,44/60 (73%),32/58 (55%),1/9 (11%),36%,4,29/100 (29%),25/47 (53%),7/9 (78%),,1,12,,24,10,2,,,3,,11
+15265765,22,87867,CALENDAR,REGULAR,Round 6,LEAGUE,1162,Stabæk Fotball,Visita,1ST,10/05/2026,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265765,22,87867,CALENDAR,REGULAR,Round 6,LEAGUE,1162,Stabæk Fotball,Visita,2ND,10/05/2026,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265770,22,87867,CALENDAR,REGULAR,Round 7,LEAGUE,929,Sandnes Ulf,Local,ALL,15/05/2026,7,4,35%,2.12,,15,1,2,19,361,5,2,2,0,5,0,5,5,9,6,,,1,25,,1,284,13,,32/56 (57%),23/56 (41%),4/13 (30%),32%,2,36/126 (29%),17/37 (46%),14/20 (70%),,5,12,,28,1,1,,,,,7
+15265770,22,87867,CALENDAR,REGULAR,Round 7,LEAGUE,929,Sandnes Ulf,Local,1ST,15/05/2026,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265770,22,87867,CALENDAR,REGULAR,Round 7,LEAGUE,929,Sandnes Ulf,Local,2ND,15/05/2026,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265770,22,87867,CALENDAR,REGULAR,Round 7,LEAGUE,920,Egersund,Visita,ALL,15/05/2026,7,2,65%,2.18,,10,1,3,15,623,1,4,3,0,3,1,2,4,8,2,,,0,25,,4,541,18,,70/90 (78%),28/53 (52%),9/23 (39%),36%,3,38/123 (31%),20/37 (54%),12/19 (63%),,1,16,,23,6,1,,,,,8
+15265770,22,87867,CALENDAR,REGULAR,Round 7,LEAGUE,920,Egersund,Visita,1ST,15/05/2026,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265770,22,87867,CALENDAR,REGULAR,Round 7,LEAGUE,920,Egersund,Visita,2ND,15/05/2026,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265786,22,87867,CALENDAR,REGULAR,Round 8,LEAGUE,682,Åsane,Local,ALL,20/05/2026,8,2,37%,2.27,,12,2,1,13,369,2,0,6,0,6,0,4,2,10,2,,,0,18,,0,295,12,,27/49 (55%),30/48 (62%),2/6 (33%),34%,2,22/78 (28%),16/32 (50%),6/6 (100%),,2,23,,41,3,2,,,,,11
+15265786,22,87867,CALENDAR,REGULAR,Round 8,LEAGUE,682,Åsane,Local,1ST,20/05/2026,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265786,22,87867,CALENDAR,REGULAR,Round 8,LEAGUE,682,Åsane,Local,2ND,20/05/2026,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265786,22,87867,CALENDAR,REGULAR,Round 8,LEAGUE,929,Sandnes Ulf,Visita,ALL,20/05/2026,8,0,63%,0.79,,7,4,8,7,654,0,4,1,1,2,0,3,2,4,3,,,0,25,,4,557,17,,76/90 (84%),33/51 (64%),5/24 (20%),36%,4,24/78 (31%),16/32 (50%),8/11 (73%),,0,12,,11,3,4,,,,,8
+15265786,22,87867,CALENDAR,REGULAR,Round 8,LEAGUE,929,Sandnes Ulf,Visita,1ST,20/05/2026,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265786,22,87867,CALENDAR,REGULAR,Round 8,LEAGUE,929,Sandnes Ulf,Visita,2ND,20/05/2026,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265791,22,87867,CALENDAR,REGULAR,Round 9,LEAGUE,929,Sandnes Ulf,Local,ALL,25/05/2026,9,2,42%,2.86,,22,4,6,12,359,3,1,3,0,10,1,7,4,16,6,,,2,34,,2,278,9,,34/52 (65%),19/43 (44%),7/16 (43%),47%,1,34/81 (42%),34/63 (54%),15/18 (83%),,3,30,,67,1,4,,,,,12
+15265791,22,87867,CALENDAR,REGULAR,Round 9,LEAGUE,929,Sandnes Ulf,Local,1ST,25/05/2026,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265791,22,87867,CALENDAR,REGULAR,Round 9,LEAGUE,929,Sandnes Ulf,Local,2ND,25/05/2026,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265791,22,87867,CALENDAR,REGULAR,Round 9,LEAGUE,665,Sogndal IL,Visita,ALL,25/05/2026,9,0,58%,1.56,,15,9,11,11,477,2,3,1,0,4,1,4,6,12,3,,,0,33,,0,369,27,,47/73 (64%),25/51 (49%),11/41 (26%),40%,5,29/81 (36%),29/63 (46%),18/22 (82%),,2,18,,24,3,9,,,,,11
+15265791,22,87867,CALENDAR,REGULAR,Round 9,LEAGUE,665,Sogndal IL,Visita,1ST,25/05/2026,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265791,22,87867,CALENDAR,REGULAR,Round 9,LEAGUE,665,Sogndal IL,Visita,2ND,25/05/2026,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265800,22,87867,CALENDAR,REGULAR,Round 10,LEAGUE,708,Ranheim IL,Local,ALL,31/05/2026,10,5,67%,4.12,,23,3,8,8,687,1,4,0,0,12,1,4,6,17,6,,,1,40,,2,619,11,,57/68 (84%),36/54 (66%),6/20 (30%),43%,6,38/93 (41%),15/28 (54%),18/20 (90%),,1,18,,23,0,3,,,,,5
+15265800,22,87867,CALENDAR,REGULAR,Round 10,LEAGUE,708,Ranheim IL,Local,1ST,31/05/2026,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265800,22,87867,CALENDAR,REGULAR,Round 10,LEAGUE,708,Ranheim IL,Local,2ND,31/05/2026,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265800,22,87867,CALENDAR,REGULAR,Round 10,LEAGUE,929,Sandnes Ulf,Visita,ALL,31/05/2026,10,1,33%,1.54,,11,7,6,14,346,3,3,2,0,4,1,2,4,7,4,,,0,20,,1,282,15,,26/39 (67%),24/48 (50%),2/12 (16%),38%,3,33/92 (36%),13/28 (46%),15/19 (79%),,3,15,,31,2,7,,,,,6
+15265800,22,87867,CALENDAR,REGULAR,Round 10,LEAGUE,929,Sandnes Ulf,Visita,1ST,31/05/2026,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265800,22,87867,CALENDAR,REGULAR,Round 10,LEAGUE,929,Sandnes Ulf,Visita,2ND,31/05/2026,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265806,22,87867,CALENDAR,REGULAR,Round 11,LEAGUE,929,Sandnes Ulf,Local,ALL,14/06/2026,11,2,47%,1.44,,12,1,7,14,418,0,3,0,0,7,0,3,2,8,4,,,0,25,,1,335,20,,34/48 (71%),16/38 (42%),6/12 (50%),34%,5,21/64 (33%),13/36 (36%),5/7 (71%),,0,13,,31,1,1,,,,,9
+15265806,22,87867,CALENDAR,REGULAR,Round 11,LEAGUE,929,Sandnes Ulf,Local,1ST,14/06/2026,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265806,22,87867,CALENDAR,REGULAR,Round 11,LEAGUE,929,Sandnes Ulf,Local,2ND,14/06/2026,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265806,22,87867,CALENDAR,REGULAR,Round 11,LEAGUE,885,Strømmen IF,Visita,ALL,14/06/2026,11,0,53%,0.19,,1,5,2,11,410,0,2,0,0,1,0,0,0,1,0,,,0,11,,2,319,19,,29/54 (54%),28/55 (50%),2/9 (22%),44%,5,22/65 (34%),23/36 (64%),4/4 (100%),,0,10,,31,0,5,,,,,9
+15265806,22,87867,CALENDAR,REGULAR,Round 11,LEAGUE,885,Strømmen IF,Visita,1ST,14/06/2026,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265806,22,87867,CALENDAR,REGULAR,Round 11,LEAGUE,885,Strømmen IF,Visita,2ND,14/06/2026,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265814,22,87867,CALENDAR,REGULAR,Round 12,LEAGUE,662,Moss FK,Local,ALL,21/06/2026,12,1,70%,2.82,,17,3,7,11,605,1,2,3,0,5,2,6,4,9,8,,,1,22,,0,518,22,,74/85 (87%),24/37 (64%),5/28 (17%),41%,7,34/79 (43%),8/23 (35%),15/17 (88%),,1,14,,24,4,3,,,,,5
+15265814,22,87867,CALENDAR,REGULAR,Round 12,LEAGUE,662,Moss FK,Local,1ST,21/06/2026,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265814,22,87867,CALENDAR,REGULAR,Round 12,LEAGUE,662,Moss FK,Local,2ND,21/06/2026,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265814,22,87867,CALENDAR,REGULAR,Round 12,LEAGUE,929,Sandnes Ulf,Visita,ALL,21/06/2026,12,4,30%,1.98,,16,4,4,10,234,1,3,2,0,7,0,3,6,9,7,,,1,22,,1,179,8,,29/46 (63%),17/38 (44%),3/9 (33%),38%,7,25/80 (31%),15/23 (65%),8/10 (80%),,1,22,,34,1,4,,,,,16
+15265814,22,87867,CALENDAR,REGULAR,Round 12,LEAGUE,929,Sandnes Ulf,Visita,1ST,21/06/2026,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265814,22,87867,CALENDAR,REGULAR,Round 12,LEAGUE,929,Sandnes Ulf,Visita,2ND,21/06/2026,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265821,22,87867,CALENDAR,REGULAR,Round 13,LEAGUE,929,Sandnes Ulf,Local,ALL,27/06/2026,13,3,50%,2.20,,18,0,5,8,470,1,2,2,0,9,0,4,5,9,9,,,2,17,,1,391,23,,49/74 (66%),22/47 (46%),3/12 (25%),56%,2,40/71 (56%),14/25 (56%),6/7 (86%),,1,18,,25,4,0,,,,,5
+15265821,22,87867,CALENDAR,REGULAR,Round 13,LEAGUE,929,Sandnes Ulf,Local,1ST,27/06/2026,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265821,22,87867,CALENDAR,REGULAR,Round 13,LEAGUE,929,Sandnes Ulf,Local,2ND,27/06/2026,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265821,22,87867,CALENDAR,REGULAR,Round 13,LEAGUE,668,Raufoss,Visita,ALL,27/06/2026,13,0,50%,0.85,,10,6,3,11,430,0,2,1,0,0,0,3,7,5,5,,,0,18,,0,349,19,,48/69 (70%),29/51 (56%),3/14 (21%),42%,6,29/69 (42%),11/25 (44%),10/16 (63%),,0,13,,27,5,6,,,,,9
+15265821,22,87867,CALENDAR,REGULAR,Round 13,LEAGUE,668,Raufoss,Visita,1ST,27/06/2026,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265821,22,87867,CALENDAR,REGULAR,Round 13,LEAGUE,668,Raufoss,Visita,2ND,27/06/2026,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265827,22,87867,CALENDAR,REGULAR,Round 14,LEAGUE,663,Bryne FK,Local,ALL,04/07/2026,14,1,64%,1.10,,11,0,7,13,592,1,3,1,0,2,0,5,4,8,3,,,0,29,,0,508,29,,54/73 (74%),19/39 (48%),8/23 (34%),48%,8,40/96 (42%),33/56 (59%),12/18 (67%),,1,8,,27,1,0,,,,,3
+15265827,22,87867,CALENDAR,REGULAR,Round 14,LEAGUE,663,Bryne FK,Local,1ST,04/07/2026,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265827,22,87867,CALENDAR,REGULAR,Round 14,LEAGUE,663,Bryne FK,Local,2ND,04/07/2026,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265827,22,87867,CALENDAR,REGULAR,Round 14,LEAGUE,929,Sandnes Ulf,Visita,ALL,04/07/2026,14,1,36%,0.13,,6,1,3,12,349,3,2,2,0,1,0,2,3,0,6,,,0,4,,0,276,22,,32/53 (60%),25/53 (47%),1/7 (14%),34%,7,30/97 (31%),23/56 (41%),8/15 (53%),,3,13,,38,3,1,,,,,8
+15265827,22,87867,CALENDAR,REGULAR,Round 14,LEAGUE,929,Sandnes Ulf,Visita,1ST,04/07/2026,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265827,22,87867,CALENDAR,REGULAR,Round 14,LEAGUE,929,Sandnes Ulf,Visita,2ND,04/07/2026,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265837,22,87867,CALENDAR,REGULAR,Round 15,LEAGUE,929,Sandnes Ulf,Local,ALL,26/07/2026,15,1,44%,0.54,,6,4,6,13,434,2,0,1,0,3,0,2,1,2,4,,,0,9,,6,338,20,,32/57 (56%),19/50 (38%),2/11 (18%),53%,6,58/110 (53%),10/18 (56%),7/14 (50%),,2,25,,23,5,4,,,,,7
+15265837,22,87867,CALENDAR,REGULAR,Round 15,LEAGUE,929,Sandnes Ulf,Local,1ST,26/07/2026,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265837,22,87867,CALENDAR,REGULAR,Round 15,LEAGUE,929,Sandnes Ulf,Local,2ND,26/07/2026,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265837,22,87867,CALENDAR,REGULAR,Round 15,LEAGUE,672,Kongsvinger,Visita,ALL,26/07/2026,15,6,56%,3.64,,16,2,3,10,564,0,0,1,0,9,1,4,2,9,7,,,0,31,,5,477,22,,63/84 (75%),20/41 (48%),4/14 (28%),46%,5,53/112 (47%),8/18 (44%),12/20 (60%),,0,12,,19,0,2,,,,,5
+15265837,22,87867,CALENDAR,REGULAR,Round 15,LEAGUE,672,Kongsvinger,Visita,1ST,26/07/2026,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265837,22,87867,CALENDAR,REGULAR,Round 15,LEAGUE,672,Kongsvinger,Visita,2ND,26/07/2026,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265844,22,87867,CALENDAR,REGULAR,Round 16,LEAGUE,920,Egersund,Local,ALL,02/08/2026,16,2,53%,1.68,,12,1,3,13,569,2,0,2,0,4,0,3,5,10,2,,,0,16,,0,489,21,,44/66 (67%),28/59 (47%),6/17 (35%),48%,8,50/102 (49%),15/31 (48%),2/3 (67%),,2,26,,35,2,1,,,,,9
+15265844,22,87867,CALENDAR,REGULAR,Round 16,LEAGUE,920,Egersund,Local,1ST,02/08/2026,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265844,22,87867,CALENDAR,REGULAR,Round 16,LEAGUE,920,Egersund,Local,2ND,02/08/2026,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265844,22,87867,CALENDAR,REGULAR,Round 16,LEAGUE,929,Sandnes Ulf,Visita,ALL,02/08/2026,16,0,47%,0.78,,10,2,5,9,507,1,2,1,0,1,0,5,4,4,6,,,0,19,,1,410,22,,46/73 (63%),21/52 (40%),3/22 (13%),51%,6,51/100 (51%),16/31 (52%),14/20 (70%),,1,20,,17,0,2,,,,,7
+15265844,22,87867,CALENDAR,REGULAR,Round 16,LEAGUE,929,Sandnes Ulf,Visita,1ST,02/08/2026,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265844,22,87867,CALENDAR,REGULAR,Round 16,LEAGUE,929,Sandnes Ulf,Visita,2ND,02/08/2026,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265853,22,87867,CALENDAR,REGULAR,Round 17,LEAGUE,929,Sandnes Ulf,Local,ALL,09/08/2026,17,3,56%,2.99,,23,1,6,12,547,2,0,1,0,8,0,10,5,15,8,,,0,29,,1,448,21,,60/84 (71%),22/60 (36%),13/29 (44%),58%,3,54/95 (57%),15/23 (65%),5/7 (71%),,2,17,,17,2,1,,,,,8
+15265853,22,87867,CALENDAR,REGULAR,Round 17,LEAGUE,929,Sandnes Ulf,Local,1ST,09/08/2026,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265853,22,87867,CALENDAR,REGULAR,Round 17,LEAGUE,929,Sandnes Ulf,Local,2ND,09/08/2026,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265853,22,87867,CALENDAR,REGULAR,Round 17,LEAGUE,680,Hødd IL,Visita,ALL,09/08/2026,17,4,44%,1.84,,10,5,0,7,462,0,2,1,0,5,0,1,4,5,5,,,2,13,,0,382,20,,21/37 (57%),17/36 (47%),0/5 (0%),41%,11,41/96 (43%),8/23 (35%),8/11 (73%),,0,16,,27,5,5,,,,,21
+15265853,22,87867,CALENDAR,REGULAR,Round 17,LEAGUE,680,Hødd IL,Visita,1ST,09/08/2026,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265853,22,87867,CALENDAR,REGULAR,Round 17,LEAGUE,680,Hødd IL,Visita,2ND,09/08/2026,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265866,22,87867,CALENDAR,REGULAR,Round 18,LEAGUE,665,Sogndal IL,Local,ALL,16/08/2026,18,2,47%,3.89,,19,3,3,11,515,1,1,0,0,5,2,6,6,15,4,,,0,29,,1,433,19,,51/64 (80%),24/49 (48%),8/17 (47%),47%,4,34/74 (46%),19/38 (50%),7/11 (64%),,1,13,,30,4,3,,,1,,5
+15265866,22,87867,CALENDAR,REGULAR,Round 18,LEAGUE,665,Sogndal IL,Local,1ST,16/08/2026,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265866,22,87867,CALENDAR,REGULAR,Round 18,LEAGUE,665,Sogndal IL,Local,2ND,16/08/2026,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265866,22,87867,CALENDAR,REGULAR,Round 18,LEAGUE,929,Sandnes Ulf,Visita,ALL,16/08/2026,18,0,53%,0.64,,11,3,7,8,557,2,2,2,0,3,0,2,6,6,5,,,0,33,,1,470,25,,52/76 (68%),21/46 (45%),6/19 (31%),53%,3,41/75 (55%),19/37 (51%),2/3 (67%),,2,11,,29,4,3,,,0,,11
+15265866,22,87867,CALENDAR,REGULAR,Round 18,LEAGUE,929,Sandnes Ulf,Visita,1ST,16/08/2026,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15265866,22,87867,CALENDAR,REGULAR,Round 18,LEAGUE,929,Sandnes Ulf,Visita,2ND,16/08/2026,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
