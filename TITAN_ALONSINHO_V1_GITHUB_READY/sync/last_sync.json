@@ -1,30 +1,30 @@
 {
-  "schema_version": "incastats.titan_sync.v2.1",
-  "synced_at": "2026-08-18T06:29:49.722228Z",
-  "delta": "TITAN_DELTA_2026-08-18T06-24-00-000Z_220_eventos.zip",
-  "delta_sha256": "4c35056d4260e414ac61471791d68f6e7ba9a1b77e7c3ff1c1b57711ad216662",
+  "schema_version": "incastats.titan_sync.v2.2",
+  "synced_at": "2026-08-18T07:42:06.089107Z",
+  "delta": "TITAN_DELTA_V2.2_2026-08-18T07-12-00-000Z_558_eventos_SAFE.zip",
+  "delta_sha256": "e2a328678c6cf0735a50a9f2b32145caf8e1221f7a891856af694559978c1332",
   "window": {
-    "requested_from": "2026-08-14T07:21:00.000Z",
-    "effective_from": "2026-08-12T07:21:00.000Z",
-    "requested_to": "2026-08-18T06:24:00.000Z",
+    "requested_from": "2026-08-07T07:12:00.000Z",
+    "effective_from": "2026-08-05T07:12:00.000Z",
+    "requested_to": "2026-08-18T07:12:00.000Z",
     "overlap_hours": 48
   },
   "counts": {
-    "unique_events_discovered": 229,
-    "valid_events": 220,
-    "incomplete": 9,
-    "friendlies_excluded": 0,
-    "affected_teams": 440,
-    "requests": 1617
+    "unique_events_discovered": 771,
+    "valid_events": 558,
+    "incomplete": 30,
+    "friendlies_excluded": 183,
+    "affected_teams": 515,
+    "requests": 2314
   },
   "merge": {
-    "team_files_changed": 440,
-    "rows_inserted": 2640,
-    "rows_replaced": 0,
-    "master_unique_matches_after": 78099,
+    "team_files_changed": 515,
+    "rows_inserted": 738,
+    "rows_replaced": 5346,
+    "master_unique_matches_after": 78182,
     "teams_after": 743,
-    "competitions_after": 150,
-    "seasons_after": 621
+    "competitions_after": 153,
+    "seasons_after": 625
   },
-  "backup_folder": "C:\\Users\\MSI CYBORG\\OneDrive\\Documentos\\GitHub\\IncaStats-Data_TITAN_BACKUPS\\20260818_012615"
+  "backup_folder": "C:\\Users\\MSI CYBORG\\OneDrive\\Documentos\\GitHub\\IncaStats-Data_TITAN_BACKUPS\\20260818_023808"
 }

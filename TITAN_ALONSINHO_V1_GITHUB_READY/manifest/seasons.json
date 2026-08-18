@@ -1,6 +1,6 @@
 {
   "schema": "titan.seasons.v1",
-  "count": 621,
+  "count": 625,
   "seasons": [
     {
       "competition_id": 7,
@@ -176,7 +176,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 8,
@@ -290,7 +291,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 9,
@@ -598,7 +600,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 19,
@@ -741,7 +744,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 21,
@@ -883,7 +887,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "CUP"
     },
     {
       "competition_id": 23,
@@ -1114,7 +1119,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 25,
@@ -1249,7 +1255,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 34,
@@ -1606,7 +1613,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 38,
@@ -1741,7 +1749,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 39,
@@ -1867,7 +1876,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 40,
@@ -1887,7 +1897,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 44,
@@ -2012,7 +2023,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 45,
@@ -2148,7 +2160,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 47,
@@ -2392,7 +2405,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 53,
@@ -2648,7 +2662,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 76,
@@ -3393,7 +3408,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 131,
@@ -3510,7 +3526,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 135,
@@ -3759,7 +3776,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 155,
@@ -3902,11 +3920,13 @@
         "Round 1",
         "Round of 16",
         "Round 4",
-        "Round 5"
+        "Round 5",
+        "Round 2"
       ],
       "regions": [
         "America"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 173,
@@ -4252,7 +4272,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 183,
@@ -4658,7 +4679,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 216,
@@ -5014,7 +5036,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 239,
@@ -5139,7 +5162,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 242,
@@ -5263,7 +5287,8 @@
       ],
       "regions": [
         "America"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 325,
@@ -5379,7 +5404,8 @@
       ],
       "regions": [
         "America"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 326,
@@ -5708,6 +5734,26 @@
       "stages": [
         "Final",
         "Round of 16",
+        "Round of 64"
+      ],
+      "regions": [
+        "Europe"
+      ]
+    },
+    {
+      "competition_id": 328,
+      "season_id": 97028,
+      "label": "Coppa Italia 26/27",
+      "start_year": 2026,
+      "end_year": 2027,
+      "season_format": "NORMAL",
+      "competition_type": "CUP",
+      "season_status": "UNKNOWN",
+      "season_status_basis": "TITAN_DELTA_V2_2_SAFE",
+      "phases": [
+        "REGULAR"
+      ],
+      "stages": [
         "Round of 64"
       ],
       "regions": [
@@ -6373,6 +6419,46 @@
       ]
     },
     {
+      "competition_id": 339,
+      "season_id": 95812,
+      "label": "Trophee des Champions 2026",
+      "start_year": 2026,
+      "end_year": 2026,
+      "season_format": "SPECIAL_EVENT",
+      "competition_type": "SUPER_CUP",
+      "season_status": "UNKNOWN",
+      "season_status_basis": "TITAN_DELTA_V2_2_SAFE",
+      "phases": [
+        "FINAL"
+      ],
+      "stages": [
+        "Final"
+      ],
+      "regions": [
+        "Europe"
+      ]
+    },
+    {
+      "competition_id": 346,
+      "season_id": 95402,
+      "label": "Community Shield 2026",
+      "start_year": 2026,
+      "end_year": 2026,
+      "season_format": "SPECIAL_EVENT",
+      "competition_type": "SUPER_CUP",
+      "season_status": "UNKNOWN",
+      "season_status_basis": "TITAN_DELTA_V2_2_SAFE",
+      "phases": [
+        "FINAL"
+      ],
+      "stages": [
+        "Final"
+      ],
+      "regions": [
+        "Europe"
+      ]
+    },
+    {
       "competition_id": 355,
       "season_id": 38283,
       "label": "Romania Cup 21/22",
@@ -6862,11 +6948,13 @@
       "stages": [
         "Round 2",
         "Round 3",
-        "Round 5"
+        "Round 5",
+        "Round of 16"
       ],
       "regions": [
         "America"
-      ]
+      ],
+      "competition_type": "CUP"
     },
     {
       "competition_id": 374,
@@ -7074,14 +7162,17 @@
       "season_status": "CURRENT",
       "season_status_basis": "SOFASCORE_NEXT_EVENT",
       "phases": [
-        "PLAYOFF"
+        "PLAYOFF",
+        "REGULAR"
       ],
       "stages": [
-        "Qualification Round 1"
+        "Qualification Round 1",
+        "Qualification Round 2"
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "CUP"
     },
     {
       "competition_id": 376,
@@ -8057,11 +8148,13 @@
         "CONMEBOL Libertadores, Group G",
         "CONMEBOL Libertadores, Group H",
         "Qualification Round 1",
-        "Qualification Round 2"
+        "Qualification Round 2",
+        "Round of 16"
       ],
       "regions": [
         "America"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 390,
@@ -8180,7 +8273,8 @@
       ],
       "regions": [
         "America"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 399,
@@ -8422,7 +8516,8 @@
       ],
       "regions": [
         "America"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 445,
@@ -8553,6 +8648,26 @@
       ],
       "stages": [
         "Round 1"
+      ],
+      "regions": [
+        "Europe"
+      ]
+    },
+    {
+      "competition_id": 465,
+      "season_id": 95511,
+      "label": "UEFA Super Cup 2026",
+      "start_year": 2026,
+      "end_year": 2026,
+      "season_format": "SPECIAL_EVENT",
+      "competition_type": "SUPER_CUP",
+      "season_status": "UNKNOWN",
+      "season_status_basis": "TITAN_DELTA_V2_2_SAFE",
+      "phases": [
+        "FINAL"
+      ],
+      "stages": [
+        "Final"
       ],
       "regions": [
         "Europe"
@@ -8739,11 +8854,13 @@
         "CONMEBOL Sudamericana, Group G",
         "CONMEBOL Sudamericana, Group H",
         "Playoff round",
-        "Qualification Round 1"
+        "Qualification Round 1",
+        "Round of 16"
       ],
       "regions": [
         "America"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 490,
@@ -9682,7 +9799,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 703,
@@ -9982,11 +10100,13 @@
         "REGULAR"
       ],
       "stages": [
-        "Round of 64"
+        "Round of 64",
+        "Round of 16"
       ],
       "regions": [
         "America"
-      ]
+      ],
+      "competition_type": "CUP"
     },
     {
       "competition_id": 1079,
@@ -12142,7 +12262,8 @@
       ],
       "regions": [
         "America"
-      ]
+      ],
+      "competition_type": "CUP"
     },
     {
       "competition_id": 14602,
@@ -12504,7 +12625,8 @@
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "INTERNATIONAL"
     },
     {
       "competition_id": 17073,

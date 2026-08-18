@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-08-18T07:42:05.391561Z",
+  "golden_team_files": 731,
+  "current_team_files": 743,
+  "files": [],
+  "summary": {
+    "golden_rows": 831798,
+    "current_rows_scanned": 835248,
+    "missing_team_files": 0,
+    "missing_golden_keys": 0,
+    "extra_current_keys": 3450,
+    "duplicate_current_keys": 0,
+    "SAFE_BASELINE_PASS": true
+  },
+  "manifests": {
+    "teams.json": {
+      "golden_items": 731,
+      "current_items": 743,
+      "missing_golden_items": 0,
+      "status": "OK"
+    },
+    "competitions.json": {
+      "golden_items": 148,
+      "current_items": 153,
+      "missing_golden_items": 0,
+      "status": "OK"
+    },
+    "seasons.json": {
+      "golden_items": 613,
+      "current_items": 625,
+      "missing_golden_items": 0,
+      "status": "OK"
+    },
+    "team_details.json": {
+      "golden_items": 731,
+      "current_items": 743,
+      "missing_golden_items": 0,
+      "status": "OK"
+    }
+  }
+}

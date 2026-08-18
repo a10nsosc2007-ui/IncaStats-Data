@@ -269,7 +269,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/2953_AFC_Ajax.csv",
-      "valid_matches": 246,
+      "valid_matches": 247,
       "incomplete_matches": 4
     },
     {
@@ -309,7 +309,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/1764_AIK.csv",
-      "valid_matches": 21,
+      "valid_matches": 22,
       "incomplete_matches": 15
     },
     {
@@ -539,7 +539,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/2731_Arezzo.csv",
-      "valid_matches": 121,
+      "valid_matches": 122,
       "incomplete_matches": 81
     },
     {
@@ -559,7 +559,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/3252_Aris_Thessaloniki.csv",
-      "valid_matches": 199,
+      "valid_matches": 200,
       "incomplete_matches": 11
     },
     {
@@ -579,7 +579,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/42_Arsenal.csv",
-      "valid_matches": 266,
+      "valid_matches": 267,
       "incomplete_matches": 8
     },
     {
@@ -619,7 +619,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/2707_Ascoli.csv",
-      "valid_matches": 197,
+      "valid_matches": 198,
       "incomplete_matches": 4
     },
     {
@@ -649,7 +649,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/40_Aston_Villa.csv",
-      "valid_matches": 251,
+      "valid_matches": 252,
       "incomplete_matches": 5
     },
     {
@@ -739,7 +739,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/1977_Atletico_Mineiro.csv",
-      "valid_matches": 386,
+      "valid_matches": 387,
       "incomplete_matches": 17
     },
     {
@@ -749,7 +749,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/36833_Atletico_Tucuman.csv",
-      "valid_matches": 223,
+      "valid_matches": 224,
       "incomplete_matches": 7
     },
     {
@@ -759,7 +759,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/377973_Austin_FC.csv",
-      "valid_matches": 212,
+      "valid_matches": 213,
       "incomplete_matches": 1
     },
     {
@@ -849,7 +849,7 @@
       "region": "Europe",
       "source_batch": "DELTA_V2_1_SAFE",
       "file": "data/teams_csv/44320_Band_rmaspor.csv",
-      "valid_matches": 1,
+      "valid_matches": 2,
       "incomplete_matches": 0
     },
     {
@@ -969,7 +969,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/2759_Benevento.csv",
-      "valid_matches": 199,
+      "valid_matches": 200,
       "incomplete_matches": 8
     },
     {
@@ -979,7 +979,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/3006_Benfica.csv",
-      "valid_matches": 280,
+      "valid_matches": 281,
       "incomplete_matches": 2
     },
     {
@@ -989,7 +989,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/3050_Besiktas_JK.csv",
-      "valid_matches": 230,
+      "valid_matches": 231,
       "incomplete_matches": 16
     },
     {
@@ -1049,7 +1049,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/3202_Boca_Juniors.csv",
-      "valid_matches": 300,
+      "valid_matches": 301,
       "incomplete_matches": 11
     },
     {
@@ -1069,7 +1069,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/656_Bod_Glimt.csv",
-      "valid_matches": 74,
+      "valid_matches": 75,
       "incomplete_matches": 14
     },
     {
@@ -1099,7 +1099,7 @@
       "region": "Europe",
       "source_batch": "DELTA_V2_1_SAFE",
       "file": "data/teams_csv/6414_Boluspor.csv",
-      "valid_matches": 1,
+      "valid_matches": 2,
       "incomplete_matches": 0
     },
     {
@@ -1139,7 +1139,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/1958_Botafogo.csv",
-      "valid_matches": 355,
+      "valid_matches": 356,
       "incomplete_matches": 23
     },
     {
@@ -1329,7 +1329,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/3209_CA_Independiente.csv",
-      "valid_matches": 255,
+      "valid_matches": 256,
       "incomplete_matches": 12
     },
     {
@@ -1359,7 +1359,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/2719_Cagliari.csv",
-      "valid_matches": 209,
+      "valid_matches": 210,
       "incomplete_matches": 0
     },
     {
@@ -1409,7 +1409,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/2745_Carrarese.csv",
-      "valid_matches": 143,
+      "valid_matches": 144,
       "incomplete_matches": 53
     },
     {
@@ -1429,7 +1429,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/2796_Catanzaro.csv",
-      "valid_matches": 156,
+      "valid_matches": 157,
       "incomplete_matches": 61
     },
     {
@@ -1589,7 +1589,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/2742_Cesena.csv",
-      "valid_matches": 150,
+      "valid_matches": 151,
       "incomplete_matches": 57
     },
     {
@@ -1629,7 +1629,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/5287_CFR_1907_Cluj.csv",
-      "valid_matches": 245,
+      "valid_matches": 246,
       "incomplete_matches": 34
     },
     {
@@ -1659,7 +1659,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/404108_Charlotte_FC.csv",
-      "valid_matches": 184,
+      "valid_matches": 185,
       "incomplete_matches": 5
     },
     {
@@ -1719,7 +1719,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/2505_Chicago_Fire.csv",
-      "valid_matches": 208,
+      "valid_matches": 209,
       "incomplete_matches": 1
     },
     {
@@ -1739,7 +1739,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/2301_Cienciano.csv",
-      "valid_matches": 212,
+      "valid_matches": 213,
       "incomplete_matches": 10
     },
     {
@@ -1799,7 +1799,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/36837_Club_Atletico_Platense.csv",
-      "valid_matches": 236,
+      "valid_matches": 237,
       "incomplete_matches": 11
     },
     {
@@ -1869,7 +1869,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/2504_Columbus_Crew.csv",
-      "valid_matches": 233,
+      "valid_matches": 234,
       "incomplete_matches": 7
     },
     {
@@ -1909,7 +1909,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/1957_Corinthians.csv",
-      "valid_matches": 397,
+      "valid_matches": 398,
       "incomplete_matches": 8
     },
     {
@@ -1959,7 +1959,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/2761_Cremonese.csv",
-      "valid_matches": 211,
+      "valid_matches": 212,
       "incomplete_matches": 2
     },
     {
@@ -1989,7 +1989,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/1954_Cruzeiro.csv",
-      "valid_matches": 324,
+      "valid_matches": 325,
       "incomplete_matches": 14
     },
     {
@@ -2289,7 +2289,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/2705_Empoli.csv",
-      "valid_matches": 203,
+      "valid_matches": 204,
       "incomplete_matches": 0
     },
     {
@@ -2329,7 +2329,7 @@
       "region": "Europe",
       "source_batch": "DELTA_V2_1_SAFE",
       "file": "data/teams_csv/262480_Esenler_Erokspor.csv",
-      "valid_matches": 1,
+      "valid_matches": 2,
       "incomplete_matches": 0
     },
     {
@@ -2359,7 +2359,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/3206_Estudiantes_de_La_Plata.csv",
-      "valid_matches": 289,
+      "valid_matches": 290,
       "incomplete_matches": 6
     },
     {
@@ -2559,7 +2559,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/215167_FC_Cincinnati.csv",
-      "valid_matches": 233,
+      "valid_matches": 234,
       "incomplete_matches": 1
     },
     {
@@ -2589,7 +2589,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/2512_FC_Dallas.csv",
-      "valid_matches": 212,
+      "valid_matches": 213,
       "incomplete_matches": 2
     },
     {
@@ -2709,7 +2709,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/1284_FC_K_benhavn.csv",
-      "valid_matches": 247,
+      "valid_matches": 248,
       "incomplete_matches": 13
     },
     {
@@ -2729,7 +2729,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_001_200",
       "file": "data/teams_csv/2443_FC_Lugano.csv",
-      "valid_matches": 228,
+      "valid_matches": 229,
       "incomplete_matches": 21
     },
     {
@@ -2769,7 +2769,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1289_FC_Midtjylland.csv",
-      "valid_matches": 243,
+      "valid_matches": 244,
       "incomplete_matches": 7
     },
     {
@@ -2779,7 +2779,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1292_FC_Nordsj_lland.csv",
-      "valid_matches": 189,
+      "valid_matches": 190,
       "incomplete_matches": 9
     },
     {
@@ -2839,7 +2839,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2452_FC_Sion.csv",
-      "valid_matches": 197,
+      "valid_matches": 198,
       "incomplete_matches": 17
     },
     {
@@ -2849,7 +2849,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2442_FC_St._Gallen_1879.csv",
-      "valid_matches": 208,
+      "valid_matches": 209,
       "incomplete_matches": 24
     },
     {
@@ -2879,7 +2879,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2454_FC_Thun.csv",
-      "valid_matches": 156,
+      "valid_matches": 157,
       "incomplete_matches": 55
     },
     {
@@ -2889,7 +2889,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2955_FC_Twente.csv",
-      "valid_matches": 215,
+      "valid_matches": 216,
       "incomplete_matches": 0
     },
     {
@@ -2919,7 +2919,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2463_FC_Vaduz.csv",
-      "valid_matches": 168,
+      "valid_matches": 169,
       "incomplete_matches": 53
     },
     {
@@ -3029,7 +3029,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/3052_Fenerbahce.csv",
-      "valid_matches": 262,
+      "valid_matches": 263,
       "incomplete_matches": 16
     },
     {
@@ -3069,7 +3069,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2693_Fiorentina.csv",
-      "valid_matches": 267,
+      "valid_matches": 268,
       "incomplete_matches": 1
     },
     {
@@ -3079,7 +3079,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2203_FK_Austria_Wien.csv",
-      "valid_matches": 199,
+      "valid_matches": 200,
       "incomplete_matches": 8
     },
     {
@@ -3109,7 +3109,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/5981_Flamengo.csv",
-      "valid_matches": 409,
+      "valid_matches": 410,
       "incomplete_matches": 19
     },
     {
@@ -3129,7 +3129,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/1961_Fluminense.csv",
-      "valid_matches": 389,
+      "valid_matches": 390,
       "incomplete_matches": 18
     },
     {
@@ -3179,7 +3179,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/687_Fredrikstad_FK.csv",
-      "valid_matches": 5,
+      "valid_matches": 6,
       "incomplete_matches": 0
     },
     {
@@ -3189,7 +3189,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2801_Frosinone.csv",
-      "valid_matches": 199,
+      "valid_matches": 200,
       "incomplete_matches": 2
     },
     {
@@ -3249,7 +3249,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2713_Genoa.csv",
-      "valid_matches": 204,
+      "valid_matches": 205,
       "incomplete_matches": 0
     },
     {
@@ -3539,7 +3539,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1758_Hammarby_IF.csv",
-      "valid_matches": 28,
+      "valid_matches": 29,
       "incomplete_matches": 20
     },
     {
@@ -3599,7 +3599,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2701_Hellas_Verona.csv",
-      "valid_matches": 199,
+      "valid_matches": 200,
       "incomplete_matches": 1
     },
     {
@@ -3729,7 +3729,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1762_IF_Elfsborg.csv",
-      "valid_matches": 33,
+      "valid_matches": 34,
       "incomplete_matches": 13
     },
     {
@@ -3739,7 +3739,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1761_IFK_Goteborg.csv",
-      "valid_matches": 21,
+      "valid_matches": 22,
       "incomplete_matches": 9
     },
     {
@@ -3779,7 +3779,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/667_IK_Start.csv",
-      "valid_matches": 0,
+      "valid_matches": 1,
       "incomplete_matches": 0
     },
     {
@@ -3789,7 +3789,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/36842_Independiente_Rivadavia.csv",
-      "valid_matches": 160,
+      "valid_matches": 161,
       "incomplete_matches": 71
     },
     {
@@ -3819,7 +3819,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/337602_Inter_Miami_CF.csv",
-      "valid_matches": 247,
+      "valid_matches": 248,
       "incomplete_matches": 6
     },
     {
@@ -3919,7 +3919,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/5324_Juve_Stabia.csv",
-      "valid_matches": 150,
+      "valid_matches": 151,
       "incomplete_matches": 56
     },
     {
@@ -3959,7 +3959,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2903_KAA_Gent.csv",
-      "valid_matches": 254,
+      "valid_matches": 255,
       "incomplete_matches": 33
     },
     {
@@ -4019,7 +4019,7 @@
       "region": "Europe",
       "source_batch": "DELTA_V2_1_SAFE",
       "file": "data/teams_csv/6366_Keciorengucu.csv",
-      "valid_matches": 1,
+      "valid_matches": 2,
       "incomplete_matches": 0
     },
     {
@@ -4029,7 +4029,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/786_KFUM_Oslo.csv",
-      "valid_matches": 1,
+      "valid_matches": 2,
       "incomplete_matches": 0
     },
     {
@@ -4149,7 +4149,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2699_Lazio.csv",
-      "valid_matches": 243,
+      "valid_matches": 244,
       "incomplete_matches": 0
     },
     {
@@ -4179,7 +4179,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2689_Lecce.csv",
-      "valid_matches": 200,
+      "valid_matches": 201,
       "incomplete_matches": 5
     },
     {
@@ -4329,7 +4329,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/274650_Los_Angeles_FC.csv",
-      "valid_matches": 257,
+      "valid_matches": 258,
       "incomplete_matches": 9
     },
     {
@@ -4399,7 +4399,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/17_Manchester_City.csv",
-      "valid_matches": 288,
+      "valid_matches": 289,
       "incomplete_matches": 7
     },
     {
@@ -4419,7 +4419,7 @@
       "region": "Europe",
       "source_batch": "DELTA_V2_1_SAFE",
       "file": "data/teams_csv/202391_Manisa_FK.csv",
-      "valid_matches": 1,
+      "valid_matches": 2,
       "incomplete_matches": 0
     },
     {
@@ -4439,7 +4439,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2770_Mantova.csv",
-      "valid_matches": 145,
+      "valid_matches": 146,
       "incomplete_matches": 55
     },
     {
@@ -4449,7 +4449,7 @@
       "region": "Europe",
       "source_batch": "DELTA_V2_1_SAFE",
       "file": "data/teams_csv/296730_Mardin_1969_Spor.csv",
-      "valid_matches": 1,
+      "valid_matches": 2,
       "incomplete_matches": 0
     },
     {
@@ -4519,7 +4519,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/41618_Minnesota_United.csv",
-      "valid_matches": 222,
+      "valid_matches": 223,
       "incomplete_matches": 1
     },
     {
@@ -4539,7 +4539,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/21982_Mirassol.csv",
-      "valid_matches": 243,
+      "valid_matches": 244,
       "incomplete_matches": 52
     },
     {
@@ -4549,7 +4549,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1783_Mjallby_AIF.csv",
-      "valid_matches": 21,
+      "valid_matches": 22,
       "incomplete_matches": 13
     },
     {
@@ -4579,7 +4579,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2706_Modena.csv",
-      "valid_matches": 159,
+      "valid_matches": 160,
       "incomplete_matches": 43
     },
     {
@@ -4609,7 +4609,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2729_Monza.csv",
-      "valid_matches": 207,
+      "valid_matches": 208,
       "incomplete_matches": 3
     },
     {
@@ -4699,7 +4699,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/337612_Nashville_SC.csv",
-      "valid_matches": 231,
+      "valid_matches": 232,
       "incomplete_matches": 1
     },
     {
@@ -4729,7 +4729,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/187643_New_York_City_FC.csv",
-      "valid_matches": 232,
+      "valid_matches": 233,
       "incomplete_matches": 6
     },
     {
@@ -4829,7 +4829,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/267459_NPS_Volos.csv",
-      "valid_matches": 181,
+      "valid_matches": 182,
       "incomplete_matches": 10
     },
     {
@@ -4919,7 +4919,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1649_Olympique_Lyonnais.csv",
-      "valid_matches": 227,
+      "valid_matches": 228,
       "incomplete_matches": 6
     },
     {
@@ -4939,7 +4939,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/52237_Orlando_City_SC.csv",
-      "valid_matches": 233,
+      "valid_matches": 234,
       "incomplete_matches": 2
     },
     {
@@ -4979,7 +4979,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2741_Padova.csv",
-      "valid_matches": 151,
+      "valid_matches": 152,
       "incomplete_matches": 66
     },
     {
@@ -4989,7 +4989,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2715_Palermo.csv",
-      "valid_matches": 165,
+      "valid_matches": 166,
       "incomplete_matches": 42
     },
     {
@@ -4999,7 +4999,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/1963_Palmeiras.csv",
-      "valid_matches": 407,
+      "valid_matches": 408,
       "incomplete_matches": 12
     },
     {
@@ -5019,7 +5019,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/3251_PAOK.csv",
-      "valid_matches": 258,
+      "valid_matches": 259,
       "incomplete_matches": 22
     },
     {
@@ -5039,7 +5039,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1644_Paris_Saint-Germain.csv",
-      "valid_matches": 260,
+      "valid_matches": 262,
       "incomplete_matches": 5
     },
     {
@@ -5049,7 +5049,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/2690_Parma.csv",
-      "valid_matches": 203,
+      "valid_matches": 204,
       "incomplete_matches": 4
     },
     {
@@ -5179,7 +5179,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/39833_Philadelphia_Union.csv",
-      "valid_matches": 243,
+      "valid_matches": 244,
       "incomplete_matches": 2
     },
     {
@@ -5189,7 +5189,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/2737_Pisa.csv",
-      "valid_matches": 200,
+      "valid_matches": 201,
       "incomplete_matches": 4
     },
     {
@@ -5249,7 +5249,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/22007_Portland_Timbers.csv",
-      "valid_matches": 218,
+      "valid_matches": 219,
       "incomplete_matches": 0
     },
     {
@@ -5269,7 +5269,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/81751_POT_Iraklis.csv",
-      "valid_matches": 49,
+      "valid_matches": 50,
       "incomplete_matches": 113
     },
     {
@@ -5399,7 +5399,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/1648_RC_Lens.csv",
-      "valid_matches": 203,
+      "valid_matches": 204,
       "incomplete_matches": 0
     },
     {
@@ -5479,7 +5479,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/5133_Real_Salt_Lake.csv",
-      "valid_matches": 218,
+      "valid_matches": 219,
       "incomplete_matches": 6
     },
     {
@@ -5529,7 +5529,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/1999_Red_Bull_Bragantino.csv",
-      "valid_matches": 365,
+      "valid_matches": 366,
       "incomplete_matches": 17
     },
     {
@@ -5539,7 +5539,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/2046_Red_Bull_Salzburg.csv",
-      "valid_matches": 231,
+      "valid_matches": 232,
       "incomplete_matches": 8
     },
     {
@@ -5659,7 +5659,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/3217_Rosario_Central.csv",
-      "valid_matches": 260,
+      "valid_matches": 261,
       "incomplete_matches": 19
     },
     {
@@ -5709,7 +5709,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/2900_RSC_Anderlecht.csv",
-      "valid_matches": 241,
+      "valid_matches": 242,
       "incomplete_matches": 26
     },
     {
@@ -5759,7 +5759,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/2711_Sampdoria.csv",
-      "valid_matches": 204,
+      "valid_matches": 205,
       "incomplete_matches": 1
     },
     {
@@ -5779,7 +5779,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/1043961_San_Diego_FC.csv",
-      "valid_matches": 67,
+      "valid_matches": 68,
       "incomplete_matches": 0
     },
     {
@@ -5819,7 +5819,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/676_Sandefjord_Fotball.csv",
-      "valid_matches": 1,
+      "valid_matches": 2,
       "incomplete_matches": 0
     },
     {
@@ -5839,7 +5839,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/1968_Santos.csv",
-      "valid_matches": 346,
+      "valid_matches": 347,
       "incomplete_matches": 11
     },
     {
@@ -5859,7 +5859,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/822_Sarpsborg_08.csv",
-      "valid_matches": 1,
+      "valid_matches": 2,
       "incomplete_matches": 0
     },
     {
@@ -5879,7 +5879,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/2793_Sassuolo.csv",
-      "valid_matches": 201,
+      "valid_matches": 202,
       "incomplete_matches": 0
     },
     {
@@ -6019,7 +6019,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/22009_Seattle_Sounders_FC.csv",
-      "valid_matches": 242,
+      "valid_matches": 243,
       "incomplete_matches": 5
     },
     {
@@ -6149,7 +6149,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/2055_SK_Rapid_Wien.csv",
-      "valid_matches": 237,
+      "valid_matches": 238,
       "incomplete_matches": 12
     },
     {
@@ -6259,7 +6259,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/2999_Sporting_Braga.csv",
-      "valid_matches": 256,
+      "valid_matches": 257,
       "incomplete_matches": 24
     },
     {
@@ -6579,7 +6579,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/1981_Sao_Paulo.csv",
-      "valid_matches": 392,
+      "valid_matches": 393,
       "incomplete_matches": 10
     },
     {
@@ -6599,7 +6599,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/2760_Sudtirol.csv",
-      "valid_matches": 159,
+      "valid_matches": 160,
       "incomplete_matches": 52
     },
     {
@@ -6619,7 +6619,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/7628_Tigre.csv",
-      "valid_matches": 206,
+      "valid_matches": 207,
       "incomplete_matches": 44
     },
     {
@@ -6659,7 +6659,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/2696_Torino.csv",
-      "valid_matches": 204,
+      "valid_matches": 205,
       "incomplete_matches": 1
     },
     {
@@ -6729,7 +6729,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/660_Troms_IL.csv",
-      "valid_matches": 5,
+      "valid_matches": 6,
       "incomplete_matches": 3
     },
     {
@@ -6809,7 +6809,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/2695_Udinese.csv",
-      "valid_matches": 203,
+      "valid_matches": 204,
       "incomplete_matches": 2
     },
     {
@@ -6849,7 +6849,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/116223_Universitatea_Craiova.csv",
-      "valid_matches": 225,
+      "valid_matches": 226,
       "incomplete_matches": 36
     },
     {
@@ -6879,7 +6879,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/2730_US_Avellino_1912.csv",
-      "valid_matches": 147,
+      "valid_matches": 148,
       "incomplete_matches": 60
     },
     {
@@ -6959,7 +6959,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/22010_Vancouver_Whitecaps.csv",
-      "valid_matches": 246,
+      "valid_matches": 247,
       "incomplete_matches": 3
     },
     {
@@ -6999,7 +6999,7 @@
       "region": "America",
       "source_batch": "AMERICA_001_146",
       "file": "data/teams_csv/1974_Vasco_da_Gama.csv",
-      "valid_matches": 324,
+      "valid_matches": 325,
       "incomplete_matches": 19
     },
     {
@@ -7019,7 +7019,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/2688_Venezia.csv",
-      "valid_matches": 204,
+      "valid_matches": 205,
       "incomplete_matches": 2
     },
     {
@@ -7079,7 +7079,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/1164_Viking_FK.csv",
-      "valid_matches": 6,
+      "valid_matches": 7,
       "incomplete_matches": 5
     },
     {
@@ -7129,7 +7129,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/43680_Virtus_Entella.csv",
-      "valid_matches": 150,
+      "valid_matches": 151,
       "incomplete_matches": 60
     },
     {
@@ -7209,7 +7209,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_401_585",
       "file": "data/teams_csv/1165_Valerenga_IF.csv",
-      "valid_matches": 1,
+      "valid_matches": 2,
       "incomplete_matches": 2
     },
     {
@@ -7399,7 +7399,7 @@
       "region": "Europe",
       "source_batch": "EUROPE_201_400",
       "file": "data/teams_csv/1766_Orgryte_IS.csv",
-      "valid_matches": 10,
+      "valid_matches": 11,
       "incomplete_matches": 8
     },
     {

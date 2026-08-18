@@ -1,6 +1,6 @@
 {
   "schema": "titan.competitions.v1",
-  "count": 150,
+  "count": 153,
   "competitions": [
     {
       "competition_id": 44,
@@ -382,6 +382,17 @@
       ]
     },
     {
+      "competition_id": 346,
+      "name": "Community Shield",
+      "competition_type": "SUPER_CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        95402
+      ]
+    },
+    {
       "competition_id": 498,
       "name": "CONCACAF Champions Cup",
       "competition_type": "INTERNATIONAL",
@@ -643,7 +654,8 @@
         42742,
         53505,
         63668,
-        77308
+        77308,
+        97028
       ]
     },
     {
@@ -2014,6 +2026,17 @@
       ]
     },
     {
+      "competition_id": 339,
+      "name": "Trophée des Champions",
+      "competition_type": "SUPER_CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        95812
+      ]
+    },
+    {
       "competition_id": 96,
       "name": "Türkiye Kupası",
       "competition_type": "LEAGUE",
@@ -2074,6 +2097,17 @@
         61645,
         76984,
         96522
+      ]
+    },
+    {
+      "competition_id": 465,
+      "name": "UEFA Super Cup",
+      "competition_type": "SUPER_CUP",
+      "regions": [
+        "Europe"
+      ],
+      "season_ids": [
+        95511
       ]
     },
     {
