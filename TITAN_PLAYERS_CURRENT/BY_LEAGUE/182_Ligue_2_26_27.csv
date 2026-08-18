@@ -1,0 +1,559 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Maxime Dupé,G,Nantes,90,6.2,0,0,0,0,0,0,0,25,0,0,0,36,0,0,0,0,0,0,0,0,0,2
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Frédéric Guilbert,D,Nantes,90,7.2,0,0,0,0,0,0,0,64,0,0,0,81,0,1,4,3,1,0,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Kelvin Amian,D,Nantes,27,6.4,0,0,0,0,0,0,0,13,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Mathieu Cafaro,M,Nantes,58,6.9,0,0,0,0,0,0,0,16,3,1,0,32,0,1,0,4,0,2,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Ibrahima Sissoko,M,Nantes,90,6.5,0,0,0,0,3,0,0,45,0,0,1,68,0,3,3,6,2,1,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Ignatius Ganago,F,Nantes,90,7,0,0,0,0,1,0,0,24,0,0,0,36,0,0,0,11,0,3,0,0,1,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Lucas Perrin,D,Nantes,90,7.1,0,0,0,0,1,1,0,62,0,0,0,77,0,1,2,5,3,2,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Johann Lepenant,M,Nantes,11,6.7,0,0,0,0,0,0,0,9,1,0,0,17,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Killian Corredor,M,Nantes,90,7.2,0,0,0,0,2,0,0,20,1,0,0,32,1,1,0,6,0,2,0,0,2,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Hugo Lamy,D,Nantes,79,6.7,0,0,0,0,0,0,0,29,0,0,0,50,0,1,2,3,0,0,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Dehmaine Tabibou,M,Nantes,63,7.1,0,0,0,0,0,0,0,23,1,0,0,39,1,2,0,4,1,1,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Louis Leroux,M,Nantes,11,6.5,0,0,0,0,1,0,1,8,0,0,0,12,0,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Bahereba Guirassy,F,Nantes,32,6.5,0,0,0,0,1,1,0,14,0,0,0,19,0,0,0,3,0,0,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Bahmed Deuff,M,Nantes,79,6.5,0,0,0,0,1,0,0,21,1,0,1,29,0,2,1,7,5,0,1,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Tylel Tati,D,Nantes,90,6.6,0,0,0,0,0,0,0,68,0,0,0,78,0,1,1,4,1,0,1,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Saîf-Eddine Khaoui,M,Red Star FC,58,6.2,0,0,0,0,3,0,0,17,0,0,0,33,0,1,3,2,0,1,1,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Gaetan Poussin,G,Red Star FC,90,6.9,0,0,0,0,0,0,0,41,0,0,0,52,0,0,0,0,0,0,0,0,0,2
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Kevin Cabral,F,Red Star FC,90,7,1,0,0,0,6,1,0,20,1,0,0,45,1,1,0,6,2,4,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Matthieu Huard,D,Red Star FC,90,6.5,0,0,0,0,0,0,0,29,0,0,0,56,0,0,1,1,4,0,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Damien Durand,F,Red Star FC,89,6.9,0,0,0,0,3,1,0,18,2,0,0,38,0,1,1,1,1,0,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Théo Magnin,D,Red Star FC,90,6.6,0,0,0,0,0,0,0,53,1,0,0,80,2,0,0,3,1,1,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Elyaz Zidane,D,Red Star FC,90,7.9,0,1,0,0,1,0,0,56,1,0,0,69,0,1,3,10,1,0,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Jovany Ikanga,F,Red Star FC,32,6.6,0,0,0,0,0,0,0,6,1,0,0,14,1,1,1,3,0,0,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Ryad Hachem,M,Red Star FC,90,7.3,0,0,0,0,1,1,1,33,2,0,0,54,1,0,3,7,2,3,1,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Guillaume Trani,M,Red Star FC,19,6.6,0,0,0,0,0,0,0,7,0,0,0,11,0,0,0,1,1,1,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Dylan Durivaux,D,Red Star FC,90,7,0,0,0,0,0,0,0,67,0,0,0,75,0,1,0,2,0,0,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Kemo Cissé,M,Red Star FC,71,6.4,0,0,0,0,0,0,0,32,3,0,0,41,0,0,0,2,0,1,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Islamdine Halifa,M,Red Star FC,71,6.9,0,0,0,0,0,0,0,36,0,0,0,47,0,2,2,5,0,2,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Abdelsamad Hachem,F,Red Star FC,1,0,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Nantes vs Red Star FC,08/08/2026,Cheick Konate,M,Red Star FC,19,6.5,0,0,0,0,0,0,0,7,0,0,0,9,0,0,1,0,1,0,1,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Enzo Basilio,G,Nancy,90,6.9,0,0,0,0,0,0,0,37,0,0,0,42,0,0,0,0,0,0,0,0,0,1
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Jérémy Gélin,M,Nancy,63,7,0,0,0,0,0,0,0,57,0,0,0,70,0,2,2,4,1,1,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Logan Ndenbe,D,Nancy,81,7,0,0,0,0,0,0,0,36,0,0,0,59,1,1,1,4,1,2,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Mamadou Fofana,M,Nancy,27,6.5,0,0,0,0,0,0,0,13,1,1,0,20,1,0,1,2,2,1,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Brandon Bokangu,F,Nancy,89,6.8,0,0,0,0,3,1,0,13,0,0,1,29,0,0,1,7,0,6,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Nehemiah Fernandez,D,Nancy,90,7.4,0,0,0,0,0,0,0,94,1,0,0,103,0,0,2,3,0,2,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Sidi Cissé,F,Nancy,1,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Ilyes Housni,F,Nancy,90,6.3,0,0,0,0,2,1,0,29,1,0,0,52,2,2,2,7,0,0,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Walid Bouabdelli,M,Nancy,90,6.8,0,0,0,0,2,0,0,42,0,0,0,53,0,0,0,3,0,2,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Zakaria Fdaouch,M,Nancy,90,6.7,0,0,0,0,3,0,0,33,4,0,0,65,2,0,0,5,2,2,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Elydjah Mendy,D,Nancy,90,7.5,0,0,0,0,0,0,0,79,0,0,0,92,0,4,1,10,2,0,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Enzo Tacafred,D,Nancy,90,6.6,0,0,0,0,1,0,0,43,0,0,0,70,0,1,0,6,2,1,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Héliohdino Tavares,D,Nancy,9,6.7,0,0,0,0,0,0,0,8,0,0,0,16,0,0,0,2,0,1,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Kouroufia Kébé,M,Nancy,90,7,0,0,0,0,1,0,0,46,2,0,0,63,4,4,0,10,1,1,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Jonas Martin,M,US Boulogne Côte-d'Opale,76,7,0,0,0,0,0,0,0,39,0,0,0,54,0,0,2,1,1,1,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Julien Boyer,D,US Boulogne Côte-d'Opale,90,6.7,0,0,0,0,0,0,0,28,0,0,0,57,1,1,0,4,2,1,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Demba Thiam,D,US Boulogne Côte-d'Opale,90,7.1,0,0,0,0,0,0,0,26,0,0,0,59,0,1,2,3,1,0,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Blondy Nna Noukeu,G,US Boulogne Côte-d'Opale,90,6.8,0,0,0,0,0,0,0,38,0,0,0,52,0,0,0,0,0,0,0,0,0,2
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Abdel Hbouch,F,US Boulogne Côte-d'Opale,90,6.8,0,0,0,0,2,1,0,19,0,0,0,44,1,1,0,5,0,0,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Théo Brusco,D,US Boulogne Côte-d'Opale,76,6.9,0,0,0,0,0,0,0,31,0,0,0,43,1,1,0,4,0,0,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Aurelien Platret,M,US Boulogne Côte-d'Opale,90,6.9,0,0,0,0,1,0,0,21,1,0,0,47,0,3,2,4,2,1,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Oscar Lenne,D,US Boulogne Côte-d'Opale,14,6.6,0,0,0,0,0,0,0,4,0,0,0,8,0,0,0,1,0,1,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Joffrey Bultel,M,US Boulogne Côte-d'Opale,90,6.8,0,0,0,0,0,0,0,22,1,0,0,34,2,2,2,5,3,0,0,0,1,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Jonathan Kapenga,D,US Boulogne Côte-d'Opale,14,6.8,0,0,0,0,0,0,0,9,0,0,0,11,0,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Nolan Binet,M,US Boulogne Côte-d'Opale,90,6.8,0,0,0,0,0,0,0,24,0,0,0,44,0,2,1,8,2,4,1,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Aymane Nassiri,F,US Boulogne Côte-d'Opale,33,6.6,0,0,0,0,0,0,0,6,0,0,0,18,3,1,0,5,1,1,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Antoine Kerriou,D,US Boulogne Côte-d'Opale,90,6.7,0,0,0,0,0,0,0,45,0,0,0,60,0,1,1,10,5,2,0,0,0,0
+Ligue 2,26_27,US Boulogne Côte-d'Opale vs Nancy,08/08/2026,Cheikh Dia,F,US Boulogne Côte-d'Opale,57,6.2,0,0,0,0,1,0,0,7,1,0,0,13,0,0,0,1,3,0,0,0,2,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Julien Laporte,D,Montpellier,90,7,0,0,0,0,0,0,0,52,0,0,0,64,0,0,1,3,2,1,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Théo Sainte-Luce,D,Montpellier,90,7.6,0,0,0,0,2,0,0,57,2,0,0,91,1,3,2,6,1,2,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Simon Ngapandouetnbu,G,Montpellier,90,7,0,0,0,0,0,0,0,40,0,0,0,52,0,1,0,3,0,2,0,0,0,3
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Daylam Meddah,D,Montpellier,80,7.2,0,0,0,0,2,0,0,40,2,0,0,55,0,3,2,7,1,2,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Mamadou Camara,F,Montpellier,85,6.7,0,0,0,0,5,3,0,13,0,0,3,29,0,1,0,5,0,0,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Yael Mouanga,D,Montpellier,90,7.9,0,0,0,0,1,0,0,55,0,0,0,70,0,3,4,6,3,1,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Yanis Issoufou,M,Montpellier,26,7,0,0,0,0,0,0,0,11,2,2,0,15,0,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Naoufel El Hannach,D,Montpellier,64,7.4,0,0,0,0,2,1,0,39,0,0,0,60,1,2,1,7,0,2,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Nicolas Pays,M,Montpellier,90,6.9,0,0,0,0,1,0,0,22,3,0,0,43,1,1,1,4,3,1,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Théo Chennahi,M,Montpellier,90,7.1,0,0,0,0,2,0,0,44,1,0,0,73,2,7,0,13,5,3,1,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Nordan Mukiele,F,Montpellier,64,6.7,0,0,0,0,2,0,0,23,6,1,0,37,3,0,0,3,1,0,1,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Laciné Megnan-Pave,F,Montpellier,12,6.3,1,0,0,0,1,1,0,2,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Noah Vidal,M,Montpellier,90,6.8,0,0,0,0,4,0,0,24,1,0,0,50,0,3,1,6,2,3,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Gregory Ayem,M,Montpellier,26,6.3,0,0,0,0,2,1,0,13,0,0,0,24,1,1,1,2,1,0,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Hichem Abderrebi,M,Montpellier,10,6.6,0,0,0,0,3,0,0,9,1,0,0,18,0,1,1,2,1,0,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Mickaël Barreto,M,Dijon,73,6.5,0,0,0,0,2,2,0,30,0,0,0,37,1,1,0,2,0,0,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Quentin Bernard,D,Dijon,90,7.5,0,0,0,0,0,0,0,51,0,0,0,71,0,1,1,3,0,1,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Júlio Tavares,F,Dijon,8,6.9,0,0,0,0,0,0,0,6,0,0,0,16,0,1,0,6,0,0,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Jordan Marié,M,Dijon,90,6.9,0,0,0,0,2,1,0,32,0,0,0,47,0,1,2,2,1,1,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Yanis Barka,F,Dijon,66,5.6,0,0,0,0,2,0,0,14,0,0,1,39,0,1,0,5,4,1,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Lenny Lacroix,D,Dijon,90,8,0,0,0,0,0,0,0,36,0,0,0,57,0,0,1,3,2,0,1,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Brandon Ndezi,M,Dijon,72,6.7,0,0,0,0,0,0,0,29,1,0,0,45,1,0,2,7,3,6,1,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Samy Chouchane,M,Dijon,18,6.8,0,0,0,0,3,0,0,6,0,0,1,18,1,0,0,4,0,1,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Ben-Chayeel Hamada,M,Dijon,90,6.9,0,0,0,0,0,0,0,30,0,0,0,66,0,3,2,7,2,2,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Adel Lembezat,M,Dijon,24,7.3,1,0,0,0,3,1,0,14,1,0,0,26,0,2,1,3,1,1,1,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Paul Bellon,M,Dijon,66,7.1,0,0,0,0,0,0,0,36,0,0,0,54,0,4,1,6,0,1,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Moussa Faty,M,Dijon,90,6.7,0,0,0,0,0,0,0,22,0,0,0,46,0,2,0,3,1,0,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Alexis Ntamack,F,Dijon,82,6.8,0,0,0,0,0,0,0,10,2,1,0,21,0,1,0,6,1,4,0,0,1,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Ylan Aka,M,Dijon,17,6.4,0,0,0,0,0,0,0,8,2,1,0,11,0,1,0,1,0,0,0,0,1,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Tyris Dong,F,Dijon,24,6.4,0,0,0,0,0,0,0,5,1,0,0,12,0,0,1,1,2,1,0,0,0,0
+Ligue 2,26_27,Montpellier vs Dijon,08/08/2026,Ylann Marie-Rose,G,Dijon,90,6.7,0,0,0,0,0,0,0,25,0,0,0,40,0,0,0,0,0,0,0,0,0,4
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Nampalys Mendy,M,Metz,11,6.6,0,0,0,0,0,0,0,6,0,0,0,8,0,1,0,2,0,0,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Maxime Colin,D,Metz,90,7.2,0,1,0,0,0,0,0,35,1,1,0,48,0,0,2,1,0,0,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Florian Miguel,D,Metz,90,6.6,0,0,0,0,1,1,0,32,1,0,0,58,0,0,0,5,0,3,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Jean Ruiz,D,Metz,90,6.9,0,0,0,0,0,0,0,54,0,0,0,65,0,3,0,4,1,0,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Habibou Diallo,F,Metz,11,6.4,0,0,0,0,0,0,0,5,0,0,0,13,0,1,0,3,2,0,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Jessy Deminguet,M,Metz,90,6.9,0,1,0,0,1,0,0,41,2,1,0,50,0,1,1,2,2,1,1,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Giorgi Abuashvili,F,Metz,82,7.8,1,0,0,0,2,1,0,15,1,0,0,38,2,2,0,6,1,2,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Jonathan Fischer,G,Metz,90,7.2,0,0,0,0,0,0,0,22,0,0,0,34,0,0,0,0,0,0,0,0,0,6
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Cristian Castro,D,Metz,90,6.7,0,0,0,0,0,0,0,55,1,0,0,65,0,1,2,1,1,0,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Morgan Bokele Mputu,M,Metz,8,6.7,0,0,0,0,0,0,0,5,0,0,0,7,0,1,0,2,0,1,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Pape Moussa Fall,F,Metz,79,6.7,1,0,0,0,6,3,1,11,0,0,3,29,0,0,1,5,3,1,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Believe Munongo,M,Metz,65,6.2,0,0,0,0,0,0,0,24,1,0,0,29,0,0,2,0,3,0,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Idris Mohamed,D,Metz,90,6.7,0,0,0,0,2,1,0,47,0,0,0,62,1,1,3,5,2,0,1,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Nathan Mbala,F,Metz,79,6.6,0,0,0,0,2,0,0,20,3,0,0,38,0,3,1,3,1,0,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Hamza Kadamani,F,Metz,25,6.7,0,0,0,0,0,0,0,7,0,0,0,14,0,1,1,2,0,1,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Adrián Ortolá,G,Guingamp,90,7.7,0,0,0,0,0,0,0,58,0,0,0,67,0,0,0,0,0,0,0,0,0,4
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Dylan Louiserre,M,Guingamp,90,7.2,0,0,0,0,0,0,0,74,2,1,0,84,0,0,1,2,0,2,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Erwin Koffi,D,Guingamp,90,6.1,0,0,0,0,1,1,0,32,2,1,0,64,1,0,1,2,1,1,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Tom Ducrocq,M,Guingamp,33,6.5,0,0,0,0,0,0,0,32,0,0,0,36,0,1,0,2,1,1,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Donatien Gomis,D,Guingamp,24,7.1,0,0,0,0,0,0,0,33,0,0,0,39,0,1,0,5,0,2,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Albin Demouchy,D,Guingamp,90,7.8,1,0,0,0,1,1,0,85,1,0,0,103,0,3,1,5,2,1,1,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Vimoj Muntu,D,Guingamp,16,6.7,0,0,0,0,0,0,0,12,0,0,0,13,0,0,0,1,0,1,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Amine Hemia,F,Guingamp,66,7,0,1,0,0,0,0,0,30,1,0,0,42,1,1,0,4,1,2,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Stanislas Kielt,F,Guingamp,90,6.5,0,0,0,0,2,1,0,14,0,0,2,24,1,0,0,3,1,1,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Florent Sanchez Da Silva,M,Guingamp,57,6.5,0,0,0,0,0,0,0,14,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Jeovanni Dianganga,D,Guingamp,66,6.4,0,0,0,0,0,0,0,44,1,0,0,57,1,2,2,5,2,1,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Teddy Averlant,M,Guingamp,90,6.4,0,0,0,0,5,3,0,19,0,0,0,36,1,1,0,4,1,2,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Jasser Chamakh,M,Guingamp,24,6.6,0,0,0,0,3,1,0,18,1,0,1,27,0,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Jérémie Matumona,D,Guingamp,74,6.6,0,0,0,0,0,0,0,36,2,0,0,55,0,2,0,5,0,1,0,0,1,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Samir  Ben Brahim,M,Guingamp,24,6.5,0,0,0,0,0,0,0,21,0,0,0,24,0,0,0,1,1,1,0,0,0,0
+Ligue 2,26_27,Metz vs Guingamp,08/08/2026,Tanguy Ahile,M,Guingamp,66,6.5,0,0,0,0,1,0,0,39,0,0,0,46,1,2,1,3,0,0,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Adrien Hunou,M,Clermont Foot,80,6.7,0,0,0,0,0,0,0,31,0,0,0,38,0,0,0,3,2,3,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Junior Sambia,M,Clermont Foot,10,6.7,0,0,0,0,0,0,0,8,0,0,0,11,0,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Yoann Salmier,D,Clermont Foot,90,6.7,0,0,0,0,0,0,0,45,0,0,0,50,0,2,0,2,2,0,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Vital Nsimba,D,Clermont Foot,90,7.6,0,0,0,0,0,0,0,61,1,0,0,84,0,3,2,6,0,2,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Théo Guivarch,G,Clermont Foot,90,6.5,0,0,0,0,0,0,0,37,0,0,0,46,0,0,0,0,0,0,0,0,0,1
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Maïdine Douane,M,Clermont Foot,29,7,0,0,0,0,0,0,0,12,0,0,0,15,1,1,0,2,0,0,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Abdellah Baallal,M,Clermont Foot,90,6.6,0,0,0,0,3,0,0,28,0,0,1,38,1,0,1,4,1,3,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Mohamed-Amine Bouchenna,M,Clermont Foot,61,6.6,0,0,0,0,0,0,0,29,1,0,0,36,0,0,3,0,1,0,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Jean Grillot,D,Clermont Foot,90,7.1,0,0,0,0,0,0,0,53,0,0,0,67,1,2,1,3,2,0,1,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Ivan M'Bahia,D,Clermont Foot,72,7.3,0,0,0,0,0,0,0,46,0,0,0,63,1,4,0,5,0,0,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Ethan Kena Kabeya,D,Clermont Foot,90,6.9,0,0,0,0,0,0,0,58,0,0,0,67,0,1,1,3,3,1,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Arthur Saintorens,F,Clermont Foot,61,6.3,0,0,0,0,1,0,0,12,0,0,0,15,0,0,0,0,2,0,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Ousmane Diop,F,Clermont Foot,19,6.9,0,0,0,0,0,0,0,5,1,1,0,12,2,0,0,4,2,0,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Ibrahim Coulibaly,D,Clermont Foot,18,6.9,0,0,0,0,0,0,0,12,0,0,0,16,0,1,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,El Hadj Koné,D,Clermont Foot,71,6.3,0,0,0,0,0,0,0,15,0,0,0,26,0,1,0,1,2,0,0,0,1,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Christ Okou,F,Clermont Foot,29,6.5,0,0,0,0,0,0,0,5,0,0,0,13,0,0,0,3,0,1,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Theo Leoni,M,Stade de Reims,31,6.5,0,0,0,0,0,0,0,14,0,0,0,18,0,0,0,1,0,1,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Mohamed Daramy,F,Stade de Reims,90,6.4,0,0,0,0,1,1,0,39,0,0,0,63,4,2,0,8,0,2,0,0,1,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Youssef El Kachati,F,Stade de Reims,59,6.6,0,0,0,0,0,0,0,5,0,0,0,13,1,0,0,2,1,1,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Mory Gbane,M,Stade de Reims,59,7,0,0,0,0,0,0,0,65,0,0,0,70,0,1,2,1,1,0,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Armel Zohouri,D,Stade de Reims,19,6.6,0,0,0,0,0,0,0,17,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Sambou Soumano,F,Stade de Reims,71,6.3,0,0,0,0,1,0,0,7,0,0,1,16,0,0,0,3,1,2,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Samuel Kotto,D,Stade de Reims,90,7.7,0,0,0,0,0,0,0,96,0,0,0,109,0,1,1,3,1,1,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Daouda Guindo,D,Stade de Reims,90,7.5,0,0,0,0,3,0,0,37,2,0,0,65,0,0,2,4,0,3,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Tom Hülsmann,G,Stade de Reims,90,7.1,0,0,0,0,0,0,0,28,0,0,0,39,0,0,0,2,0,1,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Yaya Fofana,M,Stade de Reims,82,6.8,0,0,0,0,2,0,0,36,0,0,1,45,0,1,1,2,1,1,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,N'Tamon Elie Ahouonon,D,Stade de Reims,90,7.7,0,0,0,0,1,0,0,85,0,0,0,99,0,2,2,6,4,2,1,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Ange Tia,M,Stade de Reims,90,6.9,0,0,0,0,2,0,0,27,0,0,0,45,1,2,4,7,2,2,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Quentin Paris,F,Stade de Reims,19,6.4,0,0,0,0,0,0,0,5,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Jean Mambuku,D,Stade de Reims,71,7,0,0,0,0,0,0,0,22,2,1,0,35,0,0,1,0,0,0,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,Amine Kashi,F,Stade de Reims,8,6.5,0,0,0,0,0,0,0,3,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Clermont Foot vs Stade de Reims,08/08/2026,John Otomewo,M,Stade de Reims,31,7,0,0,0,0,0,0,0,15,0,0,0,24,1,4,1,5,0,0,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Alexandre Olliero,G,Grenoble Foot 38,90,5.6,0,0,0,0,0,0,0,16,0,0,0,26,0,0,0,0,0,0,0,0,0,2
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Mael Corboz,M,Grenoble Foot 38,90,6.8,0,0,0,0,1,0,0,37,2,1,0,54,0,2,1,7,0,4,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Clément Vidal,D,Grenoble Foot 38,90,6.3,0,0,0,0,1,0,0,49,0,0,0,67,0,3,2,5,0,1,0,0,1,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Yohann Magnin,M,Grenoble Foot 38,90,6.4,0,0,0,0,0,0,0,40,0,0,0,50,0,2,0,4,1,1,1,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Ugo Bonnet,F,Grenoble Foot 38,66,6.6,0,0,0,0,1,0,0,10,0,0,0,17,0,1,0,2,0,1,0,0,1,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Lucas Bernadou,M,Grenoble Foot 38,66,6.3,0,0,0,0,1,0,0,26,0,0,0,39,0,4,0,6,2,1,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Dillon Hoogewerf,M,Grenoble Foot 38,10,6.4,0,0,0,0,0,0,0,6,0,0,0,9,0,0,0,0,1,0,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Yadaly Diaby,F,Grenoble Foot 38,80,8.4,2,0,0,0,2,2,0,16,0,0,0,27,0,0,0,2,1,2,0,0,1,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Matthéo Xantippe,D,Grenoble Foot 38,90,6.3,0,1,0,0,0,0,0,46,1,0,0,75,0,4,2,9,1,0,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Nesta Zahui,F,Grenoble Foot 38,90,6.5,0,0,0,0,0,0,0,31,2,0,0,68,1,3,3,7,0,1,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Efe Sarıkaya,D,Grenoble Foot 38,90,6.2,0,0,0,0,0,0,0,61,0,0,0,71,0,1,1,6,1,1,1,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Samba Diba,M,Grenoble Foot 38,24,6.3,0,0,0,0,0,0,0,8,0,0,0,12,0,0,0,1,0,1,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Arthur Lallias,F,Grenoble Foot 38,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Jean-Guy Akpa Akpro,F,Grenoble Foot 38,24,6.5,0,0,0,0,0,0,0,2,0,0,0,9,0,3,0,3,2,0,1,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Kyliann Fofana,F,Grenoble Foot 38,89,6.4,0,0,0,0,3,0,0,11,0,0,1,36,1,1,0,8,0,2,0,0,2,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Maxence Prévot,G,USL Dunkerque,90,6.3,0,0,0,0,0,0,0,24,0,0,0,31,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Thomas Robinet,F,USL Dunkerque,90,7.1,0,1,0,0,3,1,0,39,2,1,2,53,0,1,0,2,3,0,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Opa Sangante,D,USL Dunkerque,87,6.3,0,0,0,0,2,0,0,82,0,0,0,93,0,1,1,1,1,0,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Lenny Vallier,D,USL Dunkerque,10,6.6,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Allan Linguet,D,USL Dunkerque,90,6.3,0,0,0,0,0,0,0,58,0,0,0,80,0,0,1,0,1,0,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Adrien Lebeau,M,USL Dunkerque,84,7.2,0,0,0,0,1,1,0,30,4,1,0,54,1,2,0,7,0,3,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Egor Prutsev,M,USL Dunkerque,77,7.6,2,1,0,0,4,2,0,17,2,1,1,41,1,1,0,4,1,1,0,0,1,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Bram Lagae,D,USL Dunkerque,90,7,0,0,0,0,1,0,0,65,0,0,0,77,0,0,1,3,2,0,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Jordan Morel,M,USL Dunkerque,90,6.7,0,0,0,0,2,0,0,50,0,0,0,67,0,2,1,5,0,2,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Alex Daho,F,USL Dunkerque,77,8.4,0,1,0,0,0,0,1,37,3,1,0,55,4,1,0,5,0,0,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Khalil Ayari,M,USL Dunkerque,13,6.4,0,0,0,0,0,0,0,5,0,0,0,18,2,0,0,3,0,1,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Enzo Mayilla,F,USL Dunkerque,13,6.7,0,0,0,0,1,0,0,4,0,0,0,9,0,2,0,3,3,0,1,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Victor Mayela,D,USL Dunkerque,90,7.7,1,0,0,0,2,1,0,41,0,0,0,62,0,2,1,5,2,2,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Théna Massock,M,USL Dunkerque,45,6.6,0,0,0,0,0,0,0,20,0,0,0,25,0,1,0,3,0,0,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Franck Atoen,M,USL Dunkerque,13,6.5,0,0,0,0,0,0,0,6,0,0,0,9,1,0,0,1,1,0,0,0,0,0
+Ligue 2,26_27,USL Dunkerque vs Grenoble Foot 38,08/08/2026,Marco Decherf,M,USL Dunkerque,45,7.5,1,1,0,0,1,1,0,15,1,1,0,19,0,0,1,2,4,0,1,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Mathieu Peybernes,D,Sochaux,62,6.4,0,0,0,0,0,0,0,57,0,0,0,62,0,0,1,0,0,0,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Jonathan Mexique,M,Sochaux,16,6.6,0,0,0,0,0,0,0,7,0,0,0,11,0,0,1,0,0,0,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Mehdi Jeannin,G,Sochaux,90,5.8,0,0,0,0,0,0,0,27,0,0,0,40,0,1,0,1,0,0,0,0,0,4
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Bendjaloud Youssouf,D,Sochaux,90,6.6,0,0,0,0,0,0,0,57,2,0,0,81,0,0,0,1,1,0,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Dylan Tavares,D,Sochaux,10,6.8,0,0,0,0,0,0,0,4,0,0,0,8,1,0,0,2,0,1,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Julien Masson,M,Sochaux,90,7.3,0,0,0,0,2,0,0,44,1,0,0,62,1,2,0,7,0,3,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Boubacar Fofana,M,Sochaux,28,6.4,0,0,0,0,1,0,0,11,0,0,0,20,0,0,0,2,1,1,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Samy Baghdadi,M,Sochaux,74,6.7,0,0,0,0,4,1,0,23,2,0,0,33,0,0,0,1,1,1,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Benjamin Gomel,M,Sochaux,90,6.4,0,0,0,0,2,0,0,28,1,0,0,43,0,1,1,3,1,2,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Kapit Djoco,F,Sochaux,62,5.8,0,0,0,0,0,0,0,6,0,0,0,15,0,0,0,0,3,0,0,0,1,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Landry Nomel,F,Sochaux,62,5.9,0,0,0,0,2,0,0,17,0,0,0,30,1,1,0,2,2,0,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Victor Lobry,F,Sochaux,90,6.7,0,0,0,0,3,1,0,58,1,0,0,70,1,0,0,1,0,0,0,0,1,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Mathis Clairicia,F,Sochaux,28,6.5,0,0,0,0,0,0,0,6,2,0,0,10,0,0,1,1,2,1,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Arthur Vitelli,D,Sochaux,28,7,0,0,0,0,0,0,0,25,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Dalangunypole Gomis,D,Sochaux,80,5.9,0,0,0,0,0,0,0,56,1,0,0,76,0,1,0,2,1,1,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Élie N'Gatta,D,Sochaux,90,5.8,0,0,0,0,0,0,0,69,0,0,0,71,0,1,1,2,2,0,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Irvin Cardona,F,Saint-Étienne,56,8.4,2,0,0,0,3,2,0,14,1,0,0,27,0,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Maxime Bernauer,D,Saint-Étienne,78,6.9,0,0,0,0,1,1,0,53,0,0,0,64,1,2,0,4,0,1,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Gautier Larsonneur,G,Saint-Étienne,90,7.7,0,0,0,0,0,0,0,30,0,0,0,42,0,0,0,2,0,2,0,0,0,2
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Thierno Ballo,M,Saint-Étienne,69,6.8,0,1,0,0,1,0,0,12,1,1,0,18,0,0,0,1,1,0,0,0,3,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Zuriko Davitashvili,F,Saint-Étienne,21,6.8,0,0,0,0,0,0,0,12,1,1,0,12,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,João Ferreira,D,Saint-Étienne,90,7.1,0,0,0,0,0,0,0,33,2,0,0,60,1,2,2,5,2,2,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Áron Csongvai,M,Saint-Étienne,90,6.9,0,0,0,0,1,0,0,67,0,0,0,79,0,1,1,3,2,2,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Jakob Breum,M,Saint-Étienne,90,8,1,1,0,0,3,2,0,41,3,1,0,56,1,0,0,1,0,0,0,0,1,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Lucas Stassin,F,Saint-Étienne,34,6.4,0,0,0,0,0,0,0,7,1,0,0,11,0,0,0,1,0,1,0,0,1,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Julien Le Cardinal,D,Saint-Étienne,90,7.7,0,0,0,0,0,0,0,56,0,0,0,71,0,1,1,4,1,1,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Augustine Boakye,F,Saint-Étienne,45,7.3,0,1,0,0,1,0,0,15,3,1,0,22,1,1,1,2,1,0,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Joshua Duffus,F,Saint-Étienne,45,6.4,0,0,0,0,2,1,0,9,1,0,1,22,1,0,0,2,1,1,1,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Sohaib Nair,D,Saint-Étienne,90,8,0,0,0,0,0,0,0,63,0,0,0,84,0,2,1,9,0,3,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Kevin Pedro,D,Saint-Étienne,90,7.5,0,0,0,0,1,0,0,42,0,0,0,74,0,6,1,9,1,1,0,0,0,0
+Ligue 2,26_27,Sochaux vs Saint-Étienne,08/08/2026,Adam Baallal,M,Saint-Étienne,12,6.5,0,0,0,0,1,1,0,4,0,0,0,7,0,0,0,0,1,0,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Brice Maubleu,G,Pau FC,90,6.6,0,0,0,0,0,0,0,18,0,0,0,25,0,0,0,0,0,0,0,0,0,2
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Gaëtan Paquiez,D,Pau FC,90,8,0,0,0,0,0,0,0,102,2,0,0,111,1,1,0,6,1,1,1,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Jessy Benet,M,Pau FC,90,7.1,0,0,0,0,2,0,0,51,2,0,0,72,0,1,0,7,2,2,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Lorenzo Rajot,M,Pau FC,45,6.4,0,0,0,0,0,0,0,20,0,0,0,24,1,1,0,3,0,0,0,0,1,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Axel Bamba,D,Pau FC,90,7.2,0,0,0,0,1,0,0,82,0,0,0,93,1,0,2,6,1,0,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Hacene Benali,F,Pau FC,90,6.4,0,0,0,0,1,0,0,13,0,0,0,28,0,3,0,5,1,1,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Kylian Gasnier,M,Pau FC,45,6.4,0,0,0,0,0,0,0,15,1,0,0,30,2,0,0,3,0,1,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Alexis Lefebvre,M,Pau FC,66,6.7,0,0,0,0,2,0,0,4,0,0,1,13,0,0,0,1,0,1,0,0,1,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Tom Saettel,F,Pau FC,10,6.6,0,0,0,0,0,0,0,8,1,0,0,15,0,1,0,2,1,1,1,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Tom Pouilly,D,Pau FC,90,7.2,0,0,0,0,1,0,0,69,2,1,0,94,0,4,0,5,1,1,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Mathys Tourraine,D,Pau FC,45,6.4,0,0,0,0,0,0,0,31,0,0,0,48,0,3,0,4,0,1,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Giovani Versini,M,Pau FC,45,6.8,0,0,0,0,1,0,0,25,2,0,0,39,0,1,0,2,1,1,1,0,2,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Cheikh Fall,M,Pau FC,45,6.5,0,0,0,0,3,1,0,22,0,0,0,29,0,0,0,2,1,0,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Joseph Kalulu Kyatengwa,D,Pau FC,45,6.9,0,0,0,0,3,1,2,33,1,0,0,57,1,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Babacar Leye,F,Pau FC,24,6.6,0,0,0,0,3,0,0,4,0,0,0,9,0,1,0,3,0,0,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Axel Dodote,D,Pau FC,80,6.9,0,0,0,0,0,0,0,88,0,0,0,94,0,2,0,2,2,0,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Florian Escales,G,Annecy FC,90,7.4,0,0,0,0,0,0,0,44,0,0,0,52,0,1,0,1,0,0,0,0,0,2
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Francois Lajugie,D,Annecy FC,90,7.1,0,0,0,0,1,1,0,27,0,0,0,39,0,0,0,4,0,0,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Antoine Larose,F,Annecy FC,67,6.8,0,0,0,0,1,0,0,13,2,0,1,23,1,0,0,5,1,2,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Clement Billemaz,M,Annecy FC,16,3.8,0,1,0,0,0,0,0,4,1,0,0,9,1,0,0,1,1,0,0,1,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Thibault Rambaud,F,Annecy FC,67,6.5,0,0,0,0,2,1,0,15,1,1,0,23,0,1,0,7,1,0,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Mattéo Veillon,D,Annecy FC,23,6.9,0,0,0,0,0,0,0,6,0,0,0,13,2,0,1,3,0,1,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Moïse Sahi Dion,M,Annecy FC,23,6.8,0,0,0,0,2,0,0,5,0,0,0,14,1,0,0,5,0,3,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Kadan Young,F,Annecy FC,59,6.5,0,0,0,0,2,0,0,10,0,0,0,31,1,1,0,3,1,1,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Zepiqueno Redmond,F,Annecy FC,31,6.5,0,0,0,0,0,0,0,7,2,0,0,23,0,1,0,3,1,1,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Axel Drouhin,D,Annecy FC,90,8.4,1,0,0,0,1,1,0,27,0,0,0,42,1,0,0,4,0,1,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Thibault Delphis,D,Annecy FC,90,7.5,0,0,0,0,0,0,0,19,0,0,0,45,0,3,0,6,0,0,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Julien Kouadio,D,Annecy FC,90,6.8,0,0,0,0,0,0,0,32,1,0,0,53,0,0,2,1,3,1,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Mohamed Kone,M,Annecy FC,67,6.8,0,0,0,0,0,0,0,10,0,0,0,28,0,3,1,4,1,1,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Kilyan Jusseron-Veniere,M,Annecy FC,23,6.7,0,0,0,0,0,0,0,6,0,0,0,9,0,2,0,2,0,0,0,0,0,0
+Ligue 2,26_27,Pau FC vs Annecy FC,08/08/2026,Paul Venot,M,Annecy FC,90,6.9,0,0,0,0,0,0,0,28,2,0,0,47,1,0,4,3,1,0,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Francis Coquelin,M,Stade Lavallois,25,6.5,0,0,0,0,0,0,0,17,0,0,0,23,0,2,0,2,0,0,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Mamadou Samassa,G,Stade Lavallois,90,6,0,0,0,0,0,0,0,35,0,0,0,56,0,0,0,0,0,0,0,0,0,7
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Cyril Mandouki,M,Stade Lavallois,90,6.4,0,0,0,0,0,0,0,52,0,0,0,63,0,2,2,2,1,0,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Teddy Bouriaud,M,Stade Lavallois,65,6.9,0,0,0,0,0,0,0,53,0,0,0,67,0,1,2,3,0,1,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,William Bianda,D,Stade Lavallois,76,6.7,0,0,0,0,0,0,0,53,0,0,0,61,0,0,0,2,0,0,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Sam Sanna,M,Stade Lavallois,90,7,0,0,0,0,1,0,0,48,1,0,0,58,0,2,0,4,0,1,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Malik Sellouki,M,Stade Lavallois,66,6.3,0,0,0,0,1,0,0,33,0,0,0,47,0,0,0,2,1,1,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Jules Gaudin,D,Stade Lavallois,90,6.7,0,0,0,0,0,0,0,64,1,0,0,85,0,5,0,9,1,4,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Mathis Houdayer,F,Stade Lavallois,24,6.7,0,0,0,0,0,0,0,6,0,0,0,8,0,0,0,1,0,1,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Sidi Bane,D,Stade Lavallois,19,3.8,0,0,0,0,0,0,0,19,0,0,0,20,0,0,0,1,1,1,0,1,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Trévis Dago,F,Stade Lavallois,65,6.3,0,0,0,0,2,0,1,7,0,0,0,22,1,0,0,4,0,2,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Noa Mupemba,F,Stade Lavallois,25,6.3,0,0,0,0,1,0,0,7,0,0,0,13,0,1,0,2,0,0,0,0,1,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Esteban Mouton,D,Stade Lavallois,66,6.8,0,1,0,0,0,0,0,59,2,0,0,81,1,1,1,3,0,1,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Ethan Clavreul,M,Stade Lavallois,24,7.4,1,0,0,0,1,1,0,8,0,0,0,11,0,0,0,1,0,1,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Joseph Layousse Samb,D,Stade Lavallois,14,6,0,0,0,0,0,0,0,13,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Mamadou Sidibé,M,Stade Lavallois,90,6,0,0,0,0,0,0,0,51,0,0,0,65,0,0,0,1,1,0,1,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Quentin Braat,G,Rodez AF,90,6.4,0,0,0,0,0,0,0,21,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Evan’s Jean-Lambert,D,Rodez AF,78,6.6,0,0,0,0,0,0,0,27,1,0,0,45,0,1,0,1,1,0,1,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Samy Benchama,M,Rodez AF,78,6.5,0,0,0,0,1,0,0,11,0,0,0,18,0,0,1,0,0,0,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Steven Luyambula Biwa,D,Rodez AF,22,6.9,0,0,0,0,0,0,0,12,1,0,0,28,1,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Kenny Nagera,F,Rodez AF,21,7.3,0,1,0,0,1,0,0,3,1,1,0,4,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Damjan Pavlović,M,Rodez AF,12,6.7,0,0,0,0,0,0,0,10,0,0,0,11,0,0,0,0,0,0,0,0,1,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Mathis Magnin,D,Rodez AF,90,7.9,0,0,0,0,2,1,0,48,2,0,2,62,0,3,2,7,2,0,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Ibrahima Baldé,F,Rodez AF,90,8,1,0,0,0,5,3,0,11,2,0,0,28,0,1,1,5,0,1,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Octave Joly,M,Rodez AF,21,7.4,1,0,0,0,1,1,0,10,0,0,0,15,0,0,0,1,0,1,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Antonin Cartillier,M,Rodez AF,69,7,0,0,0,0,1,0,0,22,2,1,0,35,2,2,0,4,0,0,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Raphaël Lipinski,D,Rodez AF,90,7,0,0,0,0,1,1,0,55,1,0,0,82,0,3,2,4,0,1,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Mathis Touho,F,Rodez AF,69,6.5,0,0,0,0,5,2,0,3,1,0,2,15,1,0,0,2,1,1,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Jordan Mendes Correia,M,Rodez AF,90,7.4,0,1,0,0,1,1,0,41,2,0,0,59,1,4,3,6,4,0,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Loni Laurent,D,Rodez AF,90,7,0,0,0,0,1,0,0,65,2,0,0,85,0,0,2,0,1,0,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Corentin Issanchou Roubiou,M,Rodez AF,68,6.9,1,0,0,0,2,1,0,25,2,2,0,44,0,1,1,2,4,0,0,0,0,0
+Ligue 2,26_27,Rodez AF vs Stade Lavallois,08/08/2026,Clément Jolibois,D,Rodez AF,12,6.9,0,0,0,0,0,0,0,16,0,0,0,19,0,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Brice Maubleu,G,Pau FC,90,8.9,0,0,0,0,0,0,0,30,0,0,0,53,0,0,0,1,0,0,0,0,0,9
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Gaëtan Paquiez,D,Pau FC,90,6.8,0,0,0,0,0,0,0,45,0,0,0,55,0,0,2,0,1,0,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Jessy Benet,M,Pau FC,79,7.2,0,0,0,0,0,0,0,33,1,0,0,44,1,1,2,3,1,1,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Lorenzo Rajot,M,Pau FC,32,6.7,0,1,0,0,0,0,0,10,1,1,0,17,0,1,2,1,1,0,1,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Axel Bamba,D,Pau FC,90,6.5,0,0,0,0,0,0,0,29,0,0,0,38,0,0,1,2,3,1,1,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Hacene Benali,F,Pau FC,32,6.6,0,0,0,0,0,0,0,5,0,0,0,15,0,3,0,5,2,1,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Alexis Lefebvre,M,Pau FC,58,6.6,0,0,0,0,1,1,0,8,1,1,1,17,0,1,2,2,0,0,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Tom Saettel,F,Pau FC,58,7.1,0,0,0,0,0,0,0,15,1,0,0,32,2,2,1,6,1,2,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Tom Pouilly,D,Pau FC,90,6.8,0,0,0,0,0,0,0,33,0,0,0,56,1,1,3,4,1,1,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Mathys Tourraine,D,Pau FC,9,6.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Giovani Versini,M,Pau FC,58,6.7,0,0,0,0,2,1,0,10,1,1,1,19,1,0,0,1,1,0,0,0,1,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Cheikh Fall,M,Pau FC,90,6.4,0,0,0,0,2,0,0,25,0,0,0,41,0,2,3,5,2,1,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Joseph Kalulu Kyatengwa,D,Pau FC,88,6.9,0,0,0,0,0,0,0,38,0,0,0,54,0,2,0,3,2,1,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Babacar Leye,F,Pau FC,32,7.4,1,0,0,0,1,1,0,1,0,0,0,12,0,0,0,1,1,0,0,0,2,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Luan Gadegbeku,M,Pau FC,11,6.7,0,0,0,0,0,0,0,3,0,0,0,7,0,1,0,2,1,1,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Axel Dodote,D,Pau FC,90,7.4,0,0,0,0,0,0,0,39,0,0,0,55,2,1,3,6,0,2,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Paul Delecroix,G,Dijon,90,7.5,0,0,0,0,0,0,0,28,0,0,0,38,0,0,0,0,0,0,0,0,0,2
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Mickaël Barreto,M,Dijon,62,6.5,0,0,0,0,2,1,0,36,2,0,0,55,2,0,0,2,1,0,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Quentin Bernard,D,Dijon,90,7,0,0,0,0,1,1,0,78,0,0,0,89,0,1,1,4,1,0,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Júlio Tavares,F,Dijon,17,6.7,0,0,0,0,0,0,0,1,0,0,0,5,0,1,0,4,0,1,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Jordan Marié,M,Dijon,62,6.4,0,0,0,0,0,0,0,55,3,0,0,69,1,1,0,3,1,0,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Yanis Barka,F,Dijon,45,6.4,0,0,0,0,0,0,0,9,0,0,0,13,0,0,0,1,0,1,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Ismail Bouleghcha,M,Dijon,90,7.2,0,0,0,0,0,0,0,74,1,0,0,102,0,1,1,5,1,3,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Lenny Lacroix,D,Dijon,90,7.6,0,0,0,0,1,0,0,95,0,0,0,111,0,2,1,7,0,2,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Brandon Ndezi,M,Dijon,90,7.2,0,0,0,0,2,1,0,55,0,0,0,70,0,4,1,10,2,2,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Samy Chouchane,M,Dijon,28,6.8,0,0,0,0,2,1,0,29,2,0,0,42,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Adel Lembezat,M,Dijon,28,6.5,0,0,0,0,3,3,0,18,2,0,1,28,1,0,0,3,2,2,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Paul Bellon,M,Dijon,90,7.8,0,0,0,0,0,0,0,93,3,1,0,103,0,3,2,5,1,2,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Alexis Ntamack,F,Dijon,73,6.8,0,0,0,0,3,1,0,12,0,0,0,21,1,0,0,3,0,2,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Ylan Aka,M,Dijon,88,6.4,0,0,0,0,0,0,0,44,0,0,0,65,1,1,0,4,1,1,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Tyris Dong,F,Dijon,45,6.2,0,0,0,0,2,1,0,6,1,0,0,16,0,0,0,1,1,1,0,0,0,0
+Ligue 2,26_27,Dijon vs Pau FC,14/08/2026,Hatem Mimoune,M,Dijon,9,6.7,0,0,0,0,0,0,0,7,1,0,0,11,0,0,1,0,0,0,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Nampalys Mendy,M,Metz,10,6.6,0,0,0,0,0,0,0,9,0,0,0,11,0,0,0,0,1,0,1,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Florian Miguel,D,Metz,90,6.6,0,0,0,0,1,0,0,35,1,0,0,67,0,1,1,4,2,2,1,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Jean Ruiz,D,Metz,90,7.6,0,0,0,0,0,0,0,95,0,0,0,104,0,2,1,5,1,1,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Habibou Diallo,F,Metz,45,5.3,0,0,0,0,2,0,0,6,0,0,0,13,0,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Jessy Deminguet,M,Metz,90,6.8,0,0,0,0,1,0,0,75,0,0,0,86,0,2,0,4,2,2,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Giorgi Abuashvili,F,Metz,90,5.8,0,0,0,0,2,0,2,19,1,0,0,49,0,1,1,3,1,1,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Jonathan Fischer,G,Metz,90,7.5,0,0,0,0,0,0,0,39,0,0,0,44,0,0,0,1,0,0,0,0,0,2
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Cristian Castro,D,Metz,90,7.4,0,0,0,0,1,0,0,91,0,0,1,105,1,2,2,5,0,0,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Ibou Sane,F,Metz,29,6.6,0,0,0,0,0,0,0,15,0,0,0,23,1,2,1,4,0,1,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Pape Moussa Fall,F,Metz,45,6.2,0,0,0,0,0,0,0,5,0,0,0,8,0,0,0,2,4,0,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Believe Munongo,M,Metz,61,7.4,0,0,0,0,1,1,0,42,0,0,0,48,0,2,0,4,0,1,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Idris Mohamed,D,Metz,80,7.8,0,0,0,0,0,0,0,64,1,0,0,80,1,2,1,10,1,1,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Nathan Mbala,F,Metz,61,6.6,0,0,0,0,1,0,0,11,0,0,0,19,0,1,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Hamza Kadamani,F,Metz,29,7.2,0,0,0,0,0,0,0,11,0,0,0,18,1,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Bryan Song,D,Metz,90,6.7,0,0,0,0,0,0,0,27,0,0,0,54,0,2,2,6,3,2,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Alexandre Olliero,G,Grenoble Foot 38,90,6.9,0,0,0,0,0,0,0,26,0,0,0,39,0,0,0,1,0,0,0,0,0,1
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Mael Corboz,M,Grenoble Foot 38,90,6.9,0,0,0,0,1,0,0,49,0,0,0,58,0,2,0,2,0,0,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Clément Vidal,D,Grenoble Foot 38,90,7.6,0,0,0,0,1,0,0,67,0,0,0,86,0,0,0,5,1,2,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Yohann Magnin,M,Grenoble Foot 38,90,7.5,0,0,0,0,0,0,0,49,1,0,0,61,1,3,0,8,2,2,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Ugo Bonnet,F,Grenoble Foot 38,8,6.6,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Lucas Bernadou,M,Grenoble Foot 38,8,6.6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Leonardo Cerri,F,Grenoble Foot 38,19,6.4,0,0,0,0,2,0,0,3,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Yadaly Diaby,F,Grenoble Foot 38,88,7.2,0,0,0,0,3,1,0,22,1,0,0,42,2,2,1,7,0,3,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Farouq Limouri,D,Grenoble Foot 38,90,6.8,0,0,0,0,0,0,0,44,0,0,0,53,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Matthéo Xantippe,D,Grenoble Foot 38,90,7.6,0,0,0,0,0,0,0,35,0,0,0,62,1,5,4,7,2,1,1,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Nesta Zahui,F,Grenoble Foot 38,90,7.7,0,0,0,0,0,0,0,33,1,0,0,66,2,4,2,12,0,1,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Baptiste Mouazan,M,Grenoble Foot 38,88,6.4,0,0,0,0,1,0,0,24,2,1,0,38,1,1,0,3,1,1,0,0,1,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Jean-Guy Akpa Akpro,F,Grenoble Foot 38,71,6.9,0,0,0,0,1,1,0,8,0,0,1,24,0,2,2,5,3,1,0,0,0,0
+Ligue 2,26_27,Grenoble Foot 38 vs Metz,14/08/2026,Kyliann Fofana,F,Grenoble Foot 38,90,6.1,0,0,0,0,0,0,0,13,1,0,0,25,1,1,0,3,3,1,1,0,1,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Julien Laporte,D,Montpellier,90,8,0,0,0,0,0,0,0,63,0,0,0,75,2,0,1,5,1,2,1,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Théo Sainte-Luce,D,Montpellier,89,7.4,0,0,0,0,1,0,0,40,0,0,0,74,4,4,3,11,2,2,1,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Simon Ngapandouetnbu,G,Montpellier,90,7.6,0,0,0,0,0,0,0,52,0,0,0,69,0,0,0,1,0,1,0,0,0,5
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Daylam Meddah,D,Montpellier,63,6.9,0,0,0,0,0,0,0,25,1,0,0,39,0,1,1,5,3,2,1,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Enzo Tchato Mbiayi,D,Montpellier,90,7.1,0,0,0,0,0,0,0,31,2,0,0,56,0,1,3,2,2,0,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Yael Mouanga,D,Montpellier,90,7,0,0,0,0,0,0,0,39,0,0,0,54,0,0,2,4,1,3,1,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Yanis Issoufou,M,Montpellier,27,7.1,1,0,0,0,3,1,0,5,0,0,0,18,0,0,0,2,1,0,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Naoufel El Hannach,D,Montpellier,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Nicolas Pays,M,Montpellier,90,7,0,0,0,0,2,1,0,19,3,0,0,51,3,2,0,10,1,2,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Théo Chennahi,M,Montpellier,90,6.5,0,0,0,0,1,0,0,24,3,0,0,45,0,4,4,9,4,2,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Nordan Mukiele,F,Montpellier,63,6.3,0,0,0,0,2,1,0,21,1,0,0,43,0,1,1,3,3,2,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Daryll Benlahlou,F,Montpellier,10,6.5,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Laciné Megnan-Pave,F,Montpellier,89,6.6,0,1,0,0,3,1,0,9,1,1,0,18,0,0,0,2,5,1,1,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Noah Vidal,M,Montpellier,80,6.4,0,0,0,0,1,0,0,13,0,0,0,25,1,0,0,2,2,1,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Gregory Ayem,M,Montpellier,27,7,0,0,0,0,0,0,0,10,1,0,0,17,0,3,0,5,2,0,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Hichem Abderrebi,M,Montpellier,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Enzo Basilio,G,Nancy,90,7.6,0,0,0,0,0,0,0,29,0,0,0,38,0,0,0,0,0,0,0,0,0,3
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Thierno Baldé,D,Nancy,13,6.6,0,0,0,0,0,0,0,8,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Mamadou Fofana,M,Nancy,67,7.2,0,0,0,0,1,0,0,33,2,0,0,49,1,1,1,6,2,3,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Brandon Bokangu,F,Nancy,77,6.6,0,0,0,0,2,1,0,21,1,0,1,36,1,1,0,5,2,1,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Nehemiah Fernandez,D,Nancy,90,7.2,0,0,0,0,1,0,0,53,1,0,0,74,0,1,3,7,1,4,1,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Nordine Kandil,F,Nancy,13,6.8,0,0,0,0,0,0,0,12,2,0,0,15,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Ilyes Housni,F,Nancy,90,6.9,0,0,0,0,0,0,0,34,2,0,0,53,0,3,1,8,0,5,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Walid Bouabdelli,M,Nancy,90,6.8,0,0,0,0,3,1,0,33,1,0,0,51,1,3,2,10,1,2,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Zakaria Fdaouch,M,Nancy,90,6.8,0,0,0,0,2,1,1,30,1,0,0,60,1,1,0,7,0,5,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Elydjah Mendy,D,Nancy,90,6.8,0,0,0,0,2,0,0,40,0,0,0,52,0,1,1,8,2,1,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Enzo Tacafred,D,Nancy,90,6.9,0,0,0,0,1,0,0,31,0,0,0,61,0,4,1,10,2,4,1,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Héliohdino Tavares,D,Nancy,77,6.4,0,0,0,0,0,0,0,23,0,0,0,51,1,2,2,6,4,0,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Noam Obougou,F,Nancy,13,6.6,0,0,0,0,2,1,0,6,0,0,0,11,2,0,0,4,1,0,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Chafik El Hansar,M,Nancy,23,6.7,0,0,0,0,1,1,0,13,0,0,0,18,0,1,0,2,1,1,0,0,0,0
+Ligue 2,26_27,Nancy vs Montpellier,14/08/2026,Kouroufia Kébé,M,Nancy,84,7.4,0,0,0,0,1,0,0,28,2,1,0,43,2,2,0,6,2,1,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Jonathan Mexique,M,Sochaux,90,6.9,0,0,0,0,1,1,0,27,0,0,0,40,0,3,0,4,1,1,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Mehdi Jeannin,G,Sochaux,90,8.3,0,0,0,0,0,0,0,32,0,0,0,52,0,0,0,1,0,0,0,0,0,5
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Bendjaloud Youssouf,D,Sochaux,90,7.1,0,0,0,0,0,0,0,20,1,1,0,42,1,1,1,2,0,0,0,0,1,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Dylan Tavares,D,Sochaux,83,7,0,0,0,0,0,0,0,27,1,0,0,52,1,4,2,6,2,0,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Julien Masson,M,Sochaux,90,6.3,0,0,0,0,0,0,0,19,0,0,0,30,0,0,1,1,2,1,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Boubacar Fofana,M,Sochaux,10,6.5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Samy Baghdadi,M,Sochaux,63,6.8,0,0,0,0,0,0,0,23,2,0,0,29,0,0,0,2,1,2,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Benjamin Gomel,M,Sochaux,45,6.7,0,0,0,0,1,0,0,9,0,0,0,21,0,2,0,3,0,0,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Kapit Djoco,F,Sochaux,14,6.7,0,0,0,0,1,1,0,3,0,0,1,6,0,0,0,2,1,0,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Landry Nomel,F,Sochaux,84,6.4,0,0,0,0,1,0,0,21,0,0,0,35,0,1,0,4,1,1,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Victor Lobry,F,Sochaux,27,6.4,0,0,0,0,0,0,0,9,0,0,0,11,1,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Mathis Clairicia,F,Sochaux,76,6.9,0,0,0,0,1,0,0,10,0,0,0,24,0,0,0,5,0,1,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Arthur Vitelli,D,Sochaux,90,7.9,0,0,0,0,0,0,0,23,0,0,0,43,0,4,1,5,1,0,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Dalangunypole Gomis,D,Sochaux,45,7.3,0,0,0,0,1,0,0,20,1,1,1,27,0,1,0,3,0,1,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Élie N'Gatta,D,Sochaux,90,7.2,0,0,0,0,0,0,0,30,0,0,0,43,0,1,1,1,1,0,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Noa Kotto Kotto Mouyema,F,Sochaux,11,6.6,0,0,0,0,0,0,0,3,0,0,0,6,0,1,0,2,1,0,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Saîf-Eddine Khaoui,M,Red Star FC,63,6.8,0,0,0,0,1,0,0,24,2,0,1,38,0,1,1,3,1,1,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Bradley Danger,D,Red Star FC,27,6.9,0,0,0,0,0,0,0,18,0,0,0,21,0,0,0,2,2,1,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Gaetan Poussin,G,Red Star FC,90,7.6,0,0,0,0,0,0,0,29,0,0,0,40,0,0,0,0,0,0,0,0,0,2
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Kevin Cabral,F,Red Star FC,90,6.5,0,0,0,0,2,1,0,23,2,0,0,35,0,1,0,4,0,3,0,0,1,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Matthieu Huard,D,Red Star FC,90,6.7,0,0,0,0,0,0,0,50,0,0,0,75,0,1,2,1,2,0,1,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Damien Durand,F,Red Star FC,90,6.9,0,0,0,0,3,0,0,32,1,1,0,60,0,0,0,2,0,1,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Théo Magnin,D,Red Star FC,90,8.1,0,0,0,0,1,0,0,59,3,1,0,93,1,3,2,7,0,3,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Elyaz Zidane,D,Red Star FC,90,7.2,0,0,0,0,1,0,0,74,0,0,0,81,0,0,0,3,1,0,1,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Jovany Ikanga,F,Red Star FC,18,6.7,0,0,0,0,3,1,0,7,0,0,1,14,1,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Ryad Hachem,M,Red Star FC,90,6.9,0,0,0,0,2,0,0,29,2,0,0,52,1,3,0,8,1,1,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Dylan Durivaux,D,Red Star FC,90,7.7,0,0,0,0,1,0,0,108,2,0,0,116,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Kemo Cissé,M,Red Star FC,72,6.8,0,0,0,0,5,2,0,31,3,0,0,51,3,1,1,5,0,0,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Islamdine Halifa,M,Red Star FC,72,7,0,0,0,0,1,1,0,47,2,0,0,55,0,0,1,3,0,1,0,0,0,0
+Ligue 2,26_27,Red Star FC vs Sochaux,14/08/2026,Cheick Konate,M,Red Star FC,18,6.9,0,0,0,0,0,0,0,18,2,0,0,21,1,1,0,2,0,0,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Theo Leoni,M,Stade de Reims,90,6.8,0,0,0,0,0,0,0,31,1,1,0,45,1,5,1,7,0,1,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Mohamed Daramy,F,Stade de Reims,45,6.7,0,0,0,0,1,1,0,11,0,0,1,19,1,0,0,2,1,1,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Youssef El Kachati,F,Stade de Reims,28,6.7,0,0,0,0,0,0,0,5,0,0,0,14,0,0,0,2,1,2,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Armel Zohouri,D,Stade de Reims,74,6,0,0,0,0,1,0,0,28,0,0,0,46,0,3,1,6,2,1,0,1,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Sambou Soumano,F,Stade de Reims,62,6.9,0,0,0,0,0,0,0,13,2,0,0,16,0,0,1,3,0,0,0,0,4,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Samuel Kotto,D,Stade de Reims,90,6.1,0,0,0,0,2,0,0,49,1,0,0,66,0,1,1,3,0,0,1,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Daouda Guindo,D,Stade de Reims,90,6.1,0,1,0,0,0,0,0,22,2,1,0,45,0,4,0,5,4,1,1,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Tom Hülsmann,G,Stade de Reims,90,6.4,0,0,0,0,0,0,0,33,0,0,0,46,0,1,0,1,0,0,0,0,0,6
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Yaya Fofana,M,Stade de Reims,76,8.1,2,0,0,0,2,2,0,19,0,0,0,25,0,0,0,0,0,0,0,0,1,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,N'Tamon Elie Ahouonon,D,Stade de Reims,90,6.6,0,0,0,0,1,0,0,35,0,0,0,47,1,1,0,5,1,1,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Ange Tia,M,Stade de Reims,87,7.8,1,0,0,0,1,1,0,25,0,0,0,37,1,3,0,8,2,2,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Tidiane Diarrasouba,F,Stade de Reims,28,6.5,0,0,0,0,0,0,0,1,0,0,0,8,0,1,0,2,0,0,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Jean Mambuku,D,Stade de Reims,14,6.3,0,0,0,0,0,0,0,1,0,0,0,5,0,0,1,1,1,1,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Arone Gadou,F,Stade de Reims,45,6.6,0,1,0,0,0,0,0,9,1,0,0,18,0,0,1,1,1,0,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Amine Kashi,F,Stade de Reims,62,7.2,0,1,0,0,2,0,0,7,1,1,0,23,0,1,0,2,2,0,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,John Otomewo,M,Stade de Reims,12,6.1,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Maxence Prévot,G,USL Dunkerque,90,6.2,0,0,0,0,0,0,0,16,0,0,0,19,0,0,0,1,0,0,0,0,0,1
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Thomas Robinet,F,USL Dunkerque,90,7,1,1,0,0,6,4,0,12,2,1,0,27,0,1,0,3,1,1,1,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Opa Sangante,D,USL Dunkerque,90,6.8,0,0,0,0,1,0,0,85,0,0,0,95,0,3,1,5,0,0,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Lenny Vallier,D,USL Dunkerque,30,6.9,0,0,0,0,0,0,0,15,0,0,0,22,0,2,0,2,0,0,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Allan Linguet,D,USL Dunkerque,90,6.4,0,0,0,0,0,0,0,54,3,0,0,75,0,1,0,3,0,2,1,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Adrien Lebeau,M,USL Dunkerque,90,7.3,1,0,0,0,2,2,0,35,3,0,0,61,0,0,1,4,1,4,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Egor Prutsev,M,USL Dunkerque,61,6.4,0,0,0,0,1,1,0,5,0,0,0,20,1,2,1,5,1,1,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Bram Lagae,D,USL Dunkerque,90,6.6,0,0,0,0,0,0,0,74,0,0,0,85,0,1,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Jordan Morel,M,USL Dunkerque,76,6.6,0,0,0,0,2,0,0,41,1,0,0,54,1,2,0,4,1,1,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Alex Daho,F,USL Dunkerque,61,6.2,0,0,0,0,0,0,0,19,0,0,0,26,0,1,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Khalil Ayari,M,USL Dunkerque,29,7.2,0,0,0,0,0,0,0,8,1,0,0,18,0,0,0,3,1,3,1,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Enzo Mayilla,F,USL Dunkerque,14,6.3,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Victor Mayela,D,USL Dunkerque,60,6.1,0,0,0,0,0,0,0,30,1,0,0,41,0,0,0,2,0,1,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Souleymane Keita,F,USL Dunkerque,29,7.7,1,0,0,0,2,2,0,13,0,0,0,24,1,2,0,4,2,1,1,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Théna Massock,M,USL Dunkerque,30,6.9,0,0,0,0,1,0,0,10,0,0,0,20,0,4,0,7,3,1,0,0,0,0
+Ligue 2,26_27,Stade de Reims vs USL Dunkerque,14/08/2026,Marco Decherf,M,USL Dunkerque,60,7,0,1,0,0,0,0,0,21,2,1,0,28,0,3,0,4,0,0,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Evan’s Jean-Lambert,D,Rodez AF,89,6.6,0,0,0,0,0,0,0,33,3,1,0,66,1,2,2,7,1,3,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Lucas Margueron,G,Rodez AF,90,7.1,0,0,0,0,0,0,0,34,0,0,0,50,0,1,0,1,0,0,0,0,0,4
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Samy Benchama,M,Rodez AF,17,6.5,0,0,0,0,0,0,0,4,0,0,0,4,0,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Steven Luyambula Biwa,D,Rodez AF,17,6.6,0,0,0,0,0,0,0,7,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Kenny Nagera,F,Rodez AF,17,6.3,0,0,0,0,0,0,0,2,0,0,0,6,0,0,0,0,1,0,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Damjan Pavlović,M,Rodez AF,11,6.8,0,0,0,0,0,0,0,11,2,0,0,17,1,1,0,3,2,0,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Mathis Magnin,D,Rodez AF,90,6.7,0,0,0,0,1,0,0,67,0,0,0,87,0,0,2,5,2,2,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Ibrahima Baldé,F,Rodez AF,90,6.1,0,0,0,0,2,1,0,9,0,0,2,22,0,2,0,3,0,1,0,0,1,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Luzolo Vangi Vungele,D,Rodez AF,1,0,0,0,0,0,0,0,0,8,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Octave Joly,M,Rodez AF,73,6.4,0,0,0,0,2,1,0,13,1,0,0,24,1,0,0,3,1,1,0,0,1,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Antonin Cartillier,M,Rodez AF,79,6.6,0,0,0,0,0,0,0,22,0,0,0,34,1,2,0,3,0,0,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Raphaël Lipinski,D,Rodez AF,90,6.5,0,0,0,0,2,0,0,58,0,0,0,88,2,1,1,6,1,1,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Mathis Touho,F,Rodez AF,73,6.5,0,0,0,0,2,0,0,8,0,0,1,18,1,0,0,3,0,1,0,0,1,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Jordan Mendes Correia,M,Rodez AF,90,6.6,0,0,0,0,0,0,0,32,0,0,0,46,0,3,0,6,2,2,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Loni Laurent,D,Rodez AF,90,7.5,0,0,0,0,1,0,0,54,0,0,0,84,0,4,1,15,1,4,0,0,1,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Corentin Issanchou Roubiou,M,Rodez AF,73,6.2,0,0,0,0,1,1,0,33,1,1,0,51,1,1,1,4,1,0,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Ahmed Kashi,M,Annecy FC,90,6.9,0,0,0,0,0,0,0,43,0,0,0,53,0,0,1,2,0,1,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Florian Escales,G,Annecy FC,90,7.5,0,0,0,0,0,0,0,42,0,0,0,52,0,0,0,0,0,0,0,0,0,3
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Francois Lajugie,D,Annecy FC,7,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,1,0,1,0,1,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Antoine Larose,F,Annecy FC,80,7.5,1,0,0,0,5,3,0,25,1,0,0,45,1,2,0,5,1,2,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Thibault Rambaud,F,Annecy FC,64,6.8,0,0,0,0,1,0,0,23,1,1,0,35,0,0,2,6,2,1,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Mattéo Veillon,D,Annecy FC,83,6.8,0,0,0,0,0,0,0,19,0,0,0,33,0,0,2,3,0,1,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Moïse Sahi Dion,M,Annecy FC,26,6.8,1,0,0,0,3,1,0,8,0,0,2,16,0,0,0,2,1,1,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Kadan Young,F,Annecy FC,26,6.4,0,0,0,0,1,1,0,6,0,0,0,17,0,1,0,1,1,0,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Zepiqueno Redmond,F,Annecy FC,64,6.1,0,0,0,0,0,0,0,12,0,0,0,25,2,1,0,4,1,1,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Axel Drouhin,D,Annecy FC,90,8,0,0,0,0,0,0,0,56,0,0,0,77,1,1,0,8,0,0,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Thibault Delphis,D,Annecy FC,90,7.1,0,0,0,0,0,0,0,36,2,1,0,63,0,1,0,3,1,0,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Julien Kouadio,D,Annecy FC,90,7,0,0,0,0,0,0,0,55,2,0,0,78,0,2,0,3,1,1,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Pascal Mozie,M,Annecy FC,10,6.4,0,0,0,0,0,0,0,6,0,0,0,7,0,0,0,0,2,0,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Mohamed Kone,M,Annecy FC,80,7,0,0,0,0,2,1,0,33,1,0,1,51,2,4,0,7,3,1,1,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Kilyan Jusseron-Veniere,M,Annecy FC,10,6.7,0,0,0,0,0,0,0,4,0,0,0,7,0,1,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Annecy FC vs Rodez AF,14/08/2026,Paul Venot,M,Annecy FC,90,6.8,0,1,0,0,0,0,0,45,2,1,0,71,0,1,0,4,1,2,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Irvin Cardona,F,Saint-Étienne,72,8,1,0,0,0,2,1,0,15,2,1,0,30,0,0,1,1,0,1,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Maxime Bernauer,D,Saint-Étienne,83,7.5,0,0,0,0,0,0,0,77,1,1,0,99,2,2,3,5,0,1,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Gautier Larsonneur,G,Saint-Étienne,90,6.3,0,0,0,0,0,0,0,12,0,0,0,18,0,0,0,0,0,0,0,0,0,1
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Thierno Ballo,M,Saint-Étienne,59,7.3,1,1,0,0,6,1,1,13,1,0,1,26,0,1,0,1,3,0,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Zuriko Davitashvili,F,Saint-Étienne,31,6.7,0,0,0,0,0,0,0,28,2,0,0,40,0,2,0,3,0,1,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Tamar Svetlin,M,Saint-Étienne,67,7.2,0,0,0,0,1,1,0,63,0,0,0,78,0,2,1,6,0,4,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,João Ferreira,D,Saint-Étienne,23,6.4,0,0,0,0,1,0,0,2,0,0,0,8,0,0,0,0,2,0,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Áron Csongvai,M,Saint-Étienne,90,7.8,0,1,0,0,1,0,0,74,3,1,0,88,0,3,1,4,0,1,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Jakob Breum,M,Saint-Étienne,90,7.7,1,0,0,0,4,1,0,42,3,0,1,63,0,0,1,2,1,2,1,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Julien Le Cardinal,D,Saint-Étienne,90,7,0,0,0,0,1,0,0,67,0,0,0,83,0,1,4,3,0,2,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Augustine Boakye,F,Saint-Étienne,82,6.5,0,0,0,0,2,0,0,20,1,0,1,35,1,2,0,4,6,1,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Joshua Duffus,F,Saint-Étienne,18,6.4,0,0,0,0,2,0,0,4,0,0,0,10,0,0,0,1,2,1,0,0,1,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Sohaib Nair,D,Saint-Étienne,90,7,0,0,0,0,0,0,0,66,0,0,0,72,0,1,0,4,1,1,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Kevin Pedro,D,Saint-Étienne,90,6.8,0,0,0,0,2,0,0,34,0,0,0,60,1,4,1,6,0,0,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Adam Baallal,M,Saint-Étienne,8,6.5,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Nathan Kasia Nkondo,D,Saint-Étienne,12,6.5,0,0,0,0,0,0,0,5,1,0,0,11,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Adrien Hunou,M,Clermont Foot,64,6.5,0,0,0,0,1,0,0,12,0,0,0,22,0,1,0,1,1,0,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Junior Sambia,M,Clermont Foot,26,6.4,0,1,0,0,2,1,1,12,1,1,0,24,0,0,0,1,0,1,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Yoann Salmier,D,Clermont Foot,90,6.5,0,0,0,0,0,0,0,39,0,0,0,47,1,0,1,1,0,0,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Vital Nsimba,D,Clermont Foot,83,6,0,0,0,0,0,0,0,38,1,0,0,57,0,0,1,1,1,1,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Théo Guivarch,G,Clermont Foot,90,5.9,0,0,0,0,0,0,0,25,0,0,0,33,0,0,0,1,0,0,0,0,0,1
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Maïdine Douane,M,Clermont Foot,26,6.4,0,0,0,0,0,0,0,9,0,0,0,13,1,0,1,1,0,0,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Abdellah Baallal,M,Clermont Foot,90,6.8,0,0,0,0,1,0,0,33,0,0,0,52,0,3,0,8,4,5,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Mohamed-Amine Bouchenna,M,Clermont Foot,64,6.5,0,0,0,0,0,0,0,16,0,0,0,31,1,2,0,4,2,1,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Cheick Oumar Konaté,D,Clermont Foot,12,6.6,0,0,0,0,0,0,0,4,2,0,0,6,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Jean Grillot,D,Clermont Foot,90,6.9,0,0,0,0,0,0,0,35,2,0,0,48,0,4,0,4,1,0,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Ivan M'Bahia,D,Clermont Foot,74,6.3,0,0,0,0,0,0,0,30,0,0,0,46,0,3,1,5,1,2,1,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Ethan Kena Kabeya,D,Clermont Foot,90,6.4,0,0,0,0,0,0,0,46,0,0,0,56,0,1,0,2,1,1,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Arthur Saintorens,F,Clermont Foot,16,6.4,0,0,0,0,0,0,0,2,0,0,0,5,0,1,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Ousmane Diop,F,Clermont Foot,45,7.8,1,0,0,0,1,1,0,15,0,0,0,21,0,2,0,2,0,0,0,0,1,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Ibrahim Coulibaly,D,Clermont Foot,16,6.7,0,0,0,0,0,0,0,9,0,0,0,13,0,0,1,0,0,0,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,El Hadj Koné,D,Clermont Foot,45,7,0,0,0,0,0,0,0,11,0,0,0,23,2,2,0,7,0,3,0,0,0,0
+Ligue 2,26_27,Saint-Étienne vs Clermont Foot,14/08/2026,Christ Okou,F,Clermont Foot,74,6.2,0,0,0,0,1,0,0,10,0,0,0,26,0,2,0,3,4,1,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Maxime Dupé,G,Nantes,90,6.6,0,0,0,0,0,0,0,25,0,0,0,32,0,0,0,0,0,0,0,0,0,3
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Frédéric Guilbert,D,Nantes,90,6.2,0,0,0,0,0,0,0,70,1,0,0,98,0,1,3,5,2,1,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Kelvin Amian,D,Nantes,90,7.1,0,0,0,0,2,0,0,62,2,0,0,88,3,2,1,6,1,0,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Mathieu Cafaro,M,Nantes,28,6.1,0,0,0,0,2,0,0,8,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Ibrahima Sissoko,M,Nantes,90,6.8,0,0,0,0,0,0,0,43,1,0,0,57,3,2,1,8,1,2,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Ignatius Ganago,F,Nantes,62,6.3,0,0,0,0,4,0,0,12,1,0,1,25,3,0,1,4,1,0,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Lucas Perrin,D,Nantes,90,6.4,0,0,0,0,0,0,0,59,1,0,0,70,0,0,5,1,2,1,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Johann Lepenant,M,Nantes,90,6.8,0,0,0,0,0,0,0,59,3,0,0,87,1,1,1,4,0,2,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Wilitty Younoussa,M,Nantes,14,6.6,0,0,0,0,1,0,0,4,0,0,0,8,1,1,0,2,0,0,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Killian Corredor,M,Nantes,90,6.3,0,0,0,0,1,0,0,40,0,0,0,56,1,0,1,5,0,2,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Louis Leroux,M,Nantes,68,6.8,0,0,0,0,1,1,0,40,1,0,0,59,3,0,1,8,2,4,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Bahereba Guirassy,F,Nantes,90,7.6,1,0,0,0,5,2,0,33,1,0,0,59,1,1,0,4,1,2,0,0,2,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Bahmed Deuff,M,Nantes,8,6.3,0,0,0,0,0,0,0,5,0,0,0,8,0,0,0,0,1,0,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Tylel Tati,D,Nantes,90,6.9,0,0,0,0,0,0,0,57,0,0,0,66,0,2,0,5,0,1,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Francis Coquelin,M,Stade Lavallois,12,6.5,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Mamadou Samassa,G,Stade Lavallois,90,6.8,0,0,0,0,0,0,0,27,0,0,0,35,0,0,0,1,0,1,0,0,0,2
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Cyril Mandouki,M,Stade Lavallois,90,6.9,0,0,0,0,1,0,0,38,0,0,0,64,1,4,7,7,3,1,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,William Bianda,D,Stade Lavallois,90,7,0,0,0,0,0,0,0,44,0,0,0,57,0,1,2,1,0,0,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Aboubacar Lô,D,Stade Lavallois,85,6.7,0,0,0,0,0,0,0,35,0,0,0,46,1,1,1,2,0,0,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Sam Sanna,M,Stade Lavallois,90,6.6,0,0,0,0,0,0,0,35,0,0,0,49,0,2,1,5,2,2,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Malik Sellouki,M,Stade Lavallois,89,7.1,0,0,0,0,3,1,0,40,0,0,0,59,2,0,0,5,1,2,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Jules Gaudin,D,Stade Lavallois,90,6.4,0,0,0,0,0,0,0,32,1,0,0,58,1,2,2,4,2,1,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Mathis Houdayer,F,Stade Lavallois,25,7.6,1,0,0,0,3,3,0,7,0,0,0,15,0,0,0,1,2,1,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Julien Maggiotti,M,Stade Lavallois,65,6.5,0,0,0,0,1,0,0,33,1,0,0,36,1,0,0,1,1,0,1,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Trévis Dago,F,Stade Lavallois,65,6.9,1,0,0,0,1,1,0,6,0,0,0,16,0,0,0,2,2,2,0,0,1,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Chafik Gourichy,M,Stade Lavallois,25,7,0,0,0,0,0,0,0,5,1,0,0,12,1,2,0,3,0,0,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Esteban Mouton,D,Stade Lavallois,90,7.2,0,0,0,0,0,0,0,46,1,0,0,80,0,3,0,8,1,1,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Ethan Clavreul,M,Stade Lavallois,73,7.2,0,1,0,0,0,0,0,16,3,1,0,23,1,0,0,2,1,0,0,0,1,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Alessio Beaudouin,M,Stade Lavallois,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Mamadou Sidibé,M,Stade Lavallois,13,6.6,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Stade Lavallois vs Nantes,14/08/2026,Yanis Court,M,Stade Lavallois,13,6.7,0,0,0,0,0,0,0,3,0,0,0,5,0,1,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Adrián Ortolá,G,Guingamp,90,7.2,0,0,0,0,0,0,0,62,0,0,0,77,0,0,0,1,0,1,0,0,0,2
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Dylan Louiserre,M,Guingamp,90,7.1,0,0,0,0,3,0,0,54,1,0,1,69,1,3,1,7,0,1,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Erwin Koffi,D,Guingamp,90,6.8,0,0,0,0,0,0,0,56,2,0,0,71,1,0,1,1,0,0,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Akim Abdallah,D,Guingamp,72,6.8,0,0,0,0,0,0,0,24,0,0,0,48,0,2,0,2,3,0,0,0,1,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Tom Ducrocq,M,Guingamp,75,6.6,0,0,0,0,1,0,0,23,1,0,0,36,1,0,2,3,2,0,1,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Donatien Gomis,D,Guingamp,90,7.6,0,0,0,0,0,0,0,93,1,0,0,103,0,0,1,6,0,2,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Albin Demouchy,D,Guingamp,90,7.7,0,0,0,0,0,0,0,108,0,0,0,121,0,2,1,9,2,3,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Vimoj Muntu,D,Guingamp,18,6.9,0,0,0,0,0,0,0,9,0,0,0,13,0,0,0,1,0,1,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Amadou Samoura,F,Guingamp,18,6.9,0,0,0,0,0,0,0,5,0,0,0,10,3,0,0,3,1,0,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Amine Hemia,F,Guingamp,78,6.8,0,0,0,0,2,0,1,35,0,0,0,49,0,1,0,4,0,3,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Stanislas Kielt,F,Guingamp,90,6.8,1,0,0,0,4,1,0,14,2,0,2,27,0,1,1,3,3,1,0,0,2,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Florent Sanchez Da Silva,M,Guingamp,72,6.5,0,0,0,0,0,0,0,24,1,0,0,32,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Teddy Averlant,M,Guingamp,72,6.8,0,0,0,0,1,1,0,14,3,2,0,28,2,0,0,3,0,0,0,0,2,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Jasser Chamakh,M,Guingamp,12,6.5,0,0,0,0,2,1,0,1,1,1,0,8,0,0,0,0,0,0,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Samir  Ben Brahim,M,Guingamp,18,6.7,0,0,0,0,1,0,0,4,1,0,0,11,0,1,0,2,2,1,0,0,1,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Tanguy Ahile,M,Guingamp,15,6.6,0,0,0,0,0,0,0,2,0,0,0,7,0,0,0,1,1,0,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Jonas Martin,M,US Boulogne Côte-d'Opale,90,7.1,0,0,0,0,0,0,0,34,1,0,0,49,0,1,2,6,2,4,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Theo Epailly,F,US Boulogne Côte-d'Opale,12,6.7,0,0,0,0,0,0,0,8,0,0,0,8,0,0,0,1,0,0,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Julien Boyer,D,US Boulogne Côte-d'Opale,90,6.9,0,0,0,0,1,0,0,36,4,0,0,67,0,2,0,6,1,2,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Demba Thiam,D,US Boulogne Côte-d'Opale,90,6.8,0,0,0,0,0,0,0,27,0,0,0,49,0,1,1,3,0,1,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Blondy Nna Noukeu,G,US Boulogne Côte-d'Opale,90,6.7,0,0,0,0,0,0,0,54,0,0,0,59,0,0,0,1,0,1,0,0,0,2
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Abdel Hbouch,F,US Boulogne Côte-d'Opale,90,6.4,0,0,0,0,4,1,0,32,2,0,0,48,1,1,0,3,2,0,1,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Théo Brusco,D,US Boulogne Côte-d'Opale,89,6.6,0,0,0,0,2,0,0,52,0,0,0,64,0,2,3,3,0,0,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Benjamin Besic,F,US Boulogne Côte-d'Opale,72,6.2,0,0,0,0,2,1,0,12,2,0,0,19,0,0,0,0,2,0,0,0,1,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Aurelien Platret,M,US Boulogne Côte-d'Opale,78,6.8,0,0,0,0,1,0,1,28,1,0,0,46,1,2,1,4,0,1,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Joffrey Bultel,M,US Boulogne Côte-d'Opale,78,6.5,0,0,0,0,1,0,0,15,1,0,0,19,0,1,1,1,3,0,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Adrien Pinot,D,US Boulogne Côte-d'Opale,12,6.5,0,0,0,0,0,0,0,7,0,0,0,10,0,1,0,1,1,0,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Nolan Binet,M,US Boulogne Côte-d'Opale,90,6.5,0,0,0,0,0,0,0,28,1,0,0,40,0,1,0,3,0,2,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Aymane Nassiri,F,US Boulogne Côte-d'Opale,1,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Antoine Kerriou,D,US Boulogne Côte-d'Opale,90,6.4,0,0,0,0,1,0,0,39,0,0,0,51,0,0,0,4,1,1,0,0,1,0
+Ligue 2,26_27,Guingamp vs US Boulogne Côte-d'Opale,14/08/2026,Cheikh Dia,F,US Boulogne Côte-d'Opale,18,6.1,0,0,0,0,0,0,0,3,0,0,0,8,0,0,0,1,3,0,1,0,0,0

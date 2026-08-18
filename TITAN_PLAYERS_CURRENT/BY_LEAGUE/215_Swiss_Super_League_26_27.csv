@@ -1,0 +1,572 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Olivier Custodio,M,FC Lausanne-Sport,69,7.2,0,0,0.0619,0.0263167,1,0,0,43,1,0,0,53,0,2,0,4,1,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Florent Mollet,M,FC Lausanne-Sport,21,6.4,0,0,0,0.0812081,0,0,0,12,1,0,0,20,0,1,0,1,1,0,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Morgan Poaty,D,FC Lausanne-Sport,90,7,0,0,0,0.0162062,0,0,0,38,0,0,0,64,1,5,0,8,0,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Konrad de la Fuente,F,FC Lausanne-Sport,31,6.2,0,0,0,0.00673091,0,0,0,11,0,0,0,24,0,2,0,3,1,0,1,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Kevin Mouanga,D,FC Lausanne-Sport,90,7.1,0,0,0.0723,0.00411562,1,0,0,55,0,0,0,66,0,4,1,7,1,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Brandon Soppy,D,FC Lausanne-Sport,90,7.5,0,0,0,0.034332,0,0,0,39,0,0,0,77,1,9,3,14,0,3,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Nathan Butler-Oyedeji,F,FC Lausanne-Sport,69,6.9,0,0,0,0.0762599,0,0,0,11,1,1,0,26,0,0,3,4,0,4,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Jamie Roche,M,FC Lausanne-Sport,90,7.3,0,0,0,0.0151847,0,0,0,53,0,0,0,71,1,5,2,10,2,4,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Alban Ajdini,F,FC Lausanne-Sport,10,6.4,0,0,0,0.00175322,0,0,0,4,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Melvin Mastil,G,FC Lausanne-Sport,90,6.1,0,0,0,0.00124948,0,0,0,35,0,0,0,46,0,0,0,1,0,0,0,0,0,2
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Abdou Karim Sow,D,FC Lausanne-Sport,90,7.2,0,0,0,0.0236131,0,0,0,56,0,0,0,74,1,3,1,11,2,3,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Beyatt Lekoueiry,M,FC Lausanne-Sport,85,7.9,0,0,0,0.756179,0,0,0,32,4,0,0,57,3,3,1,11,1,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Seydou Traore,F,FC Lausanne-Sport,10,6.6,0,0,0,0.00127179,0,0,0,3,0,0,0,5,0,0,0,1,0,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Omar Janneh,F,FC Lausanne-Sport,85,6.7,0,1,0.4969,0.0113699,4,1,0,15,1,1,1,31,0,0,0,7,0,3,0,0,1,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Sekou Kone,M,FC Lausanne-Sport,21,6.5,0,0,0,0.00372547,0,0,0,9,0,0,0,15,0,1,2,1,1,0,1,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Ibrahim Bah Mendes,F,FC Lausanne-Sport,59,7.5,1,0,0.1798,0.00347085,2,1,0,10,0,0,0,30,3,3,0,6,3,0,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Amir Abrashi,M,Grasshopper Club Zürich,69,6.2,0,0,0.0687,0.00396524,1,1,0,31,0,0,0,38,0,1,1,5,4,2,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Abdoulaye Diaby,D,Grasshopper Club Zürich,45,7.2,0,0,0,0.00569776,0,0,0,19,1,0,0,33,0,1,1,2,1,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Justin Hammel,G,Grasshopper Club Zürich,90,6.3,0,0,0,0.00040375,0,0,0,20,0,0,0,23,0,0,0,0,0,0,0,0,0,1
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Óscar Clemente,F,Grasshopper Club Zürich,45,6.4,0,0,0.0291,0.0140781,1,0,0,21,1,0,0,29,0,0,2,1,0,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Luke Plange,F,Grasshopper Club Zürich,45,5.7,0,0,0.5476,0.0399574,2,0,0,7,2,0,1,21,1,0,0,1,2,0,0,0,1,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Nikolas Muci,F,Grasshopper Club Zürich,69,5.6,0,0,0.1396,0.0270196,2,0,0,19,0,0,0,37,0,0,0,4,5,2,1,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Simone Stroscio,M,Grasshopper Club Zürich,90,7.1,0,0,0,0.0514788,0,0,0,31,1,0,0,70,0,6,2,6,1,0,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Samuel Krasniqi,M,Grasshopper Club Zürich,90,6.3,0,0,0.061,0.395586,2,1,0,30,2,0,0,65,1,1,2,3,2,1,1,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Hassane Imourane,M,Grasshopper Club Zürich,79,6.3,0,0,0,0.037901,0,0,0,18,1,0,0,34,1,0,0,2,2,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Dorian Paloschi,D,Grasshopper Club Zürich,45,6.1,0,0,0,0.00114424,0,0,0,21,0,0,0,28,0,0,0,3,3,0,1,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Nico Rissi,D,Grasshopper Club Zürich,90,6.5,0,0,0.0143,0.0172387,1,0,0,47,0,0,0,78,0,0,0,7,0,3,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Samuele Bengondo,F,Grasshopper Club Zürich,21,7.6,1,0,0.1009,0.00778095,2,1,0,8,0,0,0,18,1,0,1,2,0,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Tim Meyer,M,Grasshopper Club Zürich,90,7.6,0,0,0,0.0347773,0,0,0,44,0,0,0,61,0,5,1,10,1,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Luka Mikulic,D,Grasshopper Club Zürich,90,6.8,0,0,0.0134,0.00962941,1,0,1,65,0,0,0,79,0,2,2,6,1,0,1,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Alieu Conateh,F,Grasshopper Club Zürich,11,6.5,0,0,0,0.00061419,0,0,0,6,1,0,0,9,1,0,1,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs Grasshopper Club Zürich,25/07/2026,Denis Sahin,M,Grasshopper Club Zürich,21,7,0,1,0.0119,0.00453951,1,0,0,8,2,0,0,16,0,1,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Miroslav Stevanović,M,Servette FC,90,7.3,0,0,0.2074,0.20944,3,1,0,30,3,0,0,48,1,2,0,5,1,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Steve Rouiller,D,Servette FC,90,7.5,0,0,0.0844,0.0092025,2,1,0,66,0,0,0,83,0,2,1,12,0,2,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Samuel Mráz,F,Servette FC,21,6.6,0,0,0,0.0160093,0,0,0,4,1,0,0,5,0,0,0,1,0,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Florian Ayé,F,Servette FC,69,6.1,0,0,0.1718,0.00221824,2,1,0,7,1,0,0,15,0,1,0,2,1,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Timothé Cognat,M,Servette FC,90,7.7,0,0,0.1878,0.383036,1,0,0,77,4,0,0,95,0,2,2,3,0,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Bradley Mazikou,D,Servette FC,90,7,0,0,0.0678,0.0685073,1,0,0,40,1,0,0,57,0,1,2,3,0,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Quentin Maceiras,D,Servette FC,11,6.7,0,0,0,0.0003936,0,0,0,3,0,0,0,5,0,1,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Houboulang Mendes,D,Servette FC,85,6,0,0,0.0759,0.0191753,3,0,0,24,0,0,0,53,0,2,1,2,3,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Pedro Naressi,M,Servette FC,90,7.4,0,0,0.0733,0.0469053,2,0,0,63,0,0,0,81,0,4,1,8,4,4,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Marco Burch,D,Servette FC,90,7.2,0,0,0,0.00949932,0,0,0,54,0,0,0,62,0,1,1,3,2,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Léo Besson,G,Servette FC,90,6.3,0,0,0,0.00007241,0,0,0,22,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Lilian Njoh,D,Servette FC,85,7,0,0,0,0.172375,0,0,0,30,2,0,0,48,2,2,0,4,0,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Tiemoko Ouattara,F,Servette FC,12,6.5,0,0,0.0133,0.00797555,1,0,0,4,0,0,0,10,0,0,0,1,0,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Mathis Lambourde,F,Servette FC,78,7.1,0,0,0.3067,0.0825381,5,1,0,32,4,0,0,50,0,3,1,7,1,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Tristan Nunez,F,Servette FC,11,6.5,0,0,0,0.00105965,0,0,0,4,0,0,0,8,0,0,0,1,0,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Xherdan Shaqiri,M,Basel,69,7.2,0,0,0.3552,0.257876,1,0,0,25,4,0,1,34,0,1,0,4,0,3,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Mirko Salvi,G,Basel,90,8.6,0,0,0,0.00062227,0,0,0,29,0,0,0,38,0,0,0,0,0,0,0,0,0,4
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Albian Ajeti,F,Basel,21,6.7,0,0,0.2209,0.00187607,1,0,0,6,1,0,1,19,0,0,1,6,2,3,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Keigo Tsunemoto,D,Basel,90,7,0,0,0,0.0786217,0,0,0,26,1,0,0,47,0,1,0,2,1,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Žan Celar,F,Basel,90,6.5,1,0,0.9628,0.00591306,3,1,0,8,0,0,0,21,0,0,0,2,3,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Flavius Daniliuc,D,Basel,90,7.5,0,0,0.1201,0.00748235,2,0,1,38,0,0,0,48,0,0,1,2,0,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Leo Leroy,M,Basel,21,6.7,0,0,0,0.0749491,0,0,0,8,1,1,0,15,0,1,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Philip Otele,M,Basel,69,6.7,0,0,0.1017,0.0751994,3,0,0,19,1,0,0,30,2,0,0,4,0,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Kazeem Olaigbe,M,Basel,21,6.4,0,0,0,0.00071208,0,0,0,6,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Metinho,M,Basel,90,6.9,0,0,0,0.0161119,0,0,0,39,0,0,0,51,0,4,0,5,3,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Moussa Cissé,D,Basel,22,6.5,0,0,0,0.00028294,0,0,0,7,0,0,0,18,0,0,1,0,0,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Ludwig Thorell,M,Basel,69,6.9,0,0,0,0.572857,0,0,0,33,2,1,0,43,1,0,0,2,1,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Coleen Louis,D,Basel,68,7.3,0,0,0,0.0131714,0,0,0,26,1,0,0,47,2,1,1,7,3,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Asane Sow,M,Basel,90,6.5,0,0,0.4402,0.0085271,2,0,0,23,0,0,0,43,2,2,0,6,1,2,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Basel,25/07/2026,Akpe Victory,D,Basel,90,8,0,0,0,0.0019651,0,0,0,59,0,0,0,89,0,0,3,7,1,1,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Leonardo Bertone,M,FC Luzern,90,6.7,0,0,0.0936,0.0175037,2,0,0,39,1,0,0,51,0,0,1,3,0,1,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Andrejs Cigaņiks,D,FC Luzern,16,6.3,0,0,0.0223,0.0293198,1,0,0,13,1,0,0,24,0,0,0,3,1,1,1,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Pius Dorn,D,FC Luzern,90,5.6,0,0,0.0433,0.0152992,1,0,0,33,0,0,0,61,2,1,3,7,3,1,1,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Stefan Knežević,D,FC Luzern,90,6.9,1,0,0.9269,0.00572327,1,1,0,41,0,0,0,57,0,1,1,4,1,0,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Matteo Di Giusto,M,FC Luzern,85,6.8,0,0,0.1532,0.477842,2,0,0,28,3,0,0,44,0,0,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Simon Simoni,G,FC Luzern,90,5.7,0,0,0,0.00173995,0,0,0,35,0,0,0,47,0,0,0,0,0,0,0,0,0,4
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Tyron Owusu,M,FC Luzern,85,6.8,0,0,0.0704,0.0399217,1,0,0,35,0,0,0,41,0,1,0,4,1,2,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Aurelio Oehlers,M,FC Luzern,26,6.7,0,0,0.0778,0.107618,2,0,0,15,1,0,0,18,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Rúben Dantas,D,FC Luzern,74,6.6,0,0,0.0601,0.275765,1,1,0,38,3,0,0,62,0,1,1,3,2,2,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Lars Villiger,F,FC Luzern,74,7.4,0,0,0.1633,0.690949,2,0,0,17,4,2,0,31,0,1,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Loïc Lüthi,D,FC Luzern,90,6.6,0,0,0,0.0285017,0,0,0,46,0,0,0,60,0,1,0,5,1,1,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Sascha Meyer,F,FC Luzern,11,6.6,0,0,0.0229,0.0002023,1,0,0,1,0,0,0,4,0,0,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Mio Zimmermann,M,FC Luzern,16,6.4,0,0,0,0.00318046,0,0,0,13,0,0,0,19,0,1,0,1,1,0,1,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Sandro Wyss,F,FC Luzern,11,6.7,0,0,0.0464,0.0269997,1,0,0,7,1,0,0,10,1,0,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Lucas Silva,M,FC Luzern,64,7,0,0,0.6125,0.0334533,3,2,0,18,1,0,1,40,0,4,0,8,0,2,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Oscar Kabwit,F,FC Luzern,90,5.3,0,1,0.593,0.0121142,4,0,0,15,4,1,2,26,0,0,2,1,3,0,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Nicolas Bürgy,D,FC Thun,90,8.6,2,0,0.416,0.00340709,3,2,0,45,0,0,0,63,0,1,3,3,0,0,1,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Jan Bamert,D,FC Thun,90,7.4,0,0,0.087,0.0117406,3,0,0,49,1,0,0,75,2,1,1,6,1,2,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Brighton Labeau,F,FC Thun,10,6.8,0,0,0,0.0495482,0,0,0,1,1,0,0,7,0,0,0,3,0,2,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Niklas Steffen,G,FC Thun,90,6.8,0,0,0,0.00377833,0,0,0,29,0,0,0,38,0,0,0,1,0,1,0,0,0,3
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Justin Roth,M,FC Thun,30,6.7,0,0,0,0.00191014,0,0,0,8,0,0,0,14,0,0,1,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Nico Maier,F,FC Thun,61,8.1,1,0,0.0501,0.282462,1,1,0,17,3,1,0,30,3,0,0,3,2,0,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Layton Stewart,F,FC Thun,80,5.8,0,0,0.3976,0.0122788,3,0,0,8,1,0,0,25,2,0,0,3,0,0,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Ashvin Balaruban,D,FC Thun,60,6.8,0,0,0.0598,0.110867,1,1,0,19,0,0,1,46,0,1,1,5,0,2,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Nils Reichmuth,M,FC Thun,16,6.8,0,0,0,0.046197,0,0,0,7,2,0,0,16,1,1,0,3,1,1,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Fabio Saiz,M,FC Thun,90,6.6,0,0,0.0205,0.00610517,1,0,0,24,0,0,0,42,2,2,1,5,1,0,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Michael Heule,D,FC Thun,30,6.8,0,0,0.0074,0.00132894,1,0,0,10,0,0,0,21,0,0,0,1,1,1,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Nassim Zoukit,M,FC Thun,60,7.4,0,0,0.0718,0.0168513,1,0,1,41,0,0,0,54,0,1,2,6,1,2,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Lucien Dähler,D,FC Thun,90,7.4,0,1,0.5109,0.345968,1,0,0,23,1,1,1,51,0,0,3,1,1,1,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Marc Gutbub,F,FC Thun,90,6.9,0,1,0.1682,0.049613,1,1,0,19,3,0,1,29,0,1,0,2,2,1,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Dorian Derbaci,M,FC Thun,74,6.5,0,0,0.0816,0.0150057,2,2,0,21,0,0,0,35,0,0,2,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Luzern vs FC Thun,25/07/2026,Valmir Matoshi,M,FC Thun,29,6.6,0,0,0.0669,0.0522303,2,0,0,13,1,0,0,18,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Joel Mall,G,BSC Young Boys,90,7,0,0,0,0.00252559,0,0,0,21,0,0,0,30,0,0,0,0,0,0,0,0,0,3
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Loris Benito,D,BSC Young Boys,13,6.7,0,0,0,0.00021308,0,0,0,5,0,0,0,6,0,1,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Edimilson Fernandes,M,BSC Young Boys,90,7.7,0,0,0.6592,0.131081,2,1,0,46,1,0,1,57,2,2,1,5,0,0,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Cedric Zesiger,D,BSC Young Boys,90,6.9,0,0,0.0343,0.0144561,1,1,0,36,0,0,0,52,0,4,1,6,3,0,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Sandro Lauper,D,BSC Young Boys,90,7.2,0,0,0.0212,0.00985494,1,0,0,33,0,0,0,48,0,1,2,1,0,0,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Samuel Essende,F,BSC Young Boys,90,8.9,2,0,1.0395,0.0284713,5,2,0,18,3,0,0,39,4,1,0,15,3,2,0,0,1,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Kastriot Imeri,M,BSC Young Boys,65,7,0,2,0.0262,0.116905,1,0,0,16,2,0,0,36,0,2,0,4,2,2,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Lewin Blum,D,BSC Young Boys,77,7,1,0,0.524,0.46509,2,1,0,27,0,0,0,46,0,3,1,3,1,0,1,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Armin Gigović,M,BSC Young Boys,57,6.7,0,0,0,0.00997758,0,0,0,25,1,0,0,34,1,1,0,4,1,1,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Isaac Schmidt,D,BSC Young Boys,13,6.8,0,0,0,0.00555733,0,0,0,5,0,0,0,11,0,0,0,1,1,0,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Alan Virginius,M,BSC Young Boys,25,6.7,0,0,0,0.0610257,0,0,0,6,1,0,0,8,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Jaouen Hadjam,D,BSC Young Boys,33,6.7,0,0,0,0.00402767,0,0,0,14,0,0,0,24,1,1,0,3,3,1,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Joël Monteiro,M,BSC Young Boys,77,6.7,0,0,0.4666,0.0462805,3,2,0,14,1,0,1,32,1,3,1,7,2,2,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Alvyn Sanches,M,BSC Young Boys,90,7.9,1,0,0.2558,0.39916,3,2,0,33,4,2,0,60,1,2,0,4,1,1,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Stefan Bukinac,D,BSC Young Boys,57,6.7,0,0,0,0.203974,0,0,0,13,2,0,0,29,1,0,1,2,0,0,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Dominik Pech,M,BSC Young Boys,33,6.6,0,0,0.0618,0.00899242,1,0,0,15,0,0,0,21,1,0,0,1,1,0,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Numa Lavanchy,D,FC Sion,90,5.9,0,0,0,0.33412,0,0,0,47,0,0,0,84,1,0,1,3,0,2,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Ali Kabacalman,M,FC Sion,74,6.6,0,0,0,0.0399014,0,0,0,53,2,0,0,61,0,1,0,2,2,1,1,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Anthony Racioppi,G,FC Sion,90,6.2,0,0,0,0.00065405,0,0,0,23,0,0,0,37,0,0,0,1,0,1,0,0,0,5
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Jan Kronig,D,FC Sion,90,7.1,1,0,0.0176,0.00462181,1,1,0,63,0,0,0,76,0,0,0,3,0,0,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Rilind Nivokazi,F,FC Sion,15,6.3,0,0,0.2686,0.00040813,1,1,0,2,0,0,1,4,0,0,0,1,0,0,0,0,1,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Nias Hefti,D,FC Sion,90,5.9,0,0,0.0151,0.207171,1,0,0,43,1,0,0,68,0,1,0,3,1,1,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Baltazar,M,FC Sion,90,7.5,0,1,0.1274,0.0801314,2,1,1,61,1,0,0,73,0,2,1,6,2,3,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Ylyas Chouaref,M,FC Sion,75,6.8,0,0,0.0629,0.184158,2,0,0,27,3,0,0,51,2,3,2,7,0,2,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Donat Rrudhani,M,FC Sion,16,7,0,0,0,0.0146208,0,0,0,10,1,0,0,14,0,3,0,3,0,0,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Josias Lukembila,M,FC Sion,45,6.2,0,0,0.071,0.000242,1,0,0,8,1,0,0,16,0,0,0,1,0,1,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Franck Surdez,F,FC Sion,45,6.7,0,1,0.0872,0.0939669,3,0,0,14,1,1,0,27,0,0,0,1,0,1,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Théo Berdayes,M,FC Sion,45,6.8,0,0,0.245,0.0232047,3,1,0,14,1,0,0,21,0,1,0,2,1,0,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Noé Sow,D,FC Sion,90,5.1,0,0,0.0411,0.00495649,1,0,0,53,0,0,0,67,0,4,0,6,2,1,1,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Liam Scott Chipperfield,M,FC Sion,45,6.4,0,0,0,0.10128,0,0,0,8,2,0,0,22,2,1,0,3,0,0,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Fode Sylla,M,FC Sion,45,6.9,0,0,0.1378,0.0197495,1,0,0,23,1,0,0,41,1,1,1,5,1,3,0,0,0,0
+Swiss Super League,26_27,BSC Young Boys vs FC Sion,26/07/2026,Winsley Boteli Mokango,F,FC Sion,45,7.2,1,0,0.5252,0.190561,3,1,0,10,2,1,0,24,1,0,0,4,0,2,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Lukas Görtler,M,FC St. Gallen 1879,79,9.3,1,1,0.3457,0.723307,3,2,0,18,1,1,0,33,0,2,1,6,0,4,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Lawrence Ati Zigi,G,FC St. Gallen 1879,90,6.7,0,0,0,0.014873,0,0,0,31,0,0,0,40,0,0,0,1,0,1,0,0,0,2
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Chima Okoroji,M,FC St. Gallen 1879,90,6.6,0,0,0,0.0386539,0,0,0,32,1,0,0,54,0,2,1,2,1,0,1,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Jozo Stanić,D,FC St. Gallen 1879,90,7,0,0,0.0222,0.00480011,1,0,0,36,0,0,0,55,0,1,1,12,1,4,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Lukas Daschner,M,FC St. Gallen 1879,90,7.6,0,1,0.0224,0.294629,1,0,0,40,3,1,0,68,0,3,2,8,1,2,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Christian Witzig,M,FC St. Gallen 1879,89,6.1,0,0,0.0677,0.0303958,1,0,0,20,1,0,1,33,0,0,0,0,3,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Hugo Vandermersch,M,FC St. Gallen 1879,61,6.7,0,0,0.093,0.0187236,2,0,0,18,0,0,0,35,0,1,0,5,0,3,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Aliou Balde,F,FC St. Gallen 1879,60,6.6,0,0,0.0599,0.0599995,2,0,0,7,0,0,0,18,0,1,0,3,1,1,0,0,1,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Mihailo Stevanović,M,FC St. Gallen 1879,61,7,0,0,0,0.0540399,0,0,0,16,1,0,0,22,0,2,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Andrin Hunziker,F,FC St. Gallen 1879,30,7.4,1,0,0.6857,0.00513011,2,1,0,5,1,0,1,12,0,0,0,3,1,0,0,0,1,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Tom Gaal,D,FC St. Gallen 1879,90,6.3,0,0,0,0.0101563,0,0,0,30,0,0,0,41,0,2,2,4,3,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Enoch Owusu,F,FC St. Gallen 1879,29,7.2,0,0,0,0.0258606,0,0,0,15,2,0,0,24,0,1,0,5,0,3,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Leon Frokaj,M,FC St. Gallen 1879,90,6.9,0,0,0.075,0.0166235,1,0,0,18,0,0,0,38,1,1,1,8,2,6,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Corsin Konietzke,M,FC St. Gallen 1879,11,6.9,0,0,0,0.00021728,0,0,0,2,0,0,0,6,0,3,0,3,0,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Diego Besio,F,FC St. Gallen 1879,29,7.1,0,0,0.1592,0.0986103,2,1,0,6,2,1,0,15,0,0,0,2,0,2,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Joel Ruiz,D,FC St. Gallen 1879,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Heinz Lindner,G,FC Zürich,90,7.5,0,0,0,0.0188567,0,0,0,53,0,0,0,62,0,0,0,1,0,1,0,0,0,2
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Valon Berisha,M,FC Zürich,75,7,0,1,0.033,0.0414053,1,0,0,33,1,1,0,43,1,0,0,4,3,3,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Alexander Hack,D,FC Zürich,9,6.8,0,0,0,0.00082862,0,0,0,5,0,0,0,8,0,1,0,3,0,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Ilan Sauter,D,FC Zürich,81,6.4,0,0,0.0884,0.00601027,1,0,0,37,0,0,0,52,0,2,0,6,0,2,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Bledian Krasniqi,M,FC Zürich,75,6.5,0,0,0.2064,0.222541,1,1,0,13,3,1,1,27,2,0,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Lindrit Kamberi,D,FC Zürich,90,7,0,0,0.0657,0.00035465,1,0,0,28,0,0,0,51,0,1,2,6,2,1,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Philippe Keny,F,FC Zürich,90,5.6,0,0,0.2871,0.0104736,3,1,0,21,0,0,2,40,0,0,0,6,4,2,1,0,1,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Kevin Spadanuda,M,FC Zürich,15,6.6,0,0,0,0.0014608,0,0,0,5,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Livano Comenencia,D,FC Zürich,75,5.8,0,0,0,0.0111144,0,0,0,29,0,0,0,35,0,0,1,2,4,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Miguel Reichmuth,M,FC Zürich,15,6.9,0,0,0,0.194563,0,0,0,6,2,1,0,12,0,1,0,2,0,1,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Selmin Hodza,D,FC Zürich,90,6.7,0,0,0,0.00409373,0,0,0,33,0,0,0,65,1,5,2,6,1,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Umeh Emmanuel,F,FC Zürich,90,7.5,1,0,0.299,0.209263,3,1,0,21,1,1,1,39,5,0,0,7,2,1,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Neil Volken,D,FC Zürich,90,6.8,0,0,0,0.148799,0,0,0,34,1,1,0,56,1,3,0,6,3,1,1,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Mohamed Bangoura,M,FC Zürich,15,6.7,0,0,0,0.00473969,0,0,0,6,0,0,0,13,0,1,0,2,1,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Din Ramic,F,FC Zürich,13,6.3,0,0,0,0.00001582,0,0,0,4,0,0,0,5,0,0,0,0,1,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Zürich,26/07/2026,Leandro Schödler,M,FC Zürich,83,6.7,0,0,0.0638,0.0307115,1,0,0,21,0,0,0,31,0,2,1,5,6,1,1,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Ezgjan Alioski,D,FC Lugano,89,7.5,0,0,0.0927,0.0548718,1,0,0,46,2,0,0,84,0,4,0,7,3,2,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Kevin Behrens,F,FC Lugano,20,7,0,0,0.1827,0.0432846,1,0,1,7,1,0,1,14,2,0,0,5,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,David von Ballmoos,G,FC Lugano,90,6.2,0,0,0,0.00210342,0,0,0,22,0,0,0,27,0,0,0,0,0,0,0,0,0,2
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Renato Steffen,F,FC Lugano,59,7.2,0,1,0.3082,0.203789,2,1,0,24,2,2,1,41,0,0,0,0,1,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Anto Grgić,M,FC Lugano,90,8,0,0,0.1857,0.622401,2,1,1,63,6,2,0,84,0,2,4,5,2,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Lars Lukas Mai,D,FC Lugano,90,8.7,1,1,0.1046,0.0700599,1,1,0,39,1,1,0,58,0,3,2,7,1,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Antonios Papadopoulos,D,FC Lugano,90,7.5,1,0,0.2408,0.00468278,4,1,0,23,0,0,0,40,0,3,2,7,2,0,1,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Uran Bislimi,M,FC Lugano,90,7.7,0,0,0.0215,0.106271,1,0,0,58,2,0,0,77,0,2,2,7,0,4,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Joel Bichsel,D,FC Lugano,90,7,0,0,0.1366,0.00419902,1,1,0,31,0,0,1,48,1,2,2,10,2,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Mattia Zanotti,D,FC Lugano,20,6.6,0,0,0.1973,0.0923905,2,1,0,11,1,0,0,20,1,0,0,1,1,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Ahmed Kendouci,M,FC Lugano,60,6.4,0,0,0.1163,0.00491181,1,0,0,14,0,0,1,22,0,1,0,1,1,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Yanis Cimignani,M,FC Lugano,70,7.1,0,0,0.0459,0.0708839,1,0,0,33,1,0,0,41,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Daniel Dos Santos,M,FC Lugano,30,6.2,0,0,0,0.00764169,0,0,0,6,1,0,0,10,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Carbone,D,FC Lugano,1,0,0,0,0,0.00044293,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Elias Pihlström,M,FC Lugano,70,6.6,0,0,0.2248,0.0572444,4,2,0,18,1,0,0,29,1,0,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Dereck Moncada,M,FC Lugano,31,7,0,0,0.1372,0.00035433,1,0,0,5,0,0,0,18,0,0,1,3,1,2,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Dejan Sorgić,F,FC Vaduz,45,6.7,0,1,0.0866,0.0331514,1,1,0,3,1,0,0,8,1,0,0,2,1,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Nicolas Hasler,D,FC Vaduz,33,7.3,0,0,0,0.00779638,0,0,0,16,0,0,0,30,0,3,0,4,1,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Leon Schaffran,G,FC Vaduz,82,7.8,0,0,0,0.00025613,0,0,0,42,0,0,0,58,0,0,0,0,1,0,0,1,0,6
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Dominik Schwizer,D,FC Vaduz,10,6.5,0,0,0,0.00120323,0,0,0,10,0,0,0,14,0,0,0,1,0,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Marcel Monsberger,F,FC Vaduz,90,5.8,0,0,0.3462,0.0294854,3,0,0,10,1,0,0,29,0,1,0,7,2,3,1,0,1,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Luca Mack,M,FC Vaduz,90,6.6,0,0,0,0.0141992,0,0,0,67,1,1,0,79,0,0,1,4,1,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Mischa Eberhard,M,FC Vaduz,32,6.6,0,0,0.0178,0.0120512,1,1,0,11,0,0,0,16,0,1,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Liridon Berisha,D,FC Vaduz,90,6.6,0,0,0,0.00465252,0,0,0,71,0,0,0,78,0,2,0,7,0,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Dejan Đokić,F,FC Vaduz,45,6.8,0,0,0.2736,0.00270587,2,0,1,7,0,0,1,19,1,2,0,6,1,2,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Niklas Lang,D,FC Vaduz,90,7.7,0,0,0,0.0118923,0,0,0,59,0,0,0,78,0,2,2,8,0,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Julian Stark,M,FC Vaduz,66,6.5,0,0,0,0.0079971,0,0,0,32,0,0,0,37,0,1,1,2,1,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Miloš Cocić,F,FC Vaduz,24,6.7,0,0,0,0.0238417,0,0,0,9,0,0,0,13,0,1,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Mischa Beeli,D,FC Vaduz,57,6.2,0,0,0.0256,0.00758398,1,0,0,19,0,0,0,36,0,0,0,1,0,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Malik Sawadogo,D,FC Vaduz,80,6.3,0,0,0,0.149282,0,0,0,42,1,0,0,59,0,1,1,3,0,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Juan Cabrera,M,FC Vaduz,58,6.5,0,0,0.1435,0.00205739,1,0,0,12,1,0,0,23,1,1,1,3,1,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Vaduz,26/07/2026,Lutfi Dalipi,M,FC Vaduz,90,7.2,1,0,0.0969,0.148417,2,1,0,30,2,0,0,51,1,0,1,2,1,1,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Miroslav Stevanović,M,Servette FC,84,6.8,0,0,0.0481,0.575437,2,0,0,29,2,1,0,47,0,0,0,4,0,1,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Steve Rouiller,D,Servette FC,90,6.6,0,0,0,0.0333661,0,0,0,53,0,0,0,71,3,2,3,8,0,1,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Edvinas Gertmonas,G,Servette FC,90,6.2,0,0,0,0.00391605,0,0,0,42,0,0,0,51,0,0,0,0,0,0,0,0,0,2
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,David Douline,M,Servette FC,21,6.4,0,0,0,0.00096019,0,0,0,14,0,0,0,18,0,2,0,3,1,0,1,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Samuel Mráz,F,Servette FC,45,5.9,0,0,0.5729,0.0532462,2,0,0,16,3,0,1,23,1,0,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Florian Ayé,F,Servette FC,90,6.7,0,0,0.3315,0.0223088,4,2,0,13,1,0,0,23,0,0,0,4,0,1,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Timothé Cognat,M,Servette FC,90,7.3,0,0,0,0.078559,0,0,0,55,1,0,0,83,3,1,0,5,1,1,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Bradley Mazikou,D,Servette FC,90,6.6,0,0,0.0229,0.0134811,1,0,0,40,0,0,0,64,0,6,1,7,0,1,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Quentin Maceiras,D,Servette FC,69,6.8,0,0,0.1162,0.207532,1,1,0,27,2,1,0,51,3,1,1,7,2,2,1,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Houboulang Mendes,D,Servette FC,21,6.7,0,1,0.0215,0.0220483,1,0,0,12,1,0,0,20,0,1,0,3,0,1,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Pedro Naressi,M,Servette FC,69,7,0,0,0,0.0415614,0,0,0,33,1,0,0,48,2,2,1,10,1,3,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Marco Burch,D,Servette FC,90,6.6,0,0,0,0.0168387,0,0,0,58,0,0,0,70,1,2,1,10,1,2,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Lilian Njoh,D,Servette FC,45,6.6,0,0,0,0.0727104,0,0,0,15,1,0,0,26,0,2,0,2,1,0,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Tiemoko Ouattara,F,Servette FC,12,7.4,1,0,0.1003,0.00173105,2,1,0,6,0,0,0,15,0,1,0,2,0,1,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Mathis Lambourde,F,Servette FC,78,7.3,0,0,0.3563,0.390467,3,2,0,37,2,0,1,59,2,4,1,11,0,1,0,0,1,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Tristan Nunez,F,Servette FC,13,6.5,0,0,0,0.0007197,0,0,0,3,0,0,0,8,0,0,0,1,1,0,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Heinz Lindner,G,FC Zürich,90,8.1,0,0,0,0.00276776,0,0,0,43,1,0,0,56,0,0,0,0,0,0,0,0,0,5
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Valon Berisha,M,FC Zürich,90,7.3,1,0,0.0349,0.0310076,1,1,0,41,1,0,0,52,0,0,0,1,1,1,1,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Alexander Hack,D,FC Zürich,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Ilan Sauter,D,FC Zürich,90,6.7,0,0,0,0.00323972,0,0,0,45,0,0,0,60,0,3,2,7,1,0,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Bledian Krasniqi,M,FC Zürich,89,6.6,0,0,0.172,0.0342677,1,1,0,24,1,0,1,47,0,2,1,4,0,2,0,0,2,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Lindrit Kamberi,D,FC Zürich,90,6.8,0,0,0.0239,0.00488971,1,0,0,45,0,0,0,67,0,0,3,5,0,0,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Philippe Keny,F,FC Zürich,90,7.8,0,1,0.0439,0.168235,1,1,0,21,2,1,0,40,1,0,0,11,2,2,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Kevin Spadanuda,M,FC Zürich,12,6.3,0,0,0,0.0282656,0,0,0,5,1,0,0,11,1,0,0,1,1,0,0,0,1,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Livano Comenencia,D,FC Zürich,78,6.6,0,0,0.0266,0.0997102,1,0,0,19,0,0,0,34,1,1,0,5,1,0,1,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Miguel Reichmuth,M,FC Zürich,28,6.3,0,0,0,0.00313527,0,0,0,5,0,0,0,9,0,0,0,0,1,0,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Selmin Hodza,D,FC Zürich,90,6.4,0,0,0,0.00393137,0,0,0,28,1,0,0,59,1,2,2,4,4,1,1,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Umeh Emmanuel,F,FC Zürich,78,7.2,0,0,0.102,0.0269026,2,0,0,22,0,0,0,44,5,3,0,9,2,0,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Sebastian Walker,D,FC Zürich,28,6.6,0,0,0,0.00108455,0,0,0,8,0,0,0,19,0,1,2,2,1,0,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Neil Volken,D,FC Zürich,62,6.5,0,0,0.0158,0.00858778,1,0,0,36,0,0,0,62,1,0,1,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Mohamed Bangoura,M,FC Zürich,12,6.9,1,0,0.9754,0.00542637,1,1,0,3,0,0,0,8,0,0,1,1,1,0,0,0,0,0
+Swiss Super League,26_27,FC Zürich vs Servette FC,01/08/2026,Leandro Schödler,M,FC Zürich,62,6.8,0,0,0,0.0251154,0,0,0,25,0,0,0,31,0,1,2,3,1,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Olivier Custodio,M,FC Lausanne-Sport,66,7,0,0,0,0.030908,0,0,0,31,0,0,0,39,0,1,0,3,0,1,1,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Florent Mollet,M,FC Lausanne-Sport,14,7.5,1,0,0.1274,0.00183382,2,1,0,10,0,0,0,14,0,0,1,0,0,0,1,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Morgan Poaty,D,FC Lausanne-Sport,90,6.9,0,0,0,0.139254,0,0,0,38,1,0,0,55,1,3,1,5,2,1,1,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Kevin Mouanga,D,FC Lausanne-Sport,90,7.2,0,0,0,0.00981991,0,0,0,50,0,0,0,62,1,1,1,5,2,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Brandon Soppy,D,FC Lausanne-Sport,90,6.9,0,0,0,0.00929272,0,0,0,39,0,0,0,64,0,4,1,4,4,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Nathan Butler-Oyedeji,F,FC Lausanne-Sport,76,6.9,0,0,0,0.0280629,0,0,0,26,0,0,0,40,0,6,3,8,0,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Jamie Roche,M,FC Lausanne-Sport,90,6.7,0,0,0.0674,0.00806343,1,0,0,50,0,0,0,60,0,1,4,2,2,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Alban Ajdini,F,FC Lausanne-Sport,24,6.7,0,0,0,0.00765245,0,0,0,8,0,0,0,19,1,1,1,3,0,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Melvin Mastil,G,FC Lausanne-Sport,90,7.2,0,0,0,0.00219119,0,0,0,26,0,0,0,31,0,0,0,0,0,0,0,0,0,3
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Abdou Karim Sow,D,FC Lausanne-Sport,90,7.6,0,0,0,0.00386798,0,0,0,52,0,0,0,69,0,1,1,7,1,3,1,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Beyatt Lekoueiry,M,FC Lausanne-Sport,86,7.1,0,0,0,0.070823,0,0,0,37,0,0,0,56,2,1,2,6,2,3,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Theo Bergvall,D,FC Lausanne-Sport,12,6.7,0,0,0,0.00258449,0,0,0,4,0,0,0,7,0,0,0,0,0,0,1,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Omar Janneh,F,FC Lausanne-Sport,86,6.4,0,0,0.3443,0.00678739,2,0,0,7,0,0,0,19,0,1,1,6,0,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Sekou Kone,M,FC Lausanne-Sport,24,7.1,0,0,0,0.0132084,0,0,0,20,0,0,0,28,1,3,0,7,0,3,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Ilija Despotovic,F,FC Lausanne-Sport,12,6.5,0,0,0,0.00544767,0,0,0,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Ibrahim Bah Mendes,F,FC Lausanne-Sport,66,6.4,0,0,0,0.108556,0,0,0,11,2,0,0,34,5,1,2,6,2,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Xherdan Shaqiri,M,Basel,76,7.2,0,0,0.2199,0.190218,1,0,0,28,3,1,1,40,0,0,0,1,2,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Albian Ajeti,F,Basel,14,6.3,0,0,0,0.0775967,0,0,0,1,1,0,0,1,0,0,0,0,3,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Jonas Omlin,G,Basel,90,6.3,0,0,0,0.0004771,0,0,0,23,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Keigo Tsunemoto,D,Basel,90,7.6,0,0,0,0.355309,0,0,0,47,1,1,0,76,0,3,1,5,0,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Žan Celar,F,Basel,90,6.2,0,0,0.1956,0.0835359,2,1,0,10,1,0,1,21,0,0,0,2,2,2,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Flavius Daniliuc,D,Basel,90,6.8,0,0,0.1042,0.0194293,1,1,0,73,0,0,0,78,0,1,0,3,1,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Nicolas Vouilloz,D,Basel,89,7.4,0,0,0,0.0113475,0,0,0,47,1,0,0,76,0,7,2,11,1,2,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Leo Leroy,M,Basel,45,6.6,0,0,0.0111,0.281494,1,0,0,20,2,1,0,28,0,0,1,1,0,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Philip Otele,M,Basel,67,6.8,0,0,0.3001,0.101406,3,0,0,22,1,0,1,36,2,1,0,4,1,1,0,0,1,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Kazeem Olaigbe,M,Basel,45,6.7,0,0,0.0788,0.0133446,1,0,0,15,0,0,0,25,0,0,0,2,0,2,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Metinho,M,Basel,90,6,0,0,0.0772,0.0139648,1,0,0,50,0,0,0,58,0,1,1,3,2,0,1,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Moussa Cissé,D,Basel,1,0,0,0,0,0.00095096,0,0,0,4,0,0,0,6,1,0,0,2,0,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Ludwig Thorell,M,Basel,45,6.4,0,0,0,0.00295958,0,0,0,18,0,0,0,26,0,0,1,1,2,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Aaron Malouda,M,Basel,23,6.4,0,0,0,0.00236428,0,0,0,9,0,0,0,16,1,1,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Asane Sow,M,Basel,45,6.7,0,0,0.0748,0.0988651,2,1,0,9,0,0,0,33,2,1,0,6,2,3,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Lausanne-Sport,01/08/2026,Akpe Victory,D,Basel,90,6.7,0,0,0.0308,0.01286,1,0,0,77,0,0,0,93,0,0,3,4,0,1,1,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Loris Benito,D,BSC Young Boys,14,6.7,0,0,0,0.00457426,0,0,0,19,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Edimilson Fernandes,M,BSC Young Boys,90,8,1,0,0.161,0.0200183,2,1,0,78,0,0,0,86,1,0,1,3,1,0,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Gregory Wüthrich,D,BSC Young Boys,60,6.9,0,0,0,0.00253499,0,0,0,23,0,0,0,33,0,0,0,3,2,1,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Cedric Zesiger,D,BSC Young Boys,76,7.4,0,0,0,0.206305,0,0,0,54,1,1,0,66,0,0,0,7,1,2,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Sandro Lauper,D,BSC Young Boys,30,6.9,0,0,0,0.00574835,0,0,0,24,1,0,0,29,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Samuel Essende,F,BSC Young Boys,90,9.4,2,1,1.6269,0.444778,6,4,0,23,6,2,2,44,1,2,0,11,4,2,1,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Kastriot Imeri,M,BSC Young Boys,90,8.2,1,0,0.112,0.0263783,4,2,0,36,1,0,0,57,0,0,1,6,0,2,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Lewin Blum,D,BSC Young Boys,66,7.8,1,1,0.1698,0.0538644,1,1,0,24,2,0,0,42,0,1,2,3,2,2,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Armin Gigović,M,BSC Young Boys,90,7.3,0,0,0,0.461593,0,0,0,46,2,1,0,51,0,0,0,4,1,2,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Marvin Keller,G,BSC Young Boys,90,7.9,0,0,0,0.00111048,0,0,0,32,0,0,0,37,0,0,0,0,0,0,0,0,0,3
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Isaac Schmidt,D,BSC Young Boys,24,6.7,0,0,0,0.0166028,0,0,0,14,0,0,0,23,0,2,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Jaouen Hadjam,D,BSC Young Boys,66,6.8,0,0,0.0169,0.0264972,1,0,0,31,0,0,0,58,3,2,1,7,1,1,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Joël Monteiro,M,BSC Young Boys,60,7.6,1,0,0.5257,0.0358413,4,4,0,7,1,1,2,22,1,0,1,1,1,0,0,0,1,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Alvyn Sanches,M,BSC Young Boys,90,8.1,0,1,0.7085,0.315112,3,2,1,43,4,0,2,58,1,3,0,5,1,1,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Stefan Bukinac,D,BSC Young Boys,24,7.7,0,1,0,0.188031,0,0,0,6,1,1,0,12,0,0,0,1,0,1,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Dominik Pech,M,BSC Young Boys,30,6.9,0,0,0.0833,0.0149436,2,2,0,15,0,0,0,23,1,0,0,1,1,0,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Nicolas Bürgy,D,FC Thun,90,5.4,0,0,0.0288,0.00716221,1,1,0,46,1,0,0,63,0,2,0,3,1,0,1,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Jan Bamert,D,FC Thun,90,5.7,0,0,0,0.00316822,0,0,0,42,0,0,0,52,0,2,0,3,1,0,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Brighton Labeau,F,FC Thun,63,6.6,0,0,0.3721,0.0215856,2,1,0,14,0,0,2,31,3,2,0,10,4,3,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Niklas Steffen,G,FC Thun,90,7.8,0,0,0,0.00006394,0,0,0,32,0,0,0,47,0,0,0,0,0,0,0,0,0,9
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Justin Roth,M,FC Thun,73,6.4,0,0,0,0.00950333,0,0,0,33,0,0,0,38,0,2,0,3,3,0,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Nico Maier,F,FC Thun,45,6.7,0,0,0.1774,0.0579318,2,0,0,18,2,1,0,28,0,1,1,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Layton Stewart,F,FC Thun,90,7.3,0,0,0.0722,0.00930041,1,1,0,12,0,0,0,25,4,3,0,10,2,2,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Ashvin Balaruban,D,FC Thun,45,5.8,0,0,0,0.00699522,0,0,0,11,0,0,0,25,0,0,1,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Nils Reichmuth,M,FC Thun,45,6,0,0,0.0203,0.00040193,1,0,0,8,0,0,0,16,0,1,0,1,1,0,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Fabio Saiz,M,FC Thun,90,6.6,0,0,0.0208,0.162107,1,0,0,35,2,1,0,49,1,1,1,7,1,4,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Michael Heule,D,FC Thun,36,6.3,0,0,0,0.013457,0,0,0,15,1,0,0,25,0,0,1,1,0,1,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Nassim Zoukit,M,FC Thun,17,6.4,0,0,0,0.00464453,0,0,0,7,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Lucien Dähler,D,FC Thun,90,6,0,0,0,0.0137601,0,0,0,22,0,0,0,48,0,0,1,3,1,3,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Marc Gutbub,F,FC Thun,27,6.5,0,0,0.076,0.00003874,2,0,0,2,0,0,0,7,0,1,0,2,1,1,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Dorian Derbaci,M,FC Thun,45,6.3,0,0,0,0.00132979,0,0,0,5,0,0,0,7,0,0,0,1,0,1,0,0,0,0
+Swiss Super League,26_27,FC Thun vs BSC Young Boys,01/08/2026,Valmir Matoshi,M,FC Thun,45,6.2,0,0,0,0.00746151,0,0,0,10,1,0,0,13,1,0,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Lukas Görtler,M,FC St. Gallen 1879,90,7.1,0,0,0.185,0.260966,5,1,0,55,3,0,0,77,2,0,0,3,1,0,1,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Lukas Watkowiak,G,FC St. Gallen 1879,90,7.6,0,0,0,0.00238331,0,0,0,31,0,0,0,43,0,0,0,1,0,0,0,0,0,3
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Chima Okoroji,M,FC St. Gallen 1879,90,6.4,0,0,0.0432,0.0614328,2,0,0,26,0,0,0,47,0,2,1,4,0,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Jozo Stanić,D,FC St. Gallen 1879,45,6.7,0,0,0,0.0057763,0,0,0,14,0,0,0,24,0,1,2,2,1,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Lukas Daschner,M,FC St. Gallen 1879,90,6.7,0,0,0,0.131807,0,0,0,31,2,1,0,58,0,4,2,7,1,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Christian Witzig,M,FC St. Gallen 1879,90,6.5,0,0,0,0.0877381,0,0,0,26,4,0,0,55,3,0,0,4,1,0,0,0,2,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Carlo Boukhalfa,M,FC St. Gallen 1879,45,6.3,0,0,0,0.0226712,0,0,0,15,0,0,0,24,0,1,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Hugo Vandermersch,M,FC St. Gallen 1879,45,6.4,0,0,0.0279,0.0179796,1,0,0,23,2,0,0,43,1,1,2,5,1,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Betim Fazliji,M,FC St. Gallen 1879,24,6.8,0,1,0,0.0147114,0,0,0,8,1,0,0,10,0,0,1,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Aliou Balde,F,FC St. Gallen 1879,66,7.7,1,0,1.2045,0.0239541,4,2,0,13,2,0,0,29,1,0,0,3,3,1,0,0,1,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Mihailo Stevanović,M,FC St. Gallen 1879,45,6.8,0,0,0.0262,0.00921675,1,0,0,15,1,0,0,26,0,0,0,2,0,2,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Andrin Hunziker,F,FC St. Gallen 1879,72,6.2,0,0,0.0273,0.012102,1,0,0,15,2,0,0,31,2,2,0,8,1,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Enoch Owusu,F,FC St. Gallen 1879,18,8.8,2,0,0.1671,0.0102022,2,2,0,10,0,0,0,14,0,0,0,0,1,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Leon Frokaj,M,FC St. Gallen 1879,90,6.4,0,0,0.4546,0.0476555,6,1,0,21,1,0,1,57,1,1,0,5,1,2,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Diego Besio,F,FC St. Gallen 1879,24,6.5,0,1,0.0598,0.0488786,2,2,0,5,1,0,0,15,0,2,1,2,1,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Joel Ruiz,D,FC St. Gallen 1879,66,6.1,0,0,0.0314,0.00138653,1,0,0,9,0,0,0,19,0,2,0,5,0,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Dejan Sorgić,F,FC Vaduz,64,6.6,0,0,0.3921,0.0180607,1,0,0,9,1,0,1,21,0,0,0,3,0,2,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Benjamin Büchel,G,FC Vaduz,90,6.8,0,0,0,0.00439122,0,0,0,39,0,0,0,58,0,0,0,0,0,0,1,0,0,5
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Nicolas Hasler,D,FC Vaduz,90,6.1,0,0,0.0727,0.00571972,1,1,0,35,0,0,0,53,0,2,1,3,0,1,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Denis Simani,D,FC Vaduz,90,7.2,0,0,0,0.00091097,0,0,0,33,0,0,0,62,0,5,3,12,1,0,1,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Mats Hammerich,M,FC Vaduz,11,6.3,0,0,0,0.00002156,0,0,0,3,0,0,0,3,0,0,0,0,1,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Marcel Monsberger,F,FC Vaduz,90,7.7,1,0,1.2029,0.00745758,4,2,1,18,1,0,2,47,2,1,0,9,1,2,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Luca Mack,M,FC Vaduz,89,7.4,0,0,0,0.0117914,0,0,0,59,1,0,0,78,0,4,4,5,0,1,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Liridon Berisha,D,FC Vaduz,90,6.5,0,0,0,0.00168611,0,0,0,46,0,0,0,79,0,2,4,9,0,3,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Dejan Đokić,F,FC Vaduz,26,6.4,0,0,0.0542,0.00467098,1,0,0,5,0,0,0,10,0,0,0,1,0,0,0,0,1,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Niklas Lang,D,FC Vaduz,9,6.6,0,0,0,7.6e-7,0,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Julian Stark,M,FC Vaduz,79,7.3,0,0,0.0085,0.0211756,1,0,0,29,1,0,0,45,0,5,2,7,1,1,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Miloš Cocić,F,FC Vaduz,26,6.3,0,0,0.0857,0.00009431,2,0,0,5,0,0,0,12,0,1,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Malik Sawadogo,D,FC Vaduz,90,6.6,0,0,0,0.147629,0,0,0,49,4,1,0,92,0,1,0,5,0,1,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Juan Cabrera,M,FC Vaduz,64,7,1,0,1.3435,0.0104428,4,2,0,25,0,0,2,34,0,1,0,1,1,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Lutfi Dalipi,M,FC Vaduz,89,7.6,0,1,0.0317,0.663497,1,0,0,26,3,3,0,48,2,2,1,4,0,0,0,0,0,0
+Swiss Super League,26_27,FC Vaduz vs FC St. Gallen 1879,02/08/2026,Mattia Walker,M,FC Vaduz,9,6.6,0,0,0.0658,0.00016712,1,0,0,4,0,0,0,6,0,0,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Numa Lavanchy,D,FC Sion,90,7.4,0,0,0.0634,0.12482,1,0,0,47,1,0,0,85,0,3,5,5,1,2,1,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Ali Kabacalman,M,FC Sion,90,8.5,0,0,0,0.216688,0,0,0,95,3,0,0,101,0,0,1,2,0,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Anthony Racioppi,G,FC Sion,90,7.8,0,0,0,0.00009764,0,0,0,22,0,0,0,31,0,0,0,1,0,0,0,0,0,3
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Jan Kronig,D,FC Sion,90,7.4,0,0,0.0189,0.00842966,1,0,0,78,0,0,0,90,0,2,0,4,0,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Rilind Nivokazi,F,FC Sion,63,6,0,0,0.7052,0.00711476,2,1,0,11,1,0,2,17,0,0,1,2,2,1,0,0,1,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Nias Hefti,D,FC Sion,78,6.9,0,0,0,0.289957,0,0,0,36,2,2,0,51,0,1,1,1,1,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Marquinhos Cipriano,D,FC Sion,12,6.7,0,0,0,0.00513355,0,0,0,10,0,0,0,14,0,1,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Baltazar,M,FC Sion,90,8.1,0,0,0.0313,0.227889,1,0,0,66,2,1,0,76,1,0,0,5,1,4,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Ylyas Chouaref,M,FC Sion,71,7.1,0,0,0.0373,0.124645,1,0,0,22,2,1,0,42,0,3,2,4,0,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Donat Rrudhani,M,FC Sion,63,8.4,1,0,0.2279,0.268934,3,3,0,32,3,0,1,47,0,1,0,2,1,1,0,0,1,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Josias Lukembila,M,FC Sion,27,8.1,1,1,0.5681,0.0445443,1,1,0,5,1,1,0,7,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Franck Surdez,F,FC Sion,27,7,0,1,0,0.12661,0,0,0,10,1,1,0,15,0,1,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Théo Berdayes,M,FC Sion,27,7.8,1,0,0.4875,0.00949964,1,1,0,8,1,0,0,12,0,2,0,3,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Noé Sow,D,FC Sion,90,7.1,0,0,0.0583,0.00639137,1,0,0,53,0,0,0,61,0,0,1,4,1,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Fode Sylla,M,FC Sion,19,6.6,0,0,0,0.00421632,0,0,0,9,0,0,0,14,0,0,1,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Winsley Boteli Mokango,F,FC Sion,63,6.6,0,1,0.6392,0.0592636,6,1,0,11,2,0,1,27,1,1,0,3,0,1,0,0,1,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Leonardo Bertone,M,FC Luzern,90,6.4,0,0,0,0.0376688,0,0,0,42,1,0,0,44,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Andrejs Cigaņiks,D,FC Luzern,14,6.2,0,0,0,0.00146942,0,0,0,9,1,0,0,11,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Pius Dorn,D,FC Luzern,90,5.8,0,0,0,0.0278271,0,0,0,27,0,0,0,44,0,0,0,2,1,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Stefan Knežević,D,FC Luzern,90,5.7,0,0,0,0.00302761,0,0,0,38,0,0,0,52,0,0,5,0,3,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Matteo Di Giusto,M,FC Luzern,90,6.6,0,0,0.1134,0.137708,3,1,0,40,3,0,0,57,4,1,0,5,1,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Simon Simoni,G,FC Luzern,90,6.6,0,0,0,0.00015745,0,0,0,38,0,0,0,50,0,0,0,0,0,0,0,0,0,4
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Tyron Owusu,M,FC Luzern,3,3,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Aurelio Oehlers,M,FC Luzern,14,7,0,0,0,0.318598,0,0,0,9,1,1,0,11,1,0,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Rúben Dantas,D,FC Luzern,76,6.4,0,0,0.0204,0.363341,1,1,0,28,1,0,0,53,1,2,0,4,0,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Lars Villiger,F,FC Luzern,32,6.3,0,0,0.4009,0.0124679,2,1,0,7,0,0,1,10,0,0,0,2,1,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Loïc Lüthi,D,FC Luzern,82,6.2,0,0,0,0.00180778,0,0,0,38,0,0,0,47,0,0,0,2,1,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Sascha Meyer,F,FC Luzern,58,6.2,0,0,0.0828,0.00500892,1,0,0,6,0,0,1,12,0,0,0,2,3,2,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Mio Zimmermann,M,FC Luzern,32,6.3,0,0,0.0589,0.00640748,1,0,0,17,0,0,0,25,0,0,1,2,1,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Bung Hua Freimann,D,FC Luzern,8,6.7,0,0,0,0.00004106,0,0,0,6,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Lucas Silva,M,FC Luzern,58,7,0,0,0,0.0670184,0,0,0,26,0,0,0,37,1,2,0,5,0,2,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Luzern,02/08/2026,Oscar Kabwit,F,FC Luzern,76,6.5,0,0,0.0964,0.227822,3,0,0,14,2,1,0,37,1,2,2,5,2,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Ezgjan Alioski,D,FC Lugano,90,7.3,0,0,0,0.169607,0,0,0,54,3,1,0,93,0,3,0,7,0,3,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Kevin Behrens,F,FC Lugano,45,6.7,0,1,0,0.0666457,0,0,0,16,2,0,1,20,0,0,0,3,0,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,David von Ballmoos,G,FC Lugano,90,8.2,0,0,0,0.00179714,0,0,0,33,0,0,0,40,0,0,0,0,0,0,0,0,0,3
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Renato Steffen,F,FC Lugano,45,6.6,0,0,0.0553,0.0802431,1,0,0,22,1,0,0,34,0,1,0,3,0,2,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Anto Grgić,M,FC Lugano,81,8.1,0,2,0.0269,0.477781,1,0,0,83,3,1,0,93,0,1,1,1,0,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Hannes Delcroix,D,FC Lugano,9,7.1,0,0,0,0.00508224,0,0,0,4,0,0,0,9,0,2,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Lars Lukas Mai,D,FC Lugano,90,7.8,0,0,0,0.0144399,0,0,0,69,0,0,0,89,1,2,3,5,0,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Antonios Papadopoulos,D,FC Lugano,90,7.2,0,0,0,0.0196823,0,0,0,58,0,0,0,73,2,3,2,6,1,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Uran Bislimi,M,FC Lugano,90,6.9,0,0,0.0867,0.224301,2,0,0,90,1,1,0,105,0,0,0,2,0,2,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Joel Bichsel,D,FC Lugano,45,6.8,0,0,0,0.0129869,0,0,0,45,0,0,0,53,1,2,2,4,0,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Mattia Zanotti,D,FC Lugano,90,7.3,0,0,0.064,0.352039,1,1,0,43,1,0,0,71,1,6,0,9,2,2,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Ahmed Kendouci,M,FC Lugano,9,7,0,1,0,0.174123,0,0,0,7,1,1,0,9,0,0,2,0,0,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Yanis Cimignani,M,FC Lugano,45,8.8,2,0,1.1389,0.304262,4,2,0,21,0,0,0,38,0,2,2,4,0,1,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Daniel Dos Santos,M,FC Lugano,81,6.3,0,0,0.0644,0.0370715,1,1,0,35,1,0,0,48,1,1,0,3,0,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Elias Pihlström,M,FC Lugano,23,7.5,1,0,0.2099,0.00419828,2,1,1,10,0,0,0,19,1,1,0,2,1,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Dereck Moncada,M,FC Lugano,67,7,1,0,0.3268,0.0261523,2,1,0,19,0,0,1,29,0,0,0,2,0,1,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Amir Abrashi,M,Grasshopper Club Zürich,75,6.5,0,0,0.1056,0.0448842,1,1,0,36,1,0,0,45,1,0,1,1,0,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Abdoulaye Diaby,D,Grasshopper Club Zürich,32,6.1,0,0,0,0.00413712,0,0,0,18,1,0,0,24,0,1,0,3,0,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Justin Hammel,G,Grasshopper Club Zürich,90,5.1,0,0,0,0.00050181,0,0,0,32,0,0,0,38,0,0,0,0,0,0,0,0,0,2
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Óscar Clemente,F,Grasshopper Club Zürich,45,6.2,0,0,0.2184,0.0270205,1,0,0,28,0,0,1,37,0,1,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Luke Plange,F,Grasshopper Club Zürich,45,7,1,0,0.9629,0.0174439,1,1,0,10,1,0,0,19,1,0,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Nikolas Muci,F,Grasshopper Club Zürich,58,6.8,0,0,0.077,0.00478018,1,0,0,13,0,0,0,21,1,0,0,3,1,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Simone Stroscio,M,Grasshopper Club Zürich,90,7.4,0,1,0,0.684554,0,0,0,38,2,1,0,66,0,3,3,4,1,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Samuel Krasniqi,M,Grasshopper Club Zürich,90,7.7,0,0,0.3196,0.113758,4,2,0,34,1,0,1,64,4,0,0,7,1,3,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Hassane Imourane,M,Grasshopper Club Zürich,58,6.3,0,0,0.0511,0.00416093,1,0,0,21,0,0,0,31,0,2,0,2,2,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Dorian Paloschi,D,Grasshopper Club Zürich,58,6.6,0,0,0,0.00328891,0,0,0,26,0,0,0,33,0,0,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Nico Rissi,D,Grasshopper Club Zürich,90,6.6,0,0,0.0299,0.034838,1,0,0,34,1,0,0,56,0,6,0,6,1,0,1,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Samuel Marques,M,Grasshopper Club Zürich,32,6.2,0,0,0,0.0264749,0,0,0,26,0,0,0,34,0,1,1,1,2,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Samuele Bengondo,F,Grasshopper Club Zürich,32,6.2,0,0,0.0428,0.0143698,1,0,0,17,0,0,0,25,1,0,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Tim Meyer,M,Grasshopper Club Zürich,90,7,0,0,0,0.0890631,0,0,0,51,0,0,0,61,0,3,0,4,2,0,1,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Luka Mikulic,D,Grasshopper Club Zürich,90,6.8,0,0,0,0.00669417,0,0,0,52,0,0,0,63,0,1,0,3,1,0,0,0,0,0
+Swiss Super League,26_27,Grasshopper Club Zürich vs FC Lugano,02/08/2026,Alieu Conateh,F,Grasshopper Club Zürich,15,6.6,0,0,0,0.00178395,0,0,0,3,0,0,0,15,1,0,0,2,0,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Loris Benito,D,BSC Young Boys,12,6.3,0,0,0,0.00599031,0,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Edimilson Fernandes,M,BSC Young Boys,58,5.6,0,0,0.0476,0.00723609,1,0,0,33,1,0,0,38,0,0,0,0,1,0,0,1,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Gregory Wüthrich,D,BSC Young Boys,90,6.6,0,0,0,0.014351,0,0,0,49,0,0,0,63,0,0,2,5,1,3,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Christian Fassnacht,M,BSC Young Boys,53,6.3,0,0,0,0.0552692,0,0,0,15,3,1,0,20,0,1,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Cedric Zesiger,D,BSC Young Boys,90,7.5,1,0,0.111,0.009668,1,1,0,57,0,0,0,72,0,0,3,3,1,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Sandro Lauper,D,BSC Young Boys,12,6.5,0,0,0,0.00633702,0,0,0,6,0,0,0,7,0,0,0,1,0,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Samuel Essende,F,BSC Young Boys,90,6.7,0,1,0.3977,0.0299512,4,1,0,11,1,1,1,33,0,2,0,8,3,3,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Kastriot Imeri,M,BSC Young Boys,37,6.3,0,0,0,0.0154715,0,0,0,9,1,0,0,15,0,1,0,3,2,2,1,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Lewin Blum,D,BSC Young Boys,68,7.3,0,0,0.0829,0.0519237,1,0,0,30,1,0,0,52,0,0,2,2,0,1,1,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Armin Gigović,M,BSC Young Boys,86,6.6,0,0,0.1414,0.0176657,3,1,0,33,1,0,0,42,1,0,2,3,2,1,1,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Marvin Keller,G,BSC Young Boys,90,6.5,0,0,0,0.00023516,0,0,0,26,0,0,0,29,0,0,0,0,0,0,0,0,0,2
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Isaac Schmidt,D,BSC Young Boys,22,6.1,0,0,0,0.00644562,0,0,0,9,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Jaouen Hadjam,D,BSC Young Boys,90,6.2,0,0,0.0901,0.0353842,3,1,0,34,0,0,0,69,3,0,5,4,3,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Joël Monteiro,M,BSC Young Boys,86,6.4,0,0,0.0454,0.0317467,1,0,0,13,1,0,0,31,0,2,1,4,0,1,0,0,1,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Alvyn Sanches,M,BSC Young Boys,68,6.6,0,1,0.0687,0.280936,2,1,0,23,2,1,0,42,2,2,0,4,1,0,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Dominik Pech,M,BSC Young Boys,22,7.6,1,0,0.1919,0.00221127,1,1,0,6,0,0,0,11,2,1,0,3,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Olivier Custodio,M,FC Lausanne-Sport,68,6.3,0,0,0.1366,0.157418,1,0,0,30,0,0,0,42,0,1,0,2,2,1,1,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Florent Mollet,M,FC Lausanne-Sport,90,8.1,1,0,0.3729,0.0185575,1,1,0,41,2,1,0,50,0,2,0,3,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Morgan Poaty,D,FC Lausanne-Sport,90,6.4,0,0,0.0154,0.0198781,1,0,0,47,0,0,0,62,0,0,0,3,0,2,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Kevin Mouanga,D,FC Lausanne-Sport,90,7.1,0,0,0,0.0189098,0,0,0,78,0,0,0,97,0,4,2,8,1,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Brandon Soppy,D,FC Lausanne-Sport,90,7.1,0,0,0,0.0171026,0,0,0,38,1,0,0,60,0,4,1,6,2,2,0,0,1,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Nathan Butler-Oyedeji,F,FC Lausanne-Sport,22,7.6,1,0,0.0491,0.0877763,1,1,0,10,1,0,0,17,1,0,0,1,0,0,1,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Jamie Roche,M,FC Lausanne-Sport,90,7.3,0,0,0,0.0183135,0,0,0,67,1,0,0,80,0,3,1,8,0,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Melvin Mastil,G,FC Lausanne-Sport,90,6.3,0,0,0,0.00532789,0,0,0,34,0,0,0,43,0,0,0,0,0,0,0,0,0,4
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Abdou Karim Sow,D,FC Lausanne-Sport,90,7.1,0,0,0.1226,0.00415054,1,0,0,56,0,0,0,73,1,4,0,8,1,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Theo Bergvall,D,FC Lausanne-Sport,52,6.6,0,0,0,0.00190421,0,0,0,30,0,0,0,50,1,2,0,4,1,0,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Omar Janneh,F,FC Lausanne-Sport,90,6.2,0,0,1.1018,0.00259738,4,2,0,13,0,0,3,24,0,0,0,2,3,1,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Sekou Kone,M,FC Lausanne-Sport,83,6.7,0,1,0.0268,0.353856,1,0,0,24,2,1,0,41,1,1,2,4,1,2,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Ilija Despotovic,F,FC Lausanne-Sport,15,6.7,0,1,0,0.00232767,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lausanne-Sport vs BSC Young Boys,08/08/2026,Ibrahim Bah Mendes,F,FC Lausanne-Sport,38,6.6,0,0,0.0126,0.0924384,1,0,0,8,1,1,0,21,1,0,0,3,3,2,1,0,1,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Miroslav Stevanović,M,Servette FC,90,6.7,0,0,0.6551,0.0377893,6,1,0,30,1,0,0,45,1,2,0,7,1,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Steve Rouiller,D,Servette FC,90,6.4,0,0,0,0.0118542,0,0,0,41,0,0,0,48,0,0,0,5,2,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Edvinas Gertmonas,G,Servette FC,90,6.6,0,0,0,0.00060439,0,0,0,27,0,0,0,41,0,0,0,1,0,0,0,0,0,2
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,David Douline,M,Servette FC,10,6.6,0,0,0,0.00008008,0,0,0,1,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Samuel Mráz,F,Servette FC,88,6.8,1,0,0.8041,0.0108454,3,2,0,12,1,0,1,21,0,1,0,3,2,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Florian Ayé,F,Servette FC,71,6.7,0,0,0.2582,0.0155432,2,1,0,13,1,0,1,21,0,0,0,3,1,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Timothé Cognat,M,Servette FC,90,7.5,0,1,0.0291,0.694576,1,0,0,61,3,2,0,92,2,2,1,6,1,1,1,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Bradley Mazikou,D,Servette FC,45,6.8,0,0,0,0.00828141,0,0,0,28,0,0,0,44,0,2,2,4,0,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Quentin Maceiras,D,Servette FC,88,7,0,0,0,0.350785,0,0,0,32,4,1,0,60,2,3,2,6,1,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Houboulang Mendes,D,Servette FC,10,6.7,0,0,0,0.00011025,0,0,0,1,0,0,0,7,0,0,1,1,1,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Pedro Naressi,M,Servette FC,90,7.6,0,0,0,0.01657,0,0,0,53,0,0,0,76,3,6,2,13,1,0,1,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Julian Von Moos,F,Servette FC,8,6.4,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Marco Burch,D,Servette FC,90,7.3,0,0,0,0.0250344,0,0,0,55,2,0,0,77,0,3,2,6,0,2,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Lilian Njoh,D,Servette FC,45,6.9,0,0,0,0.0455168,0,0,0,26,0,0,0,45,1,1,1,2,0,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Tiemoko Ouattara,F,Servette FC,82,7.3,0,0,0.1368,0.0997425,3,3,0,23,1,0,0,54,3,4,0,12,1,4,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Mathis Lambourde,F,Servette FC,19,7.5,1,0,0.4631,0.00308031,2,2,0,10,0,0,0,16,1,0,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Amir Abrashi,M,Grasshopper Club Zürich,55,7.5,1,0,0.6721,0.0186175,2,1,0,23,0,0,0,37,1,1,1,3,0,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Abdoulaye Diaby,D,Grasshopper Club Zürich,90,6.7,0,0,0.1554,0.00342978,1,0,0,26,1,0,1,49,0,1,2,4,1,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Justin Hammel,G,Grasshopper Club Zürich,90,7.7,0,0,0,0.00225168,0,0,0,37,0,0,0,46,0,0,0,0,0,0,0,0,0,7
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Óscar Clemente,F,Grasshopper Club Zürich,35,6.5,0,0,0,0.046804,0,0,0,20,1,0,0,30,0,2,1,4,0,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Nikolas Muci,F,Grasshopper Club Zürich,63,6.5,0,0,0.0597,0.0228901,3,0,0,16,1,0,0,36,1,4,0,7,1,0,1,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Simone Stroscio,M,Grasshopper Club Zürich,90,6.7,0,0,0,0.0223904,0,0,0,23,1,0,0,61,0,5,0,6,2,1,1,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Loris Giandomenico,D,Grasshopper Club Zürich,11,6.6,0,0,0,0.00022894,0,0,0,3,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Samuel Krasniqi,M,Grasshopper Club Zürich,90,6.7,0,1,0.0368,0.525881,2,1,0,37,4,3,0,66,3,1,0,6,0,2,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Hassane Imourane,M,Grasshopper Club Zürich,59,5.7,0,0,0,0.00978189,0,0,0,14,1,0,0,27,0,2,0,4,2,1,2,1,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Nico Rissi,D,Grasshopper Club Zürich,86,6.4,0,0,0,0.0167857,0,0,0,32,0,0,0,53,0,2,1,4,1,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Samuel Marques,M,Grasshopper Club Zürich,27,6.1,0,0,0,0.00298566,0,0,0,12,0,0,0,19,1,0,1,1,2,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Samuele Bengondo,F,Grasshopper Club Zürich,63,5.9,0,0,0.0948,0.0475855,1,0,0,27,1,0,1,37,0,0,0,3,1,0,1,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Tim Meyer,M,Grasshopper Club Zürich,90,7,0,0,0,0.0634881,0,0,0,37,0,0,0,47,0,1,1,5,1,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Luka Mikulic,D,Grasshopper Club Zürich,86,6.3,0,0,0,0.00436568,0,0,0,38,0,0,0,48,0,1,1,3,0,1,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Alieu Conateh,F,Grasshopper Club Zürich,27,6.5,0,0,0.0227,0.00054433,1,1,0,5,0,0,0,17,2,2,1,5,0,0,0,0,0,0
+Swiss Super League,26_27,Servette FC vs Grasshopper Club Zürich,08/08/2026,Denis Sahin,M,Grasshopper Club Zürich,11,6.6,0,0,0.1028,0.00034269,1,0,0,4,0,0,0,7,0,0,0,1,0,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Kevin Behrens,F,FC Lugano,70,8,2,0,1.2546,0.00736364,4,3,0,13,0,0,2,19,1,0,0,1,1,0,0,0,1,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,David von Ballmoos,G,FC Lugano,90,7.6,0,1,0,0.00194989,0,0,0,55,1,1,0,61,0,0,0,0,0,0,0,0,0,1
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Renato Steffen,F,FC Lugano,80,9.2,1,0,0.638,0.296902,2,1,0,44,5,1,0,58,0,1,0,6,0,4,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Anto Grgić,M,FC Lugano,90,7.3,0,1,0,0.163814,0,0,0,58,1,1,0,71,0,4,0,4,1,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Hannes Delcroix,D,FC Lugano,80,7.4,0,1,0.0563,0.240886,1,0,0,44,1,1,0,58,0,1,1,2,1,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Lars Lukas Mai,D,FC Lugano,90,7.3,0,0,0,0.0159294,0,0,0,77,0,0,0,86,0,2,0,4,3,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Antonios Papadopoulos,D,FC Lugano,90,7.7,0,0,0.0146,0.0859442,1,1,0,58,1,0,0,77,1,2,2,7,3,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Uran Bislimi,M,FC Lugano,70,7.3,0,0,0,0.028917,0,0,0,77,1,0,0,83,0,2,0,5,0,3,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Mattia Zanotti,D,FC Lugano,90,6.9,0,1,0.0999,0.0443489,1,1,0,23,1,0,0,41,2,2,1,5,1,1,0,0,1,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Ahmed Kendouci,M,FC Lugano,20,7,0,0,0,0.0287075,0,0,0,22,0,0,0,26,0,1,0,2,1,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Yanis Cimignani,M,FC Lugano,90,7.7,0,0,0.0733,0.681399,1,0,0,34,3,1,0,48,0,2,0,4,1,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Daniel Dos Santos,M,FC Lugano,28,7.8,1,0,0.0204,0.0040648,1,1,0,15,0,0,0,22,1,1,0,3,0,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Martim Marques,D,FC Lugano,10,6.7,0,0,0,0.00000219,0,0,0,3,0,0,0,5,0,1,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Damian Kelvin,D,FC Lugano,10,6.7,0,0,0,0.00005396,0,0,0,6,0,0,0,8,0,0,1,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Elias Pihlström,M,FC Lugano,62,6.9,0,0,0.0902,0.0420468,3,0,0,22,1,0,0,35,1,1,1,4,0,2,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Dereck Moncada,M,FC Lugano,20,7.7,1,0,0.1466,0.00689003,2,1,0,6,0,0,0,11,0,0,1,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Heinz Lindner,G,FC Zürich,90,5.8,0,0,0,0.00213724,0,0,0,26,0,0,0,37,0,0,0,0,0,0,0,0,0,3
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Valon Berisha,M,FC Zürich,44,6.2,0,0,0,0.00206581,0,0,0,15,0,0,0,19,0,0,0,2,2,2,1,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Ilan Sauter,D,FC Zürich,90,5.7,0,0,0,0.00448854,0,0,0,38,0,0,0,47,0,1,3,2,1,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Bledian Krasniqi,M,FC Zürich,44,6.2,0,0,0,0.00547791,0,0,0,13,1,0,0,17,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Lindrit Kamberi,D,FC Zürich,90,6.1,0,0,0,0.00320552,0,0,0,48,0,0,0,62,0,0,2,3,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Juan José Perea,F,FC Zürich,46,6.6,0,0,0.1817,0.00530999,1,0,0,5,0,0,1,20,1,0,1,2,0,1,0,0,1,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Philippe Keny,F,FC Zürich,90,6.8,0,0,0.3649,0.0002698,4,1,0,13,0,0,2,31,2,1,0,9,1,4,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Kevin Spadanuda,M,FC Zürich,46,6.4,0,0,0,0.339295,0,0,0,20,3,0,0,27,0,1,1,2,1,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Livano Comenencia,D,FC Zürich,90,6.6,0,0,0.1277,0.026523,1,0,0,22,0,0,0,33,1,2,1,5,2,2,1,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Nevio Di Giusto,M,FC Zürich,23,6.2,0,0,0.1595,0.00237294,1,0,0,9,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Selmin Hodza,D,FC Zürich,90,5.7,0,0,0,0.401,0,0,0,57,1,1,0,78,2,2,0,4,1,0,1,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Umeh Emmanuel,F,FC Zürich,67,5.8,0,0,0,0.00258453,0,0,0,12,0,0,0,20,0,1,0,1,3,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Neil Volken,D,FC Zürich,90,5.5,0,0,0,0.102288,0,0,0,33,2,1,0,55,0,0,0,1,1,0,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Mohamed Bangoura,M,FC Zürich,23,5.8,0,0,0.0164,0.00265178,1,0,0,8,0,0,0,13,0,0,0,1,1,1,0,0,0,0
+Swiss Super League,26_27,FC Lugano vs FC Zürich,09/08/2026,Leandro Schödler,M,FC Zürich,67,6.5,0,0,0.0147,0.0088718,1,0,0,17,0,0,0,24,0,0,1,1,1,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Nicolas Bürgy,D,FC Thun,90,6.5,0,0,0.046,0.0164155,1,0,0,80,0,0,0,91,0,0,1,6,0,3,0,0,1,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Jan Bamert,D,FC Thun,90,5.9,0,0,0,0.00505881,0,0,0,55,0,0,0,67,0,2,2,7,1,4,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Brighton Labeau,F,FC Thun,16,7.5,1,0,0.0999,0.00298794,1,1,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Niklas Steffen,G,FC Thun,90,5.5,0,0,0,0.00225886,0,0,0,39,0,0,0,47,0,0,0,1,0,0,0,0,0,3
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Justin Roth,M,FC Thun,45,6.3,0,0,0.0609,0.0182372,1,0,0,33,0,0,0,36,0,0,0,0,1,0,1,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Nico Maier,F,FC Thun,36,6.4,0,0,0.0934,0.024962,1,0,0,10,1,0,0,19,0,1,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Layton Stewart,F,FC Thun,74,7.1,1,0,0.284,0.00393058,2,1,0,9,0,0,0,16,0,1,1,1,0,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Fabio Fehr,D,FC Thun,67,5.7,0,0,0,0.0140641,0,0,0,28,1,0,0,40,0,2,0,2,1,0,1,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Nils Reichmuth,M,FC Thun,54,5.9,0,0,0.1344,0.0709266,4,0,0,19,2,0,0,32,1,1,0,3,3,1,1,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Fabio Saiz,M,FC Thun,90,6.2,0,0,0,0.0230441,0,0,0,47,3,0,0,63,1,0,4,3,1,2,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Michael Heule,D,FC Thun,23,6.4,0,0,0.0091,0.0869232,1,0,0,9,1,0,0,21,0,0,1,0,1,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Nassim Zoukit,M,FC Thun,45,6.5,0,0,0.0374,0.0656828,1,0,0,46,0,0,0,58,1,2,1,4,0,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Lucien Dähler,D,FC Thun,90,5.7,0,0,0,0.0561409,0,0,0,35,1,0,0,58,0,2,1,2,2,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Marc Gutbub,F,FC Thun,45,6.4,0,1,0.0308,0.195888,1,0,0,2,1,0,0,7,0,0,0,0,1,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Dorian Derbaci,M,FC Thun,90,6.1,0,1,0.035,0.113237,1,0,0,19,1,0,0,28,0,0,0,0,1,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Simon Lengen,F,FC Thun,45,6,0,0,0,0.00110273,0,0,0,6,1,0,0,12,0,0,0,1,3,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Xherdan Shaqiri,M,Basel,30,7.1,1,0,0.0518,0.00470376,1,1,0,14,0,0,0,17,0,0,0,2,0,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Mirko Salvi,G,Basel,90,5.7,0,0,0,0.00016178,0,0,0,32,0,0,0,36,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Keigo Tsunemoto,D,Basel,90,6.9,0,0,0,0.0204326,0,0,0,52,0,0,0,79,0,2,3,5,0,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Žan Celar,F,Basel,75,7.6,1,0,0.0858,0.020914,2,2,0,10,1,0,0,16,0,0,0,4,5,1,0,0,2,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Flavius Daniliuc,D,Basel,90,6.4,0,0,0,0.00294211,0,0,0,50,0,0,0,56,0,0,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Bećir Omeragić,D,Basel,89,7,0,0,0,0.00546054,0,0,0,25,0,0,0,45,0,2,1,6,1,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Nicolas Vouilloz,D,Basel,1,0,0,0,0,0.00001866,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Leo Leroy,M,Basel,90,6.1,0,1,0.1757,0.0114007,1,0,1,26,1,0,1,37,0,1,2,2,2,1,1,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Philip Otele,M,Basel,30,6.7,0,0,0,0.0748589,0,0,0,11,0,0,0,16,0,0,0,2,0,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Kazeem Olaigbe,M,Basel,60,7.4,0,1,0,0.223644,0,0,0,12,2,1,0,18,1,0,0,2,0,1,0,0,1,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Moussa Cissé,D,Basel,89,6.7,0,0,0,0.0147231,0,0,0,40,0,0,0,59,1,1,2,3,0,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Ludwig Thorell,M,Basel,60,7,0,0,0,0.0517847,0,0,0,26,1,1,0,36,1,3,0,5,2,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Jonas Harder,M,Basel,1,0,0,0,0,0.00420732,0,0,0,3,0,0,0,7,0,2,0,3,0,1,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Giacomo Koloto,F,Basel,15,6.7,0,0,0,0.00732855,0,0,0,5,1,1,0,7,0,1,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Asane Sow,M,Basel,90,10,2,2,0.9886,0.15692,8,4,0,26,3,1,3,51,1,1,0,7,0,3,0,0,0,0
+Swiss Super League,26_27,Basel vs FC Thun,09/08/2026,Akpe Victory,D,Basel,90,6.9,0,0,0,0.00431389,0,0,0,57,0,0,0,75,1,0,3,6,0,2,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Lukas Görtler,M,FC St. Gallen 1879,90,7.9,1,0,0.9146,0.0696242,3,3,0,51,2,0,0,71,1,2,0,9,1,5,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Lawrence Ati Zigi,G,FC St. Gallen 1879,90,6.6,0,0,0,0.00385992,0,0,0,34,0,0,0,42,1,0,0,1,0,0,0,0,0,1
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Chima Okoroji,M,FC St. Gallen 1879,90,6.7,0,0,0.0679,0.00815667,1,0,0,41,0,0,0,57,0,0,0,3,0,1,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Jozo Stanić,D,FC St. Gallen 1879,80,7,0,0,0,0.0156059,0,0,0,36,0,0,0,47,0,1,0,6,2,1,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Lukas Daschner,M,FC St. Gallen 1879,55,7.9,1,0,0.9837,0.0126761,2,2,1,23,1,0,0,41,0,1,0,2,1,1,1,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Christian Witzig,M,FC St. Gallen 1879,80,6.4,0,0,0.171,0.0818268,3,1,0,19,3,0,0,32,0,0,0,0,0,0,0,0,1,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Hugo Vandermersch,M,FC St. Gallen 1879,55,6.8,0,0,0.0237,0.0366702,1,0,0,22,0,0,0,34,0,1,0,2,0,1,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Betim Fazliji,M,FC St. Gallen 1879,21,6.5,0,0,0.0317,0.00326821,1,0,0,8,0,0,0,12,1,0,0,2,1,1,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Colin Noah Kleine-Bekel,D,FC St. Gallen 1879,10,6.4,0,0,0,0.0595999,0,0,0,4,0,0,0,6,0,0,0,1,1,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Aliou Balde,F,FC St. Gallen 1879,90,7.3,0,0,0.8975,0.224697,8,4,1,18,4,0,0,39,1,0,0,4,0,1,0,0,1,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Mihailo Stevanović,M,FC St. Gallen 1879,90,7.2,0,0,0,0.0338444,0,0,0,44,0,0,0,59,3,1,0,6,1,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Andrin Hunziker,F,FC St. Gallen 1879,35,6.9,0,0,0.1555,0.0215897,1,0,0,15,1,0,0,21,0,1,0,7,0,1,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Enoch Owusu,F,FC St. Gallen 1879,35,6.8,0,0,0.0213,0.0190623,1,0,0,17,1,0,0,23,0,0,0,3,0,1,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Leon Frokaj,M,FC St. Gallen 1879,69,6.6,0,0,0.0192,0.144657,1,1,0,15,3,0,0,25,0,2,0,3,1,0,1,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Corsin Konietzke,M,FC St. Gallen 1879,10,6.5,0,0,0.104,0.00077333,1,0,0,5,1,0,0,8,0,1,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Joel Ruiz,D,FC St. Gallen 1879,90,6.4,0,0,0.0361,0.0174425,1,0,0,40,1,0,0,57,0,1,1,3,0,1,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Leonardo Bertone,M,FC Luzern,90,6.6,0,0,0.0697,0.0274805,2,0,0,24,0,0,0,33,0,1,2,1,2,0,1,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Andrejs Cigaņiks,D,FC Luzern,90,6.8,0,0,0.0103,0.00792355,1,0,0,18,0,0,0,38,0,4,0,5,1,0,1,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Pius Dorn,D,FC Luzern,90,6.8,0,0,0.0277,0.00647648,1,0,0,14,0,0,0,33,0,2,0,3,0,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Stefan Knežević,D,FC Luzern,83,6,0,0,0,0.0005678,0,0,0,33,0,0,0,44,0,1,0,2,2,0,0,0,1,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Jesper Lofgren,D,FC Luzern,19,6.3,0,0,0,0.00000986,0,0,0,1,0,0,0,4,0,0,0,0,1,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Matteo Di Giusto,M,FC Luzern,90,7.6,1,1,0.6544,0.13152,2,1,0,15,2,0,0,37,1,0,0,2,0,1,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Simon Simoni,G,FC Luzern,90,9.1,0,0,0,0.00360838,0,0,0,39,0,0,0,58,0,0,0,1,1,0,0,0,0,8
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Aurelio Oehlers,M,FC Luzern,11,7,0,1,0.3139,0.0795152,2,1,0,6,1,1,1,10,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Rúben Dantas,D,FC Luzern,45,6.9,0,0,0.0562,0.0425588,1,0,0,15,0,0,0,29,0,1,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Nando Toggenburger,F,FC Luzern,26,6.5,0,0,0,0.00026566,0,0,0,5,0,0,0,10,0,1,0,3,1,0,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Daniel Mikołajewski,F,FC Luzern,45,7.7,1,0,0.0784,0.162526,1,1,0,13,4,2,0,19,0,0,0,0,1,0,1,0,2,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Sascha Meyer,F,FC Luzern,64,6.3,0,0,0,0.00130275,0,0,0,7,0,0,0,16,0,0,0,3,2,2,0,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Mio Zimmermann,M,FC Luzern,11,6.4,0,0,0,0.00030606,0,0,0,5,0,0,0,13,1,0,1,3,2,2,1,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Bung Hua Freimann,D,FC Luzern,90,6.3,0,0,0,0.00131126,0,0,0,20,0,0,0,34,1,1,0,3,0,0,1,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Lucas Silva,M,FC Luzern,79,6.6,0,0,0.1105,0.0255003,1,0,0,14,1,0,0,30,0,0,0,4,2,1,1,0,0,0
+Swiss Super League,26_27,FC St. Gallen 1879 vs FC Luzern,09/08/2026,Oscar Kabwit,F,FC Luzern,79,6.6,0,0,0.4699,0.0933057,1,0,1,13,1,0,1,27,1,1,1,5,2,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Numa Lavanchy,D,FC Sion,90,7.2,0,0,0,0.375945,0,0,0,57,2,1,0,86,1,1,4,3,1,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Ali Kabacalman,M,FC Sion,34,7.4,0,0,0,0.0713626,0,0,0,42,0,0,0,49,1,0,1,2,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Anthony Racioppi,G,FC Sion,90,6,0,0,0,0.00068822,0,0,0,29,0,0,0,41,0,0,0,0,0,0,0,0,0,2
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Jan Kronig,D,FC Sion,90,6.7,0,0,0.0836,0.00769559,1,0,1,43,0,0,1,60,0,6,0,8,1,0,1,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Rilind Nivokazi,F,FC Sion,56,6.2,0,0,0.3544,0.0172748,3,0,1,8,1,0,2,17,0,0,0,3,0,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Marquinhos Cipriano,D,FC Sion,90,6.9,0,1,0,0.381578,0,0,0,43,1,1,0,72,0,2,1,2,1,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Baltazar,M,FC Sion,90,6.8,0,0,0,0.0589994,0,0,0,55,0,0,0,69,1,2,1,4,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Ylyas Chouaref,M,FC Sion,34,7.9,0,1,0.0568,0.612286,1,0,0,22,2,1,0,38,0,1,0,2,0,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Donat Rrudhani,M,FC Sion,67,8.2,1,0,0.2042,0.442723,4,2,0,25,5,2,0,47,3,2,1,6,1,1,1,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Josias Lukembila,M,FC Sion,56,6.5,0,0,0.0377,0.0243892,1,0,0,24,1,0,0,42,2,0,0,5,1,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Franck Surdez,F,FC Sion,34,7.3,1,0,0.9006,0.0441688,3,1,0,10,1,1,0,26,1,0,0,1,1,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Théo Berdayes,M,FC Sion,56,6.5,0,0,0,0.0243094,0,0,0,14,0,0,0,27,0,3,1,6,1,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Noé Sow,D,FC Sion,90,6.7,0,0,0.0723,0.00928541,1,0,0,40,0,0,0,53,0,2,2,5,0,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Liam Scott Chipperfield,M,FC Sion,23,6.5,0,0,0.3137,0.0989404,1,0,0,13,0,0,1,22,0,0,0,0,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Fode Sylla,M,FC Sion,56,6.8,0,0,0.2335,0.0208129,1,0,0,27,0,0,0,35,1,0,2,4,0,2,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Winsley Boteli Mokango,F,FC Sion,34,7.7,1,0,0.5175,0.00299112,3,3,0,4,0,0,1,11,1,0,0,4,0,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Dejan Sorgić,F,FC Vaduz,9,6.7,0,0,0.0454,0.00048768,1,0,0,1,0,0,0,3,0,0,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Nicolas Hasler,D,FC Vaduz,90,7.1,0,0,0,0.109742,0,0,0,36,0,0,0,57,1,1,1,3,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Denis Simani,D,FC Vaduz,75,6.5,0,0,0,0.0095832,0,0,0,32,0,0,0,53,0,2,1,5,1,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Leon Schaffran,G,FC Vaduz,90,7.6,0,0,0,0.0007338,0,0,0,22,0,0,0,44,0,0,0,0,0,0,0,0,0,3
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Mats Hammerich,M,FC Vaduz,36,7.3,0,0,0,0.0442213,0,0,0,20,0,0,0,26,0,2,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Marcel Monsberger,F,FC Vaduz,90,7.4,1,1,0.3904,0.00992912,4,1,0,20,1,1,1,36,0,0,0,3,2,2,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Luca Mack,M,FC Vaduz,90,7,0,0,0,0.141384,0,0,0,62,1,0,0,81,0,4,2,5,1,1,1,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Liridon Berisha,D,FC Vaduz,90,7.5,0,0,0,0.0286119,0,0,0,38,0,0,0,68,0,2,4,6,2,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Dejan Đokić,F,FC Vaduz,66,6,0,0,0.1438,0.0147195,1,0,0,9,0,0,0,22,0,1,0,1,0,0,1,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Niklas Lang,D,FC Vaduz,15,6.7,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0,1,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Julian Stark,M,FC Vaduz,54,7,1,0,0.9778,0.0156602,1,1,0,31,0,0,0,38,0,1,0,2,1,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Miloš Cocić,F,FC Vaduz,15,6.4,0,0,0,0.0220584,0,0,0,5,0,0,0,11,0,1,0,2,0,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Malik Sawadogo,D,FC Vaduz,90,6.7,0,0,0.0535,0.141698,2,1,0,36,2,0,0,79,1,1,0,4,1,1,1,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Juan Cabrera,M,FC Vaduz,75,6.8,0,0,0.0605,0.0603189,2,1,0,28,1,0,0,48,2,3,1,9,0,1,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Daniel Kasper,F,FC Vaduz,15,6.2,0,0,0,0.0222914,0,0,0,6,0,0,0,9,0,0,0,0,1,0,0,0,0,0
+Swiss Super League,26_27,FC Sion vs FC Vaduz,09/08/2026,Lutfi Dalipi,M,FC Vaduz,90,6.3,0,1,0,0.183061,0,0,0,28,3,0,0,58,2,1,1,4,1,1,1,0,0,0

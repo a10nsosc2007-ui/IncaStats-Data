@@ -1,0 +1,262 @@
+{
+  "schema_version": "incastats.player_current_master.v2",
+  "provider": "sofascore",
+  "generated_at": "2026-08-18T17:09:32.057785Z",
+  "scope": "LEAGUE_ONLY_CURRENT_SEASON",
+  "merge_key": [
+    "Event_ID",
+    "Player_ID"
+  ],
+  "sources": [
+    {
+      "file": "INCASTATS_PLAYER_CURRENT_31_GENERAL_2026-08-18T16-56-54-509Z_46235_filas.zip",
+      "rows": 46235,
+      "note": "Extracción general; Liga 1 Perú quedó parcial por interrupción 403."
+    },
+    {
+      "file": "INCASTATS_PLAYER_CURRENT_31_GENERAL_2026-08-18T17-03-36-950Z_14876_filas.zip",
+      "rows": 14876,
+      "note": "Reextracción completa MLS + Liga 1 Perú; reemplaza duplicados de la primera fuente."
+    }
+  ],
+  "merge_policy": "SECOND_SOURCE_WINS_ON_EVENT_ID_PLAYER_ID",
+  "counts": {
+    "rows": 56787,
+    "unique_events": 1820,
+    "unique_players": 9809,
+    "competitions": 25,
+    "duplicate_rows_removed": 4324
+  },
+  "leagues": [
+    {
+      "competition_id": 131,
+      "season_id": 96187,
+      "league": "Eerste Divisie",
+      "season": "26_27",
+      "rows": 619,
+      "unique_events": 20,
+      "unique_players": 361
+    },
+    {
+      "competition_id": 152,
+      "season_id": 97124,
+      "league": "Liga I",
+      "season": "26_27",
+      "rows": 1214,
+      "unique_events": 39,
+      "unique_players": 343
+    },
+    {
+      "competition_id": 155,
+      "season_id": 87913,
+      "league": "Liga Profesional Argentina",
+      "season": "2026",
+      "rows": 10009,
+      "unique_events": 320,
+      "unique_players": 955
+    },
+    {
+      "competition_id": 18,
+      "season_id": 97037,
+      "league": "Championship",
+      "season": "26_27",
+      "rows": 379,
+      "unique_events": 12,
+      "unique_players": 379
+    },
+    {
+      "competition_id": 182,
+      "season_id": 96109,
+      "league": "Ligue 2",
+      "season": "26_27",
+      "rows": 558,
+      "unique_events": 18,
+      "unique_players": 315
+    },
+    {
+      "competition_id": 20,
+      "season_id": 87809,
+      "league": "Eliteserien",
+      "season": "2026",
+      "rows": 4236,
+      "unique_events": 136,
+      "unique_players": 405
+    },
+    {
+      "competition_id": 215,
+      "season_id": 96589,
+      "league": "Swiss Super League",
+      "season": "26_27",
+      "rows": 571,
+      "unique_events": 18,
+      "unique_players": 228
+    },
+    {
+      "competition_id": 238,
+      "season_id": 97436,
+      "league": "Liga Portugal",
+      "season": "26_27",
+      "rows": 538,
+      "unique_events": 17,
+      "unique_players": 311
+    },
+    {
+      "competition_id": 239,
+      "season_id": 97470,
+      "league": "Liga Portugal 2",
+      "season": "26_27",
+      "rows": 471,
+      "unique_events": 16,
+      "unique_players": 304
+    },
+    {
+      "competition_id": 24,
+      "season_id": 97077,
+      "league": "League One",
+      "season": "26_27",
+      "rows": 366,
+      "unique_events": 12,
+      "unique_players": 366
+    },
+    {
+      "competition_id": 242,
+      "season_id": 86668,
+      "league": "MLS",
+      "season": "2026",
+      "rows": 8739,
+      "unique_events": 284,
+      "unique_players": 782
+    },
+    {
+      "competition_id": 25,
+      "season_id": 97078,
+      "league": "League Two",
+      "season": "26_27",
+      "rows": 353,
+      "unique_events": 12,
+      "unique_players": 353
+    },
+    {
+      "competition_id": 325,
+      "season_id": 87678,
+      "league": "Brasileirão Série A",
+      "season": "2026",
+      "rows": 7083,
+      "unique_events": 224,
+      "unique_players": 675
+    },
+    {
+      "competition_id": 37,
+      "season_id": 96143,
+      "league": "Eredivisie",
+      "season": "26_27",
+      "rows": 569,
+      "unique_events": 18,
+      "unique_players": 333
+    },
+    {
+      "competition_id": 38,
+      "season_id": 96616,
+      "league": "Belgian Pro League",
+      "season": "26_27",
+      "rows": 562,
+      "unique_events": 18,
+      "unique_players": 324
+    },
+    {
+      "competition_id": 39,
+      "season_id": 95785,
+      "league": "Danish Superliga",
+      "season": "26_27",
+      "rows": 692,
+      "unique_events": 22,
+      "unique_players": 243
+    },
+    {
+      "competition_id": 390,
+      "season_id": 89840,
+      "league": "Brasileirão Série B",
+      "season": "2026",
+      "rows": 7008,
+      "unique_events": 220,
+      "unique_players": 667
+    },
+    {
+      "competition_id": 40,
+      "season_id": 87925,
+      "league": "Allsvenskan",
+      "season": "2026",
+      "rows": 4141,
+      "unique_events": 135,
+      "unique_players": 419
+    },
+    {
+      "competition_id": 406,
+      "season_id": 88529,
+      "league": "Liga 1 Perú",
+      "season": "2026",
+      "rows": 6137,
+      "unique_events": 198,
+      "unique_players": 488
+    },
+    {
+      "competition_id": 44,
+      "season_id": 97406,
+      "league": "2. Bundesliga",
+      "season": "26_27",
+      "rows": 566,
+      "unique_events": 18,
+      "unique_players": 315
+    },
+    {
+      "competition_id": 45,
+      "season_id": 97043,
+      "league": "Austrian Bundesliga",
+      "season": "26_27",
+      "rows": 568,
+      "unique_events": 18,
+      "unique_players": 228
+    },
+    {
+      "competition_id": 52,
+      "season_id": 98080,
+      "league": "Süper Lig",
+      "season": "26_27",
+      "rows": 278,
+      "unique_events": 9,
+      "unique_players": 278
+    },
+    {
+      "competition_id": 54,
+      "season_id": 97280,
+      "league": "LaLiga Hypermotion",
+      "season": "26_27",
+      "rows": 350,
+      "unique_events": 11,
+      "unique_players": 350
+    },
+    {
+      "competition_id": 8,
+      "season_id": 97268,
+      "league": "LaLiga EA Sports",
+      "season": "26_27",
+      "rows": 160,
+      "unique_events": 5,
+      "unique_players": 160
+    },
+    {
+      "competition_id": 98,
+      "season_id": 98149,
+      "league": "1. Lig",
+      "season": "26_27",
+      "rows": 620,
+      "unique_events": 20,
+      "unique_players": 358
+    }
+  ],
+  "files": {
+    "extended": "MASTER/PLAYER_MATCH_STATS_CURRENT_EXTENDED.csv",
+    "legacy": "MASTER/PLAYER_MATCH_STATS_CURRENT_MASTER.csv",
+    "by_league": "BY_LEAGUE/"
+  }
+}

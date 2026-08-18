@@ -1,0 +1,26 @@
+[
+  {
+    "key": "league_242",
+    "type": "LEAGUE",
+    "competition_id": 242,
+    "name": "MLS",
+    "country": "EE. UU. / CANADÁ",
+    "season_id": 86668,
+    "season_name": "MLS 2026",
+    "finished_events_found": 284,
+    "pages": 10,
+    "reason": null
+  },
+  {
+    "key": "league_406",
+    "type": "LEAGUE",
+    "competition_id": 406,
+    "name": "Liga 1 Perú",
+    "country": "PERÚ",
+    "season_id": 88529,
+    "season_name": "Liga 1 2026",
+    "finished_events_found": 198,
+    "pages": 7,
+    "reason": null
+  }
+]

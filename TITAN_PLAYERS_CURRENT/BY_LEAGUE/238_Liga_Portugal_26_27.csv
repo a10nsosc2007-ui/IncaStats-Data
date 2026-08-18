@@ -1,0 +1,539 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Joel Robles,G,Estoril Praia,90,6.3,0,0,0,0.00034553,0,0,0,26,0,0,0,35,0,0,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Ferro,D,Estoril Praia,90,6.7,0,0,0,0.00945508,0,0,0,63,0,0,0,73,0,1,2,3,2,0,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,João Carvalho,F,Estoril Praia,90,6.4,0,0,0.177,0.334891,3,0,0,27,3,0,0,49,0,0,0,3,0,3,0,0,1,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Rafik Guitane,F,Estoril Praia,90,6.9,0,0,0.029,0.301934,1,0,0,38,3,0,0,64,2,4,2,6,0,0,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Xeka,M,Estoril Praia,83,6.5,0,0,0.1539,0.0201265,2,0,0,34,2,0,0,49,0,1,1,4,4,2,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Jandro Orellana,M,Estoril Praia,11,6.5,0,0,0,0.00094237,0,0,0,2,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Fernando Medrano,D,Estoril Praia,90,6.8,0,0,0.0123,0.20698,1,0,0,46,2,0,0,61,1,3,1,4,1,0,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Yanis Begraoui,F,Estoril Praia,90,8.3,1,0,0.3634,0.477177,1,1,0,14,0,0,0,24,0,0,0,5,0,4,0,0,1,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Ricard Sánchez,D,Estoril Praia,66,7.2,0,0,0,0.0201774,0,0,0,23,0,0,0,48,0,3,1,4,3,1,1,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Antef Tsoungui,D,Estoril Praia,87,6.5,0,0,0.0027,0.0125945,1,0,0,25,0,0,0,38,0,2,3,2,0,0,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,André Lacximicant,F,Estoril Praia,66,6.6,0,0,0.1672,0.0122895,3,2,0,16,0,0,0,29,0,1,0,5,0,2,0,0,1,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Ismael Sierra Arnal,D,Estoril Praia,90,6.9,0,0,0.1535,0.0142171,2,0,0,92,0,0,0,106,0,1,3,5,1,0,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Fabrício Garcia,F,Estoril Praia,24,6.7,0,0,0,0.0103754,0,0,0,8,0,0,0,11,1,0,0,2,0,1,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Pedro Carvalho,D,Estoril Praia,24,7.3,0,1,0,0.467337,0,0,0,9,1,1,0,17,0,1,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Tiago Brito,M,Estoril Praia,3,0,0,0,0,0.00127579,0,0,0,6,0,0,0,6,0,0,0,0,1,0,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Gil Dias,M,Famalicão,77,6.3,0,1,0.1491,0.00994281,1,1,0,22,1,1,1,34,0,1,0,3,0,1,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Tom Van De Looi,M,Famalicão,90,7,0,0,0.0205,0.282713,1,0,0,38,1,0,0,45,0,3,0,3,1,0,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Lazar Carević,G,Famalicão,90,6.3,0,0,0,0.00011317,0,0,0,34,0,0,0,39,0,0,0,0,0,0,0,0,0,2
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Léo Realpe,D,Famalicão,90,7,0,0,0,0.00383118,0,0,0,67,0,0,0,78,0,2,2,5,0,0,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Óscar Aranda,M,Famalicão,13,6.9,0,0,0,0.00211067,0,0,0,4,0,0,0,11,2,0,0,4,0,2,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Rodrigo Pinheiro,D,Famalicão,90,6.6,0,0,0,0.0670973,0,0,0,47,0,0,0,73,1,1,1,3,2,1,1,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Georgios Koutsias,F,Famalicão,83,6.7,1,0,0.9012,0.00539996,1,1,0,20,1,0,0,29,2,0,0,3,0,0,0,0,1,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Pedro Bondo,D,Famalicão,90,6.8,0,0,0,0.0285487,0,0,0,45,0,0,0,71,0,1,1,5,0,1,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Sorriso,M,Famalicão,77,7.1,0,0,0.1022,0.108094,1,1,0,24,2,1,1,56,2,1,1,8,1,2,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Pedro Santos,M,Famalicão,66,6.3,0,0,0,0.00879787,0,0,0,25,0,0,0,30,0,0,1,0,3,0,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Tamás Szűcs,M,Famalicão,24,6.3,0,0,0,0.00025999,0,0,0,4,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Romeo Beney,F,Famalicão,13,6.4,0,0,0.014,0.0186158,1,0,0,0,0,0,0,3,0,0,0,0,1,0,1,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Finn van Breemen,D,Famalicão,90,6.9,0,0,0,0.0112561,0,0,0,72,0,0,0,85,0,2,3,3,3,0,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Mathias De Amorim,M,Famalicão,90,6.8,0,0,0,0.00421635,0,0,0,28,0,0,0,59,2,6,3,12,2,4,0,0,0,0
+Liga Portugal,26_27,Estoril Praia vs Famalicão,07/08/2026,Umar Abubakar,F,Famalicão,11,6.5,0,0,0.2874,0.00230368,1,0,0,3,0,0,0,7,0,1,0,2,0,1,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Raphael Guzzo,M,CS Marítimo,89,8.1,1,0,0.4993,0.0117566,2,2,0,23,0,0,0,39,1,2,0,6,4,1,1,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Igor Julião,D,CS Marítimo,90,7,0,0,0,0.0199201,0,0,0,18,1,0,0,41,1,3,2,5,0,1,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Paulo Henrique,D,CS Marítimo,90,7,0,0,0.0317,0.0617795,1,0,0,24,0,0,0,46,0,2,1,4,3,0,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Vladan Danilović,M,CS Marítimo,89,7.2,0,0,0.0338,0.0500606,2,0,0,35,0,0,0,41,0,3,0,5,0,0,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Alfonso Pastor,G,CS Marítimo,90,7.2,0,0,0,0.0012609,0,0,0,27,0,0,0,40,0,0,0,0,0,0,0,0,0,4
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Simo Bouzaidi,M,CS Marítimo,82,6.8,0,0,0.1655,0.16324,2,0,0,23,5,0,0,36,1,1,0,4,1,2,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Romain Correia,D,CS Marítimo,90,6.9,0,0,0.1038,0.00196516,1,0,0,48,0,0,0,62,0,0,1,3,0,0,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Tomás Tavares,M,CS Marítimo,11,6.6,0,0,0,0.00018029,0,0,0,2,0,0,0,3,0,0,0,0,0,0,1,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Adrián Butzke,F,CS Marítimo,87,7,0,0,0.1011,0.0118324,2,0,0,16,0,0,0,23,0,1,0,7,0,2,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Samuel Bamba,F,CS Marítimo,8,6.4,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,2,0,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Rafael Fernandes,D,CS Marítimo,90,7.1,0,0,0,0.00090993,0,0,0,38,0,0,0,51,0,0,0,5,1,2,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Rodrigo Andrade,M,CS Marítimo,90,7.3,0,0,0.0485,0.260562,1,0,0,28,1,1,0,39,0,2,0,3,1,1,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Gábor Szalai,D,CS Marítimo,1,0,0,0,0,0.00001543,0,0,0,1,0,0,0,2,0,1,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Yellu Santiago,M,CS Marítimo,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Martín Tejón,M,CS Marítimo,87,7.3,0,1,0.41,0.526699,5,2,0,19,4,1,1,49,3,2,0,10,4,4,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Maurice Boakye,F,CS Marítimo,11,6.5,0,0,0,0,0,0,0,2,0,0,0,7,0,1,0,2,1,0,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,André Geraldes,D,Casa Pia,90,6.4,0,0,0,0.0237799,0,0,0,46,1,0,0,69,0,1,0,5,2,2,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Sebastián Pérez,M,Casa Pia,80,6.6,0,0,0.0327,0.118691,1,0,0,39,1,0,0,50,0,1,0,3,0,2,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Rochinha,M,Casa Pia,90,6.9,0,0,0.1697,0.104532,3,2,0,28,2,0,0,58,1,1,0,5,1,3,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Abdu Conté,M,Casa Pia,66,7.2,0,0,0,0.00665295,0,0,0,37,0,0,0,55,0,2,0,6,0,1,0,0,1,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Lawrence Ofori,M,Casa Pia,90,6.6,0,0,0.0761,0.315999,1,0,0,59,1,1,0,73,1,1,1,4,1,1,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Alassana Jatta,F,Casa Pia,12,6.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Henrique Araújo,F,Casa Pia,90,6.1,0,0,0.3141,0.0404987,2,1,0,17,2,0,1,24,0,0,0,3,0,0,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,David Sousa,D,Casa Pia,90,6.9,0,0,0.0819,0.0128488,2,1,0,79,0,0,0,88,1,0,1,7,1,0,1,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Pedro Rosas,D,Casa Pia,24,6.8,0,0,0,0.00214245,0,0,0,11,0,0,0,24,2,0,0,4,0,0,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,André Gomes,G,Casa Pia,90,7.8,0,0,0,0.00083933,0,0,0,32,0,0,0,43,0,0,0,0,0,0,0,0,0,3
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,João Goulart,D,Casa Pia,80,6.8,0,0,0,0.00654287,0,0,0,69,0,0,0,78,0,1,2,3,2,1,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Oluwakorede Osundina,F,Casa Pia,66,6.3,0,0,0,0.0195513,0,0,0,10,0,0,0,26,1,0,1,3,1,2,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Kevin Prieto,M,Casa Pia,24,6.9,0,0,0,0.00083992,0,0,0,4,0,0,0,16,2,1,0,5,0,2,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Selvi Clúa,M,Casa Pia,10,6.8,0,0,0,0.0242467,0,0,0,5,0,0,0,9,0,0,0,3,0,1,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Gabi Pereira,M,Casa Pia,78,6.7,0,0,0,0.00278974,0,0,0,22,0,0,0,31,0,3,0,4,2,1,0,0,0,0
+Liga Portugal,26_27,CS Marítimo vs Casa Pia,08/08/2026,Domingos Jose Gabriel Bandeira,D,Casa Pia,10,6.7,0,0,0,0.00155766,0,0,0,12,0,0,0,17,0,0,0,1,0,1,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Samu,M,Vitória SC,90,7.1,0,0,0.0183,0.399027,1,0,0,40,3,0,0,59,0,1,0,1,1,0,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Beni Mukendi,M,Vitória SC,90,7.5,0,0,0.0187,0.459291,1,0,0,59,1,0,0,78,2,6,3,8,1,0,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Oliwier Zych,G,Vitória SC,90,6.5,0,0,0,0.00832257,0,0,0,18,0,0,0,25,0,0,0,0,0,0,0,0,0,1
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Telmo Arcanjo,M,Vitória SC,20,7,0,0,0.0667,0.106589,1,0,0,11,1,1,0,18,0,1,0,2,0,1,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Alioune Ndoye,F,Vitória SC,78,6.5,0,0,1.0876,0.0197598,6,0,0,10,1,0,1,26,0,0,0,8,1,2,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Miguel Maga,D,Vitória SC,69,6.9,0,0,0.024,0.211259,1,0,0,29,2,0,0,46,0,1,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,João Mendes,D,Vitória SC,90,7.1,0,0,0.0279,0.059474,1,1,0,57,0,0,0,89,0,0,0,0,1,0,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Thiago Balieiro,D,Vitória SC,90,7.1,0,0,0.0141,0.0260522,1,0,0,76,0,0,0,95,1,3,5,5,1,0,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Gonçalo Nogueira,M,Vitória SC,78,7.1,0,0,0.0341,0.346638,1,0,0,38,3,1,0,46,0,1,0,3,0,1,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Matija Mitrović,M,Vitória SC,12,6.8,0,0,0,0.033865,0,0,0,15,1,0,0,18,0,0,0,0,1,0,1,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Óscar Rivas,D,Vitória SC,90,6.8,0,0,0.0288,0.0225531,1,0,0,82,1,0,0,94,0,1,0,6,0,1,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Lohann Doucet,M,Vitória SC,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Gustavo Silva,F,Vitória SC,89,7.1,0,0,0.5139,0.251472,6,2,0,20,3,1,0,58,2,3,1,9,1,2,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Tony Strata,D,Vitória SC,21,6.5,0,0,0,0.00571599,0,0,0,20,0,0,0,26,0,0,1,0,1,0,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Oumar Camara,F,Vitória SC,70,6.4,0,0,0.3414,0.153031,3,0,0,16,1,0,1,37,1,1,1,2,1,0,1,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Miguel Nogueira,M,Vitória SC,12,6.7,0,0,0.1061,0.00022258,1,0,0,4,0,0,1,9,0,0,1,1,0,0,0,0,1,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Ignacio de Arruabarrena,G,FC Arouca,90,7.4,0,0,0,0.00324321,0,0,0,53,0,0,0,71,0,0,0,1,0,1,1,0,0,3
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Orest Lebedenko,D,FC Arouca,25,6.6,0,0,0,0.00018418,0,0,0,5,0,0,0,16,0,1,1,1,1,0,1,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Tiago Esgaio,D,FC Arouca,90,7.5,0,0,0.0191,0.0130756,1,0,0,24,1,0,0,50,0,2,1,6,0,1,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Ivan Barbero,F,FC Arouca,65,7.5,1,0,0.3725,0.00151403,1,1,0,17,0,0,0,26,0,2,0,4,0,1,0,0,2,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Javi Sánchez,D,FC Arouca,73,7.7,0,0,0,0.00391438,0,0,0,44,0,0,0,61,0,3,0,4,0,0,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Naïs Djouahra,M,FC Arouca,90,7,0,1,0.0355,0.132318,2,1,0,24,1,1,0,46,1,1,4,2,0,0,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Jose Fontán,D,FC Arouca,90,7.8,0,0,0,0.00202003,0,0,0,69,0,0,0,92,0,1,2,3,0,0,0,0,1,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Alfonso Trezza,M,FC Arouca,90,6.4,0,0,0,0.00075915,0,0,0,11,0,0,0,21,0,2,0,3,1,1,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Pablo Gozálbez,M,FC Arouca,20,6.6,0,0,0,0.00496839,0,0,0,6,0,0,0,10,0,1,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Pedro Santos,M,FC Arouca,20,6.6,0,0,0,0.00259674,0,0,0,10,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Diogo Monteiro,D,FC Arouca,20,5.7,0,0,0,0.00148428,0,0,0,8,0,0,0,11,0,0,1,0,3,0,2,1,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Taichi Fukui,M,FC Arouca,90,7,0,0,0,0.0278853,0,0,0,38,1,0,0,57,0,4,2,5,0,1,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Espen Van Ee,M,FC Arouca,70,6.6,0,0,0,0.00420333,0,0,0,22,0,0,0,29,0,1,0,1,2,0,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Hyun-ju Lee,M,FC Arouca,70,6.1,0,0,0,0.00166947,0,0,0,13,0,0,0,25,0,1,0,2,0,1,1,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Dylan Nandín,F,FC Arouca,25,6.7,0,0,0,0.00108746,0,0,0,9,0,0,0,15,1,0,0,4,0,2,0,0,0,0
+Liga Portugal,26_27,Vitória SC vs FC Arouca,08/08/2026,Mateo Flores,M,FC Arouca,65,6.7,0,0,0,0.00146626,0,0,0,27,0,0,0,36,0,1,0,2,0,1,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Rui Silva,G,Sporting CP,90,6.1,0,0,0,0.00004961,0,0,0,17,0,0,0,25,0,0,0,0,0,0,0,0,0,2
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Fotis Ioannidis,F,Sporting CP,61,6.2,1,0,2.206,0.0144815,7,3,0,5,0,0,3,20,0,1,1,3,1,0,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Luis Javier Suárez,F,Sporting CP,29,6.3,0,0,0,0.00009318,0,0,0,5,0,0,0,10,0,0,0,0,1,0,1,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Rodrigo Zalazar,F,Sporting CP,90,9.1,1,1,0.1958,0.706243,3,2,0,26,4,2,0,58,3,1,1,6,0,1,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Eduardo Quaresma,D,Sporting CP,90,8.4,0,0,0,0.373404,0,0,0,72,1,1,0,93,1,4,0,11,2,1,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Geny Catamo,M,Sporting CP,78,6.2,0,1,0.067,0.225972,2,1,0,24,2,1,0,42,4,0,0,5,0,1,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Gonçalo Inácio,D,Sporting CP,90,6.7,0,0,0,0.0156933,0,0,0,67,1,0,0,76,0,1,0,2,0,1,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Luís Guilherme,M,Sporting CP,12,6.7,0,0,0,0.00186121,0,0,0,3,0,0,0,5,1,0,0,2,0,1,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Silas Andersen,M,Sporting CP,29,6.4,0,0,0,0.00061406,0,0,0,4,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Sergi Altimira,M,Sporting CP,90,7.5,0,0,0,0.0533835,0,0,0,71,0,0,0,95,2,7,2,11,2,0,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Issa Doumbia,M,Sporting CP,82,6.4,0,0,0,0.106164,0,0,0,36,1,0,0,50,0,1,0,2,4,1,0,0,1,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Georgios Vagiannidis,D,Sporting CP,78,6.5,0,0,0,0.0732148,0,0,0,30,1,0,0,44,0,0,2,2,2,2,0,0,1,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Iván Fresneda,D,Sporting CP,12,6.3,0,0,0,0.00006242,0,0,0,3,0,0,0,8,0,2,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Rodrigo Dias,D,Sporting CP,90,6.9,0,0,0,0.225831,0,0,0,48,2,1,0,78,2,3,0,11,2,2,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Jesse Derry,F,Sporting CP,8,6.6,0,0,0,0.00234793,0,0,0,3,0,0,0,10,0,0,0,2,0,2,1,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Flávio Gonçalves,F,Sporting CP,61,7.3,0,0,0.1577,0.255897,3,2,0,32,1,0,1,47,2,1,0,5,0,1,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Rafa Soares,D,CF Estrela Amadora,90,6.6,0,0,0,0.0381878,0,0,0,27,1,0,0,41,0,1,0,3,0,0,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Jefferson Encada,D,CF Estrela Amadora,16,6.8,0,0,0,0.00245212,0,0,0,9,0,0,0,18,2,1,1,3,2,0,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Ianis Stoica,F,CF Estrela Amadora,74,6.6,0,1,0.013,0.00770584,1,0,0,19,1,0,0,33,0,0,1,3,1,2,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Sydney van Hooijdonk,F,CF Estrela Amadora,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Luan Patrick,D,CF Estrela Amadora,90,6.9,0,0,0,0.0130641,0,0,0,40,0,0,0,52,0,2,0,4,0,1,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Bernardo Schappo,D,CF Estrela Amadora,90,6.2,0,0,0.0252,0.00200703,1,0,0,38,0,0,0,46,0,1,1,3,1,0,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Abraham Marcus,M,CF Estrela Amadora,89,6.1,0,0,0.8086,0.0403172,2,1,0,22,1,0,1,40,2,0,0,3,1,1,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Léo Linck,G,CF Estrela Amadora,90,7.4,0,0,0,0.00161203,0,0,0,38,0,0,0,48,0,0,0,0,0,0,0,0,0,6
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Lovro Zvonarek,M,CF Estrela Amadora,90,6.6,0,0,0.1707,0.0146224,2,1,0,24,1,0,1,43,1,1,1,6,1,2,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Leandro Antonetti,F,CF Estrela Amadora,89,8,1,0,0.0281,0.116061,1,1,0,21,1,1,0,38,0,2,0,7,0,1,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Max Scholze,D,CF Estrela Amadora,74,6.3,0,0,0,0.0113233,0,0,0,34,0,0,0,55,0,5,0,6,0,1,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Bénito,M,CF Estrela Amadora,16,7.6,0,0,0,0.204998,0,0,0,2,1,1,0,9,0,0,0,0,2,0,1,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Alisson Souza de Jesus,M,CF Estrela Amadora,1,0,0,0,0,0.00232574,0,0,0,3,0,0,0,4,0,0,0,1,0,1,0,0,1,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Santiago Serra,M,CF Estrela Amadora,65,6.4,0,0,0,0.00657603,0,0,0,29,0,0,0,41,1,2,1,4,2,1,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Robinho,M,CF Estrela Amadora,25,6.8,0,0,0,0.0143906,0,0,0,12,0,0,0,15,0,0,0,1,0,1,0,0,0,0
+Liga Portugal,26_27,CF Estrela Amadora vs Sporting CP,08/08/2026,Eddy Doué,M,CF Estrela Amadora,90,6.7,0,0,0.0514,0.0107639,1,0,0,31,0,0,0,55,3,4,1,11,3,2,1,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,André Silva,F,FC Porto,82,7.9,1,0,0.7884,0.0183726,1,1,0,13,0,0,0,27,0,1,0,3,1,2,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Jan Bednarek,D,FC Porto,90,7.5,0,0,0.3196,0.124747,1,0,0,58,1,0,1,67,0,0,2,2,0,1,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Pablo Rosario,M,FC Porto,32,7.2,0,0,0,0.054599,0,0,0,19,0,0,0,31,1,1,2,3,1,1,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Diogo Costa,G,FC Porto,90,7.3,0,0,0,0.0002151,0,0,0,25,0,0,0,34,0,0,0,0,0,0,0,0,0,5
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Pepê,F,FC Porto,90,6.8,0,0,0.2027,0.0266869,1,0,0,26,0,0,1,42,0,2,0,3,0,1,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Nehuén Pérez,D,FC Porto,16,6.9,0,0,0,0.00340452,0,0,0,9,0,0,0,15,0,0,1,1,0,0,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Jakub Kiwior,D,FC Porto,90,7.7,0,0,0.2166,0.00834049,2,0,0,60,0,0,0,78,0,3,1,8,4,0,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Zaidu Sanusi,D,FC Porto,90,7.4,0,0,0,0.0403008,0,0,0,52,0,0,0,72,0,2,1,4,1,0,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Borja Sainz,F,FC Porto,32,6.7,0,0,0,0.106116,0,0,0,8,1,1,0,17,0,0,0,1,1,1,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Gabri Veiga,M,FC Porto,75,7.1,1,0,0.9753,0.0898106,2,1,0,29,1,0,0,57,0,2,2,3,3,1,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Alan Varela,M,FC Porto,58,6.7,0,0,0,0.0108249,0,0,0,31,0,0,0,38,0,2,0,3,1,1,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Martim Fernandes,D,FC Porto,74,6.9,0,0,0,0.0335491,0,0,0,25,0,0,0,48,0,0,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Victor Froholdt,M,FC Porto,90,7.1,0,0,0,0.132819,0,0,0,21,0,0,0,30,1,2,0,5,0,1,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Deniz Gül,F,FC Porto,8,6.5,0,0,0,0.00025346,0,0,0,4,0,0,0,8,0,1,0,2,1,0,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Rodrigo Mora,M,FC Porto,15,6.6,0,0,0,0.180794,0,0,0,4,1,1,0,11,0,0,1,0,0,0,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,William Gomes,F,FC Porto,58,6.6,0,0,0.1061,0.0111538,2,1,0,13,0,0,0,33,1,1,0,3,0,1,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Nabil Touaizi,M,FC Alverca,90,6.2,0,0,0,0.0403383,0,0,0,29,1,0,0,50,1,2,0,4,1,0,1,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Marco Essimi,M,FC Alverca,11,6.6,0,0,0,0.00205091,0,0,0,6,1,0,0,11,1,0,0,2,0,1,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Chiquinho,F,FC Alverca,90,7.6,0,0,0.0806,0.31624,3,1,0,20,3,1,0,60,2,3,1,12,1,6,1,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Matheus Mendes,G,FC Alverca,90,5.5,0,0,0,0.00032488,0,0,0,23,0,0,0,32,0,0,0,0,1,0,1,0,0,1
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Ian Luccas,M,FC Alverca,74,6.2,0,0,1.2941,0.00718634,4,1,0,25,1,0,3,42,2,1,1,3,1,0,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Figueiredo,F,FC Alverca,79,6.7,0,0,0.0874,0.033514,3,0,0,24,0,0,0,40,1,2,0,6,2,2,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Francisco Chissumba,M,FC Alverca,30,6.7,0,0,0,0.00060979,0,0,0,8,1,0,0,11,1,0,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Bastien Meupiyou,D,FC Alverca,90,6.7,0,0,0,0.00977504,0,0,0,43,0,0,0,54,0,3,0,4,0,1,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Vivaldo,F,FC Alverca,60,6.2,0,0,0.0393,0.00648032,1,1,0,7,1,0,0,16,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Steven Baseya,D,FC Alverca,90,6.6,0,0,0.0328,0.00233052,1,0,0,50,0,0,0,71,0,3,2,5,0,2,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Yaya Bojang,D,FC Alverca,60,5.5,0,0,0.0084,0.00161199,1,1,0,26,0,0,0,32,0,0,0,3,2,1,1,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Samy Jr Merheg,F,FC Alverca,30,6.7,0,0,0,0.00156827,0,0,0,6,0,0,0,13,1,1,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Isaac James,M,FC Alverca,90,6.5,0,0,0,0.0222347,0,0,0,28,1,0,0,45,1,1,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Davy Gui,M,FC Alverca,90,6.5,0,0,0.0575,0.004172,2,1,0,37,0,0,0,50,0,6,0,6,2,0,0,0,0,0
+Liga Portugal,26_27,FC Porto vs FC Alverca,09/08/2026,Zakaria Kassary,M,FC Alverca,16,6.7,0,0,0,0.00491494,0,0,0,7,0,0,0,8,0,1,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Ricardo Esgaio,D,Gil Vicente,90,7.8,0,0,0,0.289157,0,0,0,56,1,1,0,89,1,4,1,6,0,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Héctor Hernández,F,Gil Vicente,14,7,1,0,0.9049,0.00369202,2,2,0,3,0,0,0,6,0,1,0,1,1,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Jonathan Buatu,D,Gil Vicente,90,7.7,0,0,0,0.0277013,0,0,0,75,0,0,0,85,0,3,0,6,0,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Weverson,D,Gil Vicente,19,6.6,0,0,0.0261,0.0003634,1,0,0,6,0,0,0,11,0,0,0,0,1,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Lucão,G,Gil Vicente,90,7,0,0,0,0.00177673,0,0,0,34,0,0,0,46,0,0,0,0,0,0,1,0,0,2
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Facundo Cáseres,M,Gil Vicente,65,7,0,0,0,0.119214,0,0,0,42,2,0,0,48,0,0,0,1,1,1,1,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Andreas Lausen,M,Gil Vicente,76,6.5,0,0,0,0.0878868,0,0,0,40,0,0,0,58,0,2,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Carlos Eduardo,F,Gil Vicente,90,6.4,0,0,0.5303,0.0003685,3,1,0,7,0,0,2,20,0,1,0,4,1,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Joelson Fernandes,M,Gil Vicente,90,6.8,0,0,0.0415,0.0220191,2,0,0,22,0,0,0,47,0,2,0,3,2,1,0,0,2,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Santi García,M,Gil Vicente,90,7.3,0,0,0.0176,0.106831,1,0,0,33,1,0,0,56,2,1,0,6,1,3,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Marvin Elimbi Gilbert,D,Gil Vicente,90,6.9,0,0,0,0.0272075,0,0,0,67,0,0,0,79,1,0,0,2,2,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Zé Carlos,M,Gil Vicente,25,7.1,0,0,0,0.0689129,0,0,0,31,2,0,0,35,1,1,0,2,1,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Gil Martins,M,Gil Vicente,77,6.1,0,0,0.0435,0.00817503,1,0,0,22,0,0,0,35,0,0,0,0,3,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Tidjany Touré,M,Gil Vicente,13,7.1,0,0,0.0984,0.0112588,3,2,1,6,0,0,0,15,1,0,0,2,0,1,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,David Moreira,D,Gil Vicente,46,6.7,0,0,0,0.00879836,0,0,0,27,0,0,0,38,0,0,0,1,1,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,José Silva,D,Gil Vicente,25,7,0,0,0,0.0460736,0,0,0,16,1,0,0,29,1,1,0,3,0,1,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Jakub Brabec,D,Rio Ave,16,6.2,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,1,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Dario Špikić,F,Rio Ave,16,6.6,0,0,0,0.00008052,0,0,0,3,0,0,0,5,0,1,1,1,0,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Marios Vrousai,M,Rio Ave,8,6.4,0,0,0.0308,0.00339052,1,1,0,3,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Georgios Liavas,M,Rio Ave,90,7,0,0,0,0.0409223,0,0,0,32,0,0,0,58,1,4,2,7,1,1,1,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Roland Galčík,F,Rio Ave,50,7.1,0,0,0.0282,0.0712693,1,0,0,12,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Diogo Nascimento,M,Rio Ave,83,6.6,0,0,0,0.00631427,0,0,0,26,0,0,0,33,0,0,0,1,1,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Ennio Van Der Gouw,G,Rio Ave,90,8.2,0,0,0,0.00387461,0,0,0,44,0,0,0,53,0,0,0,0,0,0,0,0,0,4
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Andreas Ndoj,M,Rio Ave,47,5.7,0,0,0,0.00496501,0,0,0,11,0,0,0,16,0,1,0,1,1,0,0,1,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Nelson Abbey,D,Rio Ave,90,6.8,0,0,0,0.00229818,0,0,0,20,0,0,0,52,1,5,2,11,3,3,1,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Tamblé Monteiro,F,Rio Ave,64,6.8,0,0,0,0.0977749,0,0,0,19,1,0,0,32,0,0,0,7,0,1,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Ryan Guilherme,M,Rio Ave,26,6.6,0,0,0,0.00051041,0,0,0,3,0,0,0,7,0,0,0,1,0,1,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Diogo Bezerra,M,Rio Ave,83,6.7,0,0,0.1087,0.103394,3,0,0,15,0,0,1,45,3,1,2,5,0,1,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Tamás Nikitscher,M,Rio Ave,40,6.9,0,0,0,0.00061147,0,0,0,7,0,0,0,18,0,3,0,6,2,3,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Francisco Petrasso,D,Rio Ave,90,6.8,0,0,0,0.0195893,0,0,0,38,0,0,0,50,0,0,0,2,1,0,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Jalen Blesa,F,Rio Ave,82,6.4,0,0,0.0258,0.0180386,1,1,0,14,1,0,0,32,0,1,0,4,0,3,0,0,0,0
+Liga Portugal,26_27,Gil Vicente vs Rio Ave,09/08/2026,Gustavo Mancha,D,Rio Ave,90,6.8,0,0,0,0.00360968,0,0,0,37,0,0,0,51,0,1,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,João Moutinho,M,Sporting Braga,1,0,0,0,0,0.0106386,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Ricardo Horta,F,Sporting Braga,57,6.4,0,0,0.2098,0.0413217,3,0,0,39,1,0,1,53,1,1,1,5,0,3,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Victor Gómez,M,Sporting Braga,45,6.5,0,0,0.0358,0.0613271,1,0,0,24,1,0,0,46,0,4,2,5,1,1,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Vítor Carvalho,D,Sporting Braga,90,7.3,0,1,0,0.219147,0,0,0,88,1,1,0,98,0,0,1,5,0,0,0,0,1,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Fran Navarro,F,Sporting Braga,90,7.6,1,0,0.1317,0.0383951,1,1,0,18,1,0,0,30,0,2,0,4,4,1,0,0,1,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Gustaf Lagerbielke,D,Sporting Braga,90,6.8,0,0,0.3552,0.0274762,1,0,0,84,0,0,1,99,1,2,0,5,0,0,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Bright Arrey-Mbi,D,Sporting Braga,42,6.5,0,0,0,0.00911206,0,0,0,25,0,0,0,33,0,1,0,3,0,0,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Adrian Bajrami,D,Sporting Braga,48,6.5,0,0,0,0.0115534,0,0,0,41,0,0,0,47,0,2,1,4,2,1,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Pau Víctor,F,Sporting Braga,33,7.1,1,0,0.2811,0.00434864,1,1,0,10,0,0,0,22,0,0,0,2,3,1,1,0,1,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Gabriel Silva,F,Sporting Braga,90,6.7,0,0,0.0383,0.0811251,1,0,0,41,1,1,0,69,1,3,1,9,1,4,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Denis Huseinbašić,M,Sporting Braga,33,6.2,0,0,0.0394,0.00025182,1,0,1,8,0,0,0,15,0,0,0,1,1,1,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Jean-Baptiste Gorby,M,Sporting Braga,90,6.4,0,0,0.0552,0.0496459,1,0,0,73,0,0,0,79,0,1,0,3,3,0,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Diogo Travassos,D,Sporting Braga,45,6.3,0,0,0.0889,0.0431894,1,1,0,21,1,0,0,31,1,1,0,3,2,1,1,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Demir Ege Tıknaz,M,Sporting Braga,89,7.5,0,1,0.0794,0.0650712,1,1,0,75,1,1,0,94,1,2,4,6,1,0,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Bernardo Fontes,G,Sporting Braga,90,5.4,0,0,0,0.00003118,0,0,0,29,0,0,0,36,0,0,0,0,0,0,0,0,0,1
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Mario Dorgeles,M,Sporting Braga,57,6.7,0,0,0.0218,0.0724996,1,0,0,37,1,0,0,47,0,2,0,4,2,1,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,André Ferreira,G,Moreirense,90,5.9,0,0,0,0.00252544,0,0,0,42,0,0,0,46,0,0,0,0,0,0,0,0,0,2
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Nile John,M,Moreirense,75,7.3,1,0,0.0695,0.005533,2,1,0,16,1,0,0,32,0,0,4,1,2,1,1,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Guilherme Liberato,M,Moreirense,75,6.7,0,0,0,0.0109712,0,0,0,25,0,0,0,36,1,2,1,6,1,3,1,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Kiko Bondoso,M,Moreirense,31,6.6,0,0,0,0.020813,0,0,0,12,0,0,0,21,0,0,0,3,1,3,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Rodrigo Alonso,M,Moreirense,67,6,0,0,0,0.00207048,0,0,0,14,0,0,0,19,0,0,1,1,5,1,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Gilberto Batista,D,Moreirense,90,6.6,0,0,0,0.0233256,0,0,0,65,0,0,0,79,0,4,2,6,1,1,1,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Mateja Stjepanović,M,Moreirense,15,7,0,0,0,0.00050347,0,0,0,6,0,0,0,13,0,1,1,3,0,2,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Yan Maranhão,F,Moreirense,15,6.4,0,0,0,0.0000241,0,0,0,4,0,0,0,7,0,0,0,1,1,0,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,João Veloso,M,Moreirense,23,7.7,1,0,0.0577,0.00032006,2,1,0,7,0,0,0,17,2,0,0,3,0,1,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Kiko,D,Moreirense,90,6.3,0,0,0.0155,0.0198675,1,0,0,40,1,0,0,67,0,1,5,3,0,1,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Landerson,F,Moreirense,90,6.2,0,0,0,0.00365952,0,0,0,11,1,0,0,32,0,2,2,7,0,2,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Leandro Santos,D,Moreirense,90,6.7,0,0,0.0307,0.0763542,1,0,0,30,1,0,0,65,1,3,0,6,1,1,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Afonso Vieira,F,Moreirense,59,6.2,0,0,0,0.00420121,0,0,0,10,0,0,0,21,0,1,4,1,1,0,0,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Kevyn Monteiro,D,Moreirense,90,6.2,0,0,0,0.00262041,0,0,0,42,0,0,0,65,0,0,1,4,2,3,1,0,0,0
+Liga Portugal,26_27,Moreirense vs Sporting Braga,09/08/2026,Alexandre Parsemain,F,Moreirense,90,6.2,0,1,0.0506,0.00272923,1,1,0,16,2,0,0,24,0,1,1,3,0,0,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Rafa Silva,M,Benfica,76,7.1,0,0,0.3251,0.133001,2,1,0,27,2,1,0,36,3,0,0,3,1,0,0,0,1,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Clément Lenglet,D,Benfica,90,7.5,0,0,0.0227,0.442638,1,0,0,74,2,1,0,82,0,1,0,5,2,0,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Vangelis Pavlidis,F,Benfica,90,7.5,1,0,1.2535,0.0444212,7,3,1,22,0,0,2,46,2,1,0,6,1,1,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Dodi Lukebakio,M,Benfica,14,6.7,0,0,0.1131,0.00583314,2,1,1,6,0,0,0,13,0,0,0,1,0,1,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Alexander Bah,D,Benfica,82,7,0,0,0.3617,0.102653,3,1,0,50,1,0,0,70,1,1,2,4,1,2,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Leandro Barreiro,M,Benfica,76,6.8,0,0,0.3809,0.0246752,1,1,0,23,2,0,1,36,1,4,0,6,1,1,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Jhon Durán,F,Benfica,8,6.3,0,0,0.0887,0.012166,1,0,0,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Tomás Araújo,D,Benfica,90,6.8,0,0,0.048,0.0228183,1,0,0,77,0,0,0,88,0,1,1,3,3,0,1,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Samuel Soares,G,Benfica,90,7.3,0,0,0,0.00041934,0,0,0,17,0,0,0,23,0,0,0,0,0,0,0,0,0,2
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Samuel Dahl,D,Benfica,90,6.2,0,0,0,0.0276456,0,0,0,51,1,0,0,73,0,2,1,3,3,0,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Richard Ríos,M,Benfica,14,6.9,0,0,0,0.0178569,0,0,0,6,0,0,0,10,1,0,0,3,0,2,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Enzo Barrenechea,M,Benfica,90,7.6,0,1,0,0.0616135,0,0,0,72,3,1,0,83,0,2,0,6,0,3,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Andreas Schjelderup,M,Benfica,26,7.4,0,0,0.0618,0.229729,1,0,1,17,1,0,0,26,1,0,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Amar Dedić,D,Benfica,8,6.8,0,0,0,0.0648215,0,0,0,8,1,0,0,11,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Georgiy Sudakov,M,Benfica,64,6.4,0,0,0.2374,0.0974288,4,1,0,25,1,0,0,39,1,0,0,2,2,0,1,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Gianluca Prestianni,M,Benfica,82,9.7,1,1,0.5625,0.609417,5,3,1,37,4,0,1,57,4,1,0,8,0,3,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Cihan Kahraman,M,Académico Viseu FC,73,6.9,0,1,0,0.279942,0,0,0,19,2,1,0,30,1,1,2,3,2,1,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Anthony Correia,D,Académico Viseu FC,90,6.8,0,0,0,0.00043192,0,0,0,41,0,0,0,53,0,0,0,1,1,0,1,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Cristian Ferreira,M,Académico Viseu FC,17,6.6,0,0,0,0.00234883,0,0,0,2,0,0,0,5,0,0,1,0,0,0,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,André Ceitil,M,Académico Viseu FC,27,6.5,0,0,0,0.00001172,0,0,0,2,0,0,0,9,0,0,1,0,1,0,1,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,André Clóvis,F,Académico Viseu FC,78,7.5,1,0,0.4291,0.0094723,3,2,0,7,1,0,0,19,0,0,0,3,1,3,0,0,1,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Dominik Steczyk,F,Académico Viseu FC,12,6.4,0,0,0,0.00174437,0,0,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Ewerton,G,Académico Viseu FC,90,8.7,0,0,0,0.00339303,0,0,0,39,0,0,0,58,0,0,0,0,0,0,0,0,0,8
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Robinho,D,Académico Viseu FC,90,7.1,0,1,0,0.122575,0,0,0,36,2,1,0,57,1,1,2,4,0,1,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Soufiane Messeguem,M,Académico Viseu FC,90,6.1,0,0,0,0.0112043,0,0,0,17,0,0,0,30,0,0,1,1,1,1,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Álvaro Zamora,M,Académico Viseu FC,73,6.7,0,0,0.0317,0.0132781,1,0,1,19,0,0,0,27,0,0,1,2,1,2,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Rúben Pereira,D,Académico Viseu FC,73,8.6,1,0,0.4822,0.0827123,2,2,0,37,0,0,1,51,0,1,1,5,0,0,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Pedro Barcelos,D,Académico Viseu FC,17,6.9,0,0,0,0.00017568,0,0,0,4,0,0,0,8,0,1,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,João Guilherme,M,Académico Viseu FC,90,7.5,0,0,0.1276,0.0037508,2,0,0,18,1,0,0,37,0,3,0,8,3,3,0,0,1,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Igor Milioransa,D,Académico Viseu FC,90,5.9,0,0,0,0.0057853,0,0,0,43,0,0,0,61,2,0,0,2,1,0,1,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Alejandro Mestanza,M,Académico Viseu FC,63,6.9,0,0,0,0.00137436,0,0,0,23,0,0,0,33,1,1,1,3,1,1,1,0,0,0
+Liga Portugal,26_27,Benfica vs Académico Viseu FC,09/08/2026,Lorougnon Gohi,F,Académico Viseu FC,17,6.5,0,0,0,0.00159343,0,0,0,5,0,0,0,9,0,0,0,2,1,0,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Gonçalo Paciência,F,Santa Clara,90,8.3,2,0,0.9951,0.00226301,7,3,0,14,0,0,1,31,2,1,0,8,0,2,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Lucas França,G,Santa Clara,90,6.5,0,0,0,0.00003888,0,0,0,23,0,0,0,32,0,0,0,1,0,0,0,0,0,2
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Pedro Pacheco,D,Santa Clara,90,6.4,0,0,0.013,0.00827662,1,0,0,59,0,0,0,71,0,2,0,3,1,1,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Pedro Ferreira,M,Santa Clara,90,6.7,0,0,0.0374,0.00985291,1,0,0,52,1,0,0,62,0,3,0,5,3,0,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Guilherme Romão,D,Santa Clara,90,6,0,0,0,0.0308439,0,0,0,39,0,0,0,63,0,0,1,4,1,1,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Diogo Calila,D,Santa Clara,85,6.9,0,1,0,0.189917,0,0,0,36,3,1,0,69,0,2,2,6,0,3,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Welinton Torrao,M,Santa Clara,22,6.3,0,0,0,0.00269817,0,0,0,6,0,0,0,13,0,0,0,2,2,1,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Lucas Soares,M,Santa Clara,11,6.8,0,0,0.0601,0.00534132,1,0,0,11,0,0,0,18,1,0,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Vinícius Lopes,F,Santa Clara,68,6.1,0,0,0.3974,0.00024718,1,1,0,9,0,0,1,20,0,2,0,3,2,1,1,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Rildo,F,Santa Clara,11,6.4,0,0,0.0539,0.00297727,1,0,0,4,0,0,0,6,0,0,0,0,1,0,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Daniel Borges,M,Santa Clara,79,6.5,0,0,0.1135,0.00337,2,1,0,23,1,0,0,36,2,0,1,6,2,2,1,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Sidney Lima,D,Santa Clara,90,6.6,0,0,0.0173,0.00559051,1,0,0,60,0,0,0,75,0,0,2,4,0,1,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Tiago Ribeiro,M,Santa Clara,22,6.6,0,0,0.0367,0.00468677,1,1,0,11,0,0,0,15,0,0,1,0,1,0,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Luis Fernando,F,Santa Clara,10,6.5,0,0,0,0.00618357,0,0,0,8,1,0,0,9,0,0,0,0,1,0,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Sorriso,F,Santa Clara,80,7.1,0,0,0.1231,0.0909875,3,1,0,14,2,0,0,31,2,0,1,3,0,1,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,José Tavares,M,Santa Clara,68,6.7,0,0,0,0.00349246,0,0,0,20,1,0,0,32,0,3,0,7,1,1,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Léo Santos,D,CD Nacional,90,6.6,0,0,0.1295,0.0825988,3,0,0,50,0,0,0,63,1,0,1,5,1,0,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Liziero,M,CD Nacional,90,7.2,1,0,0.8361,0.0237217,2,2,0,37,1,0,0,56,0,4,1,7,3,3,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Filipe Soares,M,CD Nacional,29,6.6,0,0,0,0.0174565,0,0,0,11,0,0,0,15,1,1,0,4,1,2,1,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Miguel Baeza,M,CD Nacional,72,7.4,1,0,0.1346,0.0336038,1,1,0,18,1,0,0,25,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Wesley Gasolina,D,CD Nacional,73,6.8,0,0,0.0528,0.0970831,2,0,0,26,1,0,0,48,0,2,3,3,2,1,1,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Stavros Gavriel,M,CD Nacional,18,6.9,0,0,0,0.00377158,0,0,0,2,0,0,0,6,0,1,0,3,0,2,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Matheus Dias,M,CD Nacional,90,6.8,0,0,0,0.00472394,0,0,0,51,0,0,0,61,0,0,0,3,0,1,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Ze Vitor,D,CD Nacional,90,7.1,0,0,0,0.00426134,0,0,0,59,0,0,0,77,0,3,0,7,0,0,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Daniel Júnior,M,CD Nacional,80,6.9,0,0,0,0.164488,0,0,0,23,4,0,0,39,3,1,0,6,0,2,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Daniel De la Cruz,M,CD Nacional,17,6.8,0,0,0,6e-7,0,0,0,3,0,0,0,10,1,0,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Markus Jensen,M,CD Nacional,80,7,0,0,0,0.023561,0,0,0,15,1,0,0,46,2,1,1,5,2,2,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Joel Silva,M,CD Nacional,61,6.3,0,0,0,0.00502607,0,0,0,19,0,0,0,25,0,0,0,1,1,0,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Renato Marin,G,CD Nacional,90,6.2,0,0,0,0.00141627,0,0,0,24,0,0,0,35,0,0,0,0,0,0,0,0,0,4
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Pablo Messias Cardozo,F,CD Nacional,90,6.7,0,0,0.0784,0.00680837,2,1,0,27,0,0,0,42,0,0,0,9,4,1,0,0,1,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Deivison Souza Brito,M,CD Nacional,10,6.7,0,0,0,0.00411537,0,0,0,6,0,0,0,13,0,1,0,3,0,0,0,0,0,0
+Liga Portugal,26_27,Santa Clara vs CD Nacional,10/08/2026,Mateus Jose Iseppe,M,CD Nacional,10,6.6,0,0,0,0.0058842,0,0,0,2,0,0,0,6,0,0,0,1,0,1,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Rui Silva,G,Sporting CP,90,6.2,0,0,0,0.00084772,0,0,0,48,0,0,0,56,0,0,1,0,0,0,0,0,0,1
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Fotis Ioannidis,F,Sporting CP,75,8.4,1,2,0.3642,0.00481397,1,1,0,11,2,1,0,20,1,0,0,3,2,1,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Luis Javier Suárez,F,Sporting CP,24,6.5,0,0,0,0.00020304,0,0,0,3,0,0,0,8,0,0,0,2,1,2,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Maximiliano Araújo,D,Sporting CP,90,6.1,0,0,0,0.00600222,0,0,0,41,0,0,0,66,0,2,2,4,2,2,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Rodrigo Zalazar,F,Sporting CP,90,5.7,0,0,0,0.0156869,0,0,0,34,0,0,0,53,1,2,0,4,0,0,0,0,1,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Eduardo Quaresma,D,Sporting CP,90,6.6,0,0,0,0.00358897,0,0,0,73,0,0,0,85,1,0,1,5,0,2,1,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Geny Catamo,M,Sporting CP,66,7.5,0,1,0.0597,0.381187,1,0,0,24,1,1,0,44,1,1,0,5,1,3,1,0,1,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Gonçalo Inácio,D,Sporting CP,90,6.6,0,0,0,0.00536134,0,0,0,78,0,0,0,92,0,0,3,3,0,0,1,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Luís Guilherme,M,Sporting CP,24,6.8,0,0,0,0.0025774,0,0,0,9,0,0,0,14,0,1,0,3,0,1,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Sergi Altimira,M,Sporting CP,90,8.1,1,0,0.0338,0.0108659,1,1,0,72,0,0,0,90,0,4,2,7,1,2,1,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Issa Doumbia,M,Sporting CP,90,7,0,0,0,0.0116497,0,0,0,50,1,0,0,67,2,4,0,8,1,0,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Georgios Vagiannidis,D,Sporting CP,83,6.6,0,0,0,0.00989101,0,0,0,41,0,0,0,63,1,2,2,6,2,3,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Iván Fresneda,D,Sporting CP,13,6.6,0,0,0,0.00353795,0,0,0,9,0,0,0,13,0,0,0,0,1,0,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Jesse Derry,F,Sporting CP,15,6.7,0,0,0,0.00065509,0,0,0,2,0,0,0,8,1,1,1,3,0,1,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Flávio Gonçalves,F,Sporting CP,66,7.5,1,0,0.6824,0.0182264,2,1,0,17,0,0,0,31,1,0,0,4,1,3,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Samu,M,Vitória SC,88,8,1,0,0.5706,0.156809,5,2,0,21,1,1,1,38,0,4,0,4,1,0,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Beni Mukendi,M,Vitória SC,45,5.8,0,0,0,0.00735859,0,0,0,18,0,0,0,20,0,0,0,0,1,0,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Oliwier Zych,G,Vitória SC,90,5.4,0,0,0,0.00037185,0,0,0,26,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Alioune Ndoye,F,Vitória SC,90,6.8,1,0,0.5283,0.0607849,3,1,0,16,1,0,1,30,0,0,0,5,4,0,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Miguel Maga,D,Vitória SC,45,5.9,0,0,0,0.0110504,0,0,0,23,0,0,0,27,0,0,0,1,1,1,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,João Mendes,D,Vitória SC,90,6.4,0,0,0,0.0179497,0,0,0,35,1,0,0,54,0,5,2,7,2,1,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Thiago Balieiro,D,Vitória SC,90,5.9,0,0,0,0.00424896,0,0,0,61,0,0,0,70,0,1,0,3,1,1,1,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Gonçalo Nogueira,M,Vitória SC,76,6.6,0,0,0.0543,0.0435378,1,0,0,28,1,0,0,38,0,3,0,4,1,1,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Óscar Rivas,D,Vitória SC,90,6.2,0,0,0,0.0310043,0,0,0,55,0,0,0,69,1,2,1,5,2,1,1,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Lohann Doucet,M,Vitória SC,45,6.8,0,0,0,0.0187941,0,0,0,33,0,0,0,36,0,0,0,1,1,0,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Patrick Ouotro,F,Vitória SC,8,6.5,0,0,0,0.00029108,0,0,0,3,0,0,0,5,0,0,0,2,0,1,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Gustavo Silva,F,Vitória SC,90,6.6,0,0,0.0891,0.0408885,3,0,0,25,0,0,0,57,1,6,2,13,3,2,1,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Tony Strata,D,Vitória SC,45,7.7,0,1,0,0.2492,0,0,0,24,3,1,0,43,0,4,1,5,0,1,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Oumar Camara,F,Vitória SC,45,6.6,0,0,0,0.0915658,0,0,0,9,1,0,0,19,1,2,0,4,1,1,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Santi Verdi,M,Vitória SC,14,6.4,0,0,0,0.0098651,0,0,0,8,0,0,0,10,0,0,0,0,2,0,0,0,0,0
+Liga Portugal,26_27,Sporting CP vs Vitória SC,14/08/2026,Miguel Nogueira,M,Vitória SC,45,6.6,0,1,0,0.0338494,0,0,0,13,1,0,0,20,0,0,1,2,1,2,1,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Rafa Soares,D,CF Estrela Amadora,89,6.3,0,2,0,0.15404,0,0,0,37,2,2,0,54,0,3,1,3,1,0,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Jefferson Encada,D,CF Estrela Amadora,64,6.5,0,0,0,0.00437933,0,0,0,21,0,0,0,40,0,2,0,3,0,1,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Ianis Stoica,F,CF Estrela Amadora,64,6.5,0,0,0.0166,0.0489794,1,1,0,18,1,1,0,28,0,1,1,2,1,1,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Sydney van Hooijdonk,F,CF Estrela Amadora,9,6.3,0,0,0,0.00155788,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Luan Patrick,D,CF Estrela Amadora,90,6.8,0,0,0,0.0135119,0,0,0,69,0,0,0,80,0,1,3,2,0,0,1,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Abraham Marcus,M,CF Estrela Amadora,90,8.1,1,0,0.1291,0.372156,2,2,0,25,2,1,0,49,2,1,0,7,1,1,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Léo Linck,G,CF Estrela Amadora,90,6.8,0,0,0,0.00863475,0,0,0,33,0,0,0,42,0,0,0,1,0,1,0,0,0,2
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Lovro Zvonarek,M,CF Estrela Amadora,90,6,0,0,0,0.0150165,0,0,0,22,0,0,0,30,0,1,0,1,2,0,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Stefan Leković,D,CF Estrela Amadora,90,6.7,0,0,0,0.00418971,0,0,0,53,0,0,0,62,0,1,0,7,1,2,1,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Leandro Antonetti,F,CF Estrela Amadora,88,7,1,0,0.9029,0.00696354,5,3,0,8,0,0,3,22,1,1,0,3,3,1,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Max Scholze,D,CF Estrela Amadora,26,6.7,0,0,0,0.00719541,0,0,0,16,0,0,0,24,0,1,1,2,0,0,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Lucas Mincarelli,D,CF Estrela Amadora,1,0,0,0,0,0.00061815,0,0,0,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Bénito,M,CF Estrela Amadora,26,6.9,0,0,0.0204,0.111699,1,0,0,8,1,0,0,15,0,0,0,1,0,1,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Emerson Pedro Vanga,M,CF Estrela Amadora,26,6.5,0,0,0,0.0335893,0,0,0,11,1,0,0,16,1,0,0,1,1,0,1,0,1,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Robinho,M,CF Estrela Amadora,64,6.7,0,0,0.443,0.0212414,1,1,1,21,0,0,0,28,1,1,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Eddy Doué,M,CF Estrela Amadora,90,7,0,0,0,0.0149599,0,0,0,49,1,0,0,65,0,1,2,6,1,2,1,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Nabil Touaizi,M,FC Alverca,90,6.9,0,0,0.1312,0.0861608,3,1,0,20,1,0,0,49,2,2,2,4,1,0,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Marco Essimi,M,FC Alverca,14,6.6,0,0,0.0312,0.0023136,1,0,1,2,0,0,0,5,0,1,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Chiquinho,F,FC Alverca,74,6.4,0,0,0.048,0.0618835,2,0,0,6,3,0,0,36,2,3,0,8,2,2,0,1,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Matheus Mendes,G,FC Alverca,90,6.8,0,0,0,0.00059796,0,0,0,22,0,0,0,30,0,0,0,0,0,0,0,0,0,5
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Ian Luccas,M,FC Alverca,83,7.4,1,0,0.2294,0.0242695,1,1,0,32,0,0,0,38,1,0,1,3,0,1,0,0,1,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Vasco Moreira,M,FC Alverca,14,6.5,0,0,0,0.00000538,0,0,0,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Figueiredo,F,FC Alverca,90,7.3,0,0,0.0583,0.190979,1,0,0,29,2,0,0,48,3,3,0,8,1,2,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Francisco Chissumba,M,FC Alverca,15,6.7,0,0,0,0.00031536,0,0,0,5,0,0,0,16,0,2,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Bastien Meupiyou,D,FC Alverca,83,6.3,0,0,0,0.0145983,0,0,0,42,1,0,0,49,0,1,0,2,2,1,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Vivaldo,F,FC Alverca,83,6.4,1,0,1.3731,0.0214209,4,1,0,8,1,0,1,20,0,0,0,2,3,1,1,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Steven Baseya,D,FC Alverca,90,6.8,0,0,0.0233,0.0221177,1,1,0,48,0,0,0,69,7,0,1,13,0,3,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Yaya Bojang,D,FC Alverca,90,7.1,0,0,0,0.00300089,0,0,0,47,0,0,0,62,0,1,2,4,0,1,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Rayan Lucas,M,FC Alverca,31,7.8,0,1,0,0.366442,0,0,0,9,1,1,0,16,0,3,0,3,0,0,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Samy Jr Merheg,F,FC Alverca,14,6.6,0,0,0,0.00006596,0,0,0,4,0,0,0,6,0,0,0,1,0,1,0,0,0,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Isaac James,M,FC Alverca,75,7.8,0,1,0,0.733061,0,0,0,26,3,2,0,43,0,3,2,4,0,0,0,0,1,0
+Liga Portugal,26_27,FC Alverca vs CF Estrela Amadora,15/08/2026,Davy Gui,M,FC Alverca,59,6.3,0,0,0.0444,0.00675579,1,0,0,27,0,0,0,32,0,0,0,1,1,0,1,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Gonçalo Paciência,F,Santa Clara,63,6.8,1,0,1.0706,0.00466926,3,2,0,15,0,0,1,29,1,2,0,6,2,1,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Lucas França,G,Santa Clara,90,7.1,0,0,0,0.00144013,0,0,0,30,0,0,0,41,0,0,0,1,0,0,0,0,0,1
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Pedro Pacheco,D,Santa Clara,90,7.1,0,0,0,0.00423387,0,0,0,44,0,0,0,54,0,0,3,1,1,0,1,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Pedro Ferreira,M,Santa Clara,90,6.8,0,0,0,0.0142326,0,0,0,38,1,0,0,52,0,4,1,4,1,0,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Guilherme Romão,D,Santa Clara,90,7.2,0,0,0,0.0531972,0,0,0,26,1,0,0,52,2,1,0,6,1,2,1,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Diogo Calila,D,Santa Clara,90,6.9,0,0,0.0244,0.0166571,1,0,0,30,0,0,0,53,0,4,1,5,1,0,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Welinton Torrao,M,Santa Clara,12,6.6,0,0,0,0.00012193,0,0,0,6,0,0,0,8,0,1,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Vinícius Lopes,F,Santa Clara,78,6.9,0,0,0.0199,0.0794239,1,0,0,15,2,1,0,40,4,0,1,7,1,3,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Daniel Borges,M,Santa Clara,81,6.8,0,0,0.0618,0.00283498,1,0,0,24,0,0,0,37,0,3,1,6,2,1,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Emanuel Fernandes,D,Santa Clara,90,6.9,0,0,0,0.00275754,0,0,0,39,0,0,0,46,0,0,0,4,1,1,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Tiago Ribeiro,M,Santa Clara,12,6.6,0,0,0,0.029261,0,0,0,7,0,0,0,8,0,1,0,2,3,0,0,0,1,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Afonso Duarte,F,Santa Clara,27,6.2,0,0,0,0.00211908,0,0,0,10,0,0,0,17,1,1,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Luis Fernando,F,Santa Clara,27,6.7,0,0,0,0.00378433,0,0,0,7,0,0,0,14,0,1,0,3,0,1,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Sorriso,F,Santa Clara,63,7.3,0,0,0.0435,0.0605492,1,0,0,14,2,0,0,29,2,1,0,5,1,2,1,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Hiago Santos,M,Santa Clara,9,6.7,0,0,0,0.00092772,0,0,0,2,0,0,0,6,0,1,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,José Tavares,M,Santa Clara,78,6.5,0,0,0.0515,0.00034578,1,0,0,11,0,0,0,23,1,2,0,3,2,0,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Cihan Kahraman,M,Académico Viseu FC,75,6.4,0,0,0.0694,0.0205981,1,0,0,24,0,0,0,34,1,0,0,2,0,1,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Anthony Correia,D,Académico Viseu FC,90,6.7,0,0,0,0.00861112,0,0,0,68,0,0,0,74,0,1,0,2,2,0,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Cristian Ferreira,M,Académico Viseu FC,15,6.5,0,0,0.0137,0.00812245,1,0,0,17,0,0,0,24,0,0,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,André Clóvis,F,Académico Viseu FC,66,6.3,0,0,0,0.0174982,0,0,0,7,1,0,0,11,0,0,0,0,2,0,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Dominik Steczyk,F,Académico Viseu FC,24,6.1,0,0,0.0877,0.00432087,1,0,0,5,0,0,0,12,0,0,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Nikolaos Michelis,D,Académico Viseu FC,45,7.1,0,0,0,0.00432197,0,0,0,44,0,0,0,49,0,1,0,3,0,1,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Ewerton,G,Académico Viseu FC,90,7,0,0,0,0.00039817,0,0,0,42,0,0,0,51,0,0,0,0,0,0,0,0,0,1
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Robinho,D,Académico Viseu FC,90,7.4,0,0,0,0.172887,0,0,0,39,1,1,0,74,1,7,1,12,0,2,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Soufiane Messeguem,M,Académico Viseu FC,90,6.6,0,0,0,0.0125023,0,0,0,20,1,0,0,36,0,3,0,6,2,2,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Álvaro Zamora,M,Académico Viseu FC,75,6.5,0,0,0.0664,0.00827632,1,1,0,25,0,0,0,43,0,0,0,4,1,4,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Rúben Pereira,D,Académico Viseu FC,45,5.8,0,0,0.0209,0.00203895,1,0,0,40,0,0,0,48,0,0,1,0,1,0,1,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Pedro Barcelos,D,Académico Viseu FC,45,6.9,0,0,0,0.00702822,0,0,0,33,1,0,0,40,0,1,1,3,1,0,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,João Guilherme,M,Académico Viseu FC,90,6.9,0,0,0.3021,0.0329716,4,0,0,21,1,0,1,48,3,4,1,13,1,3,0,0,1,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Igor Milioransa,D,Académico Viseu FC,45,6.6,0,0,0,0.0514569,0,0,0,27,1,0,0,41,0,2,1,3,0,0,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Alejandro Mestanza,M,Académico Viseu FC,90,7.2,0,0,0.0158,0.0133973,1,0,0,56,1,0,0,70,1,5,0,8,1,2,0,0,0,0
+Liga Portugal,26_27,Académico Viseu FC vs Santa Clara,15/08/2026,Lorougnon Gohi,F,Académico Viseu FC,15,7.3,0,0,0,0.13779,0,0,0,9,2,0,0,18,2,1,0,3,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,André Silva,F,FC Porto,20,6.5,0,0,0,0.0215689,0,0,0,8,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Jan Bednarek,D,FC Porto,90,7.7,0,0,0,0.00824308,0,0,0,60,1,0,0,74,0,1,1,5,3,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Pablo Rosario,M,FC Porto,90,6.7,0,0,0,0.0170275,0,0,0,41,0,0,0,53,0,3,0,3,3,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Diogo Costa,G,FC Porto,90,7.5,0,0,0,0.00011641,0,0,0,39,0,0,0,48,0,0,0,0,0,0,0,0,0,1
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Pepê,F,FC Porto,89,6.9,0,0,0.133,0.16249,1,0,0,27,3,1,0,38,1,0,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Stephen Eustaquio,M,FC Porto,1,0,0,0,0.2066,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Hwang In-beom,M,FC Porto,24,6.6,0,1,0.0363,0.216309,1,0,0,15,2,1,0,22,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Nehuén Pérez,D,FC Porto,70,7.7,1,0,0.3815,0.0148379,1,1,0,36,0,0,0,49,1,0,1,3,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Jakub Kiwior,D,FC Porto,90,8.4,0,0,0,0.0684216,0,0,0,80,2,0,0,95,0,2,0,6,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Zaidu Sanusi,D,FC Porto,90,7.5,0,0,0,0.0483277,0,0,0,37,0,0,0,60,2,0,0,3,0,1,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Borja Sainz,F,FC Porto,24,7.3,1,0,0.7807,0.039653,3,3,0,7,0,0,1,15,1,0,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Gabri Veiga,M,FC Porto,70,7,0,1,0.0432,0.218508,1,0,0,35,1,1,0,51,1,4,0,6,1,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Alberto Costa,D,FC Porto,20,7.1,0,0,0,0.0711875,0,0,0,11,1,0,0,17,0,0,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Victor Froholdt,M,FC Porto,90,6,0,0,0,0.604901,0,0,0,21,2,1,0,33,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Deniz Gül,F,FC Porto,66,6.1,0,0,0.3187,0.0640088,4,0,1,8,2,0,1,18,0,1,0,1,3,0,0,0,3,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,William Gomes,F,FC Porto,66,6.9,0,0,0.0729,0.437852,2,1,0,16,0,0,0,27,1,0,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Dario Špikić,F,Rio Ave,31,6.5,0,0,0.0612,0.00675125,1,0,0,8,0,0,0,13,0,0,0,1,1,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Marios Vrousai,M,Rio Ave,15,6.6,0,0,0.0197,0.00584428,1,0,0,5,1,0,0,14,0,1,1,1,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Georgios Liavas,M,Rio Ave,83,6.7,0,0,0.0343,0.21525,2,0,0,43,1,0,0,66,1,2,1,3,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Roland Galčík,F,Rio Ave,59,6.1,0,0,0,0.0236747,0,0,0,19,1,0,0,26,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Diogo Nascimento,M,Rio Ave,83,6.9,0,0,0,0.122136,0,0,0,53,3,0,0,60,1,1,0,5,0,3,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Ennio Van Der Gouw,G,Rio Ave,90,7.3,0,0,0,0.00093805,0,0,0,47,0,0,0,58,0,0,0,0,0,0,0,0,0,4
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Nelson Abbey,D,Rio Ave,90,6.3,0,0,0,0.0161766,0,0,0,22,0,0,0,43,1,1,1,3,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Tamblé Monteiro,F,Rio Ave,75,7.1,0,0,0.1863,0.0127097,3,1,0,16,0,0,0,26,1,0,0,7,0,2,0,0,1,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Diogo Bezerra,M,Rio Ave,90,7.1,0,0,0.0131,0.268373,1,0,0,24,4,0,0,46,1,1,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Tamás Nikitscher,M,Rio Ave,90,7.4,0,0,0.0267,0.103257,1,0,0,37,1,0,0,49,0,5,0,9,0,1,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Francisco Petrasso,D,Rio Ave,76,6.4,0,0,0.1035,0.0029828,1,0,0,47,0,0,0,61,1,0,2,2,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Julien Lomboto,D,Rio Ave,14,6.5,0,0,0,0.00007022,0,0,0,4,0,0,0,7,0,1,0,2,0,1,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Jalen Blesa,F,Rio Ave,90,6.8,0,0,0.113,0.0449117,2,0,0,16,1,0,0,29,0,1,1,6,0,2,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Samuel da Silva Alves,F,Rio Ave,10,6.4,0,0,0,0.00252887,0,0,0,4,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Gustavo Mancha,D,Rio Ave,90,6.5,0,0,0,0.00501812,0,0,0,55,0,0,0,65,0,0,1,0,0,0,0,0,0,0
+Liga Portugal,26_27,Rio Ave vs FC Porto,15/08/2026,Miguel Patricio,M,Rio Ave,10,6.6,0,0,0.0183,0.00754893,1,0,0,7,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Léo Santos,D,CD Nacional,90,8.8,1,1,0.3962,0.133674,2,1,0,72,3,1,0,89,0,1,0,7,2,0,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Liziero,M,CD Nacional,90,7,0,0,0,0.0322442,0,0,0,50,1,0,0,62,0,4,1,6,2,1,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Filipe Soares,M,CD Nacional,90,6.7,0,0,0.5854,0.10855,1,0,0,39,3,0,1,57,1,2,1,4,2,1,1,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Miguel Baeza,M,CD Nacional,66,6.6,0,0,0,0.00213184,0,0,0,17,0,0,0,20,0,0,0,1,1,0,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Wesley Gasolina,D,CD Nacional,90,7,0,0,0.0707,0.225901,3,0,0,35,2,0,0,62,2,0,1,4,1,1,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Stavros Gavriel,M,CD Nacional,24,7.3,0,0,0.2632,0.427409,1,1,0,3,1,1,1,7,1,0,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Matheus Dias,M,CD Nacional,66,6.7,0,0,0,0.00522041,0,0,0,46,1,0,0,51,0,0,0,1,2,0,1,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Ze Vitor,D,CD Nacional,90,8.6,1,0,0.051,0.0711751,3,1,0,76,2,0,0,96,1,2,0,4,2,0,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Daniel Júnior,M,CD Nacional,81,7.4,0,1,0.0848,0.213824,3,0,0,40,1,1,0,58,0,0,0,5,1,5,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Daniel De la Cruz,M,CD Nacional,9,6.6,0,0,0.2533,0.0101297,1,0,1,2,1,1,1,6,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Markus Jensen,M,CD Nacional,90,7.2,0,0,0.1272,0.0314026,2,0,0,32,0,0,0,53,1,2,0,9,0,4,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Joel Silva,M,CD Nacional,8,6.6,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Renato Marin,G,CD Nacional,90,7.6,0,0,0,0.00147696,0,0,0,20,0,0,0,34,0,0,0,0,0,0,0,0,0,5
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Pablo Messias Cardozo,F,CD Nacional,88,6.6,0,0,0.2654,0.00648954,4,0,0,8,1,0,1,24,0,1,0,3,0,1,0,0,1,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Deivison Souza Brito,M,CD Nacional,24,6.7,0,0,0,0.00141944,0,0,0,11,0,0,0,25,1,1,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Joel Robles,G,Estoril Praia,90,6.7,0,0,0,0.00485867,0,0,0,32,0,0,0,40,0,0,0,2,0,0,0,0,0,1
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Ferro,D,Estoril Praia,90,7,0,0,0,0.220786,0,0,0,40,0,0,0,53,0,3,2,5,1,1,1,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,João Carvalho,F,Estoril Praia,90,7,0,0,0.3346,0.0213546,1,1,0,29,1,0,0,49,3,1,0,7,0,3,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Rafik Guitane,F,Estoril Praia,63,6.5,0,0,0.0232,0.0137224,1,0,0,18,0,0,0,38,1,1,0,4,0,2,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Xeka,M,Estoril Praia,32,5.1,0,0,0.0677,0.0067947,2,2,0,15,0,0,0,22,0,0,1,0,3,0,2,1,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Jandro Orellana,M,Estoril Praia,11,6.6,0,0,0,0.00072045,0,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Fernando Medrano,D,Estoril Praia,75,6.6,0,0,0,0.00266638,0,0,0,27,0,0,0,47,0,2,0,4,1,1,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Yanis Begraoui,F,Estoril Praia,90,6.4,0,0,0.246,0.018482,1,0,0,15,1,0,0,20,0,0,0,1,0,1,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Ricard Sánchez,D,Estoril Praia,75,6.7,0,0,0,0.0926643,0,0,0,20,1,0,0,37,0,2,0,4,2,0,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Antef Tsoungui,D,Estoril Praia,85,6.1,0,0,0,0.0168456,0,0,0,29,3,0,0,40,0,0,1,1,4,1,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Gonçalo Costa,D,Estoril Praia,15,6.4,0,0,0,0.00050515,0,0,0,5,0,0,0,18,0,0,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,André Lacximicant,F,Estoril Praia,63,6.5,0,0,0.1318,0.00757711,2,2,0,14,0,0,0,21,0,0,0,1,1,1,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Ismael Sierra Arnal,D,Estoril Praia,90,6.4,0,0,0.0238,0.00196283,1,0,0,47,0,0,0,55,0,0,0,2,1,0,1,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Fabrício Garcia,F,Estoril Praia,27,6.6,0,0,0,0.00372828,0,0,0,4,0,0,0,9,0,0,0,2,0,2,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Pedro Carvalho,D,Estoril Praia,15,6.6,0,0,0,0.0121758,0,0,0,3,1,0,0,11,0,0,0,1,0,1,0,0,0,0
+Liga Portugal,26_27,CD Nacional vs Estoril Praia,16/08/2026,Tiago Brito,M,Estoril Praia,27,6.3,0,0,0.0281,0.0037606,1,0,0,14,0,0,0,19,0,1,0,3,0,0,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,André Ferreira,G,Moreirense,90,5.9,0,0,0,0.00037081,0,0,0,28,0,0,0,36,0,0,0,0,0,0,0,0,0,2
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Maracás,D,Moreirense,90,4.8,0,0,0,0.00254396,0,0,0,87,0,0,0,95,0,0,0,2,1,1,1,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Nile John,M,Moreirense,90,6.5,0,0,0.0169,0.0104444,1,0,0,39,0,0,0,51,1,1,0,4,1,2,1,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Guilherme Liberato,M,Moreirense,45,6.5,0,0,0,0.00254699,0,0,0,32,0,0,0,41,1,1,0,3,0,1,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Kiko Bondoso,M,Moreirense,27,6.7,0,0,0,0.00825345,0,0,0,16,0,0,0,18,1,0,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Rodrigo Alonso,M,Moreirense,72,6.2,0,0,0,0.0354066,0,0,0,42,1,1,0,54,0,1,1,4,0,3,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Gilberto Batista,D,Moreirense,90,7,0,0,0,0.0163943,0,0,0,87,0,0,0,98,1,0,0,2,0,0,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Dinis Pinto,D,Moreirense,45,6.4,0,0,0,0.150067,0,0,0,23,2,1,0,37,0,1,0,2,0,1,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Mateja Stjepanović,M,Moreirense,18,6.5,0,0,0,0.00079312,0,0,0,9,0,0,0,12,0,1,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,João Veloso,M,Moreirense,45,6.6,0,0,0.0937,0.266479,1,0,0,29,0,0,1,38,2,0,0,4,0,1,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Kiko,D,Moreirense,90,5.4,0,0,0,0.216323,0,0,0,31,1,0,0,66,1,1,0,2,3,0,1,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Michael Dacosta Gonzalez,F,Moreirense,8,6.5,0,0,0.0338,0.025382,1,0,0,2,0,0,0,6,0,1,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Landerson,F,Moreirense,63,6.3,0,0,0,0.0076905,0,0,0,14,0,0,0,16,0,0,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Leandro Santos,D,Moreirense,85,6.1,0,0,0,0.0079583,0,0,0,30,1,0,0,47,4,0,0,6,1,0,1,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Afonso Vieira,F,Moreirense,45,6,0,0,0,0.00059795,0,0,0,6,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Alexandre Parsemain,F,Moreirense,90,6,0,0,0.3525,0.00000788,2,1,0,8,0,0,1,17,0,0,0,4,3,1,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Ignacio de Arruabarrena,G,FC Arouca,90,7,0,0,0,0.00015792,0,0,0,43,0,0,0,47,0,0,0,0,0,0,0,0,0,1
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Orest Lebedenko,D,FC Arouca,90,7.1,0,0,0,0.00715552,0,0,0,45,0,0,0,72,1,1,2,5,0,1,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Tiago Esgaio,D,FC Arouca,90,7.2,0,0,0,0.610695,0,0,0,38,2,0,0,58,1,0,1,2,0,0,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Ivan Barbero,F,FC Arouca,59,6.8,1,0,0.826,0.0059508,2,1,0,11,0,0,0,17,0,1,0,2,1,1,1,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Javi Sánchez,D,FC Arouca,90,7.1,0,0,0,0.00947422,0,0,0,74,0,0,0,80,0,0,3,1,1,0,1,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Naïs Djouahra,M,FC Arouca,90,8.4,0,2,0.0156,0.717707,1,0,0,37,4,2,0,55,1,0,5,1,0,0,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Jose Fontán,D,FC Arouca,90,8.2,1,0,0.1922,0.00615203,2,2,0,93,0,0,1,104,0,2,1,3,1,0,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Alfonso Trezza,M,FC Arouca,72,6.8,0,0,0.3671,0.236279,2,0,0,16,2,1,0,25,0,0,0,2,0,2,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Pablo Gozálbez,M,FC Arouca,18,7.3,0,0,0,0.132312,0,0,0,3,1,1,0,6,0,0,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Pedro Santos,M,FC Arouca,11,6.8,0,0,0,0.00003049,0,0,0,5,0,0,0,9,0,3,0,3,0,0,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Taichi Fukui,M,FC Arouca,79,7.3,0,0,0.0574,0.105546,3,2,1,62,3,0,0,76,1,0,1,3,1,2,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Brian Mansilla,F,FC Arouca,18,6.4,0,0,0,0.00006352,0,0,0,1,0,0,0,4,0,0,2,0,0,0,0,0,1,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Espen Van Ee,M,FC Arouca,80,7,0,0,0,0.00733635,0,0,0,35,0,0,0,44,0,1,2,6,3,2,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Hyun-ju Lee,M,FC Arouca,72,6.7,0,1,0.1485,0.0503664,3,0,0,20,1,0,0,31,0,2,0,3,1,1,0,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Dylan Nandín,F,FC Arouca,31,6.6,1,0,0.6368,0.00000163,2,1,0,3,0,0,1,9,1,0,0,2,2,0,1,0,0,0
+Liga Portugal,26_27,FC Arouca vs Moreirense,16/08/2026,Mateo Flores,M,FC Arouca,10,6.6,0,0,0,0.00001781,0,0,0,6,0,0,0,7,0,1,0,1,0,0,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Raphael Guzzo,M,CS Marítimo,90,6.6,0,0,0,0.0211123,0,0,0,25,0,0,0,44,0,3,1,4,0,1,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Igor Julião,D,CS Marítimo,90,6.5,0,0,0,0.0476369,0,0,0,22,1,0,0,49,0,2,0,5,1,1,1,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Paulo Henrique,D,CS Marítimo,90,6.6,0,0,0,0.0211242,0,0,0,16,0,0,0,42,0,1,1,2,0,1,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Vladan Danilović,M,CS Marítimo,88,6.6,0,0,0,0.0028641,0,0,0,39,0,0,0,51,0,1,3,3,4,2,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Alfonso Pastor,G,CS Marítimo,90,6.5,0,0,0,0.00764435,0,0,0,34,0,0,0,41,0,0,0,0,0,0,0,0,0,3
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Simo Bouzaidi,M,CS Marítimo,80,7.2,1,0,0.2226,0.0288292,2,1,0,26,0,0,0,45,0,0,0,1,2,0,0,0,1,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Romain Correia,D,CS Marítimo,90,7,0,0,0,0.00390513,0,0,0,35,0,0,0,45,0,1,1,1,1,0,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Tomás Tavares,M,CS Marítimo,10,6.9,0,0,0,0.215406,0,0,0,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Adrián Butzke,F,CS Marítimo,73,6.8,0,0,0.3468,0.254058,2,0,1,20,4,2,1,34,0,0,0,6,1,1,1,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Samuel Bamba,F,CS Marítimo,17,5.8,0,0,0.0848,0,1,1,0,1,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Rafael Fernandes,D,CS Marítimo,90,6.6,0,0,0.3216,0.00149753,1,0,0,38,0,0,1,49,0,1,1,3,1,0,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Rodrigo Andrade,M,CS Marítimo,88,6.7,0,0,0,0.018086,0,0,0,29,0,0,0,39,0,2,1,5,5,1,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Gábor Szalai,D,CS Marítimo,9,6.7,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Martín Tejón,M,CS Marítimo,73,7,0,0,0.5084,0.129416,2,1,0,9,1,0,1,31,1,4,0,8,0,3,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Maurice Boakye,F,CS Marítimo,17,7.4,1,0,0.1273,0.00100004,1,1,0,6,0,0,0,15,0,1,0,3,1,1,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Israel Ayuma,M,CS Marítimo,9,6.5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Gil Dias,M,Famalicão,45,6.3,0,0,0.0375,0.121998,1,0,0,31,1,1,0,50,1,2,0,3,2,0,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Tom Van De Looi,M,Famalicão,90,6.9,0,0,0.0376,0.0588744,2,0,0,85,2,0,0,99,0,2,0,4,1,0,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Lazar Carević,G,Famalicão,90,5.9,0,0,0,0.00010324,0,0,0,25,0,0,0,32,0,0,0,0,0,0,0,0,0,2
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Léo Realpe,D,Famalicão,90,7,0,0,0,0.028847,0,0,0,103,0,0,0,120,1,2,2,8,0,1,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Óscar Aranda,M,Famalicão,45,6.8,0,1,0,0.0355863,0,0,0,18,1,0,0,27,0,0,0,1,0,1,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Rodrigo Pinheiro,D,Famalicão,90,6.7,0,0,0,0.154722,0,0,0,67,3,0,0,103,0,4,1,6,1,0,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Georgios Koutsias,F,Famalicão,76,6.4,0,0,0,0.00169654,0,0,0,7,0,0,0,14,0,0,0,1,0,1,0,0,2,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Paulo Moreira,M,Famalicão,45,6.7,0,0,0,0.013311,0,0,0,11,0,0,0,18,0,1,0,3,0,2,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Pedro Bondo,D,Famalicão,45,6.7,0,0,0,0.00318643,0,0,0,43,0,0,0,55,0,1,1,1,0,0,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Sorriso,M,Famalicão,85,6.8,0,0,0.3729,0.0259707,6,2,0,27,0,0,1,55,3,0,0,8,0,3,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Pedro Santos,M,Famalicão,45,6.7,0,0,0.0318,0.00786453,2,0,0,16,0,0,0,23,0,2,0,4,2,2,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Romeo Beney,F,Famalicão,12,6.5,0,0,0,0.00306173,0,0,0,5,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Finn van Breemen,D,Famalicão,90,7.9,1,0,0.0342,0.035646,1,1,0,106,1,0,0,127,2,1,1,6,3,0,1,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Leny Meyer,D,Famalicão,45,6.7,0,0,0.0334,0.0209207,1,0,0,22,2,0,0,42,1,3,0,5,0,0,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Mathias De Amorim,M,Famalicão,90,7.1,0,0,0,0.0777274,0,0,0,47,0,0,0,62,1,1,2,8,2,5,0,0,0,0
+Liga Portugal,26_27,Famalicão vs CS Marítimo,16/08/2026,Umar Abubakar,F,Famalicão,14,6.7,0,0,0.0401,0.00023842,1,1,0,4,0,0,0,6,0,0,0,3,0,1,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Rafa Silva,M,Benfica,59,7.7,1,0,0.7302,0.0244702,2,1,0,27,1,0,0,43,3,1,0,5,0,1,0,0,1,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Clément Lenglet,D,Benfica,90,7.5,0,0,0,0.0183573,0,0,0,72,0,0,0,82,0,1,1,5,2,1,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Vangelis Pavlidis,F,Benfica,59,10,3,1,1.2473,0.461829,3,3,0,21,2,1,0,30,2,1,0,6,1,0,0,0,2,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Dodi Lukebakio,M,Benfica,12,6.2,0,0,0,0.00001063,0,0,0,3,0,0,0,8,0,0,0,1,1,1,0,0,1,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Alexander Bah,D,Benfica,90,7.4,0,1,0,0.208085,0,0,0,70,2,0,0,95,0,0,2,1,0,1,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Leandro Barreiro,M,Benfica,90,6.5,0,1,0.1531,0.381503,3,1,0,51,1,1,0,62,0,0,0,2,1,1,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Jhon Durán,F,Benfica,31,7.5,1,0,0.2288,0.0498833,2,1,0,3,1,0,0,8,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Tomás Araújo,D,Benfica,59,7.1,0,0,0.0152,0.015615,1,0,0,51,0,0,0,57,0,0,2,0,2,0,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Samuel Soares,G,Benfica,90,6.9,0,0,0,0.00038433,0,0,0,20,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Samuel Dahl,D,Benfica,90,6.8,0,0,0,0.0885289,0,0,0,67,3,0,0,81,0,0,1,2,2,0,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Richard Ríos,M,Benfica,23,6.6,0,0,0,0.0183981,0,0,0,29,0,0,0,32,1,0,0,2,2,0,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Manu Silva,M,Benfica,31,6.9,0,0,0,0.0120213,0,0,0,41,0,0,0,44,0,0,3,0,0,0,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Enzo Barrenechea,M,Benfica,67,7.5,0,0,0,0.0492918,0,0,0,56,0,0,0,64,0,4,0,4,0,0,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Andreas Schjelderup,M,Benfica,31,6.3,0,0,0.0578,0.085039,1,0,0,23,0,0,0,31,0,1,0,1,1,0,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Georgiy Sudakov,M,Benfica,78,7.2,0,0,0.2903,0.23163,3,1,0,38,2,0,1,55,3,1,0,5,1,1,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Gianluca Prestianni,M,Benfica,90,8.9,1,0,0.3197,0.171148,5,1,0,49,3,1,0,73,2,4,1,10,0,4,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,André Geraldes,D,Casa Pia,90,6,0,0,0,0.003858,0,0,0,28,0,0,0,46,0,0,2,1,2,1,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Sebastián Pérez,M,Casa Pia,64,6.1,0,0,0,0.00508197,0,0,0,29,0,0,0,39,0,2,3,3,3,1,1,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Rochinha,M,Casa Pia,77,6,0,0,0.0339,0.00128222,1,0,0,11,0,0,0,21,0,0,0,2,1,1,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Abdu Conté,M,Casa Pia,90,5.3,0,0,0,0.0569888,0,0,0,30,1,0,0,54,0,2,0,4,1,2,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Lawrence Ofori,M,Casa Pia,90,5.3,0,0,0,0.0087011,0,0,0,34,0,0,0,49,0,3,1,5,0,2,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Alassana Jatta,F,Casa Pia,31,6.9,0,0,0,0.0034331,0,0,0,4,0,0,0,10,1,3,0,5,0,0,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Henrique Araújo,F,Casa Pia,77,6.4,0,0,0,0.00502153,0,0,0,27,0,0,0,40,0,0,0,5,0,4,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,David Sousa,D,Casa Pia,90,5.1,0,0,0,0.00618255,0,0,0,52,0,0,0,61,0,1,0,3,1,0,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Pedro Rosas,D,Casa Pia,13,6.6,0,0,0,0.00177494,0,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,André Gomes,G,Casa Pia,90,5.6,0,0,0,0.00142505,0,0,0,32,0,0,0,38,0,0,0,0,0,0,0,0,0,2
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,João Goulart,D,Casa Pia,90,5.6,0,0,0,0.00537721,0,0,0,38,0,0,0,54,0,0,2,1,0,0,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Oluwakorede Osundina,F,Casa Pia,31,6.5,0,0,0,0.00849195,0,0,0,4,0,0,0,9,0,0,0,1,1,1,0,0,1,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Kevin Prieto,M,Casa Pia,59,6.3,0,0,0,0.013791,0,0,0,18,0,0,0,32,0,1,2,2,0,1,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Selvi Clúa,M,Casa Pia,26,6.7,0,0,0.0089,0.00005858,1,0,0,10,0,0,0,16,1,1,0,3,0,0,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Gabi Pereira,M,Casa Pia,59,6,0,0,0.0771,0.00233913,1,0,1,12,0,0,1,21,2,0,1,2,0,0,0,0,0,0
+Liga Portugal,26_27,Casa Pia vs Benfica,17/08/2026,Domingos Jose Gabriel Bandeira,D,Casa Pia,15,6.8,0,0,0,0.00074455,0,0,0,10,0,0,0,12,0,1,0,1,2,0,2,1,0,0

@@ -1,0 +1,354 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Christian Doidge,F,Newport County,65,6.4,0,0,0,0,0,0,0,12,0,0,0,16,0,0,1,6,2,0,0,0,1,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Kyle Cameron,D,Newport County,90,7.6,1,0,0,0,1,1,0,18,1,0,0,22,0,0,1,1,1,0,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Cameron Norman,D,Newport County,90,7.7,0,0,0,0,0,0,0,25,1,1,0,64,1,0,0,8,2,4,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Jordan Wright,G,Newport County,90,7.1,0,0,0,0,0,0,0,23,0,0,0,29,0,1,0,2,0,0,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Matt Smith,M,Newport County,8,6.5,0,0,0,0,0,0,0,2,0,0,0,8,0,0,1,0,0,0,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Harrison Biggins,M,Newport County,90,8,0,1,0,0,2,0,0,20,2,1,0,54,1,2,0,7,0,3,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Ciaran Brennan,M,Newport County,90,7.5,0,0,0,0,3,1,0,29,0,0,0,47,1,3,3,5,0,1,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Cameron Evans,D,Newport County,88,6.9,0,0,0,0,0,0,0,20,0,0,0,34,0,3,1,6,2,1,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Gerard Garner,F,Newport County,10,6.6,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,1,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Thomas Davies,D,Newport County,90,7.1,0,0,0,0,0,0,0,24,2,0,0,36,0,1,1,4,0,2,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Lee Jenkins,D,Newport County,90,7.7,0,0,0,0,1,1,0,16,0,0,0,34,0,3,1,9,2,0,1,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Yahya Bamba,M,Newport County,90,8.7,1,1,0,0,2,1,0,9,1,1,0,25,0,2,1,4,1,1,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Shaquille Gwengwe,F,Newport County,80,7.3,1,0,0,0,2,2,0,6,1,0,1,14,0,0,0,1,0,1,0,0,1,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Alfie Merritt,D,Newport County,25,6.4,0,0,0,0,1,0,0,5,0,0,0,11,0,0,0,1,1,0,1,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Ethan Ebanks-Landell,D,Rochdale,90,6.1,0,0,0,0,0,0,0,70,0,0,0,75,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Emmanuel Dieseruvwe,F,Rochdale,70,6.5,0,0,0,0,0,0,0,9,0,0,0,18,0,0,0,2,0,1,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Tobi Adebayo-Rowling,M,Rochdale,90,5.7,0,0,0,0,1,0,0,32,0,0,0,42,0,2,1,4,2,0,1,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Edward Francis,M,Rochdale,20,6.4,0,0,0,0,0,0,0,20,1,0,0,22,0,0,0,0,1,0,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Luke Hanannt,M,Rochdale,62,6,0,0,0,0,0,0,0,11,1,0,0,23,0,2,0,2,3,0,1,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Devante Rodney,F,Rochdale,90,5.9,0,0,0,0,2,0,0,29,0,0,0,46,0,2,0,5,0,1,0,0,1,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Ryan East,M,Rochdale,70,6.6,0,0,0,0,0,0,0,41,0,0,0,52,0,2,0,3,0,1,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Harvey Gilmour,M,Rochdale,70,6.3,0,0,0,0,0,0,0,28,0,0,0,40,0,1,0,3,2,0,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Sam Sherring,D,Rochdale,90,6.7,0,0,0,0,0,0,0,102,0,0,0,122,0,1,0,4,0,2,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Babajide Adeeko,M,Rochdale,20,6.4,0,0,0,0,0,0,0,10,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Bryant Akono Bilongo,D,Rochdale,66,5.3,0,0,0,0,1,0,0,31,1,0,0,52,0,0,0,5,3,1,2,1,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Kaiden Wilson,D,Rochdale,20,6.4,0,0,0,0,0,0,0,17,0,0,0,40,0,2,1,2,0,0,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Zain Silcott-Duberry,F,Rochdale,28,6.3,0,0,0,0,0,0,0,5,0,0,0,10,1,0,0,2,2,1,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Dajaune Brown,F,Rochdale,90,6.3,0,0,0,0,1,0,0,19,0,0,0,42,3,0,0,7,1,3,0,0,0,0
+League Two,26_27,Newport County vs Rochdale,15/08/2026,Nils Ramming,G,Rochdale,90,5.7,0,0,0,0,0,0,0,46,0,0,0,57,0,0,0,1,0,1,0,0,0,3
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Onel Hernández,F,Port Vale,22,6.8,0,0,0,0,0,0,0,5,1,0,0,15,1,1,0,2,0,0,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Kyle Dempsey,M,Port Vale,90,6.9,0,0,0,0,0,0,0,34,2,0,0,55,1,0,0,8,1,1,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,George Byers,M,Port Vale,68,6.6,0,0,0,0,1,0,0,53,0,0,0,60,0,0,2,0,1,0,1,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Cameron Humphreys,D,Port Vale,90,6,0,0,0,0,2,1,0,52,0,0,0,68,1,1,3,8,5,0,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Jordan Lawrence-Gabriel,D,Port Vale,90,6.8,0,0,0,0,2,0,0,38,0,0,0,69,0,1,2,6,1,5,1,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Liam Gordon,D,Port Vale,90,6.1,0,0,0,0,0,0,0,25,2,0,0,43,1,1,1,4,2,1,1,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Lewis Montsma,D,Port Vale,73,6.2,0,0,0,0,0,0,0,37,0,0,0,52,0,1,1,1,2,0,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Connor Hall,D,Port Vale,17,6.5,0,0,0,0,0,0,0,10,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Jackson Smith,G,Port Vale,90,6.6,0,0,0,0,0,0,0,48,0,0,0,60,0,0,0,1,0,1,0,0,0,1
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Mo Faal,F,Port Vale,22,6.3,0,0,0,0,2,0,0,5,0,0,0,12,0,0,0,1,1,0,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Jaheim Headley,M,Port Vale,68,6.5,0,0,0,0,1,0,0,20,0,0,0,36,1,1,1,5,1,0,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,George Hall,M,Port Vale,90,5.8,0,0,0,0,1,1,0,18,2,0,0,37,0,1,0,3,1,0,1,0,1,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Rhys Walters,M,Port Vale,90,6.8,0,0,0,0,1,0,0,27,1,0,0,42,2,1,0,6,0,2,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Oliver Lynch,F,Port Vale,90,5.9,0,0,0,0,2,0,0,16,0,0,0,26,1,0,0,5,1,1,0,0,2,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Ryan Woods,M,Oldham Athletic,8,6.6,0,0,0,0,0,0,0,9,0,0,0,10,0,0,1,0,0,0,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Ollie Norburn,M,Oldham Athletic,90,7.2,0,1,0,0,0,0,0,47,1,0,0,59,0,2,1,4,1,2,1,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Donervon Daniels,D,Oldham Athletic,90,7.1,0,0,0,0,0,0,0,25,0,0,0,39,0,0,1,5,0,1,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Tom Pett,M,Oldham Athletic,2,0,0,0,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Mathew Hudson,G,Oldham Athletic,90,7.1,0,0,0,0,0,0,0,27,0,0,0,35,0,0,0,0,0,0,0,0,0,2
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Ryan Delaney,D,Oldham Athletic,90,6.8,0,0,0,0,0,0,0,23,0,0,0,38,0,0,0,7,1,0,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Jamie Robson,D,Oldham Athletic,90,7.8,0,0,0,0,0,0,0,20,1,0,0,58,1,3,3,12,1,1,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Keenan Appiah-Forson,M,Oldham Athletic,90,6.5,0,0,0,0,0,0,0,16,1,0,0,29,0,2,0,2,1,0,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Mike Fondop,F,Oldham Athletic,88,8.8,0,1,0,0,3,0,0,17,2,1,1,39,1,0,0,14,1,5,0,0,2,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Calum Kavanagh,F,Oldham Athletic,82,8.1,2,0,0,0,5,3,0,12,1,0,0,24,0,0,0,3,1,2,0,0,2,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Elliott Nevitt,F,Oldham Athletic,2,0,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Gus Scott-Morriss,D,Oldham Athletic,90,6.8,0,0,0,0,1,0,0,31,0,0,0,54,0,1,1,3,1,1,0,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Favour Fawunmi,F,Oldham Athletic,88,6.4,0,0,0,0,2,0,0,12,0,0,0,30,1,0,0,4,2,3,1,0,0,0
+League Two,26_27,Oldham Athletic vs Port Vale,15/08/2026,Kane Drummond,F,Oldham Athletic,90,6.8,0,0,0,0,0,0,0,20,1,0,0,33,0,2,1,3,3,1,0,0,1,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Tom Bradshaw,F,Rotherham United,18,6.4,0,0,0,0,2,0,0,1,0,0,0,4,0,0,0,1,0,0,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Paul Mullin,F,Rotherham United,90,6.2,0,0,0,0,3,2,0,19,1,0,0,36,1,0,0,4,2,1,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Ossama Ashley,M,Rotherham United,18,6.7,0,0,0,0,0,0,0,12,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Fábio Tavares,F,Rotherham United,90,6.4,0,1,0,0,1,1,0,23,6,1,0,38,0,0,1,0,1,0,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Denzel Hall,M,Rotherham United,90,7,0,0,0,0,2,1,0,57,3,0,1,79,2,3,0,10,1,1,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Ar'Jany Martha,D,Rotherham United,11,6.7,0,0,0,0,0,0,0,8,1,0,0,17,0,1,0,2,0,1,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Ted Cann,G,Rotherham United,90,5.9,0,0,0,0,0,0,0,43,0,0,0,50,0,0,0,0,0,0,0,0,0,2
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Kian Spence,M,Rotherham United,90,6.5,0,0,0,0,4,0,0,47,1,0,0,64,1,0,0,6,1,4,1,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Ewan Otoo,D,Rotherham United,90,6.8,0,0,0,0,0,0,0,55,1,0,0,86,0,2,0,8,1,0,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Brandon Cover,M,Rotherham United,72,6.7,0,0,0,0,0,0,0,27,0,0,0,36,0,1,0,3,0,1,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Sonny Aljofree,D,Rotherham United,72,6.7,0,0,0,0,0,0,0,43,1,0,0,69,0,2,3,7,0,0,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Lenny Agbaire,D,Rotherham United,90,6.6,0,0,0,0,1,0,0,54,0,0,0,72,0,1,2,10,3,1,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Jamie Jellis,M,Rotherham United,90,6.3,0,0,0,0,3,0,0,45,1,0,0,63,1,1,0,7,0,0,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Jili Buyabu,M,Rotherham United,79,7.5,1,0,0,0,3,1,0,24,2,0,0,42,1,0,0,2,2,1,0,0,1,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Andreas Weimann,F,Cheltenham Town,20,6.7,0,0,0,0,0,0,0,8,1,0,0,11,0,1,0,1,0,0,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Pierce Sweeney,D,Cheltenham Town,90,6.7,0,0,0,0,0,0,0,30,0,0,0,45,0,1,0,8,1,2,1,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Shaun McWilliams,M,Cheltenham Town,45,6.3,0,0,0,0,0,0,0,12,0,0,0,21,0,1,1,3,1,0,1,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Ryan Broom,M,Cheltenham Town,70,6.7,0,1,0,0,0,0,0,13,1,1,0,30,0,1,0,3,0,1,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Robbie Cundy,D,Cheltenham Town,90,7.5,0,1,0,0,1,0,0,33,1,0,0,55,0,2,2,9,0,1,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Ben Stevenson,M,Cheltenham Town,90,7,0,0,0,0,0,0,0,30,0,0,0,41,0,3,0,8,1,1,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Jordan Shipley,M,Cheltenham Town,70,6.2,0,0,0,0,1,1,0,23,0,0,0,34,0,0,0,1,0,0,0,0,1,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,George Nurse,D,Cheltenham Town,90,6.8,0,0,0,0,0,0,0,31,0,0,0,64,0,3,2,9,2,2,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Charlie McCann,M,Cheltenham Town,89,8,1,0,0,0,1,1,0,30,1,0,0,47,0,3,0,5,1,0,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Jake Bickerstaff,F,Cheltenham Town,32,6.6,0,0,0,0,0,0,0,5,0,0,0,12,0,1,0,2,0,0,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Jonathan Tomkinson,D,Cheltenham Town,90,6.5,0,0,0,0,0,0,0,29,0,0,0,59,0,0,2,2,0,2,1,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Joseph Tomlinson,M,Cheltenham Town,20,6.6,0,0,0,0,1,1,0,7,0,0,0,10,0,0,1,1,0,0,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Freddie Willcox,M,Cheltenham Town,1,0,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Wyll Stanway,G,Cheltenham Town,90,6.6,0,0,0,0,0,0,0,42,0,0,0,51,1,0,0,1,0,0,0,0,0,4
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Kirsten Otchere,F,Cheltenham Town,58,6,0,0,0,0,1,0,0,6,0,0,0,17,0,1,0,3,1,2,0,0,1,0
+League Two,26_27,Cheltenham Town vs Rotherham United,15/08/2026,Jake Evans,F,Cheltenham Town,45,7.2,1,0,0,0,1,1,0,9,0,0,0,13,0,0,0,0,3,0,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Danny Collinge,D,Barnet,90,6.7,0,0,0,0,1,1,0,14,0,0,0,26,0,1,0,4,0,0,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Kabongo Tshimanga,F,Barnet,90,7.9,1,1,0,0,1,1,0,10,2,0,0,22,0,1,0,2,2,1,0,0,1,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Brandon Comley,M,Barnet,12,6.4,0,0,0,0,0,0,0,6,0,0,0,11,0,0,0,1,1,0,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Myles Kenlock,D,Barnet,22,6.3,0,0,0,0,1,0,0,10,0,0,0,15,0,1,0,1,0,0,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Idris Kanu,M,Barnet,78,7,0,0,0,0,4,2,0,21,2,0,0,55,2,3,0,8,5,3,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Tom Knowles,M,Barnet,68,6.3,0,0,0,0,4,1,0,15,0,0,0,33,1,0,0,4,2,3,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Kane Smith,D,Barnet,90,7,0,0,0,0,2,0,0,27,1,0,0,57,0,3,0,5,1,1,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Charlie Lakin,M,Barnet,90,7.2,1,0,0,0,4,1,0,30,3,0,0,52,1,2,0,5,2,1,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Nnamdi Ofoborh,M,Barnet,90,7.5,0,1,0,0,1,0,0,39,2,0,0,46,0,0,1,4,0,1,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Will Wright,D,Barnet,14,6.2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Nikola Tavares,D,Barnet,90,6.8,0,0,0,0,0,0,0,25,0,0,0,37,0,3,0,5,0,0,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Adam Senior,D,Barnet,90,7.3,0,0,0,0,0,0,0,23,0,0,0,43,0,2,0,11,1,1,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Matthew Cox,G,Barnet,90,6.4,0,0,0,0,0,0,0,33,1,0,0,47,0,0,0,1,0,0,0,0,0,1
+League Two,26_27,Barnet vs Salford City,15/08/2026,Oisin Gallagher,M,Barnet,83,7.6,1,0,0,0,2,2,0,18,0,0,0,37,2,2,0,7,6,1,1,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Ollie Turton,D,Salford City,90,6.7,0,0,0,0,0,0,0,38,1,1,0,71,0,4,0,10,3,3,1,0,1,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Will Aimson,D,Salford City,90,6.3,0,0,0,0,0,0,0,35,0,0,0,58,1,0,1,7,1,1,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Will Norris,G,Salford City,90,6.2,0,0,0,0,0,0,0,41,1,1,0,54,0,0,0,1,0,0,0,0,0,5
+League Two,26_27,Barnet vs Salford City,15/08/2026,Jorge Grant,M,Salford City,29,6.8,0,0,0,0,0,0,0,21,0,0,0,31,0,0,0,5,0,3,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Matt Butcher,M,Salford City,61,6.7,0,0,0,0,0,0,0,29,0,0,0,43,0,1,1,8,1,2,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Daniel Udoh,F,Salford City,18,6.3,0,0,0,0,0,0,0,4,1,1,0,9,0,1,0,2,0,0,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Ben Woodburn,M,Salford City,29,6.3,0,0,0,0,2,0,0,9,1,0,0,16,0,0,0,0,1,0,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Macaulay Langstaff,F,Salford City,90,6.2,0,0,0,0,3,0,0,6,0,0,1,14,0,0,0,1,1,0,0,0,3,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Joe Powell,M,Salford City,90,7.5,0,1,0,0,1,0,0,34,3,0,0,60,3,3,0,12,1,5,1,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Luke Molyneux,M,Salford City,81,5.8,0,0,0,0,0,0,0,16,2,0,0,39,1,2,1,5,2,1,1,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Abraham Odoh,M,Salford City,8,6.8,0,0,0,0,1,0,0,4,0,0,0,6,0,0,0,1,0,1,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Kallum Cesay,M,Salford City,72,6.3,0,0,0,0,1,0,0,10,0,0,0,21,0,1,0,1,0,0,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Kelly N'Mai,M,Salford City,82,6.4,0,0,0,0,3,1,1,11,1,0,1,36,3,2,0,8,1,3,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Adebola Oluwo,D,Salford City,90,7.3,1,0,0,0,2,2,0,29,0,0,0,54,0,0,0,5,1,1,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Hayden Carson,D,Salford City,61,6,0,0,0,0,0,0,0,25,1,0,0,46,0,0,0,1,0,0,0,0,0,0
+League Two,26_27,Barnet vs Salford City,15/08/2026,Kyrell Malcolm,F,Salford City,9,6.5,0,0,0,0,1,0,1,6,0,0,1,11,1,1,0,2,0,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Tom Nichols,M,Swindon Town,89,6.3,0,0,0,0,0,0,0,26,1,0,0,43,0,0,1,1,1,1,1,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Ryan Tafazolli,D,Swindon Town,23,7.1,0,0,0,0,0,0,0,14,0,0,0,21,0,1,1,4,0,0,0,0,1,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Ollie Clarke,M,Swindon Town,67,6.1,0,0,0,0,1,0,0,26,0,0,0,31,0,0,2,3,2,0,0,0,1,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Ollie Palmer,F,Swindon Town,23,6.5,0,0,0,0,0,0,0,12,0,0,0,12,0,0,0,5,0,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Connor Ripley,G,Swindon Town,90,8.1,0,0,0,0,0,0,0,44,0,0,0,59,0,0,0,1,0,1,0,0,0,3
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Aaron Drinan,F,Swindon Town,90,6.5,0,0,0,0,1,0,0,18,0,0,0,30,0,0,0,4,0,0,0,0,2,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Mitchell Clark,M,Swindon Town,90,7.7,0,0,0,0,0,0,0,38,0,0,0,66,0,3,1,8,1,3,1,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Matthew Virtue-Thick,M,Swindon Town,90,7.2,0,0,0,0,0,0,0,22,0,0,0,44,2,6,2,12,0,2,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Joseph Hungbo,M,Swindon Town,39,6.2,0,0,0,0,1,0,0,9,1,0,0,18,1,0,0,1,0,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Ben Middlemas,M,Swindon Town,68,6.5,0,0,0,0,0,0,0,24,0,0,0,34,0,1,1,1,0,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Stephan Negru,D,Swindon Town,90,7.2,0,0,0,0,0,0,0,38,0,0,0,55,0,5,1,6,0,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Billy Kirkman,D,Swindon Town,90,6.6,0,0,0,0,0,0,0,49,0,0,0,78,0,4,4,10,0,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Jaylan Pearman,M,Swindon Town,22,6.6,0,0,0,0,1,0,0,4,0,0,0,7,0,1,0,2,1,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Kaelan Majekodunmi,D,Swindon Town,67,7.6,0,0,0,0,0,0,0,41,0,0,0,53,0,1,0,7,0,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Lucas Griffiths-Brown,D,Swindon Town,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Louis Millard,F,Swindon Town,51,6.1,0,0,0,0,0,0,0,8,0,0,0,16,0,0,1,0,1,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Lee Evans,M,Northampton Town,71,7.4,0,0,0,0,0,0,0,59,0,0,0,72,1,0,1,4,0,1,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Jon Guthrie,D,Northampton Town,90,7.5,0,0,0,0,1,1,0,44,0,0,0,59,1,1,0,6,0,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Janoi Donacien,D,Northampton Town,90,7.1,0,0,0,0,0,0,0,37,1,0,0,69,2,2,0,5,0,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Elliot List,F,Northampton Town,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Elliott Moore,D,Northampton Town,90,7.4,0,0,0,0,0,0,0,39,1,0,0,55,0,0,2,9,0,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Connor Lemonheigh-Evans,M,Northampton Town,89,6.6,0,0,0,0,2,1,0,25,1,0,0,42,2,1,0,6,1,0,0,0,1,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Harvey Saunders,F,Northampton Town,19,6.8,0,0,0,0,2,0,0,5,0,0,0,7,0,0,0,2,0,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,James Maxwell,D,Northampton Town,90,6.8,0,0,0,0,2,0,0,29,2,0,0,66,1,1,0,4,0,1,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Tyrese Fornah,M,Northampton Town,90,6.7,0,0,0,0,0,0,0,44,0,0,0,58,2,0,2,5,0,1,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Joe Wormleighton,M,Northampton Town,90,7.2,0,0,0,0,0,0,0,30,2,0,0,67,1,5,4,15,1,2,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Kamarai Swyer,F,Northampton Town,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Zach Jeacock,G,Northampton Town,90,6.6,0,0,0,0,0,0,0,38,0,0,0,40,0,0,0,1,0,1,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Jack Perkins,M,Northampton Town,19,6.8,0,0,0,0,0,0,0,9,0,0,0,14,1,0,1,2,0,0,0,0,0,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Logan Briggs,M,Northampton Town,89,6.2,0,0,0,0,1,1,0,20,0,0,0,43,4,2,0,6,2,0,0,0,1,0
+League Two,26_27,Northampton Town vs Swindon Town,15/08/2026,Matty Warhurst,F,Northampton Town,71,5.9,0,0,0,0,1,0,0,6,0,0,0,11,0,1,0,2,2,0,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Sean Raggett,D,Colchester United,90,6.8,0,0,0,0,1,0,0,32,0,0,0,58,0,0,1,12,1,1,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Paul Digby,M,Colchester United,45,6.4,0,0,0,0,0,0,0,20,0,0,0,27,0,1,1,3,2,0,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Jack Payne,M,Colchester United,90,7.7,0,1,0,0,1,1,0,45,4,1,0,71,0,3,0,6,0,2,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Harry Anderson,M,Colchester United,90,6.2,0,0,0,0,2,1,0,20,0,0,1,35,2,0,2,4,2,0,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Teddy Bishop,M,Colchester United,6,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Kane Vincent-Young,D,Colchester United,90,6.5,0,0,0,0,0,0,0,40,0,0,0,68,2,2,2,8,0,1,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Ellis Iandolo,D,Colchester United,90,7.9,1,0,0,0,1,1,0,54,2,0,0,85,1,1,0,9,2,2,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Rob Hunt,D,Colchester United,90,8,1,0,0,0,1,1,0,24,0,0,0,39,0,1,1,4,0,1,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Jack Tucker,D,Colchester United,90,6.4,0,0,0,0,1,1,0,38,0,0,0,59,0,1,0,6,0,1,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Thimothee Lo-Tutala,G,Colchester United,90,6.8,0,0,0,0,0,0,0,41,0,0,0,60,0,0,0,1,0,1,0,0,0,6
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Jake Leake,D,Colchester United,39,6.4,0,0,0,0,0,0,0,7,0,0,0,30,0,2,0,7,0,3,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Oscar Thorn,M,Colchester United,90,6.3,0,1,0,0,0,0,0,16,1,0,0,34,3,0,0,11,2,3,0,0,1,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Bradley Ihionvien,F,Colchester United,78,6.5,0,0,0,0,0,0,0,7,0,0,0,19,1,0,0,7,1,4,0,0,1,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Leon Chiwome,F,Colchester United,12,6.5,0,0,0,0,0,0,0,4,0,0,0,10,1,0,0,3,0,1,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Shaun Whalley,F,Accrington Stanley,75,7.4,0,1,0,0,2,1,0,19,3,1,0,45,2,4,1,8,2,1,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Seamus Conneely,M,Accrington Stanley,80,7.3,0,0,0,0,2,1,0,45,1,0,0,56,0,0,2,6,0,0,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Cole Stockton,F,Accrington Stanley,15,6.2,0,0,0,0,1,0,0,5,0,0,0,11,0,0,0,1,0,1,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Farrend Rawson,D,Accrington Stanley,90,6.2,0,0,0,0,1,1,0,28,2,1,1,46,0,1,1,8,2,0,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Donald Love,D,Accrington Stanley,90,7.3,0,0,0,0,0,0,0,33,2,1,0,53,1,2,2,6,0,2,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Liam Coyle,M,Accrington Stanley,10,6.9,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,1,0,0,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Louie Moulden,G,Accrington Stanley,90,6,0,0,0,0,0,0,0,30,0,0,0,36,0,0,0,0,0,0,0,0,0,3
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Joseph Anderson,D,Accrington Stanley,90,6.4,0,0,0,0,2,0,0,26,0,0,0,44,1,2,0,3,3,0,1,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Charlie Caton,F,Accrington Stanley,90,8.7,2,0,0,0,7,5,0,20,0,0,2,41,3,0,0,9,1,0,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Tom Moore,D,Accrington Stanley,90,6.5,0,0,0,0,1,1,0,38,0,0,0,63,0,0,0,7,1,1,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Josh Woods,F,Accrington Stanley,87,6.1,0,0,0,0,3,0,0,26,3,0,1,44,0,1,0,6,3,1,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Connor O'Brien,M,Accrington Stanley,90,7.1,0,1,0,0,0,0,0,34,2,1,0,58,1,3,1,5,5,1,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Devon Matthews,D,Accrington Stanley,90,6.3,0,0,0,0,0,0,0,26,0,0,0,42,0,1,0,7,2,2,0,0,0,0
+League Two,26_27,Accrington Stanley vs Colchester United,15/08/2026,Alex Henderson,M,Accrington Stanley,8,6.6,0,0,0,0,0,0,0,2,0,0,0,4,0,1,0,1,1,0,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Andy Cook,F,Grimsby Town,74,6.5,0,0,0,0,1,1,0,6,0,0,0,24,0,1,1,4,2,0,0,0,2,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Jamie Walker,M,Grimsby Town,11,6.9,0,0,0,0,1,1,0,2,0,0,0,8,1,0,0,1,0,0,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Christy Pym,G,Grimsby Town,90,7.6,0,0,0,0,0,0,0,39,0,0,0,51,0,0,0,1,0,1,0,0,0,1
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Kieran Green,M,Grimsby Town,84,6.4,0,0,0,0,2,0,0,26,0,0,0,39,0,0,0,3,0,0,0,0,1,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Harvey Rodgers,D,Grimsby Town,90,7.9,1,0,0,0,3,1,0,32,2,0,0,68,1,1,0,9,0,0,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Justin Amaluzor,M,Grimsby Town,68,6.6,0,0,0,0,1,0,0,13,0,0,0,26,0,0,0,3,1,2,0,0,1,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Charles Vernam,M,Grimsby Town,90,8.1,0,1,0,0,3,1,0,25,2,0,0,48,1,1,1,4,0,1,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Cameron McJannett,D,Grimsby Town,90,7.1,0,0,0,0,2,0,0,61,0,0,0,74,0,4,0,7,4,0,1,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Jayden Sweeney,D,Grimsby Town,90,7.7,0,0,0,0,1,0,0,50,2,1,0,85,0,6,0,8,1,1,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Josh Andrews,F,Grimsby Town,16,6.3,0,0,0,0,1,0,0,5,0,0,0,9,0,0,0,0,2,0,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Géza Dávid Turi,M,Grimsby Town,90,6.9,0,0,0,0,1,0,0,51,1,0,0,66,0,1,1,4,0,2,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Maldini Kacurri,D,Grimsby Town,90,7.1,0,0,0,0,0,0,0,36,0,0,0,52,1,1,0,11,2,1,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Iwan Morgan,F,Grimsby Town,22,6.5,0,0,0,0,3,0,0,5,0,0,1,26,4,0,0,4,2,0,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Ryley Reynolds,M,Grimsby Town,22,6.7,0,0,0,0,0,0,0,8,1,0,0,9,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Cian Doyle,M,Grimsby Town,68,6.4,0,0,0,0,0,0,0,26,1,0,0,37,0,2,0,4,1,0,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Gwion Edwards,M,Exeter City,31,6.7,0,0,0,0,0,0,0,16,1,0,0,25,1,1,0,3,0,1,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Jack Fitzwater,D,Exeter City,90,7.8,0,0,0,0,1,0,0,47,0,0,0,95,0,3,1,9,0,0,0,0,1,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Josh Gordon,F,Exeter City,32,6.8,0,0,0,0,0,0,0,9,0,0,0,16,1,0,0,6,1,2,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Reece Cole,M,Exeter City,90,7,0,0,0,0,1,0,0,29,3,1,0,45,0,1,1,3,0,1,0,0,2,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Jake Doyle-Hayes,M,Exeter City,58,6.6,0,0,0,0,0,0,0,30,0,0,0,35,0,0,0,4,1,0,1,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Taylor Perry,M,Exeter City,81,6.5,0,0,0,0,0,0,0,23,0,0,0,36,0,2,0,3,1,0,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Jack Bycroft,G,Exeter City,90,7.3,0,0,0,0,0,0,0,40,0,0,0,55,0,0,0,2,0,0,0,0,0,3
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Jayden Wareham,F,Exeter City,90,7.2,0,0,0,0,4,1,0,15,0,0,1,29,0,0,0,14,1,3,0,0,3,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Luca Woodhouse,D,Exeter City,90,7.4,0,0,0,0,0,0,0,44,0,0,0,63,0,3,1,10,0,3,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Vincent Harper,M,Exeter City,59,6.7,0,0,0,0,0,0,0,12,0,0,0,32,0,2,0,5,1,2,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Andrew Oluwabori,M,Exeter City,58,6.1,0,0,0,0,0,0,0,9,0,0,0,28,0,0,0,4,1,2,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Lakyle Samuel,D,Exeter City,32,6.7,0,0,0,0,1,0,0,6,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Edward James,D,Exeter City,90,6.7,0,0,0,0,1,0,0,32,1,0,1,46,0,0,0,2,1,0,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,Charlie Cummins,M,Exeter City,90,6.7,0,0,0,0,0,0,0,40,0,0,0,63,0,3,0,8,1,1,0,0,0,0
+League Two,26_27,Grimsby Town vs Exeter City,15/08/2026,George Birch,M,Exeter City,9,6.7,0,0,0,0,0,0,0,1,1,0,0,5,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Kyle McFadzean,D,Chesterfield,90,6.8,0,0,0,0,0,0,0,80,0,0,0,98,0,2,3,4,1,2,1,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Tom Naylor,M,Chesterfield,9,6.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Ryan Boot,G,Chesterfield,90,6.5,0,0,0,0,0,0,0,36,0,0,0,57,0,0,0,1,0,1,0,0,0,6
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Liam Mandeville,M,Chesterfield,23,6.6,0,0,0,0,0,0,0,6,0,0,0,10,0,0,0,1,0,1,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Jack Simpson,D,Chesterfield,90,7.3,0,0,0,0,0,0,0,84,0,0,0,101,0,1,0,7,0,1,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Josh Koroma,F,Chesterfield,87,6.6,0,0,0,0,3,1,0,25,2,1,0,41,1,0,0,3,1,1,0,0,1,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,George James McEachran,M,Chesterfield,87,7,0,0,0,0,0,0,0,51,0,0,0,71,1,2,1,5,1,1,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Ruel Sotiriou,F,Chesterfield,67,6.5,0,0,0,0,5,1,0,12,0,0,2,25,0,0,0,3,1,1,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Dilan Markanday,M,Chesterfield,90,6.5,0,0,0,0,3,0,0,29,3,2,2,53,1,1,2,4,2,2,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Ryan Stirk,M,Chesterfield,90,6.8,0,0,0,0,0,0,0,63,1,1,0,69,1,2,0,4,0,0,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Remeao Hutton,D,Chesterfield,90,7,0,0,0,0,0,0,0,62,2,0,0,112,1,1,1,5,0,2,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Lewis Gordon,D,Chesterfield,88,7,0,0,0,0,1,0,0,68,2,1,0,83,0,3,0,4,0,1,0,0,1,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Lee Bonis,F,Chesterfield,67,6.1,0,0,0,0,3,0,0,6,1,0,1,14,0,1,2,5,1,0,0,0,1,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Malik Owolabi-Belewu,D,Chesterfield,8,6.7,0,0,0,0,0,0,0,8,0,0,0,13,0,1,0,1,0,0,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Fraser Bryden,F,Chesterfield,23,7,0,0,0,0,1,1,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Danny Anisjko,F,Chesterfield,9,6.5,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,1,0,1,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Ched Evans,F,Fleetwood Town,78,6.8,1,0,0,0,4,2,0,9,0,0,1,27,0,1,0,1,5,0,1,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Danny Andrew,D,Fleetwood Town,19,6.6,0,0,0,0,0,0,0,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Jay Lynch,G,Fleetwood Town,90,8.8,0,0,0,0,0,0,0,41,0,0,0,49,0,0,0,0,0,0,0,0,0,3
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Andy Cannon,M,Fleetwood Town,35,7.2,0,0,0,0,3,2,0,12,2,0,1,23,2,2,0,5,1,1,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Shaun Rooney,D,Fleetwood Town,90,7.2,0,0,0,0,0,0,0,22,0,0,0,37,2,1,1,6,1,1,1,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Lewis McCann,M,Fleetwood Town,90,7.2,0,0,0,0,2,1,0,15,0,0,1,47,1,6,1,9,2,0,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Mark Helm,M,Fleetwood Town,90,7.1,0,0,0,0,2,1,0,25,2,2,0,40,1,0,0,2,0,1,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Kane Thompson-Sommers,M,Fleetwood Town,55,6.4,0,0,0,0,0,0,0,10,1,0,0,19,0,0,1,0,0,0,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Rhys Bennett,D,Fleetwood Town,90,7.2,0,0,0,0,0,0,0,25,0,0,0,37,0,1,3,4,0,1,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Harrison Neal,M,Fleetwood Town,90,7.3,0,0,0,0,0,0,0,35,0,0,0,50,0,3,1,6,2,2,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Finley Potter,D,Fleetwood Town,90,7.1,0,0,0,0,0,0,0,33,2,0,0,59,0,4,2,9,1,0,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Aaron Loupalo-Bi,F,Fleetwood Town,12,6.5,0,0,0,0,0,0,0,5,0,0,0,11,0,3,0,4,0,0,0,0,0,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Will Davies,F,Fleetwood Town,90,6.2,0,1,0,0,3,1,0,19,2,0,0,37,1,0,0,7,2,1,0,0,1,0
+League Two,26_27,Chesterfield vs Fleetwood Town,15/08/2026,Raffaele Cirino,D,Fleetwood Town,71,6.9,0,0,0,0,0,0,0,18,1,0,0,34,0,2,3,3,0,1,1,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Garath McCleary,M,Gillingham,18,6.2,0,0,0,0,0,0,0,8,0,0,0,14,0,1,0,1,0,0,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Omar Beckles,D,Gillingham,90,6.9,0,0,0,0,1,1,0,39,0,0,0,56,0,3,2,7,0,1,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Kadeem Harris,M,Gillingham,72,6.4,0,0,0,0,3,1,0,17,1,0,0,42,0,2,2,2,1,0,1,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Liam Gordon,D,Gillingham,37,6.9,0,0,0,0,0,0,0,17,0,0,0,24,1,1,0,3,0,0,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,James Brophy,M,Gillingham,90,7.3,0,0,0,0,2,0,1,41,3,0,0,59,2,0,0,6,1,1,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Nick Freeman,M,Gillingham,90,6.7,0,0,0,0,1,0,0,16,2,0,0,34,0,1,0,1,0,0,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Ronan Hale,F,Gillingham,90,6.7,0,0,0,0,5,3,0,17,1,0,0,43,4,0,0,8,3,2,1,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Robbie McKenzie,M,Gillingham,59,6.8,0,0,0,0,0,0,0,20,2,0,0,34,0,2,0,6,1,0,1,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Armani Little,M,Gillingham,31,7.6,0,0,0,0,0,0,0,19,1,1,0,28,0,1,1,4,0,2,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Andy Smith,D,Gillingham,90,5.5,0,0,0,0,0,0,0,18,2,0,0,37,0,0,2,0,1,0,1,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Will Goodwin,F,Gillingham,72,6,0,0,0,0,5,2,2,9,0,0,2,24,0,0,0,4,0,0,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Sebastian Palmer-Houlden,F,Gillingham,18,6.8,0,0,0,0,1,0,0,7,0,0,0,12,0,2,0,6,0,0,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Zane Albarus,M,Gillingham,90,6.7,0,0,0,0,0,0,0,17,0,0,0,31,0,3,0,8,5,1,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Logan Dobbs,D,Gillingham,53,5.5,0,0,0,0,0,0,0,22,0,0,0,32,0,0,2,1,0,0,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Sven Sprangler,M,Walsall,90,6.6,0,0,0,0,1,0,0,45,1,0,0,59,1,3,2,4,1,0,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Andy Dallas,F,Walsall,67,6.5,0,0,0,0,0,0,0,13,2,0,0,27,1,1,0,7,0,4,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Aaron Pressley,F,Walsall,90,8,1,0,0,0,5,3,0,20,1,0,2,40,0,0,0,9,2,1,0,0,1,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Lewis Simper,M,Walsall,60,6.5,0,0,0,0,1,0,0,9,0,0,0,20,0,1,0,2,1,0,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,James Connolly,D,Walsall,90,7.7,1,0,0,0,3,1,0,62,1,0,0,83,1,1,0,11,0,2,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Reece Smith,M,Walsall,90,6.6,0,0,0,0,2,0,0,30,3,0,1,57,5,0,1,7,0,2,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Jed Ward,G,Walsall,90,9.5,0,0,0,0,0,0,0,38,0,0,0,54,0,0,0,0,0,0,0,0,0,7
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Courtney Clarke,M,Walsall,30,7.3,0,1,0,0,5,1,0,2,2,2,0,17,1,1,0,3,2,0,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Mason Hancock,D,Walsall,74,7.1,0,0,0,0,0,0,0,48,1,0,0,69,2,1,1,6,0,0,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Tai Sodje,F,Walsall,23,6.9,0,0,0,0,0,0,0,10,0,0,0,18,1,1,0,4,0,1,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Charlie Crew,M,Walsall,60,6.8,0,0,0,0,1,0,0,30,0,0,0,42,0,1,0,2,1,1,1,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Elicha Ahui,D,Walsall,45,6.7,0,0,0,0,0,0,0,12,0,0,0,27,0,3,2,5,1,0,1,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Roman Dixon,D,Walsall,45,7,0,0,0,0,0,0,0,11,1,1,0,24,0,2,1,3,0,1,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Declan Skura,D,Walsall,90,7.1,0,0,0,0,0,0,0,38,0,0,0,58,1,1,1,6,0,0,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Harrison Burke,D,Walsall,16,6.8,0,0,0,0,0,0,0,6,1,0,0,11,0,0,1,1,0,0,0,0,0,0
+League Two,26_27,Gillingham vs Walsall,15/08/2026,Isaac Moore,M,Walsall,30,7.7,1,0,0,0,1,1,0,18,2,1,0,26,1,1,0,3,0,0,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Mickey Demetriou,D,Crewe Alexandra,85,7,0,0,0,0,1,0,0,41,0,0,0,59,0,0,0,5,2,1,2,1,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Jordan Gibson,M,Crewe Alexandra,67,6.5,0,0,0,0,3,1,0,15,2,1,0,27,1,1,1,3,1,0,1,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Luke Offord,D,Crewe Alexandra,90,7.6,0,0,0,0,1,0,0,50,0,0,0,63,0,1,2,4,1,1,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Reece Hutchinson,D,Crewe Alexandra,90,7.7,0,0,0,0,2,1,0,37,1,0,0,70,2,5,1,7,2,0,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Jack Lankester,F,Crewe Alexandra,90,6.6,0,0,0,0,4,1,0,15,1,0,3,36,1,3,0,4,0,0,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Joe White,M,Crewe Alexandra,57,6,0,0,0,0,1,0,0,15,0,0,0,30,2,1,3,4,3,1,1,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Josh March,F,Crewe Alexandra,90,7.2,1,0,0,0,4,2,0,14,1,1,0,34,0,3,0,7,2,0,0,0,1,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Charlie McNeill,F,Crewe Alexandra,23,6.8,0,0,0,0,1,0,0,5,0,0,0,14,0,3,0,4,1,1,1,0,1,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Joel Tabiner,M,Crewe Alexandra,33,8.3,0,1,0,0,0,0,0,18,4,1,0,30,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Matúš Holíček,M,Crewe Alexandra,90,6.7,0,0,0,0,0,0,0,47,2,0,0,57,0,3,0,4,1,0,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Calum Agius,M,Crewe Alexandra,90,6.6,0,0,0,0,0,0,0,28,1,0,0,38,1,1,0,3,3,0,1,0,1,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Lewis Billington,D,Crewe Alexandra,90,6.9,0,0,0,0,1,0,0,37,2,0,0,60,0,1,0,3,2,0,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Tom Booth,G,Crewe Alexandra,90,7.6,0,0,0,0,0,0,0,24,0,0,0,35,0,0,0,2,0,2,0,0,0,4
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Vito Mannone,G,Crawley Town,45,6.5,0,0,0,0,0,0,0,29,0,0,0,34,0,0,0,1,0,1,0,0,0,1
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Kellan Gordon,M,Crawley Town,51,6,0,0,0,0,0,0,0,22,0,0,0,41,0,1,0,5,0,4,0,1,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Stephen Duke-McKenna,M,Crawley Town,73,7.5,0,0,0,0,2,2,0,12,2,1,0,28,3,0,0,5,0,2,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Priestley Farquharson,D,Crawley Town,90,6.3,0,0,0,0,0,0,0,40,0,0,0,52,0,0,1,1,1,0,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Louie Watson,M,Crawley Town,90,7,0,0,0,0,1,1,0,32,1,0,0,58,1,1,3,6,1,1,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Akin Odimayo,D,Crawley Town,17,6.4,0,0,0,0,0,0,0,3,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Charlie Barker,D,Crawley Town,90,6.7,0,0,0,0,0,0,0,43,0,0,0,66,0,1,0,4,1,1,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Jude Arthurs,M,Crawley Town,90,6.9,0,0,0,0,2,0,0,40,1,1,0,51,1,0,0,4,1,1,1,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Ade Adeyemo,M,Crawley Town,73,7.8,0,0,0,0,0,0,0,32,1,0,0,55,3,4,1,9,0,0,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Malcolm Ebiowei,M,Crawley Town,64,6,0,0,0,0,0,0,0,14,0,0,0,25,0,0,0,3,0,3,0,1,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Osman Kamara,F,Crawley Town,17,6.6,0,0,0,0,0,0,0,2,0,0,0,8,0,1,0,1,0,0,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Johnny Russell,D,Crawley Town,35,6.8,0,0,0,0,0,0,0,2,1,0,0,15,0,1,0,2,0,0,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Gianmarco Di Biase,F,Crawley Town,55,6.4,0,0,0,0,3,0,0,5,0,0,1,10,0,0,0,1,0,0,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Nicholas Michalski,G,Crawley Town,45,6.8,0,0,0,0,0,0,0,22,0,0,0,31,0,0,0,1,0,1,0,0,0,3
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Pemi Aderoju,F,Crawley Town,23,6.6,0,0,0,0,1,1,0,2,0,0,1,12,1,0,0,5,2,4,0,0,0,0
+League Two,26_27,Crawley Town vs Crewe Alexandra,15/08/2026,Klaudio Krasniqi,M,Crawley Town,67,6.7,0,0,0,0,0,0,0,26,0,0,0,37,1,2,0,4,0,0,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Tom Ince,M,Tranmere Rovers,89,7,0,0,0,0,1,0,0,15,0,0,0,34,0,1,1,3,1,1,0,0,1,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Sam Finley,M,Tranmere Rovers,26,6.7,0,0,0,0,0,0,0,14,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Will Vaulks,M,Tranmere Rovers,90,7.4,0,0,0,0,0,0,0,39,3,1,0,70,0,1,2,5,2,1,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Joe Ironside,F,Tranmere Rovers,89,6.7,0,1,0,0,0,0,0,19,1,0,0,39,0,0,0,8,1,2,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Jordan Turnbull,D,Tranmere Rovers,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Patrick Brough,D,Tranmere Rovers,90,6.9,0,0,0,0,0,0,0,12,0,0,0,27,0,1,1,6,1,0,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Tom Conlon,M,Tranmere Rovers,64,6.9,0,0,0,0,0,0,0,27,1,0,0,41,1,1,0,4,1,0,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Courtney Baker-Richardson,F,Tranmere Rovers,1,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,2,0,1,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Nathan James Smith,D,Tranmere Rovers,90,7.8,0,0,0,0,1,0,0,17,0,0,0,44,0,2,0,11,1,1,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Jordan Davies,M,Tranmere Rovers,73,7.2,1,0,0,0,2,2,0,19,0,0,0,44,1,0,0,7,2,1,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Joel Senior,D,Tranmere Rovers,90,6.6,0,0,0,0,0,0,0,22,0,0,0,50,1,2,1,4,1,0,1,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Harrison Male,G,Tranmere Rovers,90,8.1,0,0,0,0,0,0,0,33,0,0,0,40,0,0,0,0,0,0,0,0,0,3
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Charlie Whitaker,F,Tranmere Rovers,90,8.4,1,0,0,0,3,2,0,21,1,0,1,42,3,1,2,9,2,3,1,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Bobby Faulkner,D,Tranmere Rovers,90,10,0,1,0,0,0,0,0,31,1,1,0,57,0,0,0,11,1,1,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Zane Okoro,M,Tranmere Rovers,17,6.4,0,0,0,0,0,0,0,1,0,0,0,7,0,2,0,3,2,0,1,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Josh Ruffels,D,Shrewsbury Town,90,5.7,0,0,0,0,1,1,0,38,0,0,0,60,0,1,5,4,1,0,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,William Boyle,D,Shrewsbury Town,90,6.5,0,0,0,0,1,0,0,36,1,0,1,56,0,2,0,13,1,0,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,George Lloyd,F,Shrewsbury Town,65,6.7,0,0,0,0,3,2,0,11,0,0,2,22,0,0,0,8,0,3,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Thomas Sang,M,Shrewsbury Town,82,7.5,0,0,0,0,0,0,0,29,4,0,0,51,0,1,0,5,0,0,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Kevin Berkoe,M,Shrewsbury Town,90,6.9,0,0,0,0,0,0,0,43,1,0,0,89,2,1,0,11,0,5,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Josh Davison,F,Shrewsbury Town,90,6.2,0,0,0,0,3,1,0,13,0,0,0,20,0,0,0,5,2,1,1,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Luca Hoole,D,Shrewsbury Town,90,7.2,0,0,0,0,0,0,0,39,0,0,0,54,0,6,0,10,1,1,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Isaac Fletcher,F,Shrewsbury Town,90,6.7,0,0,0,0,1,0,0,27,2,0,0,39,0,1,0,5,0,0,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Joe Gbode,F,Shrewsbury Town,25,6.8,0,0,0,0,4,1,0,3,1,0,0,16,2,1,0,6,0,1,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Jay Turner-Cooke,M,Shrewsbury Town,26,6.7,0,0,0,0,0,0,0,11,0,0,0,20,0,1,0,1,1,0,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Will Brook,G,Shrewsbury Town,90,6.6,0,0,0,0,0,0,0,37,0,0,0,52,1,0,0,2,0,0,0,0,0,2
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Arkell Jude-Boyd,D,Shrewsbury Town,89,7.7,0,0,0,0,2,0,0,25,3,2,0,48,1,0,0,3,2,2,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Isaac England,M,Shrewsbury Town,8,6.8,0,0,0,0,0,0,0,7,0,0,0,9,0,0,0,1,0,1,1,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Will Gray,M,Shrewsbury Town,64,6.2,0,0,0,0,0,0,0,26,0,0,0,37,0,4,1,6,1,1,0,0,0,0
+League Two,26_27,Tranmere Rovers vs Shrewsbury Town,15/08/2026,Hugo Aiston,F,Shrewsbury Town,1,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Ollie Banks,M,York City,90,7.1,0,0,0,0,0,0,0,78,1,0,0,100,0,1,0,7,1,2,1,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Mark Kitching,D,York City,90,5.9,0,0,0,0,0,0,0,74,1,0,0,92,0,0,0,2,1,1,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Afolabi Akinyemi,F,York City,43,6.3,0,0,0,0,1,1,0,4,1,0,1,6,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Arthur Read,M,York City,21,6.5,0,0,0,0,1,1,0,10,0,0,1,15,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Alex Newby,M,York City,47,8.5,1,1,0,0,2,1,0,20,1,1,0,30,2,0,0,2,0,0,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Morgan Williams,D,York City,90,6.9,0,0,0,0,0,0,0,44,0,0,0,59,0,3,1,6,1,0,1,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Alex Hunt,M,York City,69,6.8,0,0,0,0,1,0,0,69,1,0,0,86,1,1,1,2,2,0,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Joe Felix,D,York City,90,7.3,0,0,0,0,1,0,0,41,1,0,0,74,0,1,0,4,0,2,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Zech Medley,D,York City,12,6.7,0,0,0,0,0,0,0,5,0,0,0,8,0,0,0,1,0,0,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Joe Grey,M,York City,90,7.7,0,1,0,0,2,0,0,39,4,3,0,59,1,1,1,3,1,0,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Harry Boyes,D,York City,83,8.4,2,0,0,0,4,2,0,29,4,1,0,58,1,3,0,7,2,3,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Alfie McNally,G,York City,90,6.8,0,0,0,0,0,0,0,34,0,0,0,42,0,0,0,0,0,0,0,0,0,1
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Zak Johnson,D,York City,90,7.1,0,0,0,0,0,0,0,99,0,0,0,123,0,2,0,5,0,2,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Ollie Pearce,F,York City,90,6.5,0,1,0,0,4,1,0,25,2,0,1,36,1,0,0,1,1,0,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Richard Smallwood,M,Bristol Rovers,61,6.6,0,0,0,0,0,0,0,10,0,0,0,12,0,0,0,1,0,0,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Joe Quigley,F,Bristol Rovers,68,7.2,0,0,0,0,1,0,0,6,1,0,0,17,0,2,0,8,2,2,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Jack Sparkes,D,Bristol Rovers,90,7.4,0,0,0,0,0,0,0,21,0,0,0,53,0,2,1,5,1,0,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Kofi Balmer,D,Bristol Rovers,90,6.4,0,0,0,0,0,0,0,17,0,0,0,35,0,1,0,4,0,1,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Clinton Mola,D,Bristol Rovers,90,7.3,1,0,0,0,2,1,0,22,0,0,0,35,0,2,2,3,4,1,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Macauley Southam-Hales,M,Bristol Rovers,90,6.9,0,0,0,0,0,0,0,25,0,0,0,42,0,0,1,6,1,1,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Riley Harbottle,D,Bristol Rovers,90,5.7,0,0,0,0,0,0,0,28,0,0,0,40,1,0,0,4,1,0,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Bobby Kamwa,M,Bristol Rovers,11,6.4,0,0,0,0,2,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Shaqai Forde,F,Bristol Rovers,84,7.5,0,0,0,0,4,0,0,12,1,0,0,25,0,2,0,4,0,2,0,0,1,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Tommy Leigh,M,Bristol Rovers,29,7.1,1,0,0,0,2,1,0,15,1,0,0,22,0,0,0,2,0,0,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Brad Young,G,Bristol Rovers,90,6.1,0,0,0,0,0,0,0,40,0,0,0,46,0,0,0,0,0,0,0,0,0,3
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Fabrizio Cavegn,F,Bristol Rovers,90,6.7,0,1,0,0,1,1,0,9,3,1,0,27,1,0,0,1,0,0,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Reiss-Alexander Russell-Denny,M,Bristol Rovers,22,6.4,0,0,0,0,1,0,0,5,0,0,0,11,1,0,0,2,0,1,0,0,0,0
+League Two,26_27,York City vs Bristol Rovers,15/08/2026,Keenan Gough,M,Bristol Rovers,90,6,0,0,0,0,0,0,0,25,2,0,0,40,0,1,1,2,1,1,0,0,0,0
