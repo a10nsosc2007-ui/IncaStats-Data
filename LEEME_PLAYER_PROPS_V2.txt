@@ -1,0 +1,30 @@
+PLAYER PROPS V2 · MASTER V1 + RESCATES
+
+FUENTE CORRECTA:
+- MASTER V1 subido por el usuario: 36,574 filas / 1,675 jugadores.
+- 6 rescates: 3,252 filas / 152 jugadores.
+- FINAL: 39,826 filas / 1,827 jugadores.
+- Duplicados jugador + partido: 0.
+
+RUTA NUEVA Y ÚNICA:
+IncaStats-Data/
+└── TITAN_ALONSINHO_V1_GITHUB_READY/
+    └── data/
+        └── player-props-v2/
+            ├── manifest.json
+            └── players/
+                └── <ID_Jugador>.json
+
+QUÉ BORRAR:
+1. Copia primero TITAN_ALONSINHO_V1_GITHUB_READY del ZIP sobre tu repo.
+2. Ejecuta 1_LIMPIAR_PLAYER_PROPS_ANTIGUO_V64R.bat desde la raíz IncaStats-Data.
+3. El BAT borra únicamente:
+   - data/player-props-master/
+   - data/player-props-rescates-v1/
+   - data/player-scout-current/
+4. NO borra player-props-v2 ni las bases usadas por otros módulos.
+5. GitHub Desktop -> revisar -> Commit -> Push.
+
+IMPORTANTE:
+V64R sólo consulta player-props-v2.
+No tiene fallback a las bases antiguas, así que no puede mezclarlas por error.
