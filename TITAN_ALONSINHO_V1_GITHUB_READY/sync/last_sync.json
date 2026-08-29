@@ -1,26 +1,38 @@
 {
-  "schema_version": "incastats.titan_sync.v2.2",
-  "synced_at": "2026-08-18T16:36:45.776031Z",
-  "delta": "ACTUALIZAR_GITHUB_SUECIA_NORUEGA_55_SAFE.zip",
-  "delta_sha256": "9c076bde37ea2a6a20e54632212085eafdd4aec1afe2f5d80ae04994c1a79a2a",
-  "window": null,
+  "schema_version": "incastats.titan_sync.v3",
+  "synced_at": "2026-08-29T04:17:26.067801Z",
+  "delta": "TITAN_DELTA_V3_UNIFIED_2026-08-29T04-03-00-000Z_746_eventos.zip",
+  "delta_sha256": "a7171267f0bbc5f304c4e012848442727214af69af845402bdb7e0c5cd2e54d7",
+  "window": {
+    "requested_from": "2026-08-16T04:03:00.000Z",
+    "effective_from": "2026-08-14T04:03:00.000Z",
+    "requested_to": "2026-08-29T04:03:00.000Z",
+    "overlap_hours": 48
+  },
   "counts": {
-    "source_unique_events": 5803,
-    "valid_events": 5800,
-    "affected_teams": 55,
-    "team_csv_rows": 58248,
-    "incomplete": 1402,
-    "friendlies_excluded_by_extractor": 2359,
-    "exhibition_events_removed_by_safe_patch": 3
+    "unique_events_discovered": 843,
+    "valid_events": 746,
+    "incomplete": 56,
+    "friendlies_excluded": 41,
+    "affected_teams": 589,
+    "requests": 9227,
+    "player_rows": 17265,
+    "player_events": 553,
+    "unique_players": 10036,
+    "player_incomplete_events": 3
   },
   "merge": {
-    "team_files_changed": 55,
-    "rows_inserted": 54078,
-    "rows_replaced": 4170,
-    "master_unique_matches_after": 83449,
+    "team_files_changed": 589,
+    "rows_inserted": 5436,
+    "rows_replaced": 2868,
+    "player_rows_before": 56787,
+    "player_rows_inserted": 10256,
+    "player_rows_replaced": 7009,
+    "player_rows_after": 67043,
+    "master_unique_matches_after": 83955,
     "teams_after": 751,
-    "competitions_after": 160,
-    "seasons_after": 660
+    "competitions_after": 161,
+    "seasons_after": 670
   },
-  "backup_folder": "C:\\Users\\MSI CYBORG\\OneDrive\\Documentos\\GitHub\\IncaStats-Data_TITAN_BACKUPS\\20260818_113540"
+  "backup_folder": "C:\\Users\\MSI CYBORG\\OneDrive\\Documentos\\GitHub\\IncaStats-Data_TITAN_BACKUPS\\20260828_231239"
 }

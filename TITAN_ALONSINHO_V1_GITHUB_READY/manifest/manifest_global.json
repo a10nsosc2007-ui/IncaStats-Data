@@ -2,7 +2,7 @@
   "schema_version": "titan.master_manifest.v1",
   "product": "TITAN ALONSINHO V1 PRO",
   "extractor_version": "1.0.0_TITAN_ALONSINHO_PRO",
-  "generated_at": "2026-08-18",
+  "generated_at": "2026-08-29",
   "coverage": {
     "start_year": 2021,
     "end_year": 2026,
@@ -15,12 +15,12 @@
     "countries": 25
   },
   "counts": {
-    "competitions": 160,
-    "competition_seasons": 660,
-    "unique_matches": 83449,
+    "competitions": 161,
+    "competition_seasons": 670,
+    "unique_matches": 83955,
     "cards": 355826,
-    "portal_shards": 660,
-    "portal_rows": 500694
+    "portal_shards": 670,
+    "portal_rows": 503730
   },
   "dedupe": {
     "portal_rows_removed": 185130,
@@ -97,23 +97,35 @@
   },
   "full_data_release": "TITAN_ALONSINHO_V1_FULL_DATA_RELEASE.zip",
   "live_update": {
-    "sync_version": "TITAN_SYNC_V2_2_SAFE",
-    "updated_at": "2026-08-18T16:36:44.479642Z",
-    "delta_file": "ACTUALIZAR_GITHUB_SUECIA_NORUEGA_55_SAFE.zip",
-    "delta_sha256": "9c076bde37ea2a6a20e54632212085eafdd4aec1afe2f5d80ae04994c1a79a2a",
-    "window": null,
-    "delta_counts": {
-      "source_unique_events": 5803,
-      "valid_events": 5800,
-      "affected_teams": 55,
-      "team_csv_rows": 58248,
-      "incomplete": 1402,
-      "friendlies_excluded_by_extractor": 2359,
-      "exhibition_events_removed_by_safe_patch": 3
+    "sync_version": "TITAN_SYNC_V3_UNIFIED",
+    "updated_at": "2026-08-29T04:17:24.942092Z",
+    "delta_file": "TITAN_DELTA_V3_UNIFIED_2026-08-29T04-03-00-000Z_746_eventos.zip",
+    "delta_sha256": "a7171267f0bbc5f304c4e012848442727214af69af845402bdb7e0c5cd2e54d7",
+    "window": {
+      "requested_from": "2026-08-16T04:03:00.000Z",
+      "effective_from": "2026-08-14T04:03:00.000Z",
+      "requested_to": "2026-08-29T04:03:00.000Z",
+      "overlap_hours": 48
     },
-    "affected_team_files": 55,
-    "inserted_rows": 54078,
-    "replaced_rows": 4170,
-    "note": "cards count remains the original full snapshot unless a future full cards rebuild is run"
+    "delta_counts": {
+      "unique_events_discovered": 843,
+      "valid_events": 746,
+      "incomplete": 56,
+      "friendlies_excluded": 41,
+      "affected_teams": 589,
+      "requests": 9227,
+      "player_rows": 17265,
+      "player_events": 553,
+      "unique_players": 10036,
+      "player_incomplete_events": 3
+    },
+    "affected_team_files": 589,
+    "inserted_rows": 5436,
+    "replaced_rows": 2868,
+    "player_rows_before": 56787,
+    "player_rows_inserted": 10256,
+    "player_rows_replaced": 7009,
+    "player_rows_after": 67043,
+    "note": "V3 actualiza match stats ALL_OFFICIAL y player stats SOLO LEAGUE en una sola operación."
   }
 }

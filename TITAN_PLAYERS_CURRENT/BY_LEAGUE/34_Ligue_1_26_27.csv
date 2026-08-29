@@ -1,0 +1,315 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Geoffrey Kondogbia,M,Olympique de Marseille,83,7.5,0,0,0,0.00751345,0,0,0,78,0,0,0,91,0,4,3,5,0,1,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Pierre-Emile Højbjerg,M,Olympique de Marseille,90,8.2,1,0,0.1277,0.0730127,3,1,0,89,1,0,0,106,0,2,2,4,0,1,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Emerson,D,Olympique de Marseille,90,7.1,0,0,0,0.0199363,0,0,0,59,0,0,0,85,1,2,1,6,1,2,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Neal Maupay,F,Olympique de Marseille,1,0,0,0,0,0.00516961,0,0,0,6,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Derek Cornelius,D,Olympique de Marseille,15,6.7,0,0,0,0.00084204,0,0,0,13,0,0,0,14,0,0,1,0,0,0,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Jeffrey De Lange,G,Olympique de Marseille,90,6.9,0,0,0,0.00013517,0,0,0,32,0,0,0,37,0,0,0,0,0,0,0,0,0,2
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Amine Harit,M,Olympique de Marseille,83,6.3,0,0,0.0256,0.0645149,1,1,0,28,1,0,0,43,0,2,0,3,0,1,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Timothy Weah,M,Olympique de Marseille,90,6.7,0,0,0,0.0809873,0,0,0,70,1,0,0,78,0,0,0,1,2,0,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Amine Gouiri,F,Olympique de Marseille,90,8.1,2,0,1.3289,0.0230883,5,3,0,27,1,0,0,46,0,1,0,4,0,3,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Angel Gomes,M,Olympique de Marseille,89,7.7,0,1,0.3327,0.341231,3,1,0,46,2,1,1,64,1,3,0,6,1,1,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Nayef Aguerd,D,Olympique de Marseille,15,6.9,0,0,0,0.005509,0,0,0,27,0,0,0,28,0,0,0,2,1,0,1,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Himad Abdelli,M,Olympique de Marseille,83,7.4,0,0,0,0.0549729,0,0,0,58,0,0,0,64,1,1,0,2,0,0,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Igor Paixão,M,Olympique de Marseille,90,7.1,0,0,0.0225,0.0724996,1,1,0,38,0,0,0,59,2,1,0,5,1,2,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Conrad Jaden Egan-Riley,D,Olympique de Marseille,75,7.3,0,0,0,0.0273572,0,0,0,74,1,0,0,78,0,1,1,2,0,0,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Tochukwu Nnadi,M,Olympique de Marseille,15,6.9,0,0,0,0.0191878,0,0,0,27,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Keyliane Abdallah,M,Olympique de Marseille,15,7.8,1,0,0.0234,0.015919,1,1,0,15,0,0,0,22,2,0,0,3,0,1,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Filip Jørgensen,G,RC Strasbourg,90,6.3,0,0,0,0.00595619,0,0,0,37,0,0,0,48,0,0,0,0,0,0,1,0,0,4
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Sebastian Nanasi,M,RC Strasbourg,79,6.5,0,0,0,0.0293234,0,0,0,18,1,0,0,22,1,1,0,2,0,0,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Andrew Omobamidele,D,RC Strasbourg,90,6.4,0,0,0,0.0031331,0,0,0,37,0,0,0,53,0,3,2,3,1,0,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Giovanni Reyna,M,RC Strasbourg,21,6.5,0,0,0,0.00269686,0,0,0,17,0,0,0,23,1,0,0,2,0,1,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Guéla Doué,D,RC Strasbourg,90,5.1,0,0,0.0499,0.0120611,1,0,0,26,0,0,0,52,0,1,0,4,1,0,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Sékou Mara,F,RC Strasbourg,69,6.3,0,0,0,0.00080725,0,0,0,6,0,0,0,15,0,1,0,1,1,0,1,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Mateo Del Blanco,D,RC Strasbourg,11,5.9,0,0,0,0.00003471,0,0,0,4,0,0,0,5,0,0,0,0,1,0,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Genesis Antwi,D,RC Strasbourg,79,6.2,0,0,0,0.00569344,0,0,0,24,0,0,0,38,0,2,1,3,0,0,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Samuel Amo-Ameyaw,F,RC Strasbourg,69,6.3,0,0,0.0296,0.0100113,1,0,0,15,0,0,0,34,1,1,1,4,0,2,1,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Pape Diop,M,RC Strasbourg,21,6.5,0,0,0,0.00483616,0,0,0,20,0,0,0,28,0,3,1,3,0,0,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Lucas Høgsberg,D,RC Strasbourg,90,6,0,0,0,0.00720514,0,0,0,60,2,0,0,68,0,1,1,3,1,0,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Diogo Sousa,M,RC Strasbourg,69,5.9,0,0,0.0148,0.0342209,1,1,0,20,0,0,0,27,0,2,0,2,3,0,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Fabio Baldé,F,RC Strasbourg,11,6.5,0,0,0,0.00112547,0,0,0,2,1,0,0,6,1,0,0,1,0,0,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Samir El Mourabet,M,RC Strasbourg,59,5.5,0,0,0,0.136961,0,0,0,27,1,0,0,40,1,2,1,3,2,0,0,1,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Gessime Yassine,M,RC Strasbourg,90,6.4,0,0,0.0874,0.0189216,2,1,0,21,0,0,0,36,4,1,1,8,2,3,0,0,0,0
+Ligue 1,26_27,Olympique de Marseille vs RC Strasbourg,21/08/2026,Jacobo Ortega,F,RC Strasbourg,21,6.6,0,0,0,0.00017858,0,0,0,3,0,0,0,7,0,1,0,1,0,0,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Danny Namaso,F,Auxerre,77,7.2,1,0,0.8741,0.0287229,2,1,0,23,2,0,0,36,0,2,0,5,2,1,0,0,1,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Romain Faivre,M,Auxerre,67,6,0,0,0.0454,0.0355508,1,0,0,33,1,0,0,43,1,0,0,1,1,0,0,0,2,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Sinaly Diomandé,D,Auxerre,90,5.8,0,0,0.0177,0.00059818,1,0,0,34,0,0,0,44,0,1,2,3,1,1,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Naouirou Ahamada,M,Auxerre,77,6.5,0,0,0.0214,0.287776,1,1,0,40,0,0,0,53,1,0,0,2,0,1,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Josué Casimir,M,Auxerre,13,6.6,0,0,0,0.00280351,0,0,0,5,0,0,0,10,1,1,0,2,1,0,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Lasso Coulibaly,M,Auxerre,13,6.7,0,0,0,0.00933067,0,0,0,5,1,0,0,8,1,1,0,2,0,0,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Arthur Piedfort,M,Auxerre,87,6.4,0,0,0,0.056217,0,0,0,40,0,0,0,48,0,0,2,3,2,0,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Kévin Danois,M,Auxerre,90,5.6,0,0,0.0507,0.0503955,2,1,0,67,0,0,0,86,3,2,0,7,2,1,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Lamine Sy,D,Auxerre,90,5.5,1,0,0.7642,0.00813957,1,1,0,29,1,0,0,49,2,1,1,3,2,0,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Clement Akpa,D,Auxerre,90,5.8,0,0,0,0.0188262,0,0,0,49,1,0,0,74,1,3,2,5,2,0,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Mamadou Diop,G,Auxerre,90,6,0,0,0,0.00113851,0,0,0,21,0,0,0,36,0,0,1,0,0,0,0,0,0,4
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Christ Makosso,D,Auxerre,35,4.9,0,0,0,0.00189691,0,0,0,25,0,0,0,33,0,1,1,2,2,1,0,1,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Rayan Mandengue,M,Auxerre,23,6.9,0,1,0,0.604461,0,0,0,5,1,1,0,16,0,0,2,2,4,1,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Aristide Zossou,M,Auxerre,67,6.6,0,0,0.0415,0.033259,1,0,0,30,0,0,0,39,2,0,0,2,1,0,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Elikya Legros,D,Auxerre,13,6.5,0,0,0,0.00166383,0,0,0,5,0,0,0,11,0,1,0,2,0,0,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Lamfia Dioubaté,M,Auxerre,23,6.3,0,0,0.0276,0.00074675,1,0,0,5,0,0,0,8,0,0,0,0,1,0,1,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Thorgan Hazard,M,RC Lens,28,6.5,0,0,0.4299,0.173114,1,0,0,23,1,0,1,29,0,2,0,3,0,1,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Florian Thauvin,F,RC Lens,90,9.4,2,1,1.6359,0.409571,3,3,0,32,1,1,1,52,0,0,0,3,0,3,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Matthieu Udol,M,RC Lens,90,6.9,0,0,0,0.143015,0,0,0,29,2,1,0,49,0,3,0,6,2,0,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Odsonne Édouard,F,RC Lens,19,6.5,0,0,0.1248,0.0226789,1,1,0,6,0,0,1,12,0,0,0,1,0,1,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Amadou Haidara,M,RC Lens,19,6.6,0,0,0,0.00619765,0,0,0,19,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Michaël Cuisance,M,RC Lens,71,6.1,0,0,0.5849,0.00783561,1,0,0,33,0,0,1,47,1,4,2,5,1,0,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Michał Skóraś,M,RC Lens,28,8.6,0,1,0,0.815895,0,0,0,12,2,2,0,29,1,2,2,7,1,4,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Saud Abdulhamid,M,RC Lens,62,7.4,1,0,0.7856,0.0157863,1,1,0,17,0,0,0,30,0,1,2,2,1,1,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Maik Nawrocki,D,RC Lens,90,6,0,0,0.0558,0.00503006,1,1,0,60,0,0,0,72,0,0,3,0,0,0,1,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Abdallah Sima,F,RC Lens,71,7,0,1,0,0.180653,0,0,0,20,2,1,0,29,0,0,0,3,0,2,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Yassine Titraoui,M,RC Lens,90,6.6,0,0,0,0.0370127,0,0,0,70,0,0,0,84,1,0,1,3,0,2,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Franjo Ivanović,F,RC Lens,62,8.3,1,0,0.3683,0.0849448,3,2,0,14,2,1,1,38,3,2,0,9,1,2,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Robin Risser,G,RC Lens,90,6.7,0,0,0,0.00473899,0,0,0,33,0,0,0,43,0,0,0,1,0,0,0,0,0,2
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Ismaelo Ganiou,D,RC Lens,79,7.8,1,0,0.4285,0.369106,1,1,0,30,1,1,0,40,0,1,1,4,0,2,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Andrija Bulatović,M,RC Lens,11,7,0,0,0,0.0518782,0,0,0,20,0,0,0,26,0,0,1,1,0,1,0,0,0,0
+Ligue 1,26_27,RC Lens vs Auxerre,22/08/2026,Souleymane Sagnan,D,RC Lens,90,7.7,0,0,0,0.0214259,0,0,0,52,0,0,0,69,0,6,2,7,0,0,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Antoine Rabillard,F,Le Mans,90,7.1,0,0,0.0648,0.0356835,1,0,0,25,0,0,0,49,0,3,2,7,1,2,0,0,2,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Nicolas Kocik,G,Le Mans,90,7.4,0,0,0,0.002486,0,0,0,59,0,0,0,74,0,0,0,1,0,1,0,0,0,4
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Louis Mafouta,F,Le Mans,63,7.7,1,1,0.1819,0.044553,2,2,0,13,1,1,0,23,0,0,0,2,3,0,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Lucas Buades,D,Le Mans,90,7.3,0,0,0.0357,0.0253508,1,1,0,32,0,0,0,57,1,1,1,7,0,5,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Yasser Larouci,D,Le Mans,81,6.2,0,0,0.0648,0.00405288,2,1,0,29,0,0,0,51,0,0,1,1,1,1,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Dame Gueye,F,Le Mans,72,6.9,1,0,0.3048,0.0036077,1,1,0,22,0,0,0,38,0,2,0,6,2,0,0,0,1,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Billal Brahimi,F,Le Mans,18,6.4,0,0,0,0.00233291,0,0,0,5,0,0,0,8,0,0,0,1,0,1,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Alexandre Lauray,M,Le Mans,63,6.6,0,0,0,0.00689342,0,0,0,27,0,0,0,36,0,0,1,3,2,1,1,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Théo Eyoum,D,Le Mans,90,6.2,0,0,0,0.000797,0,0,0,36,0,0,0,52,0,2,1,4,1,0,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Lucas Calodat,M,Le Mans,9,6.7,0,0,0,0.0001204,0,0,0,3,0,0,0,9,0,0,0,1,0,0,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Lucas Bretelle,M,Le Mans,27,6.9,0,0,0,0.0031276,0,0,0,10,0,0,0,16,0,1,0,1,1,0,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Erwan Colas,F,Le Mans,27,6.7,0,0,0,0.00363695,0,0,0,5,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Rayan Bamba,M,Le Mans,90,6.4,0,0,0,0.0111276,0,0,0,68,1,0,0,81,0,0,1,0,0,0,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Noa Boissé,D,Le Mans,90,6.6,0,0,0,0.00412368,0,0,0,48,0,0,0,68,2,5,1,10,2,1,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,William Harhouz,F,Le Mans,18,6.4,0,0,0,0.00012382,0,0,0,5,0,0,0,9,0,0,0,2,0,0,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Adil Bourabaa,F,Le Mans,72,6.5,0,1,0.0191,0.11093,1,0,0,29,3,0,0,49,1,2,2,4,1,0,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Kenny Lala,D,Stade Brestois,90,7.6,0,0,0,0.515814,0,0,0,44,4,1,0,71,0,1,0,3,0,1,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Ludovic Ajorque,F,Stade Brestois,90,6.6,0,0,0.5281,0.110823,7,2,0,20,1,0,2,42,2,0,0,14,2,1,1,0,2,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Mama Baldé,F,Stade Brestois,19,6.8,0,0,0.0778,0.0440158,2,0,0,7,2,0,0,17,1,1,0,4,0,1,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Lucas Tousart,M,Stade Brestois,90,6.4,0,0,0.3674,0.00314747,2,2,0,40,0,0,1,59,0,1,2,6,0,2,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Egil Selvik,G,Stade Brestois,90,6.7,0,0,0,0.0191457,0,0,0,23,0,0,0,36,0,0,0,0,0,0,0,0,0,3
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Romain Del Castillo,M,Stade Brestois,71,7.7,1,0,0.2036,0.158271,1,1,0,32,1,0,0,54,3,2,1,6,0,1,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Joris Chotard,M,Stade Brestois,90,7.9,0,0,0.1052,0.565162,2,0,0,49,4,1,0,70,0,2,3,4,2,1,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Bradley Locko,D,Stade Brestois,90,6.6,0,0,0,0.0553847,0,0,0,45,1,0,0,71,1,2,1,5,0,1,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Axel Camblan,M,Stade Brestois,19,6.5,0,0,0.0435,0,1,0,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Mamady Diambou,M,Stade Brestois,27,6.7,0,0,0.0859,0.00760065,2,0,0,18,0,0,0,23,0,2,0,3,1,0,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Joseph Nonge,M,Stade Brestois,63,6.6,0,0,0,0.00189341,0,0,0,14,0,0,0,29,1,2,1,6,0,3,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Kamory Doumbia,M,Stade Brestois,89,7.6,1,1,0.7429,0.467575,3,1,0,41,2,1,0,60,3,2,1,6,1,1,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Pathé Mboup,M,Stade Brestois,71,6,0,0,0.238,0.0351009,3,1,0,15,1,1,0,32,2,1,0,4,6,1,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Raphaël Le Guen,D,Stade Brestois,90,6.1,0,0,0.4722,0.117831,3,0,0,48,1,0,0,69,0,1,2,6,0,0,0,0,0,0
+Ligue 1,26_27,Le Mans vs Stade Brestois,22/08/2026,Mathis Lainé,M,Stade Brestois,8,6.7,0,0,0,0.00091662,0,0,0,1,0,0,0,6,2,0,0,3,0,1,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Yvon Mvogo,G,Lorient,90,7.1,0,0,0,0.0014056,0,0,0,40,0,0,0,45,0,0,0,0,0,0,0,0,0,1
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Alec Georgen,D,Lorient,18,7.2,0,0,0,0.150847,0,0,0,16,1,0,0,19,0,0,1,0,0,0,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Jean Victor Makengo,F,Lorient,90,6.8,0,0,0.3129,0.0415353,3,1,0,40,0,0,0,56,2,1,0,6,0,2,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Aiyegun Tosin,F,Lorient,20,6.3,0,0,0.3737,0.00036978,1,0,0,3,0,0,1,4,0,0,0,0,0,0,0,0,1,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Montassar Talbi,D,Lorient,90,7.1,0,0,0,0.00769908,0,0,0,65,0,0,0,75,0,0,0,3,0,1,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Noah Cadiou,M,Lorient,90,7,0,0,0.0992,0.10079,2,0,0,44,1,0,0,55,1,1,1,7,3,2,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Souleymane Faye,F,Lorient,21,6.9,0,0,0.0452,0.00045379,1,0,0,5,0,0,0,14,0,1,0,5,0,2,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Nathaniel Adjei,D,Lorient,90,7.4,0,0,0,0.00270898,0,0,0,46,0,0,0,63,0,2,1,7,0,2,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Théo Le Bris,M,Lorient,72,6.9,0,0,0.1994,0.00720126,1,0,0,15,1,1,0,32,0,1,4,2,0,1,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Dembo Sylla,M,Lorient,72,7.1,0,0,0,0.0046283,0,0,0,25,0,0,0,43,0,1,3,2,0,1,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Panos Katseris,M,Lorient,18,6.6,0,0,0,0.0205755,0,0,0,7,1,0,0,12,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Arthur Avom Ebong,M,Lorient,90,7.6,0,0,0,0.436816,0,0,0,50,1,1,0,66,0,2,2,3,1,1,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Arsène Kouassi,M,Lorient,90,6.5,0,0,0,0.0147974,0,0,0,26,0,0,0,39,0,1,1,3,1,1,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Gabin Bernardeau,M,Lorient,69,6.8,0,0,0.1234,0.278756,1,1,0,22,1,0,1,37,1,0,1,3,0,2,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Mamadou Koné,F,Lorient,70,6.2,0,0,0.1337,0.10689,1,0,0,14,1,0,1,29,0,1,0,3,3,0,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Jonathan Clauss,M,Nice,81,7.2,0,0,0.5479,0.35046,5,0,0,50,1,0,0,77,1,2,0,3,1,0,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Gauthier Hein,M,Nice,90,7.1,0,0,0.0454,0.0697596,1,0,0,77,0,0,0,90,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Yehvann Diouf,G,Nice,90,6.7,0,0,0,0.00033255,0,0,0,36,0,0,0,41,0,0,0,0,0,0,0,0,0,2
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Melvin Bard,D,Nice,90,7.3,0,0,0.0216,0.0396939,1,0,0,33,1,0,0,55,0,0,1,4,1,1,0,0,1,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Mohamed Abdelmonem,D,Nice,2,0,0,0,0,0.00043072,0,0,0,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Sofiane Diop,M,Nice,81,7,0,0,0.1984,0.276164,1,1,0,38,4,0,1,55,3,1,0,5,1,1,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Nathan N'Goumou,M,Nice,9,6.6,0,0,0.0998,0.0199137,1,0,0,3,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Youssouf Ndayishimiye,D,Nice,90,7.3,0,0,0,0.0261387,0,0,0,109,0,0,0,119,0,1,2,3,1,1,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Mohamed Ali Cho,F,Nice,30,6.2,0,0,0.0238,0.0236983,1,0,0,10,0,0,0,12,0,0,0,0,2,0,0,0,1,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Antoine Mendy,D,Nice,90,7.9,0,0,0.0745,0.0342663,2,0,0,103,0,0,0,122,0,4,1,8,1,2,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Zoumana Diallo,F,Nice,60,6.1,0,0,0.0145,0.0192201,1,0,0,15,0,0,0,21,0,0,0,2,3,0,1,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Everton Pereira,M,Nice,90,7,0,0,0,0.0143915,0,0,0,29,0,0,0,36,0,2,0,5,2,1,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Hamza Koutoune,D,Nice,9,6.5,0,0,0.0259,0.00027561,1,0,0,2,0,0,0,5,0,0,0,0,2,0,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Djibril Coulibaly,M,Nice,90,6.9,0,0,0,0.145997,0,0,0,36,1,0,0,41,0,1,1,4,0,1,0,0,0,0
+Ligue 1,26_27,Nice vs Lorient,22/08/2026,Xavier Mandza,M,Nice,88,7.3,0,0,0,0.0454886,0,0,0,84,2,0,0,97,0,1,1,1,1,0,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Clinton Mata,D,Olympique Lyonnais,90,7.7,0,0,0,0.00666556,0,0,0,87,0,0,0,100,0,1,1,5,0,3,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Corentin Tolisso,M,Olympique Lyonnais,21,6.9,0,1,0.0305,0.0769169,1,0,0,22,2,1,0,31,0,2,3,3,0,1,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Rémy Descamps,G,Olympique Lyonnais,90,7.4,0,0,0,0.00040244,0,0,0,40,0,0,0,48,0,0,0,0,0,0,0,0,0,2
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Mads Bidstrup,M,Olympique Lyonnais,80,6.8,0,0,0.0822,0.107324,1,0,0,15,1,0,0,25,0,3,2,4,1,1,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Felix Bacher,D,Olympique Lyonnais,90,7.2,0,0,0.0573,0.0102518,1,0,0,71,1,0,0,81,0,0,1,1,1,0,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Pavel Šulc,F,Olympique Lyonnais,27,6.6,0,1,0,0.0538767,0,0,0,14,2,0,0,19,0,1,0,1,0,0,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Tyler Morton,M,Olympique Lyonnais,21,6.8,0,0,0,0.0645331,0,0,0,9,1,0,0,12,0,0,0,1,0,0,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Tanner Tessmann,M,Olympique Lyonnais,10,6.5,0,0,0,0.00220727,0,0,0,4,0,0,0,6,0,0,0,0,1,0,1,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Julien Duranville,F,Olympique Lyonnais,63,6.6,0,0,0,0.0626237,0,0,0,22,0,0,0,30,1,0,0,2,0,1,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Noah Nartey,M,Olympique Lyonnais,69,7.6,1,0,0.072,0.0297956,1,1,0,22,1,0,0,31,1,1,1,3,2,1,1,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Malick Fofana,M,Olympique Lyonnais,27,7.9,1,0,0.077,0.00919783,1,1,0,9,0,0,0,25,2,1,0,4,1,1,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Zachary Athekame,D,Olympique Lyonnais,90,7,0,0,0,0.0107208,0,0,0,38,0,0,0,63,0,3,1,6,2,3,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Mohamed Ouédraogo,M,Olympique Lyonnais,90,7.1,0,0,0,0.0313919,0,0,0,67,0,0,0,100,2,0,4,3,2,1,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Kaïl Boudache,F,Olympique Lyonnais,90,7.1,0,0,0.3811,0.0353111,6,1,0,21,0,0,1,40,2,1,0,4,2,1,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Mathys de Carvalho,M,Olympique Lyonnais,69,6.7,0,0,0,0.00618084,0,0,0,28,0,0,0,37,0,2,0,3,0,1,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Rémi Himbert,F,Olympique Lyonnais,63,6,0,0,0,0.0158426,0,0,0,10,2,0,0,16,0,0,1,2,3,1,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Niklas Schmidt,M,Toulouse,86,7.1,0,0,0.0204,0.098814,1,0,0,48,3,0,0,62,0,2,1,3,2,0,1,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Rasmus Nicolaisen,D,Toulouse,90,6.9,0,0,0.127,0.00637475,2,0,0,54,0,0,0,66,0,1,0,5,0,0,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Cristian Cásseres Jr.,M,Toulouse,90,7.4,0,0,0.018,0.073791,1,0,0,62,4,2,0,79,0,3,0,6,0,2,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Yann Gboho,F,Toulouse,80,6.6,0,0,0.3197,0.0595865,2,0,0,23,2,0,1,36,2,0,2,2,2,0,0,0,1,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Mark McKenzie,D,Toulouse,90,6.9,0,0,0,0.0511551,0,0,0,63,1,1,0,77,0,1,2,2,2,0,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Jacen Russell Rowe,F,Toulouse,19,6.5,0,0,0,0.00002736,0,0,0,2,0,0,0,3,0,0,0,1,0,0,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Guillaume Restes,G,Toulouse,90,6.8,0,0,0,0.00105293,0,0,0,46,0,0,0,53,1,0,0,2,0,1,0,0,0,1
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Rafik Messali,M,Toulouse,19,6.5,0,0,0,0.0245486,0,0,0,19,0,0,0,31,0,1,1,3,1,1,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Santiago Hidalgo,F,Toulouse,71,6.3,0,0,0.2548,0.0102473,3,1,0,7,0,0,0,20,0,1,0,3,1,2,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Thomas Jørgensen,M,Toulouse,90,7.2,0,0,0.7632,0.151975,2,0,0,27,3,0,1,42,2,3,0,5,2,0,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Julian Vignolo,F,Toulouse,71,6.8,0,0,0.2846,0.0597951,4,1,1,8,1,0,0,22,0,1,0,2,2,1,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Christ Tapé,D,Toulouse,90,5.8,0,0,1.0163,0.0175559,2,0,0,35,1,0,2,54,1,0,0,3,1,1,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Mathis Saka,M,Toulouse,9,6.5,0,0,0,0.00254936,0,0,0,2,0,0,0,4,0,0,0,0,1,0,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Ismail Diallo,D,Toulouse,71,6.4,0,0,0,0.00663178,0,0,0,25,0,0,0,41,0,2,0,5,1,3,0,0,1,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Ilyas Azizi,F,Toulouse,19,6.6,0,0,0,0.00113749,0,0,0,11,0,0,0,16,1,0,0,3,0,1,0,0,0,0
+Ligue 1,26_27,Toulouse vs Olympique Lyonnais,22/08/2026,Sion Oppong,M,Toulouse,10,6.8,0,0,0,0.00255665,0,0,0,3,0,0,0,6,1,1,0,3,0,1,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Renaud Ripart,F,Troyes,86,7.1,0,0,0.229,0.00625265,3,2,0,14,0,0,0,25,0,0,0,9,1,3,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Adrien Monfray,D,Troyes,90,7.9,0,0,0,0.0256655,0,0,0,79,0,0,0,93,0,1,2,3,0,0,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Alexandre Phliponeau,M,Troyes,14,6.6,0,0,0,0.00346646,0,0,0,9,0,0,0,12,0,0,1,1,1,0,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Iron Gomis,M,Troyes,76,6.9,0,0,0.0119,0.013593,1,0,0,14,1,0,0,26,0,2,1,7,0,2,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Kandet Diawara,M,Troyes,75,6.6,0,0,0.0152,0.0557106,1,0,0,24,1,0,0,36,0,0,0,1,1,0,0,0,1,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Antoine Mille,M,Troyes,15,6.6,0,0,0.0307,0.00397382,2,0,0,9,0,0,0,15,0,1,0,3,0,0,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Mouhamed Diop,M,Troyes,90,6.7,0,0,0,0.023703,0,0,0,49,0,0,0,65,0,2,2,5,1,3,1,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Patrick Beach,G,Troyes,90,6.9,0,0,0,0.00061302,0,0,0,23,0,0,0,30,0,0,0,0,0,0,0,0,0,1
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Michel Diaz,D,Troyes,90,6.9,0,0,0,0.158363,0,0,0,55,0,0,0,64,0,2,2,4,3,0,1,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Hugo Picard,M,Troyes,90,7.1,0,0,0,0.171458,0,0,0,38,2,0,0,52,0,1,1,1,0,0,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Yvann Titi,D,Troyes,55,6.7,0,0,0.0079,0.0155063,1,0,0,34,0,0,0,53,1,0,0,2,0,1,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Merwan Ifnaoui,M,Troyes,90,7.3,0,0,0.1208,0.258208,1,0,0,44,3,0,0,54,1,0,0,3,0,1,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Anis Ouzenadji,D,Troyes,90,7.3,0,0,0,0.0152965,0,0,0,59,0,0,0,86,1,2,2,5,0,2,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Noah Donkor,D,Troyes,35,6.9,0,0,0,0.124272,0,0,0,7,1,0,0,18,0,0,1,1,1,1,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Yacouba Kone,F,Troyes,9,6.3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Kevin Trapp,G,Paris FC,90,7.5,0,0,0,0.00340456,0,0,0,40,0,0,0,46,0,0,0,0,0,0,0,0,0,2
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Moses Simon,F,Paris FC,45,7.1,0,0,0,0.676409,0,0,0,24,2,1,0,28,1,1,0,2,1,0,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Maxime López,M,Paris FC,27,6.7,0,0,0,0.00873717,0,0,0,33,0,0,0,35,0,2,0,2,1,0,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Pierre Lees Melou,M,Paris FC,90,7.3,0,0,0.0733,0.0579851,1,0,0,77,0,0,0,89,2,3,1,6,0,0,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Lassine Sinayoko,F,Paris FC,79,7.2,0,0,0.4248,0.00577318,1,0,0,16,2,0,1,29,1,4,1,9,2,2,0,0,1,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Moustapha Mbow,D,Paris FC,90,7.4,0,0,0,0.0054788,0,0,0,117,0,0,0,126,0,1,0,1,1,0,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Ilan Kebbal,M,Paris FC,90,6.3,0,0,0.0997,0.0750825,3,1,1,63,1,0,0,83,2,1,0,3,2,0,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Diego Coppola,D,Paris FC,90,7.3,0,0,0,0.0132963,0,0,0,93,0,0,0,113,0,3,0,5,0,1,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Otávio,D,Paris FC,90,7.7,0,0,0,0.00753857,0,0,0,87,0,0,0,108,0,4,0,6,2,0,1,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Pablo Pagis,F,Paris FC,81,6.6,0,0,0.2563,0.00735917,3,0,0,24,0,0,0,41,0,0,1,3,1,2,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Luca Koleosho,F,Paris FC,45,6.6,0,0,0.0195,0.0157772,1,0,0,22,1,0,0,29,1,0,2,1,1,0,0,0,1,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Adama Camara,M,Paris FC,90,6.9,0,0,0,0.00795029,0,0,0,52,1,0,0,78,2,2,3,6,1,1,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Omar Sissoko,F,Paris FC,11,6.6,0,0,0,0.0068102,0,0,0,5,0,0,0,8,0,0,0,2,0,2,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Rudy Matondo,M,Paris FC,63,6.3,0,0,0,0.0056546,0,0,0,22,1,0,0,27,0,0,0,0,1,0,0,0,0,0
+Ligue 1,26_27,Troyes vs Paris FC,22/08/2026,Patrick Zabi,M,Paris FC,9,6,0,0,0.9371,0.0286357,1,0,0,6,0,0,1,7,0,0,0,0,1,0,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Olivier Giroud,F,Lille,63,7.5,1,0,0.0553,0.00541118,1,1,0,6,0,0,0,16,0,0,0,2,0,1,0,0,1,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Calvin Verdonk,D,Lille,14,6.8,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Nabil Bentaleb,M,Lille,90,7.4,0,1,0.1024,0.146018,2,1,0,61,2,0,0,72,0,1,0,3,0,1,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Gaëtan Perrin,M,Lille,27,6.4,0,0,0,0.0107964,0,0,0,9,0,0,0,11,1,0,0,2,0,0,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Romain Perraud,D,Lille,76,7,0,0,0.0299,0.0439133,1,0,0,31,1,0,0,57,2,1,0,4,1,0,1,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Berke Özer,G,Lille,90,7.9,0,0,0,0.00166172,0,0,0,39,0,0,0,44,0,0,0,0,0,0,0,0,0,2
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Félix Correia,M,Lille,33,6.6,0,0,0,0.00349741,0,0,0,10,0,0,0,18,0,0,2,1,1,1,0,0,1,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Osame Sahraoui,M,Lille,27,6.6,0,0,0,0.0295362,0,0,0,8,0,0,0,11,0,0,0,1,0,1,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Alexsandro Ribeiro,D,Lille,90,8.1,0,0,0,0.00598318,0,0,0,46,0,0,0,64,0,3,1,6,1,1,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Tiago Santos,D,Lille,90,8.1,1,0,0.3052,0.022585,2,2,0,21,0,0,0,48,2,3,3,6,1,1,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Nathan Ngoy,D,Lille,90,7.4,0,0,0,0.00477146,0,0,0,43,0,0,0,68,1,2,2,4,2,1,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Hakon Arnar Haraldsson,M,Lille,76,7.2,0,0,0.3357,0.238324,3,3,0,27,2,1,0,44,1,0,1,3,4,1,1,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Başar Önal,M,Lille,57,5.8,0,0,0,0.013137,0,0,0,19,0,0,0,29,0,2,0,3,1,1,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Ngal'ayel Mukau,M,Lille,90,7,0,0,0,0.0569968,0,0,0,37,0,0,0,46,0,2,1,2,2,0,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Ethan Mbappé,M,Lille,63,7,0,0,0.4136,0.0398446,2,1,0,23,1,0,1,38,2,1,1,5,0,2,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Isaac Cossier,D,Lille,14,6.7,0,0,0,0.00018625,0,0,0,4,0,0,0,9,0,1,0,1,0,0,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Anthony Lopes,G,Angers,90,8.2,0,0,0,0.00115385,0,0,0,35,0,0,0,47,0,1,0,1,0,0,0,0,0,6
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Branco Van den Boomen,M,Angers,90,7.3,0,0,0,0.240511,0,0,0,68,2,0,0,89,0,3,1,3,1,0,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Jordan Lefort,D,Angers,90,7,0,0,0,0.133326,0,0,0,73,2,1,0,86,0,1,1,4,2,1,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Carlens Arcus,D,Angers,10,6.8,0,0,0,0.100235,0,0,0,6,1,0,0,10,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Jim Allevinah,F,Angers,73,6.8,0,0,0.1691,0.00642792,3,0,0,18,0,0,0,37,0,2,0,6,0,2,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Amine El Ouazzani,F,Angers,73,6.6,0,0,0.2648,0.0145779,3,0,0,17,0,0,0,29,1,0,0,5,0,2,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Mamadou Usman Simbakoli,F,Angers,17,6.5,0,0,0.1626,0.00677323,3,0,0,2,1,0,0,7,1,0,0,3,2,0,1,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Ousmane Camara,D,Angers,90,7.2,0,0,0,0.0738122,0,0,0,64,1,0,0,76,0,1,1,1,0,0,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Jacques Ekomié,D,Angers,90,6.2,0,0,0.0703,0.00809591,2,0,0,30,0,0,0,55,1,3,2,5,2,0,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Yassin Belkhdim,M,Angers,85,6.4,0,0,0,0.0129739,0,0,0,39,2,0,0,52,0,0,3,1,1,1,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Amine Sbai,M,Angers,90,8.1,0,0,0.228,0.898218,3,0,0,36,9,3,0,58,1,0,0,6,0,4,0,0,1,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Lilian Raolisoa,D,Angers,85,7.2,0,0,0.0351,0.0547895,1,0,0,46,0,0,0,91,3,2,6,9,0,2,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Anthony Bermont,M,Angers,57,6,0,0,0.194,0.0234518,2,0,0,17,0,0,1,28,0,1,0,3,2,0,1,0,1,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Prosper Peter,F,Angers,33,6.3,0,0,0.8654,0.00400708,3,2,0,5,0,0,3,11,0,0,0,1,0,0,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Harouna Djibirin,F,Angers,17,6.6,0,0,0,0.0139449,0,0,0,8,0,0,0,12,0,0,0,1,1,1,0,0,0,0
+Ligue 1,26_27,Angers vs Lille,23/08/2026,Bané Diatta,M,Angers,10,6.4,0,0,0,0.00312567,0,0,0,8,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Lukáš Hrádecký,G,AS Monaco,90,8,0,0,0,0.00019838,0,0,0,24,0,0,0,34,0,0,0,0,0,0,0,0,0,3
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Eric Dier,D,AS Monaco,90,8.7,1,0,0.1264,0.00496286,1,1,0,42,0,0,0,59,2,2,0,8,0,0,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Thilo Kehrer,D,AS Monaco,1,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Aleksandr Golovin,M,AS Monaco,90,7,0,0,0.2379,0.109527,2,2,0,31,2,0,1,48,0,3,1,3,0,0,1,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Denis Zakaria,M,AS Monaco,90,7.4,0,0,0.0173,0.0305042,1,0,0,27,0,0,0,50,2,3,1,8,0,3,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Nazinho,D,AS Monaco,80,8,0,1,0,0.218406,0,0,0,47,2,1,0,73,0,2,2,3,0,1,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Mika Biereth,F,AS Monaco,33,6.8,0,0,0,0.0165321,0,0,0,7,0,0,0,16,0,1,0,4,0,2,0,0,1,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Vanderson,D,AS Monaco,89,7.8,0,0,0.0084,0.147785,1,0,0,64,1,1,0,91,0,6,0,6,3,0,1,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Stanis Idumbo Muzambo,M,AS Monaco,81,6.7,0,0,0.1816,0.166062,4,1,0,21,2,0,0,47,1,0,1,3,1,2,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Lamine Camara,M,AS Monaco,90,7.6,0,0,0.0225,0.0244384,1,1,0,72,1,0,0,89,1,9,0,12,3,1,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Paris Brunner,F,AS Monaco,57,6.3,0,0,0.6978,0.00280391,4,1,0,8,0,0,2,22,0,0,0,0,0,0,0,0,1,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Mamadou Coulibaly,M,AS Monaco,57,6.4,0,0,0,0.066096,0,0,0,36,0,0,0,50,1,1,2,4,1,2,0,0,1,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Sadibou Sané,D,AS Monaco,90,7.1,0,0,0,0.00684722,0,0,0,44,1,0,0,56,0,1,0,2,1,0,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Ilane Touré,D,AS Monaco,10,6.7,0,0,0,0.00000697,0,0,0,3,0,0,0,8,0,0,1,1,0,0,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Oumar Konate,F,AS Monaco,9,6.4,0,0,0,0.00805089,0,0,0,3,0,0,1,10,0,0,0,1,1,1,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Anis Soubeir,M,AS Monaco,33,6.6,0,0,0.3412,0.180181,1,1,0,4,1,1,1,16,1,2,2,4,2,1,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Vincent Sasso,D,Le Havre,90,6.5,0,0,0,0.00993187,0,0,0,56,0,0,0,67,0,2,0,4,2,0,1,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Lionel Mpasi Nzau,G,Le Havre,90,8.1,0,0,0,0.0003945,0,0,0,27,0,0,0,45,0,0,0,0,0,0,0,0,0,6
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Ally Samatta,F,Le Havre,70,6.4,0,0,0.0968,0.0151693,2,1,0,8,1,0,0,17,1,0,0,3,0,1,0,0,1,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Josh Maja,F,Le Havre,20,6.5,0,0,0,0.0212591,0,0,0,8,2,0,0,11,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Ayumu Seko,D,Le Havre,90,7,0,0,0,0.0285366,0,0,0,45,0,0,0,63,0,1,4,3,0,0,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Rassoul Ndiaye,M,Le Havre,90,7.1,0,0,0.1152,0.0615101,3,0,0,57,1,0,0,92,1,4,1,8,0,3,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Fodé Doucouré,M,Le Havre,70,6.3,0,0,0.0919,0.0294199,2,0,0,25,1,0,0,37,0,0,0,1,1,1,1,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Kaito Mizuta,M,Le Havre,2,0,0,0,0.059,0.0130802,1,0,0,7,0,0,0,11,0,1,0,1,0,0,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Amir Richardson,M,Le Havre,90,6.1,0,0,0.1281,0.0431505,2,1,0,26,2,0,0,46,0,0,0,1,2,0,1,0,1,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Elias Jelert,D,Le Havre,20,6.5,0,0,0,0.00316314,0,0,0,6,0,0,0,12,0,1,0,1,1,0,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Junior Mwanga,M,Le Havre,90,6.8,0,0,0,0.0180649,0,0,0,42,1,0,0,60,0,4,2,4,0,0,0,0,1,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Yanis Zouaoui,D,Le Havre,40,6.4,0,0,0,0.0333636,0,0,0,9,0,0,0,22,0,0,1,1,1,1,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Simon Ebonog,M,Le Havre,88,6.8,0,0,0.019,0.015003,1,0,0,37,0,0,0,61,1,2,4,6,2,3,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Timothee Pembele,D,Le Havre,70,6.5,0,0,0,0.0295258,0,0,0,27,1,0,0,38,0,3,0,3,2,0,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Sota Nakamura,F,Le Havre,20,6.3,0,0,0.0672,0.00389538,1,1,0,8,0,0,0,13,1,0,0,1,1,0,0,0,0,0
+Ligue 1,26_27,Le Havre vs AS Monaco,23/08/2026,Enzo Koffi,F,Le Havre,50,7.3,0,0,0.0676,0.0701832,2,1,0,23,1,0,0,55,1,1,0,7,1,2,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Marquinhos,D,Paris Saint-Germain,90,7.1,0,0,0,0.0326039,0,0,0,81,0,0,0,89,0,1,0,2,2,0,1,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Lucas Hernández,D,Paris Saint-Germain,90,6.1,0,0,0,0.0333154,0,0,0,86,1,0,0,99,0,0,0,1,0,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Fabián Ruiz,M,Paris Saint-Germain,30,7.7,0,2,0,0.298732,0,0,0,25,3,2,0,34,1,1,1,2,0,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Matvey Safonov,G,Paris Saint-Germain,90,6.2,0,0,0,0.00020915,0,0,0,18,0,0,0,28,0,0,0,1,0,1,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Achraf Hakimi,D,Paris Saint-Germain,90,6.2,0,0,0.0137,0.135388,1,0,0,86,1,1,0,123,5,2,1,10,0,2,1,0,1,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Ousmane Dembélé,F,Paris Saint-Germain,45,6.4,0,0,0.2595,0.0777256,3,0,0,19,2,0,1,34,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Ferran Torres,F,Paris Saint-Germain,45,8.6,2,0,0.7616,0.0190553,2,2,0,17,1,0,0,27,0,0,2,0,0,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Khvicha Kvaratskhelia,F,Paris Saint-Germain,45,6.1,0,0,0.0648,0.106046,1,0,0,20,1,0,0,29,0,0,0,0,0,0,0,0,2,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Vitinha,M,Paris Saint-Germain,69,7.9,0,0,0,0.182474,0,0,0,93,0,0,0,108,2,1,1,3,0,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Willian Pacho,D,Paris Saint-Germain,90,7.8,0,0,0,0.0122026,0,0,0,57,0,0,0,66,0,1,0,3,1,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Lucas Beraldo,D,Paris Saint-Germain,21,7.2,0,0,0,0.011846,0,0,0,17,0,0,0,21,1,1,0,2,0,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Maghnes Akliouche,M,Paris Saint-Germain,30,6.5,0,0,0,0.0183452,0,0,0,17,0,0,0,23,0,1,1,1,0,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Warren Zaïre-Emery,M,Paris Saint-Germain,60,7,0,0,0.4895,0.037494,3,1,0,41,0,0,1,51,1,0,1,1,0,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Mika Godts,F,Paris Saint-Germain,45,6.8,0,0,0.0294,0.12536,1,0,0,39,2,0,0,47,1,1,0,2,1,0,0,0,1,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Désiré Doué,F,Paris Saint-Germain,90,6.8,0,0,0.3881,0.0823721,5,1,0,62,1,0,0,100,5,3,1,12,1,4,0,0,3,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,João Neves,M,Paris Saint-Germain,60,7.2,0,0,0.1617,0.0479062,3,1,0,59,1,0,0,70,0,2,2,4,1,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Brice Samba,G,Stade Rennais,90,8.6,0,0,0,0.00228089,0,0,0,33,0,0,0,43,0,0,0,0,0,0,0,0,0,3
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Adrien Thomasson,M,Stade Rennais,90,6.7,0,1,0,0.0213456,0,0,0,39,1,0,0,54,1,2,1,5,2,1,1,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Przemysław Frankowski,M,Stade Rennais,88,6.3,0,1,0,0.0666908,0,0,0,20,1,1,0,46,0,1,2,2,0,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Valentin Rongier,M,Stade Rennais,90,7.6,0,0,0,0.0213341,0,0,0,43,0,0,0,59,1,2,2,6,0,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Ludovic Blas,M,Stade Rennais,18,6.4,0,0,0.2565,0.00477327,2,1,0,5,0,0,1,12,0,1,1,1,0,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Sebastian Szymański,M,Stade Rennais,78,8.1,1,0,0.1108,0.0274252,1,1,0,19,1,0,0,37,0,5,1,6,0,1,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Arnaud Nordin,F,Stade Rennais,2,0,0,0,0,0.00000185,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Bryan Reynolds,D,Stade Rennais,2,0,0,0,0,0.00000483,0,0,0,2,0,0,0,5,0,0,1,0,0,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Mousa Tamari,F,Stade Rennais,72,6.4,0,0,0.0462,0.0106039,2,0,0,10,0,0,0,27,4,2,0,6,1,0,1,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Esteban Lepaul,F,Stade Rennais,90,7.3,1,0,0.3598,0.0231034,2,1,0,21,0,0,0,27,0,0,0,1,0,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Issa Soumaré,F,Stade Rennais,88,6.8,0,0,0,0.0243531,0,0,0,25,1,0,0,45,1,2,2,7,1,3,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Charlie Cresswell,D,Stade Rennais,90,6.4,0,0,0,0.00184973,0,0,0,31,0,0,0,42,0,0,1,3,0,1,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Quentin Merlin,D,Stade Rennais,12,6.8,0,0,0,0.23062,0,0,0,11,1,1,0,17,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Mahamadou Nagida,D,Stade Rennais,78,6.4,0,0,0.0989,0.0483002,2,0,0,27,1,0,0,53,2,4,2,6,2,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Abdelhamid Ait Boudlal,D,Stade Rennais,90,7,0,0,0,0.00204827,0,0,0,33,0,0,0,49,0,6,1,7,1,0,0,0,0,0
+Ligue 1,26_27,Stade Rennais vs Paris Saint-Germain,23/08/2026,Henrick Do Marcolino,F,Stade Rennais,12,6.5,0,0,0,0.00152264,0,0,0,6,1,0,0,7,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Olivier Giroud,F,Lille,90,6.9,0,2,0.7954,0.0534549,2,1,0,20,2,0,2,32,0,0,0,4,0,0,0,0,3,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Benjamin André,M,Lille,61,6.7,0,0,0,0.00740183,0,0,0,25,1,0,0,39,0,4,1,5,3,1,1,0,1,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Calvin Verdonk,D,Lille,10,6,0,0,0,0.00202563,0,0,0,3,0,0,0,4,0,1,0,1,0,0,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Nabil Bentaleb,M,Lille,90,7.1,0,0,0.0225,0.00930835,1,0,0,29,0,0,0,37,0,1,2,3,0,1,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Gaëtan Perrin,M,Lille,29,6.6,0,0,0,0.00054506,0,0,0,3,0,0,0,11,0,2,0,2,0,0,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Romain Perraud,D,Lille,90,6.1,0,0,0,0.00872029,0,0,0,21,0,0,0,45,1,2,1,3,2,0,1,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Berke Özer,G,Lille,90,6.5,0,0,0,0.00344031,0,0,0,37,0,0,0,50,0,0,0,1,0,1,0,0,0,2
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Félix Correia,M,Lille,61,6.7,0,0,0.0962,0.179757,1,0,0,20,0,0,0,28,0,1,1,1,1,0,0,0,1,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Dilane Bakwa,M,Lille,22,7.5,1,0,0.0377,0.0043183,1,1,0,6,0,0,0,10,0,1,0,1,1,0,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Alexsandro Ribeiro,D,Lille,90,6.2,0,0,0,0.00443266,0,0,0,22,0,0,0,25,0,0,0,1,1,0,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Tiago Santos,D,Lille,90,6.7,0,0,0,0.259797,0,0,0,26,2,1,0,50,1,0,0,4,0,1,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Nathan Ngoy,D,Lille,90,6.5,0,0,0,0.00154875,0,0,0,28,0,0,0,43,1,1,2,4,1,1,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Hakon Arnar Haraldsson,M,Lille,80,7.6,1,0,0.208,0.0257647,2,1,0,26,0,0,0,38,1,1,2,2,1,0,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Ngal'ayel Mukau,M,Lille,29,6.6,0,0,0,0.00976207,0,0,0,14,0,0,0,19,1,0,0,2,0,0,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Ethan Mbappé,M,Lille,68,7.5,0,0,0.1102,0.39207,2,1,0,18,3,1,0,32,1,0,0,3,1,2,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Lucas Digne,D,Paris Saint-Germain,18,6.4,0,0,0.011,0.0183626,1,0,0,16,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Marquinhos,D,Paris Saint-Germain,90,7.8,1,0,0.0998,0.0366122,1,1,0,90,0,0,0,98,0,0,1,4,1,0,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Fabián Ruiz,M,Paris Saint-Germain,72,6.9,0,0,0.0867,0.100405,1,1,0,59,2,0,0,68,2,3,0,6,2,1,1,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Matvey Safonov,G,Paris Saint-Germain,90,6.7,0,0,0,0.0003492,0,0,0,23,0,0,0,27,0,0,0,0,0,0,0,0,0,2
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Achraf Hakimi,D,Paris Saint-Germain,90,6.5,0,0,0.1268,0.320659,2,0,1,93,1,0,1,116,0,1,0,3,0,2,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Ferran Torres,F,Paris Saint-Germain,72,6.6,0,0,0.6286,0.00701844,3,0,0,7,0,0,1,14,0,0,0,3,0,2,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Khvicha Kvaratskhelia,F,Paris Saint-Germain,45,6.4,0,0,0.0861,0.0646736,2,0,0,26,0,0,0,40,2,0,0,3,0,1,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Vitinha,M,Paris Saint-Germain,90,8.7,1,1,0.2033,0.785109,6,2,0,114,2,1,0,126,0,1,2,1,0,0,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Willian Pacho,D,Paris Saint-Germain,90,6.2,0,0,0,0.0263263,0,0,0,84,0,0,0,87,0,0,2,2,0,0,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Lucas Beraldo,D,Paris Saint-Germain,63,6.8,0,0,0,0.102127,0,0,0,41,0,0,0,44,0,1,0,2,0,0,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Maghnes Akliouche,M,Paris Saint-Germain,78,6.3,0,0,0,0.450237,0,0,0,71,3,1,0,84,0,1,1,2,1,0,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Warren Zaïre-Emery,M,Paris Saint-Germain,90,6.1,0,0,0.1737,0.0440738,1,0,0,98,0,0,1,114,0,2,0,3,0,1,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Mika Godts,F,Paris Saint-Germain,27,6.8,0,1,0,0.116382,0,0,0,36,2,1,0,43,0,1,0,3,1,2,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Désiré Doué,F,Paris Saint-Germain,45,6.8,0,0,0.0223,0.118285,1,0,0,32,1,0,0,42,0,1,0,3,1,2,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Senny Mayulu,M,Paris Saint-Germain,18,6.2,0,0,0,0.0318048,0,0,0,10,0,0,0,12,0,0,0,0,1,0,0,0,0,0
+Ligue 1,26_27,Lille vs Paris Saint-Germain,28/08/2026,Dro Fernández,M,Paris Saint-Germain,12,6.8,0,0,0,0.450664,0,0,0,8,1,1,1,13,0,2,1,2,0,0,0,0,0,0

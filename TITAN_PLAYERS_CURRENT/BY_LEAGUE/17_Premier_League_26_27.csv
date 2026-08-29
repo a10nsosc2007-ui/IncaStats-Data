@@ -1,0 +1,343 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Matt Grimes,M,Coventry City,90,7,0,0,0,0.0145097,0,0,0,56,0,0,0,67,0,0,0,5,0,2,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Taiwo Awoniyi,F,Coventry City,20,6.6,0,0,0,0.00049075,0,0,0,6,0,0,0,7,0,0,0,1,0,1,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Jay DaSilva,D,Coventry City,90,6,0,0,0,0.0232149,0,0,0,28,0,0,0,45,1,0,0,2,0,0,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Victor Torp,M,Coventry City,28,6.7,0,0,0,0.11137,0,0,0,13,1,1,0,19,0,0,1,0,0,0,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Gustavo Hamer,M,Coventry City,8,6.5,0,0,0,0.0014841,0,0,0,7,0,0,0,8,0,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Brandon Thomas-Asante,F,Coventry City,70,6.3,0,0,0,0.0168997,0,0,0,10,0,0,0,21,0,0,4,4,0,2,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Frank Onyeka,M,Coventry City,90,6.3,0,0,0,0.00505671,0,0,0,22,0,0,0,29,0,1,3,2,3,1,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Milan van Ewijk,D,Coventry City,90,5.4,0,0,0,0.00713936,0,0,0,19,0,0,0,32,0,1,1,1,2,0,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Jack Rudoni,M,Coventry City,20,6.7,0,0,0.1455,0.00119122,1,1,0,13,0,0,1,19,0,1,0,3,0,0,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Ellis Simms,F,Coventry City,70,6.6,0,0,0,0.00676704,0,0,0,13,1,0,0,22,1,0,0,5,2,1,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Aurèle Amenda,D,Coventry City,90,7.1,0,0,0,0.00576211,0,0,0,33,0,0,0,43,0,0,0,1,1,0,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Loum Tchaouna,F,Coventry City,82,6.3,0,0,0.0405,0.0218038,2,0,0,30,0,0,0,44,1,0,0,4,1,2,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Carl Rushworth,G,Coventry City,90,7,0,0,0,0.00588625,0,0,0,45,0,0,0,55,0,0,0,0,0,0,0,0,0,2
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Bobby Thomas,D,Coventry City,90,7.1,0,0,0.0183,0.0136288,1,0,0,39,1,0,0,51,0,1,0,4,2,1,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Caleb Yirenkyi,M,Coventry City,62,6.1,0,0,0,0.00450728,0,0,0,13,0,0,0,15,0,0,0,1,2,0,1,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Martin Ødegaard,M,Arsenal,76,8.4,1,0,0.2051,0.0978893,3,1,0,56,3,0,0,72,0,3,0,4,0,1,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,David Raya,G,Arsenal,90,7,0,0,0,0.00135718,0,0,0,18,0,0,0,27,0,0,0,0,0,0,0,0,0,1
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Mikel Merino,M,Arsenal,14,6.9,0,0,0.1449,0.0176677,2,1,0,12,0,0,0,15,1,0,0,1,1,0,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Kai Havertz,F,Arsenal,90,7.6,1,0,0.2608,0.0259355,1,1,0,25,1,0,0,38,0,0,1,5,2,2,0,0,2,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Ben White,D,Arsenal,90,7.8,0,1,0.177,0.209544,1,0,0,78,2,0,0,94,0,1,1,4,1,0,0,0,1,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Declan Rice,M,Arsenal,68,7.4,0,0,0.0728,0.0765014,2,0,0,75,0,0,0,85,0,0,1,0,2,0,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Eberechi Eze,M,Arsenal,14,6.6,0,0,0.0377,0.00445735,1,0,0,7,0,0,0,11,0,0,0,2,0,2,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Gabriel Magalhães,D,Arsenal,90,6.4,0,0,0.0467,0.00931741,1,0,0,57,0,0,0,68,0,0,1,2,2,2,1,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Bukayo Saka,F,Arsenal,68,7.9,1,0,0.6432,0.0763784,3,1,0,34,2,0,0,49,1,1,0,3,0,1,0,0,1,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Riccardo Calafiori,D,Arsenal,81,7.2,0,1,0.0434,0.0937923,1,0,0,24,1,0,0,35,0,1,0,2,0,0,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Noni Madueke,F,Arsenal,22,6.9,0,0,0,0.0413811,0,0,0,15,4,0,0,21,1,0,0,2,0,0,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Martín Zubimendi,M,Arsenal,22,6.8,0,0,0,0.0182997,0,0,0,28,0,0,0,32,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Piero Hincapié,D,Arsenal,9,6.6,0,0,0,0.00275861,0,0,0,5,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Christos Tzolis,M,Arsenal,76,7.5,0,0,0.1935,0.142753,4,2,0,36,3,0,0,52,0,1,0,4,0,2,0,0,1,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Cristhian Mosquera,D,Arsenal,90,6.8,0,0,0,0.00332523,0,0,0,65,0,0,0,74,1,0,1,2,1,0,0,0,0,0
+Premier League,26_27,Arsenal vs Coventry City,21/08/2026,Myles Lewis-Skelly,D,Arsenal,90,7.5,0,0,0.057,0.106674,1,0,0,81,1,0,0,94,0,1,0,5,1,3,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Harry Maguire,D,Manchester United,90,7.3,0,0,0.0448,0.404485,2,1,0,82,2,1,0,94,2,0,0,5,0,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Luke Shaw,D,Manchester United,90,6.5,0,0,0,0.260958,0,0,0,60,4,0,0,89,0,1,1,3,0,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Bruno Fernandes,M,Manchester United,90,7.2,0,0,0.0835,0.256456,3,1,0,88,3,0,0,106,1,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Youri Tielemans,M,Manchester United,67,6.7,0,0,0.0366,0.106979,1,0,0,73,0,0,0,82,0,0,0,3,1,3,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Marcus Rashford,F,Manchester United,45,6.4,0,0,0,0.0972659,0,0,0,24,4,0,0,32,1,0,0,2,0,1,0,0,1,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Diogo Dalot,D,Manchester United,10,6.8,0,0,0,0.00456009,0,0,0,9,1,0,0,14,0,2,1,2,0,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Noussair Mazraoui,D,Manchester United,80,6.3,0,0,0.2243,0.0539162,1,0,0,68,2,0,0,93,0,1,0,3,1,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Matheus Cunha,F,Manchester United,80,5.8,0,0,0.2431,0.212746,3,1,0,28,2,1,0,44,0,0,0,1,0,1,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Bryan Mbeumo,F,Manchester United,90,6.3,0,0,0.4969,0.227783,4,2,0,44,1,0,1,64,0,0,0,2,0,0,0,0,1,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Senne Lammens,G,Manchester United,90,6.7,0,0,0,0.00035609,0,0,0,17,0,0,0,26,0,0,0,0,0,0,0,0,0,2
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Benjamin Šeško,F,Manchester United,23,6.2,0,0,0.0357,0.00247706,1,0,0,3,0,0,0,6,0,0,0,1,1,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Andrey Santos,M,Manchester United,67,7.1,0,0,0,0.232426,0,0,0,60,0,0,0,70,0,1,0,5,1,2,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Kobbie Mainoo,M,Manchester United,23,6.7,0,0,0.0705,0.0149243,1,0,0,30,0,0,0,33,0,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Patrick Dorgu,M,Manchester United,45,5.4,0,0,0.4697,0.0280165,3,0,0,11,0,0,1,22,0,0,1,2,4,0,1,0,1,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Ayden Heaven,D,Manchester United,90,6.3,0,0,0.1212,0.0357797,2,0,0,67,0,0,0,76,0,1,0,5,1,2,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Shea Lacey,F,Manchester United,10,6.5,0,0,0,0.00325779,0,0,0,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,John Egan,D,Hull City,90,7.6,0,0,0,0.00176803,0,0,0,32,0,0,0,54,0,1,0,2,0,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Matt Crooks,M,Hull City,90,7.1,0,0,0,0.00395772,0,0,0,21,0,0,0,35,0,4,0,8,2,1,1,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Semi Ajayi,D,Hull City,64,7.6,1,0,0.523,0.00155093,1,1,0,15,0,0,0,26,1,0,2,3,0,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Oli McBurnie,F,Hull City,90,6.7,0,0,0.1558,0.011378,2,2,1,18,2,0,1,36,1,0,0,7,1,2,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Matt Targett,D,Hull City,12,6.8,0,0,0,0.00054112,0,0,0,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Paddy McNair,D,Hull City,26,6.7,0,0,0,0.0001188,0,0,0,4,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Lewie Coyle,D,Hull City,70,7.1,0,0,0,0.00692328,0,0,0,21,1,0,0,32,0,1,0,4,1,2,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Regan Slater,M,Hull City,90,7.3,0,1,0,0.441125,0,0,0,21,1,1,0,31,0,1,0,1,2,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Liam Millar,M,Hull City,19,6.6,0,0,0,0.00056003,0,0,0,3,0,0,0,10,0,1,0,2,1,1,1,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Ryan Giles,D,Hull City,85,7.3,0,0,0.021,0.0733466,1,0,0,16,1,0,0,38,0,1,1,4,0,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Konstantinos Tzolakis,G,Hull City,90,8.1,0,0,0,0.00264801,0,0,0,49,0,0,0,70,0,0,0,3,0,2,0,0,0,5
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Cody Drameh,D,Hull City,20,6.7,0,0,0.0475,0.00002757,1,0,0,6,0,0,0,13,0,1,1,1,0,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Mohamed Belloumi,M,Hull City,90,6.8,0,0,0.048,0.0331074,2,0,0,16,0,0,0,34,1,4,1,6,2,1,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Elliot Stroud,M,Hull City,71,7,0,0,0,0.0283311,0,0,0,8,0,0,0,17,0,3,1,4,0,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Nobel Mendy,D,Hull City,64,8,1,0,0.2783,0.00167427,1,1,0,19,0,0,0,38,0,0,0,2,1,0,0,0,0,0
+Premier League,26_27,Hull City vs Manchester United,22/08/2026,Lucas Herrington,D,Hull City,26,7,0,0,0,9.4e-7,0,0,0,3,0,0,0,9,0,0,0,3,0,0,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Chris Wood,F,Nottingham Forest,28,6.5,0,0,0.1196,0.00828215,1,0,0,5,0,0,0,9,0,0,0,2,0,1,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Matz Sels,G,Nottingham Forest,90,6.5,0,0,0,0.00021681,0,0,0,26,0,0,0,35,1,0,0,1,0,0,0,0,0,2
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Xaver Schlager,M,Nottingham Forest,16,6.4,0,0,0,0.00248191,0,0,1,10,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Ola Aina,D,Nottingham Forest,74,6.9,0,0,0.0428,0.170146,2,1,0,26,3,0,0,57,3,0,0,5,1,0,1,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Nikola Milenković,D,Nottingham Forest,90,6.5,0,0,0.1124,0.0237359,2,0,1,45,0,0,0,61,0,0,0,8,3,1,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Ibrahim Sangaré,M,Nottingham Forest,90,6.8,0,0,0.026,0.00839014,1,0,0,53,1,0,0,61,1,0,0,5,2,1,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Morgan Gibbs-White,M,Nottingham Forest,90,7,0,0,0.1327,0.0578343,3,0,0,38,0,0,0,68,3,0,1,5,1,2,0,0,1,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Neco Williams,D,Nottingham Forest,90,6.6,0,0,0,0.0233299,0,0,0,27,0,0,0,55,1,3,0,7,1,1,0,0,1,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Dan Ndoye,M,Nottingham Forest,62,6.5,0,0,0,0.00244173,0,0,0,10,0,0,0,17,0,1,0,3,2,1,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Arnaud Kalimuendo,F,Nottingham Forest,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Luca Netz,D,Nottingham Forest,16,6.2,0,0,0,0.00491669,0,0,0,9,0,0,0,11,0,0,0,0,1,0,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Igor Jesus,F,Nottingham Forest,90,6.9,0,0,0.2227,0.0186329,3,1,0,23,0,0,0,40,0,0,0,12,1,3,0,0,1,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,James McAtee,M,Nottingham Forest,74,7.3,0,0,0,0.156023,0,0,0,37,3,0,0,51,0,1,0,6,0,2,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Jair,D,Nottingham Forest,90,6.5,0,0,0,0.00488231,0,0,0,43,0,0,0,60,0,1,1,3,2,2,1,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Murillo,D,Nottingham Forest,89,7.1,0,0,0,0.276174,0,0,0,59,2,0,0,79,1,2,0,4,1,0,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Harry Wilson,M,Leeds United,66,6.8,0,0,0,0.0234758,0,0,0,15,1,0,0,24,1,2,0,3,1,0,0,0,1,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Dominic Calvert-Lewin,F,Leeds United,90,6,0,0,0.1268,0.0016428,3,0,0,14,0,0,0,22,0,0,0,4,2,0,1,0,2,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,James Justin,D,Leeds United,90,7.3,0,0,0,0.00995554,0,0,0,20,0,0,0,42,0,6,1,12,1,2,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Joe Rodon,D,Leeds United,90,7.2,0,0,0.0333,0.0616404,1,0,0,25,1,0,0,41,0,1,1,6,2,1,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Ethan Ampadu,M,Leeds United,90,6.9,0,0,0,0.0376885,0,0,0,51,2,0,0,70,1,2,3,5,2,2,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Noah Okafor,F,Leeds United,24,6.7,0,0,0,0.155449,0,0,0,3,1,0,0,10,2,2,1,4,1,0,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Sean Longstaff,M,Leeds United,8,6.6,0,0,0,0.00041182,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Jaka Bijol,D,Leeds United,90,7.4,0,0,0.1059,0.00188645,2,0,0,55,0,0,0,72,0,1,2,9,1,1,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Anton Stach,M,Leeds United,90,8,1,0,0.1003,0.0480202,3,1,0,31,0,0,0,57,0,3,4,9,2,4,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Jayden Bogle,D,Leeds United,90,6.6,0,0,0,0.00294107,0,0,0,23,0,0,0,39,1,1,1,5,1,3,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Brenden Aaronson,M,Leeds United,82,6.7,0,0,0.0117,0.00705384,1,1,0,15,0,0,0,31,2,1,0,7,0,2,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,James Trafford,G,Leeds United,90,7.4,0,0,0,0.00184034,0,0,0,35,0,0,0,44,0,0,0,0,0,0,0,0,0,3
+Premier League,26_27,Nottingham Forest vs Leeds United,22/08/2026,Tarik Muharemović,D,Leeds United,90,6.9,0,0,0.0919,0.00297201,1,1,0,37,0,0,0,46,0,0,2,2,1,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Dean Henderson,G,Crystal Palace,90,6.9,0,0,0,0.00007385,0,0,0,31,0,0,0,45,0,0,0,0,0,0,0,0,0,3
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Daichi Kamada,M,Crystal Palace,90,7.1,0,0,0,0.267717,0,0,0,72,2,1,0,90,0,3,1,6,1,2,1,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Takehiro Tomiyasu,D,Crystal Palace,18,6.6,0,0,0,0.00948454,0,0,0,25,0,0,0,29,0,0,1,2,1,1,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Jean-Philippe Mateta,F,Crystal Palace,63,5.9,0,0,0.6981,0.0152225,2,0,1,12,1,0,2,21,0,2,0,3,2,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Eddie Nketiah,F,Crystal Palace,55,7,0,0,0.5999,0.577538,1,1,1,14,2,2,1,26,0,1,0,4,0,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Daniel Muñoz,M,Crystal Palace,55,5.9,0,0,0.2264,0.00968689,2,1,0,31,0,0,1,48,0,1,1,3,1,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Jørgen Strand Larsen,F,Crystal Palace,27,6.1,0,0,0.2511,0.00570817,1,1,0,4,0,0,0,5,0,0,0,0,2,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Evann Guessand,F,Crystal Palace,27,6.3,0,0,0.0316,0.0171976,1,1,0,13,0,0,0,21,0,1,0,1,2,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Chris Richards,D,Crystal Palace,90,6.8,0,0,0,0.00380868,0,0,0,67,0,0,0,88,1,2,2,4,0,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Dwight McNeil,M,Crystal Palace,63,6.5,0,0,0.0485,0.0226074,1,0,0,31,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Yéremy Pino,F,Crystal Palace,35,6.6,0,0,0.0584,0.0207893,2,0,0,19,0,0,0,29,0,2,0,2,1,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Tyrick Mitchell,M,Crystal Palace,90,6.4,0,0,0,0.0140754,0,0,0,30,1,0,0,56,0,2,0,2,2,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Chadi Riad,D,Crystal Palace,72,6.4,0,0,0,0.00672663,0,0,0,49,0,0,0,61,0,1,1,3,2,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Adam Wharton,M,Crystal Palace,90,6.8,0,0,0,0.243032,0,0,0,74,2,1,0,91,1,2,3,5,0,2,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Anan Khalaili,M,Crystal Palace,35,7.5,0,0,0,0.155319,0,0,0,23,2,0,0,43,1,4,1,5,1,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Jaydee Canvot,D,Crystal Palace,90,6.8,0,0,0.0473,0.0143082,1,0,0,86,0,0,0,99,0,4,0,6,0,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Jordan Pickford,G,Everton,90,8.2,0,0,0,0.0163532,0,0,0,35,0,0,0,42,0,0,0,0,0,0,0,0,0,4
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,James Tarkowski,D,Everton,90,7,0,0,0.0512,0.00298478,1,0,0,32,0,0,0,47,0,1,3,6,0,2,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Kiernan Dewsbury-Hall,M,Everton,89,8.6,1,0,0.1189,0.171371,3,1,0,37,2,0,0,61,1,2,0,5,0,2,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Vitaliy Mykolenko,D,Everton,90,7.2,0,0,0,0.0477598,0,0,0,39,1,0,0,63,0,0,0,4,0,2,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Iliman Ndiaye,M,Everton,90,7.9,0,1,0.2433,0.320442,2,2,0,44,3,1,0,67,1,4,0,6,0,1,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,James Garner,M,Everton,11,6.7,0,0,0,0.0255176,0,0,0,9,1,0,0,12,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Jarrad Branthwaite,D,Everton,90,7.5,0,0,0,0.0127088,0,0,0,38,0,0,0,52,0,2,1,6,0,0,0,0,1,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Beto,F,Everton,11,6.5,0,0,0.0484,0.00002634,1,0,0,4,0,0,0,6,0,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Hayden Hackney,M,Everton,79,7.1,0,0,0.0098,0.00906305,1,0,0,43,1,0,0,60,0,2,1,5,1,3,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Carlos Alcaraz,M,Everton,1,0,0,0,0.0211,0.00468383,1,1,0,2,0,0,0,4,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Merlin Röhl,M,Everton,90,7.4,0,0,0,0.0555781,0,0,0,42,1,0,0,70,0,2,0,5,0,0,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Brennan Johnson,F,Everton,14,6.5,0,0,0,0.0011954,0,0,0,3,0,0,0,11,0,0,0,1,1,1,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Thierno Barry,F,Everton,79,7,1,0,0.4502,0.0861693,2,1,0,15,1,0,0,33,0,1,0,4,0,1,0,0,0,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Tyrique George,F,Everton,84,7.4,0,0,0.1767,0.0752996,5,0,0,36,2,0,0,54,2,0,2,4,0,0,0,0,1,0
+Premier League,26_27,Everton vs Crystal Palace,22/08/2026,Harrison Armstrong,M,Everton,90,6.8,0,1,0,0.0367117,0,0,0,38,1,0,0,55,0,2,1,4,3,2,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Chuba Akpom,F,Ipswich Town,24,6.5,0,0,0,0.00007738,0,0,0,4,0,0,0,8,0,1,0,4,1,1,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Saša Lukić,M,Ipswich Town,90,6.6,0,1,0,0.019229,0,0,0,45,1,0,0,53,0,1,1,1,1,0,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Issa Diop,D,Ipswich Town,90,5.9,0,0,0,0.0130036,0,0,0,39,0,0,0,46,0,1,2,1,2,0,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Daizen Maeda,F,Ipswich Town,80,6.3,0,0,0.6091,0.00360846,1,0,0,12,0,0,1,32,0,4,0,4,2,0,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Kjell Scherpen,G,Ipswich Town,90,6.6,0,0,0,0.00182497,0,0,0,26,0,0,0,39,0,0,0,1,0,1,0,0,0,2
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Dara O'Shea,D,Ipswich Town,90,7.5,0,0,0,0.158328,0,0,0,36,2,0,0,70,0,2,2,8,0,2,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Jack Clarke,M,Ipswich Town,19,7.7,1,0,0.1025,0.00180591,2,1,0,5,0,0,0,8,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Leif Davis,D,Ipswich Town,90,6.9,0,0,0,0.0115509,0,0,0,31,0,0,0,49,0,0,1,3,0,1,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Julio Enciso,M,Ipswich Town,71,7.7,0,1,0.2314,0.311418,3,0,0,22,1,1,0,41,4,1,1,7,1,2,0,0,1,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Jacob Greaves,D,Ipswich Town,90,6.9,0,0,0,0.00477302,0,0,0,41,0,0,0,52,0,3,0,8,1,2,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Marcelino Núñez,M,Ipswich Town,80,7.8,0,0,0.0327,0.0326032,1,0,0,41,0,0,0,56,2,2,1,4,1,0,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Kasey McAteer,M,Ipswich Town,24,6.6,0,0,0,0.00474216,0,0,0,6,0,0,0,9,0,1,0,1,1,0,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Abdul Fatawu Issahaku,M,Ipswich Town,66,7.6,0,0,0,0.4052,0,0,0,10,2,1,0,36,3,4,1,10,1,3,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Emersonn,F,Ipswich Town,66,7.9,1,0,0.8201,0.0625768,3,2,0,11,2,0,0,26,2,1,0,7,0,1,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Sindre Walle Egeli,M,Ipswich Town,10,6.5,0,0,0,0.00005731,0,0,0,1,0,0,0,2,0,0,0,1,1,1,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Abdoul Ouattara,M,Ipswich Town,10,6.8,0,0,0,0.00097056,0,0,0,3,1,0,0,7,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Granit Xhaka,M,Sunderland,90,7.6,0,0,0,0.0912594,0,0,0,75,2,0,0,96,1,3,2,8,1,4,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Thomas Meunier,D,Sunderland,90,6.6,0,0,0.0807,0.0836696,2,1,0,61,0,0,0,83,1,2,2,5,1,0,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Luke O'Nien,D,Sunderland,67,6.2,0,0,0.0113,0.00662102,1,0,0,55,0,0,0,70,1,1,0,2,2,0,1,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Omar Alderete,D,Sunderland,23,6.1,0,0,0,0.00784941,0,0,0,37,0,0,0,38,0,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Reinildo Mandava,D,Sunderland,90,6.6,0,0,0,0.28935,0,0,0,53,2,0,0,81,1,3,3,8,2,1,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Wilson Isidor,F,Sunderland,23,6.2,0,0,0,0.00035201,0,0,0,4,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Brian Brobbey,F,Sunderland,67,6.1,0,0,0.2977,0.00162403,2,1,0,3,0,0,1,10,0,0,0,0,2,0,0,0,2,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Daniel Ballard,D,Sunderland,90,6.1,0,0,0,0.00536401,0,0,0,58,0,0,0,73,0,2,0,6,2,1,1,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Enzo Le Fée,M,Sunderland,80,6.3,0,0,0,0.0292133,0,0,0,44,0,0,0,59,1,1,0,3,0,1,0,0,1,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Trai Hume,D,Sunderland,80,6.5,0,0,0.0366,0.266953,2,0,0,23,3,2,0,37,0,3,1,3,2,0,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Robin Roefs,G,Sunderland,90,6.4,0,0,0,0.0015082,0,0,0,46,0,0,0,57,1,0,0,3,0,1,0,0,0,1
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Nilson Angulo,M,Sunderland,59,7.1,1,0,0.1546,0.00939567,2,1,0,21,0,0,0,39,0,1,1,4,0,1,1,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Habib Diarra,M,Sunderland,10,6.5,0,0,0.0263,0.0012111,1,0,0,6,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Chemsdine Talbi,M,Sunderland,31,6.3,0,0,0,0.00098815,0,0,0,11,0,0,0,16,0,0,0,0,1,0,0,0,1,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Noah Sadiki,M,Sunderland,90,6.8,0,0,0.0571,0.026073,1,1,0,57,2,0,1,74,4,0,0,8,1,3,0,0,0,0
+Premier League,26_27,Ipswich Town vs Sunderland,22/08/2026,Chris Rigg,M,Sunderland,10,6.4,0,0,0,0.00110859,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Andy Robertson,D,Tottenham Hotspur,90,7.2,0,0,0,0.0591071,0,0,0,56,1,1,0,78,0,2,2,5,0,2,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,James Maddison,M,Tottenham Hotspur,22,6.3,0,0,0,0.0141689,0,0,0,16,0,0,0,29,0,0,0,2,0,2,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Dominic Solanke,F,Tottenham Hotspur,22,6.4,0,0,0.0711,0,1,0,0,1,0,0,0,6,0,0,0,1,0,1,0,0,1,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Rodrigo Bentancur,M,Tottenham Hotspur,45,5.9,0,0,0,0.0123679,0,0,0,41,1,0,0,46,0,3,0,4,3,0,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Marcos Senesi,D,Tottenham Hotspur,90,7.6,0,0,0,0.0198873,0,0,0,83,0,0,0,104,0,5,1,12,2,3,0,0,1,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Richarlison,F,Tottenham Hotspur,68,6.1,0,0,0,0.00381117,0,0,0,9,0,0,0,17,1,0,0,2,2,1,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Sandro Tonali,M,Tottenham Hotspur,90,6.5,0,0,0.0391,0.0599567,2,1,0,63,0,0,0,76,0,1,0,2,1,1,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Conor Gallagher,M,Tottenham Hotspur,45,6.3,0,0,0.017,0.0586531,1,0,0,19,0,0,0,27,0,1,0,2,1,1,1,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Jan Paul van Hecke,D,Tottenham Hotspur,90,7.1,0,0,0,0.0347985,0,0,0,61,0,0,0,76,0,2,0,7,1,1,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Destiny Udogie,D,Tottenham Hotspur,9,6.7,0,0,0,0.0224854,0,0,0,8,0,0,0,13,0,0,0,1,1,1,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Antonín Kinský,G,Tottenham Hotspur,90,6.8,0,0,0,0.00175594,0,0,0,43,0,0,0,60,0,0,0,1,0,0,0,0,0,5
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Mathys Tel,F,Tottenham Hotspur,90,6.3,0,0,0.0591,0.0649306,2,0,0,39,2,0,0,64,6,0,0,7,2,0,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Archie Gray,M,Tottenham Hotspur,86,6.1,0,0,0,0.0123684,0,0,0,40,0,0,0,50,1,1,1,5,0,2,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Mateus Fernandes,M,Tottenham Hotspur,45,6.5,0,0,0,0.0556655,0,0,0,37,2,1,0,44,1,1,0,2,1,0,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Lucas Bergvall,M,Tottenham Hotspur,45,5.7,0,0,0,0.0122464,0,0,0,20,0,0,0,27,1,1,0,2,0,0,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Mikey Moore,F,Tottenham Hotspur,68,6.3,0,0,0.3813,0.0151401,3,3,0,13,0,0,2,23,2,1,0,4,0,1,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Callum Wilson,F,Brentford,12,7,0,0,0.033,0.0373702,1,0,0,1,1,0,0,4,0,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Kristoffer Ajer,D,Brentford,90,7.5,0,0,0.1071,0.0201078,1,1,0,34,0,0,0,46,0,2,2,9,1,1,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Mathias Jensen,M,Brentford,67,7.4,0,0,0.082,0.338153,2,1,0,27,3,1,1,41,0,2,0,2,3,0,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Vitaly Janelt,M,Brentford,90,7.9,1,0,0.386,0.17337,2,1,0,37,2,0,0,58,0,4,4,5,4,1,1,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Caoimhin Kelleher,G,Brentford,90,8,0,0,0,0.00524545,0,0,0,34,0,0,0,43,0,0,0,0,0,0,0,0,0,4
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Mikkel Damsgaard,M,Brentford,14,7.5,0,0,0,0.107965,0,0,0,14,2,0,0,18,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Nathan Collins,D,Brentford,90,6.8,0,0,0.3367,0.037136,2,0,0,62,2,0,1,73,0,0,0,2,0,0,0,0,1,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Aaron Hickey,D,Brentford,14,6.6,0,0,0,0.00125164,0,0,0,5,0,0,0,9,0,0,0,1,2,1,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Keane Lewis-Potter,D,Brentford,90,7.8,1,0,0.7701,0.117822,2,1,0,33,1,0,0,53,1,1,2,4,1,0,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Kevin Schade,M,Brentford,90,7.9,0,0,0.5242,0.0122089,5,2,0,20,1,0,0,41,1,3,0,10,0,2,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Igor Thiago,F,Brentford,83,6.1,0,0,1.0014,0.0830059,2,0,1,20,0,0,1,26,1,0,0,4,0,0,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Jaidon Anthony,M,Brentford,23,7.7,0,0,0.027,0.351818,1,0,0,7,3,0,0,15,1,2,0,3,1,0,0,0,1,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Yehor Yarmoliuk,M,Brentford,23,6.8,0,0,0.0351,0.00482783,1,0,0,10,0,0,0,18,0,2,1,3,1,1,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Mamadou Sangare,M,Brentford,76,7.3,0,1,0.0527,0.325372,1,1,0,35,2,1,0,51,1,2,2,6,1,3,0,0,0,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Dango Ouattara,M,Brentford,67,6.4,0,0,0.0498,0.287399,2,0,0,11,3,0,0,26,0,0,2,3,3,2,0,0,1,0
+Premier League,26_27,Brentford vs Tottenham Hotspur,22/08/2026,Michael Kayode,D,Brentford,76,7.6,1,0,0.5007,0.00071952,4,1,0,10,0,0,0,39,1,0,3,8,0,3,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Pascal Groß,M,Brighton & Hove Albion,90,7.3,0,0,0,0.268424,0,0,0,77,4,1,0,96,0,3,0,4,1,0,1,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Lewis Dunk,D,Brighton & Hove Albion,90,7.7,0,0,0,0.0394416,0,0,0,114,0,0,0,118,0,1,1,3,2,0,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Olivier Boscagli,D,Brighton & Hove Albion,90,7.7,0,0,0,0.037316,0,0,0,66,0,0,0,84,0,1,2,3,0,1,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Georginio Rutter,M,Brighton & Hove Albion,90,7.6,0,1,0.0786,0.443403,2,0,0,12,1,1,0,30,1,2,0,4,0,1,0,0,2,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Mats Wieffer,D,Brighton & Hove Albion,78,7.2,0,0,0.0859,0.0502732,1,0,0,60,2,0,0,85,1,4,4,11,1,3,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Costinha,D,Brighton & Hove Albion,26,6.6,0,0,0.1245,0.00365514,2,1,1,17,0,0,0,29,0,1,1,1,0,0,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Bart Verbruggen,G,Brighton & Hove Albion,90,6.9,0,0,0,0.00046814,0,0,0,34,0,0,0,35,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Maxim De Cuyper,D,Brighton & Hove Albion,78,8.2,1,0,1.4668,0.21146,4,1,1,41,4,0,1,58,0,3,1,3,4,0,0,0,1,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Yasin Ayari,M,Brighton & Hove Albion,64,6.3,0,0,0.1115,0.0292607,2,0,0,40,1,0,0,47,0,0,0,1,2,1,1,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Diego Gómez,M,Brighton & Hove Albion,86,8.3,0,1,0.1838,0.481699,3,2,0,33,2,1,0,51,0,3,1,5,0,0,0,0,2,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Jack Hinshelwood,M,Brighton & Hove Albion,64,9,2,0,1.4118,0.0155949,3,2,0,14,1,0,0,25,1,2,0,6,0,2,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Luka Vušković,D,Brighton & Hove Albion,90,7.9,0,0,0.1268,0.0344065,2,0,0,103,0,0,1,112,0,0,0,4,1,0,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Charalampos Kostoulas,F,Brighton & Hove Albion,26,6.4,0,0,0.1765,0.00151342,2,0,0,6,0,0,1,12,0,1,0,3,0,0,0,0,1,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Ibrahim Osman,M,Brighton & Hove Albion,12,6.5,0,0,0,0.050334,0,0,0,10,1,0,0,17,0,0,0,2,0,2,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Malick Yalcouyé,M,Brighton & Hove Albion,9,6.6,0,0,0,0.00546877,0,0,0,15,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Zadok Yohanna,F,Brighton & Hove Albion,12,6.6,0,0,0,0.0256678,0,0,0,5,0,0,0,11,1,0,0,1,1,0,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Ross Barkley,M,Aston Villa,74,6.5,0,0,0.0964,0.0169328,1,0,0,25,2,0,0,40,2,0,0,5,0,2,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Marco Bizot,G,Aston Villa,90,6.4,0,0,0,0.00102939,0,0,0,29,0,0,0,38,0,0,0,0,0,0,0,0,0,3
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Victor Lindelöf,D,Aston Villa,90,5,0,0,0,0.00074572,0,0,0,34,0,0,0,39,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,John McGinn,M,Aston Villa,82,6.2,0,0,0.0355,0.00526405,1,0,0,21,0,0,0,39,2,1,1,7,1,4,1,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Tyrone Mings,D,Aston Villa,16,6.8,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Emiliano Buendía,M,Aston Villa,86,6.6,0,0,0.1287,0.0876847,3,0,0,17,1,0,0,33,0,1,2,5,3,2,0,0,1,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Boubacar Kamara,M,Aston Villa,90,6.2,0,0,0,0.00155115,0,0,0,24,0,0,0,39,1,2,1,4,2,1,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Matty Cash,D,Aston Villa,90,6.3,0,0,0,0.00318939,0,0,0,29,0,0,0,49,0,2,1,4,2,2,1,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Pau Torres,D,Aston Villa,74,4.9,0,0,0,0.00312322,0,0,0,26,0,0,0,33,0,0,1,1,1,0,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Matteo Ruggeri,D,Aston Villa,8,6.9,0,0,0,0.00011302,0,0,0,0,0,0,0,3,0,2,0,2,0,0,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Ian Maatsen,D,Aston Villa,82,5.4,0,0,0.0261,0.00294576,1,0,0,8,0,0,0,39,0,2,2,2,0,0,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,João Gomes,M,Aston Villa,40,5,0,0,0,0.00575291,0,0,0,14,1,0,0,25,1,4,0,6,2,1,1,1,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Lamare Bogarde,M,Aston Villa,16,6.7,0,0,0,0.00161103,0,0,0,2,0,0,0,4,0,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Alejandro Garnacho,F,Aston Villa,9,6.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,George Hemmings,M,Aston Villa,90,6.4,0,0,0,0.00144232,0,0,0,13,1,0,0,23,1,3,0,6,0,0,0,0,0,0
+Premier League,26_27,Brighton & Hove Albion vs Aston Villa,23/08/2026,Alysson,M,Aston Villa,8,6.6,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Mateo Kovačić,M,Manchester City,27,6.7,0,0,0,0.0138078,0,0,0,26,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Jack Grealish,M,Manchester City,8,6.6,0,0,0,0.00084154,0,0,0,7,0,0,0,9,0,1,0,1,1,0,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Rúben Dias,D,Manchester City,90,7.4,0,0,0,0.143504,0,0,0,128,1,0,0,139,0,0,0,4,0,0,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Gianluigi Donnarumma,G,Manchester City,90,8,0,0,0,0.00029672,0,0,0,20,0,0,0,29,0,0,0,0,0,0,0,0,0,3
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Erling Haaland,F,Manchester City,90,6.9,0,0,0.7433,0.0161809,5,2,0,16,0,0,1,26,1,0,0,3,0,0,0,0,1,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Phil Foden,M,Manchester City,82,6.7,0,0,0.1203,0.399674,2,0,0,54,2,1,0,80,1,3,0,7,2,2,1,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Marc Guéhi,D,Manchester City,90,8.3,1,0,0.8937,0.319931,2,1,0,61,1,1,1,75,1,3,0,8,1,2,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Antoine Semenyo,M,Manchester City,90,6.9,0,0,0.0604,0.0236823,1,1,0,35,0,0,0,54,2,1,0,6,2,2,0,0,1,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Matheus Nunes,D,Manchester City,33,6.8,0,0,0,0.0414066,0,0,0,23,0,0,0,28,0,0,0,1,0,1,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Joško Gvardiol,D,Manchester City,90,7.6,1,0,0.1937,0.053669,1,1,0,74,0,0,0,93,1,2,4,5,0,0,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Rayan Cherki,M,Manchester City,27,7.5,0,2,0,0.495459,0,0,0,14,4,1,0,19,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Elliot Anderson,M,Manchester City,63,6.9,0,0,0,0.253643,0,0,0,59,1,1,0,75,0,2,1,4,3,2,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Rico Lewis,D,Manchester City,57,6,0,0,0.1728,0.0181417,1,1,0,26,0,0,1,45,0,0,2,3,1,2,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Nico O'Reilly,D,Manchester City,63,6.9,0,0,0.0675,0.410938,1,0,0,23,1,0,0,34,0,1,0,1,1,0,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Abdukodir Khusanov,D,Manchester City,90,7,0,0,0,0.0228068,0,0,0,92,0,0,0,98,0,2,1,4,0,0,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Adam Smith,D,Bournemouth,90,6.1,0,0,0,0.00255285,0,0,0,17,0,0,0,35,0,1,2,5,1,3,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Lewis Cook,M,Bournemouth,75,6.5,0,0,0,0.00140498,0,0,0,27,0,0,0,35,0,1,2,2,0,0,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Tyler Adams,M,Bournemouth,15,6.3,0,0,0,0.00166146,0,0,0,10,0,0,0,14,0,0,3,0,0,0,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Justin Kluivert,M,Bournemouth,75,7.2,0,0,0.1064,0.00259,1,1,0,12,1,0,0,23,1,3,1,5,1,1,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Đorđe Petrović,G,Bournemouth,90,7.7,0,0,0,0.00097423,0,0,0,42,0,0,0,52,0,0,0,1,0,0,0,0,0,4
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Marcus Tavernier,M,Bournemouth,90,7.5,1,0,0.4007,0.0759027,2,1,0,27,1,0,0,49,0,2,0,6,1,3,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Evanilson,F,Bournemouth,75,6.6,0,1,0,0.214978,0,0,0,13,1,1,0,25,0,1,3,2,2,1,1,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Adrien Truffert,D,Bournemouth,90,6.6,0,0,0,0.00362241,0,0,0,27,0,0,0,46,1,2,0,4,4,0,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,António Silva,D,Bournemouth,90,6.6,0,0,0,0.00225084,0,0,0,39,0,0,0,53,0,0,0,1,0,0,1,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Daniel Jebbison,F,Bournemouth,15,6.8,0,0,0.0969,0.00394837,1,1,0,5,0,0,0,9,0,0,0,1,0,1,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Alex Scott,M,Bournemouth,90,7,0,0,0,0.00679912,0,0,0,47,0,0,0,57,0,4,1,5,0,1,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Ben Gannon-Doak,M,Bournemouth,1,0,0,0,0,0.00167246,0,0,0,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,James Hill,D,Bournemouth,90,6.5,0,0,0,0.00297104,0,0,0,47,0,0,0,55,0,1,0,3,2,0,0,0,1,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Rayan,M,Bournemouth,89,6.1,0,0,0.0421,0.0260107,1,1,0,15,1,0,0,24,0,0,1,3,0,0,0,0,0,0
+Premier League,26_27,Manchester City vs Bournemouth,23/08/2026,Alex Tóth,M,Bournemouth,15,6.3,0,0,0,0.00350405,0,0,0,13,0,0,0,17,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Fabian Schär,D,Newcastle United,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Jacob Murphy,F,Newcastle United,14,6.1,0,0,0,0.00004064,0,0,0,1,0,0,0,7,0,0,0,0,1,0,1,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Yoane Wissa,F,Newcastle United,89,6.8,0,1,0.9951,0.015856,4,1,0,17,1,0,2,41,1,4,0,11,3,4,1,0,2,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Harvey Barnes,F,Newcastle United,90,6.7,0,0,0.0689,0.0178046,1,0,0,17,0,0,0,33,0,1,0,4,1,3,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Joe Willock,M,Newcastle United,34,7.7,1,0,0.088,0.172241,1,1,0,7,1,1,0,15,1,2,0,3,2,0,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Sven Botman,D,Newcastle United,90,6.7,0,0,0,0.0148252,0,0,0,34,0,0,0,48,0,0,0,2,0,1,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Lukáš Horníček,G,Newcastle United,90,7.9,0,0,0,0.00359957,0,0,0,38,0,0,0,50,0,0,0,0,0,0,1,0,0,5
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Jacob Ramsey,M,Newcastle United,34,6.4,0,0,0.0596,0.0075849,1,0,0,16,0,0,0,25,0,2,1,2,1,0,1,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Anthony Elanga,F,Newcastle United,76,7.7,1,0,0.2215,0.0122453,2,2,0,21,0,0,0,32,1,0,0,5,1,3,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Malick Thiaw,D,Newcastle United,90,6.4,0,0,0,0.00098898,0,0,0,30,0,0,0,48,0,0,0,3,1,0,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Amar Dedić,D,Newcastle United,90,6.3,0,0,0.0304,0.00485664,1,0,0,20,0,0,0,51,0,2,0,5,3,2,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,William Osula,F,Newcastle United,56,6.7,0,1,0.0587,0.138781,2,0,0,5,1,1,0,20,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Lewis Hall,D,Newcastle United,90,6.9,0,0,0,0.349853,0,0,0,24,1,1,0,54,0,5,2,5,2,0,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Lewis Miley,M,Newcastle United,76,7.2,0,0,0.053,0.008505,1,0,0,36,2,0,0,46,1,1,1,5,1,1,1,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Sean Steur,M,Newcastle United,56,6.4,0,0,0,0.00043417,0,0,0,29,0,0,0,31,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Aladji Bamba,M,Newcastle United,14,6.6,0,0,0,0.00000959,0,0,0,1,0,0,0,5,0,1,0,2,0,0,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Virgil van Dijk,D,Liverpool FC,90,6.7,0,0,0.2493,0.0129906,2,1,0,58,0,0,0,74,0,2,0,5,0,0,1,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Alisson,G,Liverpool FC,90,6.3,0,0,0,0.0001934,0,0,0,19,0,0,0,28,0,0,0,0,0,0,0,0,0,3
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Alexander Isak,F,Liverpool FC,90,7,0,0,1.0868,0.00735901,4,2,0,13,1,0,2,28,0,0,0,5,0,2,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Cody Gakpo,M,Liverpool FC,90,7.2,1,0,0.2989,0.153337,6,1,0,28,3,0,0,58,0,3,3,7,4,3,0,0,1,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Dominik Szoboszlai,M,Liverpool FC,90,7.1,1,0,0.8497,0.270412,3,1,0,58,3,0,0,88,1,1,1,3,2,1,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Alexis Mac Allister,M,Liverpool FC,27,6.9,0,0,0,0.00835005,0,0,0,12,0,0,0,18,0,2,0,4,0,2,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Ryan Gravenberch,M,Liverpool FC,78,6.9,0,1,0.0628,0.0521378,2,0,0,47,1,0,0,62,0,1,2,4,1,3,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Ronald Araújo,D,Liverpool FC,20,7.3,0,0,0,0.034693,0,0,0,29,0,0,0,35,0,1,0,4,1,0,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Jeremie Frimpong,D,Liverpool FC,90,5.9,0,0,0.0098,0.0905495,1,0,0,43,3,0,0,66,1,1,0,2,2,0,1,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Florian Wirtz,M,Liverpool FC,63,7,0,0,0.2566,0.0353615,3,1,0,33,1,0,0,43,1,1,0,3,0,1,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Miloš Kerkez,D,Liverpool FC,90,6,0,0,0.0243,0.0236795,2,1,0,41,1,0,0,64,0,3,1,6,3,1,1,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Víctor Muñoz,F,Liverpool FC,27,7.3,0,0,0.095,0.0413047,2,0,0,6,0,0,0,16,0,0,0,1,0,1,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Lewis Koumas,F,Liverpool FC,12,6.6,0,0,0.0288,0.00497314,1,0,0,3,0,0,0,5,1,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Jérémy Jacquet,D,Liverpool FC,70,6.7,0,0,0,0.0164785,0,0,0,42,1,0,0,51,1,1,1,4,1,1,0,0,0,0
+Premier League,26_27,Newcastle United vs Liverpool FC,23/08/2026,Rio Ngumoha,F,Liverpool FC,63,6.3,0,0,0.0402,0.0222302,1,0,0,13,0,0,0,21,0,1,0,2,1,1,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Pedro Neto,M,Chelsea,14,7.1,0,0,0.0276,0.0691625,1,0,0,5,0,0,0,14,3,1,0,4,0,0,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Maxence Lacroix,D,Chelsea,90,7.3,0,1,0,0.199823,0,0,0,50,1,1,0,68,0,5,2,8,1,1,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Reece James,D,Chelsea,90,6.7,0,0,0.103,0.0702525,2,1,0,50,1,0,0,70,0,0,2,1,1,0,1,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Robert Sánchez,G,Chelsea,90,5.8,0,0,0,0.00639656,0,0,0,29,0,0,0,39,0,0,0,0,0,0,0,0,0,4
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Morgan Rogers,M,Chelsea,82,8.4,1,0,0.9622,0.102401,3,1,0,23,5,0,0,41,3,2,0,8,1,1,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Enzo Fernández,M,Chelsea,25,6.9,0,0,0,0.0157692,0,0,0,21,1,0,0,25,0,0,0,1,0,1,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,João Pedro,F,Chelsea,90,7.9,1,1,0.627,0.0553919,4,1,0,20,2,1,0,39,1,0,0,4,1,1,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Cole Palmer,M,Chelsea,83,9,1,1,0.283,0.18864,5,2,0,34,3,1,0,62,5,2,0,10,0,3,0,0,1,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Levi Colwill,D,Chelsea,90,6,0,0,0.0131,0.0289019,1,0,0,30,0,0,0,41,1,2,0,4,1,1,1,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Malo Gusto,D,Chelsea,76,6.4,0,0,0,0.0346803,0,0,0,24,0,0,0,43,0,1,1,3,1,0,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Pep Chavarría,D,Chelsea,25,6.5,0,0,0,0.00039826,0,0,0,8,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Roméo Lavia,M,Chelsea,65,6.9,0,0,0.2087,0.0308349,1,1,0,22,2,0,1,34,0,3,1,3,1,0,1,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Jorrel Hato,D,Chelsea,65,6.5,0,0,0.014,0.0336737,1,0,0,22,1,1,0,40,1,2,0,5,0,2,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Josh Acheampong,D,Chelsea,90,7.1,0,0,0,0.0127477,0,0,0,48,0,0,0,67,0,5,1,7,0,1,0,0,1,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Geovany Quenda,M,Chelsea,8,6.5,0,0,0,0.00015949,0,0,0,4,0,0,0,6,0,0,0,0,0,0,0,0,1,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Estêvão,M,Chelsea,12,6.4,0,0,0,0.00185821,0,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Bernd Leno,G,Fulham,90,6.2,0,0,0,0.00233153,0,0,0,42,0,0,0,51,0,0,0,0,0,0,0,0,0,3
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Timothy Castagne,D,Fulham,90,6.6,0,1,0.0932,0.179549,1,1,0,43,2,0,0,64,1,1,1,7,2,2,1,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Alex Iwobi,M,Fulham,90,6.8,0,0,0,0.0385336,0,0,0,92,0,0,0,103,0,1,3,1,0,0,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Sander Berge,M,Fulham,73,6.7,0,0,0.0294,0.0270773,1,0,0,61,2,0,0,67,0,1,0,2,0,0,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Antonee Robinson,D,Fulham,82,6.3,0,0,0.133,0.0405071,1,0,0,50,1,0,1,69,1,3,1,4,0,0,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Ryan Sessegnon,D,Fulham,17,6.6,0,0,0.0325,0.00270599,1,1,0,7,0,0,0,19,2,0,1,3,0,0,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Calvin Bassey,D,Fulham,90,6.5,0,0,0.0168,0.0228932,1,0,0,89,0,0,0,104,0,1,0,2,1,1,1,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Jorge Cuenca,D,Fulham,90,7.1,0,0,0,0.0275607,0,0,0,87,2,1,0,99,0,1,1,3,0,0,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Rodrigo Muniz,F,Fulham,8,6.7,0,0,0.0196,0.00158714,1,1,0,4,1,0,0,7,0,0,0,3,0,0,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Oscar Bobb,M,Fulham,67,6.7,0,0,0,0.263776,0,0,0,25,1,0,0,39,1,3,1,5,1,1,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Kevin,M,Fulham,17,6.4,0,0,0,0.00638422,0,0,0,10,0,0,0,20,1,2,0,3,2,0,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Shea Charles,M,Fulham,23,6.8,0,0,0,0.00463464,0,0,0,29,0,0,0,31,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,César Palacios,M,Fulham,73,6,0,0,0.1558,0.00820661,2,0,0,37,0,0,0,52,1,2,0,3,2,0,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Gonzalo García,F,Fulham,90,7.1,1,0,0.7335,0.00652821,3,1,0,27,0,0,0,45,1,1,0,8,2,2,0,0,0,0
+Premier League,26_27,Fulham vs Chelsea,24/08/2026,Joshua King,M,Fulham,90,7.1,1,0,0.1714,0.0362845,3,2,0,36,1,0,0,57,0,2,0,3,2,1,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Dean Henderson,G,Crystal Palace,90,6.7,0,0,0,0.00002189,0,0,0,15,0,0,0,28,0,0,0,0,0,0,0,0,0,4
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Daichi Kamada,M,Crystal Palace,90,7.3,0,0,0.0461,0.0228594,1,0,0,36,0,0,0,51,2,6,0,10,0,1,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Takehiro Tomiyasu,D,Crystal Palace,74,5.7,0,0,0,0.00134307,0,0,0,25,0,0,0,39,0,1,3,1,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Axel Disasi,D,Crystal Palace,16,6.5,0,0,0,0.00001026,0,0,0,7,0,0,0,8,0,1,0,1,1,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Eddie Nketiah,F,Crystal Palace,68,6.3,0,0,0.3623,0.00326366,2,0,0,8,1,0,1,22,1,2,1,4,1,1,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Óscar Mingueza,M,Crystal Palace,15,6.3,0,0,0,0.00040054,0,0,0,2,0,0,0,7,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Jørgen Strand Larsen,F,Crystal Palace,63,7.6,0,0,0.0471,0.00091236,1,0,0,9,0,0,1,18,0,1,0,3,1,1,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Evann Guessand,F,Crystal Palace,27,6.4,0,0,0,0.00758722,0,0,0,2,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Chris Richards,D,Crystal Palace,90,5.9,0,0,0.037,0.00189175,1,1,0,28,0,0,0,38,1,2,2,3,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Dwight McNeil,M,Crystal Palace,22,6.4,0,0,0,0.00143481,0,0,0,4,0,0,0,6,0,0,1,0,1,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Yéremy Pino,F,Crystal Palace,68,6.9,0,0,0.0502,0.0714621,1,0,1,24,2,1,0,44,0,2,1,5,2,3,0,0,2,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Tyrick Mitchell,M,Crystal Palace,90,6.6,0,0,0.1055,0.15906,2,0,0,24,2,1,1,44,1,2,1,3,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Adam Wharton,M,Crystal Palace,90,7.2,0,0,0,0.0678373,0,0,0,26,2,1,0,36,0,4,0,7,0,2,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Anan Khalaili,M,Crystal Palace,75,7.5,0,0,0.0158,0.00319578,1,0,0,26,0,0,0,60,3,10,2,15,1,1,1,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Jaydee Canvot,D,Crystal Palace,90,6.3,0,0,0,0.00460976,0,0,0,51,0,0,0,64,0,1,0,4,0,1,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Zavier Gozo,M,Crystal Palace,22,6.3,0,0,0,0.00063582,0,0,0,4,0,0,0,9,0,1,0,1,1,0,0,0,1,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Mateo Kovačić,M,Manchester City,15,6.6,0,0,0,0.00949728,0,0,0,30,0,0,0,34,0,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Rúben Dias,D,Manchester City,90,7.6,0,0,0.0904,0.565347,1,1,0,108,2,0,0,118,1,1,1,4,0,1,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Gianluigi Donnarumma,G,Manchester City,90,6.3,0,0,0,0.00011152,0,0,0,35,0,0,0,43,0,0,0,0,0,0,0,0,0,1
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Erling Haaland,F,Manchester City,90,8.2,2,0,0.6641,0.00023016,5,3,0,4,0,0,0,19,0,0,0,3,0,1,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Phil Foden,M,Manchester City,90,6.9,0,2,0.8716,0.453123,3,0,0,48,3,2,2,70,2,1,0,5,1,2,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Marc Guéhi,D,Manchester City,90,7.6,0,0,0,0.0380251,0,0,0,113,1,0,0,124,1,0,2,5,1,1,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Antoine Semenyo,M,Manchester City,90,6.3,0,1,0.0605,0.565874,2,1,0,44,3,1,0,68,2,1,0,5,1,2,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Joško Gvardiol,D,Manchester City,75,6.6,0,1,0,0.0425528,0,0,0,52,2,0,0,64,2,1,0,5,2,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Rayan Cherki,M,Manchester City,82,8.6,2,0,0.3453,0.550488,3,3,0,67,3,1,0,84,3,0,0,3,4,0,1,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Elliot Anderson,M,Manchester City,82,7.7,0,0,0.0663,0.21781,2,1,0,100,1,1,0,122,1,5,3,8,1,1,1,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Nico O'Reilly,D,Manchester City,89,6.3,0,0,0.0194,0.0194639,1,0,0,57,0,0,0,70,3,1,0,5,1,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Abdukodir Khusanov,D,Manchester City,89,7.1,0,0,0,0.0198417,0,0,0,81,0,0,0,106,1,4,2,6,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Vitor Reis,D,Manchester City,1,0,0,0,0,0.00283033,0,0,0,13,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Ayyoub Bouaddi,M,Manchester City,8,7,0,0,0,0.115897,0,0,0,21,0,0,0,23,0,0,1,0,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Ryan McAidoo,M,Manchester City,8,6.5,0,0,0.0977,0.00064133,1,0,0,5,0,0,0,7,1,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Manchester City,28/08/2026,Kaden Braithwaite,D,Manchester City,1,0,0,0,0,0.00145561,0,0,0,10,0,0,0,10,0,0,0,0,0,0,0,0,0,0

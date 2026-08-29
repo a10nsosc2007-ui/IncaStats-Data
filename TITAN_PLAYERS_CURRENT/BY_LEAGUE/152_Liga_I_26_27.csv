@@ -970,246 +970,552 @@ Liga I,26_27,Sepsi OSK Sfântu Gheorghe vs FCSB,10/08/2026,Robert Silaghi,M,Seps
 Liga I,26_27,Sepsi OSK Sfântu Gheorghe vs FCSB,10/08/2026,Doru Andrei,M,Sepsi OSK Sfântu Gheorghe,86,6.7,0,0,0,0,1,0,0,32,1,0,0,43,0,0,0,1,0,1,0,0,0,0
 Liga I,26_27,Sepsi OSK Sfântu Gheorghe vs FCSB,10/08/2026,Hunor Batzula,M,Sepsi OSK Sfântu Gheorghe,76,6.5,0,0,0,0,1,0,0,16,1,0,0,26,2,0,0,2,1,0,0,0,0,0
 Liga I,26_27,Sepsi OSK Sfântu Gheorghe vs FCSB,10/08/2026,Raul Cîmpean,F,Sepsi OSK Sfântu Gheorghe,14,6.6,0,0,0,0,1,0,0,13,0,0,0,18,0,0,1,0,0,0,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Paul Papp,D,FC Petrolul Ploiești,90,6.7,0,0,0,0,3,0,0,42,0,0,0,62,0,0,2,4,1,1,1,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Sergiu Hanca,D,FC Petrolul Ploiești,81,7.2,0,0,0,0,0,0,0,46,3,0,0,54,0,2,1,3,1,0,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Lukáš Zima,G,FC Petrolul Ploiești,90,7.9,0,0,0,0,0,0,0,32,0,0,0,45,0,0,0,0,0,0,0,0,0,4
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Tiberiu Căpuşă,D,FC Petrolul Ploiești,1,0,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,1,0,0,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Dan N'Lundulu,F,FC Petrolul Ploiești,89,6.9,0,0,0,0,2,1,0,20,1,0,1,34,2,1,1,7,0,3,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Rodrigo Martins,F,FC Petrolul Ploiești,89,6.2,0,0,0,0,2,1,0,18,1,0,1,41,1,1,0,4,1,2,1,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Breston Malula,D,FC Petrolul Ploiești,90,8.4,1,0,0,0,2,1,0,44,0,0,0,62,0,1,0,6,1,3,1,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Calal Huseinov,D,FC Petrolul Ploiești,9,6.6,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Andres Dumitrescu,D,FC Petrolul Ploiești,90,6.8,0,0,0,0,0,0,0,38,0,0,0,59,0,0,1,3,0,1,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Alejandro Bran,M,FC Petrolul Ploiești,90,7.1,1,0,0,0,6,1,0,44,5,0,0,68,3,0,2,4,1,1,1,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Robert Jerdea,F,FC Petrolul Ploiești,67,6.5,0,0,0,0,2,1,0,21,1,1,0,35,3,0,1,4,1,1,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Lucho Vega,M,FC Petrolul Ploiești,23,6.7,0,0,0,0,1,0,0,16,0,0,0,23,1,0,0,4,2,1,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Léo Teixeira,F,FC Petrolul Ploiești,81,7.5,0,1,0,0,0,0,0,29,3,2,0,59,4,2,1,7,1,1,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Mark Țuțu,D,FC Petrolul Ploiești,90,6.9,0,0,0,0,1,0,0,33,3,0,0,63,1,3,0,6,2,2,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Adam Zaian,D,FC Petrolul Ploiești,9,6.8,0,0,0,0,0,0,0,1,0,0,0,4,0,1,0,1,0,0,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Rareș Leescu,D,FC Petrolul Ploiești,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Mihai Roman II,F,FC Voluntari,66,8.1,1,0,0,0,2,1,0,12,1,1,1,27,0,2,1,6,3,2,1,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Metod Jurhar,G,FC Voluntari,90,6.9,0,0,0,0,0,0,0,34,0,0,0,46,0,0,0,0,0,0,0,0,0,3
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Matko Babić,F,FC Voluntari,90,7,0,0,0,0,5,2,0,17,0,0,3,31,2,2,0,6,1,1,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Radu Crişan,D,FC Voluntari,90,6.4,0,0,0,0,1,0,0,68,0,0,0,81,0,0,0,4,2,0,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Marvin Schieb,M,FC Voluntari,56,6.7,0,0,0,0,0,0,0,22,0,0,0,26,1,0,0,1,0,0,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Denis Haruț,D,FC Voluntari,90,6.9,0,0,0,0,2,1,0,44,0,0,0,63,1,3,1,4,0,0,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Ion Gheorghe,M,FC Voluntari,79,6.8,0,1,0,0,1,0,0,44,2,0,0,54,0,1,1,1,4,0,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Cristian Merloi,M,FC Voluntari,11,6.6,0,0,0,0,0,0,0,8,0,0,0,14,0,0,0,3,1,3,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Daniel Dumbrăvanu,D,FC Voluntari,90,5.6,0,0,0,0,0,0,0,76,0,0,0,84,0,1,0,1,2,0,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Daniel Toma,M,FC Voluntari,11,6.7,0,0,0,0,0,0,0,20,0,0,0,22,0,0,1,1,0,0,1,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Mihael Onișa,M,FC Voluntari,79,6.4,0,0,0,0,0,0,0,38,1,1,0,44,1,0,0,2,1,0,1,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Florian Haită,M,FC Voluntari,24,6.6,0,0,0,0,0,0,0,13,0,0,0,24,0,3,0,4,2,1,1,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Matej Mamić,D,FC Voluntari,34,6.2,0,0,0,0,0,0,0,15,0,0,0,25,0,1,0,1,0,0,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Alexandru Șuteu,D,FC Voluntari,90,7.1,0,0,0,0,3,0,0,36,4,0,0,75,0,4,3,6,0,1,0,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Adrian Chică-Roșă,F,FC Voluntari,24,6.6,0,0,0,0,0,0,0,6,0,0,0,12,0,0,0,2,1,1,1,0,0,0
-Liga I,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Remus Guțea,M,FC Voluntari,66,6.6,0,0,0,0,2,1,0,20,0,0,0,38,0,2,0,4,0,2,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Ionuț Larie,D,FCV Farul Constanța,18,6.6,0,0,0,0,0,0,0,7,0,0,0,11,0,0,0,1,1,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Jakub Vojtuš,F,FCV Farul Constanța,19,6.5,0,0,0,0,0,0,0,8,1,0,0,12,0,0,0,6,1,2,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Matteo Ahlinvi,F,FCV Farul Constanța,90,6.8,0,0,0,0,0,0,0,49,2,0,0,68,3,1,1,6,0,2,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Valentin Țicu,D,FCV Farul Constanța,90,6.2,0,0,0,0,0,0,0,29,0,0,0,50,0,0,0,1,1,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Eddy Sylvestre,F,FCV Farul Constanța,71,6.6,0,1,0,0,1,0,0,22,2,0,0,35,1,1,0,2,2,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Victor Dican,M,FCV Farul Constanța,90,6.3,0,0,0,0,0,0,0,61,0,0,0,73,0,0,0,0,1,0,1,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Sofyane Bouzamoucha,D,FCV Farul Constanța,72,6.5,0,0,0,0,0,0,0,39,0,0,0,47,0,1,0,2,0,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Tony Njiké,M,FCV Farul Constanța,90,7,0,0,0,0,2,0,0,55,1,0,0,76,0,3,1,6,0,3,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Dan Sîrbu,D,FCV Farul Constanța,66,7,0,0,0,0,1,0,0,37,1,0,0,57,1,2,0,5,1,1,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Gustavo Marins,D,FCV Farul Constanța,90,6.3,0,0,0,0,0,0,0,35,0,0,0,54,0,1,2,3,1,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Răzvan Tănasă,F,FCV Farul Constanța,1,0,0,0,0,0,0,0,0,1,0,0,0,4,0,1,0,1,0,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Nicolas Popescu,M,FCV Farul Constanța,1,0,0,0,0,0,0,0,0,3,0,0,0,4,1,0,0,1,0,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Eduard Radaslavescu,M,FCV Farul Constanța,89,7.5,1,0,0,0,2,2,0,21,1,0,0,39,3,1,1,4,0,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Luca Banu,M,FCV Farul Constanța,24,6.5,0,0,0,0,0,0,0,5,0,0,0,17,0,1,1,1,0,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Rafael Munteanu,G,FCV Farul Constanța,90,6.3,0,0,0,0,0,0,0,33,0,0,0,46,0,0,0,0,0,0,0,0,0,3
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Iustin Doicaru,F,FCV Farul Constanța,89,6.4,0,0,0,0,2,2,0,11,0,0,0,24,0,1,0,1,1,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Vadim Rață,M,FC Argeș Pitești,66,6.6,0,0,0,0,1,1,0,26,1,0,0,39,2,1,1,5,3,1,1,0,1,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Silviu Balaure,M,FC Argeș Pitești,45,6.6,0,0,0,0,0,0,0,24,1,0,0,34,0,1,0,2,0,1,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Robert Moldoveanu,F,FC Argeș Pitești,80,7.4,1,0,0,0,5,2,0,18,0,0,0,31,0,0,0,3,1,1,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Ionuț Rădescu,M,FC Argeș Pitești,45,6.3,0,0,0,0,0,0,0,6,0,0,0,11,1,0,0,1,0,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Costinel Tofan,D,FC Argeș Pitești,90,6.2,0,0,0,0,0,0,0,41,0,0,0,68,0,0,0,1,1,1,0,0,1,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Dorinel Oancea,D,FC Argeș Pitești,45,6.7,0,1,0,0,1,0,0,29,2,0,0,53,1,1,1,3,1,1,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Cătălin Căbuz,G,FC Argeș Pitești,90,7.2,0,0,0,0,0,0,0,20,0,0,0,28,0,0,0,2,0,2,0,0,0,3
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Rober Sierra,M,FC Argeș Pitești,90,7,0,0,0,0,1,0,0,45,0,0,0,56,0,2,1,4,0,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Claudiu Micovschi,M,FC Argeș Pitești,10,6.7,0,0,0,0,0,0,0,9,1,0,0,14,0,0,1,0,0,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Leard Sadriu,D,FC Argeș Pitești,90,7.1,0,0,0,0,0,0,0,79,0,0,0,90,0,1,0,3,1,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Florin Borța,D,FC Argeș Pitești,45,7.3,0,0,0,0,1,0,0,39,0,0,0,58,1,2,0,5,0,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Oluwatobiloba Alagbe,D,FC Argeș Pitești,24,7,0,0,0,0,0,0,0,27,3,0,0,30,0,1,0,2,0,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Mario Tudose,D,FC Argeș Pitești,90,7.1,0,0,0,0,0,0,0,95,2,0,0,102,0,1,0,3,1,0,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Taylor Luvambo,M,FC Argeș Pitești,90,6.6,0,0,0,0,2,0,0,16,0,0,0,28,0,2,1,4,0,1,0,0,1,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Yanis Pîrvu,F,FC Argeș Pitești,66,6.6,0,0,0,0,1,1,0,24,1,0,0,37,0,1,0,3,0,1,0,0,0,0
-Liga I,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Patrick Dulcea,M,FC Argeș Pitești,24,6.7,0,0,0,0,1,0,0,9,0,0,0,24,2,3,0,6,0,0,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Bogdan Vătăjelu,D,Sepsi OSK Sfântu Gheorghe,10,6.6,0,0,0,0,0,0,0,3,0,0,0,7,0,0,0,0,0,0,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Lindsay Rose,D,Sepsi OSK Sfântu Gheorghe,63,6.8,0,0,0,0,0,0,0,48,0,0,0,57,0,0,0,1,1,0,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,David Lazar,G,Sepsi OSK Sfântu Gheorghe,90,7.6,0,0,0,0,0,0,0,20,0,0,0,27,0,0,0,0,0,0,0,0,0,3
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Dimitri Oberlin,F,Sepsi OSK Sfântu Gheorghe,90,6.9,0,0,0,0,1,1,0,19,1,0,1,40,2,3,2,7,1,2,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Funsho Bamgboye,M,Sepsi OSK Sfântu Gheorghe,90,6.3,0,0,0,0,2,1,0,24,2,1,1,46,1,1,1,8,3,5,1,0,1,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Daniel Vîrtej,D,Sepsi OSK Sfântu Gheorghe,27,7,0,0,0,0,0,0,0,34,0,0,0,40,0,1,0,1,0,0,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Moses Mawa,F,Sepsi OSK Sfântu Gheorghe,90,6.2,0,0,0,0,2,0,0,14,0,0,0,26,0,0,0,2,1,2,0,0,1,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Gustavo Cascardo,D,Sepsi OSK Sfântu Gheorghe,80,7,0,0,0,0,0,0,0,41,2,0,0,61,1,0,1,3,1,2,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Setigui Karamoko,D,Sepsi OSK Sfântu Gheorghe,90,7.3,0,0,0,0,1,1,0,76,1,0,0,98,0,3,1,4,0,0,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Fábio Vianna,D,Sepsi OSK Sfântu Gheorghe,80,6.9,0,0,0,0,0,0,0,47,3,1,0,69,1,0,0,2,3,1,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Nicolae Păun,M,Sepsi OSK Sfântu Gheorghe,32,7.2,0,0,0,0,0,0,0,49,0,0,0,51,0,0,0,1,1,0,1,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Robert Silaghi,M,Sepsi OSK Sfântu Gheorghe,58,6.9,0,0,0,0,0,0,0,41,0,0,0,47,0,1,1,3,1,1,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Doru Andrei,M,Sepsi OSK Sfântu Gheorghe,90,6.6,0,0,0,0,3,0,0,38,3,0,0,52,1,0,0,1,0,0,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Bogdan Oteliță,D,Sepsi OSK Sfântu Gheorghe,10,6.8,0,0,0,0,0,0,0,9,0,0,0,12,0,1,0,1,0,0,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Hunor Batzula,M,Sepsi OSK Sfântu Gheorghe,59,7.1,0,0,0,0,2,1,0,44,0,0,0,57,1,3,0,6,1,0,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Raul Cîmpean,F,Sepsi OSK Sfântu Gheorghe,31,7,0,0,0,0,1,0,0,36,0,0,0,44,1,0,1,4,0,1,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Jozef Dolný,F,FK Csíkszereda Miercurea Ciuc,10,6.4,0,0,0,0,1,0,0,2,0,0,0,5,0,0,1,0,0,0,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Márton Eppel,F,FK Csíkszereda Miercurea Ciuc,80,6.9,0,0,0,0,4,1,0,11,2,0,1,20,0,0,0,5,1,0,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Eduard Pap,G,FK Csíkszereda Miercurea Ciuc,90,8.2,0,0,0,0,0,0,0,24,0,0,0,33,0,0,0,0,0,0,0,0,0,4
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Szilárd Vereș,M,FK Csíkszereda Miercurea Ciuc,87,6.6,0,0,0,0,1,0,1,21,0,0,0,30,0,1,1,3,3,1,1,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Raul Palmeș,D,FK Csíkszereda Miercurea Ciuc,90,7.1,0,0,0,0,0,0,0,37,1,0,0,46,0,1,0,2,1,0,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Albert Stahl,M,FK Csíkszereda Miercurea Ciuc,10,6.6,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Alex Szabó,D,FK Csíkszereda Miercurea Ciuc,90,6.8,0,0,0,0,0,0,0,27,0,0,0,37,0,1,0,1,1,0,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Zsolt Magyar,M,FK Csíkszereda Miercurea Ciuc,3,0,0,0,0,0,0,0,0,5,0,0,0,6,0,0,0,0,0,0,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Lóránd Pászka,D,FK Csíkszereda Miercurea Ciuc,90,6.6,0,0,0,0,1,1,0,33,0,0,0,47,0,0,2,0,0,0,0,0,1,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Răzvan Trif,D,FK Csíkszereda Miercurea Ciuc,90,7.5,0,0,0,0,1,0,0,27,1,0,0,59,0,6,2,10,2,3,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Attila Csűrös,D,FK Csíkszereda Miercurea Ciuc,90,6.7,0,0,0,0,1,0,0,28,0,0,0,39,0,2,0,3,3,1,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Máté Ódor,D,FK Csíkszereda Miercurea Ciuc,90,7.2,0,0,0,0,0,0,0,28,1,0,0,63,2,1,1,5,0,1,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Ádám Czékus,F,FK Csíkszereda Miercurea Ciuc,80,6.7,0,0,0,0,0,0,0,10,1,0,0,26,0,1,0,4,1,3,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Darius Bota,M,FK Csíkszereda Miercurea Ciuc,20,6.6,0,0,0,0,0,0,0,6,0,0,0,9,0,1,0,1,0,0,0,0,0,0
-Liga I,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Előd Tóth-Pál,F,FK Csíkszereda Miercurea Ciuc,70,6.7,0,0,0,0,2,1,0,10,1,0,0,17,0,0,0,2,3,2,1,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Matthias Verreth,M,FC Dinamo București,3,0,0,0,0,0,0,0,0,6,0,0,0,6,0,0,0,0,1,0,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Alexandru Pop,F,FC Dinamo București,70,6.5,0,0,0,0,0,0,0,15,1,0,0,24,0,0,0,3,1,2,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Raul Opruț,D,FC Dinamo București,90,7.3,0,0,0,0,0,0,0,49,1,0,0,70,0,4,0,7,0,0,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Danny Armstrong,F,FC Dinamo București,87,7.4,0,0,0,0,1,0,0,30,1,0,0,47,2,1,0,7,0,3,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Alberto Soro,F,FC Dinamo București,87,7,0,0,0,0,1,0,0,46,0,0,0,59,0,1,0,2,2,1,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Martín Pascual,D,FC Dinamo București,90,7.2,0,0,0,0,1,0,0,51,0,0,0,64,0,2,1,7,1,2,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Mamoudou Karamoko,F,FC Dinamo București,36,7.8,1,0,0,0,1,1,0,22,1,0,0,33,2,0,0,5,0,2,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Oliver Hintsa,F,FC Dinamo București,20,6.7,0,1,0,0,1,0,0,5,1,1,0,13,1,0,0,3,2,1,1,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Alaa Bellaarouch,G,FC Dinamo București,90,8.4,0,0,0,0,0,0,0,37,0,0,0,49,0,0,0,1,0,0,1,0,0,5
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Andrei Mărginean,M,FC Dinamo București,90,8.1,0,0,0,0,4,0,0,49,0,0,0,70,0,6,1,11,0,1,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Cătălin Cîrjan,M,FC Dinamo București,90,7.2,0,0,0,0,2,0,0,49,0,0,0,64,1,4,0,5,2,0,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Darío Benavides,M,FC Dinamo București,3,0,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Alexandru Musi,F,FC Dinamo București,54,6.4,0,0,0,0,1,0,0,9,0,0,0,22,1,0,0,3,0,2,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Adrian Mazilu,F,FC Dinamo București,3,0,0,0,0,0,0,0,0,6,0,0,0,7,0,0,0,0,1,0,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Nikita Stoinov,D,FC Dinamo București,90,7.5,0,0,0,0,0,0,0,63,0,0,0,77,0,0,0,3,0,1,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,David Irimia,D,FC Dinamo București,87,7.3,0,0,0,0,0,0,0,30,1,0,0,58,0,2,1,5,0,1,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Daniel Graovac,D,FC Rapid București,71,7.1,0,0,0,0,0,0,0,39,0,0,0,52,1,1,2,5,1,1,1,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Olimpiu Moruțan,M,FC Rapid București,90,7.6,0,0,0,0,1,0,0,24,4,1,0,50,1,1,0,3,0,1,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Denis Ciobotariu,D,FC Rapid București,90,6.3,0,0,0,0,1,0,0,43,0,0,0,67,0,1,1,3,1,1,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Vladan Bubanja,M,FC Rapid București,75,6,0,0,0,0,1,0,0,22,2,0,0,33,0,1,1,2,1,0,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Alex Dobre,M,FC Rapid București,90,6.4,0,0,0,0,2,1,0,30,3,0,1,48,1,0,1,2,1,1,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Lars Kramer,D,FC Rapid București,90,6.4,0,0,0,0,2,1,0,57,0,0,1,75,0,3,2,4,1,0,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Filip Stojilković,F,FC Rapid București,90,7.3,0,0,0,0,4,2,0,10,1,1,0,16,0,0,0,1,2,0,0,0,1,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Răzvan Onea,D,FC Rapid București,90,6.5,0,0,0,0,1,1,0,36,1,0,0,59,0,2,2,2,2,0,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Constantin Grameni,M,FC Rapid București,87,6.5,0,0,0,0,1,0,0,38,1,0,0,50,0,1,1,5,4,3,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Marian Aioani,G,FC Rapid București,90,6.3,0,0,0,0,0,0,0,27,0,0,0,34,0,0,0,0,0,0,0,0,0,1
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Cătălin Vulturar,M,FC Rapid București,90,6.6,0,0,0,0,0,0,0,30,0,0,0,46,0,1,1,4,3,2,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Omar El Sawy,M,FC Rapid București,3,0,0,0,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Jason Kodor,F,FC Rapid București,15,6.7,0,0,0,0,0,0,0,4,0,0,0,8,0,2,0,3,0,0,0,0,0,0
-Liga I,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Wedtoin Latif Ouedraogo,D,FC Rapid București,19,6.5,0,0,0,0,0,0,0,8,0,0,0,21,0,0,1,1,0,1,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Pedro Nuno,M,SC Oțelul Galați,90,7,0,0,0,0,2,1,0,41,2,0,1,60,1,0,0,3,0,2,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Paul Iacob,D,SC Oțelul Galați,90,6.8,0,0,0,0,3,0,0,64,0,0,1,85,0,2,1,6,0,1,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Miguel Silva,D,SC Oțelul Galați,77,6.1,0,0,0,0,0,0,0,43,1,1,0,62,0,2,1,2,2,0,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Andrei Ciobanu,M,SC Oțelul Galați,65,6.7,0,0,0,0,0,0,0,27,1,0,0,34,0,0,0,1,0,1,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,João Lameira,M,SC Oțelul Galați,90,7.5,0,0,0,0,0,0,0,55,0,0,0,68,0,2,0,6,1,2,1,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Cosmin Dur-Bozoancă,G,SC Oțelul Galați,90,6.6,0,0,0,0,0,0,0,22,0,0,0,30,0,0,0,0,0,0,0,0,0,1
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Giannis Christopoulos,D,SC Oțelul Galați,90,6.8,0,0,0,0,0,0,0,55,0,0,0,74,0,4,2,5,0,0,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Patrick Fernandes,F,SC Oțelul Galați,90,6.4,0,0,0,0,3,0,1,8,0,0,0,26,1,0,0,6,5,2,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,João Paulino,F,SC Oțelul Galați,25,6.7,0,0,0,0,1,0,0,11,0,0,0,24,1,2,0,4,0,1,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Andrézinho,M,SC Oțelul Galați,90,7.6,0,1,0,0,1,0,0,52,2,0,0,73,0,2,1,7,0,4,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Teodor Lungu,M,SC Oțelul Galați,13,7.6,1,0,0,0,1,1,0,14,0,0,0,16,0,0,0,0,2,0,1,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Habib Sylla,D,SC Oțelul Galați,90,6.7,0,0,0,0,1,0,0,52,1,0,0,75,0,3,1,3,1,0,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Denis Bordun,M,SC Oțelul Galați,13,6.4,0,0,0,0,0,0,0,7,0,0,0,10,0,0,0,0,0,0,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Matei Frunză,F,SC Oțelul Galați,77,6.5,0,0,0,0,0,0,0,26,0,0,0,40,1,1,0,2,0,0,0,0,1,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Nicușor Bancu,M,Universitatea Craiova,45,6.6,0,0,0,0,0,0,0,10,0,0,0,27,1,3,1,4,1,0,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Alexandru Crețu,M,Universitatea Craiova,29,5.2,0,0,0,0,0,0,0,14,0,0,0,16,0,1,0,2,2,0,2,1,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Nikola Stevanović,D,Universitatea Craiova,90,6.8,0,0,0,0,0,0,0,27,0,0,0,43,0,1,2,7,2,1,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Vladimir Screciu,D,Universitatea Craiova,58,7.5,0,0,0,0,0,0,0,24,0,0,0,33,0,2,2,6,0,2,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Tudor Băluță,M,Universitatea Craiova,90,7.4,0,1,0,0,2,0,0,25,2,1,0,43,0,1,2,6,1,0,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Monday Etim,F,Universitatea Craiova,64,7.4,1,0,0,0,2,1,0,17,0,0,0,32,0,1,1,3,1,1,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Oleksandr Romanchuk,D,Universitatea Craiova,32,6.6,0,0,0,0,0,0,0,4,0,0,0,12,0,0,0,4,0,1,1,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Anzor Mekvabishvili,M,Universitatea Craiova,90,6.8,0,0,0,0,2,1,0,33,2,0,0,45,1,2,1,3,3,0,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Ștefan Baiaram,F,Universitatea Craiova,26,6.4,0,0,0,0,0,0,0,12,1,0,0,13,0,0,0,1,1,0,1,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Samuel Teles,M,Universitatea Craiova,90,7.1,0,0,0,0,1,0,0,17,1,0,0,52,0,2,0,5,0,1,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Răzvan Sava,G,Universitatea Craiova,90,6.7,0,0,0,0,0,0,0,36,0,0,0,40,0,0,0,0,0,0,1,0,0,2
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Assad Al-Hamlawi,F,Universitatea Craiova,72,6.9,0,0,0,0,3,0,0,21,2,0,1,37,3,0,0,7,0,0,0,0,1,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Carlos Mora,M,Universitatea Craiova,45,6.8,0,0,0,0,0,0,0,11,1,1,0,26,1,0,0,2,2,0,0,0,1,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Steven Nsimba,F,Universitatea Craiova,18,6.7,0,0,0,0,0,0,0,3,0,0,0,8,1,0,0,3,0,2,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Luca Băsceanu,M,Universitatea Craiova,64,6.8,0,0,0,0,2,0,0,7,0,0,0,19,0,1,1,4,0,3,0,0,0,0
-Liga I,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,David Matei,M,Universitatea Craiova,26,6.3,0,0,0,0,0,0,0,2,0,0,0,11,0,2,1,2,1,0,1,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Mário Camora,D,CFR 1907 Cluj,23,6.2,0,0,0,0,0,0,0,17,0,0,0,26,0,1,0,1,0,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Damjan Đoković,M,CFR 1907 Cluj,90,6.9,0,0,0,0,1,0,0,70,1,0,0,78,0,2,1,5,0,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Christopher Braun,D,CFR 1907 Cluj,90,6.1,0,0,0,0,0,0,0,54,0,0,0,84,0,4,1,7,4,1,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Stefan Dražić,F,CFR 1907 Cluj,90,6.4,0,0,0,0,4,1,1,23,0,0,1,33,0,0,0,6,0,1,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Bruno Costa,M,CFR 1907 Cluj,23,6.7,0,0,0,0,0,0,0,17,0,0,0,24,1,1,0,3,0,1,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Renato Pantalon,D,CFR 1907 Cluj,90,6.5,0,0,0,0,0,0,0,52,0,0,0,67,0,2,0,5,0,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Octavian Vâlceanu,G,CFR 1907 Cluj,90,7,0,0,0,0,0,0,0,19,0,0,0,33,0,0,0,0,0,0,0,0,0,5
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Aly Abeid,D,CFR 1907 Cluj,90,6.6,0,0,0,0,0,0,0,46,0,0,0,62,0,2,2,4,0,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Meriton Korenica,F,CFR 1907 Cluj,90,6,0,0,0,0,1,0,0,57,1,0,1,68,0,2,0,4,1,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Adrian Păun,M,CFR 1907 Cluj,67,6.5,0,0,0,0,1,0,0,34,0,0,0,43,1,1,0,3,0,1,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Andrei Cordea,M,CFR 1907 Cluj,90,6.9,0,0,0,0,2,0,0,41,1,0,0,59,2,0,0,5,0,3,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Simão Rocha,D,CFR 1907 Cluj,67,6.8,0,0,0,0,0,0,0,32,1,0,0,56,0,2,4,3,0,1,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Lorenzo Biliboc,F,CFR 1907 Cluj,35,6.4,0,0,0,0,0,0,0,9,1,1,0,17,0,0,0,0,1,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Andres Șfaiț,F,CFR 1907 Cluj,55,6.9,0,0,0,0,0,0,0,24,1,0,0,35,2,3,0,5,0,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Florin Ilie,D,FC Corvinul Hunedoara,16,7,0,0,0,0,1,0,0,8,0,0,0,13,0,0,0,2,0,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Sérgio Ribeiro,M,FC Corvinul Hunedoara,85,7,0,0,0,0,0,0,0,30,4,0,0,44,0,0,1,3,1,2,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Andrej Fábry,M,FC Corvinul Hunedoara,85,7.1,0,0,0,0,4,0,0,30,3,1,0,50,0,1,2,2,0,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Nicolae Pîrvulescu,M,FC Corvinul Hunedoara,79,6.4,0,0,0,0,2,0,0,19,0,0,0,38,2,0,1,4,1,2,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Renato Espinosa,F,FC Corvinul Hunedoara,74,6.1,0,0,0,0,2,1,0,11,1,0,0,23,1,0,0,3,0,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Ion Cărăruș,M,FC Corvinul Hunedoara,9,6.6,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Mihajlo Ivančević,D,FC Corvinul Hunedoara,74,7.5,1,0,0,0,2,1,0,63,0,0,0,74,1,1,1,2,0,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Denis Hrezdac,M,FC Corvinul Hunedoara,90,6.6,0,0,0,0,1,1,0,27,0,0,1,40,1,2,0,4,1,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Antoniu Manolache,D,FC Corvinul Hunedoara,90,7.8,1,0,0,0,1,1,0,73,1,0,0,87,0,2,0,5,2,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Mario Bratu,M,FC Corvinul Hunedoara,11,6.8,0,0,0,0,1,0,0,5,2,0,0,8,0,0,0,0,0,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Ángel Gillard,F,FC Corvinul Hunedoara,16,7.2,0,0,0,0,2,2,0,3,0,0,1,13,2,2,0,5,0,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Codruț Sandu,G,FC Corvinul Hunedoara,90,7.2,0,0,0,0,0,0,0,33,0,0,0,43,0,0,0,0,0,0,0,0,0,1
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Emmanuel Yeboah,F,FC Corvinul Hunedoara,90,7.2,0,0,0,0,3,0,0,27,3,1,0,55,2,3,1,7,1,0,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Flavius Iacob,D,FC Corvinul Hunedoara,90,7.6,0,0,0,0,1,0,0,26,1,0,0,53,1,4,0,6,0,1,0,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Alexandru Neacșa,M,FC Corvinul Hunedoara,90,7.2,0,0,0,0,0,0,0,47,2,0,0,75,0,2,5,3,2,1,1,0,0,0
-Liga I,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Gideon Goodlad,M,FC Corvinul Hunedoara,9,7.3,1,0,0,0,2,2,0,1,0,0,1,4,0,0,0,1,0,0,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Alexandru Chipciu,D,FC Universitatea Cluj,90,6.6,0,0,0,0,0,0,0,33,1,0,0,48,2,1,3,3,1,0,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Dan Nistor,M,FC Universitatea Cluj,63,6.5,0,0,0,0,2,0,0,23,1,0,0,31,0,0,0,0,1,0,1,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Dino Mikanović,D,FC Universitatea Cluj,90,7.5,0,0,0,0,1,0,0,35,1,0,0,65,0,3,1,7,1,1,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Iulian Cristea,D,FC Universitatea Cluj,90,6.6,0,0,0,0,0,0,0,56,0,0,0,70,0,1,1,3,0,0,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Alibek Aliev,F,FC Universitatea Cluj,90,7.4,2,0,0,0,3,2,0,17,0,0,0,33,0,0,0,6,1,4,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Ovidiu Bic,M,FC Universitatea Cluj,90,6.9,0,0,0,0,1,0,0,70,1,0,0,87,0,3,1,4,4,1,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Dorin Codrea,M,FC Universitatea Cluj,90,7.5,0,0,0,0,0,0,0,66,1,0,0,85,0,4,1,9,2,1,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Mouhamadou Drammeh,M,FC Universitatea Cluj,27,6.5,0,0,0,0,1,1,0,6,0,0,0,10,0,0,0,1,1,1,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Oucasse Mendy,F,FC Universitatea Cluj,23,7.1,0,0,0,0,0,0,0,8,2,1,0,12,1,1,0,3,0,1,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Issouf Macalou,F,FC Universitatea Cluj,90,6.6,0,0,0,0,2,0,0,22,2,0,1,49,2,4,0,9,0,1,0,0,1,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Andrei Gheorghiță,F,FC Universitatea Cluj,17,6.6,0,0,0,0,1,1,0,6,0,0,0,11,0,0,0,1,1,1,0,1,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Pedro Pinho,M,FC Universitatea Cluj,90,6.8,0,0,0,0,2,2,0,56,0,0,0,79,0,3,2,8,1,4,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Adams Friday,D,FC Universitatea Cluj,52,7.9,0,1,0,0,0,0,0,20,2,1,0,37,2,1,0,5,2,2,0,0,1,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Ștefan Lefter,G,FC Universitatea Cluj,90,7.6,0,0,0,0,0,0,0,43,0,0,0,54,0,0,0,1,0,0,0,0,0,5
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Alexandru Benga,D,UTA Arad,90,6.2,0,0,0,0,2,0,0,30,0,0,1,47,0,0,3,2,4,1,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Roman Alin,M,UTA Arad,90,6.6,0,0,0,0,4,2,0,37,3,1,1,59,0,0,0,2,1,1,1,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Árpád Tordai,G,UTA Arad,90,7,0,0,0,0,0,0,0,20,0,0,0,31,0,0,0,0,0,0,0,0,0,4
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Peter Ouaneh,D,UTA Arad,90,6.3,0,0,0,0,1,0,0,40,2,0,0,49,0,1,1,4,1,1,0,0,1,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Din Alomerovic,D,UTA Arad,90,6.6,0,0,0,0,1,1,0,39,0,0,0,67,0,2,4,2,2,0,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Hakim Abdallah,F,UTA Arad,90,6.8,0,0,0,0,5,1,0,17,3,1,2,42,3,0,1,5,1,0,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Marius Coman,F,UTA Arad,45,6.4,0,0,0,0,0,0,0,9,1,1,0,13,1,1,0,2,1,0,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Marinos Tzionis,M,UTA Arad,58,6.6,0,0,0,0,1,1,0,13,1,1,1,24,1,1,1,3,0,0,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Ismet Sinani,F,UTA Arad,45,6.5,0,0,0,0,1,0,0,4,0,0,0,9,0,0,0,2,0,1,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Jayson Papeau,M,UTA Arad,32,6.6,0,1,0,0,0,0,0,8,1,1,0,20,0,2,0,4,2,2,1,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Richard Odada,M,UTA Arad,75,6.3,0,0,0,0,1,0,0,33,1,0,0,49,0,4,1,5,3,0,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Sota Mino,M,UTA Arad,90,7.5,0,0,0,0,0,0,0,47,1,0,0,74,0,6,5,14,2,6,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Andrei Dorobanțu,D,UTA Arad,90,7.5,1,0,0,0,4,1,0,21,0,0,0,53,0,4,3,7,1,1,0,0,0,0
-Liga I,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Denis Țăroi,M,UTA Arad,15,6.7,0,0,0,0,0,0,0,4,0,0,0,10,2,0,0,3,0,1,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Valentin Crețu,D,FCSB,45,7,0,0,0,0,0,0,0,17,1,0,0,30,0,2,0,4,0,0,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Risto Radunović,D,FCSB,65,6.8,0,0,0,0,0,0,0,33,3,0,0,44,0,0,2,0,0,0,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Juri Cisotti,M,FCSB,83,7,0,2,0,0,4,0,0,33,5,0,1,59,0,1,2,3,3,1,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Eddy Gnahoré,M,FCSB,18,6.9,0,0,0,0,0,0,0,17,0,0,0,20,0,0,0,0,0,0,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Dylan Batubinsika,D,FCSB,90,7,0,0,0,0,0,0,0,49,1,1,0,64,1,0,3,4,2,0,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Florin Tănase,M,FCSB,90,7.2,0,0,0,0,2,0,0,44,3,0,0,60,0,1,1,3,2,1,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Ofri Arad,M,FCSB,25,6.8,0,0,0,0,0,0,0,16,1,0,0,20,0,1,0,3,0,1,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,David Miculescu,M,FCSB,18,6.8,0,0,0,0,1,0,0,4,0,0,0,13,2,1,0,4,1,1,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Joyskim Dawa,D,FCSB,45,6,0,0,0,0,0,0,0,20,0,0,0,29,0,1,0,3,1,1,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Daniel Bîrligea,F,FCSB,90,8.8,2,0,0,0,4,4,0,23,1,1,1,47,1,0,0,6,0,2,1,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,João Paulo,M,FCSB,72,8.1,1,0,0,0,2,1,0,25,0,0,0,40,1,0,0,8,1,4,1,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Aymen Boutoutaou,M,FCSB,72,6.9,0,0,0,0,4,1,0,26,1,1,0,53,1,1,0,4,0,2,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Octavian Popescu,M,FCSB,15,7.4,0,1,0,0,0,0,0,9,2,1,0,13,2,0,0,2,0,0,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,André Duarte,D,FCSB,90,7.6,0,0,0,0,3,1,0,56,0,0,0,70,0,2,0,8,0,1,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Ricardo Pădurariu,D,FCSB,90,6.7,0,0,0,0,2,1,0,42,0,0,1,68,1,1,0,4,1,0,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Matei Popa,G,FCSB,90,5.7,0,0,0,0,0,0,0,19,0,0,0,25,0,0,0,0,0,0,0,0,0,1
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Hervin Ongenda,M,FC Botoșani,54,6.6,0,0,0,0,0,0,0,14,1,0,0,22,1,1,0,2,2,0,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Ioannis Anestis,G,FC Botoșani,90,6.7,0,0,0,0,0,0,0,28,0,0,0,38,0,0,0,1,0,1,1,0,0,4
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,George Miron,D,FC Botoșani,73,6.7,0,0,0,0,0,0,0,23,0,0,0,31,0,1,1,4,1,0,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Mykola Kovtalyuk,F,FC Botoșani,24,6.4,0,0,0,0,2,1,1,5,0,0,1,17,1,1,0,4,0,2,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Sebastian Mailat,M,FC Botoșani,66,6.3,0,0,0,0,0,0,0,20,1,0,0,24,0,0,0,1,1,1,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Enriko Papa,M,FC Botoșani,90,7.3,0,1,0,0,1,0,0,25,2,0,0,37,0,1,0,3,2,1,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Rijad Sadiku,D,FC Botoșani,17,6,0,0,0,0,0,0,0,4,0,0,0,7,0,0,1,0,1,0,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Lucas de Vega,M,FC Botoșani,36,6.4,0,0,0,0,0,0,0,18,0,0,0,27,1,1,0,3,0,0,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Andrei Dumiter,F,FC Botoșani,90,8.3,2,0,0,0,3,2,0,24,2,0,0,42,2,1,0,4,1,0,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Ştefan Bodişteanu,M,FC Botoșani,90,6.9,0,0,0,0,2,0,0,23,2,1,0,38,1,1,0,3,0,1,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Brian Bayeye,D,FC Botoșani,90,6.1,0,0,0,0,1,0,0,24,1,0,0,56,0,2,2,4,0,1,0,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Charles Petro,M,FC Botoșani,90,6.5,0,0,0,0,3,0,0,33,1,0,0,52,0,4,2,4,3,0,1,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Mamadou Diarra,D,FC Botoșani,90,6.2,0,0,0,0,0,0,0,31,0,0,0,47,0,1,4,3,2,0,1,0,0,0
-Liga I,26_27,FCSB vs FC Botoșani,17/08/2026,Narcis Ilaș,D,FC Botoșani,90,6.2,0,0,0,0,0,0,0,25,0,0,0,66,0,2,4,5,1,3,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Paul Papp,D,FC Petrolul Ploiești,90,6.7,0,0,0,0,3,0,0,42,0,0,0,62,0,0,2,4,1,1,1,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Sergiu Hanca,D,FC Petrolul Ploiești,81,7.2,0,0,0,0,0,0,0,46,3,0,0,54,0,2,1,3,1,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Lukáš Zima,G,FC Petrolul Ploiești,90,7.9,0,0,0,0,0,0,0,32,0,0,0,45,0,0,0,0,0,0,0,0,0,4
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Tiberiu Căpuşă,D,FC Petrolul Ploiești,1,0,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Dan N'Lundulu,F,FC Petrolul Ploiești,89,6.9,0,0,0,0,2,1,0,20,1,0,1,34,2,1,1,7,0,3,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Rodrigo Martins,F,FC Petrolul Ploiești,89,6.2,0,0,0,0,2,1,0,18,1,0,1,41,1,1,0,4,1,2,1,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Breston Malula,D,FC Petrolul Ploiești,90,8.4,1,0,0,0,2,1,0,44,0,0,0,62,0,1,0,6,1,3,1,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Calal Huseinov,D,FC Petrolul Ploiești,9,6.6,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Andres Dumitrescu,D,FC Petrolul Ploiești,90,6.8,0,0,0,0,0,0,0,38,0,0,0,59,0,0,1,3,0,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Alejandro Bran,M,FC Petrolul Ploiești,90,7.1,1,0,0,0,6,1,0,44,5,0,0,68,3,0,2,4,1,1,1,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Robert Jerdea,F,FC Petrolul Ploiești,67,6.5,0,0,0,0,2,1,0,21,1,1,0,35,3,0,1,4,1,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Lucho Vega,M,FC Petrolul Ploiești,23,6.7,0,0,0,0,1,0,0,16,0,0,0,23,1,0,0,4,2,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Léo Teixeira,F,FC Petrolul Ploiești,81,7.5,0,1,0,0,0,0,0,29,3,2,0,59,4,2,1,7,1,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Mark Țuțu,D,FC Petrolul Ploiești,90,6.9,0,0,0,0,1,0,0,33,3,0,0,63,1,3,0,6,2,2,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Adam Zaian,D,FC Petrolul Ploiești,9,6.8,0,0,0,0,0,0,0,1,0,0,0,4,0,1,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Rareș Leescu,D,FC Petrolul Ploiești,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Mihai Roman II,F,FC Voluntari,66,8.1,1,0,0,0,2,1,0,12,1,1,1,27,0,2,1,6,3,2,1,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Metod Jurhar,G,FC Voluntari,90,6.9,0,0,0,0,0,0,0,34,0,0,0,46,0,0,0,0,0,0,0,0,0,3
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Matko Babić,F,FC Voluntari,90,7,0,0,0,0,5,2,0,17,0,0,3,31,2,2,0,6,1,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Radu Crişan,D,FC Voluntari,90,6.4,0,0,0,0,1,0,0,68,0,0,0,81,0,0,0,4,2,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Marvin Schieb,M,FC Voluntari,56,6.7,0,0,0,0,0,0,0,22,0,0,0,26,1,0,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Denis Haruț,D,FC Voluntari,90,6.9,0,0,0,0,2,1,0,44,0,0,0,63,1,3,1,4,0,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Ion Gheorghe,M,FC Voluntari,79,6.8,0,1,0,0,1,0,0,44,2,0,0,54,0,1,1,1,4,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Cristian Merloi,M,FC Voluntari,11,6.6,0,0,0,0,0,0,0,8,0,0,0,14,0,0,0,3,1,3,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Daniel Dumbrăvanu,D,FC Voluntari,90,5.6,0,0,0,0,0,0,0,76,0,0,0,84,0,1,0,1,2,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Daniel Toma,M,FC Voluntari,11,6.7,0,0,0,0,0,0,0,20,0,0,0,22,0,0,1,1,0,0,1,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Mihael Onișa,M,FC Voluntari,79,6.4,0,0,0,0,0,0,0,38,1,1,0,44,1,0,0,2,1,0,1,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Florian Haită,M,FC Voluntari,24,6.6,0,0,0,0,0,0,0,13,0,0,0,24,0,3,0,4,2,1,1,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Matej Mamić,D,FC Voluntari,34,6.2,0,0,0,0,0,0,0,15,0,0,0,25,0,1,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Alexandru Șuteu,D,FC Voluntari,90,7.1,0,0,0,0,3,0,0,36,4,0,0,75,0,4,3,6,0,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Adrian Chică-Roșă,F,FC Voluntari,24,6.6,0,0,0,0,0,0,0,6,0,0,0,12,0,0,0,2,1,1,1,0,0,0
+SuperLiga României,26_27,FC Voluntari vs FC Petrolul Ploiești,14/08/2026,Remus Guțea,M,FC Voluntari,66,6.6,0,0,0,0,2,1,0,20,0,0,0,38,0,2,0,4,0,2,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Ionuț Larie,D,FCV Farul Constanța,18,6.6,0,0,0,0,0,0,0,7,0,0,0,11,0,0,0,1,1,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Jakub Vojtuš,F,FCV Farul Constanța,19,6.5,0,0,0,0,0,0,0,8,1,0,0,12,0,0,0,6,1,2,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Matteo Ahlinvi,F,FCV Farul Constanța,90,6.8,0,0,0,0,0,0,0,49,2,0,0,68,3,1,1,6,0,2,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Valentin Țicu,D,FCV Farul Constanța,90,6.2,0,0,0,0,0,0,0,29,0,0,0,50,0,0,0,1,1,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Eddy Sylvestre,F,FCV Farul Constanța,71,6.6,0,1,0,0,1,0,0,22,2,0,0,35,1,1,0,2,2,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Victor Dican,M,FCV Farul Constanța,90,6.3,0,0,0,0,0,0,0,61,0,0,0,73,0,0,0,0,1,0,1,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Sofyane Bouzamoucha,D,FCV Farul Constanța,72,6.5,0,0,0,0,0,0,0,39,0,0,0,47,0,1,0,2,0,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Tony Njiké,M,FCV Farul Constanța,90,7,0,0,0,0,2,0,0,55,1,0,0,76,0,3,1,6,0,3,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Dan Sîrbu,D,FCV Farul Constanța,66,7,0,0,0,0,1,0,0,37,1,0,0,57,1,2,0,5,1,1,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Gustavo Marins,D,FCV Farul Constanța,90,6.3,0,0,0,0,0,0,0,35,0,0,0,54,0,1,2,3,1,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Răzvan Tănasă,F,FCV Farul Constanța,1,0,0,0,0,0,0,0,0,1,0,0,0,4,0,1,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Nicolas Popescu,M,FCV Farul Constanța,1,0,0,0,0,0,0,0,0,3,0,0,0,4,1,0,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Eduard Radaslavescu,M,FCV Farul Constanța,89,7.5,1,0,0,0,2,2,0,21,1,0,0,39,3,1,1,4,0,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Luca Banu,M,FCV Farul Constanța,24,6.5,0,0,0,0,0,0,0,5,0,0,0,17,0,1,1,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Rafael Munteanu,G,FCV Farul Constanța,90,6.3,0,0,0,0,0,0,0,33,0,0,0,46,0,0,0,0,0,0,0,0,0,3
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Iustin Doicaru,F,FCV Farul Constanța,89,6.4,0,0,0,0,2,2,0,11,0,0,0,24,0,1,0,1,1,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Vadim Rață,M,FC Argeș Pitești,66,6.6,0,0,0,0,1,1,0,26,1,0,0,39,2,1,1,5,3,1,1,0,1,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Silviu Balaure,M,FC Argeș Pitești,45,6.6,0,0,0,0,0,0,0,24,1,0,0,34,0,1,0,2,0,1,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Robert Moldoveanu,F,FC Argeș Pitești,80,7.4,1,0,0,0,5,2,0,18,0,0,0,31,0,0,0,3,1,1,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Ionuț Rădescu,M,FC Argeș Pitești,45,6.3,0,0,0,0,0,0,0,6,0,0,0,11,1,0,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Costinel Tofan,D,FC Argeș Pitești,90,6.2,0,0,0,0,0,0,0,41,0,0,0,68,0,0,0,1,1,1,0,0,1,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Dorinel Oancea,D,FC Argeș Pitești,45,6.7,0,1,0,0,1,0,0,29,2,0,0,53,1,1,1,3,1,1,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Cătălin Căbuz,G,FC Argeș Pitești,90,7.2,0,0,0,0,0,0,0,20,0,0,0,28,0,0,0,2,0,2,0,0,0,3
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Rober Sierra,M,FC Argeș Pitești,90,7,0,0,0,0,1,0,0,45,0,0,0,56,0,2,1,4,0,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Claudiu Micovschi,M,FC Argeș Pitești,10,6.7,0,0,0,0,0,0,0,9,1,0,0,14,0,0,1,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Leard Sadriu,D,FC Argeș Pitești,90,7.1,0,0,0,0,0,0,0,79,0,0,0,90,0,1,0,3,1,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Florin Borța,D,FC Argeș Pitești,45,7.3,0,0,0,0,1,0,0,39,0,0,0,58,1,2,0,5,0,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Oluwatobiloba Alagbe,D,FC Argeș Pitești,24,7,0,0,0,0,0,0,0,27,3,0,0,30,0,1,0,2,0,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Mario Tudose,D,FC Argeș Pitești,90,7.1,0,0,0,0,0,0,0,95,2,0,0,102,0,1,0,3,1,0,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Taylor Luvambo,M,FC Argeș Pitești,90,6.6,0,0,0,0,2,0,0,16,0,0,0,28,0,2,1,4,0,1,0,0,1,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Yanis Pîrvu,F,FC Argeș Pitești,66,6.6,0,0,0,0,1,1,0,24,1,0,0,37,0,1,0,3,0,1,0,0,0,0
+SuperLiga României,26_27,FC Argeș Pitești vs FCV Farul Constanța,14/08/2026,Patrick Dulcea,M,FC Argeș Pitești,24,6.7,0,0,0,0,1,0,0,9,0,0,0,24,2,3,0,6,0,0,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Bogdan Vătăjelu,D,Sepsi OSK Sfântu Gheorghe,10,6.6,0,0,0,0,0,0,0,3,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Lindsay Rose,D,Sepsi OSK Sfântu Gheorghe,63,6.8,0,0,0,0,0,0,0,48,0,0,0,57,0,0,0,1,1,0,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,David Lazar,G,Sepsi OSK Sfântu Gheorghe,90,7.6,0,0,0,0,0,0,0,20,0,0,0,27,0,0,0,0,0,0,0,0,0,3
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Dimitri Oberlin,F,Sepsi OSK Sfântu Gheorghe,90,6.9,0,0,0,0,1,1,0,19,1,0,1,40,2,3,2,7,1,2,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Funsho Bamgboye,M,Sepsi OSK Sfântu Gheorghe,90,6.3,0,0,0,0,2,1,0,24,2,1,1,46,1,1,1,8,3,5,1,0,1,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Daniel Vîrtej,D,Sepsi OSK Sfântu Gheorghe,27,7,0,0,0,0,0,0,0,34,0,0,0,40,0,1,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Moses Mawa,F,Sepsi OSK Sfântu Gheorghe,90,6.2,0,0,0,0,2,0,0,14,0,0,0,26,0,0,0,2,1,2,0,0,1,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Gustavo Cascardo,D,Sepsi OSK Sfântu Gheorghe,80,7,0,0,0,0,0,0,0,41,2,0,0,61,1,0,1,3,1,2,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Setigui Karamoko,D,Sepsi OSK Sfântu Gheorghe,90,7.3,0,0,0,0,1,1,0,76,1,0,0,98,0,3,1,4,0,0,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Fábio Vianna,D,Sepsi OSK Sfântu Gheorghe,80,6.9,0,0,0,0,0,0,0,47,3,1,0,69,1,0,0,2,3,1,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Nicolae Păun,M,Sepsi OSK Sfântu Gheorghe,32,7.2,0,0,0,0,0,0,0,49,0,0,0,51,0,0,0,1,1,0,1,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Robert Silaghi,M,Sepsi OSK Sfântu Gheorghe,58,6.9,0,0,0,0,0,0,0,41,0,0,0,47,0,1,1,3,1,1,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Doru Andrei,M,Sepsi OSK Sfântu Gheorghe,90,6.6,0,0,0,0,3,0,0,38,3,0,0,52,1,0,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Bogdan Oteliță,D,Sepsi OSK Sfântu Gheorghe,10,6.8,0,0,0,0,0,0,0,9,0,0,0,12,0,1,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Hunor Batzula,M,Sepsi OSK Sfântu Gheorghe,59,7.1,0,0,0,0,2,1,0,44,0,0,0,57,1,3,0,6,1,0,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Raul Cîmpean,F,Sepsi OSK Sfântu Gheorghe,31,7,0,0,0,0,1,0,0,36,0,0,0,44,1,0,1,4,0,1,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Jozef Dolný,F,FK Csíkszereda Miercurea Ciuc,10,6.4,0,0,0,0,1,0,0,2,0,0,0,5,0,0,1,0,0,0,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Márton Eppel,F,FK Csíkszereda Miercurea Ciuc,80,6.9,0,0,0,0,4,1,0,11,2,0,1,20,0,0,0,5,1,0,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Eduard Pap,G,FK Csíkszereda Miercurea Ciuc,90,8.2,0,0,0,0,0,0,0,24,0,0,0,33,0,0,0,0,0,0,0,0,0,4
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Szilárd Vereș,M,FK Csíkszereda Miercurea Ciuc,87,6.6,0,0,0,0,1,0,1,21,0,0,0,30,0,1,1,3,3,1,1,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Raul Palmeș,D,FK Csíkszereda Miercurea Ciuc,90,7.1,0,0,0,0,0,0,0,37,1,0,0,46,0,1,0,2,1,0,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Albert Stahl,M,FK Csíkszereda Miercurea Ciuc,10,6.6,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Alex Szabó,D,FK Csíkszereda Miercurea Ciuc,90,6.8,0,0,0,0,0,0,0,27,0,0,0,37,0,1,0,1,1,0,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Zsolt Magyar,M,FK Csíkszereda Miercurea Ciuc,3,0,0,0,0,0,0,0,0,5,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Lóránd Pászka,D,FK Csíkszereda Miercurea Ciuc,90,6.6,0,0,0,0,1,1,0,33,0,0,0,47,0,0,2,0,0,0,0,0,1,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Răzvan Trif,D,FK Csíkszereda Miercurea Ciuc,90,7.5,0,0,0,0,1,0,0,27,1,0,0,59,0,6,2,10,2,3,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Attila Csűrös,D,FK Csíkszereda Miercurea Ciuc,90,6.7,0,0,0,0,1,0,0,28,0,0,0,39,0,2,0,3,3,1,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Máté Ódor,D,FK Csíkszereda Miercurea Ciuc,90,7.2,0,0,0,0,0,0,0,28,1,0,0,63,2,1,1,5,0,1,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Ádám Czékus,F,FK Csíkszereda Miercurea Ciuc,80,6.7,0,0,0,0,0,0,0,10,1,0,0,26,0,1,0,4,1,3,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Darius Bota,M,FK Csíkszereda Miercurea Ciuc,20,6.6,0,0,0,0,0,0,0,6,0,0,0,9,0,1,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FK Csíkszereda Miercurea Ciuc vs Sepsi OSK Sfântu Gheorghe,15/08/2026,Előd Tóth-Pál,F,FK Csíkszereda Miercurea Ciuc,70,6.7,0,0,0,0,2,1,0,10,1,0,0,17,0,0,0,2,3,2,1,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Matthias Verreth,M,FC Dinamo București,3,0,0,0,0,0,0,0,0,6,0,0,0,6,0,0,0,0,1,0,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Alexandru Pop,F,FC Dinamo București,70,6.5,0,0,0,0,0,0,0,15,1,0,0,24,0,0,0,3,1,2,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Raul Opruț,D,FC Dinamo București,90,7.3,0,0,0,0,0,0,0,49,1,0,0,70,0,4,0,7,0,0,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Danny Armstrong,F,FC Dinamo București,87,7.4,0,0,0,0,1,0,0,30,1,0,0,47,2,1,0,7,0,3,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Alberto Soro,F,FC Dinamo București,87,7,0,0,0,0,1,0,0,46,0,0,0,59,0,1,0,2,2,1,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Martín Pascual,D,FC Dinamo București,90,7.2,0,0,0,0,1,0,0,51,0,0,0,64,0,2,1,7,1,2,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Mamoudou Karamoko,F,FC Dinamo București,36,7.8,1,0,0,0,1,1,0,22,1,0,0,33,2,0,0,5,0,2,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Oliver Hintsa,F,FC Dinamo București,20,6.7,0,1,0,0,1,0,0,5,1,1,0,13,1,0,0,3,2,1,1,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Alaa Bellaarouch,G,FC Dinamo București,90,8.4,0,0,0,0,0,0,0,37,0,0,0,49,0,0,0,1,0,0,1,0,0,5
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Andrei Mărginean,M,FC Dinamo București,90,8.1,0,0,0,0,4,0,0,49,0,0,0,70,0,6,1,11,0,1,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Cătălin Cîrjan,M,FC Dinamo București,90,7.2,0,0,0,0,2,0,0,49,0,0,0,64,1,4,0,5,2,0,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Darío Benavides,M,FC Dinamo București,3,0,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Alexandru Musi,F,FC Dinamo București,54,6.4,0,0,0,0,1,0,0,9,0,0,0,22,1,0,0,3,0,2,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Adrian Mazilu,F,FC Dinamo București,3,0,0,0,0,0,0,0,0,6,0,0,0,7,0,0,0,0,1,0,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Nikita Stoinov,D,FC Dinamo București,90,7.5,0,0,0,0,0,0,0,63,0,0,0,77,0,0,0,3,0,1,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,David Irimia,D,FC Dinamo București,87,7.3,0,0,0,0,0,0,0,30,1,0,0,58,0,2,1,5,0,1,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Daniel Graovac,D,FC Rapid București,71,7.1,0,0,0,0,0,0,0,39,0,0,0,52,1,1,2,5,1,1,1,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Olimpiu Moruțan,M,FC Rapid București,90,7.6,0,0,0,0,1,0,0,24,4,1,0,50,1,1,0,3,0,1,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Denis Ciobotariu,D,FC Rapid București,90,6.3,0,0,0,0,1,0,0,43,0,0,0,67,0,1,1,3,1,1,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Vladan Bubanja,M,FC Rapid București,75,6,0,0,0,0,1,0,0,22,2,0,0,33,0,1,1,2,1,0,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Alex Dobre,M,FC Rapid București,90,6.4,0,0,0,0,2,1,0,30,3,0,1,48,1,0,1,2,1,1,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Lars Kramer,D,FC Rapid București,90,6.4,0,0,0,0,2,1,0,57,0,0,1,75,0,3,2,4,1,0,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Filip Stojilković,F,FC Rapid București,90,7.3,0,0,0,0,4,2,0,10,1,1,0,16,0,0,0,1,2,0,0,0,1,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Răzvan Onea,D,FC Rapid București,90,6.5,0,0,0,0,1,1,0,36,1,0,0,59,0,2,2,2,2,0,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Constantin Grameni,M,FC Rapid București,87,6.5,0,0,0,0,1,0,0,38,1,0,0,50,0,1,1,5,4,3,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Marian Aioani,G,FC Rapid București,90,6.3,0,0,0,0,0,0,0,27,0,0,0,34,0,0,0,0,0,0,0,0,0,1
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Cătălin Vulturar,M,FC Rapid București,90,6.6,0,0,0,0,0,0,0,30,0,0,0,46,0,1,1,4,3,2,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Omar El Sawy,M,FC Rapid București,3,0,0,0,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Jason Kodor,F,FC Rapid București,15,6.7,0,0,0,0,0,0,0,4,0,0,0,8,0,2,0,3,0,0,0,0,0,0
+SuperLiga României,26_27,FC Rapid București vs FC Dinamo București,15/08/2026,Wedtoin Latif Ouedraogo,D,FC Rapid București,19,6.5,0,0,0,0,0,0,0,8,0,0,0,21,0,0,1,1,0,1,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Pedro Nuno,M,SC Oțelul Galați,90,7,0,0,0,0,2,1,0,41,2,0,1,60,1,0,0,3,0,2,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Paul Iacob,D,SC Oțelul Galați,90,6.8,0,0,0,0,3,0,0,64,0,0,1,85,0,2,1,6,0,1,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Miguel Silva,D,SC Oțelul Galați,77,6.1,0,0,0,0,0,0,0,43,1,1,0,62,0,2,1,2,2,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Andrei Ciobanu,M,SC Oțelul Galați,65,6.7,0,0,0,0,0,0,0,27,1,0,0,34,0,0,0,1,0,1,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,João Lameira,M,SC Oțelul Galați,90,7.5,0,0,0,0,0,0,0,55,0,0,0,68,0,2,0,6,1,2,1,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Cosmin Dur-Bozoancă,G,SC Oțelul Galați,90,6.6,0,0,0,0,0,0,0,22,0,0,0,30,0,0,0,0,0,0,0,0,0,1
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Giannis Christopoulos,D,SC Oțelul Galați,90,6.8,0,0,0,0,0,0,0,55,0,0,0,74,0,4,2,5,0,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Patrick Fernandes,F,SC Oțelul Galați,90,6.4,0,0,0,0,3,0,1,8,0,0,0,26,1,0,0,6,5,2,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,João Paulino,F,SC Oțelul Galați,25,6.7,0,0,0,0,1,0,0,11,0,0,0,24,1,2,0,4,0,1,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Andrézinho,M,SC Oțelul Galați,90,7.6,0,1,0,0,1,0,0,52,2,0,0,73,0,2,1,7,0,4,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Teodor Lungu,M,SC Oțelul Galați,13,7.6,1,0,0,0,1,1,0,14,0,0,0,16,0,0,0,0,2,0,1,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Habib Sylla,D,SC Oțelul Galați,90,6.7,0,0,0,0,1,0,0,52,1,0,0,75,0,3,1,3,1,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Denis Bordun,M,SC Oțelul Galați,13,6.4,0,0,0,0,0,0,0,7,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Matei Frunză,F,SC Oțelul Galați,77,6.5,0,0,0,0,0,0,0,26,0,0,0,40,1,1,0,2,0,0,0,0,1,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Nicușor Bancu,M,Universitatea Craiova,45,6.6,0,0,0,0,0,0,0,10,0,0,0,27,1,3,1,4,1,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Alexandru Crețu,M,Universitatea Craiova,29,5.2,0,0,0,0,0,0,0,14,0,0,0,16,0,1,0,2,2,0,2,1,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Nikola Stevanović,D,Universitatea Craiova,90,6.8,0,0,0,0,0,0,0,27,0,0,0,43,0,1,2,7,2,1,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Vladimir Screciu,D,Universitatea Craiova,58,7.5,0,0,0,0,0,0,0,24,0,0,0,33,0,2,2,6,0,2,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Tudor Băluță,M,Universitatea Craiova,90,7.4,0,1,0,0,2,0,0,25,2,1,0,43,0,1,2,6,1,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Monday Etim,F,Universitatea Craiova,64,7.4,1,0,0,0,2,1,0,17,0,0,0,32,0,1,1,3,1,1,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Oleksandr Romanchuk,D,Universitatea Craiova,32,6.6,0,0,0,0,0,0,0,4,0,0,0,12,0,0,0,4,0,1,1,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Anzor Mekvabishvili,M,Universitatea Craiova,90,6.8,0,0,0,0,2,1,0,33,2,0,0,45,1,2,1,3,3,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Ștefan Baiaram,F,Universitatea Craiova,26,6.4,0,0,0,0,0,0,0,12,1,0,0,13,0,0,0,1,1,0,1,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Samuel Teles,M,Universitatea Craiova,90,7.1,0,0,0,0,1,0,0,17,1,0,0,52,0,2,0,5,0,1,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Răzvan Sava,G,Universitatea Craiova,90,6.7,0,0,0,0,0,0,0,36,0,0,0,40,0,0,0,0,0,0,1,0,0,2
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Assad Al-Hamlawi,F,Universitatea Craiova,72,6.9,0,0,0,0,3,0,0,21,2,0,1,37,3,0,0,7,0,0,0,0,1,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Carlos Mora,M,Universitatea Craiova,45,6.8,0,0,0,0,0,0,0,11,1,1,0,26,1,0,0,2,2,0,0,0,1,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Steven Nsimba,F,Universitatea Craiova,18,6.7,0,0,0,0,0,0,0,3,0,0,0,8,1,0,0,3,0,2,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,Luca Băsceanu,M,Universitatea Craiova,64,6.8,0,0,0,0,2,0,0,7,0,0,0,19,0,1,1,4,0,3,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs Universitatea Craiova,16/08/2026,David Matei,M,Universitatea Craiova,26,6.3,0,0,0,0,0,0,0,2,0,0,0,11,0,2,1,2,1,0,1,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Mário Camora,D,CFR 1907 Cluj,23,6.2,0,0,0,0,0,0,0,17,0,0,0,26,0,1,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Damjan Đoković,M,CFR 1907 Cluj,90,6.9,0,0,0,0,1,0,0,70,1,0,0,78,0,2,1,5,0,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Christopher Braun,D,CFR 1907 Cluj,90,6.1,0,0,0,0,0,0,0,54,0,0,0,84,0,4,1,7,4,1,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Stefan Dražić,F,CFR 1907 Cluj,90,6.4,0,0,0,0,4,1,1,23,0,0,1,33,0,0,0,6,0,1,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Bruno Costa,M,CFR 1907 Cluj,23,6.7,0,0,0,0,0,0,0,17,0,0,0,24,1,1,0,3,0,1,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Renato Pantalon,D,CFR 1907 Cluj,90,6.5,0,0,0,0,0,0,0,52,0,0,0,67,0,2,0,5,0,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Octavian Vâlceanu,G,CFR 1907 Cluj,90,7,0,0,0,0,0,0,0,19,0,0,0,33,0,0,0,0,0,0,0,0,0,5
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Aly Abeid,D,CFR 1907 Cluj,90,6.6,0,0,0,0,0,0,0,46,0,0,0,62,0,2,2,4,0,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Meriton Korenica,F,CFR 1907 Cluj,90,6,0,0,0,0,1,0,0,57,1,0,1,68,0,2,0,4,1,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Adrian Păun,M,CFR 1907 Cluj,67,6.5,0,0,0,0,1,0,0,34,0,0,0,43,1,1,0,3,0,1,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Andrei Cordea,M,CFR 1907 Cluj,90,6.9,0,0,0,0,2,0,0,41,1,0,0,59,2,0,0,5,0,3,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Simão Rocha,D,CFR 1907 Cluj,67,6.8,0,0,0,0,0,0,0,32,1,0,0,56,0,2,4,3,0,1,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Lorenzo Biliboc,F,CFR 1907 Cluj,35,6.4,0,0,0,0,0,0,0,9,1,1,0,17,0,0,0,0,1,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Andres Șfaiț,F,CFR 1907 Cluj,55,6.9,0,0,0,0,0,0,0,24,1,0,0,35,2,3,0,5,0,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Florin Ilie,D,FC Corvinul Hunedoara,16,7,0,0,0,0,1,0,0,8,0,0,0,13,0,0,0,2,0,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Sérgio Ribeiro,M,FC Corvinul Hunedoara,85,7,0,0,0,0,0,0,0,30,4,0,0,44,0,0,1,3,1,2,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Andrej Fábry,M,FC Corvinul Hunedoara,85,7.1,0,0,0,0,4,0,0,30,3,1,0,50,0,1,2,2,0,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Nicolae Pîrvulescu,M,FC Corvinul Hunedoara,79,6.4,0,0,0,0,2,0,0,19,0,0,0,38,2,0,1,4,1,2,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Renato Espinosa,F,FC Corvinul Hunedoara,74,6.1,0,0,0,0,2,1,0,11,1,0,0,23,1,0,0,3,0,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Ion Cărăruș,M,FC Corvinul Hunedoara,9,6.6,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Mihajlo Ivančević,D,FC Corvinul Hunedoara,74,7.5,1,0,0,0,2,1,0,63,0,0,0,74,1,1,1,2,0,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Denis Hrezdac,M,FC Corvinul Hunedoara,90,6.6,0,0,0,0,1,1,0,27,0,0,1,40,1,2,0,4,1,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Antoniu Manolache,D,FC Corvinul Hunedoara,90,7.8,1,0,0,0,1,1,0,73,1,0,0,87,0,2,0,5,2,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Mario Bratu,M,FC Corvinul Hunedoara,11,6.8,0,0,0,0,1,0,0,5,2,0,0,8,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Ángel Gillard,F,FC Corvinul Hunedoara,16,7.2,0,0,0,0,2,2,0,3,0,0,1,13,2,2,0,5,0,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Codruț Sandu,G,FC Corvinul Hunedoara,90,7.2,0,0,0,0,0,0,0,33,0,0,0,43,0,0,0,0,0,0,0,0,0,1
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Emmanuel Yeboah,F,FC Corvinul Hunedoara,90,7.2,0,0,0,0,3,0,0,27,3,1,0,55,2,3,1,7,1,0,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Flavius Iacob,D,FC Corvinul Hunedoara,90,7.6,0,0,0,0,1,0,0,26,1,0,0,53,1,4,0,6,0,1,0,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Alexandru Neacșa,M,FC Corvinul Hunedoara,90,7.2,0,0,0,0,0,0,0,47,2,0,0,75,0,2,5,3,2,1,1,0,0,0
+SuperLiga României,26_27,FC Corvinul Hunedoara vs CFR 1907 Cluj,16/08/2026,Gideon Goodlad,M,FC Corvinul Hunedoara,9,7.3,1,0,0,0,2,2,0,1,0,0,1,4,0,0,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Alexandru Chipciu,D,FC Universitatea Cluj,90,6.6,0,0,0,0,0,0,0,33,1,0,0,48,2,1,3,3,1,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Dan Nistor,M,FC Universitatea Cluj,63,6.5,0,0,0,0,2,0,0,23,1,0,0,31,0,0,0,0,1,0,1,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Dino Mikanović,D,FC Universitatea Cluj,90,7.5,0,0,0,0,1,0,0,35,1,0,0,64,0,3,1,7,1,1,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Iulian Cristea,D,FC Universitatea Cluj,90,6.6,0,0,0,0,0,0,0,56,0,0,0,71,0,1,1,3,0,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Alibek Aliev,F,FC Universitatea Cluj,90,7.4,2,0,0,0,3,2,0,17,0,0,0,33,0,0,0,6,1,4,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Ovidiu Bic,M,FC Universitatea Cluj,90,6.9,0,0,0,0,1,0,0,70,1,0,0,88,1,3,1,5,4,1,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Dorin Codrea,M,FC Universitatea Cluj,90,7.5,0,0,0,0,0,0,0,68,1,0,0,87,0,4,1,8,2,1,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Mouhamadou Drammeh,M,FC Universitatea Cluj,27,6.5,0,0,0,0,1,1,0,6,0,0,0,10,0,0,0,1,1,1,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Oucasse Mendy,F,FC Universitatea Cluj,23,7.1,0,0,0,0,0,0,0,8,2,1,0,12,1,1,0,3,0,1,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Issouf Macalou,F,FC Universitatea Cluj,90,6.6,0,0,0,0,2,0,0,22,2,0,1,49,2,4,0,9,0,1,0,0,1,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Andrei Gheorghiță,F,FC Universitatea Cluj,17,6.6,0,0,0,0,1,1,0,6,0,0,0,11,0,0,0,1,1,1,0,1,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Pedro Pinho,M,FC Universitatea Cluj,90,6.8,0,0,0,0,2,2,0,56,0,0,0,79,0,3,2,8,1,4,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Adams Friday,D,FC Universitatea Cluj,52,7.9,0,1,0,0,0,0,0,20,2,1,0,37,2,1,0,5,2,2,0,0,1,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Ștefan Lefter,G,FC Universitatea Cluj,90,7.6,0,0,0,0,0,0,0,43,0,0,0,55,0,0,0,2,0,0,0,0,0,5
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Alexandru Benga,D,UTA Arad,90,6.2,0,0,0,0,2,0,0,30,0,0,1,47,0,0,3,2,4,1,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Roman Alin,M,UTA Arad,90,6.6,0,0,0,0,4,2,0,37,3,1,1,59,0,0,0,2,1,1,1,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Árpád Tordai,G,UTA Arad,90,7,0,0,0,0,0,0,0,20,0,0,0,31,0,0,0,0,0,0,0,0,0,4
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Peter Ouaneh,D,UTA Arad,90,6.3,0,0,0,0,1,0,0,40,2,0,0,49,0,1,1,4,1,1,0,0,1,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Din Alomerovic,D,UTA Arad,90,6.6,0,0,0,0,1,1,0,39,0,0,0,67,0,2,4,2,2,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Hakim Abdallah,F,UTA Arad,90,6.8,0,0,0,0,5,1,0,17,3,1,2,42,3,0,1,5,1,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Marius Coman,F,UTA Arad,45,6.4,0,0,0,0,0,0,0,9,1,1,0,13,1,1,0,2,1,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Marinos Tzionis,M,UTA Arad,58,6.6,0,0,0,0,1,1,0,13,1,1,1,24,1,1,1,3,0,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Ismet Sinani,F,UTA Arad,45,6.5,0,0,0,0,1,0,0,4,0,0,0,9,0,0,0,2,0,1,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Jayson Papeau,M,UTA Arad,32,6.6,0,1,0,0,0,0,0,8,1,1,0,20,0,2,0,4,2,2,1,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Richard Odada,M,UTA Arad,75,6.3,0,0,0,0,1,0,0,34,1,0,0,49,0,4,1,5,3,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Sota Mino,M,UTA Arad,90,7.5,0,0,0,0,0,0,0,47,1,0,0,72,0,5,5,13,2,6,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Andrei Dorobanțu,D,UTA Arad,90,7.5,1,0,0,0,4,1,0,21,0,0,0,53,0,4,3,7,1,1,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs UTA Arad,17/08/2026,Denis Țăroi,M,UTA Arad,15,6.7,0,0,0,0,0,0,0,4,0,0,0,10,2,0,0,3,0,1,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Valentin Crețu,D,FCSB,45,7,0,0,0,0,0,0,0,17,1,0,0,30,0,2,0,4,0,0,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Risto Radunović,D,FCSB,65,6.8,0,0,0,0,0,0,0,33,3,0,0,44,0,0,2,0,0,0,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Juri Cisotti,M,FCSB,83,7,0,2,0,0,4,0,0,33,5,0,1,59,0,1,2,3,3,1,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Eddy Gnahoré,M,FCSB,18,6.9,0,0,0,0,0,0,0,17,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Dylan Batubinsika,D,FCSB,90,7,0,0,0,0,0,0,0,49,1,1,0,64,1,0,3,4,2,0,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Florin Tănase,M,FCSB,90,7.2,0,0,0,0,2,0,0,45,3,0,0,61,0,1,1,3,2,1,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Ofri Arad,M,FCSB,25,6.8,0,0,0,0,0,0,0,16,1,0,0,20,0,1,0,3,0,1,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,David Miculescu,M,FCSB,18,6.8,0,0,0,0,1,0,0,4,0,0,0,13,2,1,0,4,1,1,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Joyskim Dawa,D,FCSB,45,6,0,0,0,0,0,0,0,20,0,0,0,29,0,1,0,3,1,1,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Daniel Bîrligea,F,FCSB,90,8.8,2,0,0,0,4,4,0,24,1,1,1,48,1,0,0,6,0,2,1,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,João Paulo,M,FCSB,72,8.1,1,0,0,0,2,1,0,25,0,0,0,40,1,0,0,8,1,4,1,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Aymen Boutoutaou,M,FCSB,72,6.9,0,0,0,0,4,1,0,26,1,1,0,53,1,1,0,4,0,2,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Octavian Popescu,M,FCSB,15,7.4,0,1,0,0,0,0,0,9,2,1,0,13,2,0,0,2,0,0,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,André Duarte,D,FCSB,90,7.6,0,0,0,0,3,1,0,56,0,0,0,71,0,3,0,9,0,1,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Ricardo Pădurariu,D,FCSB,90,6.7,0,0,0,0,2,1,0,42,0,0,1,68,1,1,0,4,1,0,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Matei Popa,G,FCSB,90,5.7,0,0,0,0,0,0,0,19,0,0,0,25,0,0,0,0,0,0,0,0,0,1
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Hervin Ongenda,M,FC Botoșani,54,6.6,0,0,0,0,0,0,0,14,1,0,0,23,1,1,0,2,2,0,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Ioannis Anestis,G,FC Botoșani,90,6.7,0,0,0,0,0,0,0,28,0,0,0,38,0,0,0,1,0,1,1,0,0,4
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,George Miron,D,FC Botoșani,73,6.7,0,0,0,0,0,0,0,23,0,0,0,33,0,2,1,5,1,0,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Mykola Kovtalyuk,F,FC Botoșani,24,6.4,0,0,0,0,2,1,1,6,0,0,1,17,1,1,0,4,0,2,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Sebastian Mailat,M,FC Botoșani,66,6.3,0,0,0,0,0,0,0,21,1,0,0,24,0,0,0,1,1,1,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Enriko Papa,M,FC Botoșani,90,7.3,0,1,0,0,1,0,0,24,2,1,0,36,0,1,0,3,2,1,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Rijad Sadiku,D,FC Botoșani,17,6,0,0,0,0,0,0,0,4,0,0,0,7,0,0,1,0,1,0,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Lucas de Vega,M,FC Botoșani,36,6.4,0,0,0,0,0,0,0,18,0,0,0,27,1,1,0,3,0,0,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Andrei Dumiter,F,FC Botoșani,90,8.3,2,0,0,0,3,2,0,25,2,0,0,43,2,1,0,4,1,0,1,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Ştefan Bodişteanu,M,FC Botoșani,90,6.9,0,0,0,0,2,0,0,23,2,1,0,39,1,1,0,3,0,1,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Brian Bayeye,D,FC Botoșani,90,6.1,0,0,0,0,1,0,0,23,0,0,0,55,0,2,1,4,0,1,0,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Charles Petro,M,FC Botoșani,90,6.5,0,0,0,0,3,0,0,33,1,0,0,50,0,3,2,3,3,0,1,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Mamadou Diarra,D,FC Botoșani,90,6.2,0,0,0,0,0,0,0,31,0,0,0,47,0,1,4,3,2,0,1,0,0,0
+SuperLiga României,26_27,FCSB vs FC Botoșani,17/08/2026,Narcis Ilaș,D,FC Botoșani,90,6.2,0,0,0,0,0,0,0,26,0,0,0,66,0,2,4,5,1,3,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Paul Papp,D,FC Petrolul Ploiești,90,7.3,0,0,0,0,4,2,0,52,1,0,0,73,1,0,2,9,0,1,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Sergiu Hanca,D,FC Petrolul Ploiești,75,6.9,0,0,0,0,0,0,0,39,0,0,0,46,1,0,0,4,2,0,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Lukáš Zima,G,FC Petrolul Ploiești,90,6.4,0,0,0,0,0,0,0,28,0,0,0,35,0,0,0,0,0,0,0,0,0,2
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Tiberiu Căpuşă,D,FC Petrolul Ploiești,8,6.4,0,0,0,0,0,0,0,5,0,0,0,9,0,0,1,3,0,0,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Dan N'Lundulu,F,FC Petrolul Ploiești,90,6.5,0,0,0,0,2,1,0,25,2,0,1,42,1,0,0,9,1,1,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Rodrigo Martins,F,FC Petrolul Ploiești,82,6.2,0,0,0,0,5,1,0,14,0,0,0,30,0,1,0,2,2,1,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Breston Malula,D,FC Petrolul Ploiești,90,6.5,0,0,0,0,1,0,0,55,1,0,0,66,0,0,1,1,0,1,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Andres Dumitrescu,D,FC Petrolul Ploiești,90,6.9,0,0,0,0,0,0,0,29,3,0,0,54,0,0,2,5,0,2,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Alejandro Bran,M,FC Petrolul Ploiești,70,7.1,0,0,0,0,1,0,0,30,3,1,0,47,1,1,0,5,1,1,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Robert Jerdea,F,FC Petrolul Ploiești,70,6.9,0,0,0,0,1,1,0,23,0,0,0,40,3,0,2,5,0,2,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Lucho Vega,M,FC Petrolul Ploiești,20,6.3,0,0,0,0,1,0,0,25,0,0,0,30,0,0,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Léo Teixeira,F,FC Petrolul Ploiești,90,6.5,0,0,0,0,0,0,0,30,3,0,0,72,1,1,1,4,2,1,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Mario Ioniță,M,FC Petrolul Ploiești,20,6.6,0,0,0,0,1,0,0,11,1,0,0,20,0,1,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Mark Țuțu,D,FC Petrolul Ploiești,82,6.4,0,0,0,0,1,0,0,23,1,0,0,52,0,2,1,4,0,0,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Rareș Manolache,F,FC Petrolul Ploiești,8,6.5,0,0,0,0,1,0,0,7,0,0,0,11,0,1,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Rareș Leescu,D,FC Petrolul Ploiești,15,6.1,0,0,0,0,1,0,0,7,0,0,0,12,1,0,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Daniel Graovac,D,FC Rapid București,23,6.7,0,0,0,0,1,0,0,15,0,0,0,21,0,0,0,2,1,0,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Cristian Manea,D,FC Rapid București,45,6.7,0,0,0,0,1,0,0,9,0,0,0,18,0,1,0,1,1,0,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Olimpiu Moruțan,M,FC Rapid București,45,7.9,1,1,0,0,2,1,0,15,2,0,0,26,1,0,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Alexandru Paşcanu,D,FC Rapid București,67,7.3,0,0,0,0,0,0,0,24,0,0,0,35,0,3,0,3,0,0,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Vladan Bubanja,M,FC Rapid București,45,6.5,0,0,0,0,0,0,0,16,0,0,0,20,0,0,0,2,0,0,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Alex Dobre,M,FC Rapid București,90,8.4,1,0,0,0,4,2,0,24,3,0,0,46,2,2,0,9,1,1,1,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Lars Kramer,D,FC Rapid București,90,7.2,0,0,0,0,0,0,0,45,1,0,0,63,0,2,2,8,0,1,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Filip Stojilković,F,FC Rapid București,90,6.4,0,0,0,0,4,0,0,10,0,0,1,20,0,1,0,2,0,1,0,0,1,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Răzvan Onea,D,FC Rapid București,90,7.2,0,0,0,0,0,0,0,32,1,0,0,65,0,3,0,7,0,2,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Constantin Grameni,M,FC Rapid București,23,6.6,0,0,0,0,0,0,0,10,0,0,0,20,0,1,2,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Marian Aioani,G,FC Rapid București,90,7.8,0,0,0,0,0,0,0,39,0,0,0,52,0,1,0,2,0,1,0,0,0,5
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Cătălin Vulturar,M,FC Rapid București,67,6.5,0,0,0,0,0,0,0,30,1,0,0,39,0,0,1,2,3,1,1,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Robert Sălceanu,D,FC Rapid București,45,6.6,0,0,0,0,0,0,0,11,0,0,0,20,0,2,0,3,1,0,1,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Omar El Sawy,M,FC Rapid București,10,6.5,0,1,0,0,0,0,0,2,2,0,0,6,0,1,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Rareș Pop,M,FC Rapid București,80,6.4,0,0,0,0,3,1,0,21,1,1,0,35,1,2,0,3,2,0,0,0,0,0
+SuperLiga României,26_27,FC Petrolul Ploiești vs FC Rapid București,21/08/2026,Chec Bebel Doumbia,M,FC Rapid București,90,7.1,0,0,0,0,0,0,0,41,0,0,0,59,0,5,1,10,1,0,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Sérgio Ribeiro,M,FC Corvinul Hunedoara,79,6.9,0,0,0,0,0,0,0,15,1,0,0,31,1,2,0,6,2,3,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Andrej Fábry,M,FC Corvinul Hunedoara,79,6.5,0,0,0,0,2,0,0,18,3,0,1,26,0,2,0,2,1,0,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Nicolae Pîrvulescu,M,FC Corvinul Hunedoara,33,6.6,0,0,0,0,1,1,0,5,0,0,0,12,0,3,0,3,2,0,1,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Renato Espinosa,F,FC Corvinul Hunedoara,57,6.4,0,0,0,0,0,0,0,8,0,0,0,12,0,0,0,3,2,1,0,0,1,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Ion Cărăruș,M,FC Corvinul Hunedoara,11,6.5,0,0,0,0,0,0,0,6,0,0,0,12,1,0,0,2,0,1,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Mihajlo Ivančević,D,FC Corvinul Hunedoara,90,7.4,0,0,0,0,0,0,0,25,0,0,0,42,0,2,0,6,3,1,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Denis Hrezdac,M,FC Corvinul Hunedoara,90,7,0,0,0,0,1,0,0,26,2,0,0,42,0,3,0,9,0,3,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Antoniu Manolache,D,FC Corvinul Hunedoara,90,7.6,0,0,0,0,1,0,0,41,0,0,0,53,0,2,1,4,0,2,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Mario Bratu,M,FC Corvinul Hunedoara,57,6.4,0,0,0,0,2,0,0,10,0,0,0,18,0,0,0,0,1,0,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Ángel Gillard,F,FC Corvinul Hunedoara,33,6.4,0,0,0,0,1,0,0,3,1,0,0,12,0,0,0,1,2,1,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Codruț Sandu,G,FC Corvinul Hunedoara,90,7.2,0,0,0,0,0,0,0,34,0,0,0,50,0,0,0,1,0,0,0,0,0,1
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Emmanuel Yeboah,F,FC Corvinul Hunedoara,87,6.5,0,0,0,0,2,0,0,22,0,0,0,45,1,4,1,12,3,2,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Flavius Iacob,D,FC Corvinul Hunedoara,90,7,0,0,0,0,1,0,0,18,0,0,0,44,0,3,0,6,2,1,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Alexandru Neacșa,M,FC Corvinul Hunedoara,90,7.2,0,0,0,0,0,0,0,32,0,0,0,52,1,2,0,4,1,1,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Gideon Goodlad,M,FC Corvinul Hunedoara,11,6.6,0,0,0,0,0,0,0,6,1,0,0,14,0,1,0,3,0,1,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Muhammed Hayatu,M,FC Corvinul Hunedoara,17,6.7,0,0,0,0,0,0,0,3,0,0,0,7,1,0,0,2,0,1,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Alexandru Benga,D,UTA Arad,90,6.9,0,0,0,0,0,0,0,55,0,0,0,68,0,0,0,6,1,3,1,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Roman Alin,M,UTA Arad,90,8,0,0,0,0,4,0,0,37,3,0,0,68,2,3,1,7,1,1,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Peter Ouaneh,D,UTA Arad,90,6.7,0,0,0,0,1,0,0,47,0,0,1,54,0,0,0,3,1,1,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Din Alomerovic,D,UTA Arad,90,7.2,0,0,0,0,1,0,0,37,1,0,0,65,4,2,1,7,0,1,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Hakim Abdallah,F,UTA Arad,90,6.9,0,0,0,0,1,0,0,20,2,2,0,36,0,0,1,4,1,2,0,0,3,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Marius Coman,F,UTA Arad,90,6.8,0,0,0,0,5,1,0,21,2,0,1,44,3,2,0,9,3,1,0,0,2,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Márcio Rosa,G,UTA Arad,90,7,0,0,0,0,0,0,0,23,0,0,0,33,0,0,0,0,0,0,0,0,0,1
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Marinos Tzionis,M,UTA Arad,64,6.4,0,0,0,0,1,0,0,6,2,0,0,20,2,1,0,3,2,0,1,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Ismet Sinani,F,UTA Arad,8,6.4,0,0,0,0,0,0,0,2,1,0,0,6,0,0,0,2,0,1,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Jayson Papeau,M,UTA Arad,64,6.3,0,0,0,0,3,0,0,19,0,0,0,39,2,0,1,9,5,2,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Richard Odada,M,UTA Arad,25,6.4,0,0,0,0,0,0,0,4,0,0,0,6,0,1,0,1,2,0,1,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Robert Bădescu,D,UTA Arad,14,6.5,0,0,0,0,1,0,0,2,0,0,0,5,0,0,0,2,1,0,1,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Sota Mino,M,UTA Arad,82,7.7,0,0,0,0,1,0,0,39,0,0,0,53,0,3,0,9,3,3,1,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Andrei Dorobanțu,D,UTA Arad,90,7.2,0,0,0,0,0,0,0,29,2,0,0,64,0,1,0,3,0,2,0,0,0,0
+SuperLiga României,26_27,UTA Arad vs FC Corvinul Hunedoara,22/08/2026,Denis Țăroi,M,UTA Arad,26,6.6,0,0,0,0,0,0,0,3,1,0,0,12,0,1,0,4,0,2,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Matthias Verreth,M,FC Dinamo București,16,6.6,0,0,0,0,0,0,0,2,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Alexandru Pop,F,FC Dinamo București,33,6.7,0,0,0,0,0,0,0,9,1,0,0,12,0,1,0,3,0,1,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Raul Opruț,D,FC Dinamo București,90,6.5,0,0,0,0,0,0,0,16,0,0,0,38,0,1,2,3,0,0,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Danny Armstrong,F,FC Dinamo București,74,8.6,2,0,0,0,4,2,0,25,2,0,0,50,2,0,1,4,1,2,1,0,1,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Alberto Soro,F,FC Dinamo București,90,7.6,0,1,0,0,0,0,0,47,1,0,0,65,0,4,0,6,1,2,1,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Martín Pascual,D,FC Dinamo București,90,7.3,0,0,0,0,1,0,0,52,0,0,0,64,0,1,2,5,0,1,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Mamoudou Karamoko,F,FC Dinamo București,57,6.6,0,1,0,0,0,0,0,17,2,0,0,24,0,0,0,4,1,3,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Imran Fetai,D,FC Dinamo București,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Alaa Bellaarouch,G,FC Dinamo București,90,6.5,0,0,0,0,0,0,0,39,0,0,0,47,0,0,0,0,0,0,1,0,0,3
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Andrei Mărginean,M,FC Dinamo București,89,7.2,0,0,0,0,0,0,0,35,1,1,0,49,0,4,3,5,2,0,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Cătălin Cîrjan,M,FC Dinamo București,74,7.1,0,0,0,0,2,0,0,30,0,0,0,39,0,1,1,1,2,0,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Darío Benavides,M,FC Dinamo București,16,6.3,0,0,0,0,0,0,0,2,0,0,0,9,0,0,2,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Alexandru Musi,F,FC Dinamo București,67,5.7,0,0,0,0,3,1,0,11,0,0,1,21,1,0,0,2,3,1,2,1,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Adrian Mazilu,F,FC Dinamo București,16,6.5,0,0,0,0,0,0,0,3,0,0,0,11,0,2,0,2,0,0,1,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Nikita Stoinov,D,FC Dinamo București,90,6.7,0,0,0,0,0,0,0,61,0,0,0,73,0,0,1,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,David Irimia,D,FC Dinamo București,74,7.2,0,0,0,0,0,0,0,27,1,0,0,36,0,2,0,4,1,2,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Alexandru Chipciu,D,FC Universitatea Cluj,90,7.2,0,0,0,0,4,0,1,54,4,0,0,81,2,4,0,8,1,2,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Dan Nistor,M,FC Universitatea Cluj,36,6.6,0,0,0,0,3,1,0,22,0,0,0,27,0,0,0,0,0,0,0,0,1,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Dino Mikanović,D,FC Universitatea Cluj,90,6.2,0,0,0,0,0,0,0,44,1,0,0,63,0,2,0,3,1,1,1,0,1,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Iulian Cristea,D,FC Universitatea Cluj,90,6.7,0,0,0,0,2,0,0,73,1,0,0,85,0,0,2,1,2,0,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Alibek Aliev,F,FC Universitatea Cluj,54,6.2,0,0,0,0,1,0,0,8,0,0,0,13,0,0,0,0,1,0,1,0,1,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Ovidiu Bic,M,FC Universitatea Cluj,90,7.5,0,0,0,0,0,0,0,83,2,0,0,101,1,3,0,5,2,0,1,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Jug Stanojev,M,FC Universitatea Cluj,65,6,0,0,0,0,2,1,0,17,1,0,1,27,0,0,0,1,0,1,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Jovo Lukić,F,FC Universitatea Cluj,36,6.8,0,1,0,0,0,0,0,8,3,2,0,10,0,0,1,1,1,0,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Dorin Codrea,M,FC Universitatea Cluj,90,6.6,0,0,0,0,1,0,0,65,0,0,0,78,0,1,3,3,0,0,1,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Mouhamadou Drammeh,M,FC Universitatea Cluj,90,7.4,1,0,0,0,5,2,1,33,1,0,1,55,0,2,1,6,4,3,1,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Issouf Macalou,F,FC Universitatea Cluj,90,6.5,0,0,0,0,2,0,0,23,1,0,0,49,2,3,0,5,0,0,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Pedro Pinho,M,FC Universitatea Cluj,54,6.5,0,0,0,0,0,0,0,23,0,0,0,32,0,0,1,2,1,2,0,0,1,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Adams Friday,D,FC Universitatea Cluj,25,6.5,0,0,0,0,0,0,0,8,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Dinamo București vs FC Universitatea Cluj,22/08/2026,Ștefan Lefter,G,FC Universitatea Cluj,90,6.7,0,0,0,0,0,0,0,19,0,0,0,28,0,0,0,1,0,1,0,0,0,1
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Denis Alibec,F,FCV Farul Constanța,45,6.9,0,1,0,0,2,0,0,11,2,1,0,26,0,0,0,1,0,1,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Matteo Ahlinvi,F,FCV Farul Constanța,86,6.9,0,0,0,0,1,0,0,36,1,0,0,50,1,3,1,6,0,1,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Valentin Țicu,D,FCV Farul Constanța,90,6.9,0,0,0,0,2,1,0,45,1,0,0,65,1,3,0,5,2,0,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Eddy Sylvestre,F,FCV Farul Constanța,45,6.5,0,0,0,0,0,0,0,11,2,0,0,17,0,0,1,0,0,0,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Victor Dican,M,FCV Farul Constanța,90,7.4,0,0,0,0,1,1,0,54,0,0,0,71,0,3,0,5,1,1,1,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Sofyane Bouzamoucha,D,FCV Farul Constanța,90,7.4,0,0,0,0,1,0,0,49,0,0,0,68,0,3,2,6,2,3,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Tony Njiké,M,FCV Farul Constanța,90,6.8,0,0,0,0,1,0,0,61,0,0,0,73,1,1,4,2,0,0,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Dan Sîrbu,D,FCV Farul Constanța,90,6.2,0,0,0,0,0,0,0,38,3,0,0,63,1,0,2,1,2,0,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Gustavo Marins,D,FCV Farul Constanța,45,7.2,0,0,0,0,0,0,0,26,1,0,0,33,0,1,1,1,1,0,1,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Nicolas Popescu,M,FCV Farul Constanța,8,6.6,0,0,0,0,0,0,0,3,0,0,0,4,0,1,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Eduard Radaslavescu,M,FCV Farul Constanța,90,6.4,0,0,0,0,2,1,0,18,1,0,0,32,1,1,0,3,1,1,1,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Rafael Munteanu,G,FCV Farul Constanța,90,7.6,0,0,0,0,0,0,0,25,0,0,0,33,0,0,0,0,0,0,0,0,0,3
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Iustin Doicaru,F,FCV Farul Constanța,86,6.3,0,0,0,0,1,0,0,10,0,0,0,24,0,1,0,3,1,2,0,0,1,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Răzvan Marincean,F,FCV Farul Constanța,8,6.6,0,0,0,0,1,0,0,4,0,0,0,9,1,0,0,2,0,0,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Cristian Sima,F,FCV Farul Constanța,45,7.9,1,0,0,0,1,1,0,17,0,0,0,36,2,5,3,7,1,0,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Bogdan Vătăjelu,D,Sepsi OSK Sfântu Gheorghe,11,6.7,0,0,0,0,0,0,0,6,0,0,0,9,0,1,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Lindsay Rose,D,Sepsi OSK Sfântu Gheorghe,90,6.9,0,0,0,0,0,0,0,79,0,0,0,89,0,1,1,2,2,1,1,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,David Lazar,G,Sepsi OSK Sfântu Gheorghe,90,6.5,0,0,0,0,0,0,0,16,0,0,0,26,0,0,0,0,0,0,0,0,0,3
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Dimitri Oberlin,F,Sepsi OSK Sfântu Gheorghe,6,0,0,0,0,0,1,0,0,2,0,0,0,4,1,0,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Moses Mawa,F,Sepsi OSK Sfântu Gheorghe,58,6.7,0,0,0,0,0,0,0,8,1,0,0,14,0,0,0,2,1,2,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Carl Davordzie,F,Sepsi OSK Sfântu Gheorghe,32,6.5,0,0,0,0,1,0,0,5,1,0,0,15,1,0,0,2,0,1,0,0,1,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Gustavo Cascardo,D,Sepsi OSK Sfântu Gheorghe,90,6.2,0,0,0,0,1,0,0,50,0,0,0,86,0,3,0,7,2,3,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Nacho Heras,M,Sepsi OSK Sfântu Gheorghe,58,6.9,0,1,0,0,5,1,0,16,2,0,1,25,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Setigui Karamoko,D,Sepsi OSK Sfântu Gheorghe,90,6.8,0,0,0,0,0,0,0,69,2,0,0,83,0,2,3,2,2,0,1,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Fábio Vianna,D,Sepsi OSK Sfântu Gheorghe,83,6.3,0,0,0,0,0,0,0,48,0,0,0,69,2,1,2,3,0,0,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Nicolae Păun,M,Sepsi OSK Sfântu Gheorghe,90,8,0,0,0,0,0,0,0,79,2,0,0,94,1,4,2,6,1,0,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Robert Silaghi,M,Sepsi OSK Sfântu Gheorghe,83,7.2,0,0,0,0,1,0,0,93,0,0,0,106,0,2,0,5,1,3,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Doru Andrei,M,Sepsi OSK Sfântu Gheorghe,90,7.2,0,0,0,0,3,1,0,42,4,1,0,61,4,1,1,6,0,1,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Bogdan Oteliță,D,Sepsi OSK Sfântu Gheorghe,11,6.8,0,0,0,0,0,0,0,6,0,0,0,12,1,1,0,2,0,0,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Hunor Batzula,M,Sepsi OSK Sfântu Gheorghe,90,8.3,1,0,0,0,3,2,0,46,2,0,0,66,2,3,0,5,1,0,0,0,0,0
+SuperLiga României,26_27,Sepsi OSK Sfântu Gheorghe vs FCV Farul Constanța,23/08/2026,Raul Cîmpean,F,Sepsi OSK Sfântu Gheorghe,26,6.6,0,0,0,0,0,0,0,10,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Mihai Roman II,F,FC Voluntari,64,6.2,0,0,0,0,0,0,0,8,0,0,0,17,1,0,0,1,2,0,1,0,2,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Metod Jurhar,G,FC Voluntari,90,8.8,0,0,0,0,0,0,0,26,0,0,0,42,0,0,0,0,0,0,0,0,0,8
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Matko Babić,F,FC Voluntari,76,5.9,0,0,0,0,1,0,0,11,0,0,0,18,0,0,0,1,1,1,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Radu Crişan,D,FC Voluntari,90,5.9,0,0,0,0,0,0,0,43,0,0,0,53,0,1,0,2,1,0,1,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Marvin Schieb,M,FC Voluntari,76,6.6,0,0,0,0,0,0,0,25,0,0,0,52,3,2,1,7,0,1,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Denis Haruț,D,FC Voluntari,90,6.5,0,0,0,0,0,0,0,42,0,0,0,53,1,3,1,5,0,1,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Ion Gheorghe,M,FC Voluntari,64,6.7,0,0,0,0,0,0,0,10,1,0,0,18,1,1,0,2,0,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Cristian Merloi,M,FC Voluntari,14,6.5,0,0,0,0,0,0,0,4,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Daniel Dumbrăvanu,D,FC Voluntari,90,6.5,0,0,0,0,0,0,0,41,0,0,0,54,1,1,3,3,0,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Daniel Toma,M,FC Voluntari,26,6.2,0,0,0,0,0,0,0,13,0,0,0,15,1,0,0,2,2,1,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Mihael Onișa,M,FC Voluntari,87,6,0,0,0,0,0,0,0,27,0,0,0,39,0,0,2,0,1,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Darius Ghindovean,M,FC Voluntari,8,6.6,0,0,0,0,0,0,0,1,0,0,0,3,0,1,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Matej Mamić,D,FC Voluntari,26,6.4,0,0,0,0,0,0,0,7,0,0,0,13,1,0,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Alexandru Șuteu,D,FC Voluntari,90,6.1,0,0,0,0,0,0,0,25,0,0,0,42,2,2,0,5,0,1,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Adrian Chică-Roșă,F,FC Voluntari,14,7,0,0,0,0,1,0,0,0,0,0,0,3,0,0,0,1,0,1,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Remus Guțea,M,FC Voluntari,90,7.4,1,0,0,0,1,1,0,35,0,0,0,57,0,4,1,6,1,2,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Nicușor Bancu,M,Universitatea Craiova,62,7.3,0,0,0,0,1,0,0,57,4,1,0,73,0,1,0,1,2,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Alexandru Cicâldău,M,Universitatea Craiova,75,7.1,0,0,0,0,4,2,0,52,4,0,1,67,0,0,0,1,0,1,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Nikola Stevanović,D,Universitatea Craiova,90,7.1,0,0,0,0,3,0,0,63,0,0,0,77,0,2,0,7,0,1,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Vladimir Screciu,D,Universitatea Craiova,61,7.2,0,0,0,0,0,0,0,57,1,0,0,61,0,0,0,1,0,1,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Heriberto Tavares,F,Universitatea Craiova,15,5.7,0,0,0,0,0,0,0,5,0,0,0,10,0,0,0,0,1,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Tudor Băluță,M,Universitatea Craiova,90,7.3,0,0,0,0,3,1,0,72,2,1,0,87,0,1,3,1,0,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Monday Etim,F,Universitatea Craiova,90,8.3,1,1,0,0,4,4,0,54,2,0,3,71,0,1,0,6,2,4,1,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Adrian Rus,D,Universitatea Craiova,20,6.8,0,0,0,0,0,0,0,21,0,0,0,25,0,0,0,0,1,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Oleksandr Romanchuk,D,Universitatea Craiova,70,8,1,0,0,0,2,1,0,53,0,0,0,63,0,1,1,1,0,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Anzor Mekvabishvili,M,Universitatea Craiova,29,6.3,0,0,0,0,2,1,0,26,0,0,2,29,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Samuel Teles,M,Universitatea Craiova,90,6.7,0,0,0,0,1,0,0,68,0,0,0,94,1,2,0,4,1,0,1,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Răzvan Sava,G,Universitatea Craiova,90,6.5,0,0,0,0,0,0,0,15,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Carlos Mora,M,Universitatea Craiova,28,7.4,0,0,0,0,0,0,0,28,2,2,0,42,0,2,1,3,1,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Steven Nsimba,F,Universitatea Craiova,90,7.2,1,0,0,0,3,1,0,19,1,0,0,39,3,0,0,4,1,0,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Luca Băsceanu,M,Universitatea Craiova,75,7.2,0,0,0,0,1,1,0,44,2,1,0,55,0,1,1,2,0,1,0,0,0,0
+SuperLiga României,26_27,Universitatea Craiova vs FC Voluntari,23/08/2026,Mihnea Rădulescu,M,Universitatea Craiova,15,6.7,0,0,0,0,0,0,0,12,0,0,0,19,1,1,0,2,0,0,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Risto Radunović,D,FCSB,90,7.3,0,0,0,0,0,0,0,79,0,0,0,97,0,2,1,5,0,0,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Juri Cisotti,M,FCSB,78,6.6,0,0,0,0,0,0,0,39,2,1,0,52,1,0,0,3,2,1,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Arnold Garita,F,FCSB,12,6.7,0,0,0,0,4,0,0,1,0,0,1,6,0,0,0,3,0,0,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Dylan Batubinsika,D,FCSB,90,6.7,0,0,0,0,0,0,0,70,0,0,0,84,0,0,1,4,2,0,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Florin Tănase,M,FCSB,45,6.6,0,0,0,0,1,0,0,33,0,0,0,39,1,2,0,3,3,0,1,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Ofri Arad,M,FCSB,45,6.5,0,0,0,0,2,0,1,46,1,0,1,54,0,2,0,4,0,1,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,David Miculescu,M,FCSB,45,6.5,0,0,0,0,1,0,0,7,0,0,0,25,2,2,0,4,0,0,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Ștefan Târnovanu,G,FCSB,90,6.6,0,0,0,0,0,0,0,28,0,0,0,39,0,0,0,0,0,0,0,0,0,1
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Dennis Politic,F,FCSB,4,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Daniel Bîrligea,F,FCSB,90,6.6,0,0,0,0,4,2,0,13,1,0,2,35,1,0,1,7,3,3,1,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,João Paulo,M,FCSB,90,6.1,0,0,0,0,3,3,0,44,0,0,0,70,0,1,2,7,1,3,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Aymen Boutoutaou,M,FCSB,45,6.9,0,0,0,0,2,0,0,16,2,1,0,29,3,1,0,5,1,1,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Octavian Popescu,M,FCSB,63,6.6,0,0,0,0,0,0,0,21,2,0,0,35,2,0,0,3,0,1,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,André Duarte,D,FCSB,90,6.6,0,0,0,0,1,0,0,76,2,0,0,96,0,2,1,2,2,0,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Alexandru Stoian,F,FCSB,27,6.7,0,0,0,0,0,0,0,9,1,1,0,9,0,0,0,0,1,0,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Ricardo Pădurariu,D,FCSB,86,6.9,0,0,0,0,0,0,0,29,2,0,0,52,0,3,0,6,1,2,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Mário Camora,D,CFR 1907 Cluj,90,6.9,0,0,0,0,0,0,0,22,0,0,0,53,0,1,1,4,1,3,1,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Christopher Braun,D,CFR 1907 Cluj,90,6.7,0,0,0,0,0,0,0,23,0,0,0,34,1,1,0,4,1,0,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Anton Krešić,D,CFR 1907 Cluj,90,6.9,0,0,0,0,0,0,0,14,1,0,0,24,0,0,0,2,2,0,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Stefan Dražić,F,CFR 1907 Cluj,88,7.1,0,0,0,0,2,0,0,31,0,0,0,56,1,1,1,14,1,4,1,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Octavian Vâlceanu,G,CFR 1907 Cluj,90,7.4,0,0,0,0,0,0,0,26,0,0,0,35,0,0,0,0,0,0,0,0,0,5
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Aly Abeid,D,CFR 1907 Cluj,90,7.5,0,0,0,0,0,0,0,35,0,0,0,56,0,4,3,6,1,1,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Meriton Korenica,F,CFR 1907 Cluj,90,6.5,0,0,0,0,1,0,0,32,1,0,0,60,0,5,1,5,2,0,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Adrian Păun,M,CFR 1907 Cluj,2,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Andrei Cordea,M,CFR 1907 Cluj,90,7.5,1,0,0,0,3,1,0,18,1,0,0,44,2,3,3,8,1,2,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Ovidiu Perianu,M,CFR 1907 Cluj,90,6.9,0,0,0,0,0,0,0,22,1,0,0,32,1,0,1,3,1,2,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Viktor Kun,D,CFR 1907 Cluj,90,6.9,0,0,0,0,0,0,0,20,0,0,0,47,0,2,1,5,2,0,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Lorenzo Biliboc,F,CFR 1907 Cluj,74,7.1,0,0,0,0,1,1,0,20,0,0,0,35,4,0,0,6,0,2,0,0,0,0
+SuperLiga României,26_27,CFR 1907 Cluj vs FCSB,23/08/2026,Andres Șfaiț,F,CFR 1907 Cluj,16,6.8,0,0,0,0,0,0,0,1,0,0,0,5,0,1,0,2,0,0,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Mihai Bordeianu,M,FC Botoșani,13,6.8,0,0,0,0,1,0,0,15,0,0,0,18,0,0,1,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Ioannis Anestis,G,FC Botoșani,90,7.7,0,0,0,0,0,0,0,18,0,0,0,33,0,0,0,0,0,0,0,0,0,5
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,George Miron,D,FC Botoșani,90,6.9,0,0,0,0,2,2,0,62,0,0,0,78,0,0,0,5,3,0,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Mykola Kovtalyuk,F,FC Botoșani,36,6.6,0,0,0,0,1,1,0,9,2,0,0,18,1,0,0,5,3,3,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Sebastian Mailat,M,FC Botoșani,78,6.4,0,0,0,0,1,0,0,34,1,0,0,45,0,1,0,1,2,0,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Enriko Papa,M,FC Botoșani,90,6.4,0,0,0,0,2,1,0,60,0,0,0,68,0,1,0,3,1,2,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Lucas de Vega,M,FC Botoșani,90,8,0,0,0,0,0,0,0,85,2,0,0,95,0,0,1,0,2,0,1,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Andrei Dumiter,F,FC Botoșani,77,9.1,1,0,0,0,3,2,0,38,2,2,2,51,1,1,0,6,2,3,0,0,1,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Ştefan Bodişteanu,M,FC Botoșani,45,6.1,0,0,0,0,3,0,0,24,1,0,0,41,1,1,0,2,1,0,1,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Brian Bayeye,D,FC Botoșani,90,7.7,0,0,0,0,0,0,0,42,2,1,0,69,0,1,1,6,0,1,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Charles Petro,M,FC Botoșani,54,6.7,0,0,0,0,1,0,0,38,0,0,0,49,0,0,0,0,1,0,1,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Zoran Mitrov,M,FC Botoșani,45,7.3,0,1,0,0,5,1,0,23,4,1,2,49,3,0,0,6,0,3,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Răzvan Creț,D,FC Botoșani,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Mamadou Diarra,D,FC Botoșani,90,7.7,0,0,0,0,1,0,0,61,1,0,1,74,2,0,1,5,0,1,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Narcis Ilaș,D,FC Botoșani,89,8.3,0,0,0,0,0,0,0,37,2,1,0,59,1,2,1,7,3,2,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Gabriel Gama,M,FC Botoșani,12,6.7,0,0,0,0,1,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Márton Eppel,F,FK Csíkszereda Miercurea Ciuc,75,6.7,0,0,0,0,3,1,0,18,2,0,1,37,0,1,1,6,3,3,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Eduard Pap,G,FK Csíkszereda Miercurea Ciuc,90,8.8,0,0,0,0,0,0,0,47,0,0,0,62,0,0,0,1,0,1,0,0,0,6
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Szilárd Vereș,M,FK Csíkszereda Miercurea Ciuc,90,7,0,0,0,0,1,0,0,21,0,0,0,40,0,4,1,6,0,1,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Raul Palmeș,D,FK Csíkszereda Miercurea Ciuc,90,6.9,0,0,0,0,1,1,0,22,1,0,1,40,0,2,2,7,1,1,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Alex Szabó,D,FK Csíkszereda Miercurea Ciuc,90,6.6,0,0,0,0,1,1,0,19,0,0,0,31,0,0,0,3,1,0,1,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Szabolcs Szalay,F,FK Csíkszereda Miercurea Ciuc,8,6.4,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Artúr Horváth,M,FK Csíkszereda Miercurea Ciuc,15,6.5,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Lóránd Pászka,D,FK Csíkszereda Miercurea Ciuc,90,7.2,0,0,0,0,2,1,0,25,5,2,0,47,1,1,0,5,1,3,1,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Răzvan Trif,D,FK Csíkszereda Miercurea Ciuc,90,6.9,0,0,0,0,1,1,0,17,1,0,0,42,0,2,1,5,1,2,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Attila Csűrös,D,FK Csíkszereda Miercurea Ciuc,90,6.1,0,0,0,0,0,0,0,20,0,0,0,35,0,1,1,1,5,0,1,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Máté Ódor,D,FK Csíkszereda Miercurea Ciuc,18,3.8,0,0,0,0,0,0,0,8,0,0,0,16,1,0,0,2,1,0,0,1,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Ádám Czékus,F,FK Csíkszereda Miercurea Ciuc,86,6.6,0,0,0,0,1,0,0,11,0,0,0,29,1,2,0,5,3,2,0,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Darius Bota,M,FK Csíkszereda Miercurea Ciuc,45,6.3,0,0,0,0,0,0,0,3,0,0,0,9,0,0,0,2,1,2,1,0,0,0
+SuperLiga României,26_27,FC Botoșani vs FK Csíkszereda Miercurea Ciuc,24/08/2026,Előd Tóth-Pál,F,FK Csíkszereda Miercurea Ciuc,45,6.4,0,0,0,0,2,0,0,3,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Pedro Nuno,M,SC Oțelul Galați,90,6.5,0,0,0,0,5,0,0,39,1,0,0,62,1,0,0,7,0,3,0,0,1,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Paul Iacob,D,SC Oțelul Galați,90,8,0,0,0,0,1,1,0,35,0,0,0,56,1,1,1,9,0,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Miguel Silva,D,SC Oțelul Galați,90,7.7,0,0,0,0,1,0,0,44,0,0,0,73,0,0,2,6,1,1,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Milen Zhelev,D,SC Oțelul Galați,26,6.7,0,0,0,0,0,0,0,7,0,0,0,10,0,0,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Andrei Ciobanu,M,SC Oțelul Galați,80,7.8,0,1,0,0,3,0,0,55,2,1,0,77,1,4,2,10,0,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,João Lameira,M,SC Oțelul Galați,90,8.1,1,0,0,0,1,1,0,52,3,0,0,71,0,5,1,9,2,2,1,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Cosmin Dur-Bozoancă,G,SC Oțelul Galați,90,7.7,0,0,0,0,0,0,0,34,0,0,0,40,0,0,0,1,0,0,0,0,0,2
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Giannis Christopoulos,D,SC Oțelul Galați,64,7.7,0,0,0,0,0,0,0,52,0,0,0,70,0,1,0,6,0,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Patrick Fernandes,F,SC Oțelul Galați,90,5.8,0,0,0,0,2,0,0,14,0,0,0,35,1,0,0,7,0,2,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Andrézinho,M,SC Oțelul Galați,90,7,0,0,0,0,1,1,0,58,3,0,0,77,0,1,0,4,1,2,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Teodor Lungu,M,SC Oțelul Galați,10,6.7,0,0,0,0,0,0,0,6,0,0,0,13,0,1,1,2,1,0,1,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Habib Sylla,D,SC Oțelul Galați,90,7.5,0,0,0,0,1,1,0,39,1,0,0,87,0,3,3,7,0,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Denis Bordun,M,SC Oțelul Galați,20,6.7,0,0,0,0,2,1,0,5,1,0,0,9,0,0,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Matei Frunză,F,SC Oțelul Galați,70,6.9,0,0,0,0,0,0,0,23,1,0,0,37,0,3,0,7,0,1,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Vadim Rață,M,FC Argeș Pitești,75,6.3,0,0,0,0,1,0,0,22,1,0,0,37,0,3,0,6,1,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Robert Moldoveanu,F,FC Argeș Pitești,90,5.9,0,0,0,0,0,0,0,20,2,0,0,35,0,1,1,5,0,1,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Ionuț Rădescu,M,FC Argeș Pitești,45,6.5,0,0,0,0,0,0,0,7,1,0,0,16,0,1,0,3,0,1,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Guilherme Garutti,D,FC Argeș Pitești,90,6.8,0,0,0,0,0,0,0,23,0,0,0,38,0,2,1,9,1,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Costinel Tofan,D,FC Argeș Pitești,60,6.6,0,0,0,0,1,0,0,18,0,0,0,60,0,0,3,6,1,0,1,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Dorinel Oancea,D,FC Argeș Pitești,30,6.3,0,0,0,0,0,0,0,14,0,0,0,35,0,0,0,0,3,0,1,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Cătălin Căbuz,G,FC Argeș Pitești,90,6.9,0,0,0,0,0,0,0,30,0,0,0,38,0,0,0,0,0,0,0,0,0,4
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Rober Sierra,M,FC Argeș Pitești,45,6.3,0,0,0,0,0,0,0,11,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Claudiu Micovschi,M,FC Argeș Pitești,30,6.5,0,0,0,0,0,0,0,11,0,0,0,25,0,0,2,0,0,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Florin Borța,D,FC Argeș Pitești,60,6.6,0,0,0,0,2,0,0,13,2,1,0,33,0,2,0,2,0,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Ricardo Matos,F,FC Argeș Pitești,90,6.1,0,0,0,0,4,0,0,20,2,0,1,42,1,0,0,2,0,1,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Gabriel Charpentier,F,FC Argeș Pitești,15,6.5,0,0,0,0,0,0,0,7,0,0,0,11,0,0,0,3,0,1,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Oluwatobiloba Alagbe,D,FC Argeș Pitești,90,6.8,0,0,0,0,0,0,0,31,0,0,0,38,0,2,3,8,2,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Mario Tudose,D,FC Argeș Pitești,90,6.7,0,0,0,0,0,0,0,21,0,0,0,36,0,1,2,4,1,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Taylor Luvambo,M,FC Argeș Pitești,30,6.6,0,0,0,0,2,0,0,4,1,0,0,16,2,1,0,4,2,0,0,0,0,0
+SuperLiga României,26_27,SC Oțelul Galați vs FC Argeș Pitești,24/08/2026,Yanis Pîrvu,F,FC Argeș Pitești,60,6.5,0,0,0,0,2,2,0,14,0,0,0,27,1,1,0,5,1,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Pedro Nuno,M,SC Oțelul Galați,90,7.5,1,1,0,0,3,2,0,49,2,1,0,63,0,0,0,2,0,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Paul Iacob,D,SC Oțelul Galați,90,6.5,0,0,0,0,2,0,0,59,0,0,0,76,0,4,2,6,1,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Miguel Silva,D,SC Oțelul Galați,68,6.8,0,0,0,0,1,0,0,44,1,0,0,59,0,1,0,5,0,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Milen Zhelev,D,SC Oțelul Galați,90,6.7,0,0,0,0,0,0,0,65,0,0,0,75,0,0,2,4,2,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Andrei Ciobanu,M,SC Oțelul Galați,66,6.5,0,0,0,0,1,0,0,40,3,0,0,58,2,0,0,2,0,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,João Lameira,M,SC Oțelul Galați,90,6.3,0,0,0,0,1,0,0,54,0,0,0,68,0,1,3,2,2,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Cosmin Dur-Bozoancă,G,SC Oțelul Galați,90,6.5,0,0,0,0,0,0,0,24,0,0,0,34,0,0,0,0,0,0,0,0,0,4
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Patrick Fernandes,F,SC Oțelul Galați,90,7.4,1,0,0,0,2,1,0,16,1,0,0,30,1,0,0,5,1,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Andrézinho,M,SC Oțelul Galați,89,6.8,0,0,0,0,0,0,0,58,0,0,0,71,1,0,0,2,0,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Teodor Lungu,M,SC Oțelul Galați,24,6.7,0,0,0,0,2,0,0,12,0,0,0,16,0,0,0,1,1,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Habib Sylla,D,SC Oțelul Galați,90,6.2,0,0,0,0,0,0,0,54,1,0,0,80,1,2,1,6,4,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Dan Neicu,D,SC Oțelul Galați,1,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,1,0,1,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Denis Bordun,M,SC Oțelul Galați,24,7.3,0,0,0,0,0,0,0,6,1,0,0,15,1,0,0,3,1,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Matei Frunză,F,SC Oțelul Galați,66,6.5,0,0,0,0,2,0,0,22,1,0,0,33,1,1,0,4,1,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Cristian Neicu,F,SC Oțelul Galați,22,6,0,0,0,0,1,0,0,5,0,0,0,7,0,0,0,0,2,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Mihai Roman II,F,FC Voluntari,34,6.5,0,0,0,0,2,0,0,9,2,1,0,17,0,0,1,3,0,2,0,0,1,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Lovro Cvek,M,FC Voluntari,13,6.8,0,0,0,0,0,0,0,13,1,0,0,14,0,0,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Metod Jurhar,G,FC Voluntari,90,6.5,0,0,0,0,0,0,0,36,0,0,0,45,1,0,0,2,0,0,0,0,0,2
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Matko Babić,F,FC Voluntari,77,6.7,0,0,0,0,3,1,0,16,1,0,1,33,1,0,0,4,1,2,0,0,1,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Radu Crişan,D,FC Voluntari,90,6.9,0,0,0,0,2,0,0,60,1,1,1,85,0,2,1,5,3,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Marvin Schieb,M,FC Voluntari,90,6.4,0,0,0,0,0,0,0,25,1,0,0,41,3,0,0,3,0,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Denis Haruț,D,FC Voluntari,90,6.3,0,0,0,0,0,0,0,37,1,1,0,47,0,0,3,2,1,2,1,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Ion Gheorghe,M,FC Voluntari,77,6.8,0,0,0,0,0,0,0,21,3,1,0,33,0,0,1,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Daniel Dumbrăvanu,D,FC Voluntari,90,6.3,0,0,0,0,1,0,0,45,0,0,1,60,1,1,2,5,1,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Mihael Onișa,M,FC Voluntari,90,6.9,0,0,0,0,2,0,0,30,0,0,1,49,0,1,1,3,0,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Matej Mamić,D,FC Voluntari,56,7.2,0,1,0,0,1,0,0,23,4,1,1,37,2,0,0,3,0,0,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Alexandru Șuteu,D,FC Voluntari,90,6.2,0,0,0,0,1,0,0,25,0,0,0,48,0,0,2,4,0,2,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Adrian Chică-Roșă,F,FC Voluntari,13,6.5,0,0,0,0,2,1,2,2,0,0,0,7,0,0,0,1,1,1,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Remus Guțea,M,FC Voluntari,89,9.4,2,0,0,0,4,4,0,27,1,1,1,52,2,1,1,6,1,3,0,0,0,0
+SuperLiga României,26_27,FC Voluntari vs SC Oțelul Galați,28/08/2026,Robert Petculescu,M,FC Voluntari,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Alexandru Chipciu,D,FC Universitatea Cluj,90,6.4,0,0,0,0,1,0,0,52,0,0,0,88,1,3,2,6,3,1,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Dan Nistor,M,FC Universitatea Cluj,58,6.4,0,1,0,0,3,2,0,27,1,0,1,40,0,1,1,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Dino Mikanović,D,FC Universitatea Cluj,58,6.2,0,0,0,0,0,0,0,32,4,0,0,45,1,0,1,1,1,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Iulian Cristea,D,FC Universitatea Cluj,90,6.3,0,0,0,0,1,0,0,60,0,0,0,71,0,2,0,2,1,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Alibek Aliev,F,FC Universitatea Cluj,32,6.6,0,0,0,0,2,1,0,2,0,0,1,5,0,0,0,1,0,1,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Ovidiu Bic,M,FC Universitatea Cluj,90,7.3,0,0,0,0,1,0,0,87,2,0,0,103,0,0,1,3,0,2,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Jovo Lukić,F,FC Universitatea Cluj,90,9.2,2,0,0,0,6,4,0,23,1,0,1,40,2,1,0,6,0,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Dorin Codrea,M,FC Universitatea Cluj,79,6.4,0,0,0,0,0,0,0,69,0,0,0,78,0,1,0,5,0,4,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Marius Ștefănescu,M,FC Universitatea Cluj,32,6.3,0,0,0,0,1,0,0,14,2,0,0,21,0,0,0,0,1,0,1,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Florent Poulolo,D,FC Universitatea Cluj,11,6.7,0,0,0,0,1,0,0,11,1,0,0,14,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Mouhamadou Drammeh,M,FC Universitatea Cluj,90,6.9,0,0,0,0,1,0,0,62,1,0,0,73,1,0,0,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Issouf Macalou,F,FC Universitatea Cluj,90,7.1,0,0,0,0,4,1,1,40,4,2,0,77,6,0,0,6,1,0,1,0,1,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Pedro Pinho,M,FC Universitatea Cluj,45,6.3,0,0,0,0,1,0,0,19,1,0,0,30,0,1,2,2,1,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Adams Friday,D,FC Universitatea Cluj,45,6.9,0,0,0,0,1,1,0,26,0,0,0,43,0,3,1,5,2,2,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Ștefan Lefter,G,FC Universitatea Cluj,90,6.7,0,0,0,0,0,0,0,20,0,0,0,32,0,0,0,0,0,0,0,0,0,5
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Paul Papp,D,FC Petrolul Ploiești,90,6.3,0,0,0,0,0,0,0,17,0,0,0,34,0,1,0,6,1,0,1,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Sergiu Hanca,D,FC Petrolul Ploiești,81,7,0,0,0,0,0,0,0,30,0,0,0,38,0,2,0,3,0,1,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Lukáš Zima,G,FC Petrolul Ploiești,90,6.7,0,0,0,0,0,0,0,24,0,0,0,36,0,0,0,0,0,0,0,0,0,7
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Tiberiu Căpuşă,D,FC Petrolul Ploiești,14,6.6,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Dan N'Lundulu,F,FC Petrolul Ploiești,76,6.7,1,0,0,0,1,1,0,12,0,0,0,20,0,0,0,0,4,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Rodrigo Martins,F,FC Petrolul Ploiești,76,6.6,0,1,0,0,2,2,0,14,1,1,0,27,1,0,0,2,1,1,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Breston Malula,D,FC Petrolul Ploiești,90,6.5,0,0,0,0,0,0,0,17,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Calal Huseinov,D,FC Petrolul Ploiești,9,6.6,0,0,0,0,0,0,0,2,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Andres Dumitrescu,D,FC Petrolul Ploiești,90,6.4,0,0,0,0,0,0,0,23,0,0,0,47,0,1,3,1,0,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Alejandro Bran,M,FC Petrolul Ploiești,90,7.8,1,0,0,0,2,2,0,31,2,2,0,49,1,2,1,4,0,1,1,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Robert Jerdea,F,FC Petrolul Ploiești,61,7.4,1,0,0,0,1,1,0,11,2,0,0,17,1,1,0,2,0,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Lucho Vega,M,FC Petrolul Ploiești,29,6.7,0,0,0,0,1,0,1,9,2,0,1,13,0,0,0,0,1,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Léo Teixeira,F,FC Petrolul Ploiești,90,6.9,0,0,0,0,3,2,1,18,0,0,1,45,3,4,0,12,2,3,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,David Paraschiv,M,FC Petrolul Ploiești,14,6.8,0,0,0,0,0,0,0,6,0,0,0,15,1,2,1,5,1,2,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Mark Țuțu,D,FC Petrolul Ploiești,76,6.6,0,0,0,0,0,0,0,23,0,0,0,49,1,2,1,5,0,0,0,0,0,0
+SuperLiga României,26_27,FC Universitatea Cluj vs FC Petrolul Ploiești,28/08/2026,Adam Zaian,D,FC Petrolul Ploiești,14,6.7,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
