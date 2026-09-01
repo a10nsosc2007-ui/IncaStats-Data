@@ -1,0 +1,10 @@
+{
+  "schema_version": "incastats.referee_faces.turbo.v2",
+  "created_at": "2026-09-01T05:08:03.981659Z",
+  "source_faces": 403,
+  "processed_this_run": 403,
+  "real_esrgan": true,
+  "output": "faces/web_1024/*.webp",
+  "4k_generated": false,
+  "note": "4K archive intentionally skipped for speed; the app should use WEBP 1024."
+}
