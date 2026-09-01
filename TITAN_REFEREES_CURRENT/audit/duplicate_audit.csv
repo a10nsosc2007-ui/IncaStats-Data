@@ -1,0 +1,569 @@
+﻿referee_id,name,source_lots,raw_rows,unique_event_rows,duplicates_removed
+52185,Christian Dingert,120,50,50,0
+52234,Tobias Welz,FINAL,50,50,0
+52417,Felix Zwayer,240,50,50,0
+52457,Robert Hartmann,480|FINAL,50,50,0
+52558,Harald Lechner,240,50,50,0
+52576,Ruddy Buquet,480|FINAL,50,50,0
+52597,Stuart Attwell,FINAL,50,50,0
+64288,Kristoffer Karlsson,360,50,50,0
+65702,Michael Oliver,480|FINAL,50,50,0
+65911,Ola Hobber Nilsen,480|FINAL,50,50,0
+66473,Jakob Kehlet,360,50,50,0
+67052,Patrick Alt,480|FINAL,50,50,0
+67061,Bastian Dankert,120,50,50,0
+67074,Robert Kampka,480|FINAL,50,50,0
+67172,Alexander Harkam,120,50,50,0
+67576,Michael Tykgaard,480|FINAL,50,50,0
+67878,Julian Weinberger,360,50,50,0
+67880,Markus Hameter,360,50,50,0
+68039,Sebastian Gishamer,FINAL,100,50,50
+69579,Istvan Kovacs,240,50,50,0
+69853,Anthony Taylor,120,50,50,0
+70951,Harm Osmers,240,50,50,0
+70952,Martin Petersen,480|FINAL,50,50,0
+71289,Tobias Stieler,FINAL,50,50,0
+72045,Andrei Florin Chivulete,120,50,50,0
+72254,Matthias Jollenbeck,480|FINAL,50,50,0
+72730,Christian Moen,120,50,50,0
+72792,Danny Makkelie,120,50,50,0
+73576,Radu Marian Petrescu,480|FINAL,50,50,0
+74264,Robert Jones,480|FINAL,50,50,0
+74774,Darren England,120,50,50,0
+76140,Marco Guida,360,50,50,0
+78563,Serdar Gozubuyuk,FINAL,100,50,50
+78732,Christian-Petru Ciochirca,120,50,50,0
+78821,Mikael Lesage,480|FINAL,50,50,0
+78823,Florent Batta,240,50,50,0
+78964,Kristoffer Hagenes,360,50,50,0
+79032,Robert Madley,480|FINAL,50,50,0
+79484,Daniele Doveri,120,50,50,0
+79884,Andy Madley,120,50,50,0
+79897,Darren Drysdale,120,50,50,0
+79909,Walter Altmann,FINAL,50,50,0
+79932,Dean Whitestone,240,50,50,0
+81376,Hakim Ben el Salem Hadj,240,50,50,0
+81543,George Catalin Gaman,240,50,50,0
+81627,Craig Pawson,120,50,50,0
+81647,Ross Joyce,480|FINAL,50,50,0
+82518,Martin Van den Kerkhof,480|FINAL,50,50,0
+82986,Marcel Birsan,360,50,50,0
+84100,Dennis Higler,240,50,50,0
+84312,Gavin Ward,240,50,50,0
+84318,Martin Coy,480|FINAL,100,50,50
+84326,Peter Bankes,480|FINAL,50,50,0
+84329,Patrick Ittrich,480|FINAL,50,50,0
+84853,Tony Harrington,FINAL,50,50,0
+85870,Damaso Arcediano Monescillo,120,50,50,0
+86338,Edwin Van de Graaf,240,50,50,0
+86938,Jens Maae,360,50,50,0
+88698,Oliver Langford,480|FINAL,50,50,0
+88704,Lee Swabey,360,50,50,0
+89559,Helder Malheiro,240,50,50,0
+90021,Mickael Leleu,480|FINAL,50,50,0
+90844,Mohammed Al-Hakim,480|FINAL,50,50,0
+91485,David Webb,240,100,50,50
+92295,Espen Eskas,240,50,50,0
+92309,Adrian Viorel Cojocaru,120,50,50,0
+92314,Iulian Calin,360,100,50,50
+96648,Glenn Nyberg,240,50,50,0
+101894,Alexandre Perreau Niel,120,50,50,0
+102665,Timo Gerach,FINAL,50,50,0
+102954,Sven Jablonski,FINAL,50,50,0
+102955,Daniel Schlager,120,50,50,0
+102956,Benjamin Brand,120,50,50,0
+103168,Robert Schröder,480|FINAL,50,50,0
+104864,Paul Tierney,480|FINAL,50,50,0
+106247,Sebastian Stockbridge,FINAL,100,50,50
+107059,Chris Kavanagh,120,50,50,0
+108401,Tim Robinson,FINAL,50,50,0
+108406,Charles Breakspear,120,50,50,0
+113644,Fabio Jose Costa Verissimo,240,50,50,0
+114242,Sigurd Smehus Kringstad,FINAL,50,50,0
+118273,Tore Hansen,FINAL,50,50,0
+121217,Rohit Saggi,480|FINAL,50,50,0
+123311,Florian Badstubner,240,50,50,0
+126984,Davide Massa,240,100,50,50
+127416,Ingmar Oostrom,240,50,50,0
+127921,Sören Storks,FINAL,50,50,0
+127941,Max Burda,480|FINAL,50,50,0
+130151,Jeroen Manschot,360,50,50,0
+130207,Martin Perez,480|FINAL,50,50,0
+130916,Maurizio Mariani,480|FINAL,50,50,0
+131474,Michael Fabbri,480|FINAL,50,50,0
+132287,Gianluca Manganiello,240,50,50,0
+132765,Fabio Maresca,240,50,50,0
+132779,Federico La Penna,240,50,50,0
+133978,Angelos Evangelou,120,50,50,0
+137333,Sandro Schärer,FINAL,100,50,50
+138289,Jarred Gillett,360,50,50,0
+141037,Andre Filipe Domingues Narciso,120,50,50,0
+144315,Michael Salisbury,480|FINAL,50,50,0
+148307,Fedayi San,240,50,50,0
+148992,Lukas Fahndrich,360,50,50,0
+157707,Jérôme Brisard,360,50,50,0
+171215,Eric Lambrechts,240,50,50,0
+172185,Rosario Abisso,480|FINAL,50,50,0
+179011,Iosu Galech Apezteguia,240,50,50,0
+179917,Juan Luca Sacchi,360,50,50,0
+180269,Urs Schnyder,FINAL,50,50,0
+181557,Erwin Blank,240,50,50,0
+183399,Marco Piccinini,360,50,50,0
+184579,German Cid Camacho,240,50,50,0
+217954,Nicolas Laforge,480|FINAL,50,50,0
+222742,Joao Pedro Pinheiro,360,50,50,0
+225478,Horatiu Fesnic,240,50,50,0
+229712,Ricardo Baixinho,480|FINAL,50,50,0
+232870,Marius Lien,360,50,50,0
+234858,Armando Villarrea,120,50,50,0
+240988,Ben Toner,120,50,50,0
+241374,Allen Chapman,120,50,50,0
+243151,Wagner do Nascimento Magalhaes,FINAL,50,50,0
+243495,Raphael Claus,480|FINAL,50,50,0
+243629,Flavio Rodrigues De Souza,240,50,50,0
+243701,Wilton Pereira Sampaio,FINAL,50,50,0
+244037,Anderson Daronco,120,50,50,0
+250983,Michael Bacher,480|FINAL,50,50,0
+256391,Alvaro Moreno Aragon,120,50,50,0
+260125,Vasilica Iancu,FINAL,50,50,0
+262437,Fernando Echenique,240,50,50,0
+272661,Richard Martens,480|FINAL,50,50,0
+273389,Livio Marinelli,360,50,50,0
+281869,Lukas Benen,360,23,23,0
+314522,Chris Penso,120,50,50,0
+316018,Fotis Bazakos,240,50,50,0
+316122,Drew Fischer,240,50,50,0
+316136,Ismail Elfath,240,50,50,0
+322839,Dario Herrera,120,50,50,0
+325229,Florian Exner,240,50,50,0
+327871,Andres Merlos,120,50,50,0
+329457,Lawrence Visser,360,50,50,0
+346012,Jorge Balino,360,50,50,0
+353954,Saul Ais Reig,FINAL,100,50,50
+365792,Nathan Verboomen,480|FINAL,50,50,0
+369764,Bram Van Driessche,120,50,50,0
+372760,Horia Gabriel Mladinovici,240,50,50,0
+544026,Marcos de Oliveira,360,50,50,0
+544624,Florin Andrei,240,50,50,0
+554152,Braulio Da Silva Machado,120,50,50,0
+559006,Paulo Schleich Vollkopf,480|FINAL,33,33,0
+586036,Jan Boterberg,360,50,50,0
+594358,Luís Godinho,360,50,50,0
+595706,Francesco Fourneau,240,50,50,0
+601974,Luca Massimi,360,50,50,0
+774129,Benoît Millot,120,50,50,0
+780208,Laurens Gerrets,360,50,50,0
+782794,Nicolas Lamolina,480|FINAL,50,50,0
+785114,François Letexier,240,50,50,0
+785119,Aurelien Petit,120,50,50,0
+785132,Anzhony Rodrigues,120,50,50,0
+785143,Fernando Espinoza,240,50,50,0
+785203,Kevin van Damme,360,50,50,0
+785204,Antonio Rapuano,120,50,50,0
+785240,Halil Umut Meler,240,50,50,0
+785273,Bruno Arleu de Araujo,120,50,50,0
+785299,Ricardo Montero,480|FINAL,29,29,0
+785312,Stefan Ebner,FINAL,50,50,0
+785317,Florian Jager,240,16,16,0
+785348,Jeremy Stinat,360,50,50,0
+785369,Karim Abed,360,50,50,0
+785370,Florian Lechner,240,50,50,0
+785374,Umit Ozturk,FINAL,50,50,0
+785396,Alessandro Dudic,120,50,50,0
+785404,Joey Kooij,360,50,50,0
+785418,Jose Antonio Sanchez Villalobos,360,42,42,0
+785419,Salvador Lax Franco,FINAL,100,50,50
+785420,Simone Sozza,FINAL,50,50,0
+785462,Matteo Marchetti,480|FINAL,50,50,0
+785483,Bert Put,120,50,50,0
+785495,Wolfgang Haslberger,FINAL,44,44,0
+785522,David Rock,240,100,50,50
+785543,Cagdas Altay,120,50,50,0
+785583,Romain Lissorgue,480|FINAL,50,50,0
+785691,Sivert Amland,FINAL,50,50,0
+785710,Lothar D'hondt,360,50,50,0
+785718,Fredrik Klitte,240,50,50,0
+785741,Marian Barbu,360,50,50,0
+785775,Sandi Putros,FINAL,100,50,50
+785779,Morten Krogh,480|FINAL,50,50,0
+785808,Eric Wattellier,240,50,50,0
+785811,John Brooks,360,50,50,0
+785812,Oliver Yates,480|FINAL,50,50,0
+785840,John Busby,360,50,50,0
+785845,Vitor Ferreira,FINAL,50,50,0
+785849,Konrad Oldhafer,360,13,13,0
+785861,Jacob A. Sundberg,360,50,50,0
+785873,Antonio Nobre,120,50,50,0
+785879,Sander van der Eijk,FINAL,100,50,50
+785882,Carlos Macedo,120,50,50,0
+785884,Granit Maqedonci,240,50,50,0
+785885,Victor Wolf,FINAL,50,50,0
+785906,Rafael Sanchez Lopez,480|FINAL,50,50,0
+785914,Savio Pereira Sampaio,FINAL,100,50,50
+785926,Giovanni Ayroldi,240,50,50,0
+785932,Marta Huerta de Aza,360,39,39,0
+785933,Desiree Grundbacher,240,22,22,0
+785960,Mohammad Usman Aslam,480|FINAL,50,50,0
+785971,Marius Grotta,360,50,50,0
+785998,Neil Hair,480|FINAL,50,50,0
+785999,Thomas Bramall,FINAL,50,50,0
+786002,Anthony Backhouse,120,50,50,0
+786004,Sam Allison,FINAL,100,50,50
+786008,Tom Nield,FINAL,50,50,0
+786032,Kadir Saglam,360,50,50,0
+786036,Bruno Vieira,120,50,50,0
+786057,Pierre Gaillouste,480|FINAL,50,50,0
+786059,Ali Sansalan,120,50,50,0
+786073,Stavros Tsimenteridis,FINAL,32,32,0
+786096,Allard Lindhout,120,50,50,0
+786134,Mads-Kristoffer Kristoffersen,360,50,50,0
+786147,Stephen Martin,FINAL,50,50,0
+786178,Hernan Mastrangelo,240,50,50,0
+786183,Michael Espinoza,480|FINAL,50,50,0
+786236,Konstantinos Tsetsilas,360,21,21,0
+786241,Sven Wolfensberger,FINAL,50,50,0
+786258,Pablo Echavarria,480|FINAL,50,50,0
+786264,Adam Ladeback,120,50,50,0
+786274,Pablo Dovalo,480|FINAL,50,50,0
+786280,Rubiel Vazquez,480|FINAL,50,50,0
+786288,Alain Sadikovski,120,26,26,0
+786291,Daniel Pfister,120,32,32,0
+786304,Patrick Schwengers,480|FINAL,32,32,0
+786312,Claudio Filipe Ruivo Pereira,120,50,50,0
+786314,Faouzi Benchabane,240,50,50,0
+786331,Robin Braun,480|FINAL,50,50,0
+786332,Scott Oldham,FINAL,100,50,50
+786335,Alex Chilowicz,120,50,50,0
+786353,Mikkel Redder,480|FINAL,50,50,0
+786354,Yigit Arslan,FINAL,50,50,0
+786366,Matteo Marcenaro,480|FINAL,50,50,0
+786376,Jon Ander Gonzalez Esteban,360,50,50,0
+786379,Jose Luis Guzman Mansilla,360,50,50,0
+786389,Lars Erbst,360,29,29,0
+786393,Alpaslan Sen,120,48,48,0
+786404,Richard Hempel,480|FINAL,40,40,0
+786428,Emre Kargin,240,50,50,0
+786429,Adnan Deniz Kayatepe,120,50,50,0
+786435,Yasin Kol,FINAL,50,50,0
+786439,Cihan Aydin,120,50,50,0
+786469,Jeremie Pignard,360,50,50,0
+786475,Joseph Dickerson,360,50,50,0
+786481,Stan Teuben,FINAL,50,50,0
+786489,Clay Ruperti,120,50,50,0
+786501,Alan Dale,120,8,8,0
+786537,Andrea Colombo,120,50,50,0
+786577,Augusto Menendez,120,50,50,0
+786581,Micke Palomino,480|FINAL,50,50,0
+786583,Kevin Ortega,360,50,50,0
+786602,Jesus Cartagena,360,50,50,0
+786627,Joel Alarcon,360,50,50,0
+786639,David Huaman,240,64,32,32
+786640,Edwin Ordonez,240,50,50,0
+786645,Marc Nagtegaal,360,50,50,0
+786658,Luca Piccolo,360,50,50,0
+786682,Luca Cibelli,360,50,50,0
+786698,Denis da Silva Ribeiro Serafim,240,50,50,0
+786706,Daniel Higraff,120,50,50,0
+786716,Svein Tore Sinnes,FINAL,50,50,0
+786724,Ramy Touchan,480|FINAL,50,50,0
+786725,Victor Rivas,FINAL,50,50,0
+786776,Bastien Dechepy,120,50,50,0
+786783,Arnes Talic,120,40,40,0
+786788,Joakim Ostling,360,50,50,0
+786789,Achim Untergasser,120,6,6,0
+786791,Marc Philip Eckermann,360,11,11,0
+786805,Felix Weller,240,1,1,0
+786807,Matt Donohue,480|FINAL,50,50,0
+786808,Fabio Melo,240,50,50,0
+786809,Gustavo Correia,240,50,50,0
+786813,Atilla Karaoglan,120,50,50,0
+786814,Pedro Ramalho,480|FINAL,50,50,0
+786822,Abraham Dominguez Cervantes,120,19,19,0
+786829,Burak Demirkiran,120,10,10,0
+786830,Nazareno Arasa,480|FINAL,50,50,0
+786859,Roberto Perez Gutierrez,480|FINAL,50,50,0
+786860,Jair Antonio Maruffo,360,50,50,0
+786870,Omer Faruk Gultekin,480|FINAL,23,23,0
+786889,Jannick van der Laan,360,50,50,0
+786890,Alex Bos,120,50,50,0
+786894,Aydin Uslu,120,50,50,0
+786896,James Oldham,360,50,50,0
+786908,Guido Gonzales Jr,240,50,50,0
+786968,Carl Brook,120,50,50,0
+786973,Leigh Doughty,360,50,50,0
+786985,Alexandros Tsakalidis,120,48,48,0
+786987,Jacob Miles,360,50,50,0
+786991,Jordi Espinoza,360,50,50,0
+787023,Yael Falcon Perez,FINAL,50,50,0
+787028,Leandro Rey Hilfer,360,50,50,0
+787072,Nico Gianforte,480|FINAL,41,41,0
+787073,Giuseppe Collu,240,50,50,0
+787080,Muhammetali Metoglu,480|FINAL,50,50,0
+787093,Turgut Doman,FINAL,50,50,0
+787098,Direnc Tonusluoglu,240,50,50,0
+787105,Johannes von Mandach,360,49,49,0
+787110,Burak Pakkan,120,50,50,0
+787136,Mirel Turkes,480|FINAL,42,42,0
+787153,Wesli De Cremer,FINAL,50,50,0
+787181,Edina Alves Batista,240,50,50,0
+787225,Lucas Paulo Torezin,360,50,50,0
+787226,Richard Sundell,480|FINAL,50,50,0
+787239,Gael Angoula,240,50,50,0
+787241,Remi Landry,480|FINAL,50,50,0
+787243,Thierry Bouille,FINAL,50,50,0
+787244,Rosendo Mendoza,480|FINAL,50,50,0
+787245,Felipe Fernandes de Lima,240,50,50,0
+787250,Will Finnie,FINAL,50,50,0
+787255,Jasper Vergoote,360,50,50,0
+787265,David Rafael Oliveira da Silva,240,100,50,50
+787273,Joao Antonio Ferreira Goncalves,360,50,50,0
+787274,Sergio Guelho,FINAL,50,50,0
+787275,Miguel Nogueira,480|FINAL,50,50,0
+787281,Anojen Kanagasingam,120,47,47,0
+787282,Felix Bickel,240,14,14,0
+787286,Josh Smith,360,50,50,0
+787310,Alper Akarsu,120,50,50,0
+787315,Oguzhan Cakir,480|FINAL,50,50,0
+787320,Ozan Ergun,480|FINAL,50,50,0
+787325,Mehmet Turkmen,480|FINAL,50,50,0
+787332,Tom Bauer,FINAL,38,38,0
+787356,Pierre-Luc Lauziere,480|FINAL,50,50,0
+787359,Jose Mendonca da Silva Junior,360,30,30,0
+787369,Timo Gansloweit,FINAL,18,18,0
+787393,Martijn Vos,360,50,50,0
+787404,Thomas Parsons,FINAL,50,50,0
+787405,James Bell,360,50,50,0
+787421,Jonas Hansen,360,50,50,0
+787512,Safak Barmaksiz,FINAL,51,17,34
+787522,Tori Penso,FINAL,50,50,0
+787524,Mischa Kellerhals,480|FINAL,7,7,0
+787529,Stian Rovig Sletner,FINAL,23,23,0
+787537,Emil Ristoskov,240,7,7,0
+787561,Mathieu Vernice,480|FINAL,50,50,0
+787562,Guillaume Paradis,240,50,50,0
+787569,Malik Badawi,360,50,50,0
+787575,Abdullah Bugra Taskinsoy,120,50,50,0
+787576,Ramon Abatti Abel,480|FINAL,50,50,0
+787582,Jon Freemon,360,50,50,0
+787588,Flavio Lima,240,50,50,0
+787591,Eric-Dominic Weisbach,240,27,27,0
+787602,Felix Prigan,240,28,28,0
+787605,Samuel Barrott,FINAL,100,50,50
+787615,Julio Cesar Quiroz,360,50,50,0
+787617,Paul Howard,480|FINAL,50,50,0
+787633,Viorel Nicusor Flueran,FINAL,50,50,0
+787636,Adi Aganovic,120,50,50,0
+787650,Andrei Moroita,120,34,34,0
+787670,Tom Reeves,FINAL,50,50,0
+787671,Lewis Smith,360,50,50,0
+787683,Daniel Ureta,120,50,50,0
+787698,Szabolcs Kovacs,FINAL,50,50,0
+787701,Andres Fuentes Molina,120,50,50,0
+787734,Eddy Rosier,240,35,35,0
+787747,Carlos Andres Gariano,120,50,50,0
+787771,Oguzhan Aksu,480|FINAL,50,50,0
+787777,Gurcan Hasova,240,50,50,0
+787781,Davut Dakul Celik,240,42,42,0
+787798,Mathias Stofringshaug,480|FINAL,29,29,0
+787819,Paulo Cesar Zanovelli da Silva,480|FINAL,50,50,0
+787834,Marc Bollengier,360,50,50,0
+787850,João Pedro Afonso,360,41,41,0
+787856,Helder Filipe Claudio Carvalho,240,50,50,0
+787862,Oscar Johnson,480|FINAL,50,50,0
+787881,Omer Faruk Turtay,480|FINAL,50,50,0
+787892,Jarno Wienefeld,360,12,12,0
+787902,Bruno Jose Ribeiro Pires Costa,120,50,50,0
+787918,Maria Sole Ferrieri Caputi,360,50,50,0
+787924,Paride Tremolada,480|FINAL,46,46,0
+787932,Robin Hensgens,480|FINAL,50,50,0
+787937,Matthew Russell,480|FINAL,33,33,0
+787946,Sebastian Zunino,FINAL,100,52,48
+787948,Andrew Kitchen,120,50,50,0
+787953,Eder Mallo Fernandez,240,46,46,0
+787968,Yusuf Ziya Gunduz,FINAL,21,21,0
+788005,Resat Onur Coskunses,480|FINAL,45,45,0
+788015,Jakob Semler,360,30,30,0
+788019,Rares George Vidican,480|FINAL,50,50,0
+788021,Vlad Baban,FINAL,13,13,0
+788127,Jorgen Haugen,360,6,6,0
+788130,Adam Herczeg,120,50,50,0
+788154,Ermanno Feliciani,240,50,50,0
+788156,Daniele Perenzoni,120,50,50,0
+788163,Luis Lobo Medina,360,50,50,0
+788185,Sebastian Lozano,FINAL,100,50,50
+788190,Marijan Drmic,360,9,9,0
+788207,Omer Tolga Guldibi,480|FINAL,47,47,0
+788244,Filip Dujic,240,50,50,0
+788270,Nicolas Ramirez,480|FINAL,50,50,0
+788295,Antoine Valnet,120,50,50,0
+788296,Azzedine Souifi,120,50,50,0
+788299,Thomas Kirk,FINAL,50,50,0
+788305,Jacob Karlsen,360,50,50,0
+788314,Diogo Rosa,240,50,50,0
+788320,Jose Bessa,360,50,50,0
+788379,Giuseppe Mucera,240,19,19,0
+788387,Valerio Crezzini,FINAL,35,35,0
+788392,Simone Galipo,FINAL,31,31,0
+788405,Maguielson Lima Barbosa,360,48,48,0
+788411,Andrea Zanotti,120,17,17,0
+788419,Davide Di Marco,240,82,41,41
+788427,Andrea Calzavara,120,19,19,0
+788429,Alberto Ruben Arena,120,33,33,0
+788451,Mario Perri,360,33,33,0
+788459,Erik Mattsson,240,23,23,0
+788462,Lasse Laebel Graagaard,360,48,48,0
+788500,Emre Kaan Caliskan,240,1,1,0
+788504,Berkay Erdemir,120,13,13,0
+788506,Dogukan Yildirim,240,1,1,0
+788509,Wouter Wiersma,FINAL,50,50,0
+788516,Rafael Rodrigo Klein,480|FINAL,50,50,0
+788520,Hajrim Qovanaj,240,3,3,0
+788542,Huseyin Sanli,240,3,3,0
+788545,Ayberk Demirbas,120,34,34,0
+788549,Sebastian Nicolas Martinez,FINAL,100,50,50
+788558,Erdem Mertoglu,240,50,50,0
+788559,Felix Wagner,240,10,10,0
+788577,Ahmed Taleb,120,49,49,0
+788579,Geoffrey Kubler,240,37,37,0
+788614,Thomas Vincent,FINAL,1,1,0
+788615,Pierre Retail,480|FINAL,2,2,0
+788622,Tifenn Leprodhomme,FINAL,17,17,0
+788626,Gabriel Henry,240,2,2,0
+788693,Rodrigo Jose Pereira de Lima,480|FINAL,50,50,0
+788694,Ruebyn Ricardo,FINAL,150,50,100
+788696,Edward Duckworth,240,50,50,0
+788710,Suleyman Bahadir,FINAL,27,27,0
+788715,Manuel Angel Perez Hernandez,360,47,47,0
+788716,Gorka Etayo Herrera,240,23,23,0
+788732,Shona Shukrula,FINAL,12,12,0
+788750,Fatih Tokail,240,42,42,0
+788760,Michiel Allaerts,480|FINAL,32,32,0
+788779,Matthew Corlett,480|FINAL,50,50,0
+788834,Scott Jackson,FINAL,100,50,50
+788843,Bruno Mota Correia,120,46,46,0
+788844,Joao Vitor Gobi,360,50,50,0
+788845,Yuri Elino Ferreira Da Cruz,FINAL,50,50,0
+788853,Bruno Pereira Vasconcelos,120,47,47,0
+788854,Matheus Delgado Candançan,480|FINAL,50,50,0
+788873,Farai Hallam,240,50,50,0
+788930,Afro Rocha De Carvalho Filho,120,30,30,0
+788933,Luiz Augusto Silveira Tisne,360,7,7,0
+788948,Leonardo Willers Lorenzatto,360,4,4,0
+788956,Alexis Da Silva,120,50,50,0
+788967,Manuel Baumann,360,1,1,0
+788968,Markus Greinecker,360,5,5,0
+788977,Isa Simsek,240,19,19,0
+788982,Davi de Oliveira Lacerda,120,50,50,0
+788983,Jonathan Benkenstein Pinheiro,360,50,50,0
+789001,Gustavo Ervino Bauermann,240,45,45,0
+789029,Marcio Torres,360,43,43,0
+789031,Flavio Miguel Gomes Azevedo Duarte,240,22,22,0
+789045,Manuel Jesus Orellana Cid,360,50,50,0
+789070,Ricardo Fierro,480|FINAL,30,30,0
+789071,Facundo Raul Tello Figueroa,240,50,50,0
+789093,Claudio Giuseppe Allegretta,120,17,17,0
+789095,Edoardo Manedo Mazzoni,240,1,1,0
+789100,Mattia Drigo,480|FINAL,1,1,0
+789112,Goncalo Rafael dos Santos Neves,240,28,28,0
+789121,Thomas Hardeman,FINAL,47,47,0
+789129,Lucas Canetto Bellote,360,25,25,0
+789133,Kaan Kara,360,1,1,0
+789138,Asen Albayrak,120,6,6,0
+789157,Ibrahim Guner,240,1,1,0
+789163,Maco Di Loreto,360,1,1,0
+789166,Burak Kamalak,120,1,1,0
+789206,Miguel Andre Monteiro Fonseca,480|FINAL,49,49,0
+789211,Stephen Parkinson,FINAL,39,39,0
+789215,Michael Barlow,480|FINAL,22,22,0
+789245,Hakan Ulker,240,10,10,0
+789252,Daniel Palencia Caballero,120,44,44,0
+789262,Alejandro Morilla Turrion,120,22,22,0
+789270,Batuhan Kolak,120,50,50,0
+789285,Kirsty Dowle,360,16,16,0
+789289,Steve Martin,FINAL,4,4,0
+789313,Sorin Dan Vadana,FINAL,14,14,0
+789317,Massimiliano Ledda,480|FINAL,18,18,0
+789331,Lorenzo Hernandez,360,31,31,0
+789355,Klass Clerkx,360,6,6,0
+789367,Andrew Humphries,120,38,38,0
+789376,Joshua Encarnacion,360,4,4,0
+789389,Elliot Bell,240,50,50,0
+789405,Alex Gomes Stefano,120,50,50,0
+789411,Fernando Antonio Mendes de Salles Nascimento Filho,240,41,41,0
+789412,Lucas Guimarães Rechatiko Horn,360,20,20,0
+789431,Sergii Demianchuk,FINAL,48,24,24
+789502,Lucas Casagrande,360,45,45,0
+789514,Thaillan Azevedo Gomes,FINAL,11,11,0
+789529,Svend Funder,FINAL,14,14,0
+789566,Benjamin Speedie,120,50,50,0
+789568,George Catalin Roman,240,23,23,0
+789571,Jose Rodrigues,360,5,5,0
+789588,Flavio Jesus,240,21,21,0
+789593,Sergui Claudiu Muresan,FINAL,40,40,0
+789597,Carlos Muniz Munoz,120,46,46,0
+789637,Rick Sturm,480|FINAL,43,43,0
+789645,Elijio Arreguin,240,15,15,0
+789652,Juan Pafundi,360,21,21,0
+789725,Niels Boel,480|FINAL,20,20,0
+789731,Luis Carlos Mateus Filipe,360,31,31,0
+789753,Olatz Rivera Olmedo,480|FINAL,1,1,0
+789754,Abigail Byrne,120,24,24,0
+789763,Alejandro Ojaos Valera,120,23,23,0
+789774,Daniel Miranda Bolano,120,2,2,0
+789775,Gonzalo Romero Freixas,240,1,1,0
+789779,Julio Cesar Pfleger,360,2,2,0
+789780,Raimundo Rodrigues de Oliveira Junior,480|FINAL,2,2,0
+789781,Charly Wendy Straub Deretti,120,7,7,0
+789783,Daiane Caroline Muniz Dos Santos,120,9,9,0
+789807,Daniel Zamora,120,17,17,0
+789811,Brendan Roffet,120,18,18,0
+789822,Richard Eley,480|FINAL,27,27,0
+789824,Melih Aldemir,480|FINAL,13,13,0
+789825,Anthony Letellier,120,13,13,0
+789836,Bert Verbeke,120,31,31,0
+789860,Gabriel Mihuleac,240,9,9,0
+790438,Bruno Amiconi,120,17,17,0
+790504,Felipe Viola,240,11,11,0
+790525,Frederik Svendsen,240,15,15,0
+790549,Yusuf Adnan Kendirciler,FINAL,9,9,0
+790560,Isaac Searle,240,8,8,0
+790561,Elliott Swallow,240,11,11,0
+790563,Ross Martin,480|FINAL,13,13,0
+790581,Vitor Lopes,FINAL,12,12,0
+790590,Jamie O'Connor,360,9,9,0
+790596,Luis Bestard Servera,360,24,24,0
+790603,Harry Wager,240,10,10,0
+790610,Oguzhan Gokcen,480|FINAL,9,9,0
+790616,Diogo Teixeira Araujo,240,10,10,0
+790619,Alonso De Ena Wolf,120,21,21,0
+790633,Harrison Blair,240,6,6,0
+790636,George Laflin,240,2,2,0
+790638,Lewis Sandoe,360,4,4,0
+790653,Joshua Kuipers,360,19,19,0
+790674,Niclas Karlsson,480|FINAL,2,2,0
+790689,Emily Heaslip,240,4,4,0
+790767,Andre Luis Skettino Policarpo Bento,120,15,15,0
+790829,Junior Rivera,360,4,4,0
+790834,Walter Guadalupe,FINAL,7,7,0
+790843,Rudy Mendez,480|FINAL,4,4,0
+790917,Kleber Ariel Goncalves Silva,360,4,4,0
+790933,Pierry Dias dos Santos,480|FINAL,3,3,0
+790939,Alvaro Caranza,120,5,5,0
+790949,Melek Dakan,480|FINAL,4,4,0
+790950,Gonzalo Pereira,240,1,1,0
+790998,Hatice Aydin,240,1,1,0
+791024,Rodrigo Albuquerque,480|FINAL,2,2,0
+791188,Jose Carlos Silva Campos Rodrigues,360,1,1,0
+791288,Soulaimane Chamel,FINAL,1,1,0
+791291,Michalis Matsoukas,480|FINAL,1,1,0
+791292,Spyros Zampalas,FINAL,1,1,0
+791293,Daniel Bruno da Silva Pinto,120,1,1,0
+791294,Meletis Gioumatzidis,480|FINAL,1,1,0
+791295,Birkan Altindas,120,1,1,0
+791296,Lefteris Katopis,360,1,1,0
+791297,Franciel dos Santos Martins,240,1,1,0
+791298,Rueben Ricardo,480|FINAL,1,1,0
+791299,Pablo Morales Moreno,480|FINAL,1,1,0
+791304,Rosario Guadalupe Cardenas Morales,480|FINAL,1,1,0
+791310,Juan Gordillo,360,1,1,0
+791418,Muhammet Alperen Copur,480|FINAL,1,1,0
