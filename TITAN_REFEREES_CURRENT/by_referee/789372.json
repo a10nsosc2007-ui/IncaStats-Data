@@ -1,0 +1,87 @@
+{
+  "schema_version": "incastats.referee_history.v9.3",
+  "generated_at": "2026-09-03T19:38:24.393577Z",
+  "referee_id": 789372,
+  "name": "Rodrigo Blazquez Sanchez",
+  "country": "Spain",
+  "match_count": 1,
+  "competition_ids": [
+    54
+  ],
+  "competition_names": [
+    "LaLiga 2"
+  ],
+  "booking_points_policy": {
+    "yellow": 10,
+    "effective_red": 20,
+    "second_yellow_red_counts_as": {
+      "yellow": 1,
+      "effective_red": 1
+    }
+  },
+  "face_original_path": null,
+  "face_web_path": null,
+  "averages": {
+    "avg_yellow_cards": 4.0,
+    "avg_red_cards": 0.0,
+    "avg_booking_points": 40.0,
+    "avg_fouls_total": 24.0,
+    "avg_first_card_minute": 22.0,
+    "avg_cards_1h": 2.0,
+    "avg_cards_2h": 2.0,
+    "avg_cards_et": 0.0,
+    "avg_home_yellow_cards": 1.0,
+    "avg_away_yellow_cards": 3.0,
+    "avg_home_red_cards": 0.0,
+    "avg_away_red_cards": 0.0
+  },
+  "matches": [
+    {
+      "referee_id": 789372,
+      "referee_name": "Rodrigo Blazquez Sanchez",
+      "event_id": 11390152,
+      "date": "16/03/2024",
+      "date_iso": "2024-03-16",
+      "competition_id": 54,
+      "unique_tournament_id": 54,
+      "tournament_id": 37,
+      "competition_name": "LaLiga 2",
+      "source_tournament_name": "LaLiga 2",
+      "season_id": 52563,
+      "season_label": "23/24",
+      "round": 31,
+      "home_team_id": 2839,
+      "away_team_id": 24338,
+      "home_team": "Eibar",
+      "away_team": "Villarreal B U23",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "2-0",
+      "yellow_cards": 4,
+      "red_cards": 0,
+      "booking_points": 40,
+      "first_card_minute": 22,
+      "first_card_minute_display": "22",
+      "home_fouls": 11,
+      "away_fouls": 13,
+      "fouls_total": 24,
+      "home_yellow_cards": 1,
+      "away_yellow_cards": 3,
+      "home_red_cards": 0,
+      "away_red_cards": 0,
+      "home_booking_points": 10,
+      "away_booking_points": 30,
+      "yellow_1h": 2,
+      "red_1h": 0,
+      "yellow_2h": 2,
+      "red_2h": 0,
+      "cards_1h": 2,
+      "cards_2h": 2,
+      "cards_et": 0,
+      "card_details_raw": "Min 71' [Amarilla - Foul] | Min 58' [Amarilla - Foul] | Min 33' [Amarilla - Foul] | Min 22' [Amarilla - Foul]",
+      "extraction_ok": true,
+      "data_quality": "COMPLETO",
+      "source_file": "INCA_STATS_V9.3_1_al_450.csv"
+    }
+  ]
+}

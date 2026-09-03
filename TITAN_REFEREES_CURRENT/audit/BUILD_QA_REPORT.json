@@ -1,0 +1,39 @@
+{
+  "rows_raw": 36526,
+  "rows_unique": 36526,
+  "invalid_key_rows": 0,
+  "exact_duplicates_removed": 0,
+  "conflicting_duplicates": 0,
+  "date_before_2024": 0,
+  "negative_first_card_minute": 0,
+  "booking_points_sum_mismatch": 0,
+  "fouls_sum_mismatch": 0,
+  "yellow_sum_mismatch": 0,
+  "red_sum_mismatch": 0,
+  "quality": {
+    "COMPLETO": 33924,
+    "PARCIAL": 2602
+  },
+  "extraction_ok": {
+    "TRUE": 36526
+  },
+  "irregular_card_detail_rows": 1582,
+  "source_stats": {
+    "INCA_STATS_V9.3_1_al_450.csv": {
+      "rows": 19913,
+      "referees": 450
+    },
+    "INCA_STATS_EMERGENCIA_451_al_946.csv": {
+      "rows": 16406,
+      "referees": 496
+    },
+    "INCA_STATS_V9.3_947_al_982.csv": {
+      "rows": 207,
+      "referees": 36
+    }
+  },
+  "referee_count": 982,
+  "face_count": 570,
+  "referees_without_face": 412,
+  "faces_without_matches": 0
+}

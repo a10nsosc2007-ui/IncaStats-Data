@@ -1,0 +1,87 @@
+{
+  "schema_version": "incastats.referee_history.v9.3",
+  "generated_at": "2026-09-03T19:38:24.261119Z",
+  "referee_id": 788506,
+  "name": "Dogukan Yildirim",
+  "country": "Türkiye",
+  "match_count": 1,
+  "competition_ids": [
+    98
+  ],
+  "competition_names": [
+    "1. Lig"
+  ],
+  "booking_points_policy": {
+    "yellow": 10,
+    "effective_red": 20,
+    "second_yellow_red_counts_as": {
+      "yellow": 1,
+      "effective_red": 1
+    }
+  },
+  "face_original_path": null,
+  "face_web_path": null,
+  "averages": {
+    "avg_yellow_cards": 5.0,
+    "avg_red_cards": 0.0,
+    "avg_booking_points": 50.0,
+    "avg_fouls_total": 35.0,
+    "avg_first_card_minute": 44.0,
+    "avg_cards_1h": 1.0,
+    "avg_cards_2h": 4.0,
+    "avg_cards_et": 0.0,
+    "avg_home_yellow_cards": 2.0,
+    "avg_away_yellow_cards": 3.0,
+    "avg_home_red_cards": 0.0,
+    "avg_away_red_cards": 0.0
+  },
+  "matches": [
+    {
+      "referee_id": 788506,
+      "referee_name": "Dogukan Yildirim",
+      "event_id": 16490413,
+      "date": "28/08/2026",
+      "date_iso": "2026-08-28",
+      "competition_id": 98,
+      "unique_tournament_id": 98,
+      "tournament_id": 101,
+      "competition_name": "1. Lig",
+      "source_tournament_name": "1. Lig",
+      "season_id": 98149,
+      "season_label": "26/27",
+      "round": 4,
+      "home_team_id": 7032,
+      "away_team_id": 44320,
+      "home_team": "Pendikspor",
+      "away_team": "Bandırmaspor",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "1-1",
+      "yellow_cards": 5,
+      "red_cards": 0,
+      "booking_points": 50,
+      "first_card_minute": 44,
+      "first_card_minute_display": "44",
+      "home_fouls": 20,
+      "away_fouls": 15,
+      "fouls_total": 35,
+      "home_yellow_cards": 2,
+      "away_yellow_cards": 3,
+      "home_red_cards": 0,
+      "away_red_cards": 0,
+      "home_booking_points": 20,
+      "away_booking_points": 30,
+      "yellow_1h": 1,
+      "red_1h": 0,
+      "yellow_2h": 4,
+      "red_2h": 0,
+      "cards_1h": 1,
+      "cards_2h": 4,
+      "cards_et": 0,
+      "card_details_raw": "Min 81' [Amarilla - Foul] | Min 65' [Amarilla - Foul] | Min 56' [Amarilla - Argument] | Min 52' [Amarilla - Foul] | Min 44' [Amarilla - Foul]",
+      "extraction_ok": true,
+      "data_quality": "COMPLETO",
+      "source_file": "INCA_STATS_EMERGENCIA_451_al_946.csv"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "incastats.titan_referees_current.v9.3",
+  "generated_at": "2026-09-03T19:38:24.510061Z",
+  "referee_count": 982,
+  "match_count": 36526,
+  "faces_original_count": 570,
+  "source_csvs": [
+    "INCA_STATS_V9.3_1_al_450.csv",
+    "INCA_STATS_EMERGENCIA_451_al_946.csv",
+    "INCA_STATS_V9.3_947_al_982.csv"
+  ],
+  "source_face_zips": [
+    "Fotos_Arbitros_1_al_450.zip",
+    "FOTOS_EMERGENCIA_451_al_946.zip",
+    "Fotos_Arbitros_947_al_982.zip"
+  ],
+  "primary_files": {
+    "master": "referees_master.json",
+    "matches": "matches_master.csv",
+    "faces_map": "faces/rutas_imagenes_referees.json",
+    "by_referee": "by_referee/{id}.json"
+  },
+  "app_face_priority": [
+    "face_web_path",
+    "face_original_path",
+    "generic_gray_avatar"
+  ],
+  "booking_points_policy": {
+    "yellow": 10,
+    "effective_red": 20,
+    "second_yellow_red_counts_as": {
+      "yellow": 1,
+      "effective_red": 1
+    }
+  }
+}

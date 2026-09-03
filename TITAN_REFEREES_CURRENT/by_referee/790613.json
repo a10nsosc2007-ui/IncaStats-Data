@@ -1,0 +1,87 @@
+{
+  "schema_version": "incastats.referee_history.v9.3",
+  "generated_at": "2026-09-03T19:38:24.482506Z",
+  "referee_id": 790613,
+  "name": "Muhammed Selim Ozbek",
+  "country": "Türkiye",
+  "match_count": 1,
+  "competition_ids": [
+    98
+  ],
+  "competition_names": [
+    "1. Lig"
+  ],
+  "booking_points_policy": {
+    "yellow": 10,
+    "effective_red": 20,
+    "second_yellow_red_counts_as": {
+      "yellow": 1,
+      "effective_red": 1
+    }
+  },
+  "face_original_path": null,
+  "face_web_path": null,
+  "averages": {
+    "avg_yellow_cards": 9.0,
+    "avg_red_cards": 2.0,
+    "avg_booking_points": 130.0,
+    "avg_fouls_total": 29.0,
+    "avg_first_card_minute": 27.0,
+    "avg_cards_1h": 4.0,
+    "avg_cards_2h": 6.0,
+    "avg_cards_et": 0.0,
+    "avg_home_yellow_cards": 5.0,
+    "avg_away_yellow_cards": 4.0,
+    "avg_home_red_cards": 1.0,
+    "avg_away_red_cards": 1.0
+  },
+  "matches": [
+    {
+      "referee_id": 790613,
+      "referee_name": "Muhammed Selim Ozbek",
+      "event_id": 14138277,
+      "date": "24/08/2025",
+      "date_iso": "2025-08-24",
+      "competition_id": 98,
+      "unique_tournament_id": 98,
+      "tournament_id": 101,
+      "competition_name": "1. Lig",
+      "source_tournament_name": "1. Lig",
+      "season_id": 77977,
+      "season_label": "25/26",
+      "round": 3,
+      "home_team_id": 55625,
+      "away_team_id": 3091,
+      "home_team": "Ümraniyespor",
+      "away_team": "Hatayspor",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "1-1",
+      "yellow_cards": 9,
+      "red_cards": 2,
+      "booking_points": 130,
+      "first_card_minute": 27,
+      "first_card_minute_display": "27",
+      "home_fouls": 12,
+      "away_fouls": 17,
+      "fouls_total": 29,
+      "home_yellow_cards": 5,
+      "away_yellow_cards": 4,
+      "home_red_cards": 1,
+      "away_red_cards": 1,
+      "home_booking_points": 70,
+      "away_booking_points": 60,
+      "yellow_1h": 3,
+      "red_1h": 1,
+      "yellow_2h": 5,
+      "red_2h": 1,
+      "cards_1h": 4,
+      "cards_2h": 6,
+      "cards_et": 0,
+      "card_details_raw": "Min 86' [Amarilla - Foul] | Min 84' [Amarilla - Argument] | Min 82' [Amarilla - Foul] | Min 71' [Amarilla - Foul] | Min 58' [Roja - Foul] | Min 53' [Amarilla - Foul] | Min 45+2' [Amarilla - Foul] | Min 42' [Amarilla - Argument] | Min 34' [Amarilla - Foul] | Min 27' [Roja - Foul] | Min Irregular(-5)' [Amarilla - Argument]",
+      "extraction_ok": true,
+      "data_quality": "PARCIAL",
+      "source_file": "INCA_STATS_EMERGENCIA_451_al_946.csv"
+    }
+  ]
+}

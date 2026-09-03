@@ -1,0 +1,87 @@
+{
+  "schema_version": "incastats.referee_history.v9.3",
+  "generated_at": "2026-09-03T19:38:24.066733Z",
+  "referee_id": 787314,
+  "name": "Eren Ozyemiscioglu",
+  "country": "Türkiye",
+  "match_count": 1,
+  "competition_ids": [
+    98
+  ],
+  "competition_names": [
+    "1. Lig"
+  ],
+  "booking_points_policy": {
+    "yellow": 10,
+    "effective_red": 20,
+    "second_yellow_red_counts_as": {
+      "yellow": 1,
+      "effective_red": 1
+    }
+  },
+  "face_original_path": null,
+  "face_web_path": null,
+  "averages": {
+    "avg_yellow_cards": 9.0,
+    "avg_red_cards": 1.0,
+    "avg_booking_points": 110.0,
+    "avg_fouls_total": 23.0,
+    "avg_first_card_minute": 40.0,
+    "avg_cards_1h": 1.0,
+    "avg_cards_2h": 7.0,
+    "avg_cards_et": 0.0,
+    "avg_home_yellow_cards": 5.0,
+    "avg_away_yellow_cards": 4.0,
+    "avg_home_red_cards": 1.0,
+    "avg_away_red_cards": 0.0
+  },
+  "matches": [
+    {
+      "referee_id": 787314,
+      "referee_name": "Eren Ozyemiscioglu",
+      "event_id": 12596589,
+      "date": "09/11/2024",
+      "date_iso": "2024-11-09",
+      "competition_id": 98,
+      "unique_tournament_id": 98,
+      "tournament_id": 101,
+      "competition_name": "1. Lig",
+      "source_tournament_name": "1. Lig",
+      "season_id": 64425,
+      "season_label": "24/25",
+      "round": 12,
+      "home_team_id": 77629,
+      "away_team_id": 7032,
+      "home_team": "Çorum FK",
+      "away_team": "Pendikspor",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "1-0",
+      "yellow_cards": 9,
+      "red_cards": 1,
+      "booking_points": 110,
+      "first_card_minute": 40,
+      "first_card_minute_display": "40",
+      "home_fouls": 12,
+      "away_fouls": 11,
+      "fouls_total": 23,
+      "home_yellow_cards": 5,
+      "away_yellow_cards": 4,
+      "home_red_cards": 1,
+      "away_red_cards": 0,
+      "home_booking_points": 70,
+      "away_booking_points": 40,
+      "yellow_1h": 1,
+      "red_1h": 0,
+      "yellow_2h": 7,
+      "red_2h": 1,
+      "cards_1h": 1,
+      "cards_2h": 7,
+      "cards_et": 0,
+      "card_details_raw": "Min 90+6' [Amarilla - Argument] | Min 90+5' [Amarilla - Argument] | Min 90+5' [Amarilla - Argument] | Min 90+2' [Doble Amarilla - Foul] | Min 88' [Amarilla - Foul] | Min 82' [Amarilla - Foul] | Min 76' [Amarilla - Foul] | Min 40' [Amarilla - Foul] | Min Irregular(-5)' [Amarilla - Argument]",
+      "extraction_ok": true,
+      "data_quality": "PARCIAL",
+      "source_file": "INCA_STATS_EMERGENCIA_451_al_946.csv"
+    }
+  ]
+}

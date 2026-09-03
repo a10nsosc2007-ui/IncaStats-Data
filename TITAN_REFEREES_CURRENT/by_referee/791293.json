@@ -1,0 +1,87 @@
+{
+  "schema_version": "incastats.referee_history.v9.3",
+  "generated_at": "2026-09-03T19:38:24.505141Z",
+  "referee_id": 791293,
+  "name": "Daniel Bruno da Silva Pinto",
+  "country": "Portugal",
+  "match_count": 1,
+  "competition_ids": [
+    239
+  ],
+  "competition_names": [
+    "Liga Portugal 2"
+  ],
+  "booking_points_policy": {
+    "yellow": 10,
+    "effective_red": 20,
+    "second_yellow_red_counts_as": {
+      "yellow": 1,
+      "effective_red": 1
+    }
+  },
+  "face_original_path": null,
+  "face_web_path": null,
+  "averages": {
+    "avg_yellow_cards": 2.0,
+    "avg_red_cards": 0.0,
+    "avg_booking_points": 20.0,
+    "avg_fouls_total": 30.0,
+    "avg_first_card_minute": 56.0,
+    "avg_cards_1h": 0.0,
+    "avg_cards_2h": 2.0,
+    "avg_cards_et": 0.0,
+    "avg_home_yellow_cards": 2.0,
+    "avg_away_yellow_cards": 0.0,
+    "avg_home_red_cards": 0.0,
+    "avg_away_red_cards": 0.0
+  },
+  "matches": [
+    {
+      "referee_id": 791293,
+      "referee_name": "Daniel Bruno da Silva Pinto",
+      "event_id": 16436398,
+      "date": "23/08/2026",
+      "date_iso": "2026-08-23",
+      "competition_id": 239,
+      "unique_tournament_id": 239,
+      "tournament_id": 280,
+      "competition_name": "Liga Portugal 2",
+      "source_tournament_name": "Liga Portugal 2",
+      "season_id": 97470,
+      "season_label": "26/27",
+      "round": 3,
+      "home_team_id": 3017,
+      "away_team_id": 74467,
+      "home_team": "Penafiel",
+      "away_team": "Sporting CP B U21",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "2-0",
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "booking_points": 20,
+      "first_card_minute": 56,
+      "first_card_minute_display": "56",
+      "home_fouls": 21,
+      "away_fouls": 9,
+      "fouls_total": 30,
+      "home_yellow_cards": 2,
+      "away_yellow_cards": 0,
+      "home_red_cards": 0,
+      "away_red_cards": 0,
+      "home_booking_points": 20,
+      "away_booking_points": 0,
+      "yellow_1h": 0,
+      "red_1h": 0,
+      "yellow_2h": 2,
+      "red_2h": 0,
+      "cards_1h": 0,
+      "cards_2h": 2,
+      "cards_et": 0,
+      "card_details_raw": "Min 71' [Amarilla - Foul] | Min 56' [Amarilla - Foul]",
+      "extraction_ok": true,
+      "data_quality": "COMPLETO",
+      "source_file": "INCA_STATS_V9.3_1_al_450.csv"
+    }
+  ]
+}

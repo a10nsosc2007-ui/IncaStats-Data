@@ -1,0 +1,87 @@
+{
+  "schema_version": "incastats.referee_history.v9.3",
+  "generated_at": "2026-09-03T19:38:23.611232Z",
+  "referee_id": 179057,
+  "name": "Angel Hernandez Lorenzo",
+  "country": "Spain",
+  "match_count": 1,
+  "competition_ids": [
+    242
+  ],
+  "competition_names": [
+    "MLS"
+  ],
+  "booking_points_policy": {
+    "yellow": 10,
+    "effective_red": 20,
+    "second_yellow_red_counts_as": {
+      "yellow": 1,
+      "effective_red": 1
+    }
+  },
+  "face_original_path": null,
+  "face_web_path": null,
+  "averages": {
+    "avg_yellow_cards": 2.0,
+    "avg_red_cards": 0.0,
+    "avg_booking_points": 20.0,
+    "avg_fouls_total": 25.0,
+    "avg_first_card_minute": 48.0,
+    "avg_cards_1h": 1.0,
+    "avg_cards_2h": 1.0,
+    "avg_cards_et": 0.0,
+    "avg_home_yellow_cards": 1.0,
+    "avg_away_yellow_cards": 1.0,
+    "avg_home_red_cards": 0.0,
+    "avg_away_red_cards": 0.0
+  },
+  "matches": [
+    {
+      "referee_id": 179057,
+      "referee_name": "Angel Hernandez Lorenzo",
+      "event_id": 13268320,
+      "date": "02/03/2025",
+      "date_iso": "2025-03-02",
+      "competition_id": 242,
+      "unique_tournament_id": 242,
+      "tournament_id": 18,
+      "competition_name": "MLS",
+      "source_tournament_name": "MLS",
+      "season_id": 70158,
+      "season_label": "2025",
+      "round": null,
+      "home_team_id": 2510,
+      "away_team_id": 2512,
+      "home_team": "Colorado Rapids",
+      "away_team": "FC Dallas",
+      "home_goals": 3,
+      "away_goals": 3,
+      "result": "3-3",
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "booking_points": 20,
+      "first_card_minute": 48,
+      "first_card_minute_display": "45+3",
+      "home_fouls": 16,
+      "away_fouls": 9,
+      "fouls_total": 25,
+      "home_yellow_cards": 1,
+      "away_yellow_cards": 1,
+      "home_red_cards": 0,
+      "away_red_cards": 0,
+      "home_booking_points": 10,
+      "away_booking_points": 10,
+      "yellow_1h": 1,
+      "red_1h": 0,
+      "yellow_2h": 1,
+      "red_2h": 0,
+      "cards_1h": 1,
+      "cards_2h": 1,
+      "cards_et": 0,
+      "card_details_raw": "Min 76' [Amarilla - Foul] | Min 45+3' [Amarilla - Time wasting]",
+      "extraction_ok": true,
+      "data_quality": "COMPLETO",
+      "source_file": "INCA_STATS_V9.3_947_al_982.csv"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "schema_version": "incastats.referee_history.v9.3",
+  "generated_at": "2026-09-03T19:38:24.477935Z",
+  "referee_id": 790588,
+  "name": "Adriana Valeria da Silva",
+  "country": "Brazil",
+  "match_count": 1,
+  "competition_ids": [
+    390
+  ],
+  "competition_names": [
+    "Brasileirão Série B"
+  ],
+  "booking_points_policy": {
+    "yellow": 10,
+    "effective_red": 20,
+    "second_yellow_red_counts_as": {
+      "yellow": 1,
+      "effective_red": 1
+    }
+  },
+  "face_original_path": null,
+  "face_web_path": null,
+  "averages": {
+    "avg_yellow_cards": 3.0,
+    "avg_red_cards": 0.0,
+    "avg_booking_points": 30.0,
+    "avg_fouls_total": 26.0,
+    "avg_first_card_minute": 53.0,
+    "avg_cards_1h": 0.0,
+    "avg_cards_2h": 2.0,
+    "avg_cards_et": 0.0,
+    "avg_home_yellow_cards": 1.0,
+    "avg_away_yellow_cards": 2.0,
+    "avg_home_red_cards": 0.0,
+    "avg_away_red_cards": 0.0
+  },
+  "matches": [
+    {
+      "referee_id": 790588,
+      "referee_name": "Adriana Valeria da Silva",
+      "event_id": 13616286,
+      "date": "16/08/2025",
+      "date_iso": "2025-08-16",
+      "competition_id": 390,
+      "unique_tournament_id": 390,
+      "tournament_id": 1449,
+      "competition_name": "Brasileirão Série B",
+      "source_tournament_name": "Brasileirão Série B",
+      "season_id": 72603,
+      "season_label": "2025",
+      "round": 22,
+      "home_team_id": 1967,
+      "away_team_id": 49202,
+      "home_team": "Athletico",
+      "away_team": "Cuiabá",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "1-1",
+      "yellow_cards": 3,
+      "red_cards": 0,
+      "booking_points": 30,
+      "first_card_minute": 53,
+      "first_card_minute_display": "53",
+      "home_fouls": 9,
+      "away_fouls": 17,
+      "fouls_total": 26,
+      "home_yellow_cards": 1,
+      "away_yellow_cards": 2,
+      "home_red_cards": 0,
+      "away_red_cards": 0,
+      "home_booking_points": 10,
+      "away_booking_points": 20,
+      "yellow_1h": 0,
+      "red_1h": 0,
+      "yellow_2h": 2,
+      "red_2h": 0,
+      "cards_1h": 0,
+      "cards_2h": 2,
+      "cards_et": 0,
+      "card_details_raw": "Min 90+3' [Amarilla - Foul] | Min 53' [Amarilla - Foul] | Min Irregular(-5)' [Amarilla - Argument]",
+      "extraction_ok": true,
+      "data_quality": "PARCIAL",
+      "source_file": "INCA_STATS_EMERGENCIA_451_al_946.csv"
+    }
+  ]
+}

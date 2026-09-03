@@ -1,0 +1,87 @@
+{
+  "schema_version": "incastats.referee_history.v9.3",
+  "generated_at": "2026-09-03T19:38:24.489399Z",
+  "referee_id": 790656,
+  "name": "Giovanni Baccini",
+  "country": "Italy",
+  "match_count": 1,
+  "competition_ids": [
+    23
+  ],
+  "competition_names": [
+    "Serie A"
+  ],
+  "booking_points_policy": {
+    "yellow": 10,
+    "effective_red": 20,
+    "second_yellow_red_counts_as": {
+      "yellow": 1,
+      "effective_red": 1
+    }
+  },
+  "face_original_path": null,
+  "face_web_path": null,
+  "averages": {
+    "avg_yellow_cards": 7.0,
+    "avg_red_cards": 0.0,
+    "avg_booking_points": 70.0,
+    "avg_fouls_total": 35.0,
+    "avg_first_card_minute": 6.0,
+    "avg_cards_1h": 2.0,
+    "avg_cards_2h": 5.0,
+    "avg_cards_et": 0.0,
+    "avg_home_yellow_cards": 4.0,
+    "avg_away_yellow_cards": 3.0,
+    "avg_home_red_cards": 0.0,
+    "avg_away_red_cards": 0.0
+  },
+  "matches": [
+    {
+      "referee_id": 790656,
+      "referee_name": "Giovanni Baccini",
+      "event_id": 13981461,
+      "date": "21/09/2025",
+      "date_iso": "2025-09-21",
+      "competition_id": 23,
+      "unique_tournament_id": 23,
+      "tournament_id": 33,
+      "competition_name": "Serie A",
+      "source_tournament_name": "Serie A",
+      "season_id": 76457,
+      "season_label": "25/26",
+      "round": 4,
+      "home_team_id": 2693,
+      "away_team_id": 2704,
+      "home_team": "Fiorentina",
+      "away_team": "Como",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "1-2",
+      "yellow_cards": 7,
+      "red_cards": 0,
+      "booking_points": 70,
+      "first_card_minute": 6,
+      "first_card_minute_display": "6",
+      "home_fouls": 16,
+      "away_fouls": 19,
+      "fouls_total": 35,
+      "home_yellow_cards": 4,
+      "away_yellow_cards": 3,
+      "home_red_cards": 0,
+      "away_red_cards": 0,
+      "home_booking_points": 40,
+      "away_booking_points": 30,
+      "yellow_1h": 2,
+      "red_1h": 0,
+      "yellow_2h": 5,
+      "red_2h": 0,
+      "cards_1h": 2,
+      "cards_2h": 5,
+      "cards_et": 0,
+      "card_details_raw": "Min 89' [Amarilla - Foul] | Min 88' [Amarilla - Argument] | Min 77' [Amarilla - Foul] | Min 67' [Amarilla - Foul] | Min 50' [Amarilla - Foul] | Min 30' [Amarilla - Foul] | Min 6' [Amarilla - Argument]",
+      "extraction_ok": true,
+      "data_quality": "COMPLETO",
+      "source_file": "INCA_STATS_V9.3_1_al_450.csv"
+    }
+  ]
+}
