@@ -6416,34 +6416,285 @@ Liga 1 Te Apuesto,2026,Universitario de Deportes vs Los Chankas CYC,23/08/2026,F
 Liga 1 Te Apuesto,2026,Universitario de Deportes vs Los Chankas CYC,23/08/2026,Carlos Pimienta,D,Los Chankas CYC,90,6.1,0,0,0,0,0,0,0,46,0,0,0,68,0,2,2,4,1,1,0,0,0,0
 Liga 1 Te Apuesto,2026,Universitario de Deportes vs Los Chankas CYC,23/08/2026,Jorge Palomino,M,Los Chankas CYC,90,6.1,0,0,0,0,0,0,0,41,0,0,0,54,0,6,2,7,3,1,0,0,0,0
 Liga 1 Te Apuesto,2026,Universitario de Deportes vs Los Chankas CYC,23/08/2026,André Vasquez,M,Los Chankas CYC,79,6.4,0,0,0,0,0,0,0,32,0,0,0,52,2,5,0,8,0,1,1,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Alexis Cossio,D,Comerciantes Unidos,90,6.9,0,0,0,0,1,0,0,26,3,0,0,46,0,0,1,2,0,1,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Alexis Arias,M,Comerciantes Unidos,90,6.6,0,0,0,0,0,0,0,69,0,0,0,77,0,0,1,1,0,1,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Wilter Ayoví,F,Comerciantes Unidos,45,6.3,0,0,0,0,0,0,0,13,1,0,0,18,0,0,0,1,0,1,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Maximiliano Pérez,F,Comerciantes Unidos,58,6.5,0,0,0,0,3,0,0,13,0,0,0,21,0,1,0,2,0,0,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Fabio Rojas,D,Comerciantes Unidos,90,6.6,0,0,0,0,0,0,0,53,4,0,0,83,1,3,0,6,0,1,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Josuee Herrera,M,Comerciantes Unidos,45,6.6,0,0,0,0,3,2,0,17,4,0,0,26,1,0,0,2,0,0,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Matías Sen,F,Comerciantes Unidos,32,6.6,0,0,0,0,2,0,0,3,0,0,0,9,1,0,0,2,0,0,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Rodrigo Vilca,M,Comerciantes Unidos,90,7.8,1,0,0,0,8,2,0,63,2,0,0,91,1,1,0,7,1,5,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Jhon Sánchez,M,Comerciantes Unidos,45,6.9,0,0,0,0,0,0,0,21,1,0,0,25,0,0,0,3,0,1,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Mathías Carpio,M,Comerciantes Unidos,15,6.6,0,0,0,0,0,0,0,3,0,0,0,8,0,0,0,2,0,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Alexis Cossio,D,Comerciantes Unidos,90,6.9,0,0,0,0,1,0,0,29,3,0,0,50,0,0,1,2,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Alexis Arias,M,Comerciantes Unidos,90,6.6,0,0,0,0,0,0,0,80,1,0,0,88,0,1,1,1,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Wilter Ayoví,F,Comerciantes Unidos,45,6.3,0,0,0,0,0,0,0,14,1,0,0,19,0,0,0,1,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Maximiliano Pérez,F,Comerciantes Unidos,58,6.5,0,0,0,0,3,0,0,12,0,0,0,20,0,1,0,3,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Fabio Rojas,D,Comerciantes Unidos,90,6.6,0,0,0,0,0,0,0,59,5,0,0,95,1,4,0,7,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Josuee Herrera,M,Comerciantes Unidos,45,6.6,0,0,0,0,3,2,0,21,4,0,0,31,1,0,0,3,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Matías Sen,F,Comerciantes Unidos,32,6.6,0,0,0,0,3,0,0,4,0,0,0,13,1,0,0,2,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Rodrigo Vilca,M,Comerciantes Unidos,90,7.8,1,0,0,0,8,2,0,68,2,0,0,98,2,1,0,8,1,5,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Jhon Sánchez,M,Comerciantes Unidos,45,6.9,0,0,0,0,0,0,0,24,1,0,0,27,0,0,0,3,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Mathías Carpio,M,Comerciantes Unidos,15,6.6,0,0,0,0,0,0,0,5,0,0,0,10,0,0,0,2,0,2,0,0,0,0
 Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Matías Córdova,G,Comerciantes Unidos,90,5.5,0,0,0,0,0,0,0,11,0,0,0,24,0,0,0,0,0,0,0,0,0,3
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Flavio Alcedo,D,Comerciantes Unidos,90,6.5,0,0,0,0,2,0,0,59,1,0,0,77,0,4,0,6,3,1,1,0,1,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Agustín Rodriguez,M,Comerciantes Unidos,45,6.6,0,0,0,0,0,0,0,26,0,0,0,31,0,1,1,3,0,1,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Thiago Salinas,M,Comerciantes Unidos,45,6.9,0,0,0,0,1,0,0,36,6,0,0,43,2,0,0,3,3,0,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Jean Carlo Olivares,F,Comerciantes Unidos,39,7.4,1,0,0,0,2,1,0,23,0,0,0,33,0,1,0,3,3,2,1,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Juan Rodríguez,D,Comerciantes Unidos,90,6.5,0,0,0,0,5,0,0,65,0,0,0,81,0,1,1,6,0,0,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Jefferson Orejuela,M,FC Cajamarca,90,6.6,0,0,0,0,0,0,0,25,0,0,0,36,2,0,1,6,2,2,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Paulo Goyoneche,M,FC Cajamarca,23,6.4,0,0,0,0,0,0,0,14,0,0,0,20,0,0,0,0,1,0,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Yordi Vílchez,D,FC Cajamarca,90,6.5,0,0,0,0,0,0,0,13,0,0,0,28,0,0,1,1,0,0,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Carlos Correa,M,FC Cajamarca,67,6.6,0,1,0,0,0,0,0,13,2,0,0,19,0,0,2,1,2,1,1,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Brandon Palacios,M,FC Cajamarca,67,5.4,0,0,0,0,3,1,0,14,0,0,0,24,0,0,0,0,3,0,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Michel Rasmussen,M,FC Cajamarca,73,7.4,1,0,0,0,2,1,0,12,0,0,0,25,0,2,0,3,2,1,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,José Lugo,F,FC Cajamarca,14,6.6,0,0,0,0,1,0,0,3,0,0,0,8,1,0,0,1,1,0,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Arthur Gutiérrez,D,FC Cajamarca,23,6.8,0,0,0,0,0,0,0,9,0,0,0,15,0,0,0,1,0,1,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Mauricio Arrasco,M,FC Cajamarca,90,8.9,2,0,0,0,5,4,0,19,1,0,1,44,2,3,2,7,2,2,1,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Alejandro Pósito,D,FC Cajamarca,90,7,0,1,0,0,0,0,0,10,1,0,0,27,0,2,0,2,0,0,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Carlos Gómez,D,FC Cajamarca,17,6.5,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,1,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Pedro Santiago Cejas,F,FC Cajamarca,85,6.3,0,0,0,0,0,0,0,10,0,0,0,18,0,1,0,3,0,1,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Samuel Aspajo,G,FC Cajamarca,90,7.2,0,0,0,0,0,0,0,22,0,0,0,33,0,0,0,0,0,0,0,0,0,3
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Sebastián Enciso,M,FC Cajamarca,90,7.5,0,1,0,0,2,0,0,18,2,2,0,40,1,1,1,4,1,1,0,0,0,0
-Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Renato Suárez,D,FC Cajamarca,90,6.1,0,0,0,0,0,0,0,8,1,0,0,26,0,1,2,2,3,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Flavio Alcedo,D,Comerciantes Unidos,90,6.5,0,0,0,0,2,0,0,58,1,0,0,78,0,3,0,5,3,1,1,0,1,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Agustín Rodriguez,M,Comerciantes Unidos,45,6.6,0,0,0,0,0,0,0,24,0,0,0,31,0,1,1,3,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Thiago Salinas,M,Comerciantes Unidos,45,6.9,0,0,0,0,1,0,0,40,5,0,0,47,2,1,0,3,3,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Jean Carlo Olivares,D,Comerciantes Unidos,39,7.4,1,0,0,0,2,1,0,24,0,0,0,32,0,0,0,2,3,2,1,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Juan Rodríguez,D,Comerciantes Unidos,90,6.5,0,0,0,0,5,0,0,67,0,0,0,83,1,0,1,5,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Jefferson Orejuela,M,FC Cajamarca,90,6.6,0,0,0,0,0,0,0,24,0,0,0,35,1,1,1,5,2,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Paulo Goyoneche,M,FC Cajamarca,23,6.4,0,0,0,0,0,0,0,16,0,0,0,24,0,0,1,1,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Yordi Vílchez,D,FC Cajamarca,90,6.5,0,0,0,0,0,0,0,16,0,0,0,32,0,0,1,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Carlos Correa,M,FC Cajamarca,67,6.6,0,1,0,0,0,0,0,13,2,0,0,19,0,0,2,1,1,1,1,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Brandon Palacios,M,FC Cajamarca,67,5.4,0,0,0,0,3,1,0,13,0,0,0,24,0,0,0,0,4,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Michel Rasmussen,M,FC Cajamarca,73,7.4,1,0,0,0,2,1,0,12,0,0,0,24,0,2,0,2,2,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,José Lugo,F,FC Cajamarca,14,6.6,0,0,0,0,1,0,0,3,0,0,1,10,1,0,0,1,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Arthur Gutiérrez,D,FC Cajamarca,23,6.8,0,0,0,0,0,0,0,9,0,0,0,17,0,0,0,1,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Mauricio Arrasco,M,FC Cajamarca,90,8.9,2,0,0,0,5,4,0,23,1,0,0,46,2,2,2,6,2,2,1,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Alejandro Pósito,D,FC Cajamarca,90,7,0,1,0,0,0,0,0,10,1,0,0,27,0,1,0,1,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Carlos Gómez,D,FC Cajamarca,17,6.5,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,1,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Pedro Santiago Cejas,F,FC Cajamarca,84,6.3,0,0,0,0,0,0,0,9,0,0,0,18,0,1,0,3,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Samuel Aspajo,G,FC Cajamarca,90,7.2,0,0,0,0,0,0,0,22,0,0,0,34,0,0,0,0,0,0,0,0,0,3
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Sebastián Enciso,M,FC Cajamarca,90,7.5,0,1,0,0,2,0,0,19,2,1,0,47,2,1,1,6,1,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Comerciantes Unidos vs FC Cajamarca,28/08/2026,Renato Suárez,D,FC Cajamarca,90,6.1,0,0,0,0,0,0,0,8,1,0,0,30,0,1,1,3,3,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Oshiro Takeuchi,D,Los Chankas CYC,90,7.2,1,0,0,0,3,2,0,34,2,1,1,62,2,1,0,4,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Jarlin Quintero,F,Los Chankas CYC,90,6.8,0,1,0,0,4,1,0,21,1,0,1,32,3,0,0,7,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Brayan Guevara,D,Los Chankas CYC,66,6.2,0,0,0,0,1,1,0,23,0,0,0,35,1,0,0,2,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Christian Velarde,M,Los Chankas CYC,45,6.1,0,1,0,0,0,0,0,19,1,0,0,28,0,1,1,1,3,0,1,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Kelvin Sánchez,M,Los Chankas CYC,45,6.6,0,0,0,0,0,0,0,26,0,0,0,33,0,0,0,0,1,0,1,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Hairo Camacho,G,Los Chankas CYC,90,6.9,0,0,0,0,0,0,0,31,0,0,0,38,0,0,0,0,0,0,0,0,0,4
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Félix Espinoza,F,Los Chankas CYC,72,7.7,1,0,0,0,3,3,0,25,2,0,1,44,3,0,0,4,0,0,1,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Gonzalo Rizzo,D,Los Chankas CYC,25,3.8,0,0,0,0,0,0,0,24,0,0,0,31,0,0,1,1,1,1,0,1,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Abdiel Ayarza,M,Los Chankas CYC,10,6.3,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Hector González,D,Los Chankas CYC,45,7.7,1,0,0,0,4,1,0,30,1,0,0,43,1,0,1,2,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Ayrthon Quintana,D,Los Chankas CYC,24,7,0,1,0,0,1,0,0,14,3,1,0,33,0,2,0,5,1,3,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Kenji Barrios,D,Los Chankas CYC,18,6.6,0,0,0,0,0,0,0,12,0,0,0,19,1,0,0,1,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Carlos Pimienta,D,Los Chankas CYC,90,5.9,0,0,0,0,2,0,0,54,0,0,0,62,0,1,1,1,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Jorge Palomino,M,Los Chankas CYC,90,7.4,0,0,0,0,0,0,0,63,3,0,0,76,0,2,2,5,1,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,André Vasquez,M,Los Chankas CYC,45,6.6,0,0,0,0,0,0,0,20,1,1,0,24,0,0,1,0,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Michael Kaufman,D,Los Chankas CYC,80,6.4,0,0,0,0,0,0,0,57,0,0,0,75,0,2,0,4,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Pablo Míguez,M,CD Juan Pablo II,90,6.4,0,0,0,0,0,0,0,46,0,0,0,56,0,0,0,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Matias Vega,G,CD Juan Pablo II,90,6.7,0,0,0,0,0,0,0,15,0,0,0,27,0,0,0,1,0,1,0,0,0,5
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Jorge Toledo,D,CD Juan Pablo II,12,6.2,0,0,0,0,0,0,0,6,0,0,0,11,1,0,0,1,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Erinson Ramirez,M,CD Juan Pablo II,69,7.8,2,1,0,0,4,3,0,23,3,1,0,35,1,0,1,1,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Janio Pósito,F,CD Juan Pablo II,90,8.8,1,0,0,0,2,2,0,21,1,0,0,33,0,1,0,7,0,4,0,0,1,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Jack Durán,M,CD Juan Pablo II,31,7.6,0,0,0,0,0,0,0,23,2,0,0,30,0,1,0,1,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Paolo Reyna,D,CD Juan Pablo II,78,6.3,0,0,0,0,0,0,0,29,1,0,0,47,1,4,2,6,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Christian Flores,M,CD Juan Pablo II,59,6.5,0,0,0,0,0,0,0,30,0,0,0,37,0,2,3,2,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Chase Villanueva,F,CD Juan Pablo II,21,6.6,0,1,0,0,1,0,0,8,2,1,0,13,0,0,0,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Juan Pablo Goicochea,F,CD Juan Pablo II,78,6.9,0,0,0,0,2,1,0,26,4,0,0,40,3,2,0,5,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Jack Carhuallanqui,M,CD Juan Pablo II,12,6.6,0,0,0,0,0,0,0,6,0,0,0,10,0,1,0,2,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Alvaro Rojas,M,CD Juan Pablo II,90,6.6,1,0,0,0,5,2,0,39,0,0,0,50,0,1,0,1,3,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Matias Almiron,D,CD Juan Pablo II,90,6.7,0,0,0,0,1,0,0,31,1,0,0,49,0,3,0,7,0,1,1,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Josue Torres,M,CD Juan Pablo II,21,6.1,0,0,0,0,1,0,0,7,1,0,0,9,0,0,0,0,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Nilton Ramirez,M,CD Juan Pablo II,69,6.8,0,0,0,0,3,0,0,21,1,0,0,32,1,0,0,2,2,1,0,0,1,0
+Liga 1 Te Apuesto,2026,Los Chankas CYC vs CD Juan Pablo II,29/08/2026,Fabio Agurto,D,CD Juan Pablo II,90,6.2,0,0,0,0,0,0,0,47,0,0,0,63,0,0,1,4,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Gianluca Lapadula,F,Universitario de Deportes,66,6.4,0,0,0,0,1,0,0,15,2,0,0,23,0,0,0,3,0,3,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Andy Polo,D,Universitario de Deportes,90,7.6,1,0,0,0,1,1,0,25,0,0,0,40,1,2,0,3,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Anderson Santamaría,D,Universitario de Deportes,45,6.7,0,0,0,0,0,0,0,14,0,0,0,17,0,0,0,2,1,0,1,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Jorge Murrugarra,M,Universitario de Deportes,24,6.6,0,0,0,0,1,0,0,13,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Matías Di Benedetto,D,Universitario de Deportes,90,6.9,0,0,0,0,0,0,0,25,0,0,0,32,1,1,0,4,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Williams Riveros,D,Universitario de Deportes,90,7.5,1,0,0,0,1,1,0,27,0,0,0,39,1,1,0,4,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Lisandro Alzugaray,F,Universitario de Deportes,24,7.1,0,1,0,0,3,2,0,8,1,1,0,13,0,0,1,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Jairo Concha,M,Universitario de Deportes,90,9.7,1,1,0,0,3,1,0,50,6,0,0,82,6,1,1,13,0,6,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Jorge Gutiérrez,D,Universitario de Deportes,11,6.6,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,1,1,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Juan Manuel Requena,M,Universitario de Deportes,66,6.6,0,0,0,0,1,0,0,40,1,0,0,49,0,3,1,4,2,0,1,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Caín Fara,D,Universitario de Deportes,45,6,0,0,0,0,4,2,0,27,0,0,0,41,1,0,0,3,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Adrián Quiroz,M,Universitario de Deportes,29,6.2,0,0,0,0,0,0,0,13,1,0,0,20,0,1,1,1,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Diego Romero,G,Universitario de Deportes,90,6.7,0,0,0,0,0,0,0,17,0,0,0,33,0,0,0,0,0,0,0,0,0,5
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Alex Valera,F,Universitario de Deportes,90,7.6,1,0,0,0,5,2,0,33,1,0,0,45,0,0,0,5,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Piero Quispe,M,Universitario de Deportes,61,6.8,0,0,0,0,1,0,0,34,2,0,0,52,1,1,1,5,0,3,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,César Inga,D,Universitario de Deportes,83,7.1,0,1,0,0,0,0,0,27,1,0,0,48,3,2,2,6,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Arquímedes Figuera,M,Universidad Técnica de Cajamarca,90,6.3,0,0,0,0,1,1,0,45,1,0,0,56,0,1,1,2,2,0,1,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Marlon de Jesús,F,Universidad Técnica de Cajamarca,9,6.5,0,0,0,0,2,0,0,1,0,0,0,3,0,0,0,1,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Abdiel Arroyo,F,Universidad Técnica de Cajamarca,81,7.4,1,0,0,0,2,1,0,19,0,0,0,29,0,1,0,2,1,0,1,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Marcos Lliuya,M,Universidad Técnica de Cajamarca,90,7.4,0,1,0,0,4,1,0,53,3,0,0,69,2,0,0,2,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Adolfo Muñoz,M,Universidad Técnica de Cajamarca,90,6.1,0,0,0,0,1,1,0,23,2,0,0,36,1,1,2,2,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Bruno Duarte,D,Universidad Técnica de Cajamarca,81,5.9,0,0,0,0,0,0,0,24,0,0,0,37,0,0,5,4,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Luis Garro,D,Universidad Técnica de Cajamarca,63,6.2,0,0,0,0,0,0,0,31,0,0,0,46,0,2,0,2,1,0,1,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,David Camacho,M,Universidad Técnica de Cajamarca,90,6.9,0,1,0,0,1,0,0,29,4,1,0,47,0,5,0,8,4,3,1,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Carlos Junior Huerto,D,Universidad Técnica de Cajamarca,57,6.6,0,0,0,0,0,0,0,22,0,0,0,33,0,0,1,1,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Ignacio Barrios,G,Universidad Técnica de Cajamarca,45,6.6,0,0,0,0,0,0,0,11,0,0,0,16,0,0,0,0,0,0,0,0,0,3
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Francesco Cavagna,D,Universidad Técnica de Cajamarca,90,5.5,0,0,0,0,0,0,0,29,0,0,0,35,0,0,0,0,3,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Luis Arce,M,Universidad Técnica de Cajamarca,90,7.3,1,0,0,0,5,3,0,48,1,0,0,68,0,1,2,1,3,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Dylan Caro,D,Universidad Técnica de Cajamarca,33,5.8,0,0,0,0,0,0,0,11,1,0,0,16,0,0,0,0,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Ricardo Bettocchi,G,Universidad Técnica de Cajamarca,45,6.1,0,0,0,0,0,0,0,10,0,0,0,13,0,0,0,0,0,0,0,0,0,2
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Gilmar Paredes,D,Universidad Técnica de Cajamarca,27,5.6,0,0,0,0,0,0,0,13,0,0,0,20,1,0,0,1,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Universidad Técnica de Cajamarca vs Universitario de Deportes,29/08/2026,Joshua Cantt,M,Universidad Técnica de Cajamarca,9,6.6,0,0,0,0,0,0,0,12,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Paolo Guerrero,F,Alianza Lima,45,6.8,0,0,0,0,1,0,0,9,0,0,0,13,1,0,0,4,0,0,0,0,1,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Fernando Gaibor,M,Alianza Lima,90,8.3,0,0,0,0,4,0,0,52,7,1,0,77,0,3,1,3,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Luis Advíncula,D,Alianza Lima,75,8.3,0,0,0,0,1,0,0,23,2,1,0,47,1,1,0,2,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Eryc Castillo,M,Alianza Lima,90,6.9,0,0,0,0,4,2,0,27,2,0,2,45,4,2,0,7,2,0,0,0,2,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Alejandro Duarte,G,Alianza Lima,90,7,0,0,0,0,0,0,0,24,0,0,0,36,0,0,0,1,0,0,0,0,0,3
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Esteban Pavez,M,Alianza Lima,90,8.1,0,0,0,0,2,0,0,91,1,0,0,97,0,0,1,1,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Jairo Vélez,M,Alianza Lima,75,7.8,0,0,0,0,3,0,0,36,4,0,0,66,5,2,1,11,1,2,1,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Renzo Garcés,D,Alianza Lima,90,7.4,0,0,0,0,2,0,0,59,2,1,0,71,0,2,1,6,3,2,1,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Nicolás Díaz,D,Alianza Lima,90,7.7,0,0,0,0,0,0,0,57,4,0,0,87,3,4,2,9,1,1,1,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Christian Neira,M,Alianza Lima,45,6.6,0,0,0,0,2,2,0,20,0,0,0,36,1,1,0,5,1,3,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Federico Girotti,F,Alianza Lima,45,6.4,0,0,0,0,4,1,0,12,1,0,1,25,0,1,0,7,1,0,0,0,2,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Cristian Carbajal,D,Alianza Lima,15,6.7,0,0,0,0,1,0,0,5,0,0,0,12,0,0,1,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Luis Ramos,F,Alianza Lima,15,6.4,0,0,0,0,1,0,0,3,1,0,0,5,0,0,0,1,0,0,0,0,1,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Alessandro Burlamaqui,M,Alianza Lima,15,6.6,0,0,0,0,0,0,0,8,0,0,0,10,0,0,0,1,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Alan Cantero,F,Alianza Lima,45,6.8,0,0,0,0,4,1,0,12,2,0,0,33,0,1,0,8,1,3,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Mateo Antoni,D,Alianza Lima,75,6.9,0,0,0,0,1,0,0,45,0,0,0,58,0,3,1,8,1,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Francisco Arancibia,M,Deportivo Garcilaso,82,7.2,0,0,0,0,0,0,0,12,1,1,0,23,1,0,0,4,1,3,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Patrick Zubczuk,G,Deportivo Garcilaso,90,8.9,0,0,0,0,0,0,0,32,0,0,0,43,0,0,0,0,0,0,0,0,0,6
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Agustin Gomez,D,Deportivo Garcilaso,90,7,0,0,0,0,1,0,0,13,0,0,1,32,0,1,1,2,1,0,1,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Kevin Sandoval,M,Deportivo Garcilaso,90,6.6,0,0,0,0,1,1,0,18,1,0,0,40,3,2,1,6,4,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Aldair Salazar,D,Deportivo Garcilaso,90,6.6,0,0,0,0,0,0,0,6,0,0,0,18,0,3,1,7,1,1,1,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Christopher Olivares,F,Deportivo Garcilaso,27,6.4,0,0,0,0,1,1,0,5,0,0,1,12,0,0,1,1,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Facundo Castelli,F,Deportivo Garcilaso,63,6.1,0,0,0,0,0,0,0,10,0,0,0,20,0,0,0,4,5,1,1,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Agustín González,M,Deportivo Garcilaso,90,7.5,0,0,0,0,1,1,0,29,1,0,0,51,0,5,2,7,0,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Beto Da Silva,F,Deportivo Garcilaso,88,7.4,1,0,0,0,2,1,0,17,0,0,0,37,3,1,0,5,2,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Carlos Ramos,M,Deportivo Garcilaso,90,6.9,0,0,0,0,2,1,0,21,1,0,0,40,0,2,4,5,0,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Erick Canales,D,Deportivo Garcilaso,90,6.5,0,0,0,0,0,0,0,18,0,0,0,29,0,3,1,4,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Adrián Ascues,M,Deportivo Garcilaso,8,6.5,0,0,0,0,0,0,0,4,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Sharif Ramírez,F,Deportivo Garcilaso,8,6.4,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Alianza Lima vs Deportivo Garcilaso,29/08/2026,Xavi Moreno,D,Deportivo Garcilaso,90,6.8,0,0,0,0,0,0,0,14,1,0,0,38,0,3,0,3,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Cristian Penilla,M,Alianza Atlético de Sullana,76,7.6,1,0,0,0,1,1,0,20,1,0,0,36,3,1,0,5,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Jairo Molina,F,Alianza Atlético de Sullana,83,7.7,1,0,0,0,4,2,0,9,1,0,1,19,0,0,0,3,1,1,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Anthony Gordillo,D,Alianza Atlético de Sullana,90,6.5,0,0,0,0,0,0,0,25,0,0,0,48,0,3,1,4,1,1,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,José Luján,D,Alianza Atlético de Sullana,90,7.8,1,0,0,0,1,1,0,24,0,0,0,36,0,1,1,6,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Steven Rivadeneyra,G,Alianza Atlético de Sullana,90,7.3,0,0,0,0,0,0,0,25,0,0,0,39,0,0,0,0,0,0,0,0,0,2
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Ariel Muñoz,M,Alianza Atlético de Sullana,76,6.7,0,0,0,0,3,0,0,26,1,0,0,37,1,0,0,2,2,1,1,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,José Ingratti,F,Alianza Atlético de Sullana,59,6.4,0,0,0,0,2,0,0,10,1,0,0,18,0,0,0,2,2,0,1,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Franchesco Flores,M,Alianza Atlético de Sullana,14,6.8,0,0,0,0,1,0,0,4,0,0,0,10,1,0,0,2,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Jimmy Pérez,M,Alianza Atlético de Sullana,14,6.8,0,0,0,0,0,0,0,12,2,0,0,18,1,0,0,1,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Guillermo Larios,F,Alianza Atlético de Sullana,31,6.7,0,1,0,0,1,0,0,10,1,0,0,17,0,0,1,1,0,1,0,0,1,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,German Diaz,M,Alianza Atlético de Sullana,90,7.5,0,0,0,0,3,1,0,35,2,0,0,51,0,4,1,6,0,2,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Jorge del Castillo,M,Alianza Atlético de Sullana,14,7.6,1,0,0,0,1,1,0,7,0,0,0,12,0,0,0,2,2,2,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Stefano Fernández,M,Alianza Atlético de Sullana,90,6.8,0,1,0,0,0,0,0,29,3,2,0,52,0,1,0,2,2,1,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Román Suárez,D,Alianza Atlético de Sullana,90,6.6,0,0,0,0,0,0,0,33,0,0,0,44,0,1,1,3,2,1,1,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Hernan Lupú,M,Alianza Atlético de Sullana,83,6.7,0,0,0,0,2,0,0,27,1,0,0,38,0,2,0,6,1,1,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Valentín Robaldo,F,Alianza Atlético de Sullana,14,6.9,0,0,0,0,0,0,0,5,0,0,0,11,2,0,0,3,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Juan Diego Lojas,D,CD Moquegua,90,5.9,0,0,0,0,2,0,0,51,0,0,1,68,0,1,2,3,2,2,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Aldair Perleche,D,CD Moquegua,90,6.1,0,0,0,0,1,1,0,22,0,0,0,31,0,0,0,2,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Cristian Enciso,D,CD Moquegua,90,6.1,0,0,0,0,0,0,0,53,0,0,0,68,0,2,1,5,0,2,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Bryan Angulo,F,CD Moquegua,81,7,1,0,0,0,1,1,0,19,0,0,0,25,0,0,0,2,0,2,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Carlos Grados,G,CD Moquegua,90,6.7,0,0,0,0,0,0,0,30,0,0,0,35,0,0,0,0,0,0,0,0,0,2
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Diego Ramírez,M,CD Moquegua,45,6.5,0,0,0,0,0,0,0,18,0,0,0,23,0,1,0,3,2,1,1,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Nicolas Chavez,M,CD Moquegua,45,6.5,0,0,0,0,0,0,0,27,2,1,0,36,0,3,0,3,2,0,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Yorman Zapata,F,CD Moquegua,68,5.6,0,0,0,0,1,0,0,5,1,0,0,20,0,1,0,2,2,1,0,1,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Edgar Lastre,M,CD Moquegua,90,7.7,0,1,0,0,3,1,0,19,2,1,0,41,1,0,0,6,0,4,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Cristian Mejia,M,CD Moquegua,90,6.1,0,0,0,0,0,0,0,31,1,0,0,36,1,0,1,4,3,0,0,0,1,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Jimmy Jiménez,D,CD Moquegua,9,6.3,0,0,0,0,0,0,0,4,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Allonso Davila,M,CD Moquegua,9,6.8,0,0,0,0,0,0,0,6,2,0,0,12,0,0,0,2,0,2,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Yhonier López,F,CD Moquegua,31,6.3,0,0,0,0,2,0,0,10,1,0,0,24,2,1,0,6,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Eros Montenegro,D,CD Moquegua,81,6.2,0,0,0,0,0,0,0,26,0,0,0,44,0,2,0,2,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,CD Moquegua vs Alianza Atlético de Sullana,30/08/2026,Ricardo Chipao ,M,CD Moquegua,59,6.8,0,0,0,0,0,0,0,32,0,0,0,41,0,1,0,4,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Javier Sanguinetti,M,Sport Huancayo,56,7.8,1,0,0,0,3,1,0,15,0,0,0,25,0,0,0,1,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Nahuel Luján,M,Sport Huancayo,89,6.6,0,1,0,0,2,2,0,22,1,0,0,43,1,2,1,7,1,3,1,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Daniel Porozo,F,Sport Huancayo,34,6.2,0,0,0,0,0,0,0,4,0,0,0,13,1,0,0,3,3,1,0,0,1,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Ricardo Salcedo,M,Sport Huancayo,85,6.4,0,0,0,0,0,0,0,21,0,0,0,33,1,3,2,5,4,1,2,1,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Ángel Zamudio,G,Sport Huancayo,90,6.4,0,0,0,0,0,0,0,26,0,0,0,35,0,0,0,0,0,0,0,0,0,2
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Ronal Huaccha,F,Sport Huancayo,56,6.5,0,0,0,0,0,0,0,3,0,0,0,5,0,0,0,0,1,0,0,0,1,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Rick Campodonico,M,Sport Huancayo,19,6.5,0,0,0,0,0,0,0,6,1,0,0,16,1,2,0,3,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Diego Carabaño,M,Sport Huancayo,89,8,1,1,0,0,2,1,0,18,2,1,0,28,0,0,1,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Jimmy Valoyes,D,Sport Huancayo,90,6.6,0,0,0,0,0,0,0,16,0,0,0,29,0,0,2,3,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Hugo Ángeles,D,Sport Huancayo,90,7.8,1,0,0,0,1,1,0,25,0,0,0,51,0,6,0,9,2,3,1,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Jean Franco Falconi,D,Sport Huancayo,90,6.2,0,0,0,0,1,0,0,17,0,0,0,38,0,2,1,2,2,0,1,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Marcelo Gaona,D,Sport Huancayo,90,6.7,0,0,0,0,0,0,0,10,0,0,0,20,0,1,0,4,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Aldo Quiñonez,M,Sport Huancayo,1,0,0,0,0,0,0,0,0,4,0,0,0,4,0,0,0,0,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Yonatan Murillo,D,Sport Huancayo,1,0,0,0,0,0,0,0,0,1,0,0,0,4,0,1,0,2,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Piero Magallanes,M,Sport Huancayo,71,6.3,0,0,0,0,0,0,0,16,2,0,0,29,1,0,0,4,2,3,1,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Edu Villar,M,Sport Huancayo,34,6.3,0,0,0,0,0,0,0,9,0,0,0,10,0,0,0,1,2,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Hernán Rengifo,F,Asociación Deportiva Tarma,45,6.5,0,0,0,0,0,0,0,6,0,0,0,7,0,0,0,1,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Joao Rojas,M,Asociación Deportiva Tarma,76,6.6,0,0,0,0,2,1,0,20,0,0,0,46,2,0,0,6,0,3,0,0,1,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,John Narváez,D,Asociación Deportiva Tarma,32,5.7,0,0,0,0,0,0,0,11,0,0,0,12,0,0,0,0,3,0,1,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Carlos Solis,G,Asociación Deportiva Tarma,90,5.5,0,0,0,0,0,0,0,17,0,0,0,24,0,0,0,0,0,0,1,0,0,2
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Ángel Ojeda,D,Asociación Deportiva Tarma,32,6.2,0,0,0,0,0,0,0,10,1,0,0,12,0,1,0,1,2,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Jonathan Bauman,F,Asociación Deportiva Tarma,45,6.5,0,0,0,0,2,1,0,5,0,0,0,12,0,0,0,2,1,2,1,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Jeremy Canela,M,Asociación Deportiva Tarma,90,6.4,0,0,0,0,2,0,0,21,0,0,0,39,0,0,1,4,2,4,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Alejandro Ramos,D,Asociación Deportiva Tarma,90,6.2,0,0,0,0,1,0,0,37,2,0,0,59,1,1,3,2,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Orlando Nuñez,D,Asociación Deportiva Tarma,45,6,0,0,0,0,0,0,0,18,0,0,0,29,0,1,0,2,0,1,0,0,1,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Luis Pérez,M,Asociación Deportiva Tarma,90,6.7,0,0,0,0,0,0,0,46,0,0,0,59,0,2,1,8,2,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Joaquin Pereyra,D,Asociación Deportiva Tarma,58,6.7,0,0,0,0,1,0,0,39,0,0,0,47,0,1,1,7,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Jhair Soto,D,Asociación Deportiva Tarma,90,6,0,0,0,0,1,0,0,63,1,0,0,72,0,2,1,2,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Juan Lucumí,M,Asociación Deportiva Tarma,90,6.2,0,0,0,0,1,0,0,16,0,0,0,35,1,0,0,4,0,2,0,0,1,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Said Peralta,F,Asociación Deportiva Tarma,45,6.4,0,0,0,0,0,0,0,8,0,0,0,11,0,1,0,1,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Jair Reyes,M,Asociación Deportiva Tarma,58,6.9,0,0,0,0,1,0,0,31,0,0,0,44,1,3,0,6,2,1,1,0,0,0
+Liga 1 Te Apuesto,2026,Asociación Deportiva Tarma vs Sport Huancayo,30/08/2026,Jhojan Garcilazo,F,Asociación Deportiva Tarma,14,6.9,0,0,0,0,1,0,1,1,0,0,0,10,1,1,0,4,0,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Hernán Barcos,F,Club Sporting Cristal,22,6.6,0,0,0,0,1,0,0,13,1,0,0,24,0,3,0,5,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Yoshimar Yotún,M,Club Sporting Cristal,90,6.6,0,0,0,0,0,0,0,56,0,0,0,72,0,1,0,4,2,3,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Michael Hoyos,F,Club Sporting Cristal,68,6.6,0,0,0,0,1,0,0,14,1,0,0,25,2,0,0,6,1,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Irven Ávila,F,Club Sporting Cristal,22,6.5,0,0,0,0,0,0,0,16,2,0,0,24,0,0,0,2,0,0,0,0,1,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Miguel Araujo,D,Club Sporting Cristal,90,7.2,0,0,0,0,0,0,0,34,0,0,0,49,0,2,2,4,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Leandro Sosa,D,Club Sporting Cristal,68,6.5,0,0,0,0,0,0,0,15,0,0,0,30,1,2,1,3,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Martín Távara,M,Club Sporting Cristal,81,6.9,0,0,0,0,0,0,0,43,0,0,0,58,2,2,0,8,0,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Cristiano,D,Club Sporting Cristal,90,7.5,0,0,0,0,0,0,0,42,1,0,0,67,1,4,1,8,2,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Juan Cruz Gonzalez,D,Club Sporting Cristal,22,6.8,0,0,0,0,2,1,0,13,0,0,0,23,1,2,1,4,1,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Santiago González,F,Club Sporting Cristal,45,6.2,0,0,0,0,0,0,0,7,0,0,0,10,0,0,0,1,2,1,1,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Agustín Álvarez,M,Club Sporting Cristal,9,6.9,0,0,0,0,0,0,0,15,0,0,0,18,1,0,0,3,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Rafael Lutiger,D,Club Sporting Cristal,36,7.5,0,0,0,0,0,0,0,11,0,0,0,20,0,1,1,2,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Diego Enríquez,G,Club Sporting Cristal,90,6.8,0,0,0,0,0,0,0,25,0,0,0,38,0,0,0,0,0,0,0,0,0,3
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Juan Manuel Cuesta,M,Club Sporting Cristal,68,6.3,0,0,0,0,0,0,0,20,0,0,0,31,0,0,0,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Leonardo Díaz,D,Club Sporting Cristal,54,6.6,0,0,0,0,0,0,0,24,0,0,0,35,1,0,0,2,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Catriel Cabellos,M,Club Sporting Cristal,41,5.7,0,0,0,0,0,0,0,13,0,0,0,17,0,0,0,3,1,3,0,1,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Maxloren Castro,M,Club Sporting Cristal,45,6.6,0,0,0,0,1,0,0,11,0,0,0,25,0,4,1,5,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Carlos Zambrano,D,Sport Boys,90,7.7,0,0,0,0,0,0,0,70,0,0,0,76,1,1,0,4,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Christian Cueva,M,Sport Boys,68,6.5,0,0,0,0,3,3,0,26,1,0,0,38,1,0,0,2,0,1,0,0,1,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Miguel Trauco,D,Sport Boys,11,6.5,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Hansell Riojas,D,Sport Boys,68,7.3,0,0,0,0,0,0,0,62,0,0,0,74,0,1,2,4,1,2,1,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Hernan Da Campo,M,Sport Boys,45,7.5,1,0,0,0,2,1,0,16,1,0,0,27,0,1,3,2,2,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Gustavo Dulanto,D,Sport Boys,22,6.8,0,0,0,0,0,0,0,12,0,0,0,17,0,1,0,1,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Luis Urruti,M,Sport Boys,86,6.7,0,0,0,0,2,0,0,23,0,0,0,41,0,4,0,6,1,2,0,0,1,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Diego Melián,G,Sport Boys,90,6.8,0,0,0,0,0,0,0,29,0,0,0,37,0,0,0,1,0,0,0,0,0,1
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Oslimg Mora,M,Sport Boys,90,7,0,0,0,0,0,0,0,55,0,0,0,67,0,2,0,5,1,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Yuriel Celi,M,Sport Boys,28,7,0,0,0,0,0,0,0,12,1,1,0,24,0,2,0,2,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Percy Liza,F,Sport Boys,22,6.6,0,0,0,0,1,0,0,10,0,0,1,20,1,1,0,3,1,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Mathias Llontop,D,Sport Boys,90,6.8,0,1,0,0,0,0,0,37,2,0,0,64,1,0,1,1,4,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Emilio Saba,D,Sport Boys,90,6.8,0,0,0,0,1,0,0,19,1,0,0,44,0,1,1,2,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Erick Gonzales,M,Sport Boys,45,6.9,0,0,0,0,0,0,0,30,1,0,0,35,0,0,1,3,3,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Jostin Alarcón,M,Sport Boys,62,6.1,0,0,0,0,1,0,0,21,1,1,0,33,1,0,0,2,3,0,1,0,0,0
+Liga 1 Te Apuesto,2026,Sport Boys vs Club Sporting Cristal,30/08/2026,Pablo Erustes,F,Sport Boys,90,6.6,0,0,0,0,3,0,0,19,0,0,1,31,0,0,1,2,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Maximiliano Amondarain,D,Cienciano,90,6.6,0,0,0,0,0,0,0,39,0,0,0,50,0,1,0,4,1,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Ray Sandoval,M,Cienciano,9,6.6,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Neri Bandiera,M,Cienciano,90,6.6,0,0,0,0,1,0,0,21,2,1,0,30,0,1,0,6,3,3,0,0,1,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Ademar Robles,M,Cienciano,86,6.4,0,0,0,0,0,0,0,27,2,0,0,54,2,0,0,3,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Carlos Cabello,M,Cienciano,90,6.5,0,0,0,0,2,1,0,18,1,0,0,31,1,0,1,2,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Gerson Barreto,M,Cienciano,86,7,0,0,0,0,3,1,0,30,1,0,0,50,1,3,2,6,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Ítalo Espinoza,G,Cienciano,90,6.7,0,0,0,0,0,0,0,34,0,0,0,46,0,0,0,0,0,0,0,0,0,3
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Carlos Garcés,F,Cienciano,90,8.2,1,0,0,0,5,2,0,7,0,0,2,20,1,1,0,6,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Claudio Núñez,D,Cienciano,45,6.5,0,0,0,0,0,0,0,19,2,0,0,32,0,1,3,3,1,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Santiago Arias,M,Cienciano,90,5.9,0,0,0,0,5,0,0,57,3,0,0,79,0,3,2,5,4,2,1,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Matías Succar,F,Cienciano,90,6.4,0,0,0,0,3,1,0,18,2,0,0,37,2,1,0,6,1,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Kevin Becerra,D,Cienciano,90,6.9,0,1,0,0,2,1,0,46,1,0,0,59,0,3,0,5,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Alonso Yovera,D,Cienciano,45,6.5,0,0,0,0,1,0,0,22,1,0,0,31,0,0,1,1,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Gonzalo Aguirre,M,Cienciano,9,6.4,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,2,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Alvaro Ampuero,D,Cusco FC,90,6.4,0,0,0,0,0,0,0,23,0,0,0,35,0,0,0,4,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Andy Vidal,G,Cusco FC,90,8.1,0,0,0,0,0,0,0,43,1,0,0,65,0,0,0,2,1,0,0,0,0,5
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Facundo Callejo,F,Cusco FC,73,6.3,0,0,0,0,1,0,0,9,0,0,0,16,0,0,0,2,2,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,José Miguel Manzaneda,M,Cusco FC,17,6.5,0,0,0,0,0,0,0,6,0,0,0,7,0,0,0,1,1,1,0,0,3,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Lucas Colitto,M,Cusco FC,81,7.4,1,0,0,0,3,1,0,27,0,0,0,44,0,2,1,2,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Iván Colman,M,Cusco FC,90,6.4,0,0,0,0,2,0,0,49,2,0,1,68,1,1,0,7,1,4,1,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Nicolás Silva,F,Cusco FC,73,6.7,0,0,0,0,1,1,0,18,1,0,0,27,0,3,0,3,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Carlo Diez,M,Cusco FC,9,6.5,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Jean Carlos Montaño,M,Cusco FC,73,6.7,0,0,0,0,0,0,0,21,0,0,0,31,0,0,2,2,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Juan Tévez,F,Cusco FC,17,7,0,0,0,0,2,1,0,3,1,1,0,6,0,0,0,1,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,José Zevallos,D,Cusco FC,90,6.5,0,0,0,0,0,0,0,42,1,0,0,66,2,3,1,6,2,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Oswaldo Valenzuela,M,Cusco FC,11,5.2,0,0,0,0,0,0,0,2,0,0,0,7,0,0,0,0,1,0,2,1,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Ricardo Lagos,D,Cusco FC,90,7,0,0,0,0,0,0,0,29,1,0,0,55,0,2,3,7,1,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Carlos Gamarra,D,Cusco FC,90,6.8,0,0,0,0,0,0,0,17,0,0,0,31,0,1,0,7,2,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Cienciano vs Cusco FC,30/08/2026,Diego Soto,M,Cusco FC,90,6.8,0,1,0,0,1,0,0,37,3,1,0,53,0,3,0,5,1,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Horacio Orzan,M,Melgar,19,6.9,0,0,0,0,0,0,0,28,1,0,0,33,0,0,0,1,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Bernardo Cuesta,F,Melgar,90,6.6,0,0,0,0,4,3,0,19,3,1,0,26,0,1,0,1,0,0,0,0,2,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Cristian Bordacahar,M,Melgar,62,7.3,0,0,0,0,0,0,0,37,3,0,0,49,1,1,0,4,0,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Leonel González,D,Melgar,90,6.9,0,0,0,0,0,0,0,63,0,0,0,71,0,1,0,4,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Jhonny Vidales,F,Melgar,90,5.1,0,0,0,0,3,2,0,26,0,0,1,40,1,1,0,2,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Juan Escobar,D,Melgar,90,6.5,0,0,0,0,1,0,0,60,0,0,0,74,0,2,0,6,1,1,1,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Kevin Minda,M,Melgar,71,6.8,0,0,0,0,1,0,0,55,0,0,0,62,0,0,0,1,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Nelson Cabanillas,D,Melgar,71,6.6,0,0,0,0,2,1,0,30,1,0,0,45,0,1,0,5,1,4,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Lautaro Guzmán,M,Melgar,10,7.2,0,0,0,0,1,0,0,10,3,0,0,15,0,0,1,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Franco Zanelatto,M,Melgar,18,6.5,0,0,0,0,0,0,0,8,0,0,0,11,0,0,1,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Jorge Cabezudo,G,Melgar,90,6.8,0,0,0,0,0,0,0,21,0,0,0,27,0,0,0,0,0,0,0,0,0,1
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Walter Tandazo,M,Melgar,90,6.9,0,0,0,0,4,0,1,50,2,0,0,63,1,0,1,1,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Nicolás Quagliata,M,Melgar,72,6.1,0,0,0,0,3,2,0,28,2,0,0,44,0,0,0,1,1,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Jefferson Caceres,M,Melgar,28,7.5,0,0,0,0,1,1,1,13,0,0,0,23,1,1,1,3,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Matías Lazo,D,Melgar,80,7.5,0,0,0,0,1,0,0,70,0,0,0,85,1,2,1,8,0,2,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Matías Zegarra,F,Melgar,19,6.3,0,0,0,0,1,0,0,11,1,0,0,21,0,0,0,2,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Raúl Ruidíaz,F,Club Atlético Grau,45,6.3,0,0,0,0,0,0,0,8,0,0,0,9,0,1,0,1,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Pablo Lavandeira,M,Club Atlético Grau,24,6.5,0,0,0,0,0,0,0,6,0,0,0,13,1,0,0,2,1,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Lucas Acevedo,D,Club Atlético Grau,38,6.8,0,0,0,0,0,0,0,20,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Adrián Fernández,F,Club Atlético Grau,45,6.2,0,0,0,0,1,0,0,7,0,0,0,17,1,0,0,3,2,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Rafael Guarderas,M,Club Atlético Grau,90,6.9,0,0,0,0,1,0,0,45,0,0,0,53,0,1,1,1,2,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Patricio Álvarez,G,Club Atlético Grau,90,8.6,0,0,0,0,0,0,0,23,0,0,0,44,0,0,0,1,0,0,0,0,0,9
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Rodrigo Tapia,D,Club Atlético Grau,90,7.9,0,0,0,0,0,0,0,45,2,0,0,63,0,2,1,3,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Ignacio Tapia,D,Club Atlético Grau,66,6.7,0,0,0,0,0,0,0,23,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Diego Barreto,M,Club Atlético Grau,90,8,1,0,0,0,2,1,0,39,0,0,0,53,2,1,0,4,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Paulo de la Cruz,M,Club Atlético Grau,66,7,0,0,0,0,1,1,0,27,1,0,0,31,0,0,0,1,1,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Mauro Da Luz,F,Club Atlético Grau,66,7,0,0,0,0,1,0,0,20,0,0,0,35,3,2,0,7,2,1,1,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Christian Vásquez,D,Club Atlético Grau,90,7.1,0,0,0,0,1,0,0,30,3,0,0,53,0,3,0,4,0,1,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Freddy Oncoy,M,Club Atlético Grau,52,6.7,0,0,0,0,0,0,0,20,0,0,0,26,0,0,1,0,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Aldair Vasquez,M,Club Atlético Grau,24,6.6,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Gabriel Alfaro,D,Club Atlético Grau,90,6.8,0,0,0,0,0,0,0,20,0,0,0,35,0,0,0,0,1,0,0,0,0,0
+Liga 1 Te Apuesto,2026,Club Atlético Grau vs Melgar,01/09/2026,Adrián De la Cruz,M,Club Atlético Grau,24,6.6,0,0,0,0,1,0,0,9,0,0,0,13,0,0,0,0,0,0,0,0,0,0

@@ -303,7 +303,8 @@
       "stages": [
         "Round 1",
         "Round 2",
-        "Round 3"
+        "Round 3",
+        "Round 6"
       ],
       "regions": [
         "Europe"
@@ -635,7 +636,8 @@
       "stages": [
         "Round 1",
         "Round 2",
-        "Round 3"
+        "Round 3",
+        "Round 4"
       ],
       "regions": [
         "Europe"
@@ -1052,7 +1054,8 @@
         "Round 13",
         "Round 14",
         "Round 15",
-        "Round 16"
+        "Round 16",
+        "Round 19"
       ],
       "regions": [
         "Europe"
@@ -1726,7 +1729,9 @@
       ],
       "stages": [
         "Round 1",
-        "Round 2"
+        "Round 2",
+        "Round 3",
+        "Round 4"
       ],
       "regions": [
         "Europe"
@@ -1863,7 +1868,9 @@
       ],
       "stages": [
         "Round 1",
-        "Round 2"
+        "Round 2",
+        "Round 3",
+        "Round 4"
       ],
       "regions": [
         "Europe"
@@ -2116,7 +2123,8 @@
       ],
       "stages": [
         "Round 1",
-        "Round 2"
+        "Round 2",
+        "Round 3"
       ],
       "regions": [
         "Europe"
@@ -2930,7 +2938,8 @@
         "Round 12",
         "Round 13",
         "Round 14",
-        "Round 18"
+        "Round 18",
+        "Round 19"
       ],
       "regions": [
         "Europe"
@@ -4779,7 +4788,8 @@
         "Round 1",
         "Round 2",
         "Round 3",
-        "Round 4"
+        "Round 4",
+        "Round 5"
       ],
       "regions": [
         "Europe"
@@ -4899,7 +4909,8 @@
         "Round 1",
         "Round 2",
         "Round 3",
-        "Round 4"
+        "Round 4",
+        "Round 8"
       ],
       "regions": [
         "Europe"
@@ -5890,7 +5901,8 @@
         "REGULAR"
       ],
       "stages": [
-        "Round 1"
+        "Round 1",
+        "Round 2"
       ],
       "regions": [
         "Europe"
@@ -6079,7 +6091,9 @@
       "stages": [
         "Round 1",
         "Round 3",
-        "Round 4"
+        "Round 4",
+        "Round 5",
+        "Round 6"
       ],
       "regions": [
         "Europe"
@@ -6585,7 +6599,8 @@
       "stages": [
         "Round 1",
         "Round 2",
-        "Round 3"
+        "Round 3",
+        "Round 4"
       ],
       "regions": [
         "Europe"
@@ -6828,7 +6843,9 @@
         "Round 1",
         "Round 22",
         "Round 23",
-        "Round 24"
+        "Round 24",
+        "Round 25",
+        "Round 4"
       ],
       "regions": [
         "America"
@@ -7182,7 +7199,8 @@
         "REGULAR"
       ],
       "stages": [
-        "Round of 64"
+        "Round of 64",
+        "Round of 32"
       ],
       "regions": [
         "Europe"
@@ -8043,10 +8061,15 @@
       "season_status": "UNKNOWN",
       "season_status_basis": "TITAN_DELTA_V2_2_SAFE",
       "phases": [
-        "PLAYOFF"
+        "PLAYOFF",
+        "GROUP"
       ],
       "stages": [
-        "Playoff round"
+        "Playoff round",
+        "Cupa României Betano, Group 4",
+        "Cupa României Betano, Group 1",
+        "Cupa României Betano, Group 2",
+        "Cupa României Betano, Group 3"
       ],
       "regions": [
         "Europe"
@@ -8641,7 +8664,8 @@
       ],
       "stages": [
         "Qualification Round 1",
-        "Qualification Round 2"
+        "Qualification Round 2",
+        "Round 1"
       ],
       "regions": [
         "Europe"
@@ -12275,11 +12299,13 @@
       ],
       "stages": [
         "Preliminary",
-        "Quarterfinals"
+        "Quarterfinals",
+        "Semifinals"
       ],
       "regions": [
         "America"
-      ]
+      ],
+      "competition_type": "LEAGUE"
     },
     {
       "competition_id": 10093,
@@ -15288,14 +15314,17 @@
       "season_status": "FINISHED",
       "season_status_basis": "NO_FUTURE_EVENT_AND_OUTSIDE_GRACE",
       "phases": [
-        "REGULAR"
+        "REGULAR",
+        "FINAL"
       ],
       "stages": [
-        "Quarterfinals"
+        "Quarterfinals",
+        "Final"
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "CUP"
     },
     {
       "competition_id": 26771,

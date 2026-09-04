@@ -1,38 +1,38 @@
 {
   "schema_version": "incastats.titan_sync.v3",
-  "synced_at": "2026-08-29T04:17:26.067801Z",
-  "delta": "TITAN_DELTA_V3_UNIFIED_2026-08-29T04-03-00-000Z_746_eventos.zip",
-  "delta_sha256": "a7171267f0bbc5f304c4e012848442727214af69af845402bdb7e0c5cd2e54d7",
+  "synced_at": "2026-09-04T04:53:01.769810Z",
+  "delta": "TITAN_DELTA_V3_UNIFIED_2026-09-04T04-44-00-000Z_427_eventos.zip",
+  "delta_sha256": "4e09b9589e514439876e5a395e02e031c173f61aa174c4332e991194c98d53a5",
   "window": {
-    "requested_from": "2026-08-16T04:03:00.000Z",
-    "effective_from": "2026-08-14T04:03:00.000Z",
-    "requested_to": "2026-08-29T04:03:00.000Z",
+    "requested_from": "2026-08-29T04:03:00.000Z",
+    "effective_from": "2026-08-27T04:03:00.000Z",
+    "requested_to": "2026-09-04T04:44:00.000Z",
     "overlap_hours": 48
   },
   "counts": {
-    "unique_events_discovered": 843,
-    "valid_events": 746,
-    "incomplete": 56,
-    "friendlies_excluded": 41,
-    "affected_teams": 589,
-    "requests": 9227,
-    "player_rows": 17265,
-    "player_events": 553,
-    "unique_players": 10036,
-    "player_incomplete_events": 3
+    "unique_events_discovered": 438,
+    "valid_events": 427,
+    "incomplete": 11,
+    "friendlies_excluded": 0,
+    "affected_teams": 592,
+    "requests": 6149,
+    "player_rows": 11358,
+    "player_events": 364,
+    "unique_players": 9522,
+    "player_incomplete_events": 2
   },
   "merge": {
-    "team_files_changed": 589,
-    "rows_inserted": 5436,
-    "rows_replaced": 2868,
-    "player_rows_before": 56787,
-    "player_rows_inserted": 10256,
-    "player_rows_replaced": 7009,
-    "player_rows_after": 67043,
-    "master_unique_matches_after": 83955,
+    "team_files_changed": 592,
+    "rows_inserted": 4140,
+    "rows_replaced": 786,
+    "player_rows_before": 67043,
+    "player_rows_inserted": 10003,
+    "player_rows_replaced": 1355,
+    "player_rows_after": 77046,
+    "master_unique_matches_after": 84307,
     "teams_after": 751,
     "competitions_after": 161,
     "seasons_after": 670
   },
-  "backup_folder": "C:\\Users\\MSI CYBORG\\OneDrive\\Documentos\\GitHub\\IncaStats-Data_TITAN_BACKUPS\\20260828_231239"
+  "backup_folder": "C:\\Users\\MSI CYBORG\\OneDrive\\Documentos\\GitHub\\IncaStats-Data_TITAN_BACKUPS\\20260903_234926"
 }

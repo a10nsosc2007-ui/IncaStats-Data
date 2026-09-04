@@ -314,34 +314,320 @@ Serie B,26_27,Palermo vs Juve Stabia,23/08/2026,Giulio Scuderi,D,Juve Stabia,67,
 Serie B,26_27,Palermo vs Juve Stabia,23/08/2026,Saná Fernandes,F,Juve Stabia,15,6.5,0,0,0,0.00777471,0,0,0,7,0,0,0,13,2,0,0,2,0,0,0,0,1,0
 Serie B,26_27,Palermo vs Juve Stabia,23/08/2026,Romeo Sandrucci,F,Juve Stabia,12,6.4,0,0,0,0.00011315,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0
 Serie B,26_27,Cremonese vs Modena,28/08/2026,Leandro Chichizola,G,Modena,90,7.7,0,0,0,0.00376163,0,0,0,41,0,0,0,54,0,0,0,0,0,0,0,0,0,2
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Gastón Brugman,M,Modena,78,7.6,0,1,0.0228,0.208356,1,0,0,73,2,1,0,83,0,0,0,2,0,2,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Francesco Zampano,M,Modena,87,7.1,0,0,0,0.0147853,0,0,0,32,1,0,0,53,2,1,0,4,1,1,0,0,2,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Paulo Azzi,M,Modena,31,6.7,0,0,0.0402,0.00164577,1,0,0,18,0,0,0,23,0,2,0,2,1,0,0,0,2,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Simone Santoro,M,Modena,90,6.6,0,0,0,0.00787219,0,0,0,44,1,0,0,53,0,1,1,2,3,1,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Giuseppe Caso,M,Modena,59,8,1,0,0.318,0.0379058,2,1,0,21,1,0,0,34,2,1,0,4,0,1,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Kleis Bozhanaj,M,Modena,3,0,0,0,0.017,0.00004171,1,0,0,3,0,0,0,6,1,0,0,1,0,0,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Daniel Tonoli,D,Modena,90,6.9,0,0,0,0.00355615,0,0,0,22,0,0,0,36,0,0,1,3,0,0,0,0,3,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Giacomo Olzer,F,Modena,59,8.5,2,0,0.1048,0.005494,2,2,0,17,0,0,0,35,2,0,0,3,1,1,1,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Gastón Brugman,M,Modena,78,7.6,0,1,0.0244,0.208392,1,0,0,72,2,1,0,82,0,0,0,2,0,2,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Francesco Zampano,M,Modena,87,7.1,0,0,0,0.0147854,0,0,0,32,1,0,0,53,2,1,1,4,1,1,0,0,2,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Paulo Azzi,M,Modena,31,6.7,0,0,0.0547,0.00164577,1,0,0,18,0,0,0,23,0,2,0,2,1,0,0,0,2,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Simone Santoro,M,Modena,90,6.6,0,0,0,0.00787219,0,0,0,44,1,0,0,53,0,1,0,2,3,1,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Giuseppe Caso,M,Modena,59,8,1,0,0.6076,0.0379202,2,1,0,21,1,0,0,34,2,1,0,4,0,1,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Kleis Bozhanaj,M,Modena,3,0,0,0,0.0194,0.00004171,1,0,0,3,0,0,0,6,1,0,0,1,0,0,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Daniel Tonoli,D,Modena,90,6.9,0,0,0,0.00355978,0,0,0,23,0,0,0,38,0,0,1,3,0,0,0,0,3,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Giacomo Olzer,F,Modena,59,8.5,2,0,0.3105,0.00549399,2,2,0,17,0,0,0,35,3,0,0,4,1,1,1,0,0,0
 Serie B,26_27,Cremonese vs Modena,28/08/2026,Daniele Montevago,F,Modena,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Alessandro Bianco,M,Modena,90,7.3,0,0,0.0745,0.0200957,1,0,0,61,0,0,0,78,1,3,0,7,3,3,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Steven Nador,D,Modena,90,6.8,0,0,0,0.00152007,0,0,0,43,0,0,0,56,1,2,1,4,1,0,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Giuseppe Ambrosino,F,Modena,87,7.3,0,2,0.0699,0.142335,1,0,0,23,3,1,0,37,0,0,0,4,1,4,0,0,2,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Bryant Nieling,D,Modena,90,6.9,0,0,0,0.00266901,0,0,0,62,0,0,0,78,0,0,2,1,1,0,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Antonio Imputato,M,Modena,31,6.3,0,0,0.0293,0.00000435,1,0,0,6,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Alessandro Bianco,M,Modena,90,7.3,0,0,0.0745,0.0200977,1,0,0,61,0,0,0,80,1,5,0,9,3,3,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Steven Nador,D,Modena,90,6.8,0,0,0,0.00152007,0,0,0,43,0,0,0,57,2,2,1,5,1,0,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Giuseppe Ambrosino,F,Modena,87,7.3,0,2,0.0664,0.300131,1,0,0,22,3,1,0,35,0,0,0,4,1,4,0,0,2,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Bryant Nieling,D,Modena,90,6.9,0,0,0,0.00266901,0,0,0,62,0,0,0,79,0,0,2,1,1,0,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Antonio Imputato,M,Modena,31,6.3,0,0,0.0424,0.00000435,1,0,0,6,0,0,0,10,0,0,0,0,0,0,0,0,0,0
 Serie B,26_27,Cremonese vs Modena,28/08/2026,Wisdom Acquah,M,Modena,12,6.7,0,0,0,0.00003789,0,0,0,3,0,0,0,5,0,0,0,1,0,0,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Matteo Bianchetti,D,Cremonese,90,6.1,0,0,0,0.00872084,0,0,0,55,0,0,0,67,0,2,3,3,3,1,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Federico Bonazzoli,F,Cremonese,45,6.4,0,0,0,0.0178511,0,0,0,20,0,0,0,24,0,0,0,1,1,1,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Jari Vandeputte,M,Cremonese,90,6.6,0,0,0.0351,0.0785254,1,0,0,34,1,0,0,61,0,1,0,3,0,2,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Sebastiano Luperto,D,Cremonese,90,6.6,0,0,0.017,0.0622859,1,1,0,57,1,0,0,69,0,3,0,4,0,0,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Fabio Gerli,M,Cremonese,64,6.6,0,0,0,0.0195413,0,0,0,51,0,0,0,62,0,1,1,4,3,2,1,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Simone Pontisso,M,Cremonese,71,6.6,0,0,0,0.0252904,0,0,0,39,1,0,0,45,0,2,1,3,1,1,1,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Alessandro Vogliacco,D,Cremonese,64,6.2,0,0,0,0.145871,0,0,0,19,1,0,0,34,0,1,2,1,0,0,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Giuseppe Pezzella,M,Cremonese,45,6.5,0,0,0,0.00776034,0,0,0,10,0,0,0,21,0,2,0,2,0,0,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Manuel De Luca,F,Cremonese,90,6.3,0,0,0.1065,0.0191007,2,0,0,17,1,0,0,29,1,0,0,4,1,2,0,0,1,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Marco Nasti,F,Cremonese,45,6.7,0,0,0.1316,0.0100776,3,1,0,16,0,0,0,30,1,1,0,6,0,1,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Federico Agazzi,G,Cremonese,90,5.7,0,0,0,0.00088661,0,0,0,27,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Matteo Bianchetti,D,Cremonese,90,6.1,0,0,0,0.00863777,0,0,0,52,0,0,0,66,0,2,3,3,3,1,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Federico Bonazzoli,F,Cremonese,45,6.4,0,0,0,0.0175372,0,0,0,19,0,0,0,24,0,0,0,1,1,1,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Jari Vandeputte,M,Cremonese,90,6.6,0,0,0.0388,0.0864602,1,0,0,34,1,0,0,60,0,1,0,3,0,2,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Sebastiano Luperto,D,Cremonese,90,6.6,0,0,0.021,0.052697,1,1,0,58,1,0,0,71,0,3,0,4,0,0,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Fabio Gerli,M,Cremonese,64,6.6,0,0,0,0.0196362,0,0,0,50,0,0,0,62,0,1,1,4,3,2,1,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Simone Pontisso,M,Cremonese,71,6.6,0,0,0,0.0252903,0,0,0,40,1,0,0,46,0,2,1,3,1,1,1,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Alessandro Vogliacco,D,Cremonese,64,6.2,0,0,0,0.15468,0,0,0,17,1,0,0,34,0,1,2,1,0,0,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Giuseppe Pezzella,M,Cremonese,45,6.5,0,0,0,0.00776034,0,0,0,10,0,0,0,20,0,2,0,2,0,0,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Manuel De Luca,F,Cremonese,90,6.3,0,0,0.0667,0.0186051,2,0,0,15,1,0,0,29,1,1,0,5,1,2,0,0,1,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Marco Nasti,F,Cremonese,45,6.7,0,0,0.1593,0.00918728,3,1,0,16,0,0,0,30,1,1,0,6,0,1,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Federico Agazzi,G,Cremonese,90,5.7,0,0,0,0.00088627,0,0,0,27,0,0,0,30,0,0,0,0,0,0,0,0,0,0
 Serie B,26_27,Cremonese vs Modena,28/08/2026,Tommaso Berti,M,Cremonese,19,6.8,0,0,0,0.161681,0,0,0,12,1,0,0,15,0,0,0,1,0,1,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Dachi Lordkipanidze,M,Cremonese,45,6.7,0,0,0.0954,0.0143907,1,0,0,18,0,0,0,29,2,5,0,7,2,0,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Francesco Folino,D,Cremonese,26,6.7,0,0,0,0.00294758,0,0,0,18,0,0,0,22,0,0,0,1,0,0,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Adrian Lickunas,M,Cremonese,90,6.6,0,0,0,0.00893574,0,0,0,25,0,0,0,42,0,3,1,5,2,1,0,0,0,0
-Serie B,26_27,Cremonese vs Modena,28/08/2026,Simone Lottici Tessadri,M,Cremonese,26,7.2,0,0,0,0.146894,0,0,0,30,1,0,0,31,0,0,0,0,1,0,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Dachi Lordkipanidze,M,Cremonese,45,6.7,0,0,0.1087,0.0143907,1,0,0,18,0,0,0,29,2,5,0,7,2,0,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Francesco Folino,D,Cremonese,26,6.7,0,0,0,0.0030584,0,0,0,19,0,0,0,23,0,0,0,1,0,0,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Adrian Lickunas,M,Cremonese,90,6.6,0,0,0,0.00930442,0,0,0,25,0,0,0,42,0,3,1,6,2,1,0,0,0,0
+Serie B,26_27,Cremonese vs Modena,28/08/2026,Simone Lottici Tessadri,M,Cremonese,26,7.2,0,0,0,0.133589,0,0,0,30,1,0,0,32,0,0,0,0,1,0,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Dimitri Bisoli,M,Cesena,90,7.2,0,0,0,0.00248889,0,0,0,10,0,0,0,23,0,1,0,1,1,0,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Massimiliano Mangraviti,D,Cesena,90,6.8,0,0,0,0.00590013,0,0,0,39,0,0,0,57,0,2,1,4,0,1,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Gianluca Frabotta,M,Cesena,37,6.5,0,0,0,0.034976,0,0,0,12,1,0,0,20,0,0,0,0,2,0,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Andrea Ciofi,D,Cesena,90,6.3,0,0,0,0.0294102,0,0,0,47,2,0,0,70,0,0,0,0,1,0,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Alessandro Siano,G,Cesena,90,6.8,0,0,0,0.00062359,0,0,0,66,0,0,0,81,0,0,0,0,0,0,0,0,0,2
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Jacopo Gelli,D,Cesena,90,6.6,0,0,0,0.00225122,0,0,0,54,0,0,0,74,0,0,2,4,1,1,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Antonio Fiori,F,Cesena,53,7.3,1,0,0.0598,0.00555126,2,2,0,9,0,0,0,20,0,0,0,1,1,1,0,0,1,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Riccardo Pagano,M,Cesena,90,6.6,0,0,0.0232,0.00310718,1,0,0,37,0,0,0,45,0,1,0,1,2,0,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Cristian Shpendi,F,Cesena,86,7.1,1,0,0.2628,0.00652053,3,1,0,14,1,0,0,22,0,0,1,1,2,0,1,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Mihajlo Ilić,D,Cesena,90,6.5,0,0,0,0.0023503,0,0,0,44,0,0,0,56,0,0,2,2,1,0,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Marco Dalla Vecchia,M,Cesena,9,6.5,0,0,0,0.00442648,0,0,0,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Matteo Francesconi,M,Cesena,37,6.5,0,0,0,0.00340628,0,0,0,7,0,0,0,15,0,3,0,3,0,0,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Matteo Guidi,M,Cesena,53,5.9,0,0,0.1192,0.00425805,1,0,0,19,0,0,0,28,0,0,1,5,5,1,1,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Alessandro Debenedetti,F,Cesena,20,6.7,0,0,0,0.00593821,0,0,0,4,0,0,0,5,0,0,0,2,0,1,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Xavello Druiventak,M,Cesena,70,7,0,1,0,0.249031,0,0,0,11,1,1,0,30,2,0,1,5,0,2,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Ivan Marconi,D,Virtus Entella,11,6.8,0,0,0,0.0123627,0,0,0,10,0,0,0,13,0,0,0,1,0,0,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Francesco Forte,F,Virtus Entella,90,6.6,0,0,0.0556,0.0306043,1,0,0,16,0,0,0,26,0,0,0,2,1,1,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Andrea Tiritiello,D,Virtus Entella,90,8.1,1,0,0.0455,0.0132216,2,1,0,80,0,0,0,103,1,2,0,7,0,2,0,0,2,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Luca Parodi,D,Virtus Entella,90,6.8,0,0,0,0.0177927,0,0,0,55,0,0,0,78,1,2,1,9,1,3,1,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Luigi Cuppone,F,Virtus Entella,45,6.8,0,0,0.0309,0.0106143,1,0,0,8,0,0,0,22,1,0,0,4,0,3,0,0,1,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Luca Vignali,M,Virtus Entella,69,6.6,0,1,0.0121,0.0464683,1,0,0,44,2,0,0,54,0,2,2,3,1,1,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Federico Del Frate,G,Virtus Entella,90,5.8,0,0,0,0.00048286,0,0,0,30,0,0,0,34,0,0,0,0,0,0,0,0,0,1
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Leonardo Benedetti,M,Virtus Entella,21,6.7,0,0,0,0.0407078,0,0,0,15,2,0,0,19,0,0,1,2,0,0,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Mattia Alborghetti,D,Virtus Entella,90,6.4,0,0,0,0.00967859,0,0,0,63,1,0,0,76,0,1,1,3,1,0,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Lucas Felippe,M,Virtus Entella,21,7,0,0,0.0151,0.0341243,1,0,0,24,0,0,0,31,0,0,0,2,1,2,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Andrea Franzoni,M,Virtus Entella,84,6.8,0,0,0.0464,0.256535,1,1,0,24,2,1,0,42,0,2,0,6,1,3,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Mattia Tirelli,F,Virtus Entella,45,6.4,0,0,0,0.0885792,0,0,0,6,1,0,0,8,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Niccolò Squizzato,M,Virtus Entella,69,6.9,0,0,0,0.117683,0,0,0,65,2,0,0,68,0,1,0,1,1,0,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Bernat Guiu,F,Virtus Entella,90,7.4,0,0,0.0335,0.175791,2,0,0,41,0,0,0,67,2,2,0,5,0,1,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Giacomo Corona,F,Virtus Entella,11,6.5,0,0,0,0.00166521,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,Virtus Entella vs Cesena,29/08/2026,Stefano Di Mario,M,Virtus Entella,84,6.6,0,0,0.4314,0.114252,5,1,0,33,0,0,1,56,1,2,1,4,0,1,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Lorenzo Insigne,M,Sampdoria,10,6.6,0,0,0,0.0139307,0,0,0,9,1,0,0,16,1,0,0,1,0,0,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Gennaro Tutino,F,Sampdoria,87,7.3,1,0,0.3633,0.139677,1,1,0,8,1,0,0,14,0,0,0,1,1,1,0,0,1,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Liam Henderson,M,Sampdoria,90,6.5,0,0,0.0349,0.0255011,1,0,0,33,1,0,0,46,1,3,0,6,3,2,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Stefan Gartenmann,D,Sampdoria,90,6.8,0,0,0,0.00784214,0,0,0,43,0,0,0,60,0,4,0,7,1,1,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Manuel Cicconi,M,Sampdoria,90,6.3,0,0,0,0.0158916,0,0,0,42,0,0,0,63,0,2,2,2,1,0,1,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Peter Vindahl,G,Sampdoria,90,5.8,0,0,0,0.00079895,0,0,0,37,0,0,0,47,0,0,0,0,0,0,0,0,0,3
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Fabio Depaoli,M,Sampdoria,44,7,0,0,0.1179,0.0499403,2,0,0,4,1,0,0,17,0,4,0,4,0,0,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Danel Sinani,F,Sampdoria,87,7.2,0,0,0.0757,0.108047,3,2,0,36,2,0,0,57,0,3,0,4,0,1,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Yari Verschaeren,M,Sampdoria,46,6.4,0,1,0.3427,0.329538,4,1,0,22,3,1,0,32,0,0,0,0,1,0,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Antoine Makoumbou,M,Sampdoria,90,7.1,0,0,0.1257,0.0904287,1,1,0,50,2,0,0,65,2,0,1,3,0,1,1,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Alessandro Di Pardo,M,Sampdoria,90,6.6,0,0,0.1521,0.238796,2,0,0,38,1,0,0,68,1,4,0,6,0,0,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Salvatore Esposito,M,Sampdoria,35,6.7,0,0,0.0382,0.0191115,1,0,1,15,0,0,0,23,0,0,3,0,0,0,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Mattia Viti,D,Sampdoria,90,6.6,0,0,0,0.00658678,0,0,0,42,0,0,0,54,0,2,0,5,0,1,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Tjaš Begić,F,Sampdoria,55,7.4,0,0,0.1705,0.123889,2,1,0,25,2,0,0,50,4,2,1,8,1,2,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Lorenzo Mezzotero,F,Sampdoria,10,6.3,0,0,0,0.00799795,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Davide Bettella,D,Juve Stabia,90,7.3,0,0,0.0178,0.105621,1,1,0,108,1,0,0,124,0,1,1,8,2,1,1,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Leonardo Candellone,F,Juve Stabia,69,6.2,0,0,0.0731,0.00307823,2,0,0,9,0,0,0,14,0,0,0,2,1,0,0,0,2,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Nermin Karić,M,Juve Stabia,81,6.2,0,0,0.1948,0.0566907,3,0,0,31,1,0,0,47,1,0,0,2,1,1,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Antonio Di Nardo,F,Juve Stabia,21,7.3,1,0,0.1894,0.0106253,3,2,0,7,1,0,0,15,0,0,0,2,2,1,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Davide Buglio,M,Juve Stabia,65,6.2,0,0,0,0.0133196,0,0,0,33,1,0,0,42,1,0,0,1,1,0,1,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Kevin Piscopo,M,Juve Stabia,70,6.4,0,0,0,0.0785193,0,0,0,7,1,0,0,23,2,0,0,3,0,1,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Marco Bellich,D,Juve Stabia,90,8.4,1,0,0.1798,0.0156577,2,1,0,116,0,0,0,125,0,0,1,5,0,0,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Thomas Battistella,M,Juve Stabia,21,7.1,0,1,0,0.0454333,0,0,0,4,1,0,0,6,0,0,0,2,1,1,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Federico Artioli,M,Juve Stabia,25,7,0,1,0,0.126354,0,0,0,8,1,0,0,14,0,0,1,1,0,0,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Manuel Ricciardi,M,Juve Stabia,90,6.9,0,0,0,0.0177463,0,0,0,47,0,0,0,87,0,2,1,5,0,2,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Pietro Boer,G,Juve Stabia,90,7.7,0,0,0,0.00120923,0,0,0,36,1,0,0,48,0,0,0,0,0,0,0,0,0,5
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Christian Pierobon,M,Juve Stabia,69,6.7,0,0,0.1239,0.0135172,2,1,0,25,0,0,1,34,0,3,0,4,0,0,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Justin Kumi,M,Juve Stabia,9,6.6,0,0,0.0424,0,1,0,0,1,0,0,0,4,0,1,0,1,0,0,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Nicola Patanè,M,Juve Stabia,90,6.6,0,0,0.0589,0.151745,2,0,0,21,3,1,0,49,3,2,0,6,1,0,0,0,1,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Giulio Scuderi,D,Juve Stabia,90,6.5,0,0,0.024,0.0662973,1,0,0,31,1,0,0,65,0,2,0,3,1,0,0,0,0,0
+Serie B,26_27,Sampdoria vs Juve Stabia,29/08/2026,Saná Fernandes,F,Juve Stabia,20,6.7,0,0,0,0.00016689,0,0,0,3,0,0,0,10,1,1,0,3,0,0,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Matteo Luigi Brunori,F,Ascoli,8,6.5,0,0,0.0272,0.00003702,1,0,0,2,0,0,0,6,0,0,0,1,0,1,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Marcos Curado,D,Ascoli,90,7.7,0,0,0,0.428479,0,0,0,81,3,1,0,93,0,1,2,3,1,0,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Gabriele Gori,F,Ascoli,21,7.5,1,0,0.1368,0.0144664,2,1,0,7,0,0,0,13,0,0,0,1,0,0,1,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Samuele Damiani,M,Ascoli,90,7.3,0,0,0,0.0557457,0,0,0,79,0,0,0,91,0,4,0,6,1,2,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Don Bolsius,M,Ascoli,32,6.8,0,0,0,0.0110806,0,0,0,14,0,0,0,28,2,1,0,5,1,2,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Abdoul Guiebre,D,Ascoli,90,6.3,0,0,0.0532,0.0309523,2,0,0,52,1,0,0,83,2,2,0,5,2,0,1,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Andrea Silipo,M,Ascoli,70,6.9,0,0,0.0572,0.269714,3,2,0,32,2,0,0,56,2,0,0,2,0,0,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Nicholas Rizzo,D,Ascoli,90,7.3,0,0,0,0.0307122,0,0,0,83,0,0,0,94,0,2,0,4,1,1,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Giovanni Corradini,M,Ascoli,90,7.5,0,0,0.4067,0.384294,2,0,0,54,2,1,1,64,0,1,0,1,1,0,1,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Tommaso Milanese,M,Ascoli,58,6.4,0,0,0,0.0202865,0,0,0,49,0,0,0,62,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Amine Chakir,F,Ascoli,69,6.7,0,0,0.8811,0.0112311,7,1,0,8,1,0,3,22,0,0,0,6,0,2,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Samuele Vitale,G,Ascoli,90,7.1,0,0,0,0.00017996,0,0,0,21,0,0,0,36,0,0,0,2,0,0,0,0,0,3
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Andrea Oliveri,M,Ascoli,32,7.1,0,0,0,0.150681,0,0,0,25,1,0,0,37,1,1,0,4,0,2,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Simone D'Uffizi,M,Ascoli,83,7.5,0,0,0.0591,0.461221,2,1,0,31,4,1,0,47,2,1,0,6,1,3,1,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Giacomo De Pieri,M,Ascoli,20,7.6,0,1,0.0906,0.0129083,1,1,0,10,1,1,0,17,1,0,0,2,1,0,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Sergiu Perciun,M,Ascoli,58,6.2,0,0,0,0.0143692,0,0,0,18,1,0,0,25,0,1,0,1,1,0,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Mattia Finotto,F,Carrarese,11,6.5,0,0,0,0.0390518,0,0,0,4,2,0,0,7,1,1,1,2,1,0,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Nicolas Schiavi,M,Carrarese,90,7,0,0,0.0254,0.0537569,1,1,0,27,0,0,0,44,1,1,2,5,1,2,1,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Niccolò Belloni,M,Carrarese,63,6.8,0,0,0,0.00423917,0,0,0,9,0,0,0,21,0,1,0,3,1,2,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Filippo Oliana,D,Carrarese,90,6.5,0,0,0.2314,0.00037901,1,0,0,21,0,0,0,34,0,1,0,3,0,0,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Giovanni Garofani,G,Carrarese,90,7.9,0,0,0,0.00028247,0,0,0,20,0,0,0,31,0,0,0,1,0,0,0,0,0,5
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Fabio Abiuso,F,Carrarese,79,7.4,1,0,0.66,0.00480745,3,1,1,9,0,0,1,23,0,1,0,5,1,3,1,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Jonas Rouhi,D,Carrarese,90,7.6,0,1,0,0.409395,0,0,0,19,5,1,0,43,3,0,2,4,0,1,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Giacomo Marconi,F,Carrarese,27,6.5,0,0,0.0217,0.00536395,1,0,0,7,0,0,0,13,0,0,0,2,1,1,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Jacopo Martini,M,Carrarese,19,6.3,0,0,0,0.00815192,0,0,0,5,0,0,0,8,0,0,0,0,1,0,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Tommaso Guercio,D,Carrarese,27,5.7,0,0,0,0.00041899,0,0,0,5,0,0,0,9,0,0,0,2,2,0,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Lorenzo Romani,D,Carrarese,90,6.7,0,0,0.4684,0.00397613,3,1,0,21,1,0,1,38,0,0,0,2,0,0,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Fabio Ruggeri,D,Carrarese,90,6.2,0,0,0.0514,0.00955649,1,0,0,20,0,0,0,37,0,1,0,1,3,0,1,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Moustapha Cissé,F,Carrarese,63,6.3,0,0,0.1435,0.0110221,3,0,0,9,1,0,0,14,0,0,0,1,1,0,0,0,1,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Gabriele Parlanti,M,Carrarese,79,6.9,0,0,0.0698,0.0168637,1,1,0,22,0,0,0,35,1,2,0,4,0,1,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Luka Topalović,M,Carrarese,11,6.5,0,0,0.1018,0.0224527,3,0,0,7,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,Ascoli vs Carrarese,29/08/2026,Filippo Reale,D,Carrarese,71,7,0,0,0.033,0.128228,1,0,0,12,1,0,0,32,2,1,3,3,1,0,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Filippo Costa,M,L.R. Vicenza,70,6.3,0,0,0.0378,0.0924473,1,0,0,38,1,0,0,53,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Gabriele Moncini,F,L.R. Vicenza,45,6,0,0,0.0549,0.00999834,1,0,0,9,0,0,0,13,0,0,0,0,2,0,1,0,1,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Riccardo Marchizza,D,L.R. Vicenza,90,6.1,0,0,0.2695,0.0127332,2,1,0,61,0,0,0,68,0,0,0,1,0,0,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Claudio Morra,F,L.R. Vicenza,45,6.2,0,0,0.2888,0.00280819,2,1,0,4,0,0,1,13,0,0,0,1,2,1,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Riccardo Gagno,G,L.R. Vicenza,90,7.4,0,0,0,0.00688924,0,0,0,31,0,0,0,43,0,0,0,0,0,0,0,0,0,5
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Loris Zonta,M,L.R. Vicenza,90,6.6,0,0,0.0375,0.0537677,1,0,0,57,1,0,0,71,0,2,0,3,2,1,1,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Giuseppe Cuomo,D,L.R. Vicenza,90,6.4,0,0,0.0449,0.0205529,1,0,0,64,2,0,0,79,2,0,2,6,1,1,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Marco Carraro,M,L.R. Vicenza,45,6.7,0,0,0.0541,0.0297406,2,0,0,39,0,0,0,44,0,0,2,3,0,1,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Maxime Leverbe,D,L.R. Vicenza,57,6,0,0,0,0.0148813,0,0,0,27,0,0,0,34,0,1,1,2,1,0,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Nicola Rauti,F,L.R. Vicenza,33,6.6,0,0,0.0271,0.0205787,1,0,0,12,1,0,0,24,0,1,0,3,1,1,1,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Alessandro Pietrelli,M,L.R. Vicenza,45,6,0,0,0,0.018039,0,0,0,16,1,0,0,42,0,1,1,3,2,0,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Tommaso Corazza,M,L.R. Vicenza,20,7.2,0,0,0.0784,0.305682,2,0,0,13,3,2,0,29,1,0,0,2,0,1,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Raul Talarico,M,L.R. Vicenza,45,6.6,0,0,0.2573,0.00263443,2,0,0,14,0,0,1,28,1,2,0,5,1,1,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Lorenzo Caferri,M,L.R. Vicenza,45,6.5,0,0,0.0106,0.201407,1,0,0,41,2,0,0,60,0,0,2,0,0,0,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Filippo Alessio,M,L.R. Vicenza,90,6.8,0,0,0.0797,0.0884425,1,1,0,16,0,0,0,37,1,2,0,7,1,3,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Giulio Pellizzari,M,L.R. Vicenza,90,6,0,0,0.0942,0.0190735,1,0,0,33,1,0,0,50,1,0,1,5,3,2,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Armando Izzo,D,US Avellino 1912,90,7.7,0,0,0.0362,0.0114868,1,1,0,54,0,0,0,71,0,2,0,5,1,0,1,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Tommaso Cancellotti,D,US Avellino 1912,90,7.4,0,0,0,0.0392811,0,0,0,26,1,0,0,41,0,3,0,6,0,2,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Dimitrios Sounas,M,US Avellino 1912,26,6.7,0,0,0,0.00260749,0,0,0,6,1,0,0,10,1,0,0,3,1,0,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Tommaso Biasci,F,US Avellino 1912,13,6.3,0,0,0,0.00024553,0,0,0,2,0,0,0,5,0,0,0,0,2,0,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Luca Palmiero,M,US Avellino 1912,64,7,0,0,0.0233,0.00959358,1,0,0,32,0,0,0,49,0,6,1,8,1,1,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Andrea Favilli,F,US Avellino 1912,64,7.7,0,3,0,0.232313,0,0,0,16,3,2,0,24,0,2,0,5,3,3,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Lorenco Šimić,D,US Avellino 1912,90,7.8,0,0,0,0.00116932,0,0,0,36,0,0,0,57,0,1,6,4,1,1,1,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Raffaele Russo,F,US Avellino 1912,77,8,1,0,0.6403,0.06173,1,1,0,24,3,0,0,40,1,1,0,5,1,1,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Walid Cheddira,F,US Avellino 1912,26,6.5,0,0,0.0691,0.00466056,1,1,0,7,0,0,0,11,0,0,0,1,0,0,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Patrick Enrici,D,US Avellino 1912,90,7.5,0,0,0,0.00288537,0,0,0,32,0,0,0,52,0,2,2,8,0,3,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Martin Palumbo,M,US Avellino 1912,83,7.3,0,0,0.1609,0.0402813,3,3,0,36,2,0,0,51,0,0,1,0,0,0,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Michele Besaggio,M,US Avellino 1912,64,7.6,1,0,0.5492,0.00584748,1,1,0,23,0,0,0,35,1,1,0,5,2,3,1,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Giacomo Faticanti,M,US Avellino 1912,12,6.5,0,0,0,0.00001011,0,0,0,1,0,0,0,3,0,0,0,0,1,0,1,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Luca Di Maggio,M,US Avellino 1912,26,6.8,0,0,0,0.00426896,0,0,0,4,0,0,0,11,1,0,0,2,1,1,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Brando Moruzzi,D,US Avellino 1912,90,8.4,1,0,0.0793,0.00956996,2,1,0,26,0,0,0,59,0,8,0,10,0,0,0,0,0,0
+Serie B,26_27,US Avellino 1912 vs L.R. Vicenza,29/08/2026,Tommaso Martinelli,G,US Avellino 1912,90,8.2,0,0,0,0.00024555,0,0,0,26,0,0,0,36,0,0,0,0,0,0,0,0,0,3
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Nicola Leali,G,Hellas Verona,90,7.1,0,0,0,0.00068147,0,0,0,41,0,0,0,47,0,0,0,1,0,0,0,0,0,3
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Grigoris Kastanos,M,Hellas Verona,12,6.9,0,0,0,0.0194793,0,0,0,14,1,0,0,19,0,0,2,1,1,1,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Antoine Bernede,M,Hellas Verona,90,7.1,0,0,0,0.0888878,0,0,0,59,3,0,0,76,2,3,1,5,1,0,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Domagoj Bradarić,M,Hellas Verona,90,7.3,0,0,0.1331,0.364881,2,1,0,49,1,0,0,78,0,1,0,2,1,0,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Andrias Edmundsson,D,Hellas Verona,90,6.5,0,0,0,0.00520119,0,0,0,67,0,0,0,81,0,3,1,9,0,0,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Abdou Harroui,M,Hellas Verona,65,6,0,0,0.2006,0.0275138,3,0,0,31,3,0,0,43,1,1,0,4,4,1,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Samuele Mulattieri,F,Hellas Verona,90,6.4,0,0,0,0.00924343,0,0,0,13,0,0,0,22,0,2,0,5,2,1,0,0,1,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Gabriele Zappa,D,Hellas Verona,78,6.6,0,0,0,0.0224694,0,0,0,42,0,0,0,59,0,0,1,1,0,1,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Mattia Compagnon,M,Hellas Verona,78,6.9,0,0,0.032,0.0114814,1,0,0,29,0,0,0,50,2,0,1,6,1,4,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Seid Korać,D,Hellas Verona,45,7,0,0,0.2442,0.00226606,1,0,0,41,0,0,0,47,0,1,0,6,1,0,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Amin Sarr,F,Hellas Verona,78,7,1,0,0.8112,0.0464474,2,2,0,23,2,0,0,46,1,1,0,4,2,0,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Tobias Slotsager,D,Hellas Verona,45,6.2,0,0,0,0.00101653,0,0,0,25,0,0,0,31,0,0,0,3,2,1,1,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Dailon Rocha Livramento,F,Hellas Verona,25,6.5,0,0,0.0274,0.021759,1,0,1,5,1,0,0,15,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Nicolò Calabrese,D,Hellas Verona,12,6.7,0,0,0,0.00140668,0,0,0,9,0,0,0,12,0,0,0,1,1,1,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Andrea Le Borgne,M,Hellas Verona,90,7.3,0,0,0.1743,0.0155848,4,0,0,43,0,0,0,66,4,3,1,8,2,1,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Salvatore Cerbone,M,Hellas Verona,12,6.6,0,0,0,0.00260254,0,0,0,3,0,0,0,7,1,0,0,2,0,1,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Gianluca Caprari,F,Padova,59,6.9,0,0,0,0.0367461,0,0,0,19,1,0,0,37,0,0,0,5,0,5,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Francesco Di Mariano,F,Padova,12,6.4,0,0,0,0.00005058,0,0,0,2,0,0,0,5,0,0,0,2,1,1,1,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Mattia Bortolussi,F,Padova,20,6.2,0,0,0,0.26498,0,0,0,4,1,0,0,8,0,0,0,1,1,1,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Kevin Lasagna,F,Padova,31,6.4,0,0,0.0851,0.00232694,1,0,0,5,0,0,0,10,0,0,0,2,0,0,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Lorenzo Carissoni,M,Padova,90,6.7,0,0,0.1224,0.0228143,1,1,0,20,0,0,0,42,0,1,1,3,0,2,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Marco Pompetti,M,Padova,83,6.5,0,0,0.5779,0.0136771,2,1,0,16,0,0,1,32,0,2,0,5,1,3,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Pietro Fusi,M,Padova,59,7.5,0,0,0,0.525388,0,0,0,17,3,1,0,30,0,3,1,4,3,0,1,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Luca Moro,F,Padova,70,6.4,0,0,0.1106,0.00911027,1,0,0,16,0,0,0,30,0,2,0,6,0,1,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Emanuele Zuelli,M,Padova,90,6.8,0,0,0.0156,0.161401,1,0,0,33,0,0,0,45,0,1,2,2,0,0,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Matteo Lovato,D,Padova,90,6.7,0,0,0,0.00218924,0,0,0,30,0,0,0,48,0,1,2,2,0,0,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Christian Pastina,D,Padova,90,6.7,0,0,0.031,0.0021451,1,0,0,41,0,0,0,60,0,3,0,5,1,2,1,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Alessandro Sorrentino,G,Padova,90,7.1,0,0,0,0.00161715,0,0,0,30,0,0,0,45,0,0,0,0,0,0,0,0,0,2
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Alessandro Capelli,M,Padova,20,6.7,0,0,0,0.0440502,0,0,0,9,0,0,0,13,0,0,0,1,1,0,1,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Alessandro Dellavalle,D,Padova,90,6.5,0,0,0,0.0224019,0,0,0,34,0,0,0,59,0,2,2,4,0,1,0,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Giovanni Giunti,M,Padova,31,6.5,0,0,0,0.00744076,0,0,0,14,0,0,0,16,0,1,0,1,1,0,1,0,0,0
+Serie B,26_27,Padova vs Hellas Verona,29/08/2026,Matteo Cocchi,M,Padova,70,6.4,0,0,0,0.0113373,0,0,0,26,0,0,0,47,2,2,0,7,3,1,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Mattia Perin,G,Palermo,90,6.1,0,0,0,0.00870702,0,0,0,36,0,0,0,44,0,0,0,0,0,0,0,0,0,3
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Joel Pohjanpalo,F,Palermo,82,6.7,0,0,0.0466,0.0170758,2,0,0,13,0,0,0,23,1,0,0,4,1,1,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Hernani,M,Palermo,66,6.6,0,1,0.2047,0.0141529,2,0,0,24,1,1,1,38,0,2,0,5,0,1,0,0,1,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Mattia Bani,D,Palermo,90,7,0,0,0,0.00966501,0,0,0,69,1,0,0,86,0,1,0,5,1,1,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Pietro Ceccaroni,D,Palermo,90,6.7,0,0,0,0.0155876,0,0,0,84,0,0,0,95,0,2,0,3,0,0,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Emmanuel Gyasi,M,Palermo,31,6.1,0,0,0.2571,0.00163294,1,1,0,6,0,0,1,13,0,1,0,3,1,2,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Tommaso Augello,M,Palermo,90,7.3,1,0,0.0441,0.252971,1,1,0,44,2,1,0,71,0,0,1,0,1,0,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Alessandro Gabrielloni,F,Palermo,8,6.1,0,0,0.4385,0,1,1,0,1,0,0,1,3,0,0,0,0,1,0,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Jacopo Segre,M,Palermo,90,5.8,0,0,0.2377,0.0160407,2,0,0,23,0,0,1,30,0,0,0,0,2,0,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Dennis Johnsen,F,Palermo,59,7.4,1,1,0.8885,0.0240851,1,1,0,17,2,0,0,32,1,0,0,4,0,1,0,0,1,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Gabriel Strefezza,F,Palermo,59,6.8,0,0,0.1157,0.0379575,2,1,1,13,0,0,0,27,0,0,1,2,2,2,1,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Nahuel Estévez,M,Palermo,24,6.4,0,0,0,0.00752189,0,0,0,24,0,0,0,26,0,0,0,1,1,1,1,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Tommaso Cassandro,D,Palermo,24,6.1,0,0,0.0147,0.00121248,1,0,0,9,0,0,0,21,0,1,1,1,1,0,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Filippo Ranocchia,M,Palermo,90,8.1,1,0,0.1105,0.0861436,4,2,0,61,1,0,0,79,0,2,1,3,1,1,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Niccolò Pierozzi,M,Palermo,66,6.6,0,0,0,0.147164,0,0,0,28,1,1,0,44,0,2,2,2,0,0,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Dominic Vavassori,F,Palermo,31,6.4,0,0,0,0.0238051,0,0,0,11,1,0,0,16,0,0,0,2,1,1,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Artur Ioniță,M,Arezzo,90,6.8,0,0,0,0.0204622,0,0,0,18,0,0,0,25,0,0,1,2,1,0,1,0,2,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Alberto Cerri,F,Arezzo,14,6.6,0,0,0,0.0121295,0,0,0,4,0,0,0,7,0,0,0,3,1,1,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Pietro Cianci,F,Arezzo,76,7.6,1,1,0.7106,0.0506655,2,1,0,13,1,0,0,19,0,0,0,2,1,1,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Camillo Tavernelli,F,Arezzo,87,8.7,1,1,0.1556,0.497813,4,2,0,26,2,2,0,50,1,0,1,2,0,1,0,0,1,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Eklu Shaka Mawuli,M,Arezzo,14,6.1,0,0,0,0.00041848,0,0,0,4,0,0,0,7,0,0,0,0,3,0,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Julián Illanes,D,Arezzo,90,6.4,0,0,0,0.00760576,0,0,0,41,0,0,0,55,0,1,0,6,0,1,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Muhamed Varela Djamanca,F,Arezzo,10,6.5,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Emiliano Pattarello,F,Arezzo,19,6.4,0,0,0.0185,0.00032084,1,0,0,5,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Mattia Viviani,M,Arezzo,10,6.4,0,0,0,0.00014485,0,0,0,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Samuele Righetti,D,Arezzo,90,6.3,0,0,0.036,0.0285011,2,1,0,35,1,0,0,72,0,0,2,4,0,1,0,0,1,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Gennaro Iaccarino,M,Arezzo,87,7.1,0,0,0.0155,0.0319229,1,0,0,48,0,0,0,71,2,2,3,5,0,1,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Alessandro Arena,F,Arezzo,71,7.3,0,0,0.0732,0.417073,1,0,0,17,3,0,0,36,1,2,2,5,0,2,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Matteo Gilli,D,Arezzo,90,6.8,0,0,0.0311,0.0110493,1,0,0,57,1,0,0,70,0,0,1,5,3,2,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Alessandro Renzi,D,Arezzo,90,6.7,0,0,0.0391,0.0260638,1,0,0,22,1,0,0,48,0,3,1,5,3,2,0,0,0,0
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Alessandro Nunziante,G,Arezzo,90,6.3,0,0,0,0.00175571,0,0,0,21,0,0,0,29,0,0,0,0,0,0,0,0,0,3
+Serie B,26_27,Arezzo vs Palermo,30/08/2026,Mattia Sala,M,Arezzo,76,7.4,0,0,0.1967,0.0219152,2,1,0,26,3,0,1,47,2,5,2,10,1,1,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Cristian Cauz,D,Empoli,90,6.4,0,0,0,0.00543572,0,0,0,54,0,0,0,68,1,2,2,6,2,1,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Luca Magnino,M,Empoli,90,5.8,0,0,0.0746,0.00449776,1,0,0,38,0,0,0,50,0,1,1,2,2,1,1,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Marco Curto,D,Empoli,90,5.8,0,0,0,0.00675149,0,0,0,57,0,0,0,73,0,2,2,5,3,1,1,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Niccolò Corrado,D,Empoli,86,6.7,0,0,0,0.122282,0,0,0,22,1,0,0,42,2,0,0,3,0,0,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Luca Belardinelli,M,Empoli,35,6.2,0,0,0,0.00133627,0,0,0,18,0,0,0,21,0,1,0,3,2,0,1,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Karim Zedadka,M,Empoli,55,6.7,0,0,0,0.0170291,0,0,0,27,1,0,0,34,0,0,0,3,3,2,1,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Edoardo Saporiti,F,Empoli,86,7.6,1,0,0.273,0.00629547,3,1,0,18,0,0,0,42,1,0,1,4,1,3,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Filippo Distefano,F,Empoli,72,6.8,0,0,0,0.147783,0,0,0,22,1,1,0,29,0,0,0,1,0,1,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Gerard Yepes,M,Empoli,72,6.6,0,0,0,0.0118146,0,0,0,44,0,0,0,53,1,3,0,5,1,0,1,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Stiven Shpendi,F,Empoli,90,6.2,0,0,0.0728,0.00800397,2,1,0,18,0,0,1,36,1,0,0,3,1,2,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Jacopo Seghetti,G,Empoli,90,6.6,0,0,0,0.00247905,0,0,0,48,0,0,0,64,0,0,0,0,0,0,0,0,0,6
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Lapo Deli,M,Empoli,18,6.3,0,0,0,0.00294581,0,0,0,15,0,0,0,19,0,0,0,1,1,1,1,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Bogdan Popov,F,Empoli,18,6.3,0,0,0,0.00040073,0,0,0,4,0,0,0,7,0,0,0,0,1,0,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Andrea Orlandi,F,Empoli,10,6.4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Roberto Berizzi,D,Empoli,10,6.6,0,0,0,0.00259097,0,0,0,5,1,0,0,13,0,1,0,1,1,0,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Matteo Egan,M,Empoli,90,6.8,0,1,0,0.124421,0,0,0,19,1,1,0,45,4,1,1,6,2,1,0,0,1,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Francesco Bardi,G,Mantova,90,6.7,0,0,0,0.00040391,0,0,0,41,0,0,0,47,0,0,0,1,0,0,1,0,0,1
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Ettore Gliozzi,F,Mantova,55,6.5,0,0,0.156,0.00268116,2,1,0,11,0,0,0,20,0,0,0,2,0,1,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Stefano Cella,D,Mantova,90,6.6,0,1,0,0.00211219,0,0,0,29,1,0,0,42,0,1,1,3,2,0,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Simone Trimboli,M,Mantova,90,7.3,0,0,0.0416,0.67389,1,0,0,38,3,2,0,55,0,0,1,2,3,2,1,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Jean Pierre Longonda,M,Mantova,12,6.7,0,0,0.2477,0.00436595,1,1,0,2,0,0,1,5,0,1,0,1,0,0,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Rachid Kouda,M,Mantova,34,7.2,0,0,0.0157,0.226947,1,1,0,10,0,0,0,21,0,0,0,4,0,3,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Francesco Ruocco,F,Mantova,78,7.7,1,0,0.0322,0.00344722,1,1,0,13,0,0,0,24,0,0,1,4,0,4,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Vanja Vlahović,F,Mantova,35,8.1,1,1,0.1914,0.00796754,2,1,0,6,1,1,0,12,0,0,0,2,1,1,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Rareș Ilie,M,Mantova,56,6.4,0,0,0.1214,0.0273647,2,1,0,12,1,0,0,26,1,2,0,4,1,1,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Lorenzo Ignacchiti,M,Mantova,56,6.8,0,0,0,0.0606455,0,0,0,25,1,0,0,32,0,0,0,4,0,1,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Bodin Tomašević,D,Mantova,83,6.8,0,0,0,0.00361174,0,0,0,34,1,0,0,53,0,3,1,7,0,1,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Jonathan Silva,M,Mantova,90,7.5,0,0,0,0.0035306,0,0,0,38,0,0,0,61,1,2,5,7,1,2,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Alessio Castellini,D,Mantova,90,7.1,0,1,0.3221,0.0491538,3,1,0,55,1,0,1,70,0,1,3,5,3,1,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Fahem Benaissa-Yahia,M,Mantova,90,7.5,1,0,0.1117,0.010509,2,1,0,38,0,0,0,60,0,2,2,2,1,0,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Eman Košpo,D,Mantova,13,6.8,0,0,0,0.00008286,0,0,0,7,0,0,0,10,0,1,0,1,0,0,0,0,0,0
+Serie B,26_27,Mantova vs Empoli,30/08/2026,Ismael Cajazzo,M,Mantova,34,6.5,0,0,0.0442,0.00030565,1,1,0,5,0,0,0,17,0,1,1,4,1,2,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Mattia Maita,M,Benevento,90,7.6,0,0,0.0314,0.167578,2,0,0,67,1,0,0,80,0,2,0,2,0,0,0,0,1,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Stefano Scognamillo,D,Benevento,90,6.7,0,0,0,0.00766552,0,0,0,47,0,0,0,55,0,1,0,4,2,2,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Francesco Salvemini,F,Benevento,90,7,1,0,1.0054,0.0215995,3,2,0,11,2,0,1,21,0,1,1,2,2,1,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Gianmarco Vannucchi,G,Benevento,90,6.4,0,0,0,0.0007047,0,0,0,40,0,0,0,47,0,0,0,0,0,0,0,0,0,1
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Leonardo Sernicola,M,Benevento,90,6.5,0,0,0.004,0.0670306,1,0,0,28,2,0,0,41,0,1,1,3,1,0,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Marco Tumminello,F,Benevento,80,6.2,0,0,0.4296,0.0142505,5,0,0,21,0,0,1,37,0,1,1,4,4,0,1,0,1,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,David Okereke,F,Benevento,24,6.9,0,0,0.1425,0.00828785,3,0,0,16,0,0,0,25,3,1,0,4,0,0,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Pietro Beruatto,D,Benevento,74,6.6,0,0,0.0731,0.010693,1,1,0,40,0,0,0,54,1,1,0,5,2,1,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Antonis Siatounis,M,Benevento,16,7,0,0,0.0312,0.0194866,1,0,0,17,2,0,0,22,1,2,0,4,1,0,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Davide Lamesta,M,Benevento,80,7,0,0,0.2633,0.372879,3,1,0,18,4,1,0,39,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Guglielmo Mignani,F,Benevento,10,6.6,0,0,0.0484,0.00005617,1,0,0,1,0,0,0,4,0,2,0,2,0,0,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Pietro Saio,D,Benevento,90,6.6,0,0,0.0553,0.00323656,1,0,0,49,0,0,0,62,0,2,3,5,2,1,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Edoardo Pierozzi,D,Benevento,16,6.7,0,0,0,0.00228645,0,0,0,9,0,0,0,13,0,1,0,1,0,0,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Emanuele Schimmenti,F,Benevento,10,7,0,0,0,0,0,0,0,0,0,0,0,9,0,1,0,3,1,2,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Luigi Cherubini,F,Benevento,66,8,0,0,0.0377,0.0904696,2,1,0,35,3,0,0,53,2,1,2,9,0,3,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Antonio Prisco,M,Benevento,74,7.2,0,0,0.0558,0.0817212,1,0,0,48,3,0,0,63,1,1,1,4,1,1,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Fabian Tait,M,Südtirol,12,6.4,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Salvatore Molina,M,Südtirol,90,6,0,0,0.0397,0.0703864,1,0,0,44,1,0,0,64,0,0,1,1,0,1,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Alessandro Plizzari,G,Südtirol,90,6.8,0,0,0,0.00120785,0,0,0,46,0,0,0,57,0,0,0,1,0,1,0,0,0,3
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Silvio Merkaj,F,Südtirol,86,7.1,1,0,0.2842,0.00981366,2,1,0,11,0,0,0,19,0,0,0,1,3,1,1,0,1,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Bjarki Bjarkason,M,Südtirol,86,6.7,0,0,0.0459,0.0716036,2,1,0,21,2,0,0,32,0,0,1,1,0,1,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Simone Davì,M,Südtirol,19,6.4,0,0,0,0.00475709,0,0,0,5,0,0,0,9,0,0,0,1,1,0,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Andrea Giorgini,D,Südtirol,90,7.8,0,0,0,0.0145305,0,0,0,79,0,0,0,90,0,0,1,0,0,0,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Simone Tronchin,M,Südtirol,90,6.6,0,0,0.0325,0.0441073,1,0,0,54,1,0,0,64,1,1,0,2,1,0,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Aljoša Vasić,M,Südtirol,71,6.9,0,1,0.0998,0.0179582,1,0,0,21,1,1,0,39,1,0,0,5,0,2,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Davide Veroli,D,Südtirol,90,6.6,0,0,0,0.00579695,0,0,0,34,0,0,0,47,0,0,2,0,0,0,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Riccardo Stivanello,D,Südtirol,90,6.5,0,0,0,0.0142418,0,0,0,52,0,0,0,68,1,0,1,3,1,1,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Vasco Lopes,M,Südtirol,59,6.7,0,0,0.1551,0.0549677,2,0,0,28,0,0,0,43,0,2,0,6,2,4,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Rareș Burnete,F,Südtirol,31,6.5,0,0,0,0.0027775,0,0,0,7,0,0,0,20,0,1,0,4,1,2,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Fabio Rispoli,M,Südtirol,86,7,0,0,0,0.119155,0,0,0,57,1,0,0,63,1,0,0,2,1,1,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Alvin Obinna Okoro,F,Südtirol,12,6.4,0,0,0,0,0,0,0,1,0,0,0,6,0,0,0,2,1,0,0,0,0,0
+Serie B,26_27,Benevento vs Südtirol,30/08/2026,Elias Schrott,M,Südtirol,12,5.9,0,0,0,0,0,0,0,2,0,0,0,7,0,1,0,2,1,1,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Antonio Caracciolo,D,Pisa,18,6.7,0,0,0,0.00008897,0,0,0,4,0,0,0,7,0,1,0,1,0,0,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Arturo Calabresi,D,Pisa,90,6.5,0,0,0,0.00661184,0,0,0,33,0,0,0,49,0,1,1,3,1,2,1,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Andrea Petagna,F,Pisa,90,6.6,0,0,0.1531,0.091247,2,0,0,32,4,1,0,45,0,0,0,5,3,2,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Alessandro Confente,G,Pisa,90,7.5,0,0,0,0.00058608,0,0,0,35,0,0,0,55,0,0,0,2,0,1,0,0,0,6
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Mehdi Léris,M,Pisa,65,7.1,0,0,0.3079,0.0774619,4,2,0,27,2,0,1,46,1,3,1,6,0,0,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Matteo Tramoni,F,Pisa,79,7.8,0,1,0.2839,0.804788,4,1,0,27,6,3,0,49,0,0,0,2,1,0,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Simone Canestrelli,D,Pisa,90,7.8,1,0,0.318,0.00923103,2,2,0,28,0,0,1,40,0,0,2,5,2,1,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Giuseppe Leone,M,Pisa,79,7.7,1,0,0.5963,0.0709874,1,1,0,44,0,0,0,51,0,1,1,1,0,0,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Simone Zanon,M,Pisa,65,6.5,0,0,0,0.133657,0,0,0,20,1,0,0,35,0,1,1,3,4,1,1,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Gabriele Piccinini,M,Pisa,25,6.6,0,0,0.3137,0.0468058,2,1,0,10,1,0,1,14,0,0,0,1,0,1,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Rosen Bozhinov,D,Pisa,72,6.4,0,0,0,0.00430491,0,0,0,29,0,0,0,36,0,1,1,2,1,0,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Samuele Angori,M,Pisa,90,7.6,0,0,0.1093,0.0978468,2,1,0,38,2,0,0,63,2,3,0,8,1,2,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Isak Vural,M,Pisa,11,6.5,0,0,0,0.00183498,0,0,0,6,0,0,0,6,0,0,0,0,1,0,1,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Omar Correia,M,Pisa,90,7.5,0,1,0.1172,0.191504,1,0,0,34,1,1,0,57,2,4,2,7,1,1,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Emanuele Rao,F,Pisa,11,7.1,0,0,0.0353,0.0203974,1,1,0,8,0,0,0,11,0,1,0,2,0,1,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Daniel Denoon,D,Pisa,25,6.6,0,0,0,0.00586214,0,0,0,4,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Marco D'Alessandro,M,Catanzaro,9,6.8,0,0,0,0,0,0,0,1,0,0,0,5,0,1,0,2,0,1,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Pietro Iemmello,F,Catanzaro,90,7.5,1,0,0.3403,0.072618,3,2,0,39,0,0,1,51,1,0,0,2,1,1,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Mirko Pigliacelli,G,Catanzaro,90,6.9,0,0,0,0.00028314,0,0,0,34,0,0,0,45,0,0,0,1,0,1,0,0,0,6
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Federico Di Francesco,M,Catanzaro,11,6.6,0,0,0,0.0175645,0,0,0,4,0,0,0,7,0,1,0,1,0,0,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Jacopo Petriccione,M,Catanzaro,90,7.5,0,0,0,0.216088,0,0,0,86,3,0,0,106,1,3,2,5,1,1,1,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Nicola Mosti,M,Catanzaro,79,6.4,0,0,0.033,0.109218,2,0,0,36,3,1,0,53,0,3,1,3,1,0,0,0,1,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Matias Antonini,D,Catanzaro,90,7,0,0,0.013,0.00634106,1,0,0,55,0,0,0,78,0,1,5,8,2,2,1,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Antonio Candela,D,Catanzaro,45,6.2,0,1,0,0.0720361,0,0,0,13,2,0,0,23,0,0,0,0,1,0,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Emanuele Pecorino,F,Catanzaro,11,6.6,0,0,0,0.00207145,0,0,0,4,0,0,0,6,0,0,0,1,0,1,0,0,1,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Marco Ruggero,D,Catanzaro,68,6.7,0,0,0.0185,0.0093321,1,1,0,31,0,0,0,47,0,2,1,3,1,1,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Gabriele Alesi,F,Catanzaro,79,6.5,0,0,0.114,0.0109221,2,1,0,22,0,0,0,34,0,1,1,3,1,2,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Ruggero Frosinini,D,Catanzaro,22,6.5,0,0,0,0.0076793,0,0,0,20,0,0,0,28,0,0,1,1,0,0,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,N'Dri Koffi,F,Catanzaro,90,5.9,0,0,0.092,0.0134099,2,2,0,15,1,0,0,30,1,0,0,3,2,2,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Bruno Verrengia,D,Catanzaro,90,7.3,0,0,0,0.0871017,0,0,0,48,1,0,0,64,0,1,0,3,1,0,0,0,0,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Mehdi Dorval,M,Catanzaro,81,6.2,0,0,0.027,0.0646255,1,0,0,34,0,0,0,49,0,0,1,2,1,2,0,0,1,0
+Serie B,26_27,Pisa vs Catanzaro,30/08/2026,Franck Tchaouna,F,Catanzaro,45,7.2,0,0,0.3335,0.0279128,2,1,0,34,0,0,1,50,2,2,2,6,0,1,0,0,0,0

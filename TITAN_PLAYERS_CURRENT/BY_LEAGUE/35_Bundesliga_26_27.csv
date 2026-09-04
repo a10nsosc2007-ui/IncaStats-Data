@@ -5,11 +5,11 @@ Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Jonathan Tah,D,F
 Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Joshua Kimmich,M,FC Bayern München,90,8.4,0,2,0,0.626575,0,0,0,65,2,2,0,86,0,1,3,5,0,2,0,0,1,0
 Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Konrad Laimer,D,FC Bayern München,90,6.4,0,0,0.0771,0.0319177,1,1,0,44,2,0,0,68,1,2,2,6,3,2,0,0,0,0
 Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Dayot Upamecano,D,FC Bayern München,90,8.5,1,0,0.2356,0.184519,1,1,0,61,1,0,0,79,1,3,3,9,0,0,0,0,0,0
-Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Alphonso Davies,D,FC Bayern München,74,7.3,0,0,0,0.58819,0,0,0,44,4,1,0,59,1,0,1,4,0,2,0,0,0,0
+Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Alphonso Davies,D,FC Bayern München,74,7.3,0,0,0,0.58819,0,0,0,44,4,0,0,59,1,0,1,4,0,2,0,0,0,0
 Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Luis Díaz,M,FC Bayern München,90,7.6,1,0,1.6401,0.13406,6,2,0,46,1,0,2,70,2,0,0,6,2,2,0,0,0,0
 Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Kim Min-jae,D,FC Bayern München,84,7.1,0,0,0,0.0540339,0,0,0,39,1,0,0,50,0,0,0,2,1,0,1,0,0,0
 Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Josip Stanišić,D,FC Bayern München,16,6.7,0,0,0,0.0234521,0,0,0,18,0,0,0,19,0,0,0,0,0,0,0,0,0,0
-Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Michael Olise,M,FC Bayern München,90,8,1,0,0.9233,0.195737,6,2,1,43,2,0,1,66,1,0,0,2,1,1,0,0,1,0
+Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Michael Olise,M,FC Bayern München,90,8,1,0,0.9233,0.195737,6,2,1,43,2,0,0,66,1,0,0,2,1,1,0,0,1,0
 Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Ismael Saibari,M,FC Bayern München,29,8.4,0,2,0.0336,0.864748,1,0,0,12,3,2,0,21,1,0,0,2,1,1,0,0,0,0
 Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Tom Bischof,M,FC Bayern München,12,6.8,0,0,0,0.0260746,0,0,0,12,0,0,0,15,0,0,1,0,0,0,0,0,1,0
 Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Aleksandar Pavlović,M,FC Bayern München,84,8.2,1,0,0.9668,0.214744,3,2,0,66,1,0,0,81,2,0,1,4,2,1,0,0,0,0
@@ -31,3 +31,256 @@ Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Bilal El Khannou
 Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Dženan Pejčinović,F,VfB Stuttgart,63,6.2,0,0,0.033,0.0526066,1,0,0,21,0,0,0,25,0,0,0,0,0,0,0,0,0,0
 Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Finn Jeltsch,D,VfB Stuttgart,90,6.2,0,0,0,0.0125177,0,0,0,26,0,0,0,44,0,4,1,5,2,1,1,0,0,0
 Bundesliga,26_27,FC Bayern München vs VfB Stuttgart,28/08/2026,Chema Andrés,M,VfB Stuttgart,8,6.5,0,0,0,0.00331562,0,0,0,3,0,0,0,5,0,0,1,0,0,0,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Luca Schnellbacher,F,SV 07 Elversberg,15,6.4,0,0,0,0.00115944,0,0,0,9,0,0,0,11,0,0,1,1,1,0,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Jan Gyamerah,D,SV 07 Elversberg,75,7.3,0,0,0,0.000937,0,0,0,22,0,0,0,40,1,3,2,7,2,2,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Florian Yves Le Joncour,D,SV 07 Elversberg,8,6.3,0,0,0,0.00056242,0,0,0,9,0,0,0,10,0,0,0,1,0,0,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Maximilian Rohr,D,SV 07 Elversberg,82,6.4,0,0,0.0461,0.0030995,1,0,0,34,0,0,0,47,0,0,3,2,2,1,1,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Łukasz Poręba,M,SV 07 Elversberg,90,6.9,0,0,0,0.00953749,0,0,0,22,1,0,0,36,0,3,0,5,2,2,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Lukas Petkov,M,SV 07 Elversberg,90,8.1,1,1,0.1089,0.411688,2,1,0,20,2,1,0,43,0,2,1,4,3,2,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Luca Sirch,D,SV 07 Elversberg,15,6,0,0,0,0.00358899,0,0,0,7,0,0,0,13,0,0,0,1,0,1,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Lukas Finn Pinckert,D,SV 07 Elversberg,90,6.7,0,0,0,0.00214494,0,0,0,29,0,0,0,45,0,1,3,4,1,1,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Lasse Günther,D,SV 07 Elversberg,90,6.7,0,0,0,0.0152512,0,0,0,25,1,0,0,46,1,1,0,5,0,2,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Nicolas Kristof,G,SV 07 Elversberg,90,7.4,0,0,0,0.00560694,0,0,0,52,0,0,0,61,0,0,0,1,0,0,1,0,0,2
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Cole Campbell,F,SV 07 Elversberg,65,7.8,1,0,0.2665,0.0418731,3,3,0,8,0,0,1,21,1,0,0,3,2,2,1,0,1,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Maurice Krattenmacher,M,SV 07 Elversberg,25,6.3,0,0,0.0212,0.0128799,1,0,0,4,0,0,0,10,0,0,0,1,1,1,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Felix Keidel,D,SV 07 Elversberg,90,6.6,0,0,0.1749,0.0221803,1,0,0,26,0,0,0,41,0,1,1,1,3,0,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Francis Onyeka,M,SV 07 Elversberg,65,7,0,1,0.2537,0.0554953,1,1,0,12,2,1,0,24,2,1,0,5,1,1,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,David Mokwa,F,SV 07 Elversberg,75,7.5,1,0,0.4442,0.0640696,2,1,0,8,1,0,0,17,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Noah Darvich,M,SV 07 Elversberg,25,6.2,0,0,0,0.00606884,0,0,0,6,0,0,0,11,0,0,0,1,0,0,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Jonas Hofmann,F,Bayer 04 Leverkusen,25,6.7,0,0,0.0285,0.0515419,1,1,0,20,2,0,0,22,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Mark Flekken,G,Bayer 04 Leverkusen,90,5.9,0,0,0,0.00165646,0,0,0,21,0,0,0,33,0,0,0,0,0,0,0,0,0,3
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Lucas Vázquez,M,Bayer 04 Leverkusen,55,5.7,0,0,0,0.0089376,0,0,0,22,0,0,0,36,0,1,0,2,2,1,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Patrik Schick,F,Bayer 04 Leverkusen,90,6.4,1,0,0.6452,0.123478,5,1,0,21,1,0,1,34,1,0,0,5,1,2,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Aleix García,M,Bayer 04 Leverkusen,90,7,0,0,0.0555,0.148295,2,0,1,98,1,0,0,110,0,1,1,2,0,0,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Facundo Medina,D,Bayer 04 Leverkusen,35,6.9,0,0,0,0.0291708,0,0,0,48,0,0,0,52,0,0,1,1,1,1,1,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Edmond Tapsoba,D,Bayer 04 Leverkusen,90,5.8,0,0,0,0.0231376,0,0,0,77,0,0,0,88,0,2,0,5,0,1,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Miguel Gutiérrez,D,Bayer 04 Leverkusen,90,6.8,0,0,0,0.568785,0,0,0,67,4,2,0,97,1,2,1,4,1,0,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Malik Tillman,M,Bayer 04 Leverkusen,65,6.9,0,0,0.0406,0.207557,1,0,0,31,0,0,0,48,0,2,3,5,1,3,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Victor Okoh Boniface,F,Bayer 04 Leverkusen,12,6.3,0,0,0.2108,0.179458,3,1,1,2,1,0,1,6,0,0,0,1,0,0,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Ezequiel Fernández,M,Bayer 04 Leverkusen,55,6.7,0,0,0.0691,0.114453,1,0,0,46,1,0,0,57,1,1,1,4,0,2,0,0,1,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Jarell Quansah,D,Bayer 04 Leverkusen,35,7.1,0,0,0,0.362192,0,0,0,18,3,1,0,29,0,0,0,0,1,0,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Loïc Badé,D,Bayer 04 Leverkusen,55,6.5,0,0,0.1167,0.00347314,1,0,0,45,0,0,1,56,0,1,4,4,1,1,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Afonso Moreira,F,Bayer 04 Leverkusen,85,6.2,0,0,0.2958,0.0613242,2,0,0,22,0,0,1,41,1,1,0,6,2,4,0,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Ibrahim Maza,F,Bayer 04 Leverkusen,90,7.1,0,1,0.2136,0.376186,3,0,0,37,4,1,0,58,1,2,0,6,3,2,1,0,0,0
+Bundesliga,26_27,SV 07 Elversberg vs Bayer 04 Leverkusen,29/08/2026,Christian Kofane,F,Bayer 04 Leverkusen,35,6.8,1,0,0.2226,0.0799574,2,1,0,7,0,0,0,11,0,0,0,1,2,0,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Oliver Baumann,G,TSG Hoffenheim,90,7.8,0,0,0,0.0514385,0,0,0,35,0,0,0,42,0,0,0,0,0,0,0,0,0,3
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Andrej Kramarić,F,TSG Hoffenheim,9,6.5,0,0,0.0204,0.00051237,1,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Vladimír Coufal,D,TSG Hoffenheim,90,6.7,0,1,0,0.300855,0,0,0,60,4,1,0,88,0,1,1,3,2,2,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Bernardo,D,TSG Hoffenheim,53,7.2,0,0,0,0.00464442,0,0,0,27,0,0,0,43,0,3,0,3,0,0,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Ozan Kabak,D,TSG Hoffenheim,90,7.6,1,0,0.048,0.0217375,1,1,0,59,0,0,0,77,0,1,0,13,5,0,1,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Wouter Burger,M,TSG Hoffenheim,90,6.6,0,0,0,0.0911182,0,0,0,55,0,0,0,65,0,0,0,3,1,0,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Robin Hranáč,D,TSG Hoffenheim,37,6.6,0,0,0,0.0472001,0,0,0,30,0,0,0,42,0,1,1,2,0,0,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Adam Hložek,F,TSG Hoffenheim,53,7,0,0,0.0723,0.0532334,2,0,0,11,1,0,0,25,2,1,0,5,0,0,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Patrick Wimmer,M,TSG Hoffenheim,71,6.8,0,0,0.1269,0.14007,2,0,0,26,1,1,0,41,2,1,0,6,0,2,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Albian Hajdari,D,TSG Hoffenheim,87,6.3,0,0,0.0154,0.179483,1,0,0,63,0,0,0,77,0,1,0,4,3,0,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Adam Daghim,F,TSG Hoffenheim,87,7.5,1,0,0.0172,0.111153,1,1,0,16,1,0,0,40,0,1,3,5,0,2,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Bambasé Conté,M,TSG Hoffenheim,90,6.7,0,1,0.2172,0.109721,2,0,0,28,3,0,1,47,0,0,0,4,0,4,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Mats Rots,D,TSG Hoffenheim,9,6.7,0,0,0,0.00803086,0,0,0,3,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Max Moerstedt,F,TSG Hoffenheim,37,6.1,0,0,1.3078,0.00272163,3,2,0,2,0,0,2,10,0,1,0,1,0,0,1,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Leon Avdullahu,M,TSG Hoffenheim,90,6.8,0,0,0.0578,0.0872505,2,0,0,65,0,0,0,77,0,2,3,3,2,1,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Nathan De Cat,M,TSG Hoffenheim,19,6.4,0,0,0,0.0276852,0,0,0,9,1,0,0,12,0,0,0,1,1,0,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Marvin Schwäbe,G,1. FC Köln,90,7.4,0,0,0,0.00899133,0,0,0,51,0,0,0,56,0,0,0,0,0,0,0,0,0,2
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Marius Bülter,F,1. FC Köln,1,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Ellyes Skhiri,M,1. FC Köln,25,6.5,0,0,0,0.00532043,0,0,0,8,0,0,0,13,0,1,1,1,1,0,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Luka Lochoshvili,D,1. FC Köln,90,6.7,0,0,0.0979,0.00243244,2,0,0,50,0,0,0,67,1,1,1,7,1,1,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Alessio Castro-Montes,M,1. FC Köln,89,6.2,0,0,0,0.136392,0,0,0,23,2,0,0,46,0,2,0,3,1,0,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Gideon Mensah,D,1. FC Köln,90,6.6,0,0,0.0305,0.0565286,1,0,0,38,0,0,0,65,0,2,1,5,2,2,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Ragnar Ache,F,1. FC Köln,65,6.9,0,0,0.0855,0.00998605,1,0,0,10,2,0,0,26,0,0,0,8,0,4,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Thijs Dallinga,F,1. FC Köln,25,8.9,2,0,0.2482,0.00238654,3,2,0,5,0,0,0,14,0,0,0,3,0,1,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Linton Maina,M,1. FC Köln,25,6.8,0,1,0,0.110638,0,0,0,7,1,1,0,10,0,0,0,1,0,1,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Tom Krauß,M,1. FC Köln,89,7.2,0,0,0.5952,0.0252827,2,1,0,29,0,0,1,48,0,2,2,4,2,2,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Joel Schmied,D,1. FC Köln,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Jan Uwe Thielmann,M,1. FC Köln,90,7.3,0,0,0.0443,0.0394061,1,0,0,20,1,0,0,36,1,3,0,5,0,1,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Ísak Bergmann Jóhannesson,M,1. FC Köln,90,7.2,0,0,0.0201,0.229634,1,0,0,25,3,1,0,45,0,4,1,4,0,0,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Jahmai Simpson-Pusey,D,1. FC Köln,90,6.1,0,0,0,0.00103635,0,0,0,40,0,0,0,56,1,1,2,3,1,1,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Paul Okon-Engstler,M,1. FC Köln,65,6.5,0,0,0.0941,0.0108279,1,0,0,24,1,0,0,38,1,1,0,2,2,0,0,0,0,0
+Bundesliga,26_27,1. FC Köln vs TSG Hoffenheim,29/08/2026,Said El Mala,M,1. FC Köln,65,7.4,1,0,0.7311,0.0122289,6,3,0,13,0,0,1,33,0,1,0,2,1,1,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Kevin Stöger,M,Borussia M'gladbach,64,6.3,0,0,0,0.0148869,0,0,0,42,0,0,0,54,0,1,0,2,2,1,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Tim Kleindienst,F,Borussia M'gladbach,90,6.5,0,0,0.0668,0.0220287,1,0,0,16,1,0,1,30,0,2,0,5,2,0,0,0,1,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Franck Honorat,M,Borussia M'gladbach,26,7,0,0,0.0628,0.291003,2,2,0,14,6,1,0,23,0,0,0,0,0,0,0,0,1,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Moritz Nicolas,G,Borussia M'gladbach,90,8.7,0,0,0,0.00020942,0,0,0,38,0,0,0,54,0,0,0,0,0,0,0,0,0,8
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Kevin Diks,D,Borussia M'gladbach,90,6.2,0,0,0,0.0103235,0,0,0,78,0,0,0,86,0,2,0,3,0,1,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Ko Itakura,D,Borussia M'gladbach,90,6.1,0,0,0.0603,0.119047,1,0,0,58,0,0,0,71,0,0,1,3,0,1,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Isac Lidberg,F,Borussia M'gladbach,26,6.6,0,0,0.0954,0.00000753,1,0,0,1,0,0,0,5,0,0,0,1,0,1,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Robin Hack,M,Borussia M'gladbach,64,6.3,0,0,0.0611,0.029408,1,0,0,23,1,0,0,36,0,1,1,1,0,0,0,0,1,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Daiki Hashioka,D,Borussia M'gladbach,76,5.9,0,0,0.2189,0.00217608,1,0,0,33,0,0,0,50,0,1,0,2,1,1,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Philipp Sander,D,Borussia M'gladbach,90,6.2,0,0,0.07,0.139179,2,0,0,65,1,1,0,85,0,4,0,4,3,0,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,David Herold,D,Borussia M'gladbach,26,6.6,0,0,0,0.00609966,0,0,0,11,0,0,0,24,0,3,0,5,1,1,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Joe Scally,D,Borussia M'gladbach,14,6.5,0,0,0.0319,0.00638499,1,0,0,14,0,0,0,22,0,0,0,0,0,0,0,0,1,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Lukas Ullrich,D,Borussia M'gladbach,64,6.3,0,0,0.0673,0.125687,1,0,0,17,0,0,0,31,1,2,1,3,2,0,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Hugo Bolin,M,Borussia M'gladbach,90,6.9,0,0,0.3536,0.0780974,4,2,1,24,1,0,1,43,0,4,1,6,0,2,0,0,1,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Mathieu Nguefack ,M,Borussia M'gladbach,26,6.8,0,0,0,0.03169,0,0,0,20,1,0,0,22,1,0,0,2,0,1,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Wael Mohya,M,Borussia M'gladbach,64,6.4,0,0,0,0.0895948,0,0,0,21,1,0,0,36,1,0,0,3,2,1,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Willi Orbán,D,RB Leipzig,90,7.9,0,0,1.0453,0.006205,2,1,1,56,0,0,1,71,0,0,0,7,0,1,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Benjamin Henrichs,D,RB Leipzig,17,6.8,0,0,0,0.00004669,0,0,0,9,1,0,0,16,0,0,1,1,0,1,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Christopher Nkunku,F,RB Leipzig,26,7.1,0,1,0,0.122949,0,0,0,7,1,1,0,8,0,0,0,0,1,0,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,David Raum,D,RB Leipzig,90,7.8,0,0,0.0342,0.71372,1,1,0,42,4,1,0,68,0,0,1,0,3,0,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Ridle Baku,D,RB Leipzig,73,8.2,1,0,0.4874,0.0181656,2,1,0,47,0,0,0,75,1,3,1,5,0,1,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Maarten Vandevoordt,G,RB Leipzig,90,8.1,0,0,0,0.00097129,0,0,0,40,0,0,0,52,0,0,0,0,0,0,0,0,0,4
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Castello Lukeba,D,RB Leipzig,90,8.1,0,0,0.016,0.0337732,1,0,0,64,0,0,0,88,0,0,3,1,0,1,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Nicolas Seiwald,M,RB Leipzig,90,6.9,0,0,0,0.0141285,0,0,0,32,0,0,0,44,0,3,2,3,1,0,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Rocco Reitz,M,RB Leipzig,83,8.1,1,0,0.46,0.112634,2,1,0,26,3,0,0,41,1,0,0,3,1,2,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Johan Bakayoko,F,RB Leipzig,17,6.3,0,0,0,0.00003086,0,0,0,2,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Antonio Nusa,F,RB Leipzig,90,8.2,1,0,0.2734,0.138067,4,3,0,29,2,1,0,47,2,3,0,7,1,2,1,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Arthur Vermeeren,M,RB Leipzig,14,6.5,0,0,0.0278,0.00002249,1,0,0,4,0,0,0,5,0,0,0,0,1,0,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Ezechiel Banzuzi,M,RB Leipzig,83,6.9,0,0,1.2607,0.0342819,4,1,0,20,1,0,2,35,0,2,0,5,2,2,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Brajan Gruda,M,RB Leipzig,73,8.8,0,0,0.1488,0.767884,2,2,0,33,2,0,0,53,4,1,0,7,0,2,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Tidiam Gomis,F,RB Leipzig,64,6.5,0,2,0.6829,0.0291314,4,0,0,15,2,1,1,31,0,1,0,1,0,0,0,0,0,0
+Bundesliga,26_27,RB Leipzig vs Borussia M'gladbach,29/08/2026,Conrad Harder,F,RB Leipzig,14,6.5,0,0,0.2138,0.0138342,2,1,0,1,1,0,0,7,0,0,0,1,0,1,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Rani Khedira,M,1. FC Union Berlin,90,6.4,0,0,0,0.0110764,0,0,0,23,0,0,0,34,0,2,2,3,1,0,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Janik Haberer,M,1. FC Union Berlin,15,6.8,0,0,0.1379,0.00408829,1,1,0,9,0,0,1,14,0,2,0,2,0,0,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Josip Juranović,M,1. FC Union Berlin,90,7.7,0,2,0.0427,0.310785,1,1,0,31,5,1,0,79,0,4,2,5,0,0,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Tim Skarke,M,1. FC Union Berlin,29,7.1,1,0,0.7543,0.118995,2,2,0,6,1,1,0,15,0,0,0,1,1,1,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Matheo Raab,G,1. FC Union Berlin,90,5.2,0,0,0,0.00029918,0,0,0,33,0,0,0,37,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Emmanuel Latte Lath,F,1. FC Union Berlin,61,7.1,1,0,0.232,0.00277527,2,1,0,12,0,0,0,17,0,0,0,1,0,0,0,0,1,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Michel Aebischer,M,1. FC Union Berlin,61,6,0,0,0.091,0.0824801,3,0,0,15,2,0,0,24,0,1,0,3,4,0,1,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,András Schäfer,M,1. FC Union Berlin,61,6.7,0,0,0,0.0449233,0,0,0,20,0,0,0,30,0,2,2,2,1,0,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Derrick Köhn,M,1. FC Union Berlin,8,6.7,0,0,0.0173,0.00136815,1,1,0,6,0,0,0,12,0,0,0,1,0,1,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Woo-Yeong Jeong,F,1. FC Union Berlin,29,6.8,0,0,0.0552,0.246342,1,1,0,19,2,0,0,26,0,0,1,2,0,1,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Leopold Querfeld,D,1. FC Union Berlin,90,7.5,1,1,0.1538,0.0181022,2,1,0,42,3,1,0,72,0,3,2,11,1,1,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Marin Ljubičić,F,1. FC Union Berlin,82,6.1,0,0,0.2379,0.0218457,2,1,0,7,1,0,0,13,0,0,0,1,1,0,0,0,1,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Zeno Van Den Bosch,D,1. FC Union Berlin,90,6.3,0,0,0,0.081777,0,0,0,53,2,0,0,70,0,2,0,7,2,1,1,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Aljoscha Kemlein,M,1. FC Union Berlin,75,6.6,0,0,0,0.018781,0,0,0,48,0,0,0,57,0,1,1,2,0,0,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Tom Alexander Rothe,D,1. FC Union Berlin,90,6.2,0,0,0.0615,0.131202,2,1,0,29,1,0,0,69,0,2,2,5,0,1,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Livan Burcu,F,1. FC Union Berlin,29,6.6,0,0,0.0565,0.00343834,2,0,0,8,0,0,0,21,2,0,0,5,0,2,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Robin Koch,D,Eintracht Frankfurt,90,6.7,0,0,0,0.0291901,0,0,0,48,0,0,0,69,0,1,3,8,1,0,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Jonathan Burkardt,F,Eintracht Frankfurt,66,6.1,0,0,0.0441,0.0249389,1,0,0,22,1,0,0,30,1,0,1,1,0,0,0,0,1,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Noah Atubolu,G,Eintracht Frankfurt,90,7.9,0,0,0,0.00132106,0,0,0,40,0,0,0,54,0,0,0,1,0,1,0,0,0,8
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Raphael Onyedika,M,Eintracht Frankfurt,90,6.6,0,0,0,0.00779055,0,0,0,34,0,0,0,44,0,2,0,3,1,0,1,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Oscar Højlund,M,Eintracht Frankfurt,11,6.5,0,0,0,0.0026498,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Farès Chaïbi,M,Eintracht Frankfurt,90,6.7,0,0,0.0524,0.105492,2,0,0,44,1,0,0,61,0,0,0,1,0,1,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Elias Baum,D,Eintracht Frankfurt,90,6.7,0,1,0.1192,0.419042,2,0,0,35,2,2,0,78,2,5,0,9,3,0,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Can Uzun,M,Eintracht Frankfurt,79,6.7,0,0,0.312,0.185209,1,0,0,33,2,0,1,60,2,0,0,4,0,2,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Younes Ebnoutalib,F,Eintracht Frankfurt,85,9.7,3,0,0.6821,0.0293299,3,3,0,16,1,0,0,34,2,1,0,4,1,1,1,0,1,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Keita Kosugi,D,Eintracht Frankfurt,90,5.8,0,0,0,0.0117516,0,0,0,25,0,0,0,61,0,1,3,5,0,2,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Jeremiaha Maluze,D,Eintracht Frankfurt,90,7.9,0,0,0,0.472113,0,0,0,70,0,0,0,98,0,2,3,17,0,1,1,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Ayoube Amaimouni Echghouyab,F,Eintracht Frankfurt,79,6.4,0,0,0.2567,0.0429076,3,0,0,14,1,0,0,37,3,1,0,6,1,2,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Malik Pimpong,F,Eintracht Frankfurt,24,6.3,0,0,0,0.00195667,0,0,0,9,0,0,0,17,0,0,0,2,1,0,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Love Arrhov,M,Eintracht Frankfurt,11,6.4,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,1. FC Union Berlin vs Eintracht Frankfurt,29/08/2026,Otavio,D,Eintracht Frankfurt,10,6.2,0,0,0,0.00000377,0,0,0,1,0,0,0,5,0,0,0,1,2,0,1,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Danny da Costa,D,1. FSV Mainz 05,90,7.6,0,0,0.1329,0.303391,5,0,0,49,1,0,0,69,0,3,2,7,1,1,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Phillipp Mwene,M,1. FSV Mainz 05,90,6.6,0,0,0.0586,0.0423761,1,1,0,35,0,0,0,58,0,1,0,2,1,1,1,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Dominik Kohr,D,1. FSV Mainz 05,80,7.6,0,0,0.0139,0.0745994,1,1,0,49,0,0,0,63,0,4,0,5,1,0,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Silvan Widmer,M,1. FSV Mainz 05,17,7,0,0,0,0.16291,0,0,0,8,1,1,0,14,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Robin Zentner,G,1. FSV Mainz 05,90,6.9,0,0,0,0.00139486,0,0,0,25,0,0,0,31,0,0,0,2,0,2,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Nadiem Amiri,M,1. FSV Mainz 05,90,7.4,0,0,0.1863,0.573122,2,0,0,48,6,1,0,81,3,0,0,4,1,1,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Sheraldo Becker,F,1. FSV Mainz 05,68,6.8,0,0,0,0.553472,0,0,0,14,0,0,0,27,0,0,0,2,0,0,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Jae-sung Lee,M,1. FSV Mainz 05,68,6.3,0,0,0.2114,0.118642,4,0,0,31,1,0,1,54,0,0,4,2,0,1,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Phillip Tietz,F,1. FSV Mainz 05,90,6,0,0,0.3675,0.138876,3,1,1,30,2,0,1,45,0,0,1,2,1,0,0,0,1,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Anthony Caci,M,1. FSV Mainz 05,73,7.8,0,0,0.0879,0.115958,2,1,0,36,2,0,0,59,1,3,0,5,1,0,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Ransford Yeboah Königsdörffer,F,1. FSV Mainz 05,22,6.6,0,0,0,0.00104723,0,0,0,3,0,0,0,12,0,1,0,3,0,1,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Kaishu Sano,M,1. FSV Mainz 05,90,7.2,0,0,0.1062,0.123359,2,0,0,53,1,0,0,75,0,1,4,3,0,2,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Fabio Gruber,D,1. FSV Mainz 05,90,7.9,0,0,0.0664,0.0621076,1,0,0,48,0,0,0,64,0,3,1,8,2,0,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Otto Ruoppi,M,1. FSV Mainz 05,22,6.6,0,0,0,0.00261784,0,0,0,9,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Kacper Potulski,D,1. FSV Mainz 05,10,6.8,0,0,0,0.00617132,0,0,0,23,0,0,0,25,0,0,0,2,0,0,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Tom Baack,M,SC Paderborn 07,15,6.6,0,0,0,0.0104224,0,0,0,8,0,0,0,10,0,1,0,1,0,0,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Raphael Obermair,M,SC Paderborn 07,90,6.9,0,0,0.0367,0.227578,1,0,0,30,2,0,0,53,0,1,3,1,0,0,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Steffen Tigges,F,SC Paderborn 07,23,6.6,0,0,0.0631,0.00117199,2,0,0,4,0,0,0,10,1,0,0,5,1,1,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Marvin Pieringer,F,SC Paderborn 07,89,6.8,0,0,0.0752,0.170076,1,0,0,21,1,1,0,35,0,2,0,7,3,2,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Laurin Curda,M,SC Paderborn 07,90,8.3,0,0,0.3199,0.539204,3,0,0,33,1,0,1,73,0,4,3,11,1,1,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Nahuel Noll,G,SC Paderborn 07,90,8.1,0,0,0,0.00055714,0,0,0,39,0,0,0,46,0,0,0,0,0,0,0,0,0,4
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Mattes Hansen,D,SC Paderborn 07,75,6.9,0,0,0,0.008093,0,0,0,57,0,0,0,72,0,0,0,0,1,0,1,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Gabriel Vidović,M,SC Paderborn 07,90,7,0,0,0,0.0292966,0,0,0,55,1,0,0,63,2,0,0,3,0,1,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Tjark Lasse Scheller,D,SC Paderborn 07,90,7.5,0,0,0,0.038983,0,0,0,59,0,0,0,76,0,3,1,6,1,0,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Jano Ter-Horst,D,SC Paderborn 07,90,7.5,0,0,0.0213,0.0444142,1,0,0,46,1,0,0,66,0,1,2,3,1,1,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Laurin Ulrich,M,SC Paderborn 07,75,6.3,0,0,0.0192,0.0211244,1,0,0,27,0,0,0,43,0,0,1,2,0,1,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Stefano Marino,F,SC Paderborn 07,67,6.4,0,0,0.1966,0.0284176,1,0,0,22,1,0,0,30,0,0,0,3,0,1,0,0,1,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Santiago Castañeda,M,SC Paderborn 07,90,7.1,0,0,0,0.0356373,0,0,0,51,1,0,0,76,0,3,3,6,2,0,1,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Jonah Sticker,D,SC Paderborn 07,15,6.8,0,0,0,0.00207367,0,0,0,9,0,0,0,13,0,0,1,0,0,0,0,0,0,0
+Bundesliga,26_27,1. FSV Mainz 05 vs SC Paderborn 07,29/08/2026,Clemens Lippmann,M,SC Paderborn 07,1,0,0,0,0,0.00138977,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Marcel Sabitzer,M,Borussia Dortmund,36,6.8,0,0,0,0.0469004,0,0,0,14,0,0,0,16,0,0,1,2,0,1,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Serhou Guirassy,F,Borussia Dortmund,90,8,1,0,0.1319,0.265574,2,2,0,28,2,0,0,44,1,0,0,6,1,4,0,0,1,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Gregor Kobel,G,Borussia Dortmund,90,7.2,0,0,0,0.00120467,0,0,0,25,0,0,0,33,0,0,0,2,0,0,0,0,0,3
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Waldemar Anton,D,Borussia Dortmund,90,7.5,0,0,0,0.0300896,0,0,0,89,0,0,0,102,0,0,3,3,1,1,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Julian Ryerson,M,Borussia Dortmund,74,7.2,0,0,0,0.207,0,0,0,29,1,0,0,54,1,1,0,5,2,3,1,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Joey Veerman,M,Borussia Dortmund,16,6.5,0,0,0.0817,0.0027026,1,0,0,6,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Felix Nmecha,M,Borussia Dortmund,74,6.9,0,0,0.0494,0.0441133,2,1,0,47,1,0,0,60,0,1,1,2,1,0,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Maximilian Beier,F,Borussia Dortmund,84,7,0,1,0.3429,0.115479,5,0,0,28,2,0,0,49,0,2,0,6,0,3,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Giannis Konstantelias,M,Borussia Dortmund,54,6.7,1,0,0.3662,0.140304,2,1,0,26,2,0,0,40,1,0,2,2,1,1,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Daniel Svensson,M,Borussia Dortmund,90,7.7,0,0,0,0.0474991,0,0,0,73,0,0,0,97,0,2,3,6,2,2,1,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Jobe Bellingham,M,Borussia Dortmund,90,7.1,0,0,0.0402,0.129277,1,0,0,55,3,0,0,74,1,4,2,6,2,1,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Filippo Mané,D,Borussia Dortmund,16,6.6,0,0,0,0.0000097,0,0,0,1,0,0,0,4,0,0,0,1,1,1,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Konstantinos Karetsas,M,Borussia Dortmund,74,7.9,0,1,0.4438,0.136688,6,3,0,47,3,0,0,72,4,1,0,7,0,2,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Joane Gadou,D,Borussia Dortmund,90,7.3,0,0,0,0.0351429,0,0,0,69,0,0,0,80,0,1,1,2,1,0,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Samuele Inacio,M,Borussia Dortmund,3,4.5,0,0,0,0.00009271,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Kauã Prates,D,Borussia Dortmund,11,6.9,0,0,0.0716,0.00087642,1,0,0,0,0,0,0,7,1,2,0,3,0,0,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Daniel Fernandes,G,Hamburger SV,90,8.4,0,0,0,0.00505541,0,0,0,70,0,0,0,81,0,0,0,0,0,0,0,0,0,5
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Yussuf Poulsen,F,Hamburger SV,8,6.6,0,0,0,0.00273373,0,0,0,3,0,0,0,4,0,0,0,2,0,1,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Jordan Torunarigha,D,Hamburger SV,82,5.9,0,0,0,0.0033832,0,0,0,36,0,0,0,45,0,1,1,1,4,0,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Sebastiaan Bornauw,D,Hamburger SV,90,5.4,0,0,0,0.0034611,0,0,0,38,0,0,0,50,0,1,4,2,3,0,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Bakery Jatta,M,Hamburger SV,82,6.4,0,0,0,0.0421873,0,0,0,37,0,0,0,55,0,1,1,3,2,1,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Patson Daka,F,Hamburger SV,67,6.5,0,0,0.6073,0.0255244,3,0,1,12,0,0,2,25,1,2,0,5,0,1,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Terem Moffi,F,Hamburger SV,23,6.4,0,0,0.1379,0.00181342,1,1,0,4,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Albert Sambi Lokonga,M,Hamburger SV,90,6.9,0,0,0.0454,0.205973,1,0,0,65,2,1,0,83,1,2,0,6,2,3,1,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Nicolás Capaldo,D,Hamburger SV,90,6,0,0,0,0.193511,0,0,0,40,2,1,0,59,0,3,2,3,1,0,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Rayan Philippe,F,Hamburger SV,1,0,0,0,0.0501,0.00300389,1,0,0,3,1,0,0,7,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Albert Grønbæk,M,Hamburger SV,90,6.9,0,0,0.0718,0.0098828,2,2,0,25,0,0,0,46,2,0,1,6,0,4,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Nicolai Remberg,M,Hamburger SV,90,6.8,0,0,0,0.0338283,0,0,0,43,1,0,0,52,0,0,1,2,2,1,0,0,1,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Bilal Nadir,M,Hamburger SV,8,6.5,0,0,0,0.0151612,0,0,0,4,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Martin Adeline,M,Hamburger SV,67,6.6,0,0,0,0.0617688,0,0,0,20,0,0,0,27,0,1,0,3,0,0,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Otto Stange,F,Hamburger SV,23,6.4,0,0,0,0.00415191,0,0,0,6,0,0,0,10,1,0,0,2,2,1,0,0,0,0
+Bundesliga,26_27,Borussia Dortmund vs Hamburger SV,29/08/2026,Louis Lemke,D,Hamburger SV,89,6,0,0,0,0.0545582,0,0,0,13,1,0,0,45,1,2,3,3,3,0,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Niclas Füllkrug,F,SV Werder Bremen,61,6.2,0,0,0.0939,0.00166347,2,1,0,19,0,0,1,28,0,0,0,6,4,0,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Cédric Itten,F,SV Werder Bremen,29,6.4,0,0,0.0787,0.00606122,1,0,0,8,0,0,0,14,0,1,0,2,0,0,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Marco Grüll,F,SV Werder Bremen,85,7.9,0,1,0.1069,0.125759,1,0,0,29,2,1,0,58,1,6,1,13,1,5,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Marco Friedl,D,SV Werder Bremen,90,6.1,0,0,0,0.0215718,0,0,0,71,1,0,0,84,0,1,2,1,2,0,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Senne Lynen,M,SV Werder Bremen,45,6.5,0,0,0,0.00077445,0,0,0,13,0,0,0,20,1,2,1,3,1,0,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Amos Pieper,D,SV Werder Bremen,90,6.6,0,0,0.0226,0.0109958,1,1,0,63,0,0,0,80,0,2,0,3,0,0,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Ludovit Reis,M,SV Werder Bremen,85,6.8,0,0,0.0296,0.0158122,1,0,0,31,1,0,0,53,0,7,0,7,1,0,1,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Olivier Deman,D,SV Werder Bremen,90,5.9,0,0,0,0.0532038,0,0,0,47,0,0,0,68,1,1,0,3,1,0,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Karl Hein,G,SV Werder Bremen,90,6,0,0,0,0.00170544,0,0,0,37,0,0,0,45,0,0,0,0,0,0,0,0,0,1
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Justin Njinmah,F,SV Werder Bremen,61,6.9,0,0,0.0301,0.0392672,1,0,0,12,0,0,0,23,1,2,0,5,0,2,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Eren Dinkçi,F,SV Werder Bremen,9,6.5,0,0,0,0.00059205,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Chuki,M,SV Werder Bremen,90,6.2,0,0,0,0.0250333,0,0,0,33,1,0,0,44,1,1,0,3,2,1,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Dariusz Stalmach,M,SV Werder Bremen,45,8,1,0,0.1458,0.0784366,1,1,0,19,1,0,0,29,0,4,0,5,2,1,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Mick Schmetgens,D,SV Werder Bremen,90,5.8,0,0,0,0.00548764,0,0,0,33,0,0,0,48,0,1,0,4,1,3,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Patrice Čović,M,SV Werder Bremen,9,6.5,0,0,0.0297,0.00324043,1,0,0,4,0,0,0,6,0,0,0,0,1,0,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Salim Musah,F,SV Werder Bremen,29,6.5,0,0,0,0.00449613,0,0,0,11,0,0,0,13,0,1,0,1,0,0,0,0,1,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Matthias Ginter,D,SC Freiburg,90,7.5,0,1,0.0452,0.174256,2,0,0,69,3,0,0,84,0,0,1,6,0,2,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Lukas Kübler,D,SC Freiburg,69,7.8,0,0,0.0465,0.0361679,1,0,0,34,0,0,0,48,0,1,0,7,1,4,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Lucas Höler,F,SC Freiburg,17,6.6,0,0,0,0.00713248,0,0,0,12,2,0,0,14,0,1,0,1,1,0,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Maximilian Eggestein,M,SC Freiburg,90,6.9,0,0,0.044,0.0462405,2,0,1,55,1,0,0,66,0,1,1,3,0,2,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Philipp Lienhart,D,SC Freiburg,69,7.8,0,0,0,0.124706,0,0,0,59,2,0,0,74,0,0,1,3,1,2,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Jan-Niklas Beste,M,SC Freiburg,45,7.2,0,1,0.0467,0.293033,2,0,0,23,1,1,0,35,0,0,0,0,1,0,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Philipp Treu,D,SC Freiburg,21,6.4,0,0,0,0.00118412,0,0,0,13,0,0,0,20,0,1,0,1,1,0,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Yannick Engelhardt,M,SC Freiburg,90,6.1,0,0,0.0461,0.0178401,1,0,0,40,0,0,0,48,1,0,0,2,1,0,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Igor Matanović,F,SC Freiburg,73,9.2,1,1,0.2376,0.590788,5,1,0,11,2,1,0,32,3,0,0,8,0,3,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Yuito Suzuki,M,SC Freiburg,80,9.4,3,0,1.7665,0.033256,3,3,0,30,1,0,0,52,1,0,1,1,0,0,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Mio Backhaus,G,SC Freiburg,90,5.8,0,0,0,0.00512662,0,0,0,31,0,0,0,45,0,0,0,0,0,0,0,0,0,2
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Derry Scherhant,F,SC Freiburg,90,7.1,0,0,0.079,0.0730951,2,1,0,29,1,0,0,51,1,2,1,4,4,1,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Maximilian Rosenfelder,D,SC Freiburg,21,6.3,0,0,0,0.0005048,0,0,0,13,0,0,0,18,0,0,2,0,0,0,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Jordy Makengo,D,SC Freiburg,90,6.8,0,0,0,0.0210151,0,0,0,49,0,0,0,68,0,2,0,3,1,1,0,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Keisuke Goto,F,SC Freiburg,10,6.4,0,0,0,0.00113683,0,0,0,4,0,0,0,6,0,0,0,1,1,1,1,0,0,0
+Bundesliga,26_27,SC Freiburg vs SV Werder Bremen,30/08/2026,Cyriaque Irié,M,SC Freiburg,45,6.6,0,0,0.056,0.00441776,1,0,0,15,0,0,0,27,4,0,0,4,1,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Edin Džeko,F,FC Schalke 04,14,6.3,0,0,0,0.00002797,0,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0,1,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Loris Karius,G,FC Schalke 04,90,8.1,0,0,0,0.00535688,0,0,0,39,0,0,0,57,0,0,0,0,0,0,0,0,0,10
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Robin Gosens,D,FC Schalke 04,28,5.9,0,0,0.2394,0.00170127,1,0,0,12,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Maximilian Wöber,D,FC Schalke 04,28,5.2,0,0,0,0.00027039,0,0,0,15,0,0,0,19,0,0,0,0,1,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Timo Becker,D,FC Schalke 04,90,6.2,0,0,0,0.0107519,0,0,0,65,0,0,0,88,0,2,1,7,0,1,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Nikola Katić,D,FC Schalke 04,76,7.2,0,0,0,0.0201667,0,0,0,65,1,0,0,76,0,2,0,6,1,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Hasan Kuruçay,D,FC Schalke 04,62,6.4,0,0,0,0.0095416,0,0,0,59,0,0,0,70,0,2,0,3,1,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Moussa Sylla,F,FC Schalke 04,90,6.1,0,0,1.0443,0.0549577,4,2,0,18,2,0,2,28,1,0,0,3,0,1,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Dejan Ljubičić,M,FC Schalke 04,90,6.6,0,0,0.0586,0.161651,1,1,0,34,1,1,0,43,0,0,0,1,0,0,0,0,1,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Ron Schallenberg,M,FC Schalke 04,62,6.2,0,0,0.0625,0.0111385,1,1,0,37,0,0,1,48,0,1,0,3,2,1,0,1,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Junior Adamu,F,FC Schalke 04,62,6.3,0,0,0.5139,0.465737,2,0,0,18,1,1,1,27,0,0,0,2,0,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Eric Ebimbe,M,FC Schalke 04,28,6.1,0,0,0,0.00238023,0,0,0,6,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Adil Aouchiche,M,FC Schalke 04,86,6.6,0,0,0.1861,0.394408,2,1,0,35,3,0,0,50,0,0,1,2,0,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Soufiane El-Faouzi,M,FC Schalke 04,90,6.7,0,0,0,0.528157,0,0,0,40,2,2,0,56,0,3,2,4,1,1,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Vitalie Becker,M,FC Schalke 04,62,6.9,0,0,0,0.206274,0,0,0,17,1,0,0,30,1,0,0,1,0,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Mertcan Ayhan,D,FC Schalke 04,8,6.1,0,0,0,0.00002928,0,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Michael Gregoritsch,F,FC Augsburg,83,7.4,1,0,1.1705,0.0942452,4,3,0,22,1,0,1,32,0,0,0,7,0,1,0,0,1,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Jeffrey Gouweleeuw,D,FC Augsburg,1,0,0,0,0,0.0000305,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Marius Wolf,M,FC Augsburg,89,8.7,0,0,0.1607,1.15151,2,1,0,21,7,5,0,38,1,2,1,4,0,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Finn Dahmen,G,FC Augsburg,90,8.3,0,0,0,0.00089632,0,0,0,43,0,0,0,53,0,0,0,1,0,1,0,0,0,4
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Robin Fellhauer,M,FC Augsburg,76,6.3,0,0,0.1958,0.0271473,3,1,0,22,0,0,1,37,0,0,0,1,0,0,0,0,1,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Yannik Keitel,M,FC Augsburg,11,6.6,0,0,0,0.00011348,0,0,0,6,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Han-Noah Massengo,M,FC Augsburg,90,7,0,0,0,0.302624,0,0,0,29,4,1,0,46,0,0,2,1,0,1,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Fabian Rieder,M,FC Augsburg,83,7.5,0,1,0.0891,0.288959,2,2,0,33,2,1,0,48,2,2,1,5,2,0,1,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Chrislain Matsima,D,FC Augsburg,90,7.6,0,0,0,0.00229616,0,0,0,43,1,0,0,54,0,1,1,3,0,0,0,0,1,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Young-woo Seol,D,FC Augsburg,1,0,0,1,0,0.0323369,0,0,0,2,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Calvin Brackelmann,D,FC Augsburg,89,7.7,0,0,0.1196,0.0439642,2,0,0,51,1,0,0,67,0,3,0,12,0,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Anton Kade,M,FC Augsburg,90,9.6,1,1,1.0584,0.88131,6,4,0,27,3,2,3,46,1,0,0,4,1,1,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Rodrigo Ribeiro,F,FC Augsburg,11,7.3,1,0,0.4245,0,2,1,0,1,0,0,1,3,0,0,0,0,0,0,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Mert Kömür,M,FC Augsburg,14,7,0,0,0.3153,0.0244506,1,1,0,9,0,0,1,16,1,0,0,3,0,1,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Noahkai Banks,D,FC Augsburg,90,7,0,0,0.1869,0.0246441,2,0,0,53,1,0,1,73,1,2,1,6,2,1,0,0,0,0
+Bundesliga,26_27,FC Augsburg vs FC Schalke 04,30/08/2026,Hennes Behrens,D,FC Augsburg,90,6.2,0,0,0,0.120919,0,0,0,50,1,0,0,81,3,1,3,6,0,0,0,0,0,0
