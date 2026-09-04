@@ -1,0 +1,2 @@
+INCASTATS PLAYER DELTA REPO ROOT SAFE V5
+Fix principal: BAT/Python viven en raiz IncaStats-Data; no argumento vacio; ZIP validado como archivo.

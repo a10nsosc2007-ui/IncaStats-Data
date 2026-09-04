@@ -1,0 +1,9 @@
+Yherly:
+
+PON AQUI SOLO EL ZIP que descarga el extractor PLAYER DELTA de SofaScore.
+Luego vuelve a la raiz de IncaStats-Data y ejecuta:
+
+  02_APLICAR_PLAYER_DELTA.bat
+
+El BAT toma automaticamente el ZIP .zip mas reciente de esta carpeta.
+No pongas aqui el kit V4/V5, ni carpetas, ni el ZIP del MASTER.
