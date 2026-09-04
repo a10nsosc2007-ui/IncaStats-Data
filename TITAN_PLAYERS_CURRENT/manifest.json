@@ -1,8 +1,8 @@
 {
-  "schema_version": "incastats.player_current_master.v2",
+  "schema_version": "incastats.player_current_master.v3",
   "provider": "sofascore",
-  "generated_at": "2026-09-04T04:52:38.142617Z",
-  "scope": "LEAGUE_ONLY_CURRENT_SEASON",
+  "generated_at": "2026-09-04T07:34:08.230921Z",
+  "scope": "CURRENT_OVERLAY_ALL_OFFICIAL_DELTA",
   "merge_key": [
     "Event_ID",
     "Player_ID"
@@ -19,12 +19,12 @@
       "note": "Reextracción completa MLS + Liga 1 Perú; reemplaza duplicados de la primera fuente."
     }
   ],
-  "merge_policy": "SECOND_SOURCE_WINS_ON_EVENT_ID_PLAYER_ID",
+  "merge_policy": "PLAYER_DELTA_UPSERT_REPLACE_SAME_KEY",
   "counts": {
-    "rows": 77046,
-    "unique_events": 2468,
-    "unique_players": 13039,
-    "competitions": 32
+    "rows": 93847,
+    "unique_events": 3005,
+    "unique_players": 21526,
+    "competitions": 111
   },
   "leagues": [
     {
@@ -320,5 +320,43 @@
     "extended": "MASTER/PLAYER_MATCH_STATS_CURRENT_EXTENDED.csv",
     "legacy": "MASTER/PLAYER_MATCH_STATS_CURRENT_MASTER.csv",
     "by_league": "BY_LEAGUE/"
+  },
+  "last_delta_manifest": {
+    "schema_version": "incastats.player_delta.v3",
+    "extractor_version": "3.0.0_PLAYERLIST_7395_DELTA_15D_SAFE",
+    "provider": "sofascore",
+    "created_at": "2026-09-04T07:20:27.445Z",
+    "architecture": "PLAYER_LIST_INPUT_EVENT_CENTRIC_15D_DUAL_CHECKPOINT",
+    "window": {
+      "requested_from": "2026-08-18T06:29:00.000Z",
+      "effective_from": "2026-08-15T06:29:00.000Z",
+      "requested_to": "2026-09-04T06:29:00.000Z",
+      "overlap_hours": 72
+    },
+    "counts": {
+      "selected_players": 7395,
+      "derived_search_clubs": 823,
+      "discovered_events": 1660,
+      "player_rows": 40209,
+      "unique_players": 19606,
+      "selected_players_with_rows": 5535,
+      "requests": 717,
+      "reused_search_blocks": 823,
+      "reused_events": 1204,
+      "audit_rows": 374
+    },
+    "merge_key": [
+      "Event_ID",
+      "ID_Jugador"
+    ],
+    "current_merge_key": [
+      "Event_ID",
+      "Player_ID"
+    ],
+    "operation": "UPSERT_REPLACE_SAME_KEY",
+    "targets": [
+      "TITAN_PLAYERS_MASTER_2025_PLUS",
+      "TITAN_PLAYERS_CURRENT"
+    ]
   }
 }
