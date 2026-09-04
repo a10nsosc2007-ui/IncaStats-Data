@@ -1,0 +1,506 @@
+[
+  {
+    "file": "EMERG_0_al_174.zip",
+    "size_bytes": 1649305,
+    "integrity": "OK",
+    "stats_rows": 8598,
+    "info_rows": 171,
+    "stats_sha256": "6237a75f58c3abd35eddc740f12ff80e8bdf8510b69478ea709378308b99846e",
+    "info_sha256": "b7175f2d6eaee63b428fa27f79afa4131d43d0e921aab080ef009d044b290308"
+  },
+  {
+    "file": "EMERG_1445_al_1702.zip",
+    "size_bytes": 1943748,
+    "integrity": "OK",
+    "stats_rows": 10320,
+    "info_rows": 257,
+    "stats_sha256": "e9ab20469000f1a812357d3c4a1a3267bd80c5bb962da2b55f639e367fec048b",
+    "info_sha256": "f279470efd869378b2b77465ecc57ef73e32dea11467c0c86e029da08d035e95"
+  },
+  {
+    "file": "EMERG_1701_al_1843.zip",
+    "size_bytes": 1084415,
+    "integrity": "OK",
+    "stats_rows": 5753,
+    "info_rows": 140,
+    "stats_sha256": "f5c03ecf3587a8b4acdcf3fa25f8a222c0cd12030046502645ab148d963b5a41",
+    "info_sha256": "e7293cd1ce0d85aa9f54cd3b9f3698873e11d658f6dc555415ac06c7bdd6efa6"
+  },
+  {
+    "file": "EMERG_174_al_349 2.zip",
+    "size_bytes": 1589142,
+    "integrity": "OK",
+    "stats_rows": 8345,
+    "info_rows": 173,
+    "stats_sha256": "5fa01c4f22c27985b64dccc3fece8ffcff92d54a56f7536b30b8e9efb0ecfdda",
+    "info_sha256": "78fb39be04a10bedcccac77691514c6544666edac0bae4b6630e9a70cd4d1334"
+  },
+  {
+    "file": "EMERG_174_al_349.zip",
+    "size_bytes": 1589142,
+    "integrity": "OK",
+    "stats_rows": 8345,
+    "info_rows": 173,
+    "stats_sha256": "5fa01c4f22c27985b64dccc3fece8ffcff92d54a56f7536b30b8e9efb0ecfdda",
+    "info_sha256": "78fb39be04a10bedcccac77691514c6544666edac0bae4b6630e9a70cd4d1334"
+  },
+  {
+    "file": "EMERG_1843_al_1977 2.zip",
+    "size_bytes": 1225732,
+    "integrity": "OK",
+    "stats_rows": 6562,
+    "info_rows": 133,
+    "stats_sha256": "43700f5939f08b630e59bf8506d5a0f628606f64ba2fe9c6da77f1892667a981",
+    "info_sha256": "9f83b22b186bda17083ced11305a869a3bc80651c41cd16e03b312ff266603ad"
+  },
+  {
+    "file": "EMERG_1843_al_2095 2.zip",
+    "size_bytes": 2273709,
+    "integrity": "OK",
+    "stats_rows": 12244,
+    "info_rows": 250,
+    "stats_sha256": "3905ab35e341250be1f318e0265cb7aa6c0df31a716fcbf58a8c409529097f73",
+    "info_sha256": "902f23b4ba53310a4a77eabc2d7dc77821aff210e1116ac56def497e0560846d"
+  },
+  {
+    "file": "EMERG_2296_al_2356.zip",
+    "size_bytes": 451575,
+    "integrity": "OK",
+    "stats_rows": 2445,
+    "info_rows": 60,
+    "stats_sha256": "0b62a43054b5a09cc7f4a9ee527df8779ae017fb2dc10956788187b3eeacf4f4",
+    "info_sha256": "c8848adc04b0830a5e4ebc81b237926f1a7fe183eee5bd47ea61a9185affa95a"
+  },
+  {
+    "file": "EMERG_2356_al_2493.zip",
+    "size_bytes": 955454,
+    "integrity": "OK",
+    "stats_rows": 5130,
+    "info_rows": 136,
+    "stats_sha256": "cc3e60ba20f66e2ff5c36111a9c08177bca21247d5899f0e152abf264b11c14a",
+    "info_sha256": "3c69d11a1db51b751e4fb2b4ecb1af8c25fb05c880f33b98fb7ff28c718394cc"
+  },
+  {
+    "file": "EMERG_3016_al_3282.zip",
+    "size_bytes": 1934851,
+    "integrity": "OK",
+    "stats_rows": 9732,
+    "info_rows": 261,
+    "stats_sha256": "8b5d9f8c2abd414994d41984d28362f502a11da9bc6934cefb7cc0fafcae9f3d",
+    "info_sha256": "ef2ca5510a80f8b1c614c1f59c9d2bb16c8548c524b43ee14c789eb628eca7f2"
+  },
+  {
+    "file": "EMERG_349_al_476.zip",
+    "size_bytes": 1161372,
+    "integrity": "OK",
+    "stats_rows": 6038,
+    "info_rows": 123,
+    "stats_sha256": "23fefe5d46db2bd191365131ae1f0b7d15381032d588f52dd107bd33ae62d65a",
+    "info_sha256": "d2d18259cd25a120a6fe65cb84fefadfc27b4b9726aa0587a685b5ff77dc31af"
+  },
+  {
+    "file": "EMERG_3977_al_4026.zip",
+    "size_bytes": 403162,
+    "integrity": "OK",
+    "stats_rows": 2008,
+    "info_rows": 49,
+    "stats_sha256": "8151421c195f75df7eae0fdbdc719052dda6bcb546357dc126ac148cc060b8c4",
+    "info_sha256": "b4e79a86ff305a336ac9b30a93d4d5e18583b2b89db94bfaa9bd1bf8009fb88e"
+  },
+  {
+    "file": "EMERG_4273_al_4310.zip",
+    "size_bytes": 351068,
+    "integrity": "OK",
+    "stats_rows": 1738,
+    "info_rows": 37,
+    "stats_sha256": "d0177537a650bf8f9e2884f3edf263b845c9b2852e8f2a71be1b20d717507510",
+    "info_sha256": "1b365a9db3cd0340352ca7af1588b20f36a6351537ef044bab9ea7f0625749dc"
+  },
+  {
+    "file": "EMERG_476_al_599.zip",
+    "size_bytes": 1052269,
+    "integrity": "OK",
+    "stats_rows": 5422,
+    "info_rows": 121,
+    "stats_sha256": "3c5b2f53a1b7b65467f7fb47d393c4991854d1d8d9aa3015df8530f93540ef72",
+    "info_sha256": "f40e8c0fe41223209f3457a23bc98c6b0aae0b877fa2114cf9cfcaa010078053"
+  },
+  {
+    "file": "EMERG_4785_al_5097.zip",
+    "size_bytes": 2503219,
+    "integrity": "OK",
+    "stats_rows": 12579,
+    "info_rows": 307,
+    "stats_sha256": "de043353f3edb6cb41cf7f4c1cf92a1aa236e7e46285b24a992a3492bd948540",
+    "info_sha256": "fdad91334b7bdb8d4db76f3d931b0d20614f16c0df63fbc4191c8f481ac05a5c"
+  },
+  {
+    "file": "EMERG_5115_al_5230.zip",
+    "size_bytes": 920567,
+    "integrity": "OK",
+    "stats_rows": 4673,
+    "info_rows": 111,
+    "stats_sha256": "cb4c65c777f1478b2c5b1c2559729b8ba76bd79ebc4a25ad7ea0d83334400d06",
+    "info_sha256": "6576356ec4af93fab1a88a61edc168ffb6f97d75bc560f5945684e5c353fc39f"
+  },
+  {
+    "file": "EMERG_5335_al_5451.zip",
+    "size_bytes": 994030,
+    "integrity": "OK",
+    "stats_rows": 4910,
+    "info_rows": 115,
+    "stats_sha256": "731f51e9e244f7701dd6812eefe10c1b2099bb1bcfdb97424f6402def0f548e0",
+    "info_sha256": "65b81465b5c6b71760787004d5cb1681ffb1cb1d154a2dec93d5edc8fb3fbcf2"
+  },
+  {
+    "file": "EMERG_5536_al_5559.zip",
+    "size_bytes": 227175,
+    "integrity": "OK",
+    "stats_rows": 1111,
+    "info_rows": 23,
+    "stats_sha256": "2e83191788509f7bc0aa3e3e80dc9a210e59723da587082f71be4ddf1f9e9bbd",
+    "info_sha256": "4ef0633cd83e175eb4e9fb1ad87eb83218ffbd9d2e3314de241cbe7ae7b4a6bd"
+  },
+  {
+    "file": "EMERG_6078_al_6097.zip",
+    "size_bytes": 133117,
+    "integrity": "OK",
+    "stats_rows": 644,
+    "info_rows": 19,
+    "stats_sha256": "7dba1897bdf19823471fe89ea3adea6ddb0a5b8fa3fe24a669742565abc58273",
+    "info_sha256": "65bbe4947680ee74dd1a8374d97143ae3d2d2d5b5b222a6c570b13e7216f69a2"
+  },
+  {
+    "file": "EMERG_6097_al_6318.zip",
+    "size_bytes": 1800880,
+    "integrity": "OK",
+    "stats_rows": 8916,
+    "info_rows": 208,
+    "stats_sha256": "dc42dfede5a204dddcb721a07b0186a8018a6261e01ea69fcdeec50a6a4973ea",
+    "info_sha256": "9ecc6fd590b3434d9b573660bfda11ae7830dff1e49fae62331230dd09e87f12"
+  },
+  {
+    "file": "EMERG_6380_al_6410.zip",
+    "size_bytes": 352410,
+    "integrity": "OK",
+    "stats_rows": 1791,
+    "info_rows": 28,
+    "stats_sha256": "39dc66ff7b0dd82549f91be9b64b0cc16a15ff36db115d5b55a014ddb9d47e14",
+    "info_sha256": "2351ecd1d96d86c74432f150ab4c6c47d34414e8757032c66967d5d5a8178105"
+  },
+  {
+    "file": "EMERG_6410_al_6511.zip",
+    "size_bytes": 1131907,
+    "integrity": "OK",
+    "stats_rows": 5717,
+    "info_rows": 101,
+    "stats_sha256": "01acaa08ce2ab23f5d4d9e97e890d9d2e4d1b91e02871a6abda31b9422d8290e",
+    "info_sha256": "617535b74c8c9a6adb18dfc71d42ebe82b1c1380802b9f5700f0c622b2c5685c"
+  },
+  {
+    "file": "EMERG_671_al_718.zip",
+    "size_bytes": 445445,
+    "integrity": "OK",
+    "stats_rows": 2346,
+    "info_rows": 47,
+    "stats_sha256": "73d94cedddef8bab6d8275c5517e37c77d9137adc5ecea14e2d7eb303ffe5e24",
+    "info_sha256": "6bf27ec9df17f46a3ebe6491c0af36f3110b4dafcc66c702bc79c33670600ebe"
+  },
+  {
+    "file": "EMERG_7103_al_7123.zip",
+    "size_bytes": 187588,
+    "integrity": "OK",
+    "stats_rows": 968,
+    "info_rows": 20,
+    "stats_sha256": "6325dfcbcd70f86d8c7a937fefb22d0cf78423f3170d4fd3e327cbaa966feb5a",
+    "info_sha256": "57343ef3e76628e85f54d2394399649fe16a7f90200d007cbb87dadf808601a5"
+  },
+  {
+    "file": "EMERG_7123_al_7270.zip",
+    "size_bytes": 1223452,
+    "integrity": "OK",
+    "stats_rows": 5957,
+    "info_rows": 146,
+    "stats_sha256": "4600ec322088acf7cab233cd42b42b69d21e0f4377fc1928cb8cf32c9ad09a98",
+    "info_sha256": "055cc23995a75c0198590a54c7a225e02c449594af090435cb0a3b3233f8ef09"
+  },
+  {
+    "file": "EMERG_749_al_866.zip",
+    "size_bytes": 920089,
+    "integrity": "OK",
+    "stats_rows": 4849,
+    "info_rows": 115,
+    "stats_sha256": "f0ea7bc79815513f6fe0366d918bd03db615d4766455cc111f512586c7b75219",
+    "info_sha256": "be3c3006e05a78a0d6ad88b59d014b72afd6788a9fd4d7565dbc0c8758aad38f"
+  },
+  {
+    "file": "EMERG_866_al_1263.zip",
+    "size_bytes": 3451055,
+    "integrity": "OK",
+    "stats_rows": 18183,
+    "info_rows": 396,
+    "stats_sha256": "c05e56e70454c28ae025d92e1e04b627378f74712de469a2d8295857d2655bd7",
+    "info_sha256": "10d9fea3f393a743273a60d3ca0cf9e9892100f5dea14e4f9fde59f3b7932975"
+  },
+  {
+    "file": "LOTE_FINAL_7469_al_7809.zip",
+    "size_bytes": 3172960,
+    "integrity": "OK",
+    "stats_rows": 16059,
+    "info_rows": 336,
+    "stats_sha256": "d9c7d1f401fa638c7d9627e61192520e297517e0943924ff0bdbb2be991ef485",
+    "info_sha256": "da203a2cdc4e23f605208391be708dd86e359c7d5196032faff57c76a1e89895"
+  },
+  {
+    "file": "MANUAL_1263_al_1445.zip",
+    "size_bytes": 1771141,
+    "integrity": "OK",
+    "stats_rows": 9381,
+    "info_rows": 182,
+    "stats_sha256": "7e955d8d1dad6e5f0f76299064f2c9309207e00173143befcb3a04b78a2bdd1a",
+    "info_sha256": "d4387f5d9825ab5550b0ebde216b1b3b58d491b5c8a471ee0ae84eb5ac1c96f0"
+  },
+  {
+    "file": "MANUAL_2095_al_2296.zip",
+    "size_bytes": 1549878,
+    "integrity": "OK",
+    "stats_rows": 8368,
+    "info_rows": 199,
+    "stats_sha256": "23c08575f3b3451df9152893d6dc536070f7bd519dc851a7c5a27016343c4091",
+    "info_sha256": "768ee9548a7d9a4c8571eaef3ea0cee1ef6c8d605d4367b0bb3794c74964d19e"
+  },
+  {
+    "file": "MANUAL_2356_al_2589.zip",
+    "size_bytes": 1663685,
+    "integrity": "OK",
+    "stats_rows": 8937,
+    "info_rows": 232,
+    "stats_sha256": "1f4b994ac74986190343d219e4a84e160a1d337cb21d106bb91410407335526b",
+    "info_sha256": "bd17c26157badc13b1d584c10519166de3ad765d84f01cf972998fca106e99f9"
+  },
+  {
+    "file": "MANUAL_2589_al_3016.zip",
+    "size_bytes": 3608921,
+    "integrity": "OK",
+    "stats_rows": 18233,
+    "info_rows": 420,
+    "stats_sha256": "6b1ece958c6a5d40d8d8b16bb0bc6c5f9532779d5468310a0c9aa4b46f45d215",
+    "info_sha256": "9dad659b10a057a1e3170ee3ffc67e9a406dcdaa3df28bf97103393d532d73fc"
+  },
+  {
+    "file": "MANUAL_3382_al_3751.zip",
+    "size_bytes": 2746258,
+    "integrity": "OK",
+    "stats_rows": 14289,
+    "info_rows": 362,
+    "stats_sha256": "eb8792d6cfed589dd769faf699b4017bce72a3be3e74a770a77f67a6c8813171",
+    "info_sha256": "36db1e46633c175b8c8ee5720a0859544a173870f5c1bdc2097d50e718cdefc3"
+  },
+  {
+    "file": "MANUAL_3751_al_3977.zip",
+    "size_bytes": 1527598,
+    "integrity": "OK",
+    "stats_rows": 7895,
+    "info_rows": 222,
+    "stats_sha256": "ad56f1c218ccf707b046d74837139c3faacec7b8a6ab192ae0f78cbcca7bd639",
+    "info_sha256": "a0d7776e116726d4c714b13663f788d76f571d193e9824d1d1c60e61815dc2b1"
+  },
+  {
+    "file": "MANUAL_4026_al_4229.zip",
+    "size_bytes": 1467826,
+    "integrity": "OK",
+    "stats_rows": 7326,
+    "info_rows": 199,
+    "stats_sha256": "5248a90c165e125357abe099f662e347366163836b9baf075f98728740ff50e0",
+    "info_sha256": "5a39c5dd1f14470b55493393425e2855f30bd72bad4fd3281332d85bbc419b7e"
+  },
+  {
+    "file": "MANUAL_4229_al_4273.zip",
+    "size_bytes": 418774,
+    "integrity": "OK",
+    "stats_rows": 2045,
+    "info_rows": 44,
+    "stats_sha256": "73f1561a8c9d0c45ac6256705676f12016696f589df7cb3ff639c07913e68ddc",
+    "info_sha256": "bbc0dd8157307c8aa2606b4fa9b8b459f3332d3512bee00cdb8bbec764b292d5"
+  },
+  {
+    "file": "MANUAL_4310_al_4608.zip",
+    "size_bytes": 2554410,
+    "integrity": "OK",
+    "stats_rows": 12682,
+    "info_rows": 297,
+    "stats_sha256": "969a288bc86e52e7c6bcbaf7ff2c04007d444cfb64c0b50326c854568b219e46",
+    "info_sha256": "f1ffa2c49770e9786e1801c2ac1eb2eb353fdbb000a7d979a3063e6baf6bb552"
+  },
+  {
+    "file": "MANUAL_4608_al_4643.zip",
+    "size_bytes": 345044,
+    "integrity": "OK",
+    "stats_rows": 1648,
+    "info_rows": 35,
+    "stats_sha256": "7ff77bb95a87077482f0218d997da4bdb32ff8e6ab73c2d3e3259c5f2211e377",
+    "info_sha256": "58ea1189948698ef7dbd0524245ecdbbe96fa8735e307119348ec1c7c068ec23"
+  },
+  {
+    "file": "MANUAL_4643_al_4671.zip",
+    "size_bytes": 250836,
+    "integrity": "OK",
+    "stats_rows": 1244,
+    "info_rows": 28,
+    "stats_sha256": "dfcb6b7f7f71a272a3ae7b825d7a6fe16dbc16f4512cf2db8fc7a17e687468cf",
+    "info_sha256": "44f2ef80bd59911488d28a8cec72efc01c23195c38acc2cd017719f2bbdf5ca3"
+  },
+  {
+    "file": "MANUAL_4671_al_4785.zip",
+    "size_bytes": 915992,
+    "integrity": "OK",
+    "stats_rows": 4562,
+    "info_rows": 112,
+    "stats_sha256": "e77d96b9c3f2c465286c2aa8efcdabd53e9bafe98dd0a08e2d80c6dd3f28deca",
+    "info_sha256": "01bedbbb4ab377fe55cf6eae668430287f2c65224333cfbb90db2b555c585e8b"
+  },
+  {
+    "file": "MANUAL_4785_al_5115.zip",
+    "size_bytes": 2658546,
+    "integrity": "OK",
+    "stats_rows": 13369,
+    "info_rows": 325,
+    "stats_sha256": "3660d1cc89214e674157f0cb31ca733ec495eb82d95e7814d6358f5396b2126f",
+    "info_sha256": "a3e915dd9ab98eadd745752c18e558763b38ff613a9445695359375f8f897b73"
+  },
+  {
+    "file": "MANUAL_5115_al_5335.zip",
+    "size_bytes": 1853399,
+    "integrity": "OK",
+    "stats_rows": 9219,
+    "info_rows": 216,
+    "stats_sha256": "c4ec1888da213692beedd3eadeb93d3a15d1a8c8a11d7590463d82bda085dc89",
+    "info_sha256": "48bee27039d93fd3e9b00e9fb7fea80427ce6a8072eb8842b29fa29b1f123c5a"
+  },
+  {
+    "file": "MANUAL_5335_al_5536.zip",
+    "size_bytes": 1697936,
+    "integrity": "OK",
+    "stats_rows": 8396,
+    "info_rows": 198,
+    "stats_sha256": "0fb0839aa32b4acfe4c2cad362ed64f82cc6c04cc0a66ad264ae5b5650c605d9",
+    "info_sha256": "036f6066f479cc4841e7c1ad336f8fdf2a790ff22920b2deb19088d783e4ba50"
+  },
+  {
+    "file": "MANUAL_5536_al_5634.zip",
+    "size_bytes": 804223,
+    "integrity": "OK",
+    "stats_rows": 3981,
+    "info_rows": 98,
+    "stats_sha256": "a67ff3eb493faf356b5ffec7f14244c5536aeaf5765957426f4005741dff4f25",
+    "info_sha256": "222369a1ef110fa6932fdd736a7ee1cb9ae1eddb970823c83653b63534e65aba"
+  },
+  {
+    "file": "MANUAL_5634_al_5783.zip",
+    "size_bytes": 1187184,
+    "integrity": "OK",
+    "stats_rows": 6176,
+    "info_rows": 148,
+    "stats_sha256": "97f316b85a95f09b4826b3401c9d44e8b5eda601fe56d036628736091465f502",
+    "info_sha256": "88f321e6de2528b9b923b6a54e86af997f9fb92500761caff511ebf5e529c3c8"
+  },
+  {
+    "file": "MANUAL_5783_al_6039.zip",
+    "size_bytes": 2063422,
+    "integrity": "OK",
+    "stats_rows": 10317,
+    "info_rows": 255,
+    "stats_sha256": "807fe417ed1fb683390d240254ae908537c0f9fd6345434c0beb4fa564eb29ed",
+    "info_sha256": "3415af8d56e0f38ad9631e414031fd406d3638d1a20d74b0b3f537677c570c78"
+  },
+  {
+    "file": "MANUAL_598_al_671.zip",
+    "size_bytes": 655462,
+    "integrity": "OK",
+    "stats_rows": 3433,
+    "info_rows": 73,
+    "stats_sha256": "07a18a3be453fa27aa6a1f6daa23f79ec0526344fb00229449ce070a5569885c",
+    "info_sha256": "bd309df2e710f4360c4d5679afcab55e50b2121d071676efa8a928692988286e"
+  },
+  {
+    "file": "MANUAL_6039_al_6078.zip",
+    "size_bytes": 339420,
+    "integrity": "OK",
+    "stats_rows": 1671,
+    "info_rows": 36,
+    "stats_sha256": "fa4079989c1ec73e7d2d22990968cd5917e61a0cd898934bbc365d57bcbf3eaf",
+    "info_sha256": "c01ac867dcdf152be67942e750fc6ef8783e43379bccadc419d843c588826f05"
+  },
+  {
+    "file": "MANUAL_6097_al_6380.zip",
+    "size_bytes": 2405795,
+    "integrity": "OK",
+    "stats_rows": 11989,
+    "info_rows": 270,
+    "stats_sha256": "67c6b5b7e06014a7892608a3249af8d3c48d9ebc11a4d9b86353c96437b7a2bd",
+    "info_sha256": "28627ddbe3a5ea8ec8fb55fbac1241375dc71caa7dcfa57e0e17a9538f5622ed"
+  },
+  {
+    "file": "MANUAL_6410_al_6634.zip",
+    "size_bytes": 2311549,
+    "integrity": "OK",
+    "stats_rows": 11684,
+    "info_rows": 224,
+    "stats_sha256": "76377444756624648234aaa0fa6c5acf632942f281ba0c53aa2006377f809e24",
+    "info_sha256": "93b1eb497f98ff25731db521d113f269785f979399b967f24986d21f28b32707"
+  },
+  {
+    "file": "MANUAL_6634_al_6691.zip",
+    "size_bytes": 622995,
+    "integrity": "OK",
+    "stats_rows": 3200,
+    "info_rows": 58,
+    "stats_sha256": "07d4c960219241860a5d1c518aa895dddb2410ec937f91fa64cc95b2275ec774",
+    "info_sha256": "68575d248f6fc132b88d08b73064f8622c00611d0bd13e5677566c8e78c2f64c"
+  },
+  {
+    "file": "MANUAL_6691_al_6974.zip",
+    "size_bytes": 2811545,
+    "integrity": "OK",
+    "stats_rows": 14349,
+    "info_rows": 282,
+    "stats_sha256": "e61417000be513113dd481996168d3a68de0575ae511c3d41de1d107763b4af7",
+    "info_sha256": "e4e8de046ec68f24b8e881069c0523be73a6ed62575c76d409c2bec9d9fb3434"
+  },
+  {
+    "file": "MANUAL_6974_al_7103.zip",
+    "size_bytes": 1322018,
+    "integrity": "OK",
+    "stats_rows": 6626,
+    "info_rows": 129,
+    "stats_sha256": "ef4e7e27b0bf67349a8cf0c8b48d8baba2a9763c11272b3a28f50de44ae35082",
+    "info_sha256": "a874348a7c636be839cd792b1f872ebce7802aab39b0e07a0bdfc09a3a3e8a1b"
+  },
+  {
+    "file": "MANUAL_7123_al_7416.zip",
+    "size_bytes": 2628733,
+    "integrity": "OK",
+    "stats_rows": 12447,
+    "info_rows": 290,
+    "stats_sha256": "5387aebb0e46888e0e35ff88e2c297280fecafc6f8950c342c566693cd26311b",
+    "info_sha256": "904e291a727e034df7c64c977df515a508a8d8c00811ffe74bee2dc2c14fac1d"
+  },
+  {
+    "file": "MANUAL_718_al_749.zip",
+    "size_bytes": 281090,
+    "integrity": "OK",
+    "stats_rows": 1456,
+    "info_rows": 31,
+    "stats_sha256": "69031c27b9e1229eac007b96c095db68ad6e0ad7b4d1a9b634648d6cc6f41178",
+    "info_sha256": "fde5945e6bf923e7c3cf28aef7c6282df62a52d725fabf96946803d6e22646af"
+  },
+  {
+    "file": "MANUAL_7417_al_7469.zip",
+    "size_bytes": 474250,
+    "integrity": "OK",
+    "stats_rows": 2274,
+    "info_rows": 49,
+    "stats_sha256": "9acd817b97dd398c47688e8f46285a12532360a4795ce9afe3aba386bd118f7b",
+    "info_sha256": "3ddfeebfcb6a9e9486cd784f0e41cfd36f92401ba64f2a44d599aaf84093f309"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "count": 6,
+  "players": [
+    {
+      "id": "803023",
+      "name": "Rick Van Drongelen",
+      "latest_team": "Panathinaikos FC"
+    },
+    {
+      "id": "822088",
+      "name": "Diego Valoyes",
+      "latest_team": "CA Talleres"
+    },
+    {
+      "id": "846773",
+      "name": "Mateo García",
+      "latest_team": "Newell's Old Boys"
+    },
+    {
+      "id": "1020202",
+      "name": "Carlos Mora",
+      "latest_team": "Universitatea Craiova"
+    },
+    {
+      "id": "1084464",
+      "name": "Juan Carlos Arana",
+      "latest_team": "Real Racing Club"
+    },
+    {
+      "id": "1134578",
+      "name": "Cole Campbell",
+      "latest_team": "TSG Hoffenheim"
+    }
+  ]
+}

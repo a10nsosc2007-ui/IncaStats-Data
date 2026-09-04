@@ -1,0 +1,484 @@
+[
+  {
+    "player_id": "111108",
+    "event_id": "13265524",
+    "player": "Sean Johnson",
+    "chosen_source": "LOTE_FINAL_7469_al_7809.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "LOTE_FINAL_7469_al_7809.zip",
+        "initial_state": "TITULAR",
+        "score": 10367,
+        "differences": {}
+      },
+      {
+        "source": "LOTE_FINAL_7469_al_7809.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 367,
+        "differences": {
+          "Team_ID": "337602",
+          "Equipo": "Inter Miami CF",
+          "Rival_ID": "7080",
+          "Rival": "Toronto FC",
+          "Condicion": "Visita",
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "111108",
+    "event_id": "15171637",
+    "player": "Sean Johnson",
+    "chosen_source": "LOTE_FINAL_7469_al_7809.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "LOTE_FINAL_7469_al_7809.zip",
+        "initial_state": "TITULAR",
+        "score": 10367,
+        "differences": {}
+      },
+      {
+        "source": "LOTE_FINAL_7469_al_7809.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 367,
+        "differences": {
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "111108",
+    "event_id": "15171505",
+    "player": "Sean Johnson",
+    "chosen_source": "LOTE_FINAL_7469_al_7809.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "LOTE_FINAL_7469_al_7809.zip",
+        "initial_state": "TITULAR",
+        "score": 10367,
+        "differences": {}
+      },
+      {
+        "source": "LOTE_FINAL_7469_al_7809.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 367,
+        "differences": {
+          "Team_ID": "52237",
+          "Equipo": "Orlando City SC",
+          "Rival_ID": "2502",
+          "Rival": "DC United",
+          "Condicion": "Visita",
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "111108",
+    "event_id": "15137929",
+    "player": "Sean Johnson",
+    "chosen_source": "LOTE_FINAL_7469_al_7809.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "LOTE_FINAL_7469_al_7809.zip",
+        "initial_state": "TITULAR",
+        "score": 10367,
+        "differences": {}
+      },
+      {
+        "source": "LOTE_FINAL_7469_al_7809.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 367,
+        "differences": {
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "111108",
+    "event_id": "15171487",
+    "player": "Sean Johnson",
+    "chosen_source": "LOTE_FINAL_7469_al_7809.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "LOTE_FINAL_7469_al_7809.zip",
+        "initial_state": "TITULAR",
+        "score": 10367,
+        "differences": {}
+      },
+      {
+        "source": "LOTE_FINAL_7469_al_7809.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 367,
+        "differences": {
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "822729",
+    "event_id": "13472843",
+    "player": "Alan Franco",
+    "chosen_source": "MANUAL_6410_al_6634.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "MANUAL_6410_al_6634.zip",
+        "initial_state": "TITULAR",
+        "score": 10399,
+        "differences": {}
+      },
+      {
+        "source": "MANUAL_6410_al_6634.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 399,
+        "differences": {
+          "Team_ID": "2001",
+          "Equipo": "Ceará",
+          "Rival_ID": "1977",
+          "Rival": "Atlético Mineiro",
+          "Condicion": "Visita",
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "822729",
+    "event_id": "13241297",
+    "player": "Alan Franco",
+    "chosen_source": "MANUAL_6410_al_6634.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "MANUAL_6410_al_6634.zip",
+        "initial_state": "TITULAR",
+        "score": 10389,
+        "differences": {}
+      },
+      {
+        "source": "MANUAL_6410_al_6634.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 389,
+        "differences": {
+          "Team_ID": "1973",
+          "Equipo": "América Mineiro",
+          "Rival_ID": "1977",
+          "Rival": "Atlético Mineiro",
+          "Condicion": "Visita",
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "989200",
+    "event_id": "13472727",
+    "player": "Alexandro Bernabei",
+    "chosen_source": "MANUAL_6691_al_6974.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "TITULAR",
+        "score": 10391,
+        "differences": {}
+      },
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 391,
+        "differences": {
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "989200",
+    "event_id": "13472809",
+    "player": "Alexandro Bernabei",
+    "chosen_source": "MANUAL_6691_al_6974.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "TITULAR",
+        "score": 10391,
+        "differences": {}
+      },
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 391,
+        "differences": {
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "989200",
+    "event_id": "13472773",
+    "player": "Alexandro Bernabei",
+    "chosen_source": "MANUAL_6691_al_6974.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "TITULAR",
+        "score": 10391,
+        "differences": {}
+      },
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 391,
+        "differences": {
+          "Team_ID": "1957",
+          "Equipo": "Corinthians",
+          "Rival_ID": "1966",
+          "Rival": "Internacional",
+          "Condicion": "Visita",
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "989200",
+    "event_id": "13472830",
+    "player": "Alexandro Bernabei",
+    "chosen_source": "MANUAL_6691_al_6974.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "TITULAR",
+        "score": 10401,
+        "differences": {}
+      },
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 401,
+        "differences": {
+          "Team_ID": "1959",
+          "Equipo": "Sport Recife",
+          "Rival_ID": "1966",
+          "Rival": "Internacional",
+          "Condicion": "Visita",
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "989200",
+    "event_id": "14689179",
+    "player": "Alexandro Bernabei",
+    "chosen_source": "MANUAL_6691_al_6974.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "TITULAR",
+        "score": 10391,
+        "differences": {}
+      },
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 391,
+        "differences": {
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "989200",
+    "event_id": "13472793",
+    "player": "Alexandro Bernabei",
+    "chosen_source": "MANUAL_6691_al_6974.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "TITULAR",
+        "score": 10401,
+        "differences": {}
+      },
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 401,
+        "differences": {
+          "Team_ID": "1958",
+          "Equipo": "Botafogo",
+          "Rival_ID": "1966",
+          "Rival": "Internacional",
+          "Condicion": "Visita",
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "989200",
+    "event_id": "13578030",
+    "player": "Alexandro Bernabei",
+    "chosen_source": "MANUAL_6691_al_6974.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "TITULAR",
+        "score": 10391,
+        "differences": {}
+      },
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 391,
+        "differences": {
+          "Team_ID": "5926",
+          "Equipo": "Grêmio",
+          "Rival_ID": "1966",
+          "Rival": "Internacional",
+          "Condicion": "Visita",
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "989200",
+    "event_id": "13472599",
+    "player": "Alexandro Bernabei",
+    "chosen_source": "MANUAL_6691_al_6974.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "TITULAR",
+        "score": 10401,
+        "differences": {}
+      },
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 401,
+        "differences": {
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "989200",
+    "event_id": "13472681",
+    "player": "Alexandro Bernabei",
+    "chosen_source": "MANUAL_6691_al_6974.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "TITULAR",
+        "score": 10401,
+        "differences": {}
+      },
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 401,
+        "differences": {
+          "Team_ID": "1977",
+          "Equipo": "Atlético Mineiro",
+          "Rival_ID": "1966",
+          "Rival": "Internacional",
+          "Condicion": "Visita",
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "989200",
+    "event_id": "13252403",
+    "player": "Alexandro Bernabei",
+    "chosen_source": "MANUAL_6691_al_6974.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "TITULAR",
+        "score": 10401,
+        "differences": {}
+      },
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 401,
+        "differences": {
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "989200",
+    "event_id": "15146330",
+    "player": "Alexandro Bernabei",
+    "chosen_source": "MANUAL_6691_al_6974.zip",
+    "chosen_initial_state": "SUPLENTE",
+    "variants": [
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "SUPLENTE",
+        "score": 10401,
+        "differences": {}
+      },
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 401,
+        "differences": {
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  },
+  {
+    "player_id": "989200",
+    "event_id": "13472817",
+    "player": "Alexandro Bernabei",
+    "chosen_source": "MANUAL_6691_al_6974.zip",
+    "chosen_initial_state": "TITULAR",
+    "variants": [
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "TITULAR",
+        "score": 10401,
+        "differences": {}
+      },
+      {
+        "source": "MANUAL_6691_al_6974.zip",
+        "initial_state": "DESCONOCIDO",
+        "score": 401,
+        "differences": {
+          "Estado_Inicial": "DESCONOCIDO"
+        }
+      }
+    ]
+  }
+]
