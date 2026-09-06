@@ -1,0 +1,10 @@
+{
+  "kind": "players",
+  "real_esrgan": true,
+  "model": "realesrgan-x4plus",
+  "source_zip": "INCASTATS_PLAYER_FACES_RAW_ALL_7395_IDS_7393_FOTOS.zip",
+  "input_faces": 7393,
+  "output_web_1024": 7393,
+  "expected_or_known_target": 7395,
+  "note": "No fallback Lanczos is used if Real-ESRGAN fails. 1024 resize is only final web export after AI x4."
+}
