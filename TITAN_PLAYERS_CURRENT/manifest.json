@@ -1,7 +1,7 @@
 {
   "schema_version": "incastats.player_current_master.v3",
   "provider": "sofascore",
-  "generated_at": "2026-09-04T07:34:08.230921Z",
+  "generated_at": "2026-09-06T04:54:00.726227Z",
   "scope": "CURRENT_OVERLAY_ALL_OFFICIAL_DELTA",
   "merge_key": [
     "Event_ID",
