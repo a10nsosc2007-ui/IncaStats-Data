@@ -2,7 +2,26 @@
 const API='https://v3.football.api-sports.io';
 const SUPA=process.env.SUPABASE_URL||process.env.NEXT_PUBLIC_SUPABASE_URL||'https://jijxmshpzcoalohlhhnb.supabase.co';
 const SERVICE=process.env.SUPABASE_SERVICE_ROLE_KEY||'';
-const {getKey}=require('./key-manager');
+
+let keyIndex = 0;
+function getKey(){
+  const keys=[
+    process.env.API_FOOTBALL_KEY_1,
+    process.env.API_FOOTBALL_KEY_2,
+    process.env.API_FOOTBALL_KEY_3,
+    process.env.API_FOOTBALL_KEY_4,
+    process.env.API_FOOTBALL_KEY_5,
+    process.env.API_FOOTBALL_KEY_6,
+    process.env.API_FOOTBALL_KEY_7,
+    process.env.API_FOOTBALL_KEY_8,
+    process.env.API_FOOTBALL_KEY_9,
+    process.env.API_FOOTBALL_KEY
+  ].filter(Boolean);
+  if(!keys.length) return '';
+  return keys[keyIndex++ % keys.length];
+}
+function KEY(){ return Boolean(getKey()); }
+
 const MAX_DAILY=Math.max(6,Math.min(135,Number(process.env.INCA_API_DAILY_BUDGET)||15));
 const MAX_RUN=Math.max(4,Math.min(MAX_DAILY,Number(process.env.INCA_API_RUN_BUDGET)||Math.ceil(MAX_DAILY/2)));
 const NO_PRICE=new Set([325,390,155,406,242]);
@@ -105,7 +124,7 @@ async function syncLineups(fixtures,budget){
 function cronAllowed(req){const secret=process.env.CRON_SECRET;if(!secret)return false;return String(req.headers.authorization||'')===`Bearer ${secret}`;}
 module.exports=async function handler(req,res){
   if(!process.env.CRON_SECRET)return res.status(500).json({ok:false,code:'CRON_SECRET_MISSING'});if(!cronAllowed(req))return res.status(401).json({ok:false,code:'CRON_AUTH'});
-  if(!KEY()||!SERVICE)return res.status(500).json({ok:false,code:'ENV_MISSING',need:['API_FOOTBALL_KEY','SUPABASE_SERVICE_ROLE_KEY']});
+  if(!KEY()||!SERVICE)return res.status(500).json({ok:false,code:'ENV_MISSING',need:['API_FOOTBALL_KEY_1..API_FOOTBALL_KEY_9','SUPABASE_SERVICE_ROLE_KEY']});
   const budget={used:await currentUsed()};budget.start=budget.used;const start=budget.used,meta={};
   try{
     const comps=await getCompetitions(budget);const fixtures=await syncFixtures(comps,budget);const odds=await syncOdds(comps,fixtures,budget);const lineups=await syncLineups(fixtures,budget);
