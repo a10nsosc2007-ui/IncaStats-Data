@@ -2,7 +2,7 @@
 const API='https://v3.football.api-sports.io';
 const SUPA=process.env.SUPABASE_URL||process.env.NEXT_PUBLIC_SUPABASE_URL||'https://jijxmshpzcoalohlhhnb.supabase.co';
 const SERVICE=process.env.SUPABASE_SERVICE_ROLE_KEY||'';
-const KEY=()=>process.env.API_FOOTBALL_KEY||process.env.APISPORTS_KEY||'';
+const {getKey}=require('./key-manager');
 const MAX_DAILY=Math.max(6,Math.min(135,Number(process.env.INCA_API_DAILY_BUDGET)||15));
 const MAX_RUN=Math.max(4,Math.min(MAX_DAILY,Number(process.env.INCA_API_RUN_BUDGET)||Math.ceil(MAX_DAILY/2)));
 const NO_PRICE=new Set([325,390,155,406,242]);
@@ -24,7 +24,7 @@ async function saveUsed(used,meta={}){const day=new Date().toISOString().slice(0
 async function call(path,params,budget){
   if(budget.used>=MAX_DAILY)throw new Error('DAILY_BUDGET_REACHED');
   if(budget.used-budget.start>=MAX_RUN)throw new Error('RUN_BUDGET_REACHED');
-  const k=KEY();if(!k)throw new Error('API_FOOTBALL_KEY_MISSING');
+  const k=getKey();if(!k)throw new Error('API_FOOTBALL_KEY_MISSING');
   const u=new URL(API+path);Object.entries(params||{}).forEach(([a,b])=>b!==undefined&&b!==null&&b!==''&&u.searchParams.set(a,String(b)));
   const r=await fetch(u,{headers:{'x-apisports-key':k},cache:'no-store'});budget.used++;
   const j=await r.json().catch(()=>({}));
