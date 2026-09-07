@@ -1,0 +1,498 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Andrea Signorini,D,Gubbio,90,5.9,0,0,0,0,0,0,0,41,0,0,0,55,0,0,1,4,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Andrea La Mantia,F,Gubbio,31,6.3,0,0,0,0,0,0,0,5,0,0,0,6,0,0,1,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Paolo Frascatore,D,Guidonia Montecelio 1937,23,6.6,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,0,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Giacomo Rosaia,M,Gubbio,90,6.1,0,0,0,0,0,0,0,34,0,0,0,49,0,0,3,7,1,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Giovanni Di Noia,M,Gubbio,67,6.6,0,0,0,0,0,0,0,17,0,0,0,20,0,0,0,3,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Enrico Baldini,F,Gubbio,53,6.2,0,0,0,0,0,0,0,8,0,0,0,16,0,0,2,1,2,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Alessandro Murgia,M,Guidonia Montecelio 1937,23,6.5,0,0,0,0,0,0,0,13,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Diego Borghini,D,Guidonia Montecelio 1937,74,6.3,0,0,0,0,0,0,0,53,0,0,0,66,0,0,1,4,1,1,0,1,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Franco Ferrari,F,Guidonia Montecelio 1937,15,6.2,0,0,0.19,0,1,0,1,8,0,0,0,13,0,0,0,1,2,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Eetu Vertainen,F,Guidonia Montecelio 1937,82,7.5,1,1,0.2,0.07,3,1,0,19,2,0,0,35,2,0,0,6,3,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Riccardo Baroni,D,Guidonia Montecelio 1937,90,7,0,0,0,0,0,0,0,62,0,0,0,77,0,0,3,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Andrea Errico,M,Guidonia Montecelio 1937,90,7.2,0,0,0.02,0,1,0,0,52,1,0,0,67,3,0,1,6,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Salvatore Santoro,M,Guidonia Montecelio 1937,90,7.2,0,1,0,0.14,0,0,0,79,1,0,0,87,0,0,1,1,1,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Davide Zappella,M,Guidonia Montecelio 1937,90,7.4,0,1,0.09,0.38,1,1,0,40,2,0,0,49,0,0,1,5,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Valerio Mastrantonio,M,Guidonia Montecelio 1937,82,6.9,0,0,0,0,0,0,0,43,1,0,0,54,0,0,2,3,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Pasquale Giannotti,M,Guidonia Montecelio 1937,74,9.2,2,0,0.27,0,4,3,0,35,1,0,0,52,2,0,0,10,0,1,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Stefano Esempio,D,Guidonia Montecelio 1937,90,6.7,0,0,0,0,0,0,0,63,0,0,0,75,0,0,1,2,2,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Erasmo Mulè,D,Guidonia Montecelio 1937,6,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Giacomo Drago,G,Guidonia Montecelio 1937,90,6.6,0,0,0,0,0,0,0,22,0,0,0,24,0,0,0,0,0,0,0,0,0,1
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Marco Spina,F,Gubbio,20,6.4,0,0,0.02,0,1,0,0,5,0,0,0,6,0,0,0,0,0,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Mattia Tonetto,D,Guidonia Montecelio 1937,15,6.4,0,0,0,0,0,0,0,10,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Lorenzo Podda,M,Gubbio,42,6.5,0,0,0,0,0,0,0,10,0,0,0,11,0,0,1,1,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Nicola Bagnolini,G,Gubbio,90,5.6,0,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,0,0,0,0,2
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Alessandro Spavone,F,Guidonia Montecelio 1937,74,6.4,0,0,0,0.01,0,0,0,22,1,0,0,34,1,0,0,3,0,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Tommaso Ghirardello,F,Gubbio,45,6.6,0,0,0,0,0,0,0,12,0,0,0,21,0,0,0,5,1,1,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Leonardo Baroncelli,D,Gubbio,90,6.1,0,0,0,0,0,0,0,41,0,0,0,53,0,0,0,2,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Francesco Zallu,M,Gubbio,57,6,0,0,0,0,0,0,0,22,0,0,0,30,0,0,0,2,1,0,1,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Edoardo Meconi,D,Gubbio,90,6.4,0,0,0,0.02,0,0,0,30,1,0,0,44,0,0,3,5,2,2,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Manuel Cesari,M,Gubbio,31,6.4,0,0,0,0,0,0,0,12,0,0,0,15,0,0,0,1,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Oumar Barry,D,Gubbio,67,6.4,0,0,0,0,0,0,0,25,0,0,0,30,0,1,1,5,0,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Amoako Minta,F,Gubbio,90,6.4,0,0,0.05,0,1,0,0,17,0,0,0,24,0,0,0,4,1,2,0,0,2,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Guidonia Montecelio 1937 vs Gubbio,22/08/2026,Alessandro Cardascio,M,Gubbio,77,6.3,0,0,0.13,0,1,1,0,8,0,0,0,15,1,0,0,3,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Denis Tonucci,D,Vis Pesaro,74,6.8,0,0,0.02,0,1,0,0,26,0,0,0,40,0,1,0,3,1,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Francesco Nicastro,F,Vis Pesaro,90,6,0,0,0.11,0,1,0,0,20,0,0,0,27,0,0,0,4,2,2,0,0,2,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Gaetano Letizia,D,Pescara,68,7.1,0,0,0,0.12,2,1,0,25,2,0,0,30,0,0,1,2,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Filippo Guccione,M,Pescara,90,7.1,0,0,0.11,0.06,4,1,0,57,1,0,0,77,1,0,3,5,4,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Luca Valzania,M,Pescara,90,7,0,0,0,0.08,0,0,0,34,2,0,0,48,0,0,1,8,1,5,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Sulayman Jallow,F,Vis Pesaro,8,6.4,0,0,0,0,0,0,0,5,0,0,0,10,1,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Manuel Di Paola,M,Vis Pesaro,90,7.2,0,0,0.06,0.33,2,0,0,58,2,0,0,77,2,0,0,7,2,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Michael Zeppieri,F,Pescara,8,6.6,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Alessandro Guarnone,G,Vis Pesaro,90,6.7,0,0,0,0,0,0,0,30,0,0,0,36,0,0,0,0,0,0,0,0,0,6
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Davide Merola,F,Pescara,74,7,1,0,1.11,0,6,3,0,21,0,0,1,43,0,0,1,2,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Filippo Pellacani,D,Pescara,90,7.4,0,0,0,0,0,0,0,34,0,0,0,44,0,0,1,6,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Riccardo Capellini,D,Pescara,90,7.4,0,0,0,0,0,0,0,49,0,0,0,59,0,0,0,2,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Michele D'Ausilio,M,Pescara,90,9,1,0,0.44,0.85,2,2,0,35,3,1,0,54,1,0,0,3,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Francesco Donati,D,Pescara,90,6.8,0,0,0,0,0,0,0,50,0,0,0,61,0,0,1,2,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Christian Nina,M,Vis Pesaro,38,6.6,0,0,0,0,0,0,0,24,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Romeo Giovannini,M,Vis Pesaro,90,6.3,0,0,0.34,0.07,2,0,0,27,1,0,0,38,2,0,0,4,5,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Lorenzo Meazzi,F,Pescara,90,7.9,0,1,0.56,0.52,6,1,0,44,4,0,0,73,7,0,0,12,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Francesco Dell'Aquila,M,Vis Pesaro,61,6.4,0,0,0.17,0.06,2,0,0,20,1,0,0,33,1,0,0,2,0,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Pablo Vitali,M,Pescara,90,7.1,0,1,0.58,0.08,5,0,1,41,1,1,0,67,4,0,2,12,4,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Ivan Mario Saio,G,Pescara,90,7.7,0,0,0,0,0,0,0,20,0,0,0,21,0,0,2,0,0,0,0,0,0,1
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Leonardo Graziani ,M,Pescara,8,6.7,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Matteo Motta,D,Pescara,30,6.8,0,0,0,0,0,0,0,15,0,0,0,18,0,0,1,1,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Federico Tavernaro,M,Vis Pesaro,61,7.5,0,0,0,0.06,0,0,0,18,1,0,0,28,2,0,0,6,1,2,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Pietro Giorgini,D,Vis Pesaro,90,6,0,0,0.06,0,1,0,1,82,0,0,0,112,0,0,1,3,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Giovanni Gambino,F,Vis Pesaro,38,6.3,0,0,0,0,0,0,0,7,1,0,0,12,0,0,0,2,0,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Giorgio Bailo,D,Vis Pesaro,90,6.2,0,0,0,0.01,1,0,0,42,1,0,0,62,3,0,2,10,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Nicolò Lari,F,Vis Pesaro,24,6.5,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,1,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Nicolò Berengo,M,Vis Pesaro,74,6.7,0,0,0.23,0,1,1,0,30,0,0,0,36,0,0,3,1,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Gioacchino Barranco,D,Vis Pesaro,90,6.1,0,0,0,0,0,0,0,25,0,0,0,39,0,0,1,7,1,3,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Christian D'Errico,M,Pescara,24,6.8,0,0,0,0.12,0,0,0,14,1,0,0,17,0,0,1,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pescara vs Vis Pesaro,22/08/2026,Alessandro Carnaroli,D,Vis Pesaro,24,6.7,0,0,0,0,0,0,0,24,0,0,0,33,0,0,0,5,1,2,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Simone Magnaghi,F,Campobasso FC,18,6.7,0,0,0,0.08,0,0,0,5,1,0,0,7,0,0,0,2,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Davide Agazzi,M,Campobasso FC,81,8,0,0,0,0.18,0,0,0,54,1,0,0,76,2,0,0,8,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Alfredo Bifulco,F,Campobasso FC,89,6.4,0,0,0.25,0.1,3,1,0,20,1,0,0,35,1,0,1,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Mario Gargiulo,M,Campobasso FC,90,7.5,0,1,0.42,0.37,3,1,0,55,2,1,1,82,1,0,0,6,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Gabriele Morelli,D,Pianese,62,5.8,0,0,0,0,0,0,0,15,0,0,0,25,0,0,2,3,0,1,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Isaac Prado,F,Campobasso FC,81,7.8,2,0,1.82,0,5,2,1,22,0,0,1,37,0,0,0,7,2,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Luca Fabrizi,F,Pianese,27,6.2,0,0,0.53,0,3,1,0,6,0,0,0,14,0,0,1,3,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Gabriele Corbo,D,Campobasso FC,10,6.6,0,0,0,0,0,0,0,7,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Matteo Stoppa,M,Campobasso FC,78,7.4,0,0,0.79,0.6,7,1,1,34,3,1,0,58,4,0,0,6,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Federico Papini,D,Campobasso FC,90,7.2,0,0,0,0,0,0,0,47,0,0,0,65,0,0,2,10,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Andrea Spurio,G,Campobasso FC,90,7.2,0,0,0,0,0,0,0,27,0,0,0,29,0,0,0,0,0,0,0,0,0,3
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Lorenzo Peli,F,Pianese,27,6.4,0,0,0,0,0,0,0,14,0,0,0,22,0,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Roberto Pierno,M,Campobasso FC,90,6.8,0,0,0.1,0.11,1,0,0,32,1,0,0,52,1,0,1,8,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Lorenzo Masetti,D,Pianese,90,5.9,0,0,0,0,0,0,0,21,0,0,0,36,0,0,4,2,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Christian Celesia,D,Campobasso FC,90,7.4,0,0,0,0,0,0,0,54,0,0,0,67,1,0,2,6,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Matteo Gorelli,D,Pianese,37,6.8,0,0,0,0,0,0,0,14,0,0,0,17,0,0,1,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Mattia Capoferri,D,Campobasso FC,90,6.9,0,0,0,0,1,0,0,35,0,0,0,48,1,0,2,3,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Michele Pezzolato,G,Pianese,90,7.8,0,0,0,0,0,0,0,20,0,0,0,26,0,0,0,0,0,0,0,0,0,4
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Simone Ianesi,F,Pianese,72,6.3,0,0,0,0.17,0,0,0,11,1,0,0,24,1,0,1,6,3,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Nicola Pintus,D,Pianese,62,7.2,0,0,0,0,0,0,0,33,1,0,0,64,0,0,6,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Francesco Chesti,D,Pianese,90,6.4,0,0,0,0,0,0,0,43,0,0,0,55,0,0,0,8,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Lorenzo Vigiani,M,Pianese,86,6.2,0,0,0.04,0,1,1,0,17,0,0,0,24,1,0,1,3,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Matteo Colombo,M,Pianese,90,6.6,0,0,0.11,0,2,0,0,40,0,0,0,57,0,0,2,10,1,2,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Alessandro Pellitteri,M,Campobasso FC,21,7,0,0,0,0.19,0,0,0,7,1,0,0,14,0,0,1,3,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Claudio Cristallo,D,Campobasso FC,89,8.2,0,0,0.03,0.33,1,0,0,42,3,0,0,68,4,0,1,19,4,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Riccardo Fogliata,M,Campobasso FC,10,6.3,0,0,0.27,0,2,1,0,4,0,0,0,11,0,0,0,1,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Gabriele Negri,F,Pianese,13,6.6,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,1,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Antonello Serra,M,Campobasso FC,18,6.5,0,0,0,0,0,0,0,5,0,0,0,6,0,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Carlo Maria Testa,F,Pianese,37,7.2,0,0,0,0.4,0,0,0,18,3,0,0,25,1,0,0,4,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Manuel Tirelli,M,Pianese,72,7.2,0,0,0,0,0,0,0,10,0,0,0,18,0,0,0,11,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Tommaso Casalino,M,Pianese,90,6.4,0,0,0,0,1,0,0,33,0,0,0,47,0,0,3,4,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Campobasso FC vs Pianese,23/08/2026,Leonardo Bellini,F,Pianese,90,6.3,0,0,0.32,0.15,2,1,0,20,2,0,0,33,0,0,0,8,0,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Alessandro Tonti,G,Pineto,90,7.3,0,0,0,0,0,0,0,17,0,0,0,20,0,0,0,0,0,0,0,0,0,2
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Cheick Keita,D,Latina,20,6.9,0,0,0,0,0,0,0,9,0,0,0,11,1,0,0,4,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Tommaso D Orazio,D,Pineto,90,7.1,0,0,0,0,0,0,0,24,0,0,0,37,1,0,2,6,0,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Jaime Báez,M,Latina,90,7.1,0,0,0.32,0,3,2,0,39,1,0,0,55,0,0,0,3,0,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Giulio Parodi,D,Latina,90,7.7,0,0,0,0,0,0,0,44,0,0,0,57,0,0,2,9,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Domenico Frare,D,Pineto,90,7.2,0,0,0,0,0,0,0,18,0,0,0,25,0,0,1,6,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Rodrigo De Ciancio,M,Latina,90,7.3,0,0,0.1,0,2,0,0,48,0,0,0,59,0,0,4,11,2,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Alessio Riccardi,M,Latina,31,6.4,0,0,0.01,0,2,0,0,13,0,0,0,21,0,0,0,0,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Luca Gagliano,F,Latina,65,6.6,0,0,0.17,0,1,0,0,14,0,0,0,22,0,0,0,5,2,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Riccardo Forte,M,Pineto,63,6.2,0,0,0.05,0.04,1,0,0,13,1,0,0,27,2,0,2,5,1,0,1,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Giacomo Tomaselli,M,Latina,88,7.1,0,0,0,0.17,0,0,0,42,1,0,0,61,3,1,3,12,2,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Youssouph Cheikh Sylla,F,Latina,43,6.4,0,0,0,0.1,0,0,0,6,1,0,0,10,0,0,0,1,4,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Emanuel Ercolano,M,Latina,90,6.9,0,0,0.04,0,1,0,0,46,0,0,0,68,1,0,4,7,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Anass Serbouti,D,Pineto,16,6.4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Luca Lombardi,M,Pineto,90,6.2,0,0,0.09,0,1,1,0,37,1,0,0,52,0,0,2,2,3,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Jacopo Lipani,M,Latina,88,6.6,0,0,0,0.1,0,0,0,43,1,0,0,56,1,0,2,3,3,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Christian Sussi,M,Latina,43,6.5,0,0,0,0,0,0,0,12,0,0,0,14,0,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Giovanni Alessandretti,D,Pineto,90,7.4,0,0,0,0,0,0,0,36,0,0,0,49,0,1,6,10,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Antonio Cioffi,F,Latina,20,6.9,0,0,0,0,0,0,0,6,0,0,0,8,2,0,0,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Davide Mastrantonio,G,Latina,90,6.7,0,0,0,0,0,0,0,26,0,0,0,30,0,0,0,0,0,0,0,0,0,1
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Filippo Marenco,D,Latina,90,7.5,0,0,0,0.01,0,0,0,28,1,0,0,41,1,0,3,13,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Marco Delle Monache,F,Pineto,45,6.3,0,0,0,0,0,0,0,3,0,0,0,9,0,0,0,0,3,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Antonio De Cristofaro,M,Latina,76,6.5,0,0,0.16,0,2,0,0,21,0,0,0,36,0,0,2,4,4,2,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Gianluca Germinario,M,Pineto,90,6.9,0,0,0,0,0,0,0,30,0,0,0,44,0,0,2,9,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Alessandro Pellegrino,M,Pineto,71,6.7,0,0,0.04,0,1,0,0,12,0,0,0,30,1,0,2,8,1,4,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Gianluca Vigliotti,F,Pineto,90,6.1,0,0,0,0,0,0,0,12,0,0,0,21,0,0,0,5,0,0,0,0,2,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Simone Ienco,D,Pineto,71,6.8,0,0,0.25,0,1,0,0,21,0,0,0,29,0,1,0,5,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Daniele Pistillo,F,Pineto,90,6.7,0,0,0.06,0,2,0,0,18,0,0,0,37,2,0,3,6,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Mateo Scheffer Bracco,M,Pineto,30,6,0,0,0,0,0,0,0,7,0,0,0,12,0,0,0,2,2,1,0,1,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Mattia Porro,M,Latina,65,6.4,0,0,0.01,0,1,0,0,12,0,0,0,21,1,0,0,5,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Latina vs Pineto,23/08/2026,Giulio Nebuloso,M,Pineto,37,6.4,0,0,0,0,1,0,0,6,0,0,0,11,0,0,0,1,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Ferdinando Mastroianni,F,Grosseto,23,6.8,0,0,0,0,0,0,0,3,0,0,0,6,0,0,0,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Alessandro Micai,G,Spezia,90,6.5,0,0,0,0,0,0,0,57,0,0,0,72,0,0,1,0,0,0,0,0,0,3
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Simone Bastoni,M,Spezia,32,6.6,0,0,0,0.17,0,0,0,13,1,0,0,14,0,0,0,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Simone Mazzocchi,F,Spezia,90,6,0,0,0.41,0.34,1,1,0,13,1,0,1,20,1,0,0,1,1,0,0,0,4,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Duccio Brenna,D,Grosseto,90,6.6,0,0,0,0,0,0,0,39,0,0,0,46,0,0,2,3,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Lorenzo Sabattini,M,Grosseto,89,7.1,0,0,0.09,0,2,1,0,29,0,0,0,49,1,0,1,11,0,4,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Federico Ampollini,D,Grosseto,90,6.8,0,0,0,0,0,0,0,34,1,0,0,46,0,0,0,4,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Mattia Gaddini,M,Grosseto,9,6.5,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Marco Fiorani,M,Grosseto,20,6.6,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,2,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Damiano Cancellieri,D,Spezia,90,6.4,0,1,0,0.15,0,0,0,36,1,0,0,50,1,0,1,5,2,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Kevin Bright,M,Spezia,15,6.8,0,0,0.22,0,2,0,0,2,0,0,0,7,0,0,0,3,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Jonathan Spedalieri,D,Spezia,90,7.2,0,0,0.17,0,1,0,0,73,0,0,0,89,0,1,2,7,0,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Aldo Florenzi,M,Spezia,56,6.6,0,0,0,0,0,0,0,16,0,0,0,27,1,0,0,6,1,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Denis Cazzadori,F,Spezia,56,6.1,0,0,0,0,0,0,0,11,0,0,0,25,0,0,1,4,3,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Lorenzo Gori,F,Grosseto,76,6.1,0,0,0.13,0,1,1,0,6,0,0,0,15,0,0,1,4,4,0,1,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Motiejus Sapola,D,Spezia,90,6.5,0,0,0,0,0,0,0,74,0,0,0,98,0,0,3,5,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Joselito Gómez,M,Spezia,67,7.2,0,0,0,0,0,0,0,46,0,0,0,59,0,0,1,5,2,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Mattia Damiani,M,Grosseto,89,6.8,0,0,0,0,0,0,0,23,0,0,0,36,0,1,1,10,3,6,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Galo Capomaggio,M,Spezia,32,5.9,0,0,0,0,0,0,0,12,0,0,0,15,0,0,2,0,2,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Alberto Montini,D,Grosseto,90,6.8,0,1,0,0.21,0,0,0,22,2,0,0,28,1,0,1,4,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Matteo Mannelli,D,Grosseto,76,6.6,0,0,0.03,0,1,0,0,28,0,0,0,41,2,1,0,9,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Pietro Candelari,M,Spezia,84,6.1,0,0,0,0.41,0,0,0,31,1,1,0,41,1,0,1,8,5,2,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Samuele Capolupo,M,Spezia,67,6.7,0,0,0,0,0,0,0,7,0,0,0,14,0,0,2,4,4,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Matteo Cabella,G,Grosseto,90,7.5,0,0,0,0,0,0,0,31,0,0,0,32,0,0,2,0,0,0,0,0,0,2
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Carmelo Limonelli,M,Spezia,43,6.3,0,0,0,0,0,0,0,22,0,0,0,33,0,0,1,3,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Mert Durmush,M,Spezia,43,6.7,0,0,0.34,0,1,1,0,12,0,0,1,28,3,0,1,6,1,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Alessio Ciraudo,D,Grosseto,23,6.6,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,6,3,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Francesco Fabri,M,Grosseto,90,7.7,0,0,0.39,0.36,4,0,0,32,2,0,0,63,3,1,2,16,1,4,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Lorenzo Andreoli,M,Grosseto,79,6.8,0,0,0.01,0.13,2,0,0,21,1,0,0,30,1,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Alessandro Cardinali,M,Spezia,90,7.3,1,0,0.15,0.01,1,1,0,20,1,0,0,36,1,0,3,3,0,2,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Emanuele Lorenzelli,M,Grosseto,9,6.6,0,0,0,0,0,0,0,3,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Grosseto vs Spezia,23/08/2026,Pietro Fiorini,M,Grosseto,90,7.7,1,0,0.55,0,3,2,0,20,1,0,0,36,0,0,1,7,2,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Carlo De Risio,M,Forlì,81,6.8,0,0,0,0,0,0,0,42,0,0,0,49,0,0,1,4,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Agostino Camigliano,D,Sambenedettese,85,6.2,0,0,0.11,0,1,0,0,40,0,0,0,54,0,0,1,1,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Jacopo Scaccabarozzi,M,Forlì,18,6.5,0,0,0.05,0,1,0,0,9,0,0,0,16,1,0,2,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Kevin Candellori,M,Sambenedettese,90,7.3,0,0,0,0.31,0,0,0,44,2,0,0,57,0,0,1,4,1,2,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Titas Krapikas,G,Sambenedettese,90,6.6,0,0,0,0,0,0,0,24,0,0,0,28,0,0,0,0,0,0,0,0,0,3
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Nicolò Gigli,D,Sambenedettese,90,6.8,0,0,0.29,0,1,0,0,46,0,0,0,58,0,1,1,10,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Georgi Tunjov,M,Sambenedettese,38,7.8,1,0,0.02,0.05,1,1,0,17,1,0,0,28,0,0,0,4,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Alessandro Faggioli,F,Sambenedettese,90,5.7,0,0,0.46,0,2,0,0,18,0,0,0,29,2,0,1,5,5,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Lorenzo Sgarbi,F,Sambenedettese,90,7.3,0,1,0.23,0.2,3,1,0,27,1,0,0,48,2,0,2,8,2,3,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Simone Nicoli,D,Sambenedettese,90,7.6,0,0,0.04,0.4,1,0,0,43,2,0,0,60,1,0,0,5,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Davide Macri,M,Forlì,90,7.2,0,2,0,0.59,1,1,0,32,2,0,0,42,0,0,0,3,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Elia Petrelli,F,Forlì,86,6.8,0,0,0.24,0.09,4,1,0,24,2,0,0,49,1,0,1,7,0,6,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Luca Munaretti,D,Forlì,90,7.3,1,0,0.39,0.02,1,1,0,44,1,0,0,64,0,0,3,3,0,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Nicola Farinelli,M,Forlì,90,6.2,0,0,0,0,0,0,0,22,0,0,0,37,1,0,3,5,3,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Leonardo Pezzola,D,Sambenedettese,90,6.2,0,0,0,0,0,0,0,44,0,0,0,60,0,1,4,2,3,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Marco Piccoli,M,Sambenedettese,61,6.3,0,0,0,0,0,0,0,25,0,0,0,29,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Pasquale Marranzino,M,Sambenedettese,38,6.5,0,0,0,0.02,0,0,0,15,1,0,0,19,0,0,2,0,2,1,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Davide Pio Stabile,F,Sambenedettese,14,6.4,0,0,0.05,0,1,0,0,3,0,0,0,5,0,0,0,1,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Nicola Mandrelli,D,Forlì,13,6.3,0,0,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Saer Diop,D,Forlì,90,6.2,0,0,0,0,0,0,0,42,0,0,0,51,0,0,0,4,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Manuel Rosetti,M,Forlì,90,6.5,0,0,0.09,0,2,0,0,38,0,0,0,50,1,0,0,5,3,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Diego Rossi,M,Forlì,81,6.7,0,0,0.08,0,1,1,0,32,0,0,0,43,1,0,0,6,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Matteo Onofri,D,Forlì,90,6.5,0,0,0,0,0,0,0,31,0,0,0,47,0,0,1,6,1,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Valentino Coveri,M,Forlì,86,7.4,1,0,0.2,0,1,1,0,15,1,0,0,24,2,0,0,4,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Leo Buljan,M,Sambenedettese,14,6.9,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0,4,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Giulio Veliaj,G,Forlì,90,5.4,0,0,0,0,0,0,0,27,0,0,0,29,0,0,0,0,0,0,0,0,0,1
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Francesco Perrotta,M,Sambenedettese,61,6,0,0,0.11,0.16,1,0,0,22,1,0,0,31,1,0,1,3,2,0,1,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Elia Plicco,M,Sambenedettese,85,8.3,1,0,0.2,0,1,1,0,37,0,0,0,52,1,1,1,13,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Giovanni Mattioli,M,Forlì,18,6.4,0,0,0,0,0,0,0,6,0,0,0,9,0,0,1,1,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Sambenedettese vs Forlì,23/08/2026,Giovanni Perini,F,Forlì,13,6.4,0,0,0,0.05,0,0,0,6,1,0,0,9,0,0,0,2,2,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Samuel Di Carmine,F,US Livorno 1915,82,7.3,1,0,0.92,0.19,3,2,0,10,1,0,0,19,0,0,0,6,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Matteo Liviero,M,Torres,79,6.3,0,0,0,0,0,0,0,31,1,0,0,36,0,0,0,2,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Daniele Giorico,M,Torres,10,6.6,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,3,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Luigi Scotto,F,Torres,90,6.1,0,0,0.22,0.35,2,2,0,31,2,0,0,44,0,0,1,6,2,2,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Niccolò Antonelli,D,Torres,90,6.5,0,0,0,0,0,0,0,29,0,0,0,37,0,0,1,6,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Koffi Djidji,D,US Livorno 1915,3,,0,0,0,0,0,0,0,3,0,0,0,3,0,0,1,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Mattia Aramu,F,US Livorno 1915,79,6.7,0,0,0.24,0,3,0,0,16,0,0,0,32,0,0,0,6,1,5,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Tommaso Arrigoni,M,US Livorno 1915,90,7.4,0,0,0,0.23,0,0,0,53,2,0,0,62,0,1,2,8,1,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Nicola Falasco,D,US Livorno 1915,90,6.5,0,0,0.01,0.12,1,1,0,34,1,0,0,45,2,1,2,3,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Giuseppe Mastinu,M,Torres,90,7.1,0,0,0.01,0.14,1,0,0,41,1,0,0,57,0,1,1,7,4,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Andrea Zaccagno,G,Torres,90,7.4,0,0,0,0,0,0,0,18,0,0,0,20,0,0,0,2,0,1,0,0,0,4
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Matteo Bachini,D,US Livorno 1915,90,7.2,0,1,0.12,0.19,1,0,0,32,1,0,0,43,1,0,1,8,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Francesco Corsinelli,M,Torres,24,6.5,0,0,0,0,0,0,0,9,0,0,0,13,0,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Diego Peralta,M,US Livorno 1915,24,6.6,0,0,0,0,0,0,0,3,0,0,0,5,0,0,0,1,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Gianmaria Zanandrea,D,Torres,90,6,0,0,0,0,0,0,0,37,0,0,0,50,0,1,0,6,3,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Manuele Malotti,M,US Livorno 1915,90,6.4,0,0,0.17,0.02,2,1,0,32,1,0,0,55,0,0,1,7,2,4,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Nicholas Pennington,M,Torres,90,6,0,1,0,0.1,0,0,0,34,1,0,0,43,0,0,0,5,5,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Giacomo Zecca,M,Torres,90,7.1,0,0,0.14,0.63,1,0,1,37,3,0,0,48,0,0,3,6,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Miguel Ángel Martínez,G,US Livorno 1915,90,7.4,0,0,0,0,0,0,0,45,0,0,0,52,0,0,0,0,0,0,0,0,0,5
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Michael Brentan,M,Torres,90,7.2,0,0,0.24,0.11,1,1,0,44,1,0,0,56,0,0,1,7,1,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Tommaso Mancini,F,US Livorno 1915,21,6.7,0,0,0.12,0,1,0,0,2,0,0,0,8,0,0,0,3,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Gabriele Berto,D,Torres,90,6.5,0,0,0,0,0,0,0,43,0,0,0,49,0,0,1,5,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Luca Bonassi,M,US Livorno 1915,24,6.5,0,0,0,0,0,0,0,6,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Lorenzo Di Stefano,F,Torres,90,7.1,1,0,0.85,0.01,7,3,0,14,1,0,0,38,2,0,1,4,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Samuele Regazzetti,D,US Livorno 1915,90,6.7,0,0,0.19,0.17,1,1,0,42,1,0,0,59,1,0,3,6,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Tommaso Pittino,D,US Livorno 1915,90,6.3,0,0,0.13,0,2,0,0,35,0,0,0,41,0,0,0,4,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Andrea Bacciardi,M,US Livorno 1915,79,6.5,0,0,0,0,0,0,0,31,0,0,0,43,0,0,2,6,3,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Jesus Christ Mawete,D,US Livorno 1915,90,6.7,1,0,0.19,0.06,1,1,0,24,2,0,0,45,1,0,0,3,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",US Livorno 1915 vs Torres,24/08/2026,Luca Alberto Calabro,M,US Livorno 1915,3,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Nicolas Viola,M,Ravenna,32,6.6,0,0,0,0,0,0,0,27,0,0,0,34,0,0,0,1,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Carlo Ilari,M,Ravenna,6,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Giacomo Venturi,G,Ravenna,90,6.7,0,0,0,0,0,0,0,17,0,0,0,18,0,0,0,0,0,0,0,0,0,3
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Matteo Solini,D,Ravenna,90,6.7,0,0,0.22,0,1,1,0,61,0,0,0,68,0,0,2,7,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Manuel Fischnaller,F,Ravenna,90,6.2,0,0,0.07,0,2,0,0,17,0,0,0,28,1,0,0,2,2,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Jacopo Furlan,G,Reggiana,90,6.9,0,0,0,0,0,0,0,15,0,0,0,15,0,0,0,0,0,0,0,0,0,2
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Matteo Battistini,D,Reggiana,90,7.4,1,0,0.59,0,3,2,0,43,0,0,0,55,0,0,1,4,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Giovanni Zaro,D,Ravenna,90,6.6,0,0,0.27,0,1,0,1,58,0,0,0,79,1,0,3,9,2,4,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Alessandro Tripaldelli,D,Reggiana,90,6.7,0,0,0,0,0,0,0,24,0,0,0,39,0,0,1,6,4,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Manolo Portanova,F,Reggiana,90,7.8,0,1,0,0.64,0,0,0,21,4,0,0,52,3,0,2,12,1,1,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Edoardo Duca,M,Ravenna,90,6.6,0,0,0,0,0,0,0,62,0,0,0,85,1,0,2,14,2,1,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Fabio Ponsi,D,Reggiana,67,7.1,0,0,0,0,0,0,0,29,0,0,0,36,1,0,0,8,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Leon Šipoš,F,Reggiana,90,6.5,0,0,0.13,0.01,1,0,0,18,1,0,0,31,0,0,0,8,2,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Massimo Bertagnoli,M,Reggiana,83,6.9,0,0,0.07,0.11,2,1,0,35,1,0,0,46,0,0,1,6,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Luca Falbo,M,Ravenna,69,6.4,0,0,0,0.46,0,0,0,54,3,0,0,74,3,0,2,4,3,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Joshua Tenkorang,M,Ravenna,69,6.1,0,0,0.02,0,1,0,0,21,0,0,0,34,2,0,2,2,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Cristiano Bani,D,Ravenna,32,6.8,0,0,0,0,0,0,0,27,0,0,0,32,0,0,0,4,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Cristian Spini,F,Ravenna,90,7.6,1,0,0.43,0,4,2,0,29,0,0,0,51,3,0,0,6,2,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Lorenzo Lonardi,M,Ravenna,90,7.8,0,0,0,0,0,0,0,85,0,0,0,105,2,0,2,11,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Andrea Papetti,D,Reggiana,34,6.4,0,0,0,0,0,0,0,7,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Kristófer Jónsson,M,Reggiana,90,6.7,0,0,0.01,0.01,1,0,0,49,1,0,0,69,2,0,3,4,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Martín Suárez,M,Reggiana,18,6.3,0,0,0,0,0,0,0,4,0,0,0,9,0,0,1,1,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Damiano Basili,M,Reggiana,27,6.3,0,0,0,0,0,0,0,1,0,0,0,6,0,0,0,1,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Francesco Vallarelli,M,Reggiana,90,6.9,0,0,0.21,0,3,0,0,26,0,0,0,39,2,0,1,11,2,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Marcelo Orellana,M,Ravenna,32,6.4,0,0,0,0,0,0,0,15,0,0,0,18,0,0,0,1,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Matteo Maggio,M,Ravenna,69,6.6,0,0,0.2,0.27,2,0,0,25,1,0,0,40,2,0,0,4,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Natan Girma,F,Reggiana,74,6.5,0,0,0.39,0,3,1,1,16,0,0,0,38,0,0,0,8,2,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Lorenzo Da Pozzo,M,Ravenna,90,6.7,0,0,0,0.25,0,0,0,49,2,0,0,72,2,0,1,7,0,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Reggiana vs Ravenna,24/08/2026,Simone Bonetti,D,Reggiana,90,6.4,0,0,0,0,0,0,0,41,0,0,0,52,0,0,2,4,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Diego Vita,F,Vado,90,6.1,0,0,0.13,0,1,0,0,10,0,0,0,25,0,0,1,4,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Andrea Sala,G,Vado,90,7.2,0,0,0,0,0,0,0,14,0,0,0,16,0,0,0,1,0,1,0,0,0,2
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Luca Piana,D,Vado,90,6.7,0,0,0,0,0,0,0,67,0,0,0,88,0,0,3,5,1,2,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Maiko Candiano,M,Vado,25,6.8,0,0,0.01,0,1,1,0,11,0,0,0,18,0,0,0,3,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Iacopo Cernigoi,F,Vado,49,6.4,0,0,0.18,0,1,0,0,5,0,0,0,7,0,0,0,2,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Gabriele Morelli,D,Pianese,90,6.1,0,0,0.34,0,2,1,0,22,0,0,0,34,0,0,1,1,2,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Giorgio Lionetti,M,Vado,75,6.4,0,0,0,0,0,0,0,16,0,0,0,22,0,0,0,5,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Luca Fabrizi,F,Pianese,40,6.1,0,0,0.12,0,3,1,0,10,0,0,0,21,0,0,1,3,2,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Luca Ercolani,D,Pianese,90,7.1,0,0,0,0,0,0,0,25,0,0,0,33,0,0,1,3,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Alessandro Di Munno,M,Vado,35,6.3,0,0,0,0,0,0,0,16,0,0,0,20,0,0,0,2,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Francesco Proietto,M,Pianese,90,7.4,0,0,0.33,0,2,0,0,36,0,0,0,50,0,1,2,7,1,1,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Andrea Ghezzi,M,Vado,49,6.1,0,0,0.02,0,1,0,0,24,0,0,0,42,2,0,0,2,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Lorenzo Masetti,D,Pianese,90,7.3,0,0,0,0,0,0,0,34,0,0,0,45,0,0,1,4,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Marco Bertini,M,Pianese,87,6.9,0,0,0,0,0,0,0,37,0,0,0,50,1,0,1,5,1,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Luca Dellepiane,D,Vado,50,6.5,0,0,0,0,0,0,0,11,0,0,0,17,0,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Mirko Lazzarini,D,Vado,90,8.3,0,0,0.01,0.13,1,0,0,86,1,0,0,120,0,2,1,13,0,2,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Matteo De Rinaldis,M,Vado,90,6.6,0,0,0.01,0.02,1,0,0,71,1,0,0,89,0,0,0,2,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Michele Pezzolato,G,Pianese,40,5.1,0,0,0,0,0,0,0,10,0,0,0,10,0,0,0,0,1,0,0,1,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Simone Ianesi,F,Pianese,12,6.7,0,0,0,0.17,0,0,0,3,1,0,0,7,0,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Mirko Saltarelli,D,Vado,90,7.8,0,0,0,0.18,1,0,0,93,1,0,0,128,0,0,1,5,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Francesco Chesti,D,Pianese,90,6.9,0,0,0,0,0,0,0,37,0,0,0,47,0,0,1,5,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Lorenzo Vigiani,M,Pianese,8,6.6,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,1,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Matteo Colombo,M,Pianese,50,6.9,0,0,0.26,0.17,2,0,0,13,1,0,0,20,1,0,0,2,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Matteo Ferro,F,Vado,90,6.2,0,0,0,0,0,0,0,17,0,0,0,28,0,0,1,2,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Jacopo Simonetta,M,Vado,9,6.6,0,0,0,0.01,0,0,0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Diego Tampieri,M,Vado,65,6.9,0,0,0.01,0,1,0,0,39,1,0,0,46,0,1,0,6,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Carlo Maria Testa,F,Pianese,87,6.2,0,0,0,0,0,0,0,19,0,0,0,26,1,0,0,4,1,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Manuel Tirelli,M,Pianese,49,6.5,0,0,0,0,0,0,0,7,0,0,0,11,0,0,0,4,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Tommaso Casalino,M,Pianese,12,6.7,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Leonardo Bellini,F,Pianese,90,7,0,0,0.31,0,1,0,0,16,0,0,1,31,2,0,0,10,3,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Gianluca Astaldi,G,Pianese,59,6.7,0,0,0,0,0,0,0,8,0,0,0,8,0,0,0,0,0,0,0,0,0,1
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pianese vs Vado,28/08/2026,Filippo Rosa,M,Vado,50,6.7,0,0,0,0,0,0,0,20,0,0,0,29,0,0,0,3,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Matteo Liviero,M,Torres,21,6.8,0,0,0,0,0,0,0,8,0,0,0,13,1,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Daniele Giorico,M,Torres,21,6.8,0,0,0.17,0,1,1,0,11,0,0,0,15,0,0,0,2,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Luigi Scotto,F,Torres,90,7.3,0,1,0.52,0.05,5,1,0,28,1,1,0,58,3,0,4,8,2,0,1,0,3,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Niccolò Antonelli,D,Torres,90,7,0,0,0,0,0,0,0,36,0,0,0,52,0,0,4,2,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Agostino Camigliano,D,Sambenedettese,89,6.7,0,0,0,0,0,0,0,25,0,0,0,32,1,0,3,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Giuseppe Mastinu,M,Torres,82,7.4,0,0,0.13,0.22,3,1,0,58,2,0,0,85,1,0,1,6,1,1,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Andrea Zaccagno,G,Torres,90,7.1,0,0,0,0,0,0,0,19,0,0,0,22,0,0,0,0,0,0,0,0,0,2
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Kevin Candellori,M,Sambenedettese,89,7,0,0,0,0.04,0,0,0,35,1,0,0,48,0,0,3,9,2,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,José Machín,M,Sambenedettese,62,6.2,0,0,0,0,0,0,0,24,0,0,0,27,0,0,0,2,1,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Titas Krapikas,G,Sambenedettese,90,8.4,0,0,0,0,0,0,0,32,0,0,0,35,0,0,0,1,0,1,0,0,0,7
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Nicolò Gigli,D,Sambenedettese,90,6.7,0,0,0,0,0,0,0,38,0,0,0,49,0,0,4,5,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Francesco Corsinelli,M,Torres,82,6.7,0,0,0.05,0,1,0,0,17,0,0,0,27,0,0,0,2,2,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Gianmaria Zanandrea,D,Torres,7,,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,2,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Georgi Tunjov,M,Sambenedettese,23,6.4,0,0,0,0,0,0,0,10,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Nicholas Pennington,M,Torres,71,7.1,0,0,0.03,0.15,1,0,0,23,1,0,0,36,2,1,0,5,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Giacomo Zecca,M,Torres,90,6.8,0,0,0.16,0.28,1,1,0,40,2,0,0,55,0,0,1,4,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Alessandro Faggioli,F,Sambenedettese,54,6.4,0,0,0,0.01,0,0,0,8,1,0,0,19,0,0,0,3,1,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Lorenzo Sgarbi,F,Sambenedettese,90,6.4,0,0,0.24,0.18,4,1,0,37,2,0,0,62,0,0,0,3,1,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Alessio Zini,D,Sambenedettese,46,5.7,0,0,0.12,0,1,0,0,20,0,0,0,30,0,0,2,4,1,2,0,1,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Simone Nicoli,D,Sambenedettese,41,6.7,0,0,0,0,0,0,0,16,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Michael Brentan,M,Torres,90,7.7,0,0,0.11,0.23,2,0,0,51,3,0,0,73,1,1,1,9,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Leonardo Pezzola,D,Sambenedettese,49,6.3,0,0,0,0,0,0,0,18,0,0,0,24,0,1,1,3,1,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Marco Piccoli,M,Sambenedettese,90,6.6,0,0,0.18,0.14,2,0,0,39,1,0,0,65,0,0,4,6,2,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Francesco Nunziatini,D,Torres,90,6.9,0,0,0,0,0,0,0,50,0,0,0,63,0,0,2,7,3,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Gabriele Berto,D,Torres,90,7.4,0,0,0,0,0,0,0,48,0,0,0,66,0,0,3,2,3,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Pasquale Marranzino,M,Sambenedettese,90,7.2,0,0,0.33,0.38,3,1,0,38,3,0,0,57,1,0,0,6,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Davide Pio Stabile,F,Sambenedettese,14,6,0,0,0.23,0,1,0,0,1,0,0,0,8,0,1,0,0,3,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Michele Carboni,M,Torres,33,7.5,1,0,0.48,0,3,2,0,11,0,0,0,22,1,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Lorenzo Di Stefano,F,Torres,90,6.6,0,0,0.62,0.05,4,2,0,20,1,0,0,44,2,0,2,4,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Elia Plicco,M,Sambenedettese,80,6.7,0,0,0,0,0,0,0,35,0,0,0,49,1,0,1,6,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Torres vs Sambenedettese,29/08/2026,Gabriele Gigante,F,Sambenedettese,14,6.4,0,0,0,0,0,0,0,2,0,0,0,6,0,0,0,1,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Carlo De Risio,M,Forlì,90,6.5,0,0,0,0,0,0,0,26,0,0,0,35,1,0,1,3,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Filippo Guccione,M,Pescara,90,7.3,1,1,0.77,0.34,3,2,0,60,2,0,0,79,0,1,1,3,3,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Jacopo Scaccabarozzi,M,Forlì,23,6.5,0,0,0,0,0,0,0,4,0,0,0,5,0,0,0,1,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Luca Valzania,M,Pescara,90,6.4,0,0,0,0,0,0,0,31,0,0,0,47,0,0,0,5,1,1,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Michael Zeppieri,F,Pescara,38,6.3,0,0,0,0,0,0,0,3,0,0,0,4,0,0,1,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Davide Merola,F,Pescara,51,6.4,0,0,0.18,0,1,0,0,15,0,0,0,19,0,0,1,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Filippo Pellacani,D,Pescara,35,3.9,0,0,0,0,0,0,0,17,0,0,0,19,0,0,0,0,1,0,0,1,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Davide Macri,M,Forlì,86,8.8,1,1,0.05,0.15,1,1,0,22,1,0,0,37,0,0,1,5,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Elia Petrelli,F,Forlì,90,8.8,3,0,1.69,0,6,3,0,11,0,0,0,24,0,0,0,4,1,1,0,0,2,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Riccardo Capellini,D,Pescara,90,5.5,0,0,0,0,0,0,0,47,0,0,0,59,0,0,3,4,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Michele D'Ausilio,M,Pescara,51,6.5,0,0,0,0,0,0,0,19,0,0,0,31,0,0,0,4,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Francesco Donati,D,Pescara,90,5.2,0,0,0,0,0,0,0,57,0,0,0,75,1,0,1,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Gabriele Perretta,D,Forlì,11,6.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Bilal Erradi,M,Pescara,57,6,0,0,0,0.05,0,0,0,22,1,0,0,30,0,0,0,4,3,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Luca Munaretti,D,Forlì,90,6.7,1,0,0.58,0,2,1,0,28,0,0,1,43,0,0,1,3,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Nicola Farinelli,M,Forlì,90,7.2,0,0,0,0.07,0,0,0,25,1,0,0,48,3,0,0,11,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Luigi Palomba,D,Forlì,23,6.8,0,0,0,0,0,0,0,8,0,0,0,9,0,0,0,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Lorenzo Meazzi,F,Pescara,70,6.5,1,0,0.72,0,2,1,0,23,1,0,0,45,0,0,1,3,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Andrea Ferraris,M,Pescara,57,7.7,1,0,0.16,0,1,1,0,8,0,0,0,15,0,0,0,3,1,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Pablo Vitali,M,Pescara,42,6.4,0,0,0,0,0,0,0,10,0,0,0,14,0,0,0,1,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Ivan Mario Saio,G,Pescara,90,5.3,0,0,0,0,0,0,0,22,0,0,0,26,0,0,0,1,0,1,0,0,0,1
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Leonardo Graziani ,M,Pescara,10,6.4,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Saer Diop,D,Forlì,86,6.4,0,0,0.2,0,1,0,0,13,0,0,0,23,0,0,2,10,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Manuel Rosetti,M,Forlì,90,7,0,0,0.01,0,2,0,0,20,0,0,0,44,0,2,6,7,4,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Matteo Onofri,D,Forlì,90,6.7,0,0,0,0.64,0,0,0,20,2,1,0,31,0,0,0,5,2,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Valentino Coveri,M,Forlì,90,7.5,1,0,0.64,0,2,1,0,4,0,0,0,18,3,0,1,5,2,1,1,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Giulio Veliaj,G,Forlì,90,5.9,0,0,0,0,0,0,0,16,0,0,0,20,0,0,0,0,0,0,0,0,0,1
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Matteo Motta,D,Pescara,90,4.7,0,0,0,0,0,0,0,58,0,0,0,77,0,1,1,2,1,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Giovanni Mattioli,M,Forlì,90,6.2,0,1,0,0.05,0,0,0,16,1,0,0,24,0,0,0,2,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Giovanni Perini,F,Forlì,11,6.5,0,0,0.06,0,1,1,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Nicolo Tordiglione,F,Forlì,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Forlì vs Pescara,29/08/2026,Matteo Milan,D,Pescara,66,5.8,0,0,0.08,0,1,0,0,22,0,0,0,27,0,0,0,2,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Samuel Di Carmine,F,US Livorno 1915,85,6.5,0,0,0,0,0,0,0,7,0,0,0,13,0,1,1,3,0,1,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Koffi Djidji,D,US Livorno 1915,42,6,0,0,0,0,0,0,0,8,0,0,0,13,0,0,1,0,1,0,2,1,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Mattia Aramu,F,US Livorno 1915,85,6.6,0,0,0,0.34,1,0,0,29,1,1,0,41,0,0,0,6,3,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Tommaso Arrigoni,M,US Livorno 1915,90,6.6,0,0,0,0.26,0,0,0,48,1,0,0,57,0,0,2,2,1,1,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Nicola Falasco,D,US Livorno 1915,67,6.1,0,0,0,0,0,0,0,18,0,0,0,26,0,0,0,5,2,1,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Alessandro Tonti,G,Pineto,90,8,0,0,0,0,0,0,0,36,0,0,0,43,0,0,0,1,0,1,0,0,0,2
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Matteo Bachini,D,US Livorno 1915,90,6.9,0,0,0,0,0,0,0,25,0,0,0,38,1,0,3,3,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Tommaso D Orazio,D,Pineto,80,7,0,0,0,0,0,0,0,45,0,0,0,58,0,0,1,3,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Domenico Frare,D,Pineto,90,7.1,0,0,0,0,0,0,0,34,0,0,0,40,0,0,1,4,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Miguel Ángel Martínez,G,US Livorno 1915,90,8.6,0,0,0,0,0,0,0,34,0,0,0,35,0,0,0,0,0,0,0,0,0,4
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Riccardo Forte,M,Pineto,67,6.8,0,0,0.09,0,1,0,0,15,0,0,0,26,1,0,0,7,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Anass Serbouti,D,Pineto,30,6.9,0,0,0,0,0,0,0,7,0,0,0,9,0,0,0,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Luca Lombardi,M,Pineto,90,7.1,0,0,0,0,0,0,0,49,1,0,0,60,0,0,1,5,1,1,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Giovanni Alessandretti,D,Pineto,90,7.1,0,0,0.15,0,1,0,0,36,1,0,0,41,0,0,0,8,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Giuseppe Guadagni,F,Pineto,90,7,0,0,0.62,0,4,2,0,25,0,0,1,57,5,0,1,11,1,4,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Alessio Rizza,D,US Livorno 1915,25,6.2,0,0,0,0,0,0,0,2,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Tommaso Mancini,F,US Livorno 1915,43,6.2,0,0,0,0,0,0,0,10,0,0,0,16,0,0,0,2,1,1,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Lorenzo Malagrida,F,US Livorno 1915,67,6.6,0,0,0.34,0,1,0,0,9,0,0,1,22,1,0,1,6,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Marco Delle Monache,F,Pineto,36,7.1,0,0,0,0.08,0,0,0,8,1,0,0,20,3,0,0,9,1,1,0,1,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Gianluca Germinario,M,Pineto,90,6.8,0,0,0,0.07,1,0,0,49,1,0,0,59,0,0,1,6,1,1,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Samuele Regazzetti,D,US Livorno 1915,90,6.8,0,0,0,0,0,0,0,29,0,0,0,41,0,0,0,8,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Alessandro Pellegrino,M,Pineto,80,7,0,0,0.04,0.59,2,0,0,22,1,1,0,36,1,0,2,3,2,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Tommaso Pittino,D,US Livorno 1915,90,7.5,0,0,0,0,0,0,0,46,0,0,0,63,0,1,3,7,2,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Gianluca Vigliotti,F,Pineto,90,6.9,0,0,0.57,0,2,1,0,14,1,0,1,26,0,0,0,6,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Simone Ienco,D,Pineto,90,7.2,0,0,0.09,0,2,1,0,26,0,0,0,38,1,0,0,9,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Andrea Bacciardi,M,US Livorno 1915,90,7.5,0,0,0.01,0,1,1,0,42,0,0,0,56,0,1,0,7,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Giacomo Gabbiani,F,US Livorno 1915,25,6.5,0,0,0.26,0,1,1,0,1,0,0,0,9,0,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Daniele Pistillo,F,Pineto,17,6.4,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Giulio Nebuloso,M,Pineto,30,6.8,0,0,0,0,1,0,0,5,0,0,0,15,1,0,0,3,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Pineto vs US Livorno 1915,29/08/2026,Jesus Christ Mawete,D,US Livorno 1915,90,6.6,0,0,0,0,0,0,0,20,0,0,0,34,0,0,0,8,2,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Davide Agazzi,M,Campobasso FC,89,5.5,0,0,0,0,0,0,0,35,0,0,0,49,1,0,0,2,3,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Alessandro Micai,G,Spezia,90,7.9,0,0,0,0,0,0,0,36,0,0,0,42,0,0,0,0,0,0,0,0,0,2
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Alfredo Bifulco,F,Campobasso FC,90,7,0,0,0.17,0.49,2,1,0,23,1,1,0,35,1,0,0,5,0,1,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Mario Gargiulo,M,Campobasso FC,82,5.9,0,0,0.16,0,1,1,0,23,0,0,0,36,0,0,2,1,1,0,1,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Simone Mazzocchi,F,Spezia,90,7.3,1,0,0.9,0,2,1,0,6,0,0,0,14,0,0,0,6,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Isaac Prado,F,Campobasso FC,90,7,0,0,0.11,0.26,1,0,0,21,3,0,0,38,0,0,1,7,3,3,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Gabriele Corbo,D,Campobasso FC,20,6.7,0,0,0,0,0,0,0,17,0,0,0,21,0,0,0,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Matteo Stoppa,M,Campobasso FC,90,6.6,0,0,0.49,0,1,0,0,34,0,0,1,48,2,0,2,5,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Federico Papini,D,Campobasso FC,90,6.7,0,0,0,0,0,0,0,42,0,0,0,48,0,0,5,2,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Andrea Spurio,G,Campobasso FC,90,6.5,0,0,0,0,0,0,0,23,0,0,0,28,0,0,0,0,0,0,0,0,0,2
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Roberto Pierno,M,Campobasso FC,68,6.5,0,0,0,0,0,0,0,17,0,0,0,32,1,0,2,5,2,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Christian Celesia,D,Campobasso FC,90,6.9,0,0,0,0.13,0,0,0,38,1,0,0,52,0,0,2,9,4,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Damiano Cancellieri,D,Spezia,90,7.5,0,0,0,0.68,0,0,0,50,3,1,0,69,4,0,1,8,0,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Lorenzo Coccia,M,Campobasso FC,34,6.6,0,0,0,0,0,0,0,12,0,0,0,24,1,0,1,4,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Mattia Capoferri,D,Campobasso FC,82,6.1,0,0,0,0,0,0,0,23,0,0,0,27,0,0,1,4,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Kevin Bright,M,Spezia,77,6.7,0,0,0,0,0,0,0,12,0,0,0,21,1,0,1,6,2,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Aldo Florenzi,M,Spezia,57,6.4,0,0,0.49,0,3,1,0,18,0,0,1,26,1,0,0,3,1,1,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Denis Cazzadori,F,Spezia,45,6.3,0,0,0.69,0,2,0,0,11,0,0,1,18,0,0,0,4,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Motiejus Sapola,D,Spezia,90,7.8,0,0,0,0.49,0,0,0,51,1,1,0,65,0,0,4,3,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Joselito Gómez,M,Spezia,25,6.6,0,0,0,0,0,0,0,7,0,0,0,11,0,0,0,2,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Jérémy Oyono,D,Spezia,45,6.9,0,0,0,0,0,0,0,13,0,0,0,23,0,0,1,3,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Galo Capomaggio,M,Spezia,90,6.6,0,0,0.01,0,1,1,0,61,0,0,0,79,0,1,1,4,2,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Alessandro Pellitteri,M,Campobasso FC,34,6.5,0,0,0.09,0,1,0,0,11,0,0,0,23,0,0,1,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Claudio Cristallo,D,Campobasso FC,68,5.9,0,0,0,0,0,0,0,25,0,0,0,41,0,0,3,8,1,2,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Lorenzo Carfora,M,Campobasso FC,20,6.5,0,0,0.01,0,1,0,0,4,0,0,0,11,1,0,0,3,2,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Riccardo Fogliata,M,Campobasso FC,13,6.6,0,0,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Samuele Capolupo,M,Spezia,57,6.9,0,0,0,0,0,0,0,21,0,0,0,28,0,0,0,3,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Carmelo Limonelli,M,Spezia,45,6.5,0,0,0.38,0,1,0,0,14,0,0,1,20,0,0,1,1,0,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Mert Durmush,M,Spezia,57,6.3,0,0,0.18,0,1,0,0,22,0,0,0,32,1,0,1,3,1,2,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Riccardo Sganzerla,D,Spezia,90,6.9,0,0,0,0,0,0,0,46,0,0,0,54,0,0,0,5,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Alessandro Cardinali,M,Spezia,90,7.8,0,0,0,0.61,0,0,0,26,4,1,0,53,3,1,0,11,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Spezia vs Campobasso FC,29/08/2026,Riccardo Fontanarosa,F,Spezia,8,6.1,0,0,0.38,0,1,0,0,1,0,0,1,3,0,0,0,1,1,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Alessandro Murgia,M,Guidonia Montecelio 1937,50,6.4,0,1,0.27,0.04,2,0,0,36,1,0,0,47,1,0,2,4,1,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Christian D'Urso,M,Guidonia Montecelio 1937,50,6.1,0,0,0.01,0.02,1,0,0,23,2,0,0,33,0,0,0,1,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Franco Ferrari,F,Guidonia Montecelio 1937,34,6.6,0,0,0.01,0,1,0,0,10,0,0,0,12,0,0,0,2,1,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Eetu Vertainen,F,Guidonia Montecelio 1937,90,7.7,1,0,0.32,0.13,4,3,0,16,5,0,0,42,1,0,1,8,1,3,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Riccardo Baroni,D,Guidonia Montecelio 1937,90,6.4,0,0,0.02,0,1,0,1,58,0,0,0,76,0,0,4,6,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Andrea Errico,M,Guidonia Montecelio 1937,65,6.9,0,0,0.47,0.26,2,2,0,35,2,0,1,49,3,0,1,9,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Salvatore Santoro,M,Guidonia Montecelio 1937,14,6.7,0,0,0,0,0,0,0,12,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Davide Zappella,M,Guidonia Montecelio 1937,90,6.9,0,0,0.02,0.15,1,1,0,46,1,0,0,60,2,0,1,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Valerio Mastrantonio,M,Guidonia Montecelio 1937,49,6.6,0,0,0,0.04,1,0,0,13,1,0,0,18,0,0,0,4,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Pasquale Giannotti,M,Guidonia Montecelio 1937,90,6.1,0,0,0.93,0,5,1,0,45,0,0,1,67,1,0,2,10,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Stefano Esempio,D,Guidonia Montecelio 1937,90,7,0,0,0,0,0,0,0,69,0,0,0,82,0,0,4,6,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Erasmo Mulè,D,Guidonia Montecelio 1937,85,6.1,0,0,0,0,0,0,0,61,0,0,0,72,0,0,2,2,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Davide Ghislandi,M,Atalanta U23,39,8.3,1,0,0.72,0.36,3,1,0,10,2,0,1,19,2,0,2,4,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Enrico Celeghin,M,Guidonia Montecelio 1937,65,6.4,0,0,0.03,0.01,1,0,0,77,1,0,0,92,0,0,1,4,2,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Giacomo Drago,G,Guidonia Montecelio 1937,90,5.9,0,0,0,0,0,0,0,26,0,0,0,27,0,0,0,0,0,0,0,0,0,1
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Federico Bergonzi,M,Atalanta U23,13,6.3,0,0,0,0,0,0,0,3,0,0,0,6,0,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Mattia Tonetto,D,Guidonia Montecelio 1937,34,6.7,0,0,0,0,0,0,0,16,0,0,0,21,0,0,0,3,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Alessandro Spavone,F,Guidonia Montecelio 1937,49,6.4,0,0,0,0,0,0,0,8,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Alessio Guerini,D,Atalanta U23,86,6.9,0,1,0,0,0,0,0,28,0,0,0,43,0,0,5,3,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Giulio Misitano,F,Atalanta U23,67,7.6,1,0,0.19,0,2,1,0,14,0,0,0,27,1,0,2,1,3,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Andrea Bonanomi,M,Atalanta U23,59,6.3,0,0,0.14,0,1,1,0,14,0,0,0,35,3,0,3,6,0,1,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Matteo Plaia,D,Atalanta U23,90,6,0,0,0,0,0,0,0,20,0,0,0,24,0,0,2,1,2,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Albert Navarro,D,Atalanta U23,90,6.5,0,0,0.11,0,2,0,0,29,0,0,0,43,0,0,2,3,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Sergej Levak,M,Atalanta U23,90,7.5,0,0,0,0.2,0,0,0,31,2,0,0,43,0,0,2,5,0,1,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Alberto Manzoni,M,Atalanta U23,59,6.5,0,0,0.13,0,1,0,0,21,0,0,0,28,1,0,0,2,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Siren Diao,F,Atalanta U23,39,6.4,0,0,0.38,0,3,0,0,12,0,0,0,24,0,0,0,5,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Jacopo Mirra,D,Atalanta U23,90,6.6,0,0,0,0,1,0,0,35,0,0,0,52,0,0,1,1,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Henry Camara,F,Atalanta U23,32,6.8,0,0,0,0.42,0,0,0,7,1,1,0,13,0,0,1,4,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Filippo Mencaraglia,M,Atalanta U23,13,6.6,0,0,0,0.07,0,0,0,3,1,0,0,4,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Federico Steffanoni,M,Atalanta U23,86,6.8,0,1,0.3,0,3,0,0,23,0,0,0,46,1,0,2,9,1,3,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Digne Kaelas Pounga,M,Atalanta U23,90,6.8,0,0,0,0,0,0,0,35,0,0,0,47,2,0,2,5,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Atalanta U23 vs Guidonia Montecelio 1937,30/08/2026,Alessandro Anelli,G,Atalanta U23,90,7.9,0,0,0,0,0,0,0,40,1,0,0,50,0,0,0,1,0,1,0,0,0,6
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Andrea Signorini,D,Gubbio,90,6.5,0,0,0,0.15,0,0,0,44,1,0,0,55,0,0,1,3,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Andrea La Mantia,F,Gubbio,90,7.3,1,0,0.63,0,3,1,0,13,0,0,0,27,0,0,1,6,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Federico Carraro,M,Gubbio,22,6.7,0,0,0,0,0,0,0,13,0,0,0,14,0,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Jacopo Furlan,G,Reggiana,90,6.2,0,0,0,0,0,0,0,12,0,0,0,13,0,0,0,0,0,0,0,0,0,1
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Giacomo Rosaia,M,Gubbio,90,6.1,0,0,0.07,0,1,0,0,47,0,0,0,58,0,0,1,5,1,1,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Giovanni Di Noia,M,Gubbio,81,7.5,0,0,0.01,0.36,1,0,0,40,2,0,0,71,0,0,5,7,0,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Matteo Battistini,D,Reggiana,90,6.9,0,0,0,0,0,0,0,32,0,0,0,49,0,0,6,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Enrico Baldini,F,Gubbio,70,6.5,0,0,0,0,0,0,0,24,0,0,0,41,1,0,0,6,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Lorenzo Libutti,D,Reggiana,26,7,0,0,0,0,0,0,0,5,0,0,0,10,0,0,1,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Leonardo Marson,G,Gubbio,55,6.7,0,0,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0,0,0,0,0,1
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Alessandro Tripaldelli,D,Reggiana,90,7.2,0,0,0,0.23,0,0,0,31,1,0,0,49,0,0,4,8,3,4,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Manuel Ferrini,D,Gubbio,90,7,0,0,0.15,0.26,1,0,0,44,1,0,0,59,0,0,0,8,1,4,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Manolo Portanova,F,Reggiana,90,5.8,0,0,0.25,0.15,2,1,0,14,1,0,0,29,0,0,0,4,3,1,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Fabio Ponsi,D,Reggiana,77,7.1,0,0,0.13,0.01,1,0,0,38,1,0,0,50,0,1,2,5,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Leon Šipoš,F,Reggiana,77,7.9,1,0,0.28,0,2,2,0,15,0,0,0,30,0,0,1,5,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Massimo Bertagnoli,M,Reggiana,90,6.8,0,0,0.11,0,1,0,0,40,0,0,0,55,1,0,1,8,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Marco Spina,F,Gubbio,34,6.7,0,0,0.09,0,2,0,0,4,0,0,0,8,0,0,0,3,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Andrea Papetti,D,Reggiana,26,6.3,0,0,0,0,0,0,0,7,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Nicola Bagnolini,G,Gubbio,49,6.1,0,0,0,0,0,0,0,11,0,0,0,12,0,0,0,0,0,0,0,0,0,1
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Kristófer Jónsson,M,Reggiana,90,7,0,0,0.07,0.02,3,0,0,27,1,0,0,41,0,0,2,6,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Damiano Basili,M,Reggiana,11,6.6,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Tommaso Ghirardello,F,Gubbio,34,6.6,0,0,0,0,0,0,0,6,0,0,0,11,1,0,0,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Francesco Vallarelli,M,Reggiana,90,6.9,0,1,0.11,0.13,3,0,0,37,1,0,0,63,0,0,1,5,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Francesco Zallu,M,Gubbio,90,6.1,0,0,0.34,0.06,3,0,0,59,1,0,0,77,0,0,0,6,2,1,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Natan Girma,F,Reggiana,63,6.7,0,0,0.12,0,2,0,0,22,1,0,0,43,1,0,0,9,4,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Edoardo Meconi,D,Gubbio,90,5.9,0,0,0,0,0,0,0,47,1,0,0,68,0,0,2,5,1,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Manuel Cesari,M,Gubbio,34,6.5,0,0,0.06,0.07,1,0,0,15,1,0,0,23,0,0,0,0,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Amoako Minta,F,Gubbio,70,6.8,0,0,0,0.08,0,0,0,23,1,0,0,41,0,0,0,5,2,1,0,0,2,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Alessandro Cardascio,M,Gubbio,70,6.1,0,0,0.03,0.01,1,1,0,22,1,0,0,33,0,0,2,1,2,0,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Edoardo Cavaliere,F,Reggiana,41,6.4,0,0,0,0,0,0,0,6,0,0,0,14,0,0,0,5,3,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Gubbio vs Reggiana,30/08/2026,Simone Bonetti,D,Reggiana,90,7.5,1,0,0.48,0,1,1,0,23,0,0,0,37,0,0,2,1,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Denis Tonucci,D,Vis Pesaro,90,5.3,0,0,0.19,0,1,1,0,28,0,0,0,45,0,0,1,1,6,1,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Francesco Nicastro,F,Vis Pesaro,90,7.3,1,0,0.13,0.23,1,1,0,20,1,0,0,29,0,0,0,5,1,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Elvis Kabashi,M,Perugia,75,6.7,0,0,0.18,0,2,1,0,32,0,0,0,51,1,0,3,10,2,4,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Luigi Canotto,M,Perugia,90,7.1,0,0,0.22,0.01,3,0,0,14,2,0,0,29,2,0,0,6,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Davide Riccardi,D,Perugia,90,6.5,0,0,0,0,0,0,0,29,0,0,0,36,0,0,0,6,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Linas Megelaitis,M,Perugia,90,6.4,0,0,0.25,0.01,1,0,0,39,1,0,0,55,1,0,4,6,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Manuel Di Paola,M,Vis Pesaro,87,8.2,0,2,0,0.66,1,0,0,22,3,1,0,36,1,0,0,6,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Giuseppe Carriero,M,Perugia,87,6.5,0,0,0.02,0,1,1,0,15,0,0,0,25,1,0,2,5,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Alessandro Guarnone,G,Vis Pesaro,90,7.6,0,0,0,0,0,0,0,24,0,0,0,28,0,0,0,1,0,1,0,0,0,6
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Christian Langella,M,Perugia,25,7,0,0,0.04,0.02,2,1,0,16,1,0,0,21,0,0,2,3,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Riccardo Ladinetti,M,Perugia,75,7,0,0,0,0.23,0,0,0,32,1,0,0,39,0,0,0,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Matteo Cortesi,M,Perugia,25,6.5,0,0,0.04,0,2,1,0,14,0,0,0,19,1,0,1,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Alessandro Tozzuolo,D,Perugia,90,6.7,0,0,0.52,0,3,2,0,22,0,0,0,35,0,1,1,10,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Romeo Giovannini,M,Vis Pesaro,90,6.4,0,0,0.63,0,3,0,0,29,1,0,0,46,1,0,0,6,0,2,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Matteo Borsoi,D,Perugia,13,6.5,0,0,0,0,0,0,0,3,0,0,0,4,0,0,1,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Francesco Dell'Aquila,M,Vis Pesaro,27,6.5,0,0,0,0,0,0,0,13,0,0,0,17,1,0,0,1,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Ettore Quirini,M,Perugia,90,8.6,1,0,0.27,0.27,1,1,0,29,2,0,0,54,1,1,3,14,1,3,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Radosław Żelezny,G,Perugia,90,6.5,0,0,0,0,0,0,0,17,0,0,0,18,0,0,0,0,0,0,0,0,0,1
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Dimitar Papazov,D,Perugia,13,6.8,0,0,0,0,0,0,0,9,0,0,0,12,0,0,1,0,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Giacomo Cavallini,D,Perugia,87,6.8,0,1,0,0.52,0,0,0,14,2,0,0,23,0,0,0,3,0,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Federico Tavernaro,M,Vis Pesaro,34,6.6,0,0,0,0.26,0,0,0,13,1,0,0,25,1,0,0,3,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Pietro Giorgini,D,Vis Pesaro,90,5.8,0,0,0,0,0,0,0,41,0,0,0,55,0,0,0,7,3,2,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Giovanni Gambino,F,Vis Pesaro,73,7.3,1,0,0.34,0,1,1,0,20,0,0,0,27,0,0,0,0,0,0,0,0,1,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Antonio Sabbatani,F,Perugia,90,7.2,1,0,0.81,0.15,2,1,0,12,1,0,0,32,0,0,0,9,4,10,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Giorgio Bailo,D,Vis Pesaro,90,5.7,0,0,0,0.14,0,0,0,46,1,0,0,61,1,0,1,3,3,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Giacomo Maucci,M,Vis Pesaro,13,6.6,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,1,1,1,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Edoardo Mariani,M,Vis Pesaro,90,6.8,0,0,0,0,0,0,0,45,1,0,0,69,1,0,2,9,2,1,1,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Nicolò Berengo,M,Vis Pesaro,66,6.5,0,0,0,0,0,0,0,29,0,0,0,36,0,1,1,2,0,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Gioacchino Barranco,D,Vis Pesaro,49,6,0,0,0.23,0,1,0,0,15,0,0,0,24,0,0,0,4,2,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Christian Dottori,M,Perugia,9,6.6,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+"Serie C, Girone B","Serie_C,_Group_B_26_27",Vis Pesaro vs Perugia,30/08/2026,Niccolo Conti,D,Vis Pesaro,51,6.8,0,0,0,0,0,0,0,12,0,0,0,24,1,0,0,4,0,1,0,0,0,0

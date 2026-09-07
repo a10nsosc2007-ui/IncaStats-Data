@@ -1,0 +1,351 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Rodrigo Rojas,M,Rubio Ñu,90,7.7,0,2,0,0,1,0,0,38,3,1,0,50,2,1,1,3,0,0,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,William Mendieta,F,Rubio Ñu,64,7.3,1,0,0,0,3,1,0,26,2,1,0,42,0,0,0,2,1,1,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Fernando Fernández,F,Guaraní,45,6.4,0,0,0,0,0,0,0,12,0,0,0,17,1,0,0,2,0,0,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Miguel Jacquet,D,Guaraní,81,6.4,0,0,0,0,1,0,0,91,1,0,0,101,0,1,1,5,1,0,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Brian Blasi,D,Rubio Ñu,90,7.1,1,0,0,0,2,1,0,25,0,0,0,38,0,0,1,2,0,0,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Juan Manuel García,F,Guaraní,45,6.8,1,0,0,0,4,2,0,8,0,0,1,18,0,0,0,3,0,0,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Rodrigo Ruiz Díaz,F,Rubio Ñu,26,6.4,0,0,0,0,0,0,0,10,0,0,0,17,0,1,0,4,0,0,0,0,1,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Pedro Alvarez,D,Rubio Ñu,90,6.3,0,0,0,0,0,0,0,14,0,0,0,30,0,1,0,2,1,1,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Elías Alfonso,M,Rubio Ñu,15,6.6,0,0,0,0,0,0,0,4,0,0,0,14,2,0,0,3,0,0,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Estiven Pérez,F,Rubio Ñu,58,6.6,0,0,0,0,3,1,0,7,1,0,1,17,0,1,0,7,1,2,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Sergio Fretes,M,Rubio Ñu,15,6.3,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,1,0,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Carlos Arrua,F,Guaraní,45,7,0,0,0,0,1,0,0,39,2,0,0,49,0,1,0,1,1,0,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Cristian Núñez,M,Rubio Ñu,75,7,0,0,0,0,0,0,0,25,1,0,0,38,2,2,5,5,1,0,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Diego Fernández,M,Guaraní,90,6.1,0,0,0,0,0,0,0,37,2,0,0,51,0,1,0,1,0,0,1,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Lautaro Maldonado,G,Rubio Ñu,90,6.1,0,0,0,0,0,0,0,22,0,0,0,28,0,0,0,0,0,0,0,0,0,2
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Victor Céspedes,F,Guaraní,25,8.1,0,2,0,0,0,0,0,15,3,3,0,20,0,0,0,1,0,0,0,0,1,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Patricio Tanda,M,Guaraní,90,7.6,0,0,0,0,0,0,0,107,0,0,0,122,0,2,1,5,3,2,1,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Victor Cabañas,D,Rubio Ñu,90,7.4,0,1,0,0,1,0,0,26,1,1,0,51,0,7,1,12,1,2,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,René Rodríguez,D,Guaraní,90,7.1,0,0,0,0,0,0,0,90,0,0,0,107,1,0,2,5,0,1,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Mauricio Roldán,F,Rubio Ñu,32,6.3,0,0,0,0,0,0,0,4,0,0,0,10,0,0,1,0,2,0,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Matías López,M,Guaraní,90,6.5,0,0,0,0,1,0,0,25,0,0,0,33,0,2,0,3,0,1,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Maximiliano Añasco,M,Guaraní,90,7.5,1,0,0,0,2,2,0,31,0,0,0,45,0,1,0,3,1,2,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Javier Vallejos,D,Rubio Ñu,90,6.6,0,0,0,0,0,0,0,14,0,0,0,26,0,1,1,5,0,0,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Carlos Gimenez,D,Rubio Ñu,75,7.6,1,0,0,0,2,1,0,18,1,0,0,33,0,1,1,2,0,1,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Angel Ibarra,D,Guaraní,9,6.5,0,0,0,0,0,0,0,6,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Tobías Leiva,M,Rubio Ñu,45,6.5,0,0,0,0,0,0,0,12,1,0,0,18,0,2,1,2,0,0,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Patricio Coronel,F,Guaraní,65,4.9,0,0,0,0,1,0,0,29,0,0,0,48,1,0,0,2,1,1,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Pedro Gonzalez,D,Guaraní,25,6.8,0,0,0,0,0,0,0,10,0,0,0,19,0,1,0,2,0,0,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Antonio Martinez,G,Guaraní,90,6.2,0,0,0,0,0,0,0,30,0,0,0,40,0,0,0,1,0,0,0,0,0,1
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Alan Ledesma,M,Rubio Ñu,45,6.4,0,0,0,0,1,0,0,7,2,0,0,14,0,1,0,1,1,0,1,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Mateo Gimenez,D,Guaraní,65,6.1,0,0,0,0,0,0,0,20,0,0,0,41,0,1,1,2,0,1,0,0,0,0
+Primera División,2026,Guaraní vs Rubio Ñu,15/08/2026,Nelson Romero,F,Guaraní,45,6.6,0,0,0,0,0,0,0,6,0,0,0,10,0,0,0,1,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Iván Torres,M,Sportivo San Lorenzo,45,6.7,0,0,0,0,1,0,0,20,1,1,0,37,1,1,0,3,0,1,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Juan Iturbe,F,Cerro Porteño,45,7.6,1,0,0,0,2,1,0,8,0,0,0,19,0,0,1,1,1,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Teodoro Paredes,D,Sportivo San Lorenzo,1,,0,0,0,0,0,0,0,3,2,0,0,3,0,0,0,1,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Ángel Benítez,M,Sportivo San Lorenzo,89,6.7,0,0,0,0,0,0,0,35,0,0,0,50,0,4,1,7,2,2,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Jonatan Torres,F,Cerro Porteño,90,6.4,0,0,0,0,2,1,0,14,3,0,1,27,1,0,0,2,1,0,0,0,3,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Gustavo Velázquez,D,Cerro Porteño,90,7.2,0,0,0,0,0,0,0,72,0,0,0,80,0,0,1,1,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Guillermo Benitez,D,Cerro Porteño,90,7.5,0,1,0,0,2,0,0,29,2,1,0,61,0,3,0,7,3,2,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Lucas Merolla,D,Cerro Porteño,63,7.5,0,0,0,0,0,0,0,68,0,0,0,77,0,3,1,5,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Bruno Piñatares,M,Sportivo San Lorenzo,45,6.8,0,0,0,0,0,0,0,24,0,0,0,31,0,4,1,4,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Iván Ramírez,D,Cerro Porteño,90,6.9,0,0,0,0,0,0,0,48,1,0,0,76,2,0,1,4,2,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Mateo Klimowicz,M,Cerro Porteño,45,7.3,0,0,0,0,1,0,0,16,0,0,0,25,1,1,0,5,0,3,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Agustín Almendra,M,Cerro Porteño,45,6.5,0,0,0,0,0,0,0,24,0,0,0,31,1,0,2,2,0,1,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Derlis Rodríguez,M,Cerro Porteño,45,6.4,0,0,0,0,1,1,0,9,0,0,0,20,0,1,1,1,1,0,0,0,1,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Álex Álvarez,F,Sportivo San Lorenzo,75,5.2,0,0,0,0,3,0,0,17,0,0,1,28,0,0,0,2,4,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Ignacio Aliseda,M,Cerro Porteño,45,7.5,0,0,0,0,3,1,0,11,0,0,1,25,1,1,1,3,0,1,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Alexis Doldán,D,Sportivo San Lorenzo,90,6.3,0,0,0,0,1,0,0,31,1,0,0,44,1,1,1,2,1,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Luis Cáceres,D,Sportivo San Lorenzo,85,7.1,0,0,0,0,1,0,0,40,0,0,0,50,0,1,0,4,3,1,0,1,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Luis Franco,G,Sportivo San Lorenzo,90,8.2,0,0,0,0,0,0,0,24,0,0,0,34,0,0,0,0,0,0,0,0,0,4
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Jorge Morel,M,Cerro Porteño,34,6.4,0,0,0,0,0,0,0,16,0,0,0,22,0,0,0,0,1,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Rodrigo Amarilla,M,Sportivo San Lorenzo,45,6.3,0,0,0,0,1,0,0,5,1,0,0,13,0,0,1,1,0,1,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Ariel Gamarra,M,Cerro Porteño,56,7.2,0,0,0,0,0,0,0,35,0,0,0,49,1,3,1,6,2,1,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Marcelo Ferreira,F,Sportivo San Lorenzo,45,6.5,0,0,0,0,3,1,0,9,1,0,1,17,0,1,1,1,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Emilio Acosta,D,Cerro Porteño,27,6.6,0,0,0,0,0,0,0,7,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Hugo González,M,Sportivo San Lorenzo,90,6.3,0,0,0,0,0,0,0,24,0,0,0,39,1,2,0,5,0,1,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Angel Martinez,G,Cerro Porteño,90,6.9,0,0,0,0,0,0,0,37,1,0,0,40,0,0,0,1,0,1,0,0,0,1
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Jose Barrios,F,Sportivo San Lorenzo,15,6.4,0,0,0,0,2,0,0,4,0,0,0,8,0,0,1,0,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Daniel Meza,D,Sportivo San Lorenzo,90,6.5,0,0,0,0,0,0,0,21,0,0,0,47,0,1,1,3,0,1,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Leandro Esteche,D,Sportivo San Lorenzo,90,6.5,0,0,0,0,1,0,0,16,1,0,0,42,1,0,3,3,1,2,1,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Carlos Franco,M,Cerro Porteño,45,6.6,0,0,0,0,1,0,0,17,1,0,0,31,1,1,0,3,1,1,1,0,1,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,José Duarte,M,Sportivo San Lorenzo,15,6.7,0,0,0,0,0,0,0,3,0,0,0,5,0,0,0,1,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Kevin Gonzalez,M,Sportivo San Lorenzo,75,6.3,0,0,0,0,0,0,0,16,1,0,0,36,2,0,0,3,2,1,0,0,0,0
+Primera División,2026,Cerro Porteño vs Sportivo San Lorenzo,16/08/2026,Carlos Chena,M,Cerro Porteño,90,8.2,0,0,0,0,1,1,0,45,1,1,0,61,0,6,2,9,0,2,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Alan Benítez,D,Libertad,90,6.5,0,0,0,0,1,0,0,53,2,0,0,67,1,1,0,2,0,0,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Federico Carrizo,M,Libertad,90,7.1,0,0,0,0,1,1,0,79,2,0,0,93,0,0,3,1,1,1,1,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Óscar Ruiz,F,Sportivo Luqueño,64,6.5,0,0,0,0,1,0,0,13,1,0,0,21,0,2,0,2,0,0,0,0,1,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Walter González,F,Sportivo Luqueño,18,6.4,0,0,0,0,2,1,0,5,1,0,0,8,0,0,0,1,0,0,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Robert Rojas,D,Libertad,45,6.8,0,0,0,0,1,0,0,50,0,0,0,62,0,0,0,3,0,1,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Lucas Sanabria,M,Libertad,10,6.6,0,0,0,0,0,0,0,11,0,0,0,12,0,0,1,0,0,0,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Giovanni Bogado,M,Sportivo Luqueño,90,7.2,0,0,0,0,1,1,0,47,3,0,0,70,1,3,2,5,0,1,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Rodrigo Morínigo,G,Libertad,90,6.2,0,0,0,0,0,0,0,30,0,0,0,44,0,0,0,0,0,0,0,0,0,5
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Agustín Manzur,M,Libertad,26,6.6,0,0,0,0,0,0,0,12,0,0,0,17,0,1,0,1,0,0,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Aldo Maiz,M,Sportivo Luqueño,90,7.1,0,0,0,0,2,0,0,19,1,0,0,40,0,1,0,3,2,2,1,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Kevin Pereira,F,Sportivo Luqueño,45,6.3,0,0,0,0,1,1,0,13,0,0,0,18,0,1,0,2,2,0,1,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Nicolás Campisi,G,Sportivo Luqueño,90,6.8,0,0,0,0,0,0,0,29,0,0,0,41,0,0,0,2,0,2,0,0,0,7
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Gustavo Aguilar,F,Libertad,45,6.7,0,0,0,0,2,1,0,16,0,0,0,29,0,1,0,2,2,0,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Marcelo Perez,F,Sportivo Luqueño,45,6.3,0,0,0,0,3,0,0,8,2,0,0,22,0,0,0,4,0,1,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Álvaro Campuzano,M,Libertad,90,7.8,0,1,0,0,1,0,0,56,1,1,0,78,0,8,1,11,1,2,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Iván Maggi,F,Sportivo Luqueño,72,6.9,0,0,0,0,3,1,0,15,1,0,0,31,1,1,0,4,0,0,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Tomás Muro,M,Sportivo Luqueño,18,6.9,0,0,0,0,1,1,0,6,0,0,0,15,1,1,0,5,0,2,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Marcelo Fernandez,M,Libertad,75,7,1,0,0,0,5,4,0,17,0,0,0,36,0,0,0,2,1,0,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Gilberto Flores,D,Libertad,90,6.8,0,0,0,0,1,1,0,59,1,0,0,73,0,1,1,5,0,0,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Lucas Morales,D,Sportivo Luqueño,90,7.6,0,0,0,0,2,0,0,29,5,0,0,60,2,4,0,7,0,0,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Elvio Vera,M,Libertad,85,7.1,0,0,0,0,4,1,0,30,4,0,0,50,2,1,0,7,1,4,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Néstor Giménez,D,Libertad,90,7,1,0,0,0,3,1,0,40,0,0,0,69,1,2,1,5,1,0,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Alexis Cantero,D,Sportivo Luqueño,72,6.2,0,0,0,0,0,0,0,24,0,0,0,39,0,0,0,1,0,1,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Rodrigo Villalba,M,Libertad,64,6.7,0,0,0,0,1,0,0,17,5,1,0,39,3,0,0,4,2,0,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Alexis Fretes,D,Libertad,45,6.3,0,0,0,0,1,0,0,12,1,0,1,24,0,0,0,1,1,0,1,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Adrian Brizuela,D,Sportivo Luqueño,90,6.6,0,0,0,0,0,0,0,41,0,0,0,62,0,5,0,6,1,1,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Axel Balbuena,D,Sportivo Luqueño,26,6.5,0,0,0,0,0,0,0,16,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Joaquin Bogarin,M,Libertad,15,6.6,0,0,0,0,0,0,0,10,0,0,0,13,0,0,1,0,0,0,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Facundo Wiechniak,D,Sportivo Luqueño,90,7,0,0,0,0,0,0,0,31,0,0,0,42,0,2,0,3,0,0,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Marcelo Ojeda,M,Sportivo Luqueño,45,6.6,0,0,0,0,0,0,0,13,2,0,0,20,2,1,1,3,1,0,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Jonathan Ramos,M,Sportivo Luqueño,45,6.1,0,0,0,0,2,0,0,4,0,0,0,12,0,0,0,1,2,1,0,0,0,0
+Primera División,2026,Sportivo Luqueño vs Libertad,16/08/2026,Ivan Ramirez,F,Libertad,45,6.5,0,0,0,0,0,0,0,6,0,0,0,11,0,1,0,1,1,0,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Raúl Cáceres,D,Olimpia,8,6.9,0,0,0,0,0,0,0,5,0,0,0,10,0,2,0,2,0,0,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Juan Iturbe,F,Cerro Porteño,57,6.5,0,0,0,0,1,0,0,12,1,0,0,29,2,0,0,4,0,1,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Tim Payne,D,Olimpia,90,7,0,0,0,0,0,0,0,40,0,0,0,66,0,0,1,3,0,0,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Gastón Olveira,G,Olimpia,90,6.6,0,0,0,0,0,0,0,28,0,0,0,35,0,0,0,0,0,0,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Pablo Vegetti,F,Cerro Porteño,90,6.1,0,0,0,0,1,0,1,13,1,0,0,30,0,0,0,6,0,2,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Jonatan Torres,F,Cerro Porteño,21,6.3,0,0,0,0,2,0,0,7,0,0,0,14,0,0,0,2,0,0,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Piris da Motta,M,Cerro Porteño,69,6.9,0,0,0,0,0,0,0,10,0,0,0,22,0,3,2,6,0,0,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Gustavo Velázquez,D,Cerro Porteño,90,6.7,0,0,0,0,0,0,0,45,0,0,0,66,0,2,1,4,0,1,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Manuel Roffo,G,Cerro Porteño,90,6.2,0,0,0,0,0,0,0,32,0,0,0,40,0,0,0,0,0,0,0,0,0,2
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Fernando Cardozo,M,Olimpia,82,6.6,0,1,0,0,1,0,0,44,1,0,0,69,0,2,0,6,1,0,1,0,1,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Iván Ramírez,D,Cerro Porteño,11,6.7,0,0,0,0,0,0,0,8,0,0,0,12,0,0,0,2,0,1,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Richard Sánchez,M,Olimpia,45,6.4,0,0,0,0,0,0,0,17,1,0,0,23,0,1,0,2,2,1,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Derlis Rodríguez,M,Cerro Porteño,33,6.6,0,0,0,0,0,0,0,11,1,0,0,23,0,0,0,2,1,1,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Hugo Sandoval,F,Olimpia,28,7.2,1,0,0,0,2,1,0,11,0,0,0,22,0,0,0,3,0,0,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Fabricio Domínguez,D,Cerro Porteño,45,6.4,0,1,0,0,1,0,0,11,1,0,0,21,0,0,0,0,2,0,1,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Ignacio Aliseda,M,Cerro Porteño,90,6.3,0,0,0,0,1,0,0,13,2,0,1,23,0,1,0,2,0,1,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Javier Domínguez,M,Olimpia,21,6.5,0,0,0,0,0,0,0,4,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Alan Rodríguez,D,Olimpia,90,6.5,0,0,0,0,3,1,0,29,0,0,0,69,0,2,2,5,1,2,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Gustavo Vargas,D,Olimpia,90,7.2,0,0,0,0,0,0,0,66,2,0,0,77,0,0,1,7,0,1,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Mateo Gamarra,D,Olimpia,90,7.3,0,0,0,0,0,0,0,54,0,0,0,73,0,4,3,9,1,0,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Jorge Morel,M,Cerro Porteño,90,7,0,0,0,0,1,0,0,30,0,0,0,41,1,2,1,7,1,1,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Richard Ortiz,M,Olimpia,90,6.2,0,0,0,0,1,0,0,39,0,0,0,56,0,3,5,4,1,1,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Lucas Quintana,D,Cerro Porteño,83,7,0,0,0,0,1,0,0,36,0,0,0,63,1,4,1,9,0,0,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Juan Fernando Alfaro,M,Olimpia,45,6.3,0,0,0,0,0,0,0,8,1,0,0,19,1,0,1,1,0,0,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Romeo Benítez,M,Olimpia,45,7.4,0,1,0,0,1,0,0,6,1,1,0,26,4,1,0,7,2,1,0,0,1,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Franco Alfonso,F,Olimpia,45,6.3,0,0,0,0,4,0,0,17,0,0,0,29,0,0,0,2,2,1,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Ariel Gamarra,M,Cerro Porteño,45,6.5,0,0,0,0,0,0,0,25,0,0,0,33,1,0,1,2,2,0,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Tiago Caballero,F,Olimpia,62,7,0,0,0,0,1,1,0,27,0,0,1,35,1,0,0,7,1,0,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Alexis Canete,D,Cerro Porteño,90,8.3,1,0,0,0,1,1,0,36,0,0,0,70,1,6,2,11,1,1,1,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Eduardo Delmas,M,Olimpia,69,7.3,1,0,0,0,2,1,0,26,2,1,0,37,0,0,0,0,1,0,0,0,0,0
+Primera División,2026,Olimpia vs Cerro Porteño,23/08/2026,Marcelo Chaparro,D,Cerro Porteño,90,6.6,0,0,0,0,2,0,0,29,1,0,0,72,0,3,2,7,0,3,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Iván Torres,M,Sportivo San Lorenzo,65,6.6,0,0,0,0,1,0,0,22,1,0,0,41,0,0,1,0,0,0,0,0,1,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Teodoro Paredes,D,Sportivo San Lorenzo,90,7.2,0,0,0,0,0,0,0,28,0,0,0,50,0,5,5,8,2,0,1,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Alan Benítez,D,Libertad,90,6.9,0,0,0,0,0,0,0,70,1,0,0,97,3,1,0,4,0,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Nicolás Freire,D,Libertad,90,8.3,0,0,0,0,1,0,0,89,0,0,0,100,0,1,2,6,0,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Luciano Nequecaur,F,Libertad,61,6.4,0,0,0,0,0,0,0,9,0,0,0,22,0,1,0,5,0,3,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Federico Carrizo,M,Libertad,85,7.2,0,0,0,0,1,0,0,80,4,0,0,102,1,0,1,2,0,1,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Ángel Benítez,M,Sportivo San Lorenzo,90,6.4,0,0,0,0,0,0,0,18,0,0,0,44,2,2,1,7,1,2,1,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Robert Rojas,D,Libertad,90,7.8,0,0,0,0,1,1,0,84,0,0,0,96,0,3,1,8,1,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Lucas Sanabria,M,Libertad,18,7.1,0,0,0,0,0,0,0,24,0,0,0,27,0,1,0,1,0,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Rodrigo Morínigo,G,Libertad,90,6.9,0,0,0,0,0,0,0,30,0,0,0,34,0,0,0,0,0,0,0,0,0,2
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Álex Álvarez,F,Sportivo San Lorenzo,25,6.4,0,0,0,0,0,0,0,11,1,0,0,15,0,0,0,1,0,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Gustavo Aguilar,F,Libertad,72,6.5,0,0,0,0,4,0,0,37,1,0,0,47,2,0,0,5,1,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Alexis Doldán,D,Sportivo San Lorenzo,90,6.7,0,0,0,0,0,0,0,43,0,0,0,65,0,3,3,3,2,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Álvaro Campuzano,M,Libertad,90,8.1,0,0,0,0,0,0,0,81,1,0,0,105,2,7,3,14,0,1,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Luis Franco,G,Sportivo San Lorenzo,90,7.3,0,0,0,0,0,0,0,22,0,0,0,30,0,0,0,1,0,0,0,0,0,4
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Gastón Gerzel,M,Sportivo San Lorenzo,13,6.5,0,0,0,0,0,0,0,2,0,0,0,6,1,0,0,1,0,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Marcelo Fernandez,M,Libertad,61,7.8,1,0,0,0,3,1,0,22,0,0,0,48,0,0,1,3,2,1,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Elvio Vera,M,Libertad,72,7.5,0,0,0,0,6,3,0,34,6,0,1,64,3,3,2,8,1,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Néstor Giménez,D,Libertad,90,8.9,0,1,0,0,0,0,0,65,2,2,0,89,1,1,1,9,0,2,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Rodrigo Amarilla,M,Sportivo San Lorenzo,25,6.2,0,0,0,0,0,0,0,6,0,0,0,12,0,0,0,1,1,1,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Rodrigo Villalba,M,Libertad,29,6.7,0,0,0,0,0,0,0,15,1,0,0,23,0,1,0,1,2,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Alexis Fretes,D,Libertad,18,6.4,0,0,0,0,0,0,0,10,0,0,0,18,0,0,0,0,2,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Marcelo Ferreira,F,Sportivo San Lorenzo,83,6.5,0,0,0,0,3,1,0,19,0,0,0,37,0,1,0,7,1,1,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Juan Salcedo,M,Sportivo San Lorenzo,15,6.5,0,0,0,0,0,0,0,13,0,0,0,16,0,0,0,0,1,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Cristhian Martínez,M,Libertad,11,6.7,0,0,0,0,0,0,0,6,1,0,0,10,0,0,0,0,0,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Hugo González,M,Sportivo San Lorenzo,75,6.7,0,0,0,0,1,0,0,25,0,0,0,43,0,7,2,9,1,2,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Jose Barrios,F,Sportivo San Lorenzo,65,6.4,0,0,0,0,1,1,0,8,1,0,0,14,0,0,0,2,0,0,0,0,1,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Leandro Esteche,D,Sportivo San Lorenzo,90,6.7,0,0,0,0,0,0,0,19,0,0,0,44,3,1,1,5,0,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Ivan Ramirez,F,Libertad,29,6.1,0,0,0,0,3,0,1,6,1,1,1,15,0,1,0,1,0,0,0,0,1,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,José Duarte,M,Sportivo San Lorenzo,15,6.7,0,0,0,0,0,0,0,7,0,0,0,13,2,0,0,4,0,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Kevin Gonzalez,M,Sportivo San Lorenzo,75,5.9,0,0,0,0,0,0,0,19,2,0,0,32,1,1,0,2,0,0,0,0,0,0
+Primera División,2026,Libertad vs Sportivo San Lorenzo,24/08/2026,Isaias Fretes,D,Sportivo San Lorenzo,90,7.1,0,0,0,0,0,0,0,30,0,0,0,60,1,3,1,8,0,3,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Miguel Martínez,G,Guaraní,90,7.4,0,0,0,0,0,0,0,31,0,0,0,46,0,0,0,2,0,0,0,0,0,4
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Juan Manuel García,F,Guaraní,90,6.1,0,0,0,0,3,1,0,24,0,0,0,36,0,0,0,4,1,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Matías Moya,F,CS 2 de Mayo,33,7,0,0,0,0,1,0,0,16,1,0,0,31,2,2,0,4,1,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Jorge Sanguina,F,CS 2 de Mayo,22,6.7,0,0,0,0,1,0,0,6,1,0,0,14,0,0,0,2,0,1,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Marcos Gómez,M,CS 2 de Mayo,90,6.9,0,0,0,0,0,0,0,73,0,0,0,89,0,2,5,4,1,0,1,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Marcelo Gonzalez,M,CS 2 de Mayo,57,7.2,0,0,0,0,0,0,0,18,1,1,0,33,1,0,0,4,1,2,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Alexis Villalba,D,CS 2 de Mayo,90,7.5,0,0,0,0,2,0,1,64,0,0,1,80,0,0,1,7,2,1,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Armando Méndez,D,Guaraní,71,6.6,0,0,0,0,0,0,0,10,0,0,0,28,1,2,1,4,0,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Carlos Arrua,F,Guaraní,19,6.8,0,0,0,0,1,0,0,9,0,0,0,17,1,0,0,1,1,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Diego Fernández,M,Guaraní,90,6.8,0,0,0,0,0,0,0,33,6,1,1,49,1,2,0,3,0,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Pedro Sosa,D,CS 2 de Mayo,90,7.1,0,0,0,0,1,0,0,72,0,0,1,83,0,0,2,7,1,1,0,0,1,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Jesús Llano,M,Guaraní,81,6.8,0,0,0,0,0,0,0,29,1,0,0,35,0,3,1,6,2,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Nicolás Rossi,G,CS 2 de Mayo,90,7.1,0,0,0,0,0,0,0,19,0,0,0,29,0,0,0,0,0,0,0,0,0,2
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Victor Céspedes,F,Guaraní,27,6.3,0,0,0,0,0,0,0,3,0,0,0,13,1,1,0,3,3,1,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Oscar Romero,M,CS 2 de Mayo,68,6.9,0,0,0,0,1,0,0,39,1,0,0,49,0,2,0,3,1,1,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Luis Martinez,M,Guaraní,9,6.7,0,0,0,0,0,0,0,4,0,0,0,6,0,0,1,1,0,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Imanol Segovia,D,Guaraní,90,7,0,0,0,0,2,1,0,54,0,0,0,67,0,0,0,5,0,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Patricio Tanda,M,Guaraní,90,7.2,0,0,0,0,1,0,0,48,0,0,0,68,1,2,1,5,0,2,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Tobias Cervera,F,CS 2 de Mayo,9,6.4,0,0,0,0,1,1,0,1,0,0,1,3,0,0,0,0,0,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Thiago Servin,D,Guaraní,81,7,0,0,0,0,0,0,0,33,0,0,0,59,2,2,1,8,2,2,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Alexis Fariña,M,CS 2 de Mayo,90,7.5,0,0,0,0,2,1,0,67,1,0,0,86,1,1,1,3,0,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Tobias Portillo,F,CS 2 de Mayo,45,6.2,0,0,0,0,1,1,0,22,1,0,0,39,0,1,0,1,0,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,René Rodríguez,D,Guaraní,90,7.2,0,0,0,0,0,0,0,39,1,1,0,52,0,1,0,5,0,3,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Alberto Espinola,D,CS 2 de Mayo,85,7.6,0,0,0,0,0,0,0,60,1,0,0,89,0,4,2,4,0,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Matías López,M,Guaraní,71,6.9,0,0,0,0,3,0,1,25,1,0,1,40,1,3,1,5,0,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Paul Riveros,D,Guaraní,19,6.9,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0,1,0,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Maximiliano Añasco,M,Guaraní,63,7,0,0,0,0,2,0,0,9,0,0,0,26,1,2,0,6,1,3,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Patricio Coronel,F,Guaraní,9,6.8,0,0,0,0,0,0,0,2,0,0,0,6,1,1,0,2,0,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Cesar Castro,D,CS 2 de Mayo,90,7.4,0,0,0,0,1,0,0,52,3,1,0,85,2,2,0,8,2,3,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Fernando Cáceres,F,CS 2 de Mayo,45,6.3,0,0,0,0,1,1,0,8,0,0,0,14,0,0,0,2,1,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Ángel Aguilera,M,CS 2 de Mayo,45,6.4,0,0,0,0,0,0,0,12,0,0,0,20,0,0,0,0,2,0,0,0,0,0
+Primera División,2026,CS 2 de Mayo vs Guaraní,25/08/2026,Fredy Silvero,F,CS 2 de Mayo,45,6.5,0,0,0,0,0,0,0,4,0,0,0,6,0,1,0,2,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Juan Iturbe,F,Cerro Porteño,45,6.8,0,0,0,0,1,0,0,6,0,0,0,16,0,3,0,3,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Alan Benítez,D,Libertad,90,6.5,0,0,0,0,1,1,0,44,1,0,0,66,0,1,1,1,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Nicolás Freire,D,Libertad,90,6.9,0,0,0,0,0,0,0,55,0,0,0,61,0,1,1,2,1,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Luciano Nequecaur,F,Libertad,8,6.6,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Federico Carrizo,M,Libertad,77,6.6,0,0,0,0,1,0,0,60,2,1,0,81,0,0,0,1,2,1,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Pablo Vegetti,F,Cerro Porteño,62,6.3,0,0,0,0,0,0,0,7,1,0,0,17,0,2,0,4,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Jonatan Torres,F,Cerro Porteño,28,5.9,0,0,0,0,3,1,0,4,1,0,1,14,0,1,0,3,0,0,0,0,1,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Gustavo Velázquez,D,Cerro Porteño,90,5.9,0,0,0,0,0,0,0,22,0,0,0,34,0,0,2,2,0,1,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Guillermo Benitez,D,Cerro Porteño,79,7.5,0,0,0,0,1,0,0,18,0,0,0,46,1,1,2,3,0,0,0,0,1,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Lucas Merolla,D,Cerro Porteño,45,6.8,0,0,0,0,1,0,0,22,0,0,0,25,0,1,0,2,1,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Roberto Fernández,G,Cerro Porteño,45,6.7,0,0,0,0,0,0,0,17,0,0,0,22,0,0,0,0,0,0,0,0,0,2
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Robert Rojas,D,Libertad,90,6.5,0,0,0,0,1,0,0,50,1,0,0,65,0,1,1,3,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Manuel Roffo,G,Cerro Porteño,45,6.9,0,0,0,0,0,0,0,19,0,0,0,30,0,0,0,2,0,2,0,0,0,3
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Iván Ramírez,D,Cerro Porteño,90,7.3,0,0,0,0,0,0,0,35,2,0,0,67,0,3,2,11,1,6,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Lucas Sanabria,M,Libertad,77,6.8,0,0,0,0,2,1,0,43,0,0,0,52,0,1,0,2,1,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Rodrigo Morínigo,G,Libertad,90,7.7,0,0,0,0,0,0,0,23,0,0,0,30,0,0,0,0,0,0,0,0,0,2
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Agustín Almendra,M,Cerro Porteño,25,7,0,1,0,0,0,0,0,10,1,1,0,14,0,0,0,2,0,1,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Ignacio Aliseda,M,Cerro Porteño,90,7.7,1,0,0,0,2,1,0,19,1,0,0,31,1,2,0,5,0,1,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Gustavo Aguilar,F,Libertad,90,7,1,0,0,0,3,2,0,22,0,0,0,35,0,1,0,7,1,1,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Álvaro Campuzano,M,Libertad,90,6.8,0,0,0,0,0,0,0,63,1,0,0,83,0,3,0,6,1,2,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Elvio Vera,M,Libertad,69,6.1,0,0,0,0,3,1,0,22,1,0,1,43,0,1,2,2,0,1,0,0,1,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Jorge Morel,M,Cerro Porteño,90,6.6,0,0,0,0,1,0,0,42,0,0,0,53,0,2,0,2,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Néstor Giménez,D,Libertad,90,6.9,0,0,0,0,1,0,0,37,0,0,0,66,0,2,4,3,4,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Lucas Quintana,D,Cerro Porteño,90,6.9,0,0,0,0,1,0,0,23,0,0,0,45,1,3,4,7,1,1,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Rodrigo Villalba,M,Libertad,89,6.1,0,0,0,0,1,1,0,26,2,0,1,53,3,4,0,10,1,2,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Ariel Gamarra,M,Cerro Porteño,90,6.4,0,0,0,0,0,0,0,25,0,0,0,40,2,2,2,6,2,1,1,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Alexis Fretes,D,Libertad,21,6.1,0,0,0,0,0,0,0,8,0,0,0,15,0,0,0,1,1,0,0,0,2,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Cristhian Martínez,M,Libertad,13,6.3,0,0,0,0,0,0,0,6,0,0,0,12,1,0,0,1,2,0,1,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Ivan Ramirez,F,Libertad,13,6.4,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Marcelo Chaparro,D,Cerro Porteño,11,6.6,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Primera División,2026,Cerro Porteño vs Libertad,30/08/2026,Carlos Chena,M,Cerro Porteño,65,7.4,0,0,0,0,2,1,0,29,2,0,0,51,3,3,0,7,2,1,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Julio Gonzalez,D,Sportivo Ameliano,90,7.4,0,0,0,0,0,0,0,73,0,0,0,93,0,0,0,4,0,0,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Walter Rodríguez,M,Sportivo Ameliano,63,6.3,0,0,0,0,0,0,0,35,0,0,0,38,0,1,0,1,1,0,1,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Miguel Martínez,G,Guaraní,90,6.7,0,0,0,0,0,0,0,27,0,0,0,33,1,0,0,1,0,0,0,0,0,1
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Juan Manuel García,F,Guaraní,70,6.3,0,0,0,0,2,0,0,15,2,0,0,22,0,0,0,3,0,0,0,0,1,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Fredy Vera,M,Sportivo Ameliano,10,6.8,0,0,0,0,0,0,0,3,1,1,0,9,0,2,0,3,0,0,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Abel Paredes,D,Sportivo Ameliano,90,6.3,0,0,0,0,3,0,1,48,0,0,0,74,1,0,2,2,1,0,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Andrea Falabella,D,Sportivo Ameliano,90,7,0,0,0,0,0,0,0,79,0,0,0,90,0,2,1,4,2,0,1,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Armando Méndez,D,Guaraní,76,6.5,0,0,0,0,0,0,0,10,0,0,0,28,0,2,0,6,0,3,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Estivel Moreira,M,Sportivo Ameliano,63,6.8,0,0,0,0,0,0,0,24,1,1,0,31,1,0,1,3,0,1,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Luis Ortiz,M,Sportivo Ameliano,27,6.1,0,0,0,0,1,0,0,11,1,0,1,17,0,1,0,1,0,0,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Cristhian Ocampos,F,Sportivo Ameliano,76,7.4,1,0,0,0,3,1,0,11,0,0,0,21,0,1,0,4,3,0,0,0,1,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Jonathan Benitez Benitez,M,Sportivo Ameliano,27,6.6,0,0,0,0,1,0,0,23,0,0,0,30,0,0,0,1,1,0,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Diego Fernández,M,Guaraní,90,7,0,0,0,0,3,1,0,37,3,0,0,56,1,1,0,2,1,0,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Jesús Llano,M,Guaraní,77,7.1,0,1,0,0,1,0,0,30,2,0,0,39,1,2,0,6,1,3,0,0,1,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Victor Céspedes,F,Guaraní,20,6.4,0,0,0,0,1,0,0,4,0,0,0,9,0,1,0,1,1,0,1,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Alcides Barbotte,D,Guaraní,10,6.7,0,0,0,0,0,0,0,8,1,0,0,16,0,1,0,1,1,0,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Angel Sanchez,G,Sportivo Ameliano,90,6.6,0,0,0,0,0,0,0,33,0,0,0,48,0,0,0,2,0,1,0,0,0,2
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Valentín Larralde,M,Sportivo Ameliano,27,6.7,0,0,0,0,0,0,0,22,0,0,0,25,1,0,0,3,0,1,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Luis Martinez,M,Guaraní,21,6.6,0,0,0,0,0,0,0,11,0,0,0,14,0,0,0,1,1,0,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Imanol Segovia,D,Guaraní,90,6.5,0,0,0,0,3,0,0,34,0,0,0,46,0,0,3,3,0,1,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Patricio Tanda,M,Guaraní,90,7.1,0,0,0,0,0,0,0,49,0,0,0,65,0,4,0,7,2,1,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Thiago Servin,D,Guaraní,90,7,0,0,0,0,0,0,0,45,0,0,0,62,0,3,2,4,0,1,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Leandro Allende,D,Guaraní,90,6.8,0,0,0,0,3,0,0,32,0,0,1,67,0,2,2,4,2,0,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,René Rodríguez,D,Guaraní,80,6.5,0,0,0,0,1,0,0,22,0,0,0,39,2,0,0,5,0,1,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Raúl Cabral,M,Sportivo Ameliano,90,6.5,0,0,0,0,0,0,0,62,1,0,0,75,3,1,0,6,2,2,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Matías López,M,Guaraní,69,8,1,0,0,0,2,2,0,24,3,1,0,48,1,2,3,3,2,0,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Maximiliano Añasco,M,Guaraní,14,6.6,0,0,0,0,0,0,0,10,0,0,0,15,0,0,0,1,0,0,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Richard Torales,F,Sportivo Ameliano,14,6.4,0,0,0,0,0,0,0,4,0,0,0,7,0,0,0,1,0,1,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Edgar Raul Paez Torales,M,Sportivo Ameliano,63,6.7,0,1,0,0,2,1,0,14,2,1,1,24,1,1,0,2,0,0,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Ronald Peralta,M,Sportivo Ameliano,90,7,0,0,0,0,1,0,0,51,1,0,0,89,0,1,2,7,0,3,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Luis Ayala,M,Sportivo Ameliano,80,6.5,0,0,0,0,0,0,0,30,1,0,0,42,0,1,0,2,1,1,0,0,0,0
+Primera División,2026,Guaraní vs Sportivo Ameliano,30/08/2026,Giovanni Gómez,M,Guaraní,13,6.6,0,0,0,0,1,0,0,8,0,0,0,11,0,0,0,1,0,0,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Orlando Gaona Lugo,M,Nacional Asunción,45,6.5,0,0,0,0,0,0,0,7,0,0,0,13,0,1,0,1,2,0,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Alan Benítez,D,Libertad,68,6,0,0,0,0,1,0,0,39,0,0,0,55,0,1,2,1,2,0,0,0,1,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Nicolás Freire,D,Libertad,45,6.5,0,0,0,0,1,0,0,40,0,0,0,47,0,0,1,3,0,0,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Luciano Nequecaur,F,Libertad,45,6.5,0,0,0,0,0,0,0,15,1,0,0,22,0,1,0,6,2,2,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Federico Carrizo,M,Libertad,59,7,0,0,0,0,1,0,0,51,1,0,0,60,1,0,1,3,0,2,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Ignacio Bailone,F,Nacional Asunción,20,6.7,0,0,0,0,0,0,0,7,1,1,0,10,0,0,0,1,0,0,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Josué Colmán,M,Nacional Asunción,8,6.5,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Santiago Rojas,G,Nacional Asunción,90,7.6,0,0,0,0,0,0,0,36,0,0,0,53,0,0,0,1,0,1,0,0,0,3
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Robert Rojas,D,Libertad,90,6.8,0,0,0,0,0,0,0,85,0,0,0,97,0,1,1,3,1,1,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Lucas Sanabria,M,Libertad,59,6.5,0,0,0,0,2,2,0,38,1,0,1,47,0,0,1,2,1,1,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Rodrigo Morínigo,G,Libertad,90,6.4,0,0,0,0,0,0,0,21,0,0,0,28,0,0,0,0,0,0,0,0,0,2
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Richard Prieto,M,Nacional Asunción,85,7.1,0,1,0,0,3,1,0,28,1,1,0,53,1,0,1,4,2,3,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Iván Franco,M,Libertad,31,6.7,0,0,0,0,1,0,0,24,0,0,0,35,2,2,0,7,3,2,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Gustavo Aguilar,F,Libertad,90,6.9,0,0,0,0,0,0,0,28,1,1,0,36,1,1,0,8,2,2,1,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Álvaro Campuzano,M,Libertad,90,6.8,0,0,0,0,0,0,0,67,3,0,0,79,0,4,1,6,1,0,1,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Rodrigo Melgarejo,D,Nacional Asunción,20,6.6,0,0,0,0,0,0,0,3,0,0,0,8,0,0,2,0,0,0,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Sebastian Vargas,D,Nacional Asunción,90,7.8,0,0,0,0,1,0,0,30,2,0,0,59,0,1,1,6,1,4,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Roberto Ramírez,M,Nacional Asunción,11,6.8,0,0,0,0,0,0,0,6,0,0,0,11,0,1,1,3,0,1,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Gilberto Flores,D,Libertad,45,6.7,0,0,0,0,1,0,0,49,0,0,0,55,1,1,1,2,1,0,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Fabrizio Jara,M,Nacional Asunción,90,7.3,0,0,0,0,0,0,0,48,0,0,0,68,1,3,0,4,0,0,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Juan Feliu,D,Nacional Asunción,90,7.2,0,0,0,0,0,0,0,29,0,0,0,46,0,0,2,2,0,1,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Ángel Cardozo Lucena,M,Nacional Asunción,79,6.8,0,0,0,0,1,0,0,37,0,0,0,49,0,3,2,5,1,2,1,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Elvio Vera,M,Libertad,90,6,0,0,0,0,5,1,1,27,1,0,0,48,0,0,0,2,3,1,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Hugo Valdez,M,Nacional Asunción,45,7.5,1,0,0,0,2,1,0,16,1,0,1,31,0,0,2,2,0,1,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Néstor Giménez,D,Libertad,90,5.5,0,0,0,0,2,0,0,52,0,0,0,76,0,1,1,2,0,0,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Thomas Gutiérrez,D,Nacional Asunción,90,7.1,0,0,0,0,0,0,0,25,0,0,0,39,0,2,0,5,1,1,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Rodrigo Villalba,M,Libertad,45,6.8,0,0,0,0,0,0,0,11,1,0,0,23,0,1,1,4,1,2,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Leandro Meza,M,Nacional Asunción,70,7.3,1,0,0,0,2,1,0,25,1,0,0,35,0,1,1,1,0,0,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Hugo Adrián Benítez,F,Nacional Asunción,70,6.8,1,0,0,0,3,2,0,10,0,0,1,19,0,0,1,2,2,0,0,0,1,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Mauro Coronel,D,Nacional Asunción,90,7.7,0,0,0,0,0,0,0,27,1,0,0,41,0,1,1,7,4,2,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Ivan Ramirez,F,Libertad,22,6.4,0,0,0,0,0,0,0,7,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+Primera División,2026,Nacional Asunción vs Libertad,02/09/2026,Estiven Villalba,D,Libertad,31,6.2,0,0,0,0,0,0,0,12,0,0,0,21,0,1,2,1,0,0,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Raúl Cáceres,D,Olimpia,90,7.5,0,0,0,0,1,1,0,43,1,0,0,74,0,3,3,4,0,0,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Jorge Recalde,M,Guaraní,14,6.6,0,0,0,0,0,0,0,6,0,0,0,12,0,0,1,3,1,2,0,0,1,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Gastón Olveira,G,Olimpia,90,6.7,0,0,0,0,0,0,0,32,0,0,0,47,0,0,0,0,0,0,0,0,0,4
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Gabriel Ávalos,F,Olimpia,45,7.1,0,0,0,0,2,0,0,6,1,1,0,16,0,0,0,4,0,0,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Miguel Martínez,G,Guaraní,90,7.8,0,0,0,0,0,0,0,29,0,0,0,38,0,0,0,0,0,0,0,0,0,3
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Juan Manuel García,F,Guaraní,76,7.7,1,0,0,0,2,1,0,18,1,1,0,28,0,0,0,5,0,2,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Fernando Cardozo,M,Olimpia,71,6.2,0,0,0,0,2,1,0,37,0,0,0,58,1,1,0,4,3,0,1,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Richard Sánchez,M,Olimpia,45,6.7,0,0,0,0,0,0,0,28,1,0,0,33,0,2,2,2,0,0,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Hugo Sandoval,F,Olimpia,27,6.6,0,0,0,0,0,0,0,7,0,0,0,12,0,1,0,5,1,1,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Rodney Redes,M,Olimpia,45,7.1,0,0,0,0,1,0,0,11,0,0,0,24,0,0,1,3,0,3,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Armando Méndez,D,Guaraní,90,6.7,0,1,0,0,1,0,0,24,1,0,0,55,0,2,1,3,2,1,1,0,1,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Alex Franco,M,Olimpia,63,6.5,0,0,0,0,2,0,0,27,0,0,0,39,0,2,0,6,0,1,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Carlos Arrua,F,Guaraní,76,6.1,0,0,0,0,3,2,0,26,1,0,0,42,1,0,0,1,1,0,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Diego Fernández,M,Guaraní,77,6.5,0,0,0,0,0,0,0,20,2,0,0,35,0,0,0,3,0,2,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Victor Céspedes,F,Guaraní,14,6.4,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Gustavo Vargas,D,Olimpia,90,6.7,0,0,0,0,0,0,0,95,0,0,0,114,0,1,6,3,2,0,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Luis Martinez,M,Guaraní,90,6.5,0,0,0,0,1,1,0,36,0,0,0,44,0,0,0,2,3,1,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Imanol Segovia,D,Guaraní,90,6.7,0,0,0,0,0,0,0,24,1,0,0,46,0,1,3,4,1,0,0,0,1,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Patricio Tanda,M,Guaraní,86,6.7,0,0,0,0,0,0,0,43,1,0,0,58,0,2,0,5,2,2,1,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Mateo Gamarra,D,Olimpia,90,7.7,0,0,0,0,1,0,0,92,0,0,0,108,0,1,1,7,1,1,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Thiago Servin,D,Guaraní,90,6.5,0,0,0,0,0,0,0,30,0,0,0,48,0,1,0,6,1,0,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Esteban Matus,M,Olimpia,90,7.3,0,0,0,0,2,0,0,36,3,0,0,60,0,5,2,10,4,2,1,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Leandro Allende,D,Guaraní,90,6.9,0,0,0,0,0,0,0,25,0,0,0,51,0,4,2,6,0,0,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Richard Ortiz,M,Olimpia,27,7.1,1,0,0,0,3,2,0,14,0,0,1,20,0,1,0,2,1,0,1,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Romeo Benítez,M,Olimpia,90,7.3,0,0,0,0,1,0,0,32,4,0,0,64,5,2,0,9,1,1,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Matías López,M,Guaraní,81,6.7,0,0,0,0,1,0,0,21,1,0,1,43,1,2,0,5,1,2,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Franco Alfonso,F,Olimpia,45,6.7,0,0,0,0,0,0,0,26,1,0,0,34,0,0,0,1,0,1,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Maximiliano Añasco,M,Guaraní,10,6.7,0,0,0,0,0,0,0,5,1,0,0,10,0,0,0,1,0,1,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Tiago Caballero,F,Olimpia,63,6.6,0,0,0,0,2,0,0,9,1,0,0,20,0,0,0,3,1,1,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Patricio Coronel,F,Guaraní,13,6.6,0,0,0,0,1,0,0,4,0,0,0,13,0,1,0,1,0,0,0,0,1,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Pedro Zarza,M,Olimpia,19,6.5,0,0,0,0,1,0,0,3,0,0,0,11,0,0,0,1,0,1,0,0,0,0
+Primera División,2026,Olimpia vs Guaraní,02/09/2026,Giovanni Gómez,M,Guaraní,9,6.3,0,0,0,0,1,1,0,2,1,0,0,4,1,0,0,1,1,0,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Luis Cardozo,D,Recoleta FC,67,6.1,0,0,0,0,0,0,0,34,0,0,0,43,1,1,0,5,1,0,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Alejandro Silva,M,Recoleta FC,45,6.3,0,0,0,0,0,0,0,31,3,2,0,40,0,0,1,0,0,0,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Pablo Vegetti,F,Cerro Porteño,88,7.9,2,0,0,0,3,2,0,24,1,1,0,42,0,0,0,4,0,1,0,0,1,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Wilfrido Baez,M,Recoleta FC,45,6.7,0,1,0,0,0,0,0,18,1,0,0,27,0,0,0,2,1,2,1,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Gastón Giménez,M,Cerro Porteño,45,6.9,0,0,0,0,1,0,0,26,0,0,0,36,0,1,1,3,2,1,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Jonatan Torres,F,Cerro Porteño,2,,0,0,0,0,1,0,0,11,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Blás Riveros,D,Cerro Porteño,15,6.8,0,0,0,0,0,0,0,10,0,0,0,21,1,0,1,1,0,0,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Gustavo Velázquez,D,Cerro Porteño,45,7.1,0,0,0,0,0,0,0,22,0,0,0,30,0,0,2,2,1,0,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Cristhian Paredes,M,Cerro Porteño,27,6.7,0,0,0,0,0,0,0,10,1,0,0,13,0,1,0,2,1,1,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Guillermo Benitez,D,Cerro Porteño,75,7.1,0,0,0,0,0,0,0,33,1,0,0,53,0,1,1,4,1,0,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Lucas Merolla,D,Cerro Porteño,90,7.2,0,0,0,0,0,0,1,29,0,0,0,43,1,2,1,6,0,2,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Manuel Roffo,G,Cerro Porteño,90,6.8,0,0,0,0,0,0,0,21,0,0,0,28,0,0,0,0,0,0,0,0,0,1
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Iván Ramírez,D,Cerro Porteño,90,7.9,1,0,0,0,2,1,0,51,1,0,0,83,2,3,0,7,1,2,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Derlis Rodríguez,M,Cerro Porteño,26,6.9,0,0,0,0,1,0,0,14,1,0,0,20,0,1,0,2,0,1,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Ignacio Aliseda,M,Cerro Porteño,64,6.3,0,1,0,0,1,1,0,26,2,1,1,34,1,0,0,2,0,0,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Paul Charpentier,F,Recoleta FC,90,6.6,0,0,0,0,2,0,0,22,1,1,0,38,1,3,0,7,2,1,0,0,1,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Richard Ortiz,F,Recoleta FC,23,6.5,0,0,0,0,1,0,0,4,0,0,0,6,0,1,0,2,1,0,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Jorge Morel,M,Cerro Porteño,90,7,0,0,0,0,1,0,0,53,0,0,0,65,0,0,0,1,1,0,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Facundo Echeguren,D,Recoleta FC,64,5.8,0,0,0,0,0,0,0,18,0,0,0,29,0,1,2,1,2,0,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Aldo Gonzalez,M,Recoleta FC,90,6.5,0,0,0,0,4,1,0,38,1,0,2,65,2,1,0,6,1,2,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Juan Franco,M,Recoleta FC,30,6.8,0,0,0,0,1,0,0,15,0,0,0,19,0,0,1,1,1,1,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Lucas Quintana,D,Cerro Porteño,90,7.6,0,0,0,0,1,1,0,55,0,0,0,69,0,4,2,9,1,2,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Andrés Marsengo,G,Recoleta FC,90,6.1,0,0,0,0,0,0,0,36,0,0,0,46,0,0,0,0,0,0,0,0,0,3
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Ariel Gamarra,M,Cerro Porteño,63,6.5,0,1,0,0,0,0,0,15,2,0,0,28,3,0,0,5,0,2,0,0,1,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Fernando Galeano,M,Recoleta FC,60,6.5,0,0,0,0,2,0,0,26,0,0,0,37,2,2,0,5,0,1,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Lucas Monzon,D,Recoleta FC,90,6.3,0,0,0,0,0,0,0,42,0,0,0,62,1,3,1,6,0,0,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Blas Medina,D,Recoleta FC,26,6.9,0,0,0,0,0,0,0,13,0,0,0,23,0,2,1,2,0,0,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Marcos Pereira,D,Recoleta FC,90,7.1,1,0,0,0,2,1,1,56,0,0,1,69,0,1,3,6,1,0,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Juan Falcon,M,Recoleta FC,45,6.5,0,0,0,0,0,0,0,8,1,0,0,14,0,0,1,0,0,0,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Pedro Rios,D,Recoleta FC,45,7.4,0,0,0,0,0,0,0,17,2,0,0,29,1,2,0,4,1,1,0,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Jose Espinola,M,Recoleta FC,90,6.5,0,0,0,0,0,0,0,71,2,0,0,84,0,2,4,3,1,0,1,0,0,0
+Primera División,2026,Recoleta FC vs Cerro Porteño,03/09/2026,Carlos Chena,M,Cerro Porteño,90,6.3,0,1,0,0,1,1,0,52,2,0,0,65,0,0,0,0,1,0,0,0,0,0

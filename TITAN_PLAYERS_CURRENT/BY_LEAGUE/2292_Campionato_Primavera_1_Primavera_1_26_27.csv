@@ -1,0 +1,600 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Danilo Treffiletti,M,Monza U20,50,6.1,0,0,0,0,0,0,0,9,1,0,0,17,0,0,0,1,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Endris Scaramelli,M,Monza U20,32,8.2,1,0,0.1,0,1,1,0,16,0,0,0,23,1,0,0,7,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Alessandro Di Nunzio,M,Roma U20,90,7.3,1,0,0.53,0.01,3,1,0,34,1,0,0,48,0,1,1,6,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Cristian Cama,D,Roma U20,90,7.1,1,0,0.11,0,1,1,0,34,0,0,0,48,0,0,0,4,1,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Federico Nardin,D,Roma U20,90,7.3,0,0,0,0,1,0,0,58,0,0,0,75,0,1,2,9,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Nicolo Ballabio,M,Monza U20,90,6.3,0,0,0.3,0.04,2,1,0,21,1,0,0,30,0,0,1,1,1,1,0,0,5,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Francesco Panico,M,Roma U20,38,6.5,0,0,0,0,0,0,0,9,0,0,0,12,0,0,0,3,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Lorenzo Colonnese,D,Monza U20,90,5.7,0,0,0,0,0,0,0,41,0,0,0,52,0,0,0,4,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Andrea Romanini,M,Monza U20,47,6.2,0,0,0,0,0,0,0,8,0,0,0,12,0,1,0,3,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Antonio Arena,F,Roma U20,90,8.4,0,2,0.2,0.64,2,2,0,20,1,1,0,40,0,0,0,6,1,3,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Samuele Carlaccini,M,Roma U20,38,6.1,0,0,0.01,0,1,0,0,6,0,0,0,9,1,0,0,1,2,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Federico Terlizzi,D,Roma U20,90,6.7,0,0,0.37,0,1,0,0,30,0,0,1,40,1,0,0,12,2,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Giacomo Arduini,M,Roma U20,59,6.8,0,0,0.01,0,1,0,0,21,1,0,0,35,1,0,0,3,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Rosindo Zanni,F,Monza U20,13,6.8,0,0,0.34,0,2,0,0,3,0,0,0,10,1,0,1,2,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Manuel Villa,D,Monza U20,90,6.2,0,0,0.04,0,1,0,0,31,0,0,0,52,0,0,2,8,4,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Giuseppe Martone,M,Monza U20,90,6.7,0,1,0,0.1,1,0,0,32,1,0,0,47,0,0,1,1,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Simone Cellamaro,D,Monza U20,90,6.3,0,0,0.02,0,1,1,0,23,0,0,0,34,0,0,0,5,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Edoardo Morucci,F,Roma U20,86,7.3,0,0,0,0.37,0,0,0,19,1,1,0,30,1,0,1,3,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Mattia Attinasi,M,Monza U20,76,6.2,0,0,0,0,0,0,0,14,0,0,0,21,0,0,0,2,1,0,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Gregorio Perego,D,Monza U20,47,5.6,0,0,0,0,0,0,0,6,0,0,0,14,0,1,0,4,1,2,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Valerio Maccaroni,M,Roma U20,77,7.1,0,1,0.02,0.52,1,0,0,15,3,1,0,22,0,0,0,4,1,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Pietro Teixeira Falcetta,M,Roma U20,21,6.5,0,0,0.21,0,1,1,0,3,0,0,0,5,0,0,0,1,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Levente Kilvinger,G,Roma U20,90,5.9,0,0,0,0,0,0,0,29,0,0,0,35,0,0,0,0,0,0,0,0,0,2
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Christian Mariani,M,Monza U20,50,6.7,0,0,0,0,0,0,0,15,0,0,0,25,1,0,0,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Giulio Fardin,F,Monza U20,21,6.8,0,0,0.14,0.01,1,0,0,6,1,0,0,17,2,0,1,4,0,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Christian Fogliaro,F,Monza U20,85,5.9,0,0,0,0.57,0,0,0,16,1,0,0,28,0,0,0,1,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Lance Toutanji,F,Roma U20,86,7,1,0,0.65,0,2,1,0,38,0,0,0,47,0,0,0,7,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Marco Giuseppe Pirro,G,Monza U20,90,6,0,0,0,0,0,0,0,44,0,0,0,61,0,0,0,0,0,0,0,0,0,3
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Filippo Basile,D,Roma U20,12,6.6,0,0,0,0,0,0,0,8,0,0,0,12,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Matteo Forni,M,Roma U20,12,6.5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Mirko Loreti,M,Roma U20,59,6.8,0,0,0.01,0,1,0,0,23,0,0,0,31,0,0,0,5,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Roma U20 vs Monza U20,22/08/2026,Dennis Scifo,M,Monza U20,65,7.5,1,0,0.57,0,1,1,0,11,0,0,0,17,0,0,1,2,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Federico Serra,F,Lazio U20,90,7.7,1,0,1.08,0.27,5,2,0,15,1,0,0,46,2,0,0,12,0,3,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Plamen Penev,G,Lecce U20,90,6.5,0,0,0,0,0,0,0,23,0,0,0,33,0,0,0,2,0,1,0,0,0,1
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Giorgio Canali,M,Lazio U20,63,6.6,0,0,0,0,0,0,0,11,0,0,0,18,1,0,1,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Divine Onyemachi,F,Lecce U20,82,6.7,0,0,0.59,0.1,6,3,0,13,1,0,0,34,2,0,0,5,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Walid El Bouradi,M,Lecce U20,51,6.4,0,0,0.23,0,1,0,0,23,0,0,0,29,0,0,0,3,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Jarne Flies,M,Lecce U20,69,6.9,0,0,0,0.05,0,0,0,29,2,0,0,36,0,0,3,4,3,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Samuele Perrone,F,Lecce U20,21,6.7,0,0,0.09,0.09,1,1,0,8,1,0,0,15,0,0,0,4,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Filip Skorb,F,Lecce U20,8,6.3,0,0,0.09,0,1,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Cristiano Palamarchuk,D,Lecce U20,82,6.1,0,0,0,0,0,0,0,49,0,0,0,61,0,0,0,5,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Ferdinando Ferrante,D,Lazio U20,72,6.6,0,0,0,0,0,0,0,17,0,0,0,22,0,0,1,7,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Emanuele Persano,F,Lecce U20,8,6.5,0,0,0.22,0,2,1,0,3,0,0,0,7,0,0,0,1,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Cristiano Trifelli,D,Lazio U20,18,6.7,0,0,0,0,0,0,0,7,0,0,0,8,0,0,0,2,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Valerio Battisti,M,Lazio U20,77,6.6,0,0,0,0.05,0,0,0,19,1,0,0,31,1,0,0,7,3,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Federico Ciucci,D,Lazio U20,90,6.6,0,0,0,0,0,0,0,33,0,0,0,48,2,0,0,8,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Pasquale Esposito,F,Lecce U20,82,7.6,1,0,0.43,0.18,3,2,0,10,2,0,0,25,0,0,0,5,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Leonardo Pernaselci,D,Lazio U20,90,6.6,0,0,0,0,0,0,0,30,0,0,0,40,0,0,5,1,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Nicolo Pannozzo,G,Lazio U20,90,8.6,0,0,0,0,0,0,0,27,0,0,0,34,0,0,1,0,0,0,0,0,0,7
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Francesco Gatto,M,Lazio U20,13,6.6,0,0,0,0,0,0,0,2,0,0,0,5,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Nemanja Milojević,M,Lecce U20,39,7,0,1,0.08,0.31,2,1,0,17,1,1,0,24,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Mattia Santagostino Baldi,M,Lazio U20,90,7,0,0,0,0,0,0,0,17,0,0,0,33,0,0,2,14,1,3,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Tommaso Montano,F,Lazio U20,72,6.3,0,0,0.27,0.31,1,0,0,4,1,1,0,19,1,0,0,5,0,2,0,0,2,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Emil Larsen,D,Lecce U20,90,6.8,0,0,0,0,0,0,0,40,0,0,0,46,0,0,2,4,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Bruno Galassi,M,Lazio U20,90,6.7,0,1,0,0,0,0,0,32,0,0,0,46,0,0,0,8,3,2,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Alessandro Di Pasquale,M,Lecce U20,90,7.3,0,0,0.36,0.02,2,0,0,49,1,0,1,68,1,0,0,3,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Francesco Longo,D,Lecce U20,90,5.9,0,0,0,0,0,0,0,55,0,0,0,65,0,0,3,9,2,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Flavio Milillo,M,Lazio U20,18,6.4,0,0,0,0,0,0,0,7,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Giuseppe Cafasso,D,Lecce U20,8,7,0,0,0,0.18,0,0,0,8,1,0,0,9,0,0,0,1,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Stefano Trio,D,Lecce U20,90,7.4,0,0,0,0.04,0,0,0,43,1,0,0,61,2,0,1,11,1,0,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Raul Avram,D,Lazio U20,90,6.5,0,0,0,0,0,0,0,13,0,0,0,24,0,0,1,5,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Emmanuel Eone,F,Lazio U20,27,7.3,1,0,0.95,0,2,1,0,1,0,0,1,10,0,0,0,3,1,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Lecce U20 vs Lazio U20,22/08/2026,Leopoldo Vitale,M,Lecce U20,90,6.2,0,0,0.07,0.27,1,0,1,25,3,0,0,56,1,0,0,12,2,4,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Sonosi Daldum,F,Sassuolo U20,58,6.3,0,0,0.27,0,2,0,0,11,1,0,0,32,0,0,0,4,1,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Arnis Ademi,D,Fiorentina U20,16,6.7,0,0,0,0,0,0,0,11,0,0,0,12,0,0,0,0,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,David Weiss,M,Sassuolo U20,32,6.5,0,0,0,0,0,0,0,20,0,0,0,33,0,0,3,3,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Davide Atzeni,M,Fiorentina U20,60,6.3,0,0,0.01,0,1,0,0,19,0,0,0,37,3,0,0,6,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Andrea Mussini,M,Sassuolo U20,90,7.2,0,0,0.46,0.03,10,2,0,87,1,0,0,120,2,0,2,9,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Andrea Campani,D,Sassuolo U20,90,6.6,0,0,0,0.01,0,0,0,30,2,0,0,41,0,1,2,5,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Piergiorgio Bonanno,M,Fiorentina U20,30,7.1,0,1,0,0.12,1,0,0,12,1,0,0,17,1,1,0,6,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Niccolò Turnone,D,Fiorentina U20,90,7.6,0,0,0.18,0,1,0,0,24,0,0,0,40,0,0,2,16,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Arno Bianchini,M,Fiorentina U20,44,6.7,0,0,0,0,0,0,0,18,0,0,0,23,0,0,0,7,3,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Cristian Acatullo,M,Sassuolo U20,24,6.5,0,0,0.01,0,1,0,0,33,0,0,0,42,1,0,0,2,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Alessandro Perrotti,D,Fiorentina U20,90,6.5,0,0,0.05,0,1,1,0,30,1,0,0,46,1,0,1,5,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Antonio Pirrò,M,Fiorentina U20,90,7.1,0,0,0.01,0.24,2,0,0,31,3,0,0,56,6,0,2,10,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Sulayman Jallow,F,Fiorentina U20,90,6.7,1,0,0.2,0,3,1,0,11,0,0,0,37,0,0,1,8,5,2,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Rareș Coman,M,Sassuolo U20,58,7.2,0,0,0.07,0,1,0,0,58,0,0,0,70,0,1,0,7,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Mattia Magalotti,G,Fiorentina U20,90,6.3,0,0,0,0,0,0,0,22,0,0,0,26,0,0,0,0,0,0,0,0,0,3
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Brando Mazzeo,M,Fiorentina U20,90,7.2,0,0,0.99,0,5,2,0,14,1,0,1,43,4,0,1,9,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Federico Matarán,M,Fiorentina U20,30,6.6,0,0,0.12,0,1,0,0,9,0,0,0,13,0,0,0,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Samuele Liberali,M,Sassuolo U20,66,7.7,0,0,0,0.7,1,0,0,61,4,0,0,78,2,0,0,8,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Omar Barry,F,Sassuolo U20,32,6.6,0,1,0,0.19,0,0,0,14,2,0,0,30,0,1,0,5,1,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Luca Lungu,G,Sassuolo U20,90,7.9,0,0,0,0,0,0,0,21,0,0,0,22,0,0,0,0,0,0,0,0,0,3
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Iustin Cornescu,M,Sassuolo U20,85,7.4,1,0,0.08,0.01,2,1,0,60,2,0,0,85,1,0,3,5,4,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Salvatore Cianciulli,M,Fiorentina U20,46,7.2,0,0,0,0,0,0,0,14,0,0,0,22,0,0,1,6,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Federico Croci,F,Fiorentina U20,60,6.3,0,0,0.03,0.17,1,0,0,13,2,0,0,29,1,0,0,3,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Diego De Dominicis,M,Sassuolo U20,5,6.3,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Dennis Beldenti,D,Fiorentina U20,74,6.8,0,0,0,0,0,0,0,25,0,0,0,42,1,0,1,6,3,2,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Robert Corduneanu,D,Fiorentina U20,74,6.5,0,0,0.16,0,1,0,0,35,0,0,0,44,1,0,1,6,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Arona Ndiaye,D,Sassuolo U20,90,7.3,0,0,0,0,0,0,0,49,0,0,0,68,1,0,1,10,2,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Samuel  Beldenti,M,Fiorentina U20,16,6.7,0,0,0,0.18,0,0,0,8,1,0,0,12,0,0,1,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Christian  Gianelli,D,Sassuolo U20,90,6.7,0,0,0,0,0,0,0,44,0,0,0,61,2,0,0,8,1,2,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Matteo  Merzi,D,Sassuolo U20,90,6.9,0,0,0.06,0,2,0,0,47,0,0,0,64,0,0,1,8,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Sassuolo U20 vs Fiorentina U20,22/08/2026,Owen Nti Boateng,F,Sassuolo U20,90,6.2,0,0,0.29,0,2,1,1,15,0,0,0,37,1,0,2,6,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Davide Balduzzi,M,Parma U20,64,6.2,0,0,0.18,0,1,1,0,22,0,0,0,31,0,0,0,3,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Adam Sosna,F,Juventus U20,64,7.5,1,0,0.24,0,1,1,0,18,0,0,0,30,0,0,3,4,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Karlo Pajsar,D,Parma U20,90,6.3,0,0,0,0,0,0,0,46,0,0,0,59,0,1,0,2,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Ianis Avramescu,M,Parma U20,64,8.3,2,0,1.1,0,5,3,0,20,0,0,0,31,0,0,0,3,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Enzo Keutgen,M,Juventus U20,90,6.4,0,0,0.01,0,1,1,0,45,0,0,0,68,3,1,0,9,2,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Edoardo Vallana,M,Juventus U20,90,6.5,0,0,0,0,1,0,0,71,0,0,0,96,0,0,0,4,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Idris Amara Sylla,M,Juventus U20,15,6.4,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Iván López Comellas,F,Juventus U20,79,6.9,0,0,0.13,0,1,0,0,9,0,0,0,16,0,0,0,5,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Sebastiano Nava,G,Juventus U20,90,6.1,0,0,0,0,0,0,0,20,0,0,0,21,0,0,0,0,0,0,0,0,0,3
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Wout Gielen,D,Juventus U20,64,5.9,0,0,0,0,0,0,0,39,0,0,0,61,1,0,2,3,3,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Daniel Okolo,F,Juventus U20,11,6.5,0,0,0,0,0,0,0,3,0,0,0,5,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Benit Borasio,D,Juventus U20,90,6.5,0,0,0,0,0,0,0,74,0,0,0,99,0,0,3,6,4,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Stefano Precupanu,M,Juventus U20,90,7.5,1,0,0.03,0,1,1,0,41,1,0,0,57,0,0,2,4,1,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Ludovico Varali,D,Parma U20,90,6.6,0,0,0,0,0,0,0,51,0,0,0,67,0,0,4,2,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Maxime De Brul,D,Juventus U20,26,6.7,0,0,0,0,0,0,0,13,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Gabriel Repciuc,M,Juventus U20,90,5.9,0,0,0,0,0,0,0,35,1,0,0,55,0,0,2,8,2,2,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Marco Tiozzo,M,Juventus U20,75,6.1,0,1,0,0.24,0,0,0,17,1,0,0,29,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Louis Reynaud,D,Juventus U20,26,7,0,0,0,0,0,0,0,21,0,0,0,28,0,0,0,4,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Gabriele Casentini,G,Parma U20,90,6,0,0,0,0,0,0,0,29,0,0,0,31,0,0,1,0,0,0,0,0,0,1
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Filippo Alinovi,F,Parma U20,43,7,0,0,0.01,0,1,1,0,13,0,0,0,25,3,0,1,10,3,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Edoardo Venturi,D,Parma U20,47,6.7,0,0,0,0,0,0,0,12,0,0,0,17,0,0,3,4,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Giorgio Chimezie,M,Parma U20,79,6.7,0,0,0,0,0,0,0,24,0,0,0,40,0,0,2,12,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Vittorio Tognaccini,D,Parma U20,11,6.9,0,0,0,0,0,0,0,7,0,0,0,10,0,0,0,2,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Léo Bamballi,D,Juventus U20,64,6.2,0,0,0,0,0,0,0,42,0,0,0,56,0,0,2,4,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Doro Diop,M,Parma U20,90,7.2,0,0,0,0,0,0,0,45,0,0,0,68,1,0,1,9,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Fabio Schreiber,D,Parma U20,90,6.7,0,0,0,0,0,0,0,42,0,0,0,54,0,0,0,4,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Afonso Semedo,F,Parma U20,26,6.4,0,0,0,0,0,0,0,5,0,0,0,10,0,0,1,2,0,0,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Serigne Fallou Diagne,D,Parma U20,64,7.5,0,1,0,0.17,0,0,0,6,2,0,0,19,0,0,0,8,1,5,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Andrea Brizi,M,Parma U20,90,6.1,0,0,0,0,0,0,0,28,0,0,0,35,0,0,0,3,0,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Dario   Pio D'Amico,M,Parma U20,26,6.8,0,0,0,0,0,0,0,11,0,0,0,15,0,0,0,2,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Luca Scarlato,M,Parma U20,26,6.5,0,0,0.15,0,1,0,0,11,0,0,0,25,1,0,0,5,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Juventus U20 vs Parma U20,22/08/2026,Dembara Sall Samb,F,Juventus U20,26,6.2,0,0,0,0,0,0,0,9,0,0,0,15,0,0,0,1,0,0,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Ernesto Perin,M,Empoli U20,68,7.2,0,0,0,0.02,0,0,0,9,1,0,0,22,1,0,2,8,2,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Mattia Huqi,M,Empoli U20,90,6.8,0,0,0.02,0,1,0,0,20,0,0,0,39,0,0,1,16,2,3,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Dawid Bembnista,D,Empoli U20,90,7.7,0,0,0,0,0,0,0,34,0,0,0,47,0,0,5,5,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Andrea Orlandi,F,Empoli U20,68,6.3,0,0,0.03,0,1,0,0,16,0,0,0,28,0,0,2,4,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Kevin Pasalic,D,Empoli U20,1,,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Thomas Campaniello,F,Empoli U20,90,6.4,0,0,0,0,0,0,0,11,0,0,0,33,0,0,0,8,1,2,0,0,4,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Roberto Berizzi,D,Empoli U20,90,6.9,0,0,0,0,0,0,0,27,0,0,0,41,1,0,1,6,0,0,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Nicola Mazzi,M,Empoli U20,22,6.1,0,0,0,0,0,0,0,4,0,0,0,8,0,0,1,0,2,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Riccardo Vettore,G,Empoli U20,90,6.7,0,0,0,0,0,0,0,19,0,0,0,21,0,0,0,0,0,0,0,0,0,1
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Samuele Pisati,F,Como U20,47,6.6,0,0,0.06,0.09,1,0,0,13,1,0,0,22,2,0,0,5,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Tommaso Rugani,D,Empoli U20,90,8,0,0,0,0,0,0,0,26,0,0,0,43,0,0,4,6,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Francesco Andrealli,M,Como U20,61,6.6,0,0,0,0.21,0,0,0,41,1,0,0,52,0,0,1,3,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Gianmarco Angiolini,M,Empoli U20,22,6.4,0,0,0,0,0,0,0,7,0,0,0,7,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Mattia Damioli,G,Como U20,90,6.2,0,0,0,0,0,0,0,36,0,0,0,42,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Alessio Baralla,M,Como U20,90,7.2,0,0,0.15,0.01,3,1,0,62,2,0,0,78,0,0,0,5,1,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Cristiano De Paoli,D,Como U20,90,7,0,0,0,0,1,0,0,46,0,0,0,60,0,0,1,8,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Diego Antonini,D,Empoli U20,90,6.9,0,0,0,0,0,0,0,21,0,0,0,23,0,0,3,4,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Achille Tigano,F,Como U20,61,6.9,0,0,0.01,0.4,1,0,0,21,1,1,0,42,2,0,0,9,1,3,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Riccardo Cassano,F,Como U20,29,6.9,0,0,0.01,0,1,0,0,37,0,0,0,47,0,0,1,3,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Lorenzo de Paula,D,Como U20,61,6,0,0,0,0,0,0,0,14,0,0,0,23,0,0,2,2,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Robin Thiland-Herard,F,Como U20,90,6.5,0,0,0.61,0.09,2,0,0,17,1,0,1,28,1,0,0,8,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Almamy Soumah,D,Como U20,90,7.1,0,0,0.09,0,1,0,0,67,0,0,0,92,2,0,0,6,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Lorenzo Bonsignori,F,Como U20,29,6.5,0,0,0.12,0.01,2,0,0,22,1,0,0,39,1,0,0,4,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Federico Grilli,D,Como U20,90,6.6,0,0,0,0.01,0,0,0,61,1,0,0,70,1,0,1,9,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Alan Orlandi,M,Empoli U20,68,7,0,1,0,0.19,0,0,0,16,1,0,0,27,0,0,1,5,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Leonardo Casati,F,Como U20,9,6.6,0,0,0,0,0,0,0,5,0,0,0,14,2,0,0,4,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Italo Bulgheroni,M,Como U20,81,6.2,0,0,0.06,0.01,1,0,0,33,1,0,0,48,2,0,0,5,2,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Michele Mureddu,M,Empoli U20,90,7.9,1,0,0.19,0,1,1,0,22,0,0,0,43,0,0,5,13,1,4,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Andrea  Ballone,M,Como U20,29,6.2,0,0,0,0.05,0,0,0,13,1,0,0,18,0,0,2,1,1,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Cristian Mazzara,F,Como U20,43,6.4,0,0,0.01,0,2,0,0,13,0,0,0,33,4,0,0,7,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Empoli U20 vs Como U20,23/08/2026,Babalola Samsondeen,D,Empoli U20,22,6.3,0,0,0,0,0,0,0,4,0,0,0,13,3,0,2,7,1,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Adomas Buikus,M,Bologna U20,21,6.1,0,0,0,0,0,0,0,8,0,0,0,14,0,0,2,0,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Federico Marrone,M,Atalanta U20,71,6,0,0,0,0,0,0,0,22,0,0,0,32,0,0,1,4,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Niccolò Gariani,M,Atalanta U20,76,6.6,0,0,0,0,0,0,0,48,0,0,0,61,1,3,2,6,1,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Dion Cakolli,F,Atalanta U20,90,5.9,0,1,0.52,0,1,0,0,11,0,0,1,28,0,0,2,4,1,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Andrei Toroc,M,Bologna U20,90,7.5,0,0,0.42,0.69,3,1,1,33,4,1,0,52,3,0,0,5,2,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Alessandro De Luca,D,Bologna U20,84,6.6,0,0,0.15,0,1,0,0,43,0,0,0,59,0,1,2,10,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Simone Negri,M,Bologna U20,75,6.5,0,0,0.43,0,6,1,0,36,0,0,0,63,4,0,0,7,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Giovanni Zanatta,M,Atalanta U20,20,6.6,0,0,0,0,0,0,0,13,0,0,0,19,0,0,0,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Marcello Fugazzola,F,Atalanta U20,26,6.6,0,0,0.34,0,1,0,0,7,0,0,1,12,0,0,1,1,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Gabriel Bugli,G,Atalanta U20,90,7,0,0,0,0,0,0,0,28,1,0,0,32,0,0,0,0,0,0,0,0,0,8
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Kwesi Badori,M,Bologna U20,90,8,1,0,0.14,0.25,2,2,0,52,2,0,0,74,0,0,1,4,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Isaac Isoa,D,Atalanta U20,90,6.4,0,1,0,0,0,0,0,60,0,0,0,78,3,0,2,6,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Leos Tupec,D,Bologna U20,90,6.8,0,0,0,0.1,0,0,0,50,1,0,0,61,0,0,2,2,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Samir Mouisse,M,Atalanta U20,90,7.7,1,0,0.24,0,2,2,0,41,0,0,0,64,4,0,1,9,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Ali Jaber,D,Bologna U20,90,6.7,0,0,0.07,0,1,1,0,36,0,0,0,46,1,1,2,10,1,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Giovanni Baldini,M,Bologna U20,21,7.4,1,0,0.05,0,1,1,0,10,0,0,0,14,0,0,2,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Luka Kušić,M,Bologna U20,13,6.7,0,0,0.22,0,2,2,0,1,1,0,0,10,0,0,0,3,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Jacopo Zanella,M,Bologna U20,69,6.7,0,0,0.14,0.11,2,1,0,25,2,0,0,34,1,0,1,6,3,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Matteo Colombo,M,Atalanta U20,47,7,0,0,0,0,0,0,0,26,0,0,0,33,1,0,0,8,0,4,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Raul Cojocariu,D,Atalanta U20,34,6.5,0,0,0,0,0,0,0,26,0,0,0,32,0,0,0,4,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Edoardo Trifelli,M,Bologna U20,90,7.3,0,0,0.01,0.09,1,0,0,38,2,0,0,49,0,0,1,5,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Besalet Krasniqi,M,Bologna U20,75,7.4,1,0,0.82,0,4,2,0,27,0,0,1,41,0,0,1,3,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Alessandro Rinaldi,D,Atalanta U20,62,6.4,0,0,0,0,0,0,0,45,0,0,0,60,1,0,3,6,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Luca Lo Monaco,F,Bologna U20,84,9.9,1,2,0.24,0.77,2,1,0,25,7,0,0,39,2,0,1,6,0,2,0,0,2,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Mattia Aliprandi,M,Atalanta U20,49,5.7,0,0,0,0,0,0,0,17,0,0,0,21,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Marco Leandri,M,Atalanta U20,90,6,0,0,0.15,0,1,0,0,44,0,0,0,58,0,0,2,5,4,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Giovanni Percassi,M,Atalanta U20,26,6.5,0,0,0,0,0,0,0,14,0,0,0,19,0,0,2,2,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Matteo Franceschelli,G,Bologna U20,90,5.9,0,0,0,0,0,0,0,21,0,0,0,25,0,0,1,0,0,0,0,0,0,1
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Christian Briguglio,D,Bologna U20,13,6.7,0,0,0,0,0,0,0,6,0,0,0,8,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Mattia Pedretti,M,Atalanta U20,71,6.2,0,0,0.18,0,1,0,0,18,0,0,0,27,1,0,2,4,1,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Niccoló Rossitto,F,Bologna U20,27,6.5,0,1,0,0.05,0,0,0,6,1,0,0,14,0,0,0,1,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Bologna U20 vs Atalanta U20,23/08/2026,Adriano  Ciapini,F,Atalanta U20,90,7.7,1,0,0.3,0,3,1,0,18,0,0,0,37,1,0,0,5,0,1,0,0,3,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Gael Lafont,M,Genoa U20,90,6.9,0,0,0.09,0.4,2,0,0,56,3,0,0,82,1,0,1,11,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Mamedi Doucoure,D,Genoa U20,90,6.6,0,0,0,0,0,0,0,45,0,0,0,62,2,0,0,8,2,4,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Kris Gecaj,D,Genoa U20,79,7.1,0,0,0,0,0,0,0,35,0,0,0,44,0,0,1,6,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Giovanni Lauricella,M,Genoa U20,90,6.1,0,0,0,0.01,0,0,0,42,1,0,0,64,1,0,0,9,2,5,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Nicolò Tondi,M,Genoa U20,35,6.7,0,0,0,0.29,0,0,0,5,1,0,0,10,1,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Frederico Stradiotto,D,Genoa U20,90,7.3,0,0,0.15,0,1,1,0,38,0,0,0,51,0,0,0,8,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Adam Zulevic,F,Genoa U20,63,6.5,0,0,0.22,0,2,1,0,6,0,0,0,12,1,0,0,2,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Matteo Farronato,G,Inter U20,90,9.6,0,0,0,0,0,0,0,32,0,0,0,45,0,0,1,1,0,1,0,0,0,6
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Lorenzo Puricelli,D,Inter U20,90,6.5,0,0,0,0,0,0,0,44,0,0,0,51,0,0,1,3,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Alen Vukaj,F,Inter U20,18,6.4,0,0,0,0.06,0,0,0,6,2,0,0,12,1,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Anas El Mahboubi,F,Inter U20,90,5.7,0,0,0.11,0,2,2,0,16,0,0,0,50,2,0,0,8,3,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Mattia Mendolia,M,Genoa U20,35,6.8,0,0,0.31,0,3,1,0,9,0,0,0,22,2,0,0,5,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Matteo Gibertini,M,Genoa U20,63,7.4,0,0,0.05,0.09,1,0,1,15,1,0,0,22,1,0,0,7,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Dino Putsén,M,Inter U20,87,6.7,0,0,0.04,0.13,1,0,0,25,1,0,0,34,0,0,0,6,5,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Francesco Bellone,F,Genoa U20,72,7.1,0,0,0.22,0,2,1,0,11,0,0,0,24,1,0,1,8,0,2,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Pietro Baccelli,G,Genoa U20,90,7,0,0,0,0,0,0,0,40,0,0,0,46,0,0,0,0,0,0,0,0,0,5
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Elia Spicuglia,M,Genoa U20,19,7.7,0,0,0,0.83,0,0,0,12,2,1,0,17,1,0,0,2,0,0,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Cristian Galvano,F,Genoa U20,26,6,0,0,0.83,0,2,1,0,3,0,0,1,6,0,0,1,0,1,0,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Andrea Mariotti,M,Genoa U20,51,7.3,0,0,0.06,0,1,0,0,21,0,0,0,31,2,0,1,7,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Giovanni D'Agostino,M,Inter U20,80,6.5,0,0,0.36,0,3,1,0,19,0,0,0,36,0,0,0,5,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Pietro La Torre,M,Inter U20,90,7,0,0,0.13,0,2,2,0,41,0,0,0,55,0,0,2,4,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Cristian Breda,D,Inter U20,90,7.1,0,0,0,0,0,0,0,41,0,0,0,57,0,0,5,7,3,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Davide Sorino,D,Inter U20,38,7,0,0,0.13,0.05,1,0,0,8,1,0,0,13,0,0,0,8,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Dominik Kartelo,M,Inter U20,11,6.6,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Marco Virtuani,M,Inter U20,18,6.9,0,1,0,0.1,0,0,0,5,1,0,0,8,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Marcelo Vaz,D,Genoa U20,90,7.2,0,0,0.12,0,1,1,0,52,0,0,0,75,4,0,0,10,2,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Lamberto Peletti,D,Inter U20,61,6.1,0,0,0,0,0,0,0,25,0,0,0,35,0,0,2,2,1,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Mor Kaire Ndao,M,Genoa U20,47,6.8,0,0,0,0,0,0,0,29,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Cristian Carrara,F,Inter U20,38,7.8,1,0,0.15,0.13,2,1,0,5,1,0,0,9,0,0,0,3,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Marco Grisoni Fasana,F,Inter U20,61,6.6,0,0,0,0,0,0,0,11,0,0,0,19,0,0,0,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Mirko  Franchi,F,Inter U20,80,6.5,0,0,0,0,0,0,0,20,1,0,0,28,0,0,0,4,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Genoa U20 vs Inter U20,23/08/2026,Nicolo  Moranduzzo,D,Inter U20,90,6.9,0,0,0,0,0,0,0,33,0,0,0,42,0,0,1,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Atanas Kehayov,G,Cagliari U20,90,9.3,0,0,0,0,0,0,0,26,0,0,0,33,0,0,0,0,0,0,0,0,0,6
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Nicola Grandu,D,Cagliari U20,90,7.1,0,0,0.1,0,1,1,0,34,1,0,0,55,2,0,3,11,1,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Luca Tronci,M,Cagliari U20,90,7.4,0,0,0,0,1,0,0,48,0,0,0,64,2,0,0,6,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Alessandro Sugamele,F,Cagliari U20,86,7.8,2,0,1.28,0.34,4,3,0,13,2,0,0,46,1,0,2,3,0,2,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Luca Costa,F,Cagliari U20,10,6.5,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Demi Akarakiri,M,Cagliari U20,55,6.3,0,0,0,0,0,0,0,14,0,0,0,31,1,0,1,5,2,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Kristiyan Goryanov,M,Cagliari U20,86,7.2,0,0,0.18,0,1,1,0,27,0,0,0,44,2,0,0,11,2,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Marton Prettenhoffer,D,Cagliari U20,90,6.9,0,0,0,0,0,0,0,38,0,0,0,47,0,0,2,5,1,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Guiseppe Lo Verde,D,Cagliari U20,70,6.4,0,0,0,0,1,1,0,17,0,0,0,25,0,0,0,3,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Filippo Generali,G,AlbinoLeffe U20,90,7.6,0,0,0,0,0,0,0,21,0,0,0,25,0,0,0,0,1,0,0,0,0,6
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Andrea Pibiri,M,Cagliari U20,42,6.6,0,0,0.06,0,1,0,0,25,0,0,0,31,0,0,2,4,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Diego Ceresoli,M,AlbinoLeffe U20,8,6.6,0,0,0.02,0,1,0,0,5,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Noham Hamdaoua,F,Cagliari U20,10,6.5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Matteo Nuvoli,D,Cagliari U20,90,7,0,0,0,0,0,0,0,34,0,0,0,40,0,0,0,6,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Giovanni Andrea Cardu,F,Cagliari U20,70,6.7,0,0,0.34,0,2,1,0,21,1,0,0,38,0,0,0,10,3,6,0,0,2,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Andrea Scaldaferri,D,AlbinoLeffe U20,88,6.3,0,0,0.2,0,2,1,0,30,0,0,0,46,0,0,0,3,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Samuele Piro,M,Cagliari U20,90,5.9,0,0,0.01,0,1,0,0,45,0,0,0,59,0,0,0,8,4,3,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Michelangelo Duranti,F,AlbinoLeffe U20,47,6.7,0,0,0.22,0,1,0,0,3,0,0,0,8,0,0,0,3,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Jacopo Brambilla,D,AlbinoLeffe U20,90,6.1,0,0,0.4,0,1,1,0,50,0,0,1,69,2,0,4,14,1,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Nicolò Gamba,F,AlbinoLeffe U20,90,6.7,0,0,0.9,0.1,3,0,0,19,1,0,2,48,3,0,0,13,2,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Francesco Pascali,M,AlbinoLeffe U20,74,6.5,0,0,0.05,0.02,1,0,0,18,1,0,0,25,0,0,1,8,1,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Andrea Di Palma,F,AlbinoLeffe U20,83,5.4,0,0,0,0,0,0,0,38,0,0,0,49,0,0,1,10,8,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Filippo Delcarro,M,AlbinoLeffe U20,90,6.4,0,0,0.56,0.48,4,1,0,58,2,1,1,84,0,0,4,4,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Andrea Isgro,M,AlbinoLeffe U20,47,6.5,0,0,0,0,0,0,0,15,0,0,0,24,2,0,0,5,1,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Simone Riboni,F,AlbinoLeffe U20,90,7.1,0,0,0.39,0.73,2,2,0,29,2,1,0,57,1,0,0,9,0,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Amine Bahlaouan,D,Cagliari U20,27,7.2,0,0,0,0.2,1,1,0,10,2,0,0,19,1,0,0,5,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Christian Rinaldi,F,AlbinoLeffe U20,22,6.9,0,0,0,0.37,0,0,0,5,1,1,0,7,0,0,0,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Loris Giordano,M,AlbinoLeffe U20,14,7.3,0,0,0,0,0,0,0,5,0,0,0,9,0,0,0,6,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Nicola Morstabilini,M,AlbinoLeffe U20,50,6.7,0,0,0.01,0.13,1,1,0,21,2,0,0,35,3,0,0,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Cristian Minneci,M,AlbinoLeffe U20,50,7.2,0,0,0,0,0,0,0,23,0,0,0,34,0,0,2,4,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Tommaso Forattini,D,AlbinoLeffe U20,90,6.7,0,0,0,0,0,0,0,62,0,1,0,75,0,0,1,11,1,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,AlbinoLeffe U20 vs Cagliari U20,23/08/2026,Mamadou Barry,M,Cagliari U20,27,6.3,0,0,0.01,0,1,0,0,5,0,0,0,13,0,0,0,2,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Traianos Mokris,D,Cesena U20,90,5.5,0,0,0,0,0,0,0,34,0,0,0,45,0,0,3,1,3,0,2,1,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Francesco Albertini,D,Hellas Verona U20,90,7,0,0,0.08,0,1,0,0,53,0,0,0,75,0,0,4,5,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Simone Gianfanti,G,Cesena U20,90,8.4,0,0,0,0,0,0,0,39,0,0,0,45,0,0,0,1,0,1,0,0,0,3
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Michele De Rossi,M,Hellas Verona U20,76,6.9,0,0,0.02,0.01,1,0,0,31,1,0,0,42,0,0,0,3,0,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Matteo Lontani,M,Cesena U20,18,6.7,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,2,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Ruben Akale,F,Hellas Verona U20,59,6.6,0,0,0,0.34,0,0,0,8,1,1,0,19,1,0,1,4,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Jurgen Peci,M,Hellas Verona U20,90,7.2,0,0,0.13,0.16,2,0,0,53,1,0,0,75,2,0,1,9,0,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Filippo Bertaccini,M,Cesena U20,90,7.5,0,0,0.06,0.08,3,2,0,28,1,0,0,46,0,0,2,10,0,4,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Luca Bisotti,D,Hellas Verona U20,71,6.6,0,0,0.35,0,2,0,0,20,0,0,1,34,2,0,1,5,2,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Arthur Borghi,G,Hellas Verona U20,90,6.3,0,0,0,0,0,0,0,19,0,0,0,26,0,0,0,0,0,0,0,0,0,2
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Mattia Ridolfi,D,Cesena U20,90,6.8,0,0,0,0.04,0,0,0,33,1,0,0,44,1,1,4,5,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Ebrima Jatta,D,Hellas Verona U20,90,6.8,0,0,0,0,0,0,0,36,0,0,0,54,1,0,1,9,0,0,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Alessandro Luchetti,D,Hellas Verona U20,46,6.2,0,0,0,0.11,0,0,0,19,1,0,0,21,0,0,0,4,1,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Daniel Sanaj,F,Cesena U20,13,6.5,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,1,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Emilio Amadori,M,Cesena U20,90,6.6,0,0,0.04,0.01,1,0,0,38,1,0,0,56,1,0,3,8,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Matteo Mussola,M,Hellas Verona U20,40,6.8,0,0,0,0,0,0,0,17,0,0,0,23,0,2,1,6,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Enea Casadei,M,Cesena U20,81,6.4,0,0,0.1,0,3,0,0,38,0,0,0,50,3,0,0,6,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Davide Costa Pisani,D,Hellas Verona U20,52,6.5,0,0,0,0.1,0,0,0,16,1,0,0,23,0,0,1,1,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Tommaso Gasperini,D,Cesena U20,90,6.6,0,0,0,0,0,0,0,35,0,0,0,45,0,0,0,5,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Gabriele Ricci,F,Cesena U20,67,5.8,0,0,0.1,0,1,0,0,10,0,0,0,23,0,0,0,3,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Filippo Cavazza,M,Hellas Verona U20,23,7.1,0,0,0,0.21,0,0,0,3,2,0,0,14,1,0,0,6,1,4,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Davide Moisa,D,Hellas Verona U20,90,7.1,0,0,0,0.13,0,0,0,56,1,0,0,74,0,0,0,10,2,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Matteo Casadei,M,Cesena U20,81,6.5,0,0,0,0,0,0,0,18,0,0,0,29,0,0,1,6,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Denis Intrabartolo,M,Hellas Verona U20,90,7,0,0,0,0,0,0,0,37,0,0,0,53,2,1,4,8,2,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Alessandro Cenerelli,D,Cesena U20,90,6.4,0,0,0,0.01,0,0,0,33,1,0,0,47,2,0,1,5,1,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Mattia  Buniotto,F,Hellas Verona U20,40,7,0,0,0.11,0,1,1,0,5,0,0,0,16,0,0,0,5,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Riccardo  Frisoni,M,Cesena U20,86,7.5,0,1,0,0.29,0,0,0,28,2,0,0,42,1,0,1,5,0,2,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Federico Tonti,F,Cesena U20,31,7.6,1,0,0.19,0,1,1,0,4,0,0,0,18,0,0,1,7,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Mattia Gardin,F,Hellas Verona U20,59,6.5,0,0,0.22,0,2,1,0,11,0,0,0,31,2,0,0,8,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Alessandro Valoti,M,Hellas Verona U20,28,6.6,0,0,0.37,0,2,1,0,16,0,0,0,19,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Hellas Verona U20 vs Cesena U20,24/08/2026,Severino Petito,D,Cesena U20,18,6.5,0,0,0,0,0,0,0,2,0,0,0,8,0,0,0,2,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Zalan Kugyela,M,Torino U20,90,6.9,0,1,0.03,0.48,1,0,0,42,4,0,0,59,2,0,1,7,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Daniel Tonica,D,Torino U20,90,7.9,1,0,0.16,0,1,1,0,64,0,0,0,86,1,0,1,8,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Filippo Conzato,M,Torino U20,90,5.5,0,0,0.14,0,5,3,0,28,0,0,0,60,2,0,0,6,2,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Manuel Scacchi,M,Torino U20,47,6.7,0,0,0.11,0,1,0,0,5,0,0,0,11,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Kenny Liema Olinga,M,Torino U20,79,6.9,0,0,0,0.01,0,0,0,36,1,0,0,52,0,0,1,6,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Tommaso Gatto,D,Torino U20,90,6.4,0,0,0.02,0.1,1,0,0,30,1,0,0,44,1,0,1,10,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Edoardo Zanaga,F,Milan U20,23,7.3,1,0,0.04,0,1,1,0,1,0,0,0,8,1,0,0,2,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Matia Zaramella,F,Milan U20,85,6.8,0,0,0.12,0.04,1,0,0,19,1,0,0,37,1,0,1,8,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Sandro Nascimento,M,Torino U20,43,6.1,0,0,0,0,0,0,0,14,0,0,0,19,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Cristiano Dotta,M,Milan U20,5,7.7,1,0,0.14,0,1,1,0,0,0,0,0,3,0,0,0,1,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Leonardo Colombo,F,Milan U20,67,6.5,0,0,0,0.03,0,0,0,16,1,0,0,34,0,0,1,6,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Francesco Domniței,F,Milan U20,90,7.3,0,1,0.5,0.55,4,2,0,22,1,1,0,42,1,0,1,5,1,2,0,0,2,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Edoardo Tartaglia,D,Milan U20,90,7.6,1,0,0.55,0,1,1,0,20,1,0,0,26,0,1,1,9,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Lorenzo Ferraris,M,Torino U20,27,6.7,1,0,0.77,0,3,2,0,5,0,0,0,10,0,0,0,1,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Andrea Cullotta,D,Milan U20,90,6.7,0,0,0.01,0,1,0,0,50,0,0,0,62,0,0,1,4,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Max Anastasio,M,Milan U20,90,6.5,0,0,0.4,0.32,3,1,0,24,4,0,0,59,2,0,0,9,3,2,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Nicola Russo,M,Torino U20,11,6.2,0,0,0.21,0,1,0,1,2,0,0,0,4,0,0,0,2,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Lorenzo Befani,M,Torino U20,47,6.4,0,0,0.08,0,1,0,0,7,0,0,0,24,1,0,0,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Luca Nolli,D,Milan U20,90,6.3,0,0,0.04,0.13,1,1,0,37,2,0,0,50,1,0,1,7,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,David Bonacina,F,Torino U20,43,6.6,0,0,0.06,0,1,0,0,16,0,0,0,26,1,0,1,6,1,2,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Gabriele Falasca,F,Torino U20,90,6.5,0,0,0.1,0,1,1,0,12,0,0,0,19,0,0,0,4,0,0,0,0,2,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Manuel Carrascosa,D,Torino U20,90,5.8,0,0,0,0,0,0,0,58,0,0,0,75,0,0,2,1,1,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Maiga-Hamadoun Cisse,M,Milan U20,86,6.1,0,0,0.02,0,1,0,0,51,0,0,0,60,0,0,0,8,2,1,2,1,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Francesco Cereser,G,Torino U20,90,6.2,0,0,0,0,0,0,0,36,0,0,0,41,0,0,3,0,1,0,0,0,0,4
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Riccardo Grassini,M,Milan U20,5,6.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Matteo Geroli,M,Milan U20,85,6.5,0,0,0,0,0,0,0,47,0,0,0,61,0,0,0,3,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Alessio Catalano,G,Milan U20,90,6.4,0,0,0,0,0,0,0,44,0,0,0,53,0,0,0,0,0,0,0,0,0,5
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Andrea Ballanti,M,Torino U20,63,6.4,0,0,0,0,0,0,0,27,0,0,0,38,0,0,1,6,1,4,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Yanis Messaoudi,D,Milan U20,90,6.5,0,1,0,0,0,0,0,48,0,0,0,64,1,0,2,4,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Milan U20 vs Torino U20,24/08/2026,Kenjy Malidor,F,Torino U20,1,,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Denis Șandro,F,Sassuolo U20,7,6.5,0,0,0.06,0.06,1,1,0,2,1,0,0,6,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Sonosi Daldum,F,Sassuolo U20,23,6.5,0,0,0.01,0,1,0,0,12,0,0,0,20,2,0,0,2,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,David Weiss,M,Sassuolo U20,67,6.5,0,0,0,0.14,0,0,0,35,1,0,0,39,0,0,0,5,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Davide Balduzzi,M,Parma U20,90,8.3,1,2,0.2,0,1,1,0,19,0,0,0,34,0,0,1,1,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Giovanni Chiricallo,F,Sassuolo U20,71,6.1,0,0,0.02,0,3,0,0,9,0,0,0,21,0,0,1,2,2,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Karlo Pajsar,D,Parma U20,90,7.5,0,0,0.12,0.15,2,1,0,43,1,0,0,63,0,0,0,7,1,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Andrea Mussini,M,Sassuolo U20,90,6.5,0,0,0.11,0.17,3,0,0,92,2,0,0,113,2,0,1,4,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Andrea Campani,D,Sassuolo U20,90,5.8,0,0,0,0.01,0,0,0,35,1,0,0,39,1,0,1,7,0,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Ianis Avramescu,M,Parma U20,64,6.5,0,0,0.16,0,2,1,0,16,0,0,0,23,0,0,0,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Cristian Acatullo,M,Sassuolo U20,23,6.4,0,0,0.01,0,1,0,0,25,0,0,0,33,0,0,0,1,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Rareș Coman,M,Sassuolo U20,19,6.7,0,0,0,0,0,0,0,29,0,0,0,39,0,0,0,3,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Ludovico Varali,D,Parma U20,90,7.5,0,0,0,0,0,0,0,17,0,0,0,28,0,0,2,7,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Andrija Burcar,F,Parma U20,46,6.7,0,0,0,0,0,0,0,7,0,0,0,19,2,0,0,4,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Ryan Hartley,D,Parma U20,58,7.2,0,0,0.06,0,1,1,0,21,0,0,0,28,1,0,1,8,1,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Samuele Liberali,M,Sassuolo U20,71,6.1,0,0,0.27,0.01,4,0,0,48,1,0,0,67,1,0,2,3,1,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Gabriele Casentini,G,Parma U20,90,8.2,0,0,0,0,0,0,0,28,0,0,0,31,0,0,0,0,0,0,0,0,0,4
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Filippo Alinovi,F,Parma U20,44,7.3,1,0,0.44,0,3,3,0,11,0,0,0,23,2,0,1,5,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Giorgio Chimezie,M,Parma U20,79,6.8,0,1,0,0.2,0,0,0,25,1,0,0,44,0,0,1,7,1,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Vittorio Tognaccini,D,Parma U20,11,6.8,0,0,0,0,0,0,0,3,0,0,0,5,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Omar Barry,F,Sassuolo U20,67,6,0,0,0.01,0.02,1,1,0,24,1,0,0,45,0,0,0,8,3,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Luca Lungu,G,Sassuolo U20,90,6.8,0,0,0,0,0,0,0,6,0,0,0,6,0,0,0,0,0,0,0,0,0,7
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Iustin Cornescu,M,Sassuolo U20,83,6.3,0,0,0.42,0.01,4,1,0,43,1,0,0,71,0,0,0,6,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Doro Diop,M,Parma U20,90,7,0,0,0,0,0,0,0,23,0,0,0,37,0,0,1,8,1,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Fabio Schreiber,D,Parma U20,32,7.2,1,0,0.8,0,1,1,0,8,0,0,0,14,0,0,0,2,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Afonso Semedo,F,Parma U20,44,7.9,1,0,0.48,0.18,3,2,0,10,1,0,0,27,0,0,0,4,2,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Arona Ndiaye,D,Sassuolo U20,90,5.7,0,0,0,0,1,0,0,77,0,0,0,109,0,0,6,8,3,2,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Serigne Fallou Diagne,D,Parma U20,46,6.6,0,0,0,0,0,0,0,9,0,0,0,22,0,0,0,6,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Andrea Brizi,M,Parma U20,90,7.2,0,0,0.24,0,2,1,0,18,0,0,0,29,0,0,0,10,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Christian  Gianelli,D,Sassuolo U20,90,6.2,0,0,0.08,0,1,0,0,43,0,0,0,54,0,0,0,6,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Matteo  Merzi,D,Sassuolo U20,90,5.5,0,0,0.17,0,1,0,0,60,0,0,0,74,0,0,2,5,2,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Luca Scarlato,M,Parma U20,26,6.8,0,0,0,0.12,0,0,0,9,1,0,0,18,2,0,0,4,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Parma U20 vs Sassuolo U20,28/08/2026,Owen Nti Boateng,F,Sassuolo U20,19,6.9,0,0,0.1,0.05,2,1,0,8,2,0,0,20,2,0,0,4,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Ernesto Perin,M,Empoli U20,80,6.2,0,0,0.08,0.35,1,0,0,26,4,0,0,33,0,0,1,2,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Mattia Huqi,M,Empoli U20,90,6.9,0,0,0.01,0,1,0,0,26,0,0,0,46,0,0,1,14,0,5,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Dawid Bembnista,D,Empoli U20,90,6.1,0,0,0.03,0,2,0,0,54,0,0,0,67,0,0,2,5,3,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Andrea Orlandi,F,Empoli U20,74,7.2,1,0,0.46,0,3,2,0,21,1,0,0,37,0,0,3,3,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Roberto Berizzi,D,Empoli U20,46,6.4,0,0,0,0,1,0,0,10,0,0,0,19,0,0,1,3,3,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Nicola Mazzi,M,Empoli U20,90,6,0,0,0,0,0,0,0,24,0,0,0,33,0,0,0,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Riccardo Vettore,G,Empoli U20,90,6.2,0,0,0,0,0,0,0,25,0,0,0,28,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Tommaso Rugani,D,Empoli U20,90,7.1,0,1,0,0,0,0,0,32,0,0,0,42,0,0,3,5,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Edoardo Evangelista,D,Inter U20,27,6.3,0,0,0,0,0,0,0,20,0,0,0,25,0,0,1,3,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Matteo Farronato,G,Inter U20,90,6.2,0,0,0,0,0,0,0,16,0,0,0,19,0,0,0,0,0,0,0,0,0,2
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Lorenzo Puricelli,D,Inter U20,90,6.5,0,0,0,0,0,0,0,64,0,0,0,86,0,0,5,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Thomas Matarrese,F,Inter U20,15,6.4,0,0,0,0,0,0,0,8,0,0,0,10,0,0,0,3,0,0,0,0,2,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Alen Vukaj,F,Inter U20,27,6.6,0,0,0,0.13,0,0,0,8,1,0,0,21,1,0,1,4,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Anas El Mahboubi,F,Inter U20,63,6.7,0,0,0.13,0,1,0,0,12,0,0,0,30,3,0,1,9,0,4,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Gianmarco Angiolini,M,Empoli U20,16,6.8,0,0,0,0.02,0,0,0,9,2,0,0,12,0,0,0,1,1,0,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Diego Antonini,D,Empoli U20,90,6.2,0,0,0,0.01,0,0,0,28,1,0,0,35,0,0,0,5,4,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Giovanni D'Agostino,M,Inter U20,90,7.2,0,0,0.13,0,1,0,0,40,0,0,0,58,2,0,1,9,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Pietro La Torre,M,Inter U20,90,7.5,0,0,0,0,0,0,0,57,0,0,0,79,0,0,1,12,0,4,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Florijan Mežnar,F,Empoli U20,16,6.2,0,0,0.01,0,1,0,0,4,0,0,0,8,0,0,0,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Cristian Breda,D,Inter U20,90,6.7,0,0,0,0,0,0,0,54,0,0,0,75,0,0,3,7,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Dominik Kartelo,M,Inter U20,4,6.5,0,0,0,0,0,0,0,9,0,0,0,12,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Marco Virtuani,M,Inter U20,86,6.8,0,1,0.09,0.15,1,0,1,28,1,0,0,41,0,0,0,4,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Lamberto Peletti,D,Inter U20,63,7,1,0,0.27,0,1,1,0,43,0,0,0,55,0,0,0,4,2,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Cristian Carrara,F,Inter U20,75,7.6,1,0,0.42,0,2,1,0,9,0,0,0,21,0,0,0,4,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Marco Grisoni Fasana,F,Inter U20,15,6.8,0,0,0,0,0,0,0,4,0,0,0,5,0,0,0,3,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Mirko  Franchi,F,Inter U20,75,6.1,0,0,0.14,0,2,0,0,29,0,0,0,49,2,0,0,5,5,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Nicolo  Moranduzzo,D,Inter U20,90,6.8,0,1,0,0.53,0,0,0,48,2,0,0,61,3,0,2,9,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Fabio Bruno,M,Empoli U20,10,7.4,1,0,0.28,0,2,1,0,7,0,0,0,10,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Alan Orlandi,M,Empoli U20,74,6,0,0,0.21,0,2,1,0,9,0,0,0,16,0,0,0,4,2,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Giulio Pucci,F,Empoli U20,5,6.5,0,1,0,0.22,0,0,0,3,1,0,0,4,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Michele Mureddu,M,Empoli U20,85,6.7,0,0,0.14,0,1,0,0,21,0,0,0,46,1,0,3,16,1,4,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Inter U20 vs Empoli U20,29/08/2026,Babalola Samsondeen,D,Empoli U20,44,7.3,0,0,0.02,0.2,1,0,0,20,3,0,0,38,1,0,1,10,1,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Adam Sosna,F,Juventus U20,90,6.8,0,0,0.07,0.24,1,1,0,23,1,0,0,44,2,0,1,7,1,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Filippo Bellino,M,Juventus U20,23,6.9,0,0,0,0,0,0,0,7,0,0,0,16,1,0,0,5,1,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Samuele Pisati,F,Como U20,76,6.5,0,0,1.65,0.08,4,1,0,21,1,0,3,44,2,0,0,9,1,2,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Davide Zamagni,M,Como U20,6,6.6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Edoardo Vallana,M,Juventus U20,44,7.1,0,0,0.11,0,1,0,0,33,0,0,0,51,2,0,2,8,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Idris Amara Sylla,M,Juventus U20,46,6.3,0,0,0,0,0,0,0,21,0,0,0,33,1,0,3,2,3,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Nicolò Milia,M,Juventus U20,90,6.9,0,0,0,0.15,0,0,0,59,1,0,0,86,1,0,4,7,4,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Iván López Comellas,F,Juventus U20,46,6.6,0,0,0,0,0,0,0,11,0,0,0,17,0,0,1,6,0,0,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Daniel Okolo,F,Juventus U20,44,6.1,0,0,0.22,0,2,0,0,8,0,0,0,20,1,0,0,2,1,0,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Raffaele Huli,G,Juventus U20,90,10,0,0,0,0,0,0,0,46,0,0,0,52,0,0,0,0,0,0,0,0,0,8
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Francesco Andrealli,M,Como U20,28,7,0,0,0,0,0,0,0,15,0,0,0,19,0,0,1,4,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Benit Borasio,D,Juventus U20,90,7.4,0,0,0.01,0,1,0,0,64,0,0,0,93,0,0,3,7,0,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Stefano Precupanu,M,Juventus U20,90,7,0,0,0,0,0,0,0,38,0,0,0,56,1,0,3,8,0,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Mattia Damioli,G,Como U20,90,7,0,0,0,0,0,0,0,31,0,0,0,33,0,0,1,1,0,0,0,0,0,1
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Alessio Baralla,M,Como U20,90,7.9,0,0,0.07,0.01,4,1,0,44,2,0,0,69,0,0,0,6,0,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Cristiano De Paoli,D,Como U20,90,6.8,0,0,0,0,0,0,0,47,0,0,0,63,0,0,1,5,1,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Achille Tigano,F,Como U20,90,7.2,0,0,0.58,0.52,4,0,0,17,1,1,0,43,5,0,2,10,3,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Riccardo Cassano,F,Como U20,62,7.2,0,0,0.06,0.07,1,0,0,39,2,0,0,52,1,0,1,8,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Lorenzo de Paula,D,Como U20,6,7,0,0,0.09,0,2,2,0,6,0,0,0,11,0,0,0,2,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Maxime De Brul,D,Juventus U20,44,6.9,0,0,0,0,0,0,0,22,0,0,0,27,1,1,1,5,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Gabriel Repciuc,M,Juventus U20,67,6.7,0,0,0,0,0,0,0,20,0,0,0,38,0,0,0,8,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Luca Bracco,F,Juventus U20,13,6.4,0,0,0,0,0,0,0,4,0,0,0,8,0,0,0,1,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Louis Reynaud,D,Juventus U20,90,7.4,0,0,0,0,0,0,0,54,0,0,0,70,0,0,2,5,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Léo Bamballi,D,Juventus U20,46,6,0,0,0,0,0,0,0,27,0,0,0,38,0,0,0,3,1,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Robin Thiland-Herard,F,Como U20,84,7.1,0,0,0.88,0.21,3,2,0,10,1,0,2,23,1,0,0,6,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Almamy Soumah,D,Como U20,84,7.1,0,0,0,0,0,0,0,55,0,0,0,69,0,0,2,6,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Lorenzo Bonsignori,F,Como U20,84,6.4,0,0,0.14,0.08,3,0,0,35,1,0,0,54,2,0,1,8,2,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Ettore Broggian,F,Como U20,90,7.1,0,0,0.09,0,2,1,0,29,0,0,0,55,4,0,2,10,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Federico Grilli,D,Como U20,90,7.3,0,0,0.01,0,1,1,0,46,0,0,0,53,0,0,0,9,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Fabio Ronchetti,D,Como U20,6,6.5,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,0,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Andrea  Ballone,M,Como U20,14,6.2,0,0,0,0,0,0,0,6,0,0,0,11,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Como U20 vs Juventus U20,29/08/2026,Dembara Sall Samb,F,Juventus U20,77,6.3,0,0,0.67,0.07,3,0,0,13,1,0,1,33,1,0,1,8,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Federico Marrone,M,Atalanta U20,12,6.8,0,0,0.2,0,1,0,0,4,0,0,0,11,0,0,0,3,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Niccolò Gariani,M,Atalanta U20,59,6.8,0,0,0.09,0,1,0,0,20,0,0,0,26,0,0,2,5,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Dion Cakolli,F,Atalanta U20,78,6.8,0,0,0.16,0,2,0,0,14,0,0,0,37,3,0,0,8,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Alessandro Di Nunzio,M,Roma U20,90,6.7,0,0,0.39,0.1,3,0,0,60,3,0,1,80,0,1,2,8,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Cristian Cama,D,Roma U20,90,6.6,0,0,0,0.04,0,0,0,49,1,0,0,64,1,0,0,7,1,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Francesco Gasparello,M,Atalanta U20,31,6.4,0,0,0,0,0,0,0,15,0,0,0,24,1,0,2,4,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Tommaso Marchetti,D,Roma U20,42,6.3,0,0,0.01,0.01,1,0,0,25,2,0,0,39,0,0,2,4,1,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Francesco Panico,M,Roma U20,25,7.1,0,0,0.09,0.34,1,0,0,22,2,0,0,31,2,0,0,3,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Giovanni Zanatta,M,Atalanta U20,31,6.5,0,0,0,0.01,0,0,0,12,1,0,0,22,0,0,2,1,1,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Marcello Fugazzola,F,Atalanta U20,59,6.9,0,0,0.19,0.36,2,1,0,15,2,0,0,28,1,0,0,6,1,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Antonio Arena,F,Roma U20,90,7.2,1,1,0.59,0.1,1,1,0,26,1,0,0,49,1,0,1,8,1,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Isaac Isoa,D,Atalanta U20,90,6,0,1,0,0.19,0,0,0,33,1,0,0,44,0,0,1,7,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Samuele Carlaccini,M,Roma U20,37,6.6,0,0,0,0,0,0,0,16,0,0,0,24,0,0,0,3,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Federico Terlizzi,D,Roma U20,90,8,0,2,0.01,0.62,1,0,0,46,2,1,0,68,1,0,2,8,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Giacomo Arduini,M,Roma U20,65,7.4,0,0,0.02,0,2,0,0,30,0,0,0,52,2,0,0,9,2,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Jegors Olijars,F,Atalanta U20,12,6.6,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Matteo Colombo,M,Atalanta U20,81,6.7,0,0,0.35,0,2,2,0,40,1,0,0,58,0,0,0,7,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Raul Cojocariu,D,Atalanta U20,90,7.3,1,0,0.19,0,1,1,0,30,0,0,0,44,0,0,2,5,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Edoardo Morucci,F,Roma U20,78,8,1,0,0.63,0,2,1,0,20,0,0,1,33,0,0,0,10,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Valerio Maccaroni,M,Roma U20,12,7,0,0,0,0,0,0,0,12,0,0,0,19,0,0,0,4,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Pietro Teixeira Falcetta,M,Roma U20,78,8.5,1,0,0.1,0.53,3,2,0,29,1,1,0,42,3,0,0,4,1,0,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Levente Kilvinger,G,Roma U20,90,7.1,0,0,0,0,0,0,0,25,0,0,0,28,0,0,0,0,0,0,0,0,0,5
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Mattia Aliprandi,M,Atalanta U20,78,6.1,0,0,0.06,0.15,1,1,0,15,1,0,0,27,1,0,1,5,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Marco Leandri,M,Atalanta U20,90,6.3,0,0,0.01,0,1,0,0,33,1,0,0,53,4,1,2,9,1,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Giovanni Percassi,M,Atalanta U20,90,6.3,0,0,0.02,0,1,0,0,40,0,0,0,73,2,0,2,10,1,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Mandjou Camara,F,Roma U20,12,6.1,0,0,0.21,0,2,0,0,4,0,0,0,19,2,0,1,3,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Lance Toutanji,F,Roma U20,90,6.5,0,0,0,0,0,0,0,42,0,0,0,57,0,0,3,6,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Matteo Davide Villa,G,Atalanta U20,90,5.7,0,0,0,0,0,0,0,30,0,0,0,34,0,0,0,0,0,0,0,0,0,1
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Filippo Basile,D,Roma U20,53,5.3,0,0,0.01,0,1,0,0,28,0,0,0,36,0,0,2,6,3,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Andrea Frascolla,F,Atalanta U20,9,6.7,0,0,0,0.2,0,0,0,3,1,0,0,10,0,0,0,2,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Mirko Loreti,M,Roma U20,48,6.7,0,0,0,0,0,0,0,24,0,0,0,33,0,0,0,7,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Atalanta U20 vs Roma U20,30/08/2026,Adriano  Ciapini,F,Atalanta U20,90,6.8,0,0,0.14,0.11,2,1,1,13,1,0,0,41,3,0,0,9,1,4,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Plamen Penev,G,Lecce U20,90,6.6,0,0,0,0,0,0,0,31,0,0,0,37,0,0,0,0,0,0,0,0,0,6
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Zalan Kugyela,M,Torino U20,90,6.6,0,1,0.05,0.22,3,1,0,44,2,0,0,64,1,0,4,5,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Daniel Tonica,D,Torino U20,90,7.3,1,0,0.89,0,1,1,0,73,0,0,0,110,0,1,3,6,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Filippo Conzato,M,Torino U20,90,7.7,1,0,0.62,0,4,3,0,27,1,0,0,56,3,0,1,6,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Manuel Scacchi,M,Torino U20,44,6.3,0,0,0.09,0,2,1,0,14,0,0,0,25,0,0,1,1,1,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Kenny Liema Olinga,M,Torino U20,46,6.1,0,0,0,0,0,0,0,38,0,0,0,52,0,1,0,2,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Tommaso Gatto,D,Torino U20,90,4.9,0,0,0,0,1,0,0,36,0,0,0,54,0,0,1,4,2,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Divine Onyemachi,F,Lecce U20,89,7.4,0,0,0.5,0.12,3,0,0,17,2,0,1,34,2,0,1,7,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Walid El Bouradi,M,Lecce U20,16,6.7,0,0,0.01,0.06,1,0,0,10,1,0,0,15,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Jarne Flies,M,Lecce U20,90,6.6,1,0,0.44,0,4,2,0,29,0,0,0,39,0,0,0,10,3,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Cristiano Palamarchuk,D,Lecce U20,90,6.3,0,0,0,0.07,0,0,0,22,1,0,0,31,0,0,0,9,1,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Emanuele Persano,F,Lecce U20,16,5.6,0,0,0.21,0,2,1,0,7,0,0,0,15,0,0,0,0,1,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Roko Lerga,M,Lecce U20,33,6.5,0,0,0,0,0,0,0,15,0,0,0,20,0,0,1,2,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Alex Roda,M,Torino U20,4,6.6,0,0,0,0,0,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Pasquale Esposito,F,Lecce U20,90,6.1,0,0,0.21,0,3,2,0,17,0,0,0,40,0,0,0,6,5,2,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Lorenzo Ferraris,M,Torino U20,46,7.4,1,0,0.76,0.12,1,1,0,11,1,0,0,18,0,0,2,2,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Nemanja Milojević,M,Lecce U20,1,,0,0,0.09,0.19,1,1,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Aaron Tchamda,M,Torino U20,44,6.5,0,0,0.02,0,1,0,0,27,0,0,0,38,0,0,0,3,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Nicola Russo,M,Torino U20,44,6.1,0,0,0,0,0,0,0,5,0,0,0,17,0,0,0,3,2,2,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Lorenzo Befani,M,Torino U20,61,6.3,0,0,0,0.1,1,1,0,15,1,0,0,27,0,1,0,2,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Emil Larsen,D,Lecce U20,90,6.1,0,0,0.04,0.03,1,0,0,21,1,0,0,29,0,0,3,8,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Alessandro Di Pasquale,M,Lecce U20,90,7.3,1,1,0.87,0.24,2,1,0,21,1,0,0,34,0,0,2,2,3,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Francesco Longo,D,Lecce U20,90,6.4,0,0,0,0,0,0,0,23,0,0,0,32,0,0,2,9,1,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,David Bonacina,F,Torino U20,29,6.6,0,0,0.03,0,1,1,0,8,0,0,0,19,0,0,0,3,0,2,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Gabriele Falasca,F,Torino U20,46,6.5,0,0,0,0,0,0,0,10,0,0,0,15,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Manuel Carrascosa,D,Torino U20,90,7,0,0,0,0,0,0,0,84,1,0,0,121,0,0,3,7,1,4,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Andrea Gabriele Dorigo,G,Torino U20,90,7.7,0,0,0,0,0,0,0,34,0,0,0,35,0,0,0,0,0,0,0,0,0,7
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Ismael Dabo,D,Lecce U20,74,6.4,0,0,0,0,0,0,0,14,0,0,0,23,0,0,2,10,0,0,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Andrea Ballanti,M,Torino U20,86,5.9,0,0,0.12,0,1,0,0,33,0,0,0,50,0,0,2,6,1,4,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Andrej Zovko,M,Lecce U20,57,6.9,0,0,0.23,0,1,0,0,16,0,0,0,23,0,0,2,2,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Torino U20 vs Lecce U20,30/08/2026,Leopoldo Vitale,M,Lecce U20,74,8.3,1,0,1.12,0,5,3,0,11,0,0,1,27,1,0,0,7,0,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Atanas Kehayov,G,Cagliari U20,90,8.1,0,0,0,0,0,0,0,40,0,0,0,44,0,0,0,0,1,0,0,0,0,5
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Andrei Toroc,M,Bologna U20,90,8.9,1,0,0.53,0.51,2,1,0,43,4,0,0,71,5,0,0,11,1,4,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Alessandro De Luca,D,Bologna U20,90,7,0,0,0.13,0,2,0,0,31,0,0,0,41,0,0,4,5,1,0,0,0,2,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Nicola Grandu,D,Cagliari U20,90,6.5,0,0,0,0.16,1,0,0,38,1,0,0,56,2,0,1,6,1,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Luca Tronci,M,Cagliari U20,90,6.9,0,0,0.25,0.01,3,0,0,61,1,0,0,87,4,0,1,12,2,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Alessandro Sugamele,F,Cagliari U20,90,7.8,1,0,0.24,0,3,1,0,15,2,0,0,49,1,0,0,8,0,1,0,0,2,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Luca Costa,F,Cagliari U20,10,6.8,0,0,0.47,0,1,1,0,6,0,0,1,12,0,0,0,2,2,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Francesco Castaldo,F,Bologna U20,1,,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Simone Negri,M,Bologna U20,89,7.5,1,0,0.08,0.02,2,1,0,26,2,0,0,42,1,0,0,7,1,2,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Kwesi Badori,M,Bologna U20,90,5.8,0,0,0.33,0,2,0,0,45,1,0,0,55,0,0,4,0,6,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Leos Tupec,D,Bologna U20,90,6.3,0,0,0,0,0,0,0,29,0,0,0,34,0,0,5,5,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Ali Jaber,D,Bologna U20,89,7.3,0,0,0,0.14,0,0,0,42,2,0,0,52,0,0,1,12,2,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Giovanni Baldini,M,Bologna U20,9,6.5,0,0,0,0,0,0,0,10,0,0,0,14,0,0,1,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Kristiyan Goryanov,M,Cagliari U20,80,6.2,0,0,0,0.18,0,0,0,47,1,0,0,61,2,0,1,9,3,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Luka Kušić,M,Bologna U20,18,6.2,0,0,0.41,0,2,0,0,3,0,0,1,12,1,0,1,3,1,0,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Jacopo Zanella,M,Bologna U20,72,7.4,0,2,0.2,0.6,6,1,0,27,2,1,0,57,3,0,2,10,1,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Edoardo Trifelli,M,Bologna U20,90,6.6,0,0,0.02,0,2,1,0,29,0,0,0,43,0,0,2,4,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Marton Prettenhoffer,D,Cagliari U20,90,6.7,0,0,0,0,0,0,0,61,0,0,0,82,0,0,4,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Guiseppe Lo Verde,D,Cagliari U20,46,6.2,0,0,0,0,1,0,0,19,0,0,0,27,0,0,0,2,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Andrea Pibiri,M,Cagliari U20,32,6.5,0,0,0,0,0,0,0,29,0,0,0,37,1,0,1,2,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Noham Hamdaoua,F,Cagliari U20,32,6.7,0,0,0,0,0,0,0,14,0,0,0,19,1,0,0,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Besalet Krasniqi,M,Bologna U20,72,7.2,0,1,0.4,1,3,1,0,21,2,2,0,43,1,0,0,8,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Matteo Nuvoli,D,Cagliari U20,90,6.4,0,0,0,0,0,0,0,62,0,0,0,74,0,1,3,6,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Giovanni Andrea Cardu,F,Cagliari U20,58,7.6,0,1,0.37,0,2,2,0,25,0,0,0,49,4,0,0,12,0,4,0,0,2,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Luca Lo Monaco,F,Bologna U20,81,8,1,0,1.95,0.17,5,3,0,21,3,0,1,45,2,0,0,8,0,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Matteo Franceschelli,G,Bologna U20,90,7.7,0,0,0,0,0,0,0,13,0,0,0,13,0,0,0,0,0,0,0,0,0,4
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Samuele Piro,M,Cagliari U20,90,5.7,0,0,0.18,0,1,0,0,38,0,0,0,53,1,0,1,9,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Mouhamed Sow,D,Cagliari U20,58,6,0,0,0.01,0.27,1,1,0,36,1,0,0,45,0,0,1,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Christian Briguglio,D,Bologna U20,1,,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Gian Marco  Pantaleoni,M,Bologna U20,18,6.7,0,0,0,0,0,0,0,13,0,0,0,16,0,0,0,1,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Amine Bahlaouan,D,Cagliari U20,44,6.6,0,0,0,0,0,0,0,33,0,0,0,49,0,0,1,4,0,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cagliari U20 vs Bologna U20,30/08/2026,Mamadou Barry,M,Cagliari U20,1,,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Simone Gianfanti,G,Cesena U20,90,7.1,0,0,0,0,0,0,0,37,0,0,0,47,0,0,0,0,0,0,0,0,0,3
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Matteo Lontani,M,Cesena U20,44,6.6,0,0,0,0,0,0,0,17,0,0,0,25,1,0,0,2,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Edoardo Zanaga,F,Milan U20,43,6.9,0,0,0,0.03,0,0,0,20,1,0,0,31,0,0,1,6,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Matia Zaramella,F,Milan U20,18,6.7,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Thomas Martini,M,Milan U20,2,,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,2,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Andrea Michieletto,F,Cesena U20,57,6.2,0,0,0,0,0,0,0,6,0,0,0,12,0,0,1,2,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Cristiano Dotta,M,Milan U20,47,5.9,0,0,0.23,0,1,0,0,18,0,0,0,32,0,0,0,8,3,2,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Leonardo Colombo,F,Milan U20,72,6.4,0,0,0.11,0,1,0,0,19,0,0,0,35,0,0,0,5,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Lorenzo Calvani,D,Milan U20,2,,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,1,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Francesco Domniței,F,Milan U20,85,6.2,0,0,0.27,0,4,0,0,20,0,0,0,35,0,0,1,4,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Edoardo Tartaglia,D,Milan U20,88,6.6,0,0,0,0,0,0,0,40,0,0,0,51,2,0,1,8,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Filippo Bertaccini,M,Cesena U20,46,7.1,0,1,0,0.16,1,0,0,11,1,0,0,16,0,0,2,3,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Andrea Cullotta,D,Milan U20,90,7.3,0,0,0.12,0.48,2,1,0,88,1,0,0,111,0,0,1,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Mattia Ridolfi,D,Cesena U20,90,7.5,0,0,0,0,0,0,0,53,0,0,0,73,0,0,3,5,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,David Marini,D,Cesena U20,33,6.8,0,0,0,0,0,0,0,17,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Max Anastasio,M,Milan U20,90,5,0,0,0.09,0.24,2,1,0,33,2,0,0,56,0,0,0,4,3,2,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Augusto Antoniacci,D,Cesena U20,57,6.7,0,0,0,0.05,0,0,0,13,2,0,0,28,0,1,4,9,3,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Emilio Amadori,M,Cesena U20,90,8.2,1,0,0.16,0.09,1,1,0,23,1,0,0,37,0,0,1,11,1,3,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Daniele Petrone,F,Milan U20,5,6.7,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,2,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Luca Nolli,D,Milan U20,90,8.2,1,0,0.04,0.35,2,1,0,48,2,0,0,61,0,0,1,7,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Enea Casadei,M,Cesena U20,90,7,0,0,0.05,0.33,3,0,0,26,1,1,0,41,1,0,1,6,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Riccardo Grassini,M,Milan U20,90,6.9,0,1,0.48,0.03,1,1,0,27,2,0,1,38,0,0,0,7,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Matteo Geroli,M,Milan U20,88,7.7,0,0,0.01,0.01,1,0,0,78,1,0,0,104,1,0,2,6,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Alessio Catalano,G,Milan U20,90,7.1,0,0,0,0,0,0,0,38,0,0,0,47,0,0,0,0,0,0,0,0,0,2
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Tommaso Gasperini,D,Cesena U20,90,6.6,0,0,0,0,0,0,0,37,0,0,0,49,0,1,0,2,0,0,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Gabriele Ricci,F,Cesena U20,10,6.2,0,0,0,0,0,0,0,5,0,0,0,9,0,0,0,1,2,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Matteo Casadei,M,Cesena U20,90,6.7,0,0,0.14,0,2,1,0,13,0,0,0,25,1,0,1,6,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Yanis Messaoudi,D,Milan U20,90,6.7,0,0,0,0,0,0,0,67,0,0,0,86,0,0,0,8,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Alessandro Cenerelli,D,Cesena U20,90,5.6,0,0,0.02,0,1,0,0,25,0,0,0,40,0,0,0,6,2,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Riccardo  Frisoni,M,Cesena U20,33,6.8,0,0,0,0,0,0,0,10,0,0,0,16,0,0,0,5,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Cesena U20 vs Milan U20,30/08/2026,Federico Tonti,F,Cesena U20,80,5.8,0,0,0.4,0,2,1,0,13,0,0,1,35,0,0,0,5,3,1,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Arnis Ademi,D,Fiorentina U20,44,6.3,0,0,0,0,0,0,0,9,0,0,0,16,0,0,1,2,3,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Francesco Albertini,D,Hellas Verona U20,90,7.3,0,0,0,0,0,0,0,25,0,0,0,41,0,0,5,9,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Michele De Rossi,M,Hellas Verona U20,71,6.6,0,0,0,0,0,0,0,27,0,0,0,41,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Davide Atzeni,M,Fiorentina U20,30,6.1,0,0,0,0,0,0,0,18,0,0,0,23,0,0,0,4,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Piergiorgio Bonanno,M,Fiorentina U20,90,6.7,0,0,0,0.01,0,0,0,31,1,0,0,45,1,0,0,5,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Niccolò Turnone,D,Fiorentina U20,90,7.1,0,0,0.05,0,2,1,0,61,0,0,0,92,0,0,1,4,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Jacopo Contarini,D,Hellas Verona U20,90,7.1,0,0,0,0.01,0,0,0,28,1,0,0,36,1,0,1,9,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Federico Melani,D,Fiorentina U20,60,7,0,0,0,0,0,0,0,34,0,0,0,42,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Arno Bianchini,M,Fiorentina U20,19,6.5,0,0,0,0,0,0,0,16,0,0,0,23,0,0,1,3,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Jurgen Peci,M,Hellas Verona U20,90,7.2,0,0,0,0.11,1,0,0,32,1,0,0,51,0,0,1,9,0,4,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Mevale Kone,M,Hellas Verona U20,30,6.9,0,0,0.11,0,1,1,0,12,0,0,0,29,2,0,0,8,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Alessandro Perrotti,D,Fiorentina U20,46,6,0,0,0.07,0,1,1,0,20,0,0,0,37,0,0,1,3,3,1,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Antonio Pirrò,M,Fiorentina U20,90,6.8,0,0,0.05,0,1,0,0,34,0,0,0,51,1,0,0,6,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Sulayman Jallow,F,Fiorentina U20,90,6.3,0,0,0,0,0,0,0,10,0,0,0,20,0,0,0,4,2,2,0,0,1,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Luca Bisotti,D,Hellas Verona U20,71,6.6,0,0,0.03,0,4,1,0,13,0,0,0,33,0,0,0,7,1,5,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Mattia Magalotti,G,Fiorentina U20,90,6.8,0,0,0,0,0,0,0,20,0,0,0,21,0,0,0,0,0,0,0,0,0,2
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Lorenzo Garofalo,M,Hellas Verona U20,90,6.9,0,0,0.01,0,2,0,1,37,0,0,0,52,1,0,2,5,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Brando Mazzeo,M,Fiorentina U20,90,6.1,0,0,0,0,0,0,0,31,0,0,0,57,2,0,0,8,2,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Arthur Borghi,G,Hellas Verona U20,90,6.3,0,0,0,0,0,0,0,23,0,0,0,30,0,0,0,1,1,0,1,0,0,2
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Alessandro Luchetti,D,Hellas Verona U20,90,7.3,0,0,0,0,0,0,0,30,0,0,0,54,0,0,5,7,0,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Federico Matarán,M,Fiorentina U20,83,6.3,0,0,0,0,0,0,0,31,0,0,0,44,0,0,1,4,0,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Matteo Mussola,M,Hellas Verona U20,60,6,0,0,0,0,0,0,0,13,0,0,0,21,0,0,0,1,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Matko Boskovic,D,Fiorentina U20,30,6.8,0,0,0,0,0,0,0,19,0,0,0,28,0,0,1,6,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Salvatore Cianciulli,M,Fiorentina U20,60,6.9,0,0,0.01,0.07,1,0,0,41,1,0,0,50,0,0,0,3,1,1,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Davide Costa Pisani,D,Hellas Verona U20,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Filippo Cavazza,M,Hellas Verona U20,19,6.5,0,0,0.25,0,2,0,0,14,0,0,0,29,4,0,0,4,1,0,0,1,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Davide Moisa,D,Hellas Verona U20,90,6.7,0,0,0,0,0,0,0,15,0,0,0,27,0,0,2,1,2,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Denis Intrabartolo,M,Hellas Verona U20,19,6.6,0,0,0,0,0,0,0,12,1,0,0,19,0,0,2,1,1,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Robert Corduneanu,D,Fiorentina U20,71,7.2,0,0,0,0,0,0,0,29,0,0,0,45,2,0,2,11,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Mattia  Buniotto,F,Hellas Verona U20,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Francesco  Forza,F,Fiorentina U20,7,6.4,0,0,0,0,0,0,0,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Fiorentina U20 vs Hellas Verona U20,31/08/2026,Mattia Gardin,F,Hellas Verona U20,90,6.2,0,0,0,0,0,0,0,19,0,0,0,35,0,0,0,3,1,2,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Gael Lafont,M,Genoa U20,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Endris Scaramelli,M,Monza U20,71,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Mamedi Doucoure,D,Genoa U20,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Kris Gecaj,D,Genoa U20,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Giovanni Lauricella,M,Genoa U20,59,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Nicolò Tondi,M,Genoa U20,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Nicolo Ballabio,M,Monza U20,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Frederico Stradiotto,D,Genoa U20,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Adam Zulevic,F,Genoa U20,59,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Lorenzo Colonnese,D,Monza U20,76,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Rosindo Zanni,F,Monza U20,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Manuel Villa,D,Monza U20,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Dylan Judelson,M,Genoa U20,9,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Amir Abo Elezz,F,Monza U20,19,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Matteo Gibertini,M,Genoa U20,81,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Francesco Bellone,F,Genoa U20,31,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Mattia Attinasi,M,Monza U20,32,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Gregorio Perego,D,Monza U20,14,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Pietro Baccelli,G,Genoa U20,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Elia Spicuglia,M,Genoa U20,31,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Cristian Galvano,F,Genoa U20,9,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Christian Mariani,M,Monza U20,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Matic Drobnič,D,Monza U20,46,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Giulio Fardin,F,Monza U20,32,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Daniele Ganci,M,Monza U20,58,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Marcelo Vaz,D,Genoa U20,81,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Konstantinos Varesis,D,Monza U20,44,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Mor Kaire Ndao,M,Genoa U20,90,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Dennis Scifo,M,Monza U20,58,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Giuseppe Martone,M,Monza U20,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campionato Primavera 1,Primavera_1_26_27,Monza U20 vs Genoa U20,31/08/2026,Yari Marchini,G,Monza U20,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,219 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Luis Cardozo,D,Recoleta FC,45,6.2,0,0,0,0.0017365,0,0,0,29,0,0,0,34,0,0,0,1,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Enner Valencia,F,Boca Juniors,33,6.3,0,0,0,0.00000109,0,0,0,4,0,0,0,9,0,1,0,2,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Alejandro Silva,M,Recoleta FC,71,6.6,0,0,0,0.0495416,0,0,0,57,1,0,0,69,0,2,1,2,2,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Nicolás Figal,D,Boca Juniors,90,7.3,0,0,0,0.00193422,0,0,0,46,0,0,0,60,0,1,1,2,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Santiago Ascacíbar,M,Boca Juniors,65,7.4,1,0,0.4518,0.00795816,2,1,0,23,2,0,0,33,1,1,0,5,0,2,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Sebastián Villa,F,Boca Juniors,90,7.5,1,0,0.4868,0.0697634,5,3,0,33,3,0,0,56,3,1,2,7,0,2,0,0,1,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Tomás Belmonte,M,Boca Juniors,90,7.1,0,0,0.1317,0.00634499,1,1,0,36,0,0,0,53,3,1,1,8,2,4,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Miguel Merentiel,F,Boca Juniors,57,7.1,1,0,1.1199,0.0125994,3,2,0,18,0,0,1,28,1,0,0,4,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Álvaro Montero,G,Boca Juniors,90,8,0,0,0,0.00066862,0,0,0,26,0,0,0,40,0,0,0,0,0,0,0,0,0,3
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Paul Charpentier,F,Recoleta FC,45,6.6,0,0,0.1594,0.00338425,1,0,0,5,0,0,1,8,0,0,1,0,1,0,0,0,1,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Ayrton Costa,D,Boca Juniors,78,7.2,0,0,0,0.00158234,0,0,0,43,0,0,0,57,0,2,1,5,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Alan Velasco,M,Boca Juniors,45,7.8,1,0,0.491,0.0553985,4,2,0,15,0,0,0,29,3,0,1,5,0,2,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Kevin Zenón,M,Boca Juniors,25,6.7,0,1,0.0378,0.0268008,1,1,0,13,1,0,0,15,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Lautaro Blanco,D,Boca Juniors,90,7.7,0,0,0.0654,0.404003,1,0,0,40,1,1,0,71,0,1,2,1,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Nicolás Marotta,D,Recoleta FC,90,5.8,0,0,0.0883,0.00928892,1,0,0,61,0,0,0,75,0,1,3,4,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Ronal Dominguez,M,Recoleta FC,83,6.6,0,0,0.2372,0.0626794,1,1,0,30,2,0,1,49,1,2,0,3,1,0,1,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Kevin Parzajuk,F,Recoleta FC,83,6.6,0,0,0.0953,0.00388455,1,0,0,17,1,1,1,30,0,0,1,4,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Aldo Gonzalez,M,Recoleta FC,90,6.1,0,0,0.1707,0.0279245,3,0,0,22,0,0,1,44,2,0,1,5,3,1,0,0,1,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Dylan Gorosito,D,Boca Juniors,90,7.1,0,0,0,0.0226426,0,0,0,34,1,0,0,62,2,3,2,6,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Camilo Rey Domenech,M,Boca Juniors,33,6.8,0,0,0,0.00122297,0,0,0,15,0,0,0,25,0,1,3,3,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Fernando Galeano,M,Recoleta FC,10,6.6,0,0,0,0.00957994,0,0,0,8,0,0,0,10,0,2,0,2,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Héctor López,M,Recoleta FC,45,6,0,0,0.1134,0.0415381,3,2,0,18,0,0,0,39,2,0,0,2,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Lucas Monzon,D,Recoleta FC,90,6.2,0,0,0,0.162902,0,0,0,51,2,1,0,72,0,0,1,1,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Milton Delgado,M,Boca Juniors,57,7.1,0,1,0.0365,0.00325286,1,1,0,38,1,1,0,47,1,3,1,4,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Manuel Shupp,M,Recoleta FC,10,6.4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Nelson Ferreira,G,Recoleta FC,90,6.8,0,0,0,0.00228138,0,0,0,50,0,0,0,63,0,0,0,0,0,0,1,0,0,7
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Blas Medina,D,Recoleta FC,45,5.8,0,0,0,0.00255542,0,0,0,11,0,0,0,24,0,1,1,1,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Marcos Pereira,D,Recoleta FC,19,6.3,0,0,0,0.00030443,0,0,0,3,0,0,0,10,0,1,0,1,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Facundo Herrera,D,Boca Juniors,12,7.2,0,0,0,0.00010333,0,0,0,5,0,0,0,11,0,0,0,2,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Tomás Aranda,M,Boca Juniors,45,7.3,0,0,0,0.0975431,0,0,0,31,3,0,0,40,2,1,0,4,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Pedro Rios,D,Recoleta FC,90,7.1,0,0,0,0.0757572,0,0,0,35,0,0,0,57,4,6,1,10,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Recoleta FC vs Boca Juniors,18/08/2026,Jose Espinola,M,Recoleta FC,90,6.2,0,0,0,0.179225,0,0,0,57,1,1,0,68,0,1,0,3,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Rafael,G,São Paulo,90,6.2,0,0,0,0.00298168,0,0,0,24,0,0,0,33,0,1,0,1,0,0,0,0,0,1
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Patricio Rodríguez,F,Bolívar,71,6.5,0,1,0.0234,0.0217254,1,0,0,28,1,0,0,48,0,2,0,5,2,3,1,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Martín Cauteruccio,F,Bolívar,9,6.4,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Carlos Lampe,G,Bolívar,90,7.2,0,0,0,0.00096961,0,0,0,43,0,0,0,47,0,0,0,1,0,0,0,0,0,1
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Luciano,F,São Paulo,80,7.3,1,0,0.188,0.0878191,3,1,1,32,0,0,0,45,0,1,0,2,3,0,1,0,1,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Jonathan Calleri,F,São Paulo,86,7.1,1,0,0.7884,0.272321,1,1,0,22,1,1,0,30,1,0,0,3,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Danielzinho,M,São Paulo,90,7.5,0,1,0,0.16826,0,0,0,48,2,1,0,65,0,3,1,3,1,0,1,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Aurélio Buta,D,São Paulo,72,6.2,0,0,0,0.0064342,0,0,0,26,0,0,0,42,1,1,0,4,3,2,1,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Erwin Saavedra,M,Bolívar,71,6.2,0,0,0,0.00313872,0,0,0,20,0,0,0,24,0,1,0,1,2,0,1,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Domingos Duarte,D,São Paulo,90,7.3,0,0,0,0.00609994,0,0,0,45,0,0,0,58,1,1,1,4,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Santiago Echeverria,D,Bolívar,71,6,0,0,0,0.213537,0,0,0,30,0,0,0,36,0,0,1,2,2,0,1,0,1,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Dairon Asprilla,F,Bolívar,90,7.4,1,0,0.0573,0.027199,2,1,0,13,0,0,0,33,1,0,2,4,3,2,1,0,1,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Lucas Ramon,D,São Paulo,18,6.9,0,0,0,0.00772601,0,0,0,9,0,0,0,16,0,1,2,2,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Victor Sá,M,São Paulo,11,6.3,0,0,0,0.00003425,0,0,0,2,0,0,0,5,0,0,0,0,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,José Sagredo,D,Bolívar,90,6,0,0,0,0.00287773,0,0,0,43,0,0,0,51,0,2,1,3,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Damián Batallini,F,Bolívar,19,6.5,0,0,0,0.014494,0,0,0,10,0,0,0,15,0,0,0,1,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Bruno Miranda,F,Bolívar,9,6.4,0,0,0,0.00054564,0,0,0,2,0,0,0,10,0,1,0,2,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Artur,M,São Paulo,80,7.2,0,1,0.1119,0.213443,1,0,0,25,3,1,1,42,2,1,1,5,0,2,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Xavier Arreaga,D,Bolívar,90,6.2,0,0,0,0.0501649,0,0,0,56,0,0,0,65,1,0,2,4,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Billy Arce,M,Bolívar,19,6.5,0,0,0,0.0435045,0,0,0,12,0,0,0,21,0,0,0,2,0,2,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Iago Borduchi,D,São Paulo,90,7.3,0,0,0.1857,0.0411896,2,1,0,28,1,0,1,52,1,1,1,4,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Carlos Melgar,M,Bolívar,90,7.1,0,0,0.0511,0.0159854,2,1,0,53,1,0,0,68,0,2,0,4,0,2,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Marcos Antônio,M,São Paulo,86,6.7,0,0,0.0368,0.18052,1,0,0,31,1,1,0,45,0,3,2,3,3,0,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,André Silva,F,São Paulo,11,6.4,0,0,0,0.00003522,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Sabino,D,São Paulo,90,7.7,1,0,0.213,0.0114773,2,1,0,39,0,0,0,51,0,2,1,4,2,0,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Ferreirinha,M,São Paulo,10,6.6,0,0,0.0403,0.00135705,1,0,0,7,0,0,0,9,0,0,0,2,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Jesús Sagredo,D,Bolívar,90,6,0,0,0,0.00528631,0,0,0,38,0,0,0,59,1,1,1,2,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Dorny Romero,F,Bolívar,88,6.4,0,0,0,0.00322698,0,0,0,15,0,0,0,27,0,1,1,4,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Pablo Maia,M,São Paulo,10,6.6,0,0,0,0.00380275,0,0,0,6,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Ervin Vaca,M,Bolívar,19,6.6,0,0,0,0.00689318,0,0,0,21,0,0,0,24,0,2,1,2,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Robson Matheus,M,Bolívar,88,6.4,0,0,0,0.0748128,0,0,0,30,1,0,0,48,0,0,0,5,0,5,0,0,0,0
+CONMEBOL Sudamericana,2026,São Paulo vs Bolívar,18/08/2026,Newton,M,São Paulo,90,6.7,0,0,0.0466,0.0117802,1,0,0,57,0,0,0,66,1,0,2,2,3,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Eduardo Sasha,F,Red Bull Bragantino,13,7.2,1,0,0.4393,0.0028357,1,1,0,6,0,0,0,10,0,1,0,1,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Bernard,M,Atlético Mineiro,60,6.7,0,0,0.2011,0.147573,1,1,0,18,1,0,0,32,2,1,0,3,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Pedro Henrique,D,Red Bull Bragantino,90,6.5,0,0,0.0154,0.100868,1,0,0,53,1,1,0,59,0,1,0,2,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Vitor Hugo,D,Atlético Mineiro,90,6.5,0,0,0,0.00640582,0,0,0,33,0,0,0,46,0,2,0,5,0,2,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Alan Franco,M,Atlético Mineiro,84,6.7,0,0,0,0.0091636,0,0,0,25,0,0,0,33,0,2,1,3,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Maycon,M,Atlético Mineiro,90,7.6,1,0,0.156,0.0113103,3,1,0,45,0,0,0,57,0,1,2,2,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Mateo Cassierra,F,Atlético Mineiro,30,6.8,0,0,0,0.0003393,0,0,0,5,0,0,0,11,1,0,0,5,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Cleiton,G,Red Bull Bragantino,90,5.9,0,0,0,0.00091337,0,0,0,33,0,0,0,42,0,0,0,0,0,0,0,0,0,2
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Renan Lodi,D,Atlético Mineiro,90,6.1,0,0,0.0188,0.00788479,1,0,0,32,1,0,0,60,0,0,0,2,2,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Agustin Sant Anna,D,Red Bull Bragantino,90,6.8,0,0,0,0.167094,0,0,0,36,2,0,0,71,0,2,1,3,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Juninho Capixaba,D,Red Bull Bragantino,90,6.1,0,0,0,0.0269806,0,0,0,60,1,0,0,90,0,0,2,3,2,2,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Everson,G,Atlético Mineiro,90,9.5,0,0,0,0.0015572,0,0,0,35,0,0,0,52,0,0,0,1,0,1,0,0,0,7
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Tomás Cuello,M,Atlético Mineiro,90,8.4,1,0,0.117,0.0419659,3,2,0,24,2,0,0,50,4,1,0,8,1,2,1,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Ruan,D,Atlético Mineiro,90,6.7,0,0,0.0461,0.00143744,1,0,0,26,0,0,0,45,0,2,4,6,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Eric Ramires,M,Red Bull Bragantino,86,7.4,1,0,0.4129,0.00779045,2,1,0,39,0,0,0,54,0,1,0,1,0,0,1,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Reinier,M,Atlético Mineiro,60,6.8,0,0,0,0.120195,0,0,0,21,1,0,0,25,0,1,0,2,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Isidro Pitta,F,Red Bull Bragantino,90,6.5,0,0,0.2363,0.126904,3,3,0,23,3,0,1,34,0,0,0,4,3,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Natanael,D,Atlético Mineiro,90,6.6,0,0,0,0.0062532,0,0,0,28,0,0,0,60,0,6,0,8,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Lucas Barbosa,M,Red Bull Bragantino,90,6.2,0,2,0.1958,0.263376,4,1,0,30,3,2,0,58,0,1,0,2,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Fabinho,M,Red Bull Bragantino,11,6.6,0,0,0.03,0.0533953,1,0,0,6,0,0,0,8,0,0,0,1,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Alix Vinicius,D,Red Bull Bragantino,11,6.2,0,0,0,0.00000432,0,0,0,1,0,0,0,4,0,0,0,0,1,0,1,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Alan Minda,F,Atlético Mineiro,30,6.7,0,0,0,0.00028931,0,0,0,2,0,0,0,10,0,0,0,2,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Henry Mosquera,M,Red Bull Bragantino,23,6.5,0,0,0,0.0104476,0,0,0,6,1,0,0,9,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Victor Hugo,M,Atlético Mineiro,89,7.3,0,0,0.1847,0.00688913,1,0,0,28,0,0,0,45,0,2,0,7,0,2,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Gustavo Marques,D,Red Bull Bragantino,90,6.8,0,0,0.0189,0.0165074,1,1,0,71,1,0,0,80,0,0,2,5,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,José Herrera,M,Red Bull Bragantino,77,7.1,0,0,0.101,0.0169578,2,1,0,16,2,0,0,36,4,1,1,7,2,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Rodriguinho,M,Red Bull Bragantino,86,6.5,0,0,0.1219,0.0699639,3,1,0,23,0,0,0,37,0,0,0,0,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Vinicinho,F,Red Bull Bragantino,67,5.9,0,0,0,0.00780211,0,0,0,12,0,0,0,23,0,0,0,0,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Mamady Cissé,M,Atlético Mineiro,13,6.6,0,0,0.0455,0.00084778,1,0,0,3,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Atlético Mineiro vs Red Bull Bragantino,19/08/2026,Vitão,D,Atlético Mineiro,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Gary Kagelmacher,D,Montevideo City Torque,90,6.3,0,0,0,0.0014234,0,0,0,16,0,0,0,27,0,2,0,4,3,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Franco Torgnascioli,G,Montevideo City Torque,90,6.7,0,0,0,0.00095522,0,0,0,27,0,0,0,43,0,0,0,0,0,0,0,0,0,2
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Federico Álvarez,D,Tigre,45,6.7,0,0,0.0354,0.00484705,1,0,0,23,0,0,0,40,0,2,1,4,2,2,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Franco Pizzichillo,M,Montevideo City Torque,85,7.6,0,1,0,0.170799,0,0,0,26,2,1,0,44,1,2,0,6,0,2,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Joaquín Laso,D,Tigre,61,6.5,0,0,0,0.0180325,0,0,0,51,1,0,0,65,0,0,6,0,1,0,1,0,1,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Jalil Elias,M,Tigre,90,6.8,0,0,0.0075,0.0185551,1,0,0,58,0,0,0,80,1,5,1,7,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Facundo Silvera,D,Montevideo City Torque,90,6.8,0,0,0.0638,0.0173593,3,0,0,45,1,0,0,75,0,4,1,6,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Gonzalo Montes,M,Montevideo City Torque,80,6.6,0,0,0.0665,0.0218893,2,1,0,44,0,0,0,57,0,2,1,4,1,1,1,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Pablo Siles,M,Montevideo City Torque,90,7.2,0,0,0,0.0234279,0,0,0,54,1,0,0,69,2,1,0,4,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Ezequiel Busquets,D,Montevideo City Torque,65,6.4,0,0,0,0.0103892,0,0,0,23,0,0,0,41,0,2,0,3,2,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Mauro Méndez,F,Tigre,61,6.1,0,0,0.139,0.0184798,2,0,0,13,1,0,0,31,1,0,0,5,1,2,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Felipe Zenobio,G,Tigre,90,6,0,0,0,0.00105974,0,0,0,35,0,0,0,47,0,0,0,0,0,0,0,0,0,2
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Martín Garay,M,Tigre,90,6.8,0,0,0.0266,0.0244809,1,0,0,74,1,0,0,97,0,1,1,3,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Nahuel Banegas,D,Tigre,46,5.1,0,0,0,0.0582065,0,0,0,20,0,0,0,35,0,0,0,2,2,0,0,1,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Salomón Rodríguez,F,Montevideo City Torque,90,8.3,2,0,1.2365,0.00735247,2,2,0,20,1,0,0,36,0,2,0,5,0,0,0,0,2,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Esteban Obregón,F,Montevideo City Torque,90,7.2,0,0,0.0458,0.0221632,3,1,0,20,0,0,0,42,1,2,3,10,1,3,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Ignacio Russo,F,Tigre,90,6.6,0,0,0.1214,0.278134,4,1,0,18,1,0,0,39,0,1,0,7,0,2,0,0,1,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Alan Barrionuevo,D,Tigre,90,6.8,0,0,0,0.0213085,0,0,0,68,1,0,0,83,1,1,1,7,0,0,1,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Kevin Silva,D,Montevideo City Torque,90,6.5,0,0,0,0.0006187,0,0,0,32,0,0,0,42,0,0,1,4,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Eduardo Agüero,D,Montevideo City Torque,90,6.7,0,0,0,0.0292571,0,0,0,33,1,0,0,60,0,5,3,7,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Jabes Saralegui,M,Tigre,45,6.2,0,0,0.0485,0.0174378,1,0,0,12,1,0,0,20,0,0,0,1,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Ian Subiabre,F,Tigre,29,6.6,0,0,0,0.0134319,0,0,0,11,2,0,0,28,4,1,1,6,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Santiago López,M,Tigre,78,6.2,0,0,0.0483,0.051856,2,0,0,24,0,0,0,58,3,1,1,6,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Juan Villalba,D,Tigre,29,6.6,0,0,0,0.00226263,0,0,0,15,0,0,0,19,0,0,2,0,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Valentín Moreno,D,Tigre,61,7.1,1,0,0.1144,0.106984,1,1,0,22,3,0,0,35,0,0,0,0,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Santiago González,M,Tigre,29,6.5,0,0,0.0654,0.0465635,3,1,0,16,1,0,0,28,0,0,0,0,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Diogo Guzmán,M,Montevideo City Torque,25,6.5,0,0,0.0185,0.0009458,1,0,0,11,0,0,0,20,0,1,0,2,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Tiago Serrago,M,Tigre,12,6.6,0,0,0,0.00780057,0,0,0,9,0,0,0,13,0,0,1,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,José Tarán,D,Montevideo City Torque,11,6.8,0,0,0,0.00231197,0,0,0,6,0,0,0,9,0,1,0,2,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Montevideo City Torque vs Tigre,19/08/2026,Luka Andrade,F,Montevideo City Torque,10,6.3,0,0,0,0.00034557,0,0,0,2,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Raúl Cáceres,D,Olimpia,90,6.1,0,0,0,0.02889,0,0,0,39,1,0,0,77,0,4,1,5,0,0,0,0,1,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Thiago Mendes,M,Vasco da Gama,90,8.8,1,1,0.5041,0.0714901,2,1,0,47,3,0,0,61,2,1,1,4,0,0,1,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Gastón Olveira,G,Olimpia,90,7.9,0,0,0,0.00252114,0,0,0,19,0,0,0,29,0,0,0,0,0,0,0,0,0,5
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Léo Jardim,G,Vasco da Gama,90,8.5,0,0,0,0.00118294,0,0,0,31,0,0,0,52,0,0,0,1,0,1,0,0,0,6
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Braian Romero,F,Olimpia,63,6.5,0,0,0.1885,0.00020165,3,1,0,7,0,0,1,16,0,1,0,4,0,0,0,0,1,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Sebastián Ferreira,F,Olimpia,27,6.4,0,0,0.0134,0.00702233,1,0,0,7,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Carlos Cuesta,D,Vasco da Gama,90,6.8,0,0,0,0.00047619,0,0,0,25,0,0,0,35,0,2,1,8,1,0,1,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,David,F,Vasco da Gama,79,7.1,1,1,0.8834,0.131335,3,1,0,21,3,1,0,35,0,0,0,4,0,0,0,0,1,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Tchê Tchê,M,Vasco da Gama,27,6.6,0,0,0,0.0113451,0,0,0,11,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Nuno Moreira,M,Vasco da Gama,11,6.8,0,0,0,0.0123732,0,0,0,5,1,0,0,10,0,2,0,2,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Claudio Spinelli,F,Vasco da Gama,11,7.3,1,0,0.2859,0.0000457,3,2,0,2,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Brayan Bentaberry,D,Olimpia,80,6.6,0,0,0,0.0275692,0,0,0,62,0,0,0,79,1,2,3,4,0,1,1,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Puma Rodríguez,D,Vasco da Gama,90,8.5,0,2,0.0384,0.829683,1,0,0,29,3,2,0,53,0,0,1,6,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Fernando Cardozo,M,Olimpia,55,6.3,0,0,0.0531,0.0259149,2,0,0,20,1,1,0,43,0,2,1,6,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Richard Sánchez,M,Olimpia,90,6.6,0,0,0,0.377852,0,0,0,47,2,1,0,63,0,2,1,2,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Hugo Sandoval,F,Olimpia,35,6.1,0,0,0,0.0344749,0,0,0,9,2,0,0,12,0,0,0,1,3,0,1,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Alex Franco,M,Olimpia,10,6.4,0,0,0,0.00042972,0,0,0,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Paulo Henrique,D,Vasco da Gama,9,6.5,0,0,0,0.00045,0,0,0,3,0,0,0,4,0,0,0,0,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Gustavo Vargas,D,Olimpia,10,6.6,0,0,0,0.0115627,0,0,0,14,0,0,0,17,0,0,0,1,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Lucas Freitas,D,Vasco da Gama,9,6.7,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,1,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Mateo Gamarra,D,Olimpia,90,6.7,0,0,0,0.00675359,0,0,0,65,0,0,0,85,1,3,1,10,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Adson,F,Vasco da Gama,86,8,1,0,0.3153,0.0217407,2,2,0,21,0,0,0,40,0,2,0,5,0,3,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Andrés Gómez,M,Vasco da Gama,79,6.9,0,0,0.148,0.0816386,2,2,0,17,2,0,1,43,3,2,1,7,3,2,1,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Cuiabano,D,Vasco da Gama,90,7.5,0,0,0,0.222427,0,0,0,48,1,0,0,95,0,2,2,9,1,2,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Esteban Matus,M,Olimpia,90,6.6,1,0,0.0378,0.0611312,2,1,0,28,1,0,0,43,0,1,0,3,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Robert Renan,D,Vasco da Gama,86,7.7,0,0,0,0.0484269,0,0,0,39,0,0,0,60,1,2,1,7,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Juan Fernando Alfaro,M,Olimpia,80,6.8,0,0,0.0313,0.0443446,1,0,0,55,1,0,0,66,0,2,2,5,2,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Romeo Benítez,M,Olimpia,90,7.4,0,0,0.3186,0.0618155,3,3,0,17,0,0,1,54,4,1,1,9,1,3,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Rubén Lezcano,M,Olimpia,10,6.2,0,0,0,0.0263159,0,0,0,7,0,0,0,13,0,0,0,0,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Cauan Barros,M,Vasco da Gama,90,7,0,0,0.1256,0.003164,1,1,0,22,0,0,1,40,0,1,2,5,0,3,0,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Ramon Rique,M,Vasco da Gama,63,6.3,0,0,0,0.00974319,0,0,0,16,1,1,0,28,0,1,2,1,2,0,1,0,0,0
+CONMEBOL Sudamericana,2026,Olimpia vs Vasco da Gama,20/08/2026,Eduardo Delmas,M,Olimpia,80,6.7,0,0,0.0588,0.0921128,2,2,0,29,2,0,0,49,0,2,0,5,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Willian Arão,M,Santos,90,7.1,0,0,0.0234,0.00976102,1,0,0,39,0,0,0,50,0,0,0,1,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,João Schmidt,M,Santos,90,7,0,0,0.0367,0.00925243,1,0,0,33,1,0,0,47,0,0,2,4,2,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Rodrigo Rodríguez,G,Macará,90,6.6,0,0,0,0.00025898,0,0,0,24,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,José Luis Marrufo,D,Macará,90,7.3,0,0,0,0.00710108,0,0,0,39,0,0,0,57,0,2,1,2,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Jose Cazares,M,Macará,90,7.2,0,0,0,0.0304419,0,0,0,49,1,0,0,63,2,3,0,7,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Rony,F,Santos,90,6.5,0,0,0,0.0114371,0,0,0,30,1,1,0,57,0,5,0,11,3,3,1,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Luan Peres,D,Santos,90,7.4,0,0,0,0.00151525,0,0,0,19,0,0,0,42,0,2,2,5,0,2,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Thaciano,M,Santos,74,6.4,0,0,0.0185,0.0111245,2,0,0,21,0,0,0,33,0,0,0,6,0,0,0,0,1,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Gabriel Brazão,G,Santos,90,7.6,0,0,0,0.00318653,0,0,0,26,0,0,0,38,0,0,0,0,0,0,0,0,0,3
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Benjamín Rollheiser,M,Santos,45,6.5,0,0,0,0.0383544,0,0,0,29,2,0,0,41,0,1,0,1,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Christian Oliva,M,Santos,83,6.8,0,0,0,0.0049791,0,0,0,30,0,0,0,43,0,1,0,4,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Santiago Etchebarne,D,Macará,90,7.2,0,0,0,0.00664774,0,0,0,57,0,0,0,80,0,2,1,7,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Jean Carlos Estacio,M,Macará,74,6.7,0,0,0,0.0193929,0,0,0,35,1,0,0,53,0,1,0,2,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Denilson Bolaños,D,Macará,90,6.8,0,0,0,0.0263213,0,0,0,40,0,0,0,76,1,1,2,5,4,1,1,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Gustavo Caballero,M,Santos,89,6.5,0,0,0.0456,0.0152251,2,0,0,20,1,0,0,52,1,0,0,7,0,4,0,0,1,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Matías Miranda,M,Macará,90,7.5,0,0,0.1016,0.0815811,3,1,0,48,3,0,0,70,2,2,0,5,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Jordán Mohor,M,Macará,90,7,0,0,0,0.0160522,0,0,0,27,0,0,0,68,0,4,2,6,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Agustin Campana,M,Macará,84,6.8,0,0,0.2426,0.0333646,4,1,0,23,2,0,0,53,2,0,0,5,2,3,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Miguelito,M,Santos,16,6.7,0,0,0,0.0058456,0,0,0,5,0,0,0,10,2,0,0,2,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Jose Klinger,M,Macará,26,6.7,0,0,0.0475,0.00447563,2,0,0,8,0,0,0,20,1,0,0,2,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Gustavinho,M,Santos,90,6.9,0,0,0,0.0100946,0,0,0,23,0,0,0,43,0,7,0,8,2,0,1,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Martin Tello,M,Macará,16,6.6,0,0,0,0.0367535,0,0,0,8,2,0,0,13,0,1,0,2,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Franco Posse,F,Macará,90,6.2,0,0,0.1261,0.106329,5,1,0,19,0,0,0,38,0,2,0,4,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Mateo Viera,M,Macará,64,6.5,0,0,0,0.0236926,0,0,0,24,2,0,0,42,0,3,1,4,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Pedro Assis,F,Santos,1,,0,0,0.6052,0,1,0,0,0,0,0,1,3,0,0,0,1,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Davizinho,D,Santos,45,6.9,0,0,0,0.00596036,0,0,0,14,0,0,0,32,0,1,0,3,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,João Paulo Ananias,D,Santos,45,7,0,0,0,0.00251306,0,0,0,14,0,0,0,25,0,2,1,2,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Luca Ferro,F,Macará,13,6.5,0,0,0,0.0247191,0,0,0,3,1,0,0,3,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Rafael Gonzaga,D,Santos,45,6.8,0,0,0,0.0138264,0,0,0,18,0,0,0,36,0,2,1,2,2,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Macará vs Santos,20/08/2026,Samuel Mendes,M,Santos,14,6.6,0,0,0,0.00363881,0,0,0,7,0,0,0,10,0,0,1,0,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Edenilson,M,Botafogo,26,7,0,0,0.2763,0.107686,1,1,0,21,1,0,1,29,0,2,0,3,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Alex Telles,D,Botafogo,90,7.5,0,0,0.1288,0.284577,2,1,0,34,4,1,0,78,2,1,1,3,0,0,1,0,1,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Maximiliano Amondarain,D,Cienciano,90,6.6,0,0,0,0.00590541,0,0,0,14,0,0,0,23,0,1,2,3,1,0,1,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Gabriel Batista,G,Botafogo,46,7,0,0,0,0.0001854,0,0,0,19,0,0,0,23,0,0,0,0,0,0,0,0,0,1
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Alejandro Hohberg,M,Cienciano,70,6.3,0,0,0.053,0.015815,3,0,0,15,0,0,0,24,1,0,0,1,0,0,0,0,2,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Neri Bandiera,M,Cienciano,45,6.6,0,0,0.0163,0.0373869,1,0,0,14,1,0,0,27,3,0,1,4,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Warleson,G,Botafogo,44,6.6,0,0,0,0.00131819,0,0,0,8,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Arthur Cabral,F,Botafogo,90,6,0,0,0.4275,0.00585775,6,1,0,16,1,0,1,33,0,1,0,7,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Ademar Robles,M,Cienciano,26,6.9,0,0,0,0.00161258,0,0,0,5,1,0,0,9,1,0,0,3,1,2,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Nahuel Ferraresi,D,Botafogo,90,7.1,0,0,0,0.0317068,0,0,0,84,0,0,0,101,1,3,1,7,1,0,1,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Carlos Cabello,M,Cienciano,90,6.6,0,0,0,0.00209927,0,0,0,14,0,0,0,38,1,5,3,6,2,0,1,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Gerson Barreto,M,Cienciano,64,6.4,0,0,0,0.00225912,0,0,0,14,1,0,0,23,0,2,0,4,3,1,1,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Ítalo Espinoza,G,Cienciano,90,6.7,0,0,0,0.0017493,0,0,0,29,0,0,0,37,0,0,0,0,0,0,0,0,0,6
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Juan Romagnoli,M,Cienciano,45,6.2,0,0,0,0.00322015,0,0,0,15,1,0,0,17,0,0,0,0,1,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Carlos Garcés,F,Cienciano,70,6.6,0,0,0,0.00565524,0,0,0,11,1,0,0,16,0,0,1,5,2,0,0,0,1,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Vitinho,D,Botafogo,90,7.5,0,0,0.2025,0.155644,1,0,0,35,2,0,1,64,0,2,0,4,2,2,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Júnior Santos,F,Botafogo,45,7.7,0,0,0.1462,0.319985,2,2,0,13,2,0,0,27,5,0,0,7,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Claudio Núñez,D,Cienciano,90,6.9,0,0,0,0.00515144,0,0,0,13,0,0,0,41,0,1,2,6,0,2,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Santiago Arias,M,Cienciano,59,6.9,0,0,0.0154,0.00721357,1,0,0,21,0,0,0,38,1,4,1,7,1,2,1,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Matías Succar,F,Cienciano,20,6.2,0,0,0.0194,0.00347677,1,0,0,4,0,0,0,12,1,0,0,1,2,0,0,0,1,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Kevin Becerra,D,Cienciano,90,7.5,0,0,0,0.0006345,0,0,0,11,0,0,0,33,0,1,0,6,0,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Marcos Martinich,D,Cienciano,90,6.6,0,0,0,0.0109081,0,0,0,38,0,0,0,65,0,6,1,8,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Danilo Pereira,F,Botafogo,64,7.7,1,0,0.9277,0.155123,4,2,0,10,1,0,0,25,0,0,0,4,0,2,0,0,1,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Cristian Medina,M,Botafogo,74,6.9,0,0,0,0.0121536,0,0,0,48,0,0,0,57,1,0,0,3,1,2,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Danilo Santos,M,Botafogo,64,6.5,0,0,0.02,0.00690299,1,0,0,33,0,0,0,43,0,0,0,0,2,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Matheus Martins,F,Botafogo,16,6.6,0,0,0.0336,0.00395414,2,0,0,10,0,0,0,17,0,0,0,2,0,2,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Gonzalo Aguirre,M,Cienciano,20,6.3,0,0,0.1248,0.00258419,2,1,0,7,0,0,0,13,0,0,0,0,2,0,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Gabriel Justino,D,Botafogo,90,7,0,0,0.2495,0.00235054,1,0,0,58,0,0,0,73,0,0,2,4,1,2,1,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Álvaro Montoro,M,Botafogo,90,8,0,1,0,0.43589,0,0,0,69,6,2,0,98,3,2,2,9,1,4,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Huguinho,M,Botafogo,45,6.7,0,0,0.0238,0.00770745,1,1,0,28,0,0,0,38,0,0,1,2,1,1,1,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Henry Caparó,M,Cienciano,31,6.8,0,0,0,0.00061933,0,0,0,6,0,0,0,14,0,1,1,2,1,1,0,0,0,0
+CONMEBOL Sudamericana,2026,Botafogo vs Cienciano,20/08/2026,Kadir Barría,F,Botafogo,26,6.5,0,0,0.0769,0.0463344,1,0,0,6,2,0,0,13,2,0,0,4,1,0,0,0,0,0

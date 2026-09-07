@@ -1,0 +1,35 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Mateo Kovačić,M,Manchester City,79,7,0,0,0,0,1,0,0,62,0,0,0,68,0,1,0,1,0,0,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Jack Grealish,M,Manchester City,45,6.5,0,0,0,0,0,0,0,24,2,0,0,33,1,0,0,2,1,1,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Rúben Dias,D,Manchester City,90,6.5,0,0,0,0,0,0,0,73,1,0,0,83,1,1,0,6,1,0,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Martin Ødegaard,M,Arsenal,84,8.5,1,0,0,0,2,2,0,58,2,0,0,74,3,1,1,5,1,1,1,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,David Raya,G,Arsenal,90,7.7,0,0,0,0,0,0,0,40,0,0,0,49,0,0,0,1,0,0,0,0,0,4
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Viktor Gyökeres,F,Arsenal,15,6.5,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Gianluigi Donnarumma,G,Manchester City,90,6.1,0,0,0,0,0,0,0,32,0,0,0,44,0,0,0,0,0,0,0,0,0,2
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Kai Havertz,F,Arsenal,75,7.1,1,0,0,0,1,1,0,13,1,0,0,23,0,0,0,4,1,2,0,0,1,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Erling Haaland,F,Manchester City,53,6.5,0,0,0,0,2,1,0,5,0,0,1,7,0,0,0,0,0,0,0,0,1,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Ben White,D,Arsenal,90,8.3,0,0,0,0,0,0,0,31,1,0,0,49,0,5,2,6,2,1,0,0,1,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Declan Rice,M,Arsenal,45,6.7,0,0,0,0,0,0,0,31,0,0,0,36,0,0,3,1,0,0,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Phil Foden,M,Manchester City,60,6.1,0,0,0,0,2,1,0,34,0,0,0,43,0,0,0,2,1,2,1,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Eberechi Eze,M,Arsenal,10,6.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Bruno Guimarães,M,Arsenal,45,6.7,0,0,0,0,1,0,0,24,0,0,0,32,0,2,0,2,0,0,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Gabriel Magalhães,D,Arsenal,90,6.9,0,0,0,0,0,0,0,55,0,0,0,65,0,0,1,2,1,1,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Omar Marmoush,F,Manchester City,37,6.4,0,0,0,0,0,0,0,11,1,0,0,13,0,0,0,1,0,1,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Marc Guéhi,D,Manchester City,37,7,0,0,0,0,0,0,0,40,0,0,0,42,0,0,1,0,0,0,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Bukayo Saka,F,Arsenal,30,6.7,0,0,0,0,2,0,0,7,0,0,1,13,1,0,0,3,0,1,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Antoine Semenyo,M,Manchester City,90,6,0,0,0,0,3,1,0,42,2,0,0,60,1,0,0,1,3,0,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Jérémy Doku,M,Manchester City,45,6.5,0,0,0,0,1,1,0,13,2,1,0,25,2,0,0,4,0,2,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Nico González,M,Manchester City,11,6.6,0,0,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Riccardo Calafiori,D,Arsenal,60,7.6,1,0,0,0,2,1,0,16,0,0,0,27,0,1,0,1,1,0,1,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Joško Gvardiol,D,Manchester City,90,6.7,0,0,0,0,1,0,0,60,1,0,0,69,0,2,0,3,2,0,1,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Noni Madueke,F,Arsenal,60,6.6,0,0,0,0,1,1,0,15,0,0,0,21,0,0,0,0,0,0,0,0,1,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Martín Zubimendi,M,Arsenal,15,6.8,0,0,0,0,0,0,0,7,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Rayan Cherki,M,Manchester City,30,6.8,0,0,0,0,1,1,0,33,2,0,0,37,0,0,0,1,1,1,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Elliot Anderson,M,Manchester City,60,6.4,0,0,0,0,1,0,0,42,0,0,0,54,0,0,1,4,0,1,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Piero Hincapié,D,Arsenal,30,7,0,0,0,0,0,0,0,10,1,1,0,22,0,1,0,2,1,1,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Christos Tzolis,M,Arsenal,90,8.1,0,2,0,0,0,0,0,26,3,2,0,42,0,3,2,5,2,2,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Rico Lewis,D,Manchester City,30,6.9,0,0,0,0,0,0,0,15,0,0,0,22,0,1,0,3,0,2,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Nico O'Reilly,D,Manchester City,53,5.8,0,0,0,0,0,0,0,23,0,0,0,31,0,1,0,2,2,0,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Cristhian Mosquera,D,Arsenal,90,6.8,0,0,0,0,0,0,0,46,0,0,0,49,0,2,0,2,1,0,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Abdukodir Khusanov,D,Manchester City,90,6.9,0,0,0,0,0,0,0,63,0,0,0,77,0,5,2,9,0,1,0,0,0,0
+Community Shield,2026,Arsenal vs Manchester City,16/08/2026,Myles Lewis-Skelly,D,Arsenal,75,7.2,0,1,0,0,0,0,0,32,1,1,0,40,0,1,1,4,2,2,0,0,0,0

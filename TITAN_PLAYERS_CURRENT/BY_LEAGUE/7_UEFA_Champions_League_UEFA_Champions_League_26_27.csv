@@ -1,0 +1,378 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Petros Mantalos,M,AEK Athens,33,6.8,0,0,0,0,0,0,0,21,1,0,0,35,0,1,1,4,1,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Mijat Gaćinović,M,AEK Athens,9,6.7,0,0,0,0,0,0,0,6,0,0,0,13,0,1,0,1,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Thomas Strakosha,G,AEK Athens,90,7.1,0,0,0,0,0,0,0,22,0,0,0,31,0,0,0,0,0,0,0,0,0,3
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Răzvan Marin,M,AEK Athens,90,6.7,0,0,0,0,3,0,0,58,2,0,0,73,1,2,0,3,2,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Luka Jović,F,AEK Athens,57,6.3,0,0,0,0,3,0,1,8,1,0,1,13,0,0,1,0,2,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Oleksandr Zubkov,M,AEK Athens,9,6.5,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,0,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Kaan Kairinen,M,AEK Athens,90,6.3,0,0,0,0,0,0,0,51,0,0,0,57,0,1,0,1,3,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Harold Moukoudi,D,AEK Athens,90,6.6,0,0,0,0,1,0,0,60,0,0,1,66,0,0,1,2,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Kristian Dimitrov,D,Levski Sofia,90,7.8,0,0,0,0,1,1,0,74,0,0,0,87,0,1,1,4,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Lovro Majer,M,AEK Athens,57,7,0,0,0,0,0,0,0,26,2,1,0,34,0,1,1,1,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Barnabás Varga,F,AEK Athens,33,6.9,0,0,0,0,1,0,0,16,1,0,0,19,0,0,0,5,1,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Mazire Soula,M,Levski Sofia,11,6.3,0,0,0,0,0,0,0,4,0,0,0,7,0,0,0,0,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Aboubakary Koita,M,AEK Athens,81,7.2,0,0,0,0,1,0,0,21,1,0,0,39,3,4,1,8,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Svetoslav Vutsov,G,Levski Sofia,90,7.4,0,0,0,0,0,0,0,47,1,0,0,56,0,0,0,1,0,1,0,0,0,1
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Lazaros Rota,D,AEK Athens,90,7.1,0,0,0,0,0,0,0,33,0,0,0,47,0,2,1,3,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Álex Centelles,D,Levski Sofia,90,6.7,0,0,0,0,1,0,0,44,1,0,0,61,0,1,1,2,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Stavros Pilios,D,AEK Athens,90,7.2,0,0,0,0,0,0,0,37,2,0,0,57,0,0,3,2,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Armstrong Oko-Flex,M,Levski Sofia,67,6.6,0,0,0,0,1,0,0,23,3,0,0,32,0,1,0,2,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Reinaldo,F,Levski Sofia,78,6.2,0,0,0,0,3,0,0,8,0,0,0,17,0,0,1,1,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Zini,F,AEK Athens,81,6.4,0,0,0,0,2,1,0,9,0,0,0,27,1,3,0,5,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Nikola Serafimov,D,Levski Sofia,90,7.3,0,0,0,0,1,0,0,70,1,0,0,79,0,1,2,4,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,El Mehdi Moubarik,M,Levski Sofia,90,7.3,0,0,0,0,1,1,0,46,1,0,0,62,0,5,0,7,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Serginho,M,Levski Sofia,90,7.6,0,0,0,0,2,0,0,57,2,0,0,74,1,1,1,8,0,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Everton Bala,M,Levski Sofia,79,6.5,0,0,0,0,4,0,0,17,0,0,0,34,1,1,0,4,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Hevertton Santos,D,Levski Sofia,2,,0,0,0,0,0,0,0,2,0,0,0,5,0,1,0,1,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Aldair,D,Levski Sofia,88,6.8,0,0,0,0,0,0,0,51,1,0,0,77,1,2,0,6,2,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Asen Ivanov Mitkov,M,Levski Sofia,12,6.7,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,1,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Filipe Relvas,D,AEK Athens,90,7.6,0,0,0,0,1,0,0,88,0,0,0,101,0,0,2,7,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Juan Perea,F,Levski Sofia,23,6.6,0,0,0,0,0,0,0,3,0,0,0,5,0,0,0,1,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Maicon,D,Levski Sofia,89,7.4,0,0,0,0,1,1,0,42,1,0,0,50,0,3,0,8,0,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Levski Sofia vs AEK Athens,18/08/2026,Steven Stoyanchov,F,Levski Sofia,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Arild Østbø,G,Viking FK,90,5.9,0,0,0,0,0,0,0,32,0,0,0,44,0,0,0,0,0,0,0,0,0,2
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Mislav Oršić,M,GNK Dinamo Zagreb,84,6.8,0,0,0,0,2,0,1,32,3,0,0,44,0,1,0,1,0,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Miha Zajc,M,GNK Dinamo Zagreb,60,6.2,0,0,0,0,4,0,1,24,1,0,0,37,0,2,0,2,2,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Kristoffer Haugen,D,Viking FK,72,6.4,0,0,0,0,1,0,0,29,0,0,0,45,0,0,2,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Zlatko Tripić,M,Viking FK,87,7.8,1,0,0,0,1,1,0,33,2,0,0,57,0,3,0,7,0,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Josip Mišić,M,GNK Dinamo Zagreb,90,7.6,0,0,0,0,1,0,0,72,0,0,0,84,1,0,2,3,1,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Ivan Nevistić,G,GNK Dinamo Zagreb,90,6.1,0,0,0,0,0,0,0,37,0,0,0,47,0,0,0,0,0,0,0,0,0,1
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Scott McKenna,D,GNK Dinamo Zagreb,90,6.2,0,0,0,0,0,0,0,89,0,0,0,100,0,0,0,2,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Smail Prevljak,F,GNK Dinamo Zagreb,11,6.2,0,0,0,0,1,1,0,2,0,0,1,4,0,0,0,0,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Robert Mudražija,M,GNK Dinamo Zagreb,22,6.5,0,0,0,0,0,0,0,4,0,0,0,12,0,0,0,1,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Joe Bell,M,Viking FK,90,6.4,0,0,0,0,0,0,0,44,0,0,0,54,0,2,1,4,4,1,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Sondre Flem Bjørshol,D,Viking FK,18,6.7,0,0,0,0,0,0,0,9,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Arber Hoxha,F,GNK Dinamo Zagreb,22,6.5,0,0,0,0,1,0,0,9,2,0,0,15,0,1,0,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Peter Christiansen,F,Viking FK,87,7.7,1,0,0,0,2,1,0,7,0,0,1,16,0,0,0,1,2,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Kristoffer Askildsen,M,Viking FK,90,6.7,0,0,0,0,0,0,0,38,0,0,0,47,0,0,1,3,0,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Gianni Stensness,D,Viking FK,90,7.3,0,0,0,0,0,0,0,58,0,0,0,80,0,0,1,6,3,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Romano Postema,F,Viking FK,8,6.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Dion Drena Beljo,F,GNK Dinamo Zagreb,90,7.6,1,1,0,0,2,1,0,14,2,1,0,26,1,1,0,4,3,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Henrik Sælebakke Falchener,D,Viking FK,90,6.5,0,0,0,0,0,0,0,42,0,0,0,58,0,0,0,6,1,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Henrik Heggheim,D,Viking FK,72,5.9,0,0,0,0,1,0,0,23,0,0,0,41,0,1,1,5,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Niko Galešić,D,GNK Dinamo Zagreb,11,7,0,0,0,0,0,0,0,4,1,1,0,5,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Mateo Lisica,M,GNK Dinamo Zagreb,68,7.5,1,0,0,0,3,1,0,18,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Herman Johan Haugen,D,Viking FK,18,6.8,0,0,0,0,0,0,0,5,0,0,0,14,0,1,0,2,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Lukas Kačavenda,M,GNK Dinamo Zagreb,30,6.7,0,0,0,0,1,0,0,15,1,0,0,20,2,0,0,3,2,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Moris Valinčić,D,GNK Dinamo Zagreb,84,6.4,0,0,0,0,1,1,0,45,2,0,0,72,0,3,0,3,1,0,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Luka Stojković,M,GNK Dinamo Zagreb,68,6.4,0,0,0,0,2,0,0,24,2,0,0,41,2,0,0,6,1,4,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Simen Kvia-Egeskog,M,Viking FK,32,6.7,0,0,0,0,0,0,0,6,0,0,0,12,0,1,0,2,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Matteo Pérez Vinlöf,D,GNK Dinamo Zagreb,90,7,0,1,0,0,4,0,0,56,3,1,0,85,1,2,0,5,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Sergi Domínguez,D,GNK Dinamo Zagreb,90,6.7,0,0,0,0,1,0,0,98,0,0,0,110,0,4,0,5,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Edvin Austbø,M,Viking FK,90,6.4,0,0,0,0,1,1,0,25,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Jakob Segadal Hansen,M,Viking FK,8,6.6,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,GNK Dinamo Zagreb vs Viking FK,18/08/2026,Tobias Moi,M,Viking FK,58,7,0,2,0,0,0,0,0,23,2,1,0,27,0,1,0,3,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Romelu Lukaku,F,Fenerbahçe,8,6.5,0,0,0,0,1,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Nathan Aké,D,Fenerbahçe,90,7.4,0,0,0,0,0,0,0,64,0,0,0,77,0,0,0,4,0,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Clinton Mata,D,Olympique Lyonnais,15,6.9,0,0,0,0,0,0,0,10,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Milan Škriniar,D,Fenerbahçe,90,7,0,0,0,0,0,0,0,64,0,0,0,77,0,2,1,5,3,2,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,N'Golo Kanté,M,Fenerbahçe,90,6.9,0,0,0,0,0,0,0,49,1,0,0,64,1,2,3,5,2,0,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Nélson Semedo,D,Fenerbahçe,90,6.6,0,0,0,0,0,0,0,43,1,0,0,62,0,2,1,3,1,1,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Ederson,G,Fenerbahçe,90,6.8,0,0,0,0,0,0,0,35,0,0,0,46,0,0,0,0,0,0,0,0,0,4
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Vedat Muriqi,F,Fenerbahçe,82,6.5,0,0,0,0,2,1,0,21,1,0,1,34,1,0,0,3,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Talisca,M,Fenerbahçe,73,6.4,0,0,0,0,2,0,0,12,0,0,0,22,0,0,1,0,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Corentin Tolisso,M,Olympique Lyonnais,90,7.3,0,1,0,0,2,2,0,56,3,1,0,74,0,1,1,7,3,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Ainsley Maitland-Niles,D,Olympique Lyonnais,90,6.6,0,0,0,0,0,0,0,26,0,0,0,43,1,2,2,4,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Marco Asensio,M,Fenerbahçe,17,6.7,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,1,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Moussa Niakhaté,D,Olympique Lyonnais,90,6.7,0,0,0,0,0,0,0,69,0,0,0,79,0,1,0,4,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Dominik Greif,G,Olympique Lyonnais,90,6.7,0,0,0,0,0,0,0,34,0,0,0,42,0,0,0,0,0,0,0,0,0,4
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Loïs Openda,F,Olympique Lyonnais,90,6.9,1,0,0,0,4,1,1,13,1,0,0,35,2,0,0,4,4,1,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Mattéo Guendouzi,M,Fenerbahçe,90,7.1,0,0,0,0,0,0,0,51,4,1,0,60,1,1,0,2,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Kerem Aktürkoğlu,F,Fenerbahçe,73,6.7,0,1,0,0,1,1,0,19,1,0,0,30,0,2,0,5,1,2,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Mads Bidstrup,M,Olympique Lyonnais,9,6.5,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Mason Greenwood,M,Fenerbahçe,90,7.4,1,0,0,0,4,3,0,49,1,0,0,67,0,0,0,1,2,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Abner Vinícius,D,Olympique Lyonnais,90,6.5,0,0,0,0,0,0,0,60,0,0,0,80,0,0,1,0,1,0,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Tyler Morton,M,Olympique Lyonnais,86,7.3,0,0,0,0,1,0,0,41,0,0,0,51,0,2,0,4,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Archie Brown,D,Fenerbahçe,90,6.6,0,0,0,0,1,0,0,39,2,0,0,67,0,2,1,3,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Ruben Kluivert,D,Olympique Lyonnais,75,6.9,0,0,0,0,1,0,0,44,0,0,0,58,0,3,1,5,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Tanner Tessmann,M,Olympique Lyonnais,90,6.9,0,0,0,0,2,1,0,28,1,0,0,43,1,0,0,3,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Dorgeles Nene,F,Fenerbahçe,17,6.5,0,0,0,0,1,0,1,4,0,0,0,6,0,0,1,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Malick Fofana,M,Olympique Lyonnais,89,6.8,0,0,0,0,1,0,0,32,1,0,0,49,1,1,0,5,1,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Ernest Nuamah,F,Olympique Lyonnais,75,6.4,0,0,0,0,1,1,0,13,1,0,0,23,1,0,0,2,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Mohamed Ouédraogo,M,Olympique Lyonnais,1,,0,0,0,0,0,0,0,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Fenerbahçe vs Olympique Lyonnais,18/08/2026,Kaïl Boudache,F,Olympique Lyonnais,15,6.7,0,0,0,0,0,0,0,4,1,0,0,7,1,0,0,2,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Miguel Vítor,D,Hapoel Be'er Sheva,90,6.9,0,0,0,0,1,0,0,103,0,0,0,116,0,2,1,6,1,0,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Ofir Marciano,G,Hapoel Be'er Sheva,90,6.8,0,0,0,0,0,0,0,38,0,0,0,49,0,0,0,0,0,0,0,0,0,4
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Stas Pokatilov,G,Sabah FK,90,7.4,0,0,0,0,0,0,0,25,0,0,0,41,0,0,0,0,0,0,0,0,0,4
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Joy Lance Mickels,F,Sabah FK,90,6.3,0,0,0,0,2,1,0,11,0,0,1,27,1,1,0,5,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Veljko Simić,M,Sabah FK,90,8,1,0,0,0,1,1,0,27,1,0,0,49,0,4,0,8,1,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Akim Zedadka,D,Sabah FK,90,6.7,0,0,0,0,0,0,0,29,1,1,0,48,0,2,0,6,1,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Eliel Peretz,M,Hapoel Be'er Sheva,90,8.6,0,1,0,0,0,0,0,82,5,0,0,98,1,0,0,3,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Igor Zlatanović,F,Hapoel Be'er Sheva,85,7.5,1,0,0,0,7,3,0,19,1,0,0,36,1,1,0,2,0,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Steve Solvet,D,Sabah FK,89,7,0,0,0,0,1,0,0,29,0,0,0,45,1,2,0,4,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Tymoteusz Puchacz,D,Sabah FK,90,7.3,0,1,0,0,0,0,0,28,3,1,0,66,1,3,2,6,0,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Lucas Ventura,M,Hapoel Be'er Sheva,90,6.7,0,0,0,0,1,0,0,66,0,0,0,77,0,1,1,3,0,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Ivan Lepinjica,M,Sabah FK,90,6.8,0,0,0,0,0,0,0,43,0,0,0,58,0,3,0,3,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Hamode Kanaan,F,Hapoel Be'er Sheva,9,6.6,0,0,0,0,2,1,0,3,1,1,1,7,0,0,0,1,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Yonas Malede,F,Hapoel Be'er Sheva,9,6.4,0,0,0,0,0,0,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Pedro Amador,D,Hapoel Be'er Sheva,90,6.8,0,0,0,0,1,0,0,46,2,0,0,71,0,3,2,4,1,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Rahman Dashdamirov,D,Sabah FK,90,6.8,0,0,0,0,0,0,0,38,0,0,0,53,1,0,2,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Javon East,F,Hapoel Be'er Sheva,71,7.6,1,0,0,0,1,1,0,28,2,0,0,47,1,2,0,5,1,1,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Itay Rotman,D,Hapoel Be'er Sheva,90,6.9,0,0,0,0,0,0,0,112,0,0,0,123,0,2,1,3,2,1,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Júnior Almeida,D,Sabah FK,1,,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Patrick Orphe M'Bina,F,Sabah FK,34,6.1,0,0,0,0,2,1,0,2,0,0,0,6,0,0,0,2,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Xander Severina,M,Sabah FK,56,6.3,0,0,0,0,1,1,0,12,0,0,0,27,1,3,1,5,1,1,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Guy Mizrahi,D,Hapoel Be'er Sheva,90,6.8,0,0,0,0,1,0,0,66,0,0,0,98,1,1,3,2,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Umarali Rakhmonaliev,M,Sabah FK,90,6.4,0,0,0,0,1,1,0,34,0,0,0,44,0,0,1,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Aleksey Isayev,M,Sabah FK,74,6.5,0,0,0,0,0,0,0,25,1,0,0,33,0,2,0,2,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Niv Yehoshua,M,Hapoel Be'er Sheva,85,6.8,0,0,0,0,0,0,0,49,1,0,0,59,0,5,1,5,2,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Amir Chaim Ganah,F,Hapoel Be'er Sheva,24,6.7,0,0,0,0,2,0,0,13,0,0,0,18,1,1,0,2,1,0,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Mohamad Abu Rumi,F,Hapoel Be'er Sheva,19,6.6,0,0,0,0,2,2,0,5,1,0,1,13,0,1,0,2,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Zahi Ahmed,F,Hapoel Be'er Sheva,66,6.7,0,0,0,0,0,0,0,29,1,0,0,45,2,1,1,4,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Hapoel Be'er Sheva vs Sabah FK,19/08/2026,Christian Nwachukwu,M,Sabah FK,16,6.7,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Tjaronn Chery,F,NEC Nijmegen,82,7.2,0,0,0,0,5,3,0,33,3,0,0,53,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Dušan Tadić,F,NEC Nijmegen,90,6.6,0,1,0,0,1,0,0,32,6,1,1,48,1,1,0,2,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Bryan Linssen,F,NEC Nijmegen,68,6,0,0,0,0,2,0,0,13,0,0,0,21,0,0,0,2,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Haitam Aleesami,D,Bodø/Glimt,90,8,1,0,0,0,1,1,0,22,0,0,0,39,0,1,0,5,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Patrick Berg,M,Bodø/Glimt,90,7.4,0,1,0,0,2,0,0,33,1,1,0,54,0,4,1,4,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Sondre Fet,M,Bodø/Glimt,89,7.3,1,0,0,0,2,1,0,32,0,0,0,45,0,0,1,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Nikita Haikin,G,Bodø/Glimt,90,7.4,0,0,0,0,0,0,0,29,0,0,0,41,0,0,0,0,0,0,0,0,0,5
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Andreas Helmersen,F,Bodø/Glimt,90,7.1,1,0,0,0,3,2,0,13,0,0,2,37,0,2,0,9,2,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Fredrik André Bjørkan,D,Bodø/Glimt,76,7.3,0,0,0,0,0,0,0,7,0,0,0,33,0,5,1,5,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Jamiro Monteiro,M,NEC Nijmegen,22,6.7,0,0,0,0,2,0,0,28,1,0,0,31,0,0,0,0,1,0,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Emre Mor,M,NEC Nijmegen,68,6.3,0,0,0,0,1,0,0,28,0,0,0,47,2,1,0,3,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Jens Petter Hauge,F,Bodø/Glimt,59,6.6,0,1,0,0,0,0,0,22,4,1,0,29,0,0,0,0,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Kaj Sierhuis,F,NEC Nijmegen,22,6.4,0,0,0,0,2,1,0,3,0,0,0,7,0,0,0,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Ola Brynhildsen,F,Bodø/Glimt,31,6.6,0,0,0,0,0,0,0,7,0,0,0,13,0,2,0,2,1,0,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Darko Nejašmić,M,NEC Nijmegen,90,8.3,0,0,0,0,1,0,0,66,2,0,0,84,1,4,0,5,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Joshua Kitolano,M,Bodø/Glimt,14,6.5,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,1,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Odin Luras Bjørtuft,D,Bodø/Glimt,90,6.9,0,0,0,0,0,0,0,29,0,0,0,51,0,4,1,8,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Isak Dybvik Määttä,D,Bodø/Glimt,14,6.3,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,1,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Gonzalo Crettaz,G,NEC Nijmegen,90,5.9,0,0,0,0,0,0,0,42,0,0,0,49,0,0,0,1,0,1,0,0,0,1
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Ole Didrik Blomberg,F,Bodø/Glimt,76,7.4,0,0,0,0,0,0,0,16,2,2,0,27,1,2,0,6,0,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Brayann Pereira,D,NEC Nijmegen,68,6.2,0,0,0,0,0,0,0,54,1,0,0,73,2,3,3,5,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Joel Mugisha Mvuka,M,Bodø/Glimt,1,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Sondre Auklend,M,Bodø/Glimt,89,6.4,0,0,0,0,0,0,0,37,0,0,0,50,1,0,1,3,3,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Fredrik Sjøvold,D,Bodø/Glimt,90,7.1,0,0,0,0,0,0,0,19,0,0,0,46,0,4,1,5,2,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Deveron Fonville,D,NEC Nijmegen,82,6.3,0,0,0,0,1,0,0,69,0,0,0,103,1,1,2,4,2,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Noé Lebreton,F,NEC Nijmegen,90,7.1,0,0,0,0,3,0,0,43,0,0,0,68,2,4,0,13,2,5,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Tobias Storm,D,NEC Nijmegen,90,6.3,0,0,0,0,0,0,0,92,0,0,0,112,1,2,1,7,1,1,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Almugera Kabar,D,NEC Nijmegen,8,6.8,0,0,0,0,0,0,0,15,0,0,0,18,0,0,0,0,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Clement Bischoff,F,NEC Nijmegen,90,7,1,0,0,0,3,2,0,40,4,0,0,63,0,0,0,2,0,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Kevin Kers,F,NEC Nijmegen,8,6.5,0,0,0,0,1,0,1,3,0,0,0,5,0,0,0,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Villads Nielsen,D,Bodø/Glimt,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,NEC Nijmegen vs Bodø/Glimt,19/08/2026,Adam Tahaui,M,NEC Nijmegen,22,7.1,0,0,0,0,0,0,0,16,3,1,0,29,0,0,0,1,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Callum McGregor,M,Celtic,90,7.4,0,0,0,0,2,1,1,89,1,0,0,100,1,2,0,3,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Alessandro Schöpf,M,LASK,25,6.6,0,0,0,0,0,0,0,20,2,0,0,21,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Sascha Horvath,M,LASK,90,6.5,0,0,0,0,2,1,0,33,4,0,0,52,0,2,1,2,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Kieran Tierney,D,Celtic,76,7,0,0,0,0,1,0,0,62,0,0,0,84,1,0,0,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Cameron Carter-Vickers,D,Celtic,90,7.4,0,0,0,0,0,0,0,77,0,0,0,91,0,0,2,5,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Auston Trusty,D,Celtic,90,7.5,0,0,0,0,1,0,0,76,0,0,0,93,0,2,1,3,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Tony Ralston,D,Celtic,11,6.7,0,0,0,0,0,0,0,4,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Andrés Andrade,D,LASK,90,6.8,0,0,0,0,2,1,0,49,3,1,0,69,2,1,2,4,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Liam Scales,D,Celtic,14,6.7,0,0,0,0,1,0,0,11,1,0,0,15,0,0,0,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Reo Hatate,M,Celtic,25,6.7,0,0,0,0,0,0,0,11,1,0,0,15,0,1,1,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Benjamin Nygren,F,Celtic,90,8.6,1,1,0,0,2,1,0,63,3,0,0,71,0,1,0,3,2,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,George Bello,M,LASK,90,6.6,0,0,0,0,0,0,0,30,0,0,0,54,1,4,0,5,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Kasper Høgh,F,Celtic,90,6,0,0,0,0,1,0,1,23,0,0,0,39,0,2,0,6,1,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Robert Ljubičić,M,LASK,90,6.5,0,0,0,0,0,0,0,33,1,1,0,50,0,1,0,4,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Haissem Hassan,M,Celtic,11,6.5,0,0,0,0,0,0,0,5,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Sebastian Tounekti,F,Celtic,14,6.9,0,0,0,0,1,0,0,5,0,0,0,12,2,0,0,3,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Xavier Mbuyamba,D,LASK,90,6,0,0,0,0,1,0,0,38,2,0,0,54,0,2,3,6,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Kasper Jørgensen,M,LASK,90,6.6,0,0,0,0,2,0,0,24,1,0,0,49,0,2,1,4,1,2,1,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Viljami Sinisalo,G,Celtic,90,8.6,0,0,0,0,0,0,0,46,0,0,0,67,0,0,0,0,0,0,0,0,0,8
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Krystof Daněk,M,LASK,65,6.4,0,0,0,0,1,1,0,18,2,0,0,27,1,0,0,2,2,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Lukas Jungwirth,G,LASK,90,6.2,0,0,0,0,0,0,0,22,0,0,0,34,0,0,0,0,0,0,0,0,0,4
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Samuel Adeniran,F,LASK,90,7,0,0,0,0,6,3,0,13,0,0,1,32,1,2,0,8,0,0,0,0,2,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Yang Hyun-Jun,M,Celtic,76,6.5,0,0,0,0,1,0,0,31,0,0,0,46,2,1,0,6,2,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Christoph Lang,F,LASK,17,6.5,0,0,0,0,1,0,0,7,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Mika Baur,M,Celtic,65,7.1,0,0,0,0,1,1,0,43,2,0,0,53,2,1,0,3,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Alemão,D,LASK,90,5.9,0,0,0,0,1,0,0,43,0,0,0,61,0,2,1,3,3,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Moses Usor,F,LASK,73,6.6,0,0,0,0,4,2,0,24,0,0,1,39,1,1,0,3,0,0,0,0,2,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Camilo Durán,F,Celtic,83,8.9,2,0,0,0,6,4,0,33,0,0,0,51,2,0,0,3,0,1,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Celtic vs LASK,19/08/2026,Colby Donovan,D,Celtic,83,7.5,0,0,0,0,0,0,0,80,3,0,0,107,0,2,1,3,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Miguel Vítor,D,Hapoel Be'er Sheva,45,6.9,0,0,0,0,0,0,0,31,0,0,0,47,0,6,4,7,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Ofir Marciano,G,Hapoel Be'er Sheva,120,6.8,0,0,0,0,0,0,0,42,0,0,0,55,0,0,0,0,0,0,0,0,0,8
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Stas Pokatilov,G,Sabah FK,120,5.1,0,0,0,0,0,0,0,37,0,0,0,50,0,0,0,1,0,0,0,0,0,3
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Joy Lance Mickels,F,Sabah FK,120,8.2,1,0,0,0,8,2,1,36,5,1,3,72,4,0,0,15,1,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Veljko Simić,M,Sabah FK,87,7,0,0,0,0,2,1,0,29,2,2,0,46,1,2,0,3,1,0,0,0,2,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Akim Zedadka,D,Sabah FK,87,6.8,0,0,0,0,0,0,0,50,0,0,0,78,2,6,0,11,1,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Matan Baltaxa,D,Hapoel Be'er Sheva,42,5.7,0,0,0,0,0,0,0,23,0,0,0,31,0,1,0,2,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Tellur Mutallimov,D,Sabah FK,33,8.3,1,0,0,0,2,1,0,19,2,1,0,27,1,2,0,4,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Eliel Peretz,M,Hapoel Be'er Sheva,117,5.4,0,0,0,0,4,0,0,58,2,0,0,82,1,1,0,4,4,1,2,1,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Igor Zlatanović,F,Hapoel Be'er Sheva,35,7.3,1,0,0,0,2,2,0,3,0,0,0,10,0,0,1,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Ofir Davidzada,D,Hapoel Be'er Sheva,19,6,0,0,0,0,0,0,0,15,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Steve Solvet,D,Sabah FK,120,7,0,0,0,0,0,0,0,55,0,0,0,73,0,2,2,6,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Tymoteusz Puchacz,D,Sabah FK,90,7,0,1,0,0,0,0,0,39,6,0,0,80,2,2,0,7,2,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Lucas Ventura,M,Hapoel Be'er Sheva,120,6.4,0,0,0,0,2,1,0,55,0,0,0,78,1,1,1,9,1,6,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Ivan Lepinjica,M,Sabah FK,120,7.8,0,0,0,0,0,0,0,88,1,0,0,106,1,5,0,7,2,1,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Yonas Malede,F,Hapoel Be'er Sheva,42,6.4,0,0,0,0,1,0,0,5,0,0,0,14,1,0,0,2,2,1,1,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Pedro Amador,D,Hapoel Be'er Sheva,120,5.7,0,0,0,0,0,0,0,36,2,0,0,59,0,1,2,3,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Rahman Dashdamirov,D,Sabah FK,120,6.9,0,0,0,0,1,0,0,74,0,0,0,87,0,2,1,3,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Roy Levy,M,Hapoel Be'er Sheva,47,6.5,0,0,0,0,0,0,0,20,1,0,0,43,1,3,2,6,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Javon East,F,Hapoel Be'er Sheva,78,7.2,0,0,0,0,0,0,0,24,2,0,0,42,1,1,0,6,1,4,0,0,2,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Itay Rotman,D,Hapoel Be'er Sheva,101,6.7,0,0,0,0,1,0,0,49,0,0,0,61,0,2,2,3,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Kaheem Parris,M,Sabah FK,63,6.5,0,0,0,0,2,0,1,15,1,0,1,27,2,0,0,2,3,0,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Patrick Orphe M'Bina,F,Sabah FK,57,8.3,1,1,0,0,7,4,0,9,2,0,0,21,1,0,0,7,3,2,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Xander Severina,M,Sabah FK,40,6.7,0,0,0,0,3,1,0,7,1,0,2,19,1,1,0,2,0,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Guy Mizrahi,D,Hapoel Be'er Sheva,78,7.4,1,0,0,0,1,1,0,46,0,0,0,61,0,1,1,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Umarali Rakhmonaliev,M,Sabah FK,80,8.1,1,0,0,0,6,3,0,44,1,1,1,58,0,2,0,3,3,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Djibril Diop,D,Hapoel Be'er Sheva,55,5.8,0,0,0,0,0,0,0,13,0,0,0,24,0,1,1,1,2,0,2,1,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Aleksey Isayev,M,Sabah FK,57,8.2,0,2,0,0,1,0,0,44,5,1,0,57,0,1,1,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Abdulakh Khaybulaev,M,Sabah FK,33,6.7,0,0,0,0,0,0,0,14,0,0,0,26,2,1,4,4,3,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Aden McCarthy,D,Sabah FK,30,6.8,0,0,0,0,0,0,0,17,0,0,0,25,0,0,1,1,1,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Niv Yehoshua,M,Hapoel Be'er Sheva,73,6.8,0,0,0,0,2,0,0,37,0,0,0,56,1,2,2,4,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Mohamad Abu Rumi,F,Hapoel Be'er Sheva,85,7.1,0,0,0,0,1,1,0,23,1,0,0,51,1,2,2,7,0,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Zahi Ahmed,F,Hapoel Be'er Sheva,120,6.1,0,0,0,0,0,0,0,40,1,0,0,64,1,4,1,6,2,1,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Sabah FK vs Hapoel Be'er Sheva,25/08/2026,Christian Nwachukwu,M,Sabah FK,63,7.3,1,0,0,0,3,1,0,13,2,1,0,29,0,4,0,5,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Callum McGregor,M,Celtic,120,8.5,1,0,0,0,1,1,0,98,1,0,0,126,1,3,1,5,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Alessandro Schöpf,M,LASK,39,6.8,0,0,0,0,0,0,0,23,0,0,0,29,2,1,0,3,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Sascha Horvath,M,LASK,99,8.5,0,1,0,0,3,1,0,51,6,1,0,77,3,2,1,7,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Kieran Tierney,D,Celtic,71,6.3,0,0,0,0,1,0,0,39,0,0,0,59,1,0,0,2,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Florian Flecker,M,LASK,14,7.1,1,0,0,0,1,1,0,9,0,0,0,18,0,1,1,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Cameron Carter-Vickers,D,Celtic,90,6.6,0,0,0,0,0,0,0,35,0,0,0,54,0,1,0,6,0,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Auston Trusty,D,Celtic,120,7.4,0,0,0,0,0,0,0,80,0,0,0,102,0,2,0,7,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Tony Ralston,D,Celtic,30,6.5,0,0,0,0,0,0,0,16,0,0,0,21,0,1,0,2,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Andrés Andrade,D,LASK,120,7.5,0,0,0,0,6,0,1,83,2,2,0,110,0,1,2,5,2,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Liam Scales,D,Celtic,49,6.4,0,0,0,0,1,0,0,32,0,0,0,49,0,0,2,4,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Reo Hatate,M,Celtic,57,6.1,0,0,0,0,0,0,0,39,0,0,0,52,1,2,2,4,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Benjamin Nygren,F,Celtic,63,5.1,0,0,0,0,0,0,0,34,0,0,0,40,0,1,0,2,4,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Luke McCowan,M,Celtic,49,5.4,0,0,0,0,0,0,0,22,2,0,0,44,0,2,0,4,1,2,1,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,George Bello,M,LASK,120,6.7,0,0,0,0,1,0,0,46,2,1,0,71,2,1,1,6,4,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Kasper Høgh,F,Celtic,120,6.9,0,0,0,0,2,2,0,29,0,0,1,53,1,1,0,7,4,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Robert Ljubičić,M,LASK,81,7.4,1,0,0,0,3,1,0,28,1,0,0,45,0,0,1,2,0,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Sebastian Tounekti,F,Celtic,57,6.4,0,0,0,0,0,0,0,24,0,0,0,43,2,1,1,4,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Melayro Bogarde,M,LASK,120,8.2,0,0,0,0,1,0,0,64,5,0,0,88,1,5,2,12,3,4,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Xavier Mbuyamba,D,LASK,120,7.2,0,0,0,0,2,0,0,61,2,0,0,82,0,0,6,5,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Kasper Jørgensen,M,LASK,86,6.8,0,0,0,0,4,0,0,37,2,0,0,59,0,3,0,7,0,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Viljami Sinisalo,G,Celtic,120,7.1,0,0,0,0,0,0,0,59,0,0,0,73,0,0,0,3,0,1,0,0,0,3
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Krystof Daněk,M,LASK,21,7.4,0,1,0,0,1,0,0,5,1,0,1,14,1,0,1,2,0,1,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Lukas Jungwirth,G,LASK,120,6.2,0,0,0,0,0,0,0,36,0,0,0,46,0,0,0,0,0,0,0,0,0,2
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Samuel Adeniran,F,LASK,120,7,2,0,0,0,10,3,1,17,1,1,5,39,0,0,1,3,6,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Yang Hyun-Jun,M,Celtic,63,6.7,0,1,0,0,0,0,0,21,2,0,0,42,1,1,0,4,2,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Yvan Dibango,D,LASK,20,6.4,0,0,0,0,0,0,0,7,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Christoph Lang,F,LASK,21,6.9,0,0,0,0,0,0,0,5,1,0,0,20,1,3,0,4,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Dane Murray,D,Celtic,46,7,0,0,0,0,0,0,0,25,0,0,0,38,0,0,0,7,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Mika Baur,M,Celtic,71,6.9,0,0,0,0,1,0,0,29,1,0,0,40,1,1,2,2,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Alemão,D,LASK,99,6.8,0,0,0,0,5,1,0,64,0,0,2,87,0,2,4,10,1,1,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Moses Usor,F,LASK,99,8.7,1,1,0,0,3,1,0,23,4,1,0,56,0,0,0,0,2,0,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Miguel Freckleton,D,LASK,21,7.9,0,0,0,0,0,0,0,15,1,1,0,22,2,1,0,4,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Camilo Durán,F,Celtic,120,6.4,0,0,0,0,2,0,0,37,0,0,0,59,1,1,1,9,1,6,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,LASK vs Celtic,25/08/2026,Colby Donovan,D,Celtic,74,6.4,0,0,0,0,0,0,0,29,1,1,0,55,0,3,1,5,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Tjaronn Chery,F,NEC Nijmegen,45,6.4,0,0,0,0,0,0,0,15,0,0,0,18,0,0,0,0,0,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Dušan Tadić,F,NEC Nijmegen,62,6.2,0,0,0,0,0,0,0,8,0,0,0,19,0,1,0,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Bryan Linssen,F,NEC Nijmegen,62,6.1,0,0,0,0,2,2,0,6,0,0,0,14,1,0,0,2,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Bram Nuytinck,D,NEC Nijmegen,45,7,0,0,0,0,0,0,0,7,0,0,0,16,0,0,0,2,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Ulrik Saltnes,M,Bodø/Glimt,10,6.8,0,0,0,0,0,0,0,17,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Patrick Berg,M,Bodø/Glimt,90,7.3,0,0,0,0,4,3,0,76,1,0,1,93,0,1,0,2,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Sondre Fet,M,Bodø/Glimt,80,7.2,0,0,0,0,0,0,0,40,3,1,0,51,0,5,0,6,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Nikita Haikin,G,Bodø/Glimt,90,6.9,0,0,0,0,0,0,0,22,0,0,0,28,0,0,0,0,0,0,0,0,0,2
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Andreas Helmersen,F,Bodø/Glimt,80,5.7,0,0,0,0,4,1,0,11,1,1,2,25,0,1,1,5,4,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Fredrik André Bjørkan,D,Bodø/Glimt,74,8.1,1,0,0,0,1,1,0,60,2,0,0,71,0,2,1,2,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Jens Petter Hauge,F,Bodø/Glimt,90,8.4,0,1,0,0,1,0,0,87,2,1,0,106,4,1,0,5,2,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Kaj Sierhuis,F,NEC Nijmegen,5,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Ola Brynhildsen,F,Bodø/Glimt,10,6.5,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Darko Nejašmić,M,NEC Nijmegen,45,6.7,0,0,0,0,0,0,0,12,0,0,0,28,1,3,0,4,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Joshua Kitolano,M,Bodø/Glimt,10,6.6,0,0,0,0,0,0,0,2,1,1,0,5,0,0,0,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Odin Luras Bjørtuft,D,Bodø/Glimt,80,8.8,0,0,0,0,2,0,0,130,1,0,0,143,0,0,1,5,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Nikolas Polster,G,NEC Nijmegen,85,7.9,0,0,0,0,0,0,0,39,0,0,0,55,0,0,0,2,0,1,0,0,0,7
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Willum Thor Willumsson,M,NEC Nijmegen,28,6.3,0,0,0,0,1,0,0,7,0,0,1,16,0,0,3,1,0,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Isak Dybvik Määttä,D,Bodø/Glimt,16,7,0,0,0,0,0,0,0,14,2,1,0,21,0,2,1,2,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Gonzalo Crettaz,G,NEC Nijmegen,3,3,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,1,0,0,1,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Ole Didrik Blomberg,F,Bodø/Glimt,90,7.1,0,0,0,0,3,1,0,63,1,0,1,80,0,1,0,4,0,2,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Brayann Pereira,D,NEC Nijmegen,90,6.3,0,0,0,0,0,0,0,15,1,0,0,34,0,2,1,6,0,3,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Isak Hansen Aarøen,M,NEC Nijmegen,28,6.5,0,0,0,0,0,0,0,6,1,1,0,11,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Sondre Auklend,M,Bodø/Glimt,90,8.5,1,1,0,0,4,3,0,30,2,2,2,45,2,1,0,5,2,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Fredrik Sjøvold,D,Bodø/Glimt,80,7.7,0,0,0,0,1,0,0,78,2,1,0,98,0,3,1,3,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Deveron Fonville,D,NEC Nijmegen,90,6.3,0,0,0,0,0,0,0,16,0,0,0,43,4,4,2,9,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Noé Lebreton,F,NEC Nijmegen,90,7,0,0,0,0,0,0,0,15,0,0,0,33,0,3,0,5,3,2,1,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Tobias Storm,D,NEC Nijmegen,90,5.8,0,0,0,0,0,0,0,18,0,0,0,32,1,1,2,5,2,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Almugera Kabar,D,NEC Nijmegen,45,6.1,0,0,0,0,0,0,0,7,1,0,0,9,0,0,0,1,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Clement Bischoff,F,NEC Nijmegen,90,6.3,0,0,0,0,0,0,0,11,0,0,0,32,2,2,0,7,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Villads Nielsen,D,Bodø/Glimt,90,8.6,0,0,0,0,0,0,0,140,0,0,0,153,1,3,2,6,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Bodø/Glimt vs NEC Nijmegen,25/08/2026,Kasper Solhaug,M,Bodø/Glimt,10,6.5,0,0,0,0,1,0,0,3,0,0,0,6,0,0,0,0,0,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Arild Østbø,G,Viking FK,90,6.6,0,0,0,0,0,0,0,34,0,0,0,41,0,0,0,0,0,0,0,0,0,4
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Mislav Oršić,M,GNK Dinamo Zagreb,23,6.5,0,0,0,0,3,1,0,12,3,1,0,21,0,1,0,1,1,0,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Miha Zajc,M,GNK Dinamo Zagreb,55,6.5,0,0,0,0,0,0,0,32,1,1,0,36,0,0,0,2,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Kristoffer Haugen,D,Viking FK,82,6.6,0,0,0,0,0,0,0,29,0,0,0,41,0,0,1,3,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Zlatko Tripić,M,Viking FK,82,8.8,1,0,0,0,1,1,0,28,4,1,0,51,0,0,1,2,1,2,1,0,2,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Josip Mišić,M,GNK Dinamo Zagreb,90,7,0,0,0,0,0,0,0,72,2,0,0,78,0,1,0,2,3,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Viljar Vevatne,D,Viking FK,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Ivan Nevistić,G,GNK Dinamo Zagreb,90,6.4,0,0,0,0,0,0,0,47,0,0,0,54,0,0,0,1,0,0,0,0,0,5
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Scott McKenna,D,GNK Dinamo Zagreb,90,6.5,0,0,0,0,0,0,0,89,1,0,0,101,0,0,1,4,2,2,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Robert Mudražija,M,GNK Dinamo Zagreb,8,6.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Joe Bell,M,Viking FK,90,6.7,0,0,0,0,1,0,0,36,1,1,0,45,0,3,1,4,2,0,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Sondre Flem Bjørshol,D,Viking FK,29,6.8,0,0,0,0,0,0,0,6,0,0,0,18,0,3,0,3,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Arber Hoxha,F,GNK Dinamo Zagreb,67,6.8,1,0,0,0,5,2,0,14,0,0,0,27,0,0,0,2,1,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Peter Christiansen,F,Viking FK,90,6.2,0,0,0,0,2,1,0,13,0,0,0,28,0,2,0,3,2,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Kristoffer Askildsen,M,Viking FK,90,7.2,0,1,0,0,2,1,0,30,1,0,0,50,0,0,1,7,1,5,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Jesper Daland,D,Viking FK,29,6.7,0,0,0,0,1,1,0,4,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Gianni Stensness,D,Viking FK,90,6.4,0,0,0,0,0,0,0,36,1,0,0,43,0,1,2,4,4,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Dion Drena Beljo,F,GNK Dinamo Zagreb,90,6.6,0,0,0,0,5,0,0,23,3,0,2,36,0,0,0,7,1,4,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Henrik Sælebakke Falchener,D,Viking FK,61,7,0,1,0,0,1,1,0,41,1,0,1,53,0,2,3,5,2,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Henrik Heggheim,D,Viking FK,61,6.3,0,0,0,0,1,0,0,11,0,0,1,23,0,2,1,4,1,2,1,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Niko Galešić,D,GNK Dinamo Zagreb,8,6.7,0,0,0,0,0,0,0,4,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Mateo Lisica,M,GNK Dinamo Zagreb,82,6,0,0,0,0,1,0,0,18,0,0,0,24,0,0,0,1,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Herman Johan Haugen,D,Viking FK,8,6.6,0,0,0,0,1,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Lukas Kačavenda,M,GNK Dinamo Zagreb,35,6.5,0,0,0,0,0,0,0,9,1,0,0,12,0,0,0,1,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Moris Valinčić,D,GNK Dinamo Zagreb,82,6.9,0,0,0,0,0,0,0,56,1,1,0,71,0,2,1,2,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Luka Stojković,M,GNK Dinamo Zagreb,82,6.7,0,0,0,0,5,1,0,35,1,0,1,64,1,0,1,5,0,4,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Simen Kvia-Egeskog,M,Viking FK,8,6.6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Fran Topić,F,GNK Dinamo Zagreb,8,6.7,0,0,0,0,0,0,0,4,0,0,0,11,0,1,1,2,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Matteo Pérez Vinlöf,D,GNK Dinamo Zagreb,90,6.9,0,0,0,0,0,0,0,48,2,0,0,78,2,4,0,11,1,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Sergi Domínguez,D,GNK Dinamo Zagreb,90,6.5,0,0,0,0,1,0,0,84,0,0,0,99,1,2,1,5,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Edvin Austbø,M,Viking FK,89,7.5,1,0,0,0,2,2,0,25,0,0,0,33,1,0,0,2,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Viking FK vs GNK Dinamo Zagreb,26/08/2026,Tobias Moi,M,Viking FK,90,7.4,1,0,0,0,1,1,0,25,2,0,0,37,0,1,0,1,2,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Romelu Lukaku,F,Fenerbahçe,10,6.6,0,0,0,0,0,0,0,4,1,0,0,6,0,0,0,2,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Nathan Aké,D,Fenerbahçe,90,6.6,0,0,0,0,0,0,0,21,1,0,0,34,0,1,1,4,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Nicolás Tagliafico,D,Olympique Lyonnais,11,6.6,0,0,0,0,0,0,0,3,0,0,0,6,0,0,0,1,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Milan Škriniar,D,Fenerbahçe,90,6.6,0,0,0,0,0,0,0,24,0,0,0,36,0,3,0,5,1,0,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,İrfan Can Kahveci,M,Fenerbahçe,10,6.6,0,0,0,0,0,0,0,9,0,0,0,11,0,0,1,1,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,N'Golo Kanté,M,Fenerbahçe,90,7.3,0,0,0,0,0,0,0,35,0,0,0,57,1,2,4,5,3,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Nélson Semedo,D,Fenerbahçe,90,6.4,0,0,0,0,0,0,0,21,0,0,0,46,0,0,2,1,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Ederson,G,Fenerbahçe,90,7.2,0,0,0,0,0,0,0,39,0,0,0,50,0,0,0,1,0,1,0,0,0,5
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Vedat Muriqi,F,Fenerbahçe,80,7.4,1,0,0,0,3,2,0,24,0,0,1,36,2,0,0,11,0,4,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Talisca,M,Fenerbahçe,67,6.4,0,0,0,0,2,0,0,11,1,0,0,21,0,0,0,2,3,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Corentin Tolisso,M,Olympique Lyonnais,90,7,0,0,0,0,2,0,0,49,2,1,0,61,1,2,2,5,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Ainsley Maitland-Niles,D,Olympique Lyonnais,62,6.6,0,1,0,0,0,0,1,30,4,1,0,43,1,0,0,2,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Moussa Niakhaté,D,Olympique Lyonnais,90,7.5,0,0,0,0,0,0,0,68,1,0,0,81,0,3,1,6,4,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Dominik Greif,G,Olympique Lyonnais,90,6.9,0,0,0,0,0,0,0,26,0,0,0,42,0,0,0,1,0,0,0,0,0,5
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Loïs Openda,F,Olympique Lyonnais,90,6.3,0,0,0,0,4,1,0,7,0,0,1,26,2,0,0,5,2,2,1,0,2,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Mattéo Guendouzi,M,Fenerbahçe,90,6.6,0,0,0,0,2,2,0,32,2,0,0,45,1,1,0,3,2,0,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Mads Bidstrup,M,Olympique Lyonnais,11,6.6,0,0,0,0,0,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Mason Greenwood,M,Fenerbahçe,80,7,0,1,0,0,2,0,0,19,1,1,0,37,1,2,0,4,0,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,İsmail Yüksek,M,Fenerbahçe,23,6.7,0,0,0,0,0,0,0,13,0,0,0,25,1,2,1,4,0,1,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Pavel Šulc,F,Olympique Lyonnais,14,6.8,0,0,0,0,0,0,0,4,0,0,0,11,0,1,1,3,0,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Abner Vinícius,D,Olympique Lyonnais,86,6.2,0,0,0,0,1,0,0,54,1,0,1,82,0,1,2,1,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Tyler Morton,M,Olympique Lyonnais,86,6.9,0,0,0,0,1,1,0,40,1,0,0,49,0,1,0,2,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Oğuz Aydın,M,Fenerbahçe,76,6.9,0,0,0,0,3,1,1,26,4,1,0,41,3,0,1,4,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Archie Brown,D,Fenerbahçe,90,8.1,1,0,0,0,2,2,0,24,0,0,0,49,1,4,0,9,2,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Ruben Kluivert,D,Olympique Lyonnais,90,7,0,0,0,0,0,0,0,69,0,0,0,81,0,3,1,5,1,1,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Tanner Tessmann,M,Olympique Lyonnais,76,6.4,0,0,0,0,2,0,0,34,2,0,0,40,0,0,1,3,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Dorgeles Nene,F,Fenerbahçe,14,6.2,0,0,0,0,2,0,0,12,1,0,0,17,0,1,0,1,2,0,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Malick Fofana,M,Olympique Lyonnais,90,8.5,1,0,0,0,4,4,0,31,2,1,0,61,3,0,1,6,1,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Ernest Nuamah,F,Olympique Lyonnais,62,7,0,0,0,0,1,0,0,12,2,0,0,31,2,2,0,6,0,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Zachary Athekame,D,Olympique Lyonnais,28,6.9,0,0,0,0,1,0,0,14,0,0,0,24,0,0,0,0,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,Olympique Lyonnais vs Fenerbahçe,26/08/2026,Kaïl Boudache,F,Olympique Lyonnais,28,6.7,0,0,0,0,1,0,0,5,0,0,1,15,0,1,0,2,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Petros Mantalos,M,AEK Athens,18,6.9,0,0,0,0,1,0,0,9,1,1,0,14,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Mijat Gaćinović,M,AEK Athens,8,6.2,0,0,0,0,2,0,0,0,0,0,2,4,0,0,1,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Thomas Strakosha,G,AEK Athens,90,7.7,0,0,0,0,0,0,0,27,0,0,0,33,0,0,0,0,0,0,0,0,0,3
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Răzvan Marin,M,AEK Athens,86,7.6,1,0,0,0,3,3,0,58,0,0,0,71,1,1,1,3,5,1,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Luka Jović,F,AEK Athens,86,7.7,1,0,0,0,2,1,0,16,2,0,0,29,0,0,0,5,0,4,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Oleksandr Zubkov,M,AEK Athens,9,6.9,0,0,0,0,0,0,0,3,1,0,0,7,1,0,0,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Kaan Kairinen,M,AEK Athens,90,7.2,0,0,0,0,1,0,0,53,0,0,0,63,0,3,0,4,2,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Harold Moukoudi,D,AEK Athens,90,7.1,0,0,0,0,0,0,0,42,0,0,0,48,0,1,0,2,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Kristian Dimitrov,D,Levski Sofia,90,7.1,0,0,0,0,1,0,0,54,0,0,0,70,0,1,0,5,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Lovro Majer,M,AEK Athens,81,7.8,0,1,0,0,2,1,1,42,3,1,0,61,1,3,1,5,1,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Barnabás Varga,F,AEK Athens,81,9,2,0,0,0,2,2,0,13,0,0,0,25,0,2,0,4,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Mazire Soula,M,Levski Sofia,14,6.2,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,0,0,0,0,0,1,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Aboubakary Koita,M,AEK Athens,72,6.6,0,0,0,0,2,0,0,19,0,0,1,27,1,0,0,1,4,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Svetoslav Vutsov,G,Levski Sofia,90,5,0,0,0,0,0,0,0,38,0,0,0,46,0,0,0,1,0,1,0,0,0,3
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Lazaros Rota,D,AEK Athens,90,7.8,0,1,0,0,2,0,0,54,4,0,0,74,1,4,3,5,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Álex Centelles,D,Levski Sofia,90,5.8,0,0,0,0,1,0,0,45,0,0,0,66,0,1,0,4,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Stavros Pilios,D,AEK Athens,90,7.3,0,0,0,0,1,0,0,33,0,0,0,58,0,7,0,9,2,2,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Armstrong Oko-Flex,M,Levski Sofia,76,6.8,0,0,0,0,0,0,0,21,2,0,0,37,3,0,0,5,0,2,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Reinaldo,F,Levski Sofia,63,6.2,0,0,0,0,1,0,0,6,1,0,0,10,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Zini,F,AEK Athens,9,6.6,0,0,0,0,0,0,0,2,1,1,0,3,0,0,0,0,1,0,1,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Nikola Serafimov,D,Levski Sofia,90,6.5,0,0,0,0,0,0,0,57,0,0,0,65,0,2,0,4,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,El Mehdi Moubarik,M,Levski Sofia,90,6.7,0,0,0,0,1,0,0,72,2,0,0,77,0,1,1,3,1,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Serginho,M,Levski Sofia,81,6.4,0,0,0,0,0,0,0,47,2,0,0,57,0,0,0,4,2,3,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Everton Bala,M,Levski Sofia,63,7.1,0,0,0,0,2,1,0,27,1,0,0,31,0,0,0,0,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Kervin Arriaga,M,AEK Athens,8,6.7,0,0,0,0,0,0,0,3,0,0,0,5,0,1,1,2,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Aldair,D,Levski Sofia,90,5.9,0,0,0,0,1,0,0,51,0,0,0,78,2,4,1,13,2,7,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Asen Ivanov Mitkov,M,Levski Sofia,9,6.8,0,0,0,0,0,0,0,14,0,0,0,17,1,1,0,3,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Filipe Relvas,D,AEK Athens,90,7.9,0,1,0,0,0,0,0,65,1,1,0,72,0,1,3,3,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Juan Perea,F,Levski Sofia,27,6.2,0,0,0,0,0,0,0,3,0,0,0,7,0,0,0,0,2,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Maicon,D,Levski Sofia,63,6,0,0,0,0,1,0,0,14,0,0,0,25,0,1,1,1,0,0,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,David Kusso,M,Levski Sofia,27,6.6,0,0,0,0,2,2,0,6,0,0,0,15,1,0,0,2,0,1,0,0,0,0
+UEFA Champions League,UEFA_Champions_League_26_27,AEK Athens vs Levski Sofia,26/08/2026,Gašper Trdin,M,Levski Sofia,27,6.6,0,0,0,0,1,0,0,23,0,0,0,30,1,1,0,2,2,0,0,0,0,0

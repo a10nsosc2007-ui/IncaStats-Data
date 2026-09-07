@@ -1,0 +1,280 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Damián Suárez,D,CA Cerro,90,7.3,0,1,0,0.05,0,0,0,38,1,0,0,51,1,0,2,6,2,2,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Yonatan Irrazábal,G,CA Cerro,90,6.9,0,0,0,0,0,0,0,19,0,0,0,20,0,0,0,0,0,0,0,0,0,3
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Brahian Alemán,M,CA Cerro,90,7.9,1,1,0.08,0.27,5,2,0,38,2,0,0,63,0,1,0,3,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Leonardo Pais,M,CA Cerro,48,6.8,0,0,0.15,0,1,0,0,26,0,0,0,36,1,0,0,4,2,1,0,0,3,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Matías de los Santos,D,Albion FC,90,7,0,0,0.46,0,2,0,0,88,0,0,1,109,0,0,1,5,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Tobías Figueroa,F,Albion FC,6,,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Hernán Toledo,M,Albion FC,79,7.8,0,0,0.33,0.54,1,0,1,35,2,1,1,61,4,0,1,11,0,3,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Ignacio Neira,M,Albion FC,18,6.3,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,1,1,1,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Nahuel Arena,D,CA Cerro,90,6.7,0,0,0,0,0,0,0,29,0,0,0,38,0,0,1,4,1,2,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Francisco Ginella,M,Albion FC,90,7.2,0,0,0.04,0,1,0,0,54,0,0,0,82,1,0,5,6,2,1,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Federico Puente,D,Albion FC,49,6.6,0,0,0,0.07,0,0,0,50,1,0,0,67,0,0,1,3,1,1,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,José Álvarez,D,Albion FC,90,6.7,0,0,0.3,0.33,4,0,0,39,1,1,0,55,0,0,1,2,1,1,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Briam Acosta,M,Albion FC,18,6.6,0,0,0.05,0,1,0,0,4,0,0,0,8,1,0,0,2,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Agustín Miranda,M,CA Cerro,12,6.4,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Cristian Barros,M,CA Cerro,66,6.7,0,0,0,0,0,0,0,19,0,0,0,34,1,0,0,4,3,2,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Carlos Airala,M,Albion FC,90,7.2,0,0,0.15,0.01,2,1,0,29,1,0,0,49,1,0,4,8,0,2,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Juan Cruz Guasone,D,CA Cerro,90,7,0,0,0,0,0,0,0,24,0,0,0,34,0,0,2,4,2,0,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Emiliano Sosa,M,CA Cerro,6,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Álvaro López,F,Albion FC,90,7,1,0,0.55,0,2,2,0,18,0,0,1,34,0,0,0,6,1,1,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Francisco Bregante,D,CA Cerro,90,6.8,0,0,0,0,0,0,0,24,0,0,0,32,0,0,2,3,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Santiago Costa,M,Albion FC,79,6.9,0,0,0.07,0,1,1,0,32,0,0,0,57,0,0,1,9,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Sebastián Jaume,G,Albion FC,90,6.3,0,0,0,0,0,0,0,40,0,0,0,50,1,0,0,1,0,0,0,0,0,2
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Augusto Cambón,F,CA Cerro,31,7.4,1,0,0.22,0,1,1,0,9,0,0,0,24,0,0,0,8,1,2,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Agustín Vera,M,Albion FC,47,6.9,0,1,0.01,0.05,1,0,0,12,1,0,0,22,0,0,1,4,1,2,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Alejandro Severo,M,CA Cerro,48,6.7,0,0,0.04,0,1,1,0,13,0,0,0,25,0,0,0,6,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Francisco Couture,D,Albion FC,90,6.5,0,0,0,0,0,0,0,95,0,0,0,112,0,0,3,1,2,0,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Alejo Macelli,M,CA Cerro,90,6.7,0,0,0,0,0,0,0,37,0,0,0,51,0,1,1,10,2,0,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Jairo Amaro,M,CA Cerro,90,6.9,0,0,0.05,0.03,1,0,0,26,2,0,0,51,2,0,3,10,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Rodrigo Mederos,M,CA Cerro,85,6.7,0,0,0,0,0,0,0,34,0,0,0,49,2,1,0,10,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,CA Cerro vs Albion FC,15/08/2026,Pablo Alcoba,M,Albion FC,90,7.2,0,0,0,0,0,0,0,63,0,0,0,88,3,0,1,13,1,1,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Abel Hernández,F,Club Atlético Peñarol,71,6.3,0,0,0.62,0,4,1,0,13,0,0,1,21,1,0,0,2,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Maximiliano Olivera,D,Club Atlético Peñarol,90,7.8,1,0,0.31,0,2,1,0,79,0,0,0,93,0,0,0,4,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Raúl Andrés Tarragona Lemos,F,Central Español,90,6.7,0,0,0.21,0,1,0,0,18,0,0,0,27,1,0,1,4,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Washington Aguerre,G,Club Atlético Peñarol,90,6.5,0,0,0,0,0,0,0,19,0,0,0,21,0,0,0,1,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Javier Cabrera,M,Club Atlético Peñarol,79,7.4,0,0,0,0.28,0,0,0,46,3,0,0,58,1,0,2,2,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Mauricio Lemos,D,Club Atlético Peñarol,90,7.3,0,0,0.15,0,1,0,0,55,0,0,0,68,0,0,4,4,1,0,1,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Eric Remedi,M,Club Atlético Peñarol,90,7.5,0,1,0.01,0.19,1,0,0,78,3,0,0,101,0,0,3,5,0,2,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Nicolás Fernández,M,Club Atlético Peñarol,87,7.1,0,0,0.05,0.21,2,1,0,64,1,0,0,78,0,0,2,2,2,0,2,1,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Alejandro Villoldo,D,Central Español,90,6.5,0,0,0,0,0,0,0,30,0,0,0,35,0,0,1,6,1,1,1,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Lucas Hernández,D,Club Atlético Peñarol,19,6.4,0,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Facundo Batista,F,Club Atlético Peñarol,10,6.7,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,1,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,César Nunes,D,Central Español,90,6.5,0,0,0,0,0,0,0,36,0,0,0,53,1,0,3,6,1,3,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Matías Arezo,F,Club Atlético Peñarol,87,7.3,0,0,0.21,0.08,4,2,0,19,1,0,0,30,0,0,0,2,0,1,0,0,1,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Marcos Montiel,M,Central Español,90,6.9,0,0,0,0,0,0,0,44,0,0,0,59,1,0,3,5,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Franco Muñoz,M,Central Español,47,6.6,0,0,0,0,0,0,0,16,0,0,0,21,0,0,0,6,1,2,1,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Lucas Ferreira,D,Club Atlético Peñarol,90,7.6,0,0,0.27,0,2,0,1,55,1,0,0,74,1,1,0,13,1,3,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Máximo Alonso,M,Central Español,7,,0,0,0,0,0,0,0,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Eduardo Darias,M,Club Atlético Peñarol,79,8.2,0,0,0.43,0.01,6,2,0,45,1,0,0,67,4,1,3,10,0,2,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Ignacio Rodríguez,D,Central Español,90,6.9,0,0,0,0,1,0,0,40,0,0,0,59,0,1,1,2,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Matías González,D,Central Español,90,5.9,0,0,0,0,0,0,0,27,0,0,0,36,0,0,1,7,2,0,1,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Luis Miguel Angulo,M,Club Atlético Peñarol,19,6.4,0,0,0,0,0,0,0,6,0,0,0,10,0,0,0,1,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Exequiel Mereles,F,Central Español,7,,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Jonathan Dellarossa,F,Central Español,67,6.6,0,0,0,0,0,0,0,16,0,0,0,21,0,0,0,5,2,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Lucas Pino,M,Central Español,51,6.8,0,0,0,0.21,0,0,0,25,1,0,0,37,2,0,1,5,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Guillermo Gandolfo,M,Central Español,90,7.2,1,0,0.22,0,1,1,0,29,0,0,0,40,0,0,0,7,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Emiliano Marquez,G,Central Español,90,7.2,0,0,0,0,0,0,0,20,0,0,0,21,0,0,0,1,0,0,0,0,0,6
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Fernando Camarda,M,Central Español,31,6.6,0,0,0,0,0,0,0,5,0,0,0,8,0,0,1,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Leandro Umpierrez,M,Club Atlético Peñarol,26,6.6,0,0,0,0.07,0,0,0,12,1,0,0,13,0,0,0,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Ignacio Alegre,D,Club Atlético Peñarol,19,6.6,0,0,0,0,0,0,0,4,0,0,0,6,0,0,1,2,1,1,1,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Isaac Méndez,M,Central Español,67,6.3,0,0,0,0,0,0,0,28,0,0,0,34,0,0,1,0,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Mariano Fernando Aguilera,M,Central Español,31,6.9,0,1,0,0.22,0,0,0,12,1,0,0,19,0,0,0,3,2,2,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Central Español,16/08/2026,Cristian Jaime,F,Club Atlético Peñarol,79,7.5,1,0,0.25,0.34,2,1,0,33,2,0,0,67,4,0,1,10,2,3,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Damián Suárez,D,CA Cerro,90,6.5,0,0,0,0,1,1,0,34,0,0,0,48,2,0,0,5,2,0,1,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Yonatan Irrazábal,G,CA Cerro,90,5.8,0,0,0,0,0,0,0,17,0,0,0,18,0,0,0,0,0,0,0,0,0,3
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Brahian Alemán,M,CA Cerro,90,6.8,0,0,0.1,0,1,1,0,44,0,0,0,54,1,0,1,6,1,3,1,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Leonardo Pais,M,CA Cerro,47,6.3,0,0,0,0,0,0,0,17,0,0,0,29,1,0,0,2,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Rubén Bentancourt,F,Liverpool UY,81,6.9,0,0,0.48,0.3,3,0,0,22,3,0,1,41,1,1,3,4,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Diego Zabala,M,Liverpool UY,9,7,0,0,0,0,0,0,0,7,0,0,0,10,0,0,1,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Facundo Barceló,F,Liverpool UY,14,7.5,1,0,0.04,0,1,1,0,3,1,0,0,7,0,0,0,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Nahuel Arena,D,CA Cerro,90,6.8,0,0,0,0,0,0,0,26,0,0,0,43,0,0,7,8,1,0,0,0,1,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Federico Martínez,F,Liverpool UY,75,8.1,1,0,1.23,0,4,1,0,21,0,0,0,46,1,0,2,8,2,3,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Facundo Perdomo,D,Liverpool UY,90,7.8,0,0,0,0.31,0,0,0,57,2,1,0,72,1,0,3,10,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Kevin Lewis,D,Liverpool UY,75,6.6,0,0,0,0,1,0,0,31,0,0,0,42,0,0,1,3,3,0,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Cristian Barros,M,CA Cerro,67,6.5,0,0,0,0.1,0,0,0,26,1,0,0,33,0,0,0,2,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Nicolás Garayalde,M,Liverpool UY,90,7.6,1,0,1.14,0,4,1,0,54,0,0,1,71,0,1,1,6,1,1,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Juan Cruz Guasone,D,CA Cerro,90,6.6,0,0,0,0,0,0,0,28,0,0,0,36,0,0,4,8,1,1,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Diego Romero,D,Liverpool UY,19,6.7,0,0,0,0,0,0,0,13,1,0,0,16,0,0,1,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Mathias Bernatene,G,Liverpool UY,90,7.4,0,0,0,0,0,0,0,8,0,0,0,8,0,0,0,0,0,0,0,0,0,3
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Agustín Cayetano,D,Liverpool UY,90,7.7,0,0,0.02,0,1,0,0,73,0,0,0,92,0,1,3,3,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Emiliano Rodriguez,F,CA Cerro,28,6.6,0,0,0.1,0,1,1,0,7,0,0,0,12,1,0,0,1,0,0,0,0,1,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Lucas Acosta,M,Liverpool UY,86,7.5,0,0,0.32,0.26,4,1,0,23,2,0,0,45,1,0,3,6,1,2,1,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Ezequiel Forclaz,M,CA Cerro,28,6.5,0,0,0,0,0,0,0,5,0,0,0,6,0,0,0,1,1,1,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Francisco Bregante,D,CA Cerro,90,5.5,0,0,0,0,0,0,0,46,0,0,0,60,0,0,2,8,1,0,1,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Renzo Machado,F,Liverpool UY,86,8.1,1,1,0.41,0.05,1,1,0,26,3,0,0,39,1,0,0,4,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Enzo Castillo,D,Liverpool UY,90,7.3,0,0,0.12,0,2,0,0,72,0,0,0,92,1,0,5,3,2,1,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Augusto Cambón,F,CA Cerro,47,6.5,0,0,0,0,0,0,0,3,0,0,0,6,0,0,0,2,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Ramiro Matias Degregorio,M,Liverpool UY,19,7.4,0,1,0,0.57,0,0,0,9,2,1,0,14,1,0,1,3,0,3,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Alejandro Severo,M,CA Cerro,47,6.4,0,0,0,0,0,0,0,13,0,0,0,18,0,0,0,3,2,0,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Alejo Macelli,M,CA Cerro,90,6.7,0,0,0,0,1,0,0,37,0,0,0,45,0,0,4,7,0,2,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Jairo Amaro,M,CA Cerro,67,6.1,0,0,0,0,0,0,0,22,0,0,0,35,1,0,0,11,2,0,1,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Rodrigo Mederos,M,CA Cerro,47,6.8,0,0,0,0,0,0,0,25,0,0,0,35,0,1,1,5,1,2,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Santiago Strasorier,D,Liverpool UY,90,7.7,0,0,0.15,0,1,1,0,64,0,0,0,82,0,0,3,4,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Liverpool UY vs CA Cerro,21/08/2026,Thiago Brizuela,M,Liverpool UY,9,6.8,0,0,0.02,0,1,1,0,4,0,0,0,9,0,0,0,1,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Guillermo De los Santos,D,Defensor Sporting,90,7.3,0,0,0,0,0,0,0,29,0,0,0,39,0,0,3,6,0,2,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Brian Montenegro,F,Defensor Sporting,90,6.8,0,0,0.48,0,2,1,0,22,0,0,1,41,0,0,1,9,1,2,0,0,1,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Kevin Dawson,G,Defensor Sporting,90,6.4,0,0,0,0,0,0,0,8,0,0,0,8,0,0,0,0,0,0,0,0,0,1
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Edgar Elizalde,D,Defensor Sporting,90,7,0,0,0,0,1,0,0,23,0,0,0,31,0,0,3,2,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,José Neris,F,Defensor Sporting,15,6,0,0,0.46,0,1,0,0,3,0,0,1,7,0,0,0,1,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Gustavo Viera,M,Cerro Largo,82,6.9,0,0,0,0,0,0,0,35,0,0,0,56,3,0,0,7,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Pedro Gonzalez,G,Cerro Largo,90,7.6,0,0,0,0,0,0,0,29,0,0,0,31,0,0,0,0,0,0,0,0,0,5
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Mario García,M,Cerro Largo,90,6.4,0,0,0,0,0,0,0,58,1,0,0,64,0,0,0,5,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Sebastián Assis,M,Cerro Largo,90,6.9,0,0,0,0,0,0,0,86,0,0,0,98,0,0,0,4,3,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Axel Prado,D,Cerro Largo,90,6.1,0,0,0,0,0,0,0,65,0,0,0,87,1,0,1,4,1,0,1,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Santiago Franca,D,Cerro Largo,90,7.5,0,0,0.18,0,2,1,0,60,0,0,0,78,0,0,4,6,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Andres Cordoba,F,Cerro Largo,14,6.9,0,1,0,0.23,0,0,0,11,1,0,0,17,0,0,0,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Lucas De los Santos,M,Defensor Sporting,90,7.4,0,0,0.01,0,1,0,0,36,0,0,0,64,1,0,6,10,2,4,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Julián Pou,D,Cerro Largo,35,6.7,0,0,0,0,1,0,0,27,0,0,0,36,0,0,0,3,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Alexis Segovia,M,Cerro Largo,62,6.5,0,0,0,0.17,0,0,0,28,2,0,0,39,0,0,1,1,2,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Elías de León,F,Cerro Largo,35,6.7,0,0,0,0.02,0,0,0,12,1,0,0,20,0,0,0,2,2,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Lucas Agazzi,D,Defensor Sporting,90,7.5,1,0,0.65,0,1,1,0,22,0,0,0,36,0,0,2,3,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Nicolás Wunsch,M,Defensor Sporting,18,6.7,0,0,0,0.12,0,0,0,2,1,0,0,6,0,0,0,1,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Nicolás Ramos,D,Cerro Largo,62,6.9,0,0,0.2,0,3,0,0,55,0,0,0,73,1,0,2,3,1,1,1,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Erico Cuello Gutiérrez,M,Defensor Sporting,81,7.2,0,0,0.21,0,2,0,0,24,0,0,0,44,1,0,5,9,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Santiago Marcel,M,Cerro Largo,90,7.3,0,0,0.04,0,1,0,0,70,0,0,0,85,1,0,2,10,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Nicolás Medina,M,Defensor Sporting,78,7,0,0,0,0.22,0,0,0,15,4,0,0,36,6,0,1,6,0,0,0,0,1,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Alex Perdomo,F,Defensor Sporting,15,6.4,0,0,0,0,0,0,0,7,0,0,0,10,0,0,0,1,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Germán Barrios,M,Defensor Sporting,90,6.5,0,0,0.13,0.13,2,1,0,27,1,0,0,43,2,0,1,6,2,1,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Alexis Piegas,D,Cerro Largo,90,7.5,0,0,0,0,0,0,0,62,0,0,0,87,5,0,2,15,1,5,1,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Axel Frugone,D,Defensor Sporting,90,7.3,0,0,0,0.01,0,0,0,25,1,0,0,43,0,0,5,6,0,3,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Alfonso de Luca,F,Cerro Largo,35,7.9,1,0,0.23,0,1,1,0,20,0,0,0,37,5,0,1,8,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Alan Torterolo,M,Defensor Sporting,81,7.3,0,0,0.27,0,4,3,0,17,0,0,0,40,2,0,3,7,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Defensor Sporting,22/08/2026,Diego Daguerre,F,Cerro Largo,62,6.6,0,0,0,0,0,0,0,17,0,0,0,25,0,0,0,4,2,1,0,0,1,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Abel Hernández,F,Club Atlético Peñarol,48,6.2,0,0,0,0,0,0,0,3,0,0,0,9,0,0,0,3,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Maximiliano Olivera,D,Club Atlético Peñarol,90,7,0,0,0,0,0,0,0,33,0,0,0,42,0,0,2,5,1,2,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Camilo Mayada,M,Deportivo Maldonado,23,6.4,0,0,0,0,0,0,0,10,0,0,0,14,0,0,0,1,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Renato César,F,Deportivo Maldonado,88,6.6,0,0,0.47,0,2,2,0,21,0,0,1,39,0,0,1,6,2,0,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Washington Aguerre,G,Club Atlético Peñarol,90,8,0,0,0,0,0,0,0,14,0,0,0,16,0,0,0,2,0,1,1,0,0,7
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Diego Laxalt,M,Club Atlético Peñarol,23,6.7,0,0,0,0,0,0,0,10,0,0,0,13,0,0,1,2,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Javier Cabrera,M,Club Atlético Peñarol,90,7,0,0,0.02,0,1,0,0,34,0,0,0,51,1,0,3,5,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Hernán Menosse,D,Deportivo Maldonado,90,7.3,0,0,0.01,0,1,0,0,39,0,0,0,54,1,0,2,10,1,1,1,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Juan Ramos,D,Deportivo Maldonado,90,7.5,0,0,0,0.14,0,0,0,47,2,0,0,57,1,0,1,4,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Eric Remedi,M,Club Atlético Peñarol,74,6.8,0,0,0,0,0,0,0,29,0,0,0,44,1,0,1,7,1,2,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Christian Tabó,F,Deportivo Maldonado,90,7.2,0,0,0.34,0.21,4,1,0,26,3,0,0,54,4,0,0,11,5,0,1,0,1,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Franco Romero,D,Club Atlético Peñarol,90,7.9,0,0,0,0,0,0,0,28,0,0,0,42,0,0,5,8,0,2,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Facundo Batista,F,Club Atlético Peñarol,4,,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,0,1,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Matías Arezo,F,Club Atlético Peñarol,90,6.6,0,0,0.42,0.02,4,0,0,10,1,0,0,34,2,0,1,2,3,0,1,0,1,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Joaquín Fernández,D,Deportivo Maldonado,15,6.6,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Santiago Cartagena,M,Deportivo Maldonado,88,7.7,0,0,0.23,0.46,5,2,0,64,3,1,0,79,0,0,0,9,2,1,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Facundo Tealde,D,Deportivo Maldonado,82,7.2,0,0,0,0,0,0,0,44,0,0,0,57,0,0,3,11,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Lucas Ferreira,D,Club Atlético Peñarol,48,6.9,0,0,0,0,0,0,0,22,0,0,0,32,1,0,0,8,3,0,1,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Lucas Núñez,M,Deportivo Maldonado,9,6.7,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,2,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Eduardo Darias,M,Club Atlético Peñarol,90,7.5,0,0,0.02,0,1,0,0,28,0,0,0,56,1,0,6,17,0,5,1,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Santiago Ramírez,M,Deportivo Maldonado,88,7.7,0,0,0.25,0.35,6,1,1,47,4,0,0,80,2,0,2,11,1,2,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Diego Segovia,G,Deportivo Maldonado,90,6.8,0,0,0,0,0,0,0,15,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Maximiliano González,M,Deportivo Maldonado,90,7.9,0,0,0.25,0,3,0,0,49,0,0,0,70,0,0,6,10,2,1,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Gonzalo Larrazabal,M,Deportivo Maldonado,74,6.5,0,0,0.12,0.01,2,1,0,25,1,0,0,53,1,0,1,9,1,1,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Juan Martin Ginzo,D,Deportivo Maldonado,90,7.3,0,0,0,0,0,0,0,51,1,0,0,70,1,0,0,10,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Leandro Umpierrez,M,Club Atlético Peñarol,49,6.3,0,0,0,0,0,0,0,18,0,0,0,29,0,0,0,5,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Stiven Muhlethaler,M,Club Atlético Peñarol,4,,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Gonzalo Sosa,M,Deportivo Maldonado,9,6.6,0,0,0,0,0,0,0,3,0,0,0,6,0,0,0,1,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Thiago Espinosa,M,Club Atlético Peñarol,90,7.3,0,0,0.15,0,2,0,0,51,0,0,0,68,4,0,0,8,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Brian Barboza,D,Club Atlético Peñarol,49,6.5,0,0,0,0,0,0,0,20,0,0,0,34,1,0,1,4,0,0,0,0,1,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Cristian Jaime,F,Club Atlético Peñarol,90,5.6,0,0,0,0.13,0,0,0,29,2,0,0,61,2,0,0,7,2,1,0,0,0,0
+Liga AUF Uruguaya,2026,Deportivo Maldonado vs Club Atlético Peñarol,22/08/2026,Cayetano Bolzan,F,Deportivo Maldonado,9,6.3,0,0,0,0,0,0,0,3,0,0,0,5,0,0,0,1,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Damián Suárez,D,CA Cerro,90,6.9,0,0,0,0,0,0,0,29,0,0,0,35,0,0,0,8,0,2,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Yonatan Irrazábal,G,CA Cerro,90,7.3,0,0,0,0,0,0,0,20,0,0,0,21,0,0,0,0,0,0,0,0,0,5
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Brahian Alemán,M,CA Cerro,90,7.3,0,0,0.21,0.11,3,1,0,42,1,0,0,58,0,0,1,5,2,4,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Leonardo Pais,M,CA Cerro,67,6.8,0,0,0.01,0,1,0,0,19,0,0,0,27,1,0,1,2,0,0,0,0,1,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Nahuel Arena,D,CA Cerro,90,6.7,0,0,0.62,0,1,0,0,36,0,0,1,47,0,1,2,4,0,1,1,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Martín González,D,Boston River,90,6.8,0,0,0,0,0,0,0,65,0,0,0,79,0,0,1,3,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Juan Acosta,D,Boston River,90,6.7,0,0,0.07,0,1,0,0,52,0,0,0,69,0,0,3,2,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Leandro Suhr,M,Boston River,90,7.6,0,0,0.08,0.14,1,1,0,20,1,0,0,31,3,0,2,4,2,1,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Cristian Barros,M,CA Cerro,90,6.6,0,0,0.11,0.02,1,1,0,35,1,0,0,61,3,0,2,7,0,3,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Yair González,M,Boston River,40,6.5,0,0,0.15,0.06,1,0,0,14,1,0,0,20,0,0,0,1,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Fredy Martínez,D,Boston River,25,7,0,0,0.06,0,1,1,0,6,0,0,0,12,1,0,1,3,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Nicolás Siri,F,Boston River,72,8.3,1,0,0.97,0.04,4,3,0,16,1,0,0,31,3,0,1,8,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Juan Cruz Guasone,D,CA Cerro,90,7.5,0,0,0,0,0,0,0,44,0,0,0,55,0,0,5,5,2,0,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Rodrigo Saravia,M,Boston River,90,6.9,0,0,0,0,0,0,0,62,0,0,0,74,0,0,1,5,2,1,1,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Jairo O'Neil,D,Boston River,90,6.4,0,0,0.01,0,1,0,0,32,0,0,0,42,0,0,0,1,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Agustín Amado,M,Boston River,17,6.6,0,0,0,0,0,0,0,11,0,0,0,16,0,0,0,2,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Emiliano Rodriguez,F,CA Cerro,30,6.5,0,0,0.48,0.1,1,0,0,12,1,0,1,22,0,0,1,3,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Bruno Antúnez,G,Boston River,90,6.6,0,0,0,0,0,0,0,28,0,0,0,30,0,0,0,1,0,1,0,0,0,2
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Francisco Bregante,D,CA Cerro,48,6.7,0,0,0,0,0,0,0,19,0,0,0,25,0,0,1,2,1,1,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Facundo Muñoa,M,Boston River,72,7.1,0,0,0.28,0.08,3,1,1,30,1,0,0,53,1,0,0,4,0,3,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Augusto Cambón,F,CA Cerro,67,7.3,1,0,0.13,0,1,1,0,16,0,0,0,26,0,1,1,4,3,0,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Pablo Nongoy,M,CA Cerro,49,6.8,0,0,0,0,0,0,0,14,0,0,0,18,0,0,0,3,1,0,1,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Mateo Rivero,D,Boston River,90,7.2,0,0,0,0,0,0,0,74,0,0,0,100,0,0,2,5,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Alejo Macelli,M,CA Cerro,90,6.9,0,0,0.48,0,1,0,1,43,1,0,1,46,0,0,1,4,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Agustín Fernández,F,Boston River,25,6.2,0,0,0,0,0,0,0,4,0,0,0,15,0,0,1,2,2,1,1,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Jairo Amaro,M,CA Cerro,90,7.4,0,0,0.03,0,3,0,0,28,0,0,0,50,2,2,1,14,0,2,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Rodrigo Mederos,M,CA Cerro,30,6.8,0,0,0.02,0,1,0,0,20,0,0,0,25,0,2,3,5,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Lautaro Vazquez,M,Boston River,79,6.6,0,0,0.02,0.09,1,0,0,30,1,0,0,52,1,0,1,8,1,1,0,0,1,0
+Liga AUF Uruguaya,2026,Boston River vs CA Cerro,29/08/2026,Facundo Agustin Aristegui Lemos,F,Boston River,57,6.5,0,0,0,0.19,1,0,0,11,1,0,0,31,2,0,1,5,3,0,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Gary Kagelmacher,D,Montevideo City Torque,90,7.6,1,0,0.26,0.01,1,1,0,42,1,0,0,49,0,0,1,3,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Guillermo De los Santos,D,Defensor Sporting,90,6.7,0,0,0.12,0,2,0,0,60,0,0,0,80,0,1,1,6,0,2,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Brian Montenegro,F,Defensor Sporting,83,6.3,0,0,0,0,0,0,0,20,0,0,0,35,1,0,0,7,2,2,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Franco Pizzichillo,M,Montevideo City Torque,17,6.5,0,0,0,0,0,0,0,17,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Gastón Rodríguez,G,Montevideo City Torque,90,6.4,0,0,0,0,0,0,0,17,0,0,0,18,0,0,0,0,0,0,0,0,0,1
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Facundo Castro,M,Defensor Sporting,23,6.5,0,0,0.12,0,1,0,0,13,0,0,0,19,0,1,1,2,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Martín Rabuñal,M,Defensor Sporting,48,6.2,0,0,0,0,0,0,0,18,0,0,0,19,0,0,0,1,2,0,1,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Edgar Elizalde,D,Defensor Sporting,90,6.6,0,0,0,0,0,0,0,53,0,0,0,82,0,0,1,9,1,5,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,José Neris,F,Defensor Sporting,13,6.5,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0,2,0,1,0,0,2,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Facundo Silvera,D,Montevideo City Torque,90,7.6,0,0,0.14,0,2,2,0,55,0,0,0,70,0,0,3,10,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Gonzalo Montes,M,Montevideo City Torque,90,7,0,1,0.06,0.26,1,0,0,54,2,0,0,75,0,0,1,6,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Pablo Siles,M,Montevideo City Torque,90,6.5,0,0,0,0,0,0,0,46,1,0,0,59,0,0,1,7,2,0,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Lucas Machado,G,Defensor Sporting,90,6.5,0,0,0,0,0,0,0,19,0,0,0,20,1,0,1,2,0,0,0,0,0,3
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Salomón Rodríguez,F,Montevideo City Torque,90,8.1,1,1,0.85,0.48,2,1,0,16,1,1,0,27,0,0,1,14,4,1,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Tomás Pozzo,M,Defensor Sporting,73,7.4,0,1,0.03,0.45,1,0,0,33,2,0,0,52,2,0,0,12,2,2,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Esteban Obregón,F,Montevideo City Torque,90,7.9,1,0,0.72,0.09,3,2,0,35,1,0,0,58,3,0,0,10,3,2,1,0,1,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Kevin Silva,D,Montevideo City Torque,90,7.3,0,0,0,0,0,0,0,48,0,0,0,60,0,0,1,15,2,2,1,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Lucas De los Santos,M,Defensor Sporting,48,6.7,0,0,0.04,0,1,0,0,23,0,0,0,34,0,0,2,5,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Eduardo Agüero,D,Montevideo City Torque,90,7.1,0,0,0.22,0.11,2,0,0,39,1,0,0,50,0,0,4,8,2,0,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Lucas Agazzi,D,Defensor Sporting,90,7.8,1,0,0.42,0.45,2,2,0,54,2,0,0,67,1,1,2,11,2,0,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Nicolás Wunsch,M,Defensor Sporting,48,6.7,0,0,0.2,0.02,1,0,0,24,1,0,0,42,1,0,1,4,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Erico Cuello Gutiérrez,M,Defensor Sporting,48,6,0,0,0,0,1,0,0,9,0,0,0,21,0,0,1,3,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Alex Perdomo,F,Defensor Sporting,23,6.5,0,0,0,0,0,0,0,2,0,0,0,6,0,0,0,2,0,0,0,0,1,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Diogo Guzmán,M,Montevideo City Torque,79,6.8,0,0,0.01,0,1,0,0,22,0,0,0,38,2,0,2,9,2,1,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Germán Barrios,M,Defensor Sporting,90,6.8,0,0,0,0,0,0,0,42,0,0,0,60,0,0,0,11,0,2,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Axel Frugone,D,Defensor Sporting,90,6.9,0,0,0,0,0,0,0,33,0,0,0,45,0,1,4,13,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Nahuel Da Silva,F,Montevideo City Torque,7,,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,José Tarán,D,Montevideo City Torque,7,,0,0,0,0,0,0,0,4,0,0,0,6,0,0,1,0,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Lucas Duré,M,Montevideo City Torque,7,,0,0,0,0,0,0,0,4,0,0,0,6,1,0,0,2,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Luka Andrade,F,Montevideo City Torque,74,7.1,0,0,0,0.21,0,0,0,21,1,0,0,41,1,0,1,9,0,3,0,0,0,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Alan Torterolo,M,Defensor Sporting,73,6.8,0,0,0.48,0,3,0,0,18,0,0,0,43,1,0,0,9,0,0,0,0,1,0
+Liga AUF Uruguaya,2026,Defensor Sporting vs Montevideo City Torque,29/08/2026,Ramiro Lecchini,F,Montevideo City Torque,23,6.5,0,0,0,0,0,0,0,6,0,0,0,14,1,0,0,2,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Sebastián Coates,D,Nacional,90,7.7,0,0,0,0,0,0,0,13,0,0,0,26,0,0,5,2,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Abel Hernández,F,Club Atlético Peñarol,61,6.4,0,0,0.33,0.01,1,0,0,11,1,0,1,20,0,1,1,3,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Luis Mejía,G,Nacional,90,7.4,0,0,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0,0,1,0,0,2
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Francisco Calvo,D,Nacional,90,8,1,0,0.22,0,1,1,0,18,0,0,0,27,1,0,2,5,1,0,1,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Maximiliano Olivera,D,Club Atlético Peñarol,90,7.2,0,0,0.11,0,1,0,0,61,0,0,0,81,0,0,2,4,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Nicolás Rodríguez,D,Nacional,19,6.9,0,0,0,0,0,0,0,3,0,0,0,8,0,0,1,2,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Bruno Zuculini,M,Nacional,33,6.7,0,0,0,0,0,0,0,5,0,0,0,9,0,0,1,3,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Washington Aguerre,G,Club Atlético Peñarol,90,6.9,0,0,0,0,0,0,0,26,0,0,0,28,0,0,0,0,0,0,0,0,0,3
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Javier Cabrera,M,Club Atlético Peñarol,77,6.5,0,0,0.34,0,1,1,0,33,0,0,1,42,0,0,0,6,2,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Mauricio Lemos,D,Club Atlético Peñarol,90,7.1,0,0,0,0,0,0,0,71,0,0,0,87,1,0,1,4,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Lucas Rodríguez,M,Nacional,65,7.4,0,0,0,0,0,0,0,10,0,0,0,32,1,1,4,13,3,3,1,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Eric Remedi,M,Club Atlético Peñarol,21,6.9,0,0,0,0,0,0,0,17,0,0,0,32,1,0,0,6,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Maximiliano Gómez,F,Nacional,17,6.4,0,0,0,0,0,0,0,3,0,0,0,5,0,0,0,1,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Nicolás Fernández,M,Club Atlético Peñarol,77,7.1,0,0,0.03,0.33,2,0,0,48,1,0,0,67,0,0,0,16,1,1,0,0,1,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Lucas Hernández,D,Club Atlético Peñarol,38,7,0,0,0.07,0.26,1,0,0,11,2,0,0,19,1,0,0,2,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Camilo Cándido,D,Nacional,49,6.8,0,0,0.22,0,1,1,0,7,0,0,0,14,0,0,2,3,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Emiliano Ancheta,D,Nacional,79,7.2,0,0,0,0,0,0,0,30,0,0,0,41,0,0,2,9,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Matías Arezo,F,Club Atlético Peñarol,90,7.1,0,0,0.13,0,5,0,0,17,0,0,0,33,1,0,2,5,1,1,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Luciano Boggio,M,Nacional,90,7.4,0,1,0,0.22,0,0,0,31,1,0,0,43,0,1,2,8,1,0,0,0,1,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Gastón Martirena,D,Nacional,90,6.7,0,0,0.02,0,3,2,0,26,1,0,0,52,1,1,0,10,2,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Lucas Ferreira,D,Club Atlético Peñarol,48,6.5,0,0,0,0,0,0,0,37,0,0,0,46,0,0,0,0,1,0,1,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Eduardo Darias,M,Club Atlético Peñarol,90,7,0,0,0,0,0,0,0,31,0,0,0,56,0,0,0,18,1,4,1,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Luis Miguel Angulo,M,Club Atlético Peñarol,21,7,0,0,0,0,0,0,0,12,1,0,0,22,4,0,0,5,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Maximiliano Silvera,F,Nacional,81,6.8,0,0,0,0,0,0,0,16,1,0,0,31,0,0,0,10,4,4,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Santiago Silva,M,Nacional,79,6.6,0,0,0.02,0,1,0,0,19,0,0,0,31,0,0,1,4,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Tomás Viera,D,Nacional,90,7.1,0,0,0,0,0,0,0,12,0,0,0,21,0,0,0,10,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Thiago Espinosa,M,Club Atlético Peñarol,61,6.7,0,0,0,0,0,0,0,19,0,0,0,30,0,0,2,6,1,2,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Brian Barboza,D,Club Atlético Peñarol,50,7,0,0,0.15,0,1,1,0,31,0,0,0,37,1,0,0,3,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Luciano González,M,Nacional,19,6.6,0,0,0,0,0,0,0,7,0,0,0,8,0,0,0,3,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Rodrigo Martínez,M,Nacional,49,6.4,0,0,0.04,0,1,0,0,8,0,0,0,21,0,0,0,4,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Cristian Jaime,F,Club Atlético Peñarol,90,6.4,0,0,0,0,0,0,0,33,0,1,0,63,2,0,1,8,0,2,1,0,0,0
+Liga AUF Uruguaya,2026,Club Atlético Peñarol vs Nacional,30/08/2026,Gonzalo Gelini,F,Club Atlético Peñarol,38,6.6,0,0,0,0,0,0,0,7,0,0,0,20,1,0,0,5,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Rubén Bentancourt,F,Liverpool UY,90,7.3,1,0,0.34,0.11,3,1,0,22,1,0,0,37,0,1,0,6,1,1,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Brian Lozano,M,Cerro Largo,17,6.6,0,0,0,0,0,0,0,11,0,0,0,12,0,0,1,1,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Diego Zabala,M,Liverpool UY,7,,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Gustavo Viera,M,Cerro Largo,63,6.3,0,0,0.01,0,1,0,0,13,0,0,0,21,0,0,0,4,3,1,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Federico Martínez,F,Liverpool UY,89,7.1,0,0,0.24,0.1,3,2,0,27,2,0,0,46,0,0,2,2,0,0,0,0,1,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Facundo Perdomo,D,Liverpool UY,90,7,0,0,0,0,0,0,0,36,0,0,0,47,0,0,2,6,1,1,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Pedro Gonzalez,G,Cerro Largo,90,7,0,0,0,0,0,0,0,16,0,0,0,18,0,0,0,0,0,0,0,0,0,2
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Mario García,M,Cerro Largo,88,7.7,0,0,0.11,0.28,1,0,0,51,3,0,0,69,1,0,2,14,1,3,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Kevin Lewis,D,Liverpool UY,86,7.1,0,0,0.01,0,1,0,0,27,0,0,0,42,1,0,1,9,0,2,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Lucas Correa,D,Cerro Largo,90,7.5,0,0,0,0,0,0,0,26,0,0,0,44,1,1,4,8,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Sebastián Assis,M,Cerro Largo,88,7.1,0,0,0.04,0,1,1,0,48,0,0,0,61,0,0,3,2,2,1,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Axel Prado,D,Cerro Largo,17,6.5,0,0,0,0,0,0,0,6,0,0,0,8,0,0,0,1,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Nicolás Garayalde,M,Liverpool UY,89,7.3,0,0,0.09,0,1,0,0,49,0,0,0,63,1,1,2,11,1,2,1,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Diego Romero,D,Liverpool UY,31,6.6,0,0,0.11,0.02,1,0,0,11,1,0,0,18,0,0,0,1,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Santiago Franca,D,Cerro Largo,90,6.8,0,1,0,0.19,0,0,0,50,1,0,0,62,0,0,1,8,2,1,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Mathias Bernatene,G,Liverpool UY,90,6.8,0,0,0,0,0,0,0,13,0,0,0,14,0,0,0,0,0,0,0,0,0,2
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Santiago Milano,M,Liverpool UY,7,,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Agustín Cayetano,D,Liverpool UY,90,7.4,0,1,0,0.32,1,0,0,54,2,0,0,63,1,1,1,7,1,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Rafael Haller,D,Liverpool UY,66,6.7,0,0,0.1,0,1,0,0,28,0,0,0,41,0,0,2,4,0,2,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Alexis Segovia,M,Cerro Largo,8,6.6,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,1,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Renzo Machado,F,Liverpool UY,66,6.9,0,0,0,0,1,0,0,7,0,0,0,18,0,0,1,5,2,3,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Ezequiel Olivera,M,Liverpool UY,10,6.5,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,1,1,1,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Enzo Castillo,D,Liverpool UY,90,7.4,0,0,0.04,0,2,0,0,38,0,0,0,58,1,0,5,8,1,2,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Alexander Hernandez,D,Cerro Largo,90,6.8,0,0,0,0,0,0,0,28,0,0,0,44,0,0,2,4,1,0,1,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Nicolás Ramos,D,Cerro Largo,8,6.7,0,0,0,0,0,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Ramiro Matias Degregorio,M,Liverpool UY,31,6.9,0,0,0,0.13,0,0,0,20,2,0,0,32,2,0,0,6,1,1,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Santiago Marcel,M,Cerro Largo,90,7,0,0,0.01,0,1,0,0,50,0,0,0,65,1,0,1,7,3,1,1,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Alexis Piegas,D,Cerro Largo,90,7.9,0,0,0,0,0,0,0,19,0,0,0,35,0,1,4,11,1,1,1,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Alfonso de Luca,F,Cerro Largo,34,6.5,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,1,1,0,0,0,2,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Axel Pandiani,M,Cerro Largo,80,7.4,1,0,0.45,0,2,2,0,25,0,0,0,37,0,0,1,4,2,0,1,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Santiago Strasorier,D,Liverpool UY,90,7.2,0,0,0,0,0,0,0,41,0,0,0,50,0,0,2,8,0,1,0,0,0,0
+Liga AUF Uruguaya,2026,Cerro Largo vs Liverpool UY,30/08/2026,Diego Daguerre,F,Cerro Largo,80,6.7,0,0,0,0,0,0,0,20,0,0,0,29,1,0,0,3,0,1,0,0,0,0

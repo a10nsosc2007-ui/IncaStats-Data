@@ -1,0 +1,664 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Takashi Usami,M,Gamba Osaka,56,6.3,0,0,0,0,1,0,0,17,0,0,0,23,0,0,1,1,0,1,0,0,1,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Shinnosuke Nakatani,D,Gamba Osaka,90,8.3,1,0,0,0,1,1,0,100,1,1,0,119,0,0,1,1,1,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Deniz Hümmet,F,Gamba Osaka,34,5.8,0,0,0,0,4,0,0,5,0,0,1,14,0,0,1,2,1,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Ryo Hatsuse,D,Gamba Osaka,90,6.6,0,1,0,0,2,0,0,77,3,0,0,107,0,2,0,3,1,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Yasuki Kimoto,D,Mito Hollyhock,58,7,0,0,0,0,0,0,0,23,1,0,0,31,0,0,1,3,2,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Takeru Kishimoto,D,Gamba Osaka,90,6.3,0,0,0,0,0,0,0,75,1,0,0,96,1,0,1,4,1,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Akinari Kawazura,D,Mito Hollyhock,32,6.4,0,0,0,0,0,0,0,7,0,0,0,11,0,1,0,2,1,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Taishi Semba,M,Mito Hollyhock,90,7,0,0,0,0,1,1,0,30,1,0,0,49,0,5,0,5,2,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Arata Watanabe,F,Mito Hollyhock,63,6.7,0,0,0,0,0,0,0,9,0,0,0,19,0,1,1,3,2,2,0,0,1,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Matheus Leiria,M,Mito Hollyhock,9,6.8,0,0,0,0,0,0,0,2,0,0,0,5,0,2,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Shogo Sasaki,D,Gamba Osaka,45,7.8,0,0,0,0,1,0,0,50,1,0,0,62,0,1,0,5,0,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Shuto Abe,M,Gamba Osaka,90,6.6,0,0,0,0,1,0,0,82,0,0,0,87,0,0,0,1,2,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Asahi Uenaka,M,Gamba Osaka,90,6.9,0,0,0,0,2,2,0,17,1,0,2,32,0,0,0,4,0,3,0,0,1,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Ryoya Yamashita,M,Gamba Osaka,90,7,0,0,0,0,2,0,0,37,2,0,0,50,2,0,0,5,1,2,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Takumi Mase,D,Mito Hollyhock,90,7.2,0,0,0,0,0,0,0,24,1,0,0,38,2,1,1,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Chihiro Kato,M,Mito Hollyhock,45,6.6,0,0,0,0,3,0,0,8,2,0,0,22,2,0,1,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Yu Funabashi,M,Mito Hollyhock,81,7.1,0,0,0,0,2,0,0,32,1,0,0,47,0,1,1,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Konosuke Nishikawa,G,Mito Hollyhock,90,7.1,0,0,0,0,0,0,0,30,0,0,0,44,0,0,0,0,0,0,0,0,0,3
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Kaito Taniguchi,M,Mito Hollyhock,63,6.8,0,1,0,0,3,0,2,13,1,1,0,24,0,1,0,3,1,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Yoshiki Torikai,M,Mito Hollyhock,45,8.1,1,0,0,0,2,2,0,11,0,0,0,22,0,0,0,2,0,2,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Eli Adams,M,Gamba Osaka,21,6.7,0,0,0,0,2,0,0,9,0,0,0,17,0,2,0,2,1,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Rin Mito,M,Gamba Osaka,69,6.8,0,0,0,0,0,0,0,41,0,0,0,56,0,3,0,5,1,2,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Sho Omori,D,Mito Hollyhock,90,6.5,0,0,0,0,0,0,0,29,1,0,0,54,0,1,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Kotaro Uchino,F,Mito Hollyhock,90,6.2,0,0,0,0,2,1,0,14,2,0,0,25,0,0,0,3,2,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Gaku Nawata,M,Gamba Osaka,90,6.3,0,0,0,0,3,1,0,26,0,0,0,44,0,1,1,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Rui Araki,G,Gamba Osaka,90,6.8,0,0,0,0,0,0,0,28,0,0,0,36,0,0,0,1,0,1,0,0,0,2
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Yamamota Hayata,M,Mito Hollyhock,27,6.3,0,0,0,0,2,0,0,4,0,0,0,9,0,1,0,1,1,0,1,0,1,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Ginjiro Ikegaya,D,Gamba Osaka,45,6.1,0,0,0,0,0,0,0,59,0,0,0,61,0,0,1,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Tada Keisuke,F,Mito Hollyhock,27,6.6,0,0,0,0,1,0,0,2,0,0,0,10,0,0,1,2,1,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Gamba Osaka,15/08/2026,Kenta Itakura,D,Mito Hollyhock,90,7.7,0,0,0,0,1,0,0,40,1,0,0,61,0,1,1,6,1,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Kensuke Nagai,F,Nagoya Grampus,13,6.5,0,0,0,0,0,0,0,3,0,0,0,8,0,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Gaku Shibasaki,M,Kashima Antlers,21,7,0,0,0,0,1,0,0,32,0,0,0,41,1,1,0,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Naomichi Ueda,D,Kashima Antlers,90,6.1,0,0,0,0,1,0,0,40,0,0,1,49,0,0,0,4,0,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Yuki Nogami,D,Nagoya Grampus,45,6.3,0,0,0,0,0,0,0,20,0,0,0,25,0,0,0,1,1,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Kento Misao,M,Kashima Antlers,90,6.6,0,0,0,0,1,0,0,67,1,0,0,85,0,2,0,4,5,1,1,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Sho Inagaki,M,Nagoya Grampus,90,6.8,0,0,0,0,3,0,0,62,2,0,0,88,0,4,9,5,2,0,1,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Rikuto Hirose,D,Kashima Antlers,90,6.9,0,0,0,0,0,0,0,43,0,0,0,65,1,1,0,4,0,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Léo Ceará,F,Kashima Antlers,69,7.7,1,0,0,0,3,2,0,23,3,0,0,38,0,0,0,4,2,2,1,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Aleksandar Čavrić,M,Kashima Antlers,21,6.6,0,0,0,0,2,0,1,15,0,0,0,21,1,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Ryoya Ogawa,D,Kashima Antlers,90,7,0,0,0,0,1,0,0,40,1,0,0,69,1,1,1,3,2,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Yuma Suzuki,F,Kashima Antlers,88,6.4,0,0,0,0,3,3,0,38,2,0,0,50,0,1,0,6,2,1,1,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Mateus,F,Nagoya Grampus,45,6.3,0,0,0,0,3,0,0,9,0,0,0,16,0,0,0,0,0,0,0,0,1,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Ryuji Izumi,F,Nagoya Grampus,74,6.5,0,0,0,0,0,0,0,31,0,0,0,52,2,2,1,6,1,2,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Yuya Yamagishi,F,Nagoya Grampus,45,6.1,0,0,0,0,1,0,1,7,0,0,1,12,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Takuya Uchida,M,Nagoya Grampus,90,6.1,0,0,0,0,0,0,0,26,0,0,0,46,0,1,1,3,0,2,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Teruki Hara,D,Nagoya Grampus,88,6.4,0,0,0,0,1,0,0,44,1,0,0,59,0,0,1,3,3,2,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Haruya Fujii,D,Nagoya Grampus,90,7.3,0,0,0,0,2,0,0,81,2,0,0,113,0,5,3,9,0,2,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Matheus Bueno,M,Kashima Antlers,69,7.1,0,0,0,0,1,0,0,35,0,0,0,49,0,2,0,3,2,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Ikuma Sekigawa,D,Kashima Antlers,90,7.5,0,0,0,0,0,0,0,41,0,0,0,53,0,1,2,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Tomoki Takamine,M,Nagoya Grampus,90,7.1,0,0,0,0,1,0,0,55,1,1,0,76,0,4,2,6,2,2,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Yuya Asano,M,Nagoya Grampus,16,6.4,0,0,0,0,1,1,0,7,0,0,1,11,1,0,0,2,1,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Katsuhiro Nakayama,M,Nagoya Grampus,90,6.3,0,0,0,0,1,0,0,32,0,0,0,48,0,0,0,2,2,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Yuta Matsumura,M,Kashima Antlers,47,6.7,0,0,0,0,2,0,0,15,1,0,0,26,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Yan Matheus,M,Kashima Antlers,43,7,0,1,0,0,1,1,0,12,1,0,0,25,0,1,0,4,0,2,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Shuhei Tokumoto,D,Nagoya Grampus,45,6.7,0,0,0,0,0,0,0,27,0,0,0,42,1,0,1,1,1,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Tomoki Hayakawa,G,Kashima Antlers,90,6.7,0,0,0,0,0,0,0,42,0,0,0,53,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Yota Sato,D,Nagoya Grampus,12,6.6,0,0,0,0,0,0,0,4,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Yudai Kimura,F,Nagoya Grampus,87,6.9,0,0,0,0,0,0,0,11,1,0,0,30,1,1,0,4,1,2,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Alexandre Pisano,G,Nagoya Grampus,90,6.5,0,0,0,0,0,0,0,58,0,0,0,75,0,0,0,0,0,0,0,0,0,5
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Homare Tokuda,F,Kashima Antlers,12,6.6,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Minato Yoshida,F,Kashima Antlers,45,6.5,0,0,0,0,0,0,0,14,0,0,0,15,0,0,0,0,1,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Nagoya Grampus,15/08/2026,Haruki Hayashi,M,Kashima Antlers,45,6.9,0,0,0,0,0,0,0,19,0,0,0,36,0,2,0,7,0,3,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Ryo Miyaichi,F,Yokohama F. Marinos,8,6.3,0,0,0,0,0,0,0,5,0,0,0,8,0,2,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Takuya Kida,M,Yokohama F. Marinos,8,6.5,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Rubén Blanco,G,Yokohama F. Marinos,90,7.8,0,0,0,0,0,0,0,42,0,0,0,51,0,0,0,0,0,0,0,0,0,5
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Kinoshita Kosuke,F,Shimizu S-Pulse,73,6.6,0,0,0,0,3,0,0,11,0,0,0,19,0,0,0,5,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Yuki Honda,D,Shimizu S-Pulse,90,6.5,0,0,0,0,0,0,0,32,0,0,0,41,0,1,2,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Kazuki Kozuka,M,Shimizu S-Pulse,14,6.7,0,0,0,0,0,0,0,7,0,0,0,11,0,1,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Kei Koizumi,M,Shimizu S-Pulse,17,6.4,0,0,0,0,0,0,0,10,0,0,0,14,0,1,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Jun Amano,M,Yokohama F. Marinos,90,6.5,0,0,0,0,3,0,0,38,1,0,0,54,1,0,0,3,3,2,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Koya Kitagawa,F,Shimizu S-Pulse,87,7.3,0,0,0,0,3,2,0,14,2,1,2,27,2,1,0,6,1,0,0,0,2,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Capixaba,M,Shimizu S-Pulse,17,6.4,0,0,0,0,0,0,0,4,0,0,0,16,1,0,0,4,0,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Kei Chinen,M,Yokohama F. Marinos,89,7,0,0,0,0,1,1,0,54,0,0,0,79,0,3,1,12,2,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Togo Umeda,G,Shimizu S-Pulse,90,6.6,0,0,0,0,0,0,0,20,0,0,0,24,0,0,0,2,0,1,0,0,0,2
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Ryo Germain,F,Shimizu S-Pulse,90,6.1,0,0,0,0,0,0,0,17,1,1,0,28,1,1,0,4,2,1,1,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Jeisson Quiñónes,D,Yokohama F. Marinos,90,7.8,0,0,0,0,0,0,0,63,1,0,0,85,0,2,4,5,0,2,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Mateus Brunetti,D,Shimizu S-Pulse,90,7.1,0,0,0,0,0,0,0,43,2,0,0,74,0,1,3,7,4,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Dieguinho,M,Shimizu S-Pulse,84,6.4,0,0,0,0,0,0,0,25,0,0,0,37,0,1,1,5,1,2,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Tomoya Fujii,M,Shimizu S-Pulse,73,6.8,0,0,0,0,3,1,0,15,0,0,1,29,0,1,0,4,0,2,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Kai Matsuzaki,M,Shimizu S-Pulse,11,6.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Hidehiro Sugai,D,Shimizu S-Pulse,90,6.9,0,0,0,0,1,1,0,20,3,0,0,63,0,1,0,9,1,6,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Ryotaro Tsunoda,D,Yokohama F. Marinos,90,6.9,0,0,0,0,0,0,0,30,0,0,0,62,0,4,2,7,2,2,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Tomoki Kondo,M,Yokohama F. Marinos,82,7.5,0,1,0,0,1,1,0,23,5,0,0,47,3,2,0,8,2,1,0,0,1,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Rio Nitta,F,Yokohama F. Marinos,8,6.7,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Seung-wook Park,D,Shimizu S-Pulse,90,6.7,0,0,0,0,2,0,0,28,0,0,0,42,0,0,1,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Kanta Chiba,F,Shimizu S-Pulse,11,6.6,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Riku Yamane,M,Yokohama F. Marinos,1,,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Kosuke Matsumura,M,Yokohama F. Marinos,82,7.5,0,0,0,0,1,0,0,40,1,0,0,53,5,0,0,7,1,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Kosei Suwama,D,Yokohama F. Marinos,90,7,0,0,0,0,0,0,0,42,0,0,0,55,0,0,1,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Kaina Tanimura,F,Yokohama F. Marinos,82,6,0,0,0,0,2,0,0,14,0,0,0,25,1,1,0,3,0,0,0,0,1,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Taisei Inoue,D,Yokohama F. Marinos,90,8.1,1,0,0,0,1,1,0,55,0,0,0,73,0,2,0,3,2,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Yudai Shimamoto,M,Shimizu S-Pulse,87,6.7,0,0,0,0,0,0,0,23,1,0,0,40,0,0,0,5,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Yokohama F. Marinos,15/08/2026,Shin Miidera,M,Yokohama F. Marinos,90,6.3,0,0,0,0,2,0,0,17,1,0,0,31,2,1,2,6,4,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Yamaguchi Hotaru,M,V-Varen Nagasaki,64,6.5,0,0,0,0,0,0,0,27,0,0,0,30,0,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Eduardo,D,V-Varen Nagasaki,23,6.8,0,0,0,0,0,0,0,7,0,0,0,17,0,0,2,0,1,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Ibuki Fujita,M,Fagiano Okayama,1,,0,0,0,0,0,0,0,2,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Yamasaki Ryogo,F,V-Varen Nagasaki,45,6.5,0,0,0,0,0,0,0,7,0,0,0,15,0,0,0,4,2,2,0,0,1,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Kosuke Shirai,M,Fagiano Okayama,89,6.7,0,0,0,0,3,0,0,16,1,0,0,36,0,0,0,2,1,2,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Ataru Esaka,F,Fagiano Okayama,76,7.1,0,0,0,0,1,1,0,33,2,0,0,48,0,1,0,4,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Shindo Ryosuke,D,V-Varen Nagasaki,90,6.9,0,0,0,0,0,0,0,59,0,0,0,73,0,2,0,6,1,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Thiago Santana,F,V-Varen Nagasaki,45,6.1,0,0,0,0,2,0,0,7,0,0,0,17,0,0,0,3,0,1,0,0,1,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Kazunari Ichimi,F,Fagiano Okayama,14,6.4,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Takuma Ominami,D,V-Varen Nagasaki,90,6.4,0,0,0,0,0,0,0,80,0,0,0,93,0,1,2,3,2,1,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Arai Ikki,D,V-Varen Nagasaki,67,7.1,0,0,0,0,0,0,0,63,0,0,0,75,0,0,0,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Towa Yamane,M,Fagiano Okayama,90,6.7,0,0,0,0,2,0,0,47,2,0,0,78,0,0,0,1,0,1,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Yoshitake Suzuki,D,Fagiano Okayama,90,7.2,0,0,0,0,1,0,0,39,1,1,0,58,0,3,3,8,2,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Riku Yamada,M,V-Varen Nagasaki,90,6.9,0,0,0,0,0,0,0,65,0,0,0,78,0,1,1,4,1,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Yugo Tatsuta,D,Fagiano Okayama,90,7.2,0,0,0,0,0,0,0,35,1,0,0,42,0,0,1,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Iwasaki Yuto,F,V-Varen Nagasaki,81,6.3,0,0,0,0,1,0,1,23,0,0,1,30,0,0,0,2,0,1,0,0,2,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Goto Masaaki,G,V-Varen Nagasaki,90,6,0,0,0,0,0,0,0,33,0,0,0,44,0,0,0,1,0,1,0,0,0,2
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Onaga Hijiri,M,V-Varen Nagasaki,90,7.1,0,0,0,0,0,0,0,53,2,0,0,79,1,1,0,6,1,2,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Lennart Moser,G,Fagiano Okayama,90,6.6,0,0,0,0,0,0,0,19,1,0,0,22,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Lucão,F,Fagiano Okayama,65,7.8,1,0,0,0,5,1,0,18,1,0,1,37,1,0,1,8,3,3,0,0,2,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Yoneda Shunya,M,V-Varen Nagasaki,25,6.6,0,0,0,0,0,0,0,12,0,0,0,15,1,0,0,1,1,0,1,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Sang-Ho Na,F,Fagiano Okayama,75,6.5,0,0,0,0,1,1,0,23,2,0,0,42,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Jun Nishikawa,M,Fagiano Okayama,15,6.6,0,0,0,0,0,0,0,6,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Masahiro Sekiguchi,M,V-Varen Nagasaki,65,6.3,0,0,0,0,0,0,0,18,0,0,0,34,0,1,1,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Motoki Hasegawa,F,V-Varen Nagasaki,90,6.7,0,0,0,0,0,0,0,52,1,1,0,63,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Léo Gaúcho,F,Fagiano Okayama,25,6.5,0,0,0,0,2,0,0,9,0,0,0,16,1,0,0,2,1,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Hiroshi Omori,D,Fagiano Okayama,90,7.2,0,0,0,0,0,0,0,29,0,0,0,49,0,1,3,4,1,2,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Oberdan Alionço,M,Fagiano Okayama,90,6.9,0,0,0,0,1,0,0,59,0,0,0,73,1,1,5,4,1,1,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Eiji Miyamoto,M,Fagiano Okayama,89,7.1,0,1,0,0,5,0,0,30,1,1,0,43,0,1,2,3,2,1,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Tenmu Matsumoto,M,V-Varen Nagasaki,26,6.6,0,0,0,0,0,0,0,12,0,0,0,16,0,0,1,2,1,2,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Reijin Kou,F,V-Varen Nagasaki,9,6.5,0,0,0,0,0,0,0,7,0,0,0,12,0,0,1,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs V-Varen Nagasaki,15/08/2026,Ikedo Shu,D,Fagiano Okayama,1,,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Shuichi Gonda,G,Vissel Kobe,90,7.1,0,0,0,0,0,0,0,52,0,0,0,61,0,0,0,2,0,1,0,0,0,2
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Masato Morishige,D,FC Tokyo,90,7.6,0,0,0,0,1,0,0,27,0,0,0,54,0,1,2,10,0,2,0,0,1,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Yuya Osako,F,Vissel Kobe,90,6.7,1,0,0,0,3,1,0,23,0,0,0,39,0,0,1,5,1,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Gotoku Sakai,D,Vissel Kobe,49,6.7,0,0,0,0,1,0,0,29,0,0,0,46,0,2,0,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Alexander Scholz,D,FC Tokyo,90,7.1,0,0,0,0,0,0,0,40,0,0,0,61,0,1,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Kento Hashimoto,M,FC Tokyo,90,7,0,0,0,0,1,0,0,26,0,0,0,48,3,1,1,7,1,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Sei Muroya,D,FC Tokyo,90,5.9,0,0,0,0,2,1,0,31,1,0,0,52,0,1,2,1,3,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Kim Seung-gyu,G,FC Tokyo,90,5.3,0,0,0,0,0,0,0,29,0,0,0,42,0,0,0,0,0,0,0,0,0,1
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Haruya Ide,M,Vissel Kobe,16,6.5,0,0,0,0,1,0,0,8,0,0,0,15,0,0,0,2,2,1,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Yoshinori Muto,F,Vissel Kobe,90,7.7,1,0,0,0,1,1,0,29,2,0,0,52,2,1,0,4,1,1,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Yosuke Ideguchi,M,Vissel Kobe,83,6.4,0,0,0,0,2,0,0,25,0,0,0,44,0,2,2,2,2,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Teruhito Nakagawa,F,FC Tokyo,27,6.7,0,1,0,0,0,0,0,7,1,0,0,13,0,1,0,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Diego,M,Vissel Kobe,90,7.2,0,0,0,0,0,0,0,31,2,0,0,65,0,0,1,4,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Tetsushi Yamakawa,D,Vissel Kobe,90,7.3,0,1,0,0,1,0,0,65,1,0,0,82,0,2,0,8,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Hirokazu Ishihara,D,FC Tokyo,27,6.6,0,0,0,0,0,0,0,7,0,0,0,15,1,1,0,4,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Takahiro Ko,M,FC Tokyo,63,6.5,0,0,0,0,1,0,0,35,0,0,0,43,0,1,2,1,1,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Katsuya Nagato,D,Vissel Kobe,74,7,0,0,0,0,0,0,0,20,2,0,0,33,0,0,0,3,0,2,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Issei Takahashi,D,Vissel Kobe,41,6.8,0,0,0,0,2,0,0,21,0,0,0,31,0,1,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Shion Homma,M,FC Tokyo,89,6.5,0,0,0,0,1,0,0,22,1,0,0,34,0,1,1,2,1,0,0,0,1,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Ren Komatsu,F,Vissel Kobe,16,6.6,0,0,0,0,1,0,0,5,0,0,0,10,0,0,0,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Thuler,D,Vissel Kobe,90,7.8,0,0,0,0,0,0,0,72,0,0,0,95,0,1,3,6,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Yuta Goke,M,Vissel Kobe,74,6.7,0,0,0,0,1,1,0,11,0,0,0,18,0,2,0,5,0,2,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Kashif Bangnagande,D,FC Tokyo,63,6.6,0,0,0,0,1,0,0,17,3,0,0,39,1,1,0,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Marcelo Ryan,F,FC Tokyo,63,6.3,0,0,0,0,3,0,0,11,1,0,0,18,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Yuya Kuwasaki,M,Vissel Kobe,74,6.6,0,0,0,0,0,0,0,24,0,0,0,32,0,0,0,0,1,0,0,0,1,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Kein Sato,M,FC Tokyo,74,7,0,1,0,0,1,0,0,23,3,1,0,39,0,2,0,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Mitsuki Hidaka,M,Vissel Kobe,16,6.7,0,0,0,0,0,0,0,15,0,0,0,20,0,0,1,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Motoki Nagakura,F,FC Tokyo,90,8.7,2,0,0,0,5,3,1,30,1,0,0,54,0,1,1,6,1,3,0,0,1,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Soma Anzai,M,FC Tokyo,16,6.5,0,0,0,0,0,0,0,1,0,0,0,6,0,0,1,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Kento Hamasaki,M,Vissel Kobe,16,6.5,0,0,0,0,0,0,0,9,0,0,0,11,0,0,0,1,1,1,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Kyota Tokiwa,M,FC Tokyo,27,6.2,0,0,0,0,0,0,0,13,0,0,0,15,1,0,0,1,1,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs FC Tokyo,15/08/2026,Tsuna Kominato,F,FC Tokyo,10,6.4,0,0,0,0,0,0,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Shinji Kagawa,M,Cerezo Osaka,60,6.7,0,0,0,0,0,0,0,25,0,0,0,27,0,0,0,1,1,1,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Kyohei Noborizato,D,Cerezo Osaka,12,6.6,0,0,0,0,0,0,0,8,0,0,0,8,0,0,0,0,1,0,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Kosuke Nakamura,G,Cerezo Osaka,90,5.9,0,0,0,0,0,0,0,42,0,0,0,52,1,0,0,2,0,1,0,0,0,3
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Jackson Irvine,M,Cerezo Osaka,45,7,0,0,0,0,1,0,0,51,0,0,0,57,0,4,0,4,0,0,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Nara Tatsuki,D,Avispa Fukuoka,12,6.8,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Dion Cools,D,Cerezo Osaka,90,5.7,0,0,0,0,1,0,0,77,2,1,0,107,0,1,2,3,2,0,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Shinnosuke Hatanaka,D,Cerezo Osaka,90,6.1,0,0,0,0,0,0,0,77,0,0,0,92,1,0,2,4,0,2,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Takumi Nagaishi,G,Avispa Fukuoka,90,7.1,0,0,0,0,0,0,0,35,0,0,0,39,0,0,0,1,0,0,0,0,0,1
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Pablo Sabbag,F,Cerezo Osaka,12,6.4,0,0,0,0,2,1,0,5,0,0,0,12,1,0,0,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Keiya Shiihashi,M,Avispa Fukuoka,23,6.4,0,0,0,0,0,0,0,8,0,0,0,13,0,1,1,1,1,0,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Shintaro Nago,F,Avispa Fukuoka,28,6.7,0,0,0,0,1,0,0,6,1,1,0,13,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Takumi Nakamura,D,Cerezo Osaka,78,6.3,0,0,0,0,0,0,0,33,0,0,0,51,1,0,0,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Kennedy Egbus Mikuni,D,Avispa Fukuoka,84,7.2,0,0,0,0,1,0,0,20,0,0,0,28,0,0,1,8,0,2,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Teppei Oka,D,Avispa Fukuoka,90,7.3,0,0,0,0,0,0,0,20,0,0,0,33,0,1,1,8,0,1,0,0,1,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Shunta Tanaka,M,Cerezo Osaka,90,6,0,0,0,0,1,0,0,63,1,0,1,76,0,1,1,3,1,1,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Ayumu Ohata,D,Cerezo Osaka,84,6.1,0,0,0,0,0,0,0,22,1,0,0,40,0,1,0,2,2,1,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Tomoya Miki,M,Avispa Fukuoka,90,7.3,0,0,0,0,2,1,0,30,0,0,0,43,1,3,1,5,3,1,0,0,1,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Solomon Sakuragawa,F,Cerezo Osaka,90,5.7,0,0,0,0,1,0,1,18,1,0,0,31,0,0,0,5,2,1,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Daiki Fukazawa,M,Avispa Fukuoka,28,7.1,0,1,0,0,0,0,0,8,1,1,0,15,0,0,1,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Kazuki Fujimoto,M,Avispa Fukuoka,62,8.1,1,0,0,0,1,1,0,15,0,0,0,25,3,1,0,5,0,1,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Rikito Inoue,D,Cerezo Osaka,90,6.8,0,0,0,0,0,0,0,67,0,0,0,81,0,2,1,6,0,0,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Thiago Andrade,M,Cerezo Osaka,30,6.3,0,0,0,0,0,0,0,13,0,0,0,17,0,1,0,1,1,0,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Yota Komi,M,Cerezo Osaka,30,6.6,0,0,0,0,0,0,0,18,0,0,0,28,1,1,1,3,1,1,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Kosei Okazawa,M,Cerezo Osaka,45,6.4,0,0,0,0,0,0,0,21,0,0,0,27,0,0,1,1,0,1,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Werik Popó,F,Avispa Fukuoka,90,8.7,1,0,0,0,2,1,0,16,2,0,1,40,6,0,1,13,1,0,0,0,1,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Yuma Tsujioka,D,Avispa Fukuoka,90,7.8,1,0,0,0,3,3,0,34,1,0,1,53,0,1,1,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Shu Morooka,F,Avispa Fukuoka,67,6.1,0,0,0,0,1,0,0,11,0,0,0,18,0,0,0,2,2,1,0,0,2,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Masato Shigemi,M,Avispa Fukuoka,62,6.7,0,0,0,0,0,0,0,4,0,0,0,13,1,2,2,5,2,2,0,0,1,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Yumeki Yokoyama,M,Cerezo Osaka,60,6.5,0,0,0,0,1,0,0,3,1,0,0,11,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Yu Hashimoto,M,Avispa Fukuoka,90,7.1,0,0,0,0,0,0,0,27,2,1,0,49,0,1,0,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Shosei Usui,F,Avispa Fukuoka,23,6.6,0,0,0,0,1,0,0,6,0,0,0,9,0,0,0,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Avispa Fukuoka vs Cerezo Osaka,15/08/2026,Kokoro Maeda,M,Avispa Fukuoka,67,7.2,0,0,0,0,1,0,0,25,1,0,0,39,2,2,0,5,2,0,1,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Masato Morishige,D,FC Tokyo,11,6.6,0,0,0,0,0,0,0,7,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Taishi Taguchi,M,JEF United Chiba,79,7.1,0,0,0,0,0,0,0,29,0,0,0,43,0,4,1,6,1,2,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Alexander Scholz,D,FC Tokyo,90,7.6,0,0,0,0,0,0,0,91,2,1,0,102,0,0,2,3,1,2,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Kento Hashimoto,M,FC Tokyo,90,6.9,0,0,0,0,1,0,0,61,0,0,0,75,0,2,1,4,2,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Sei Muroya,D,FC Tokyo,90,7.6,0,0,0,0,1,1,0,35,1,1,0,64,0,2,2,4,1,2,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Kim Seung-gyu,G,FC Tokyo,90,6.7,0,0,0,0,0,0,0,33,0,0,0,39,0,0,0,0,0,0,0,0,0,1
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,José Aurelio Suárez,G,JEF United Chiba,90,7.1,0,0,0,0,0,0,0,38,0,0,0,49,0,0,0,2,0,2,0,0,0,3
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Teruhito Nakagawa,F,FC Tokyo,23,6.7,0,1,0,0,0,0,0,5,1,1,0,8,0,0,0,0,0,0,0,0,1,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Hirokazu Ishihara,D,FC Tokyo,79,7.4,0,0,0,0,1,1,0,48,1,0,0,66,0,2,0,6,0,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Daichi Ishikawa,F,JEF United Chiba,90,6.6,0,0,0,0,2,0,0,25,0,0,1,33,0,1,0,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Takahiro Ko,M,FC Tokyo,88,8.6,1,0,0,0,1,1,0,77,3,0,0,92,0,1,4,1,1,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Takahiro Iida,D,JEF United Chiba,24,6.4,0,0,0,0,0,0,0,10,0,0,0,16,1,0,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Naoki Tsubaki,M,JEF United Chiba,11,6.5,0,0,0,0,0,0,0,3,1,0,0,9,1,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Shion Homma,M,FC Tokyo,67,6.2,0,0,0,0,2,0,0,35,1,0,1,45,0,0,0,0,2,0,1,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Eduardo,M,JEF United Chiba,11,6.6,0,0,0,0,1,1,0,11,1,0,0,15,1,0,0,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Kashif Bangnagande,D,FC Tokyo,11,6.8,0,0,0,0,1,0,0,7,1,0,0,14,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Indio,M,JEF United Chiba,86,6.6,0,0,0,0,0,0,0,27,1,1,0,39,0,2,3,4,1,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Takumi Tsukui,M,JEF United Chiba,79,6.6,0,0,0,0,0,0,0,18,0,0,0,30,0,1,1,5,0,1,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Ken Yamura,F,JEF United Chiba,9,6.5,0,0,0,0,1,0,0,1,0,0,0,3,0,0,0,1,0,1,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Takashi Kawano,D,JEF United Chiba,90,7.5,0,0,0,0,0,0,0,52,0,0,0,70,0,3,1,8,1,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Erison,F,JEF United Chiba,90,6,0,0,0,0,1,0,0,13,1,1,0,26,0,0,0,2,0,1,0,0,1,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Daniel Hall,D,JEF United Chiba,90,6.6,0,0,0,0,0,0,0,34,0,0,0,51,0,2,2,5,0,1,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Marcelo Ryan,F,FC Tokyo,67,7,0,0,0,0,4,1,0,10,2,0,0,24,1,0,0,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Kein Sato,M,FC Tokyo,90,6,0,0,0,0,2,0,0,36,2,0,0,57,0,1,2,2,1,1,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Kazuki Tanaka,M,JEF United Chiba,66,6.4,0,0,0,0,1,0,0,16,0,0,1,24,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Motoki Nagakura,F,FC Tokyo,90,6.6,0,0,0,0,5,0,0,28,3,0,0,50,3,1,0,4,1,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Masaru Hidaka,D,JEF United Chiba,66,6.7,0,0,0,0,0,0,0,20,0,0,0,42,1,0,1,3,2,1,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Soma Anzai,M,FC Tokyo,23,7.6,1,0,0,0,3,1,0,16,0,0,1,24,0,0,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Hayato Inamura,D,FC Tokyo,79,7.7,0,0,0,0,1,0,0,89,0,0,0,99,1,2,1,5,1,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Rikuto Ishio,D,JEF United Chiba,90,7,0,0,0,0,0,0,0,33,0,0,0,48,2,2,2,6,0,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Kyota Tokiwa,M,FC Tokyo,2,,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,FC Tokyo vs JEF United Chiba,21/08/2026,Makoto Himeno,M,JEF United Chiba,24,6.5,0,0,0,0,1,0,0,6,0,0,0,13,1,1,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Gaku Shibasaki,M,Kashima Antlers,85,6.8,0,0,0,0,0,0,0,62,2,0,0,68,0,0,0,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Naomichi Ueda,D,Kashima Antlers,90,6.4,0,0,0,0,1,0,0,60,0,0,0,67,0,0,1,4,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Nara Tatsuki,D,Avispa Fukuoka,90,5.7,0,0,0,0,1,0,0,47,0,0,0,64,0,3,2,7,2,1,1,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Kento Misao,M,Kashima Antlers,32,6.5,0,0,0,0,0,0,0,23,0,0,0,26,0,0,0,1,1,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Rikuto Hirose,D,Kashima Antlers,85,6.9,0,0,0,0,1,0,0,44,1,0,0,72,0,4,1,5,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Léo Ceará,F,Kashima Antlers,90,7,1,0,0,0,3,1,0,23,0,0,0,44,0,1,3,4,2,3,0,0,1,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Aleksandar Čavrić,M,Kashima Antlers,32,7.6,1,0,0,0,2,1,0,7,0,0,0,13,0,1,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Ryoya Ogawa,D,Kashima Antlers,90,6.2,0,0,0,0,1,1,0,54,1,0,0,76,0,0,0,0,1,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Yuma Suzuki,F,Kashima Antlers,90,6.8,0,1,0,0,0,0,0,38,1,1,0,47,0,0,0,4,0,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Takumi Nagaishi,G,Avispa Fukuoka,90,6.5,0,0,0,0,0,0,0,34,0,0,0,47,0,0,0,2,0,2,0,0,0,1
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Keiya Shiihashi,M,Avispa Fukuoka,12,6.6,0,0,0,0,0,0,0,21,0,0,0,23,1,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Maejima Yota,M,Avispa Fukuoka,25,7.1,0,0,0,0,0,0,0,19,0,0,0,29,2,1,0,4,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Ryuta Koike,D,Kashima Antlers,14,6.8,0,0,0,0,0,0,0,9,0,0,0,12,0,0,1,1,0,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Matheus Bueno,M,Kashima Antlers,58,6.7,0,0,0,0,1,0,0,63,1,0,0,69,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Shintaro Nago,F,Avispa Fukuoka,25,6.6,0,0,0,0,0,0,0,10,1,0,0,17,0,1,0,2,1,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Ikuma Sekigawa,D,Kashima Antlers,90,6.7,0,0,0,0,0,0,0,69,0,0,0,81,0,2,1,7,1,0,1,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Teppei Oka,D,Avispa Fukuoka,90,6,0,0,0,0,0,0,0,44,0,0,0,48,0,0,3,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Yuta Matsumura,M,Kashima Antlers,68,7.4,0,1,0,0,1,0,0,17,1,1,0,31,0,3,1,4,1,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Tomoya Miki,M,Avispa Fukuoka,90,6.5,0,0,0,0,6,1,0,36,1,0,0,50,0,1,1,2,1,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Daiki Fukazawa,M,Avispa Fukuoka,25,6.7,0,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Kazuki Fujimoto,M,Avispa Fukuoka,65,6.2,0,0,0,0,2,0,0,23,1,0,0,36,1,1,0,2,1,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Tomoki Hayakawa,G,Kashima Antlers,90,7.5,0,0,0,0,0,0,0,36,0,0,0,51,0,0,0,3,0,2,0,0,0,4
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Werik Popó,F,Avispa Fukuoka,70,6.3,0,0,0,0,2,0,0,10,2,1,0,25,1,0,1,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Yuma Tsujioka,D,Avispa Fukuoka,90,6.1,0,0,0,0,0,0,0,50,1,0,0,64,1,0,1,3,3,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Keisuke Tsukui,D,Kashima Antlers,14,6.6,0,0,0,0,0,0,0,6,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Shu Morooka,F,Avispa Fukuoka,90,7.5,1,0,0,0,4,3,0,20,2,0,1,34,2,0,0,6,1,2,0,0,1,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Masato Shigemi,M,Avispa Fukuoka,65,6.7,0,0,0,0,1,0,0,21,1,0,0,30,0,2,2,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Yu Hashimoto,M,Avispa Fukuoka,65,6.8,0,0,0,0,0,0,0,20,1,0,0,34,1,0,0,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Shosei Usui,F,Avispa Fukuoka,20,6.4,0,0,0,0,1,1,0,2,0,0,0,9,0,0,0,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Minato Yoshida,F,Kashima Antlers,58,6.5,0,0,0,0,1,0,0,21,1,0,0,27,1,0,0,3,2,1,0,0,0,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Haruki Hayashi,M,Kashima Antlers,22,6.3,0,0,0,0,0,0,0,15,0,0,0,18,0,0,0,0,0,0,0,0,1,0
+J1 League,J1_League_26_27,Kashima Antlers vs Avispa Fukuoka,22/08/2026,Kokoro Maeda,M,Avispa Fukuoka,78,7.2,0,0,0,0,2,1,0,49,1,0,0,66,0,2,1,4,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Matheus Vidotto,G,Tokyo Verdy,90,8,0,0,0,0,0,0,0,38,0,0,0,46,0,0,0,1,0,1,0,0,0,3
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Kazuya Miyahara,D,Tokyo Verdy,86,7.1,0,0,0,0,1,0,0,33,0,0,0,47,0,2,0,6,0,2,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Kosuke Shirai,M,Fagiano Okayama,77,7.2,0,0,0,0,0,0,0,28,0,0,0,49,0,2,1,6,0,4,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Ataru Esaka,F,Fagiano Okayama,77,6.9,0,0,0,0,0,0,0,25,1,1,0,35,1,0,0,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Kazunari Ichimi,F,Fagiano Okayama,23,6.4,0,0,0,0,0,0,0,12,0,0,0,17,1,0,1,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Yuta Kamiya,M,Fagiano Okayama,13,7.1,0,0,0,0,0,0,0,12,0,0,0,21,1,2,0,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Towa Yamane,M,Fagiano Okayama,60,6.7,0,0,0,0,2,0,0,14,0,0,0,29,0,1,0,1,1,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Yoshitake Suzuki,D,Fagiano Okayama,90,6.9,0,0,0,0,2,0,0,43,0,0,0,63,0,2,0,7,1,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Yugo Tatsuta,D,Fagiano Okayama,90,7,0,0,0,0,1,0,0,43,0,0,0,57,0,1,0,8,2,2,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Lennart Moser,G,Fagiano Okayama,90,6.5,0,0,0,0,0,0,0,23,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Lucão,F,Fagiano Okayama,61,6.2,0,0,0,0,5,1,0,8,0,0,0,21,0,1,0,3,1,0,0,0,1,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Rei Hirakawa,M,Tokyo Verdy,90,6.7,0,0,0,0,0,0,0,45,2,0,0,57,0,0,0,1,2,1,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Yuya Fukuda,F,Tokyo Verdy,65,6,0,0,0,0,1,0,0,18,0,0,0,31,3,0,0,3,4,0,0,0,1,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Sang-Ho Na,F,Fagiano Okayama,67,6.8,0,0,0,0,2,1,0,27,3,0,1,45,2,0,0,4,1,1,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Noah Kenshin Browne,M,Fagiano Okayama,30,6.7,0,0,0,0,0,0,0,11,0,0,0,22,0,0,1,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Kaito Suzuki,D,Tokyo Verdy,10,6.6,0,0,0,0,0,0,0,6,0,0,0,7,0,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Itsuki Someno,F,Tokyo Verdy,86,7.3,0,0,0,0,1,0,0,18,0,0,0,34,1,0,0,16,1,3,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Yuan Matsuhashi,M,Tokyo Verdy,34,6.4,0,0,0,0,0,0,0,12,0,0,0,20,0,1,1,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Léo Gaúcho,F,Fagiano Okayama,29,6.6,0,0,0,0,2,1,0,6,1,0,1,14,0,0,0,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Naoki Hayashi,D,Tokyo Verdy,90,7.3,0,0,0,0,0,0,0,53,0,0,0,73,0,3,2,7,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Hiroshi Omori,D,Fagiano Okayama,90,7.3,0,0,0,0,0,0,0,63,1,1,0,78,0,2,0,9,1,2,1,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Oberdan Alionço,M,Fagiano Okayama,90,7.2,0,0,0,0,2,0,0,69,2,0,0,83,0,4,0,5,1,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Goki Yamada,F,Tokyo Verdy,25,6.3,0,0,0,0,1,0,0,3,0,0,0,11,0,0,0,2,1,1,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Shuhei Mizoguchi,D,Tokyo Verdy,90,6.8,0,0,0,0,0,0,0,17,0,0,0,38,1,2,1,7,2,2,1,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Eiji Miyamoto,M,Fagiano Okayama,90,7.6,0,0,0,0,1,0,0,55,3,0,0,78,1,5,1,12,0,3,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Inoue Ryota,D,Tokyo Verdy,90,6.7,0,0,0,0,0,0,0,40,0,0,0,60,0,0,1,3,2,0,1,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Issei Kumatoriya,F,Tokyo Verdy,25,6.5,0,0,0,0,1,0,0,7,1,0,0,17,0,3,0,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Ryosuke Shirai,F,Tokyo Verdy,10,6.7,0,0,0,0,0,0,0,2,0,0,0,5,0,0,0,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Joi Yamamoto,M,Tokyo Verdy,56,6.7,0,0,0,0,0,0,0,29,0,0,0,37,0,2,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Soichiro Mori,M,Fagiano Okayama,13,6.5,0,0,0,0,0,0,0,7,0,0,0,16,0,1,1,2,3,0,0,0,0,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Yosuke Uchida,M,Tokyo Verdy,90,6.7,0,0,0,0,0,0,0,20,0,0,0,42,0,1,0,2,0,1,0,0,1,0
+J1 League,J1_League_26_27,Fagiano Okayama vs Tokyo Verdy,22/08/2026,Hayato Hirao,F,Tokyo Verdy,65,6.7,0,0,0,0,0,0,0,10,0,0,0,17,0,2,0,5,2,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Shun Nagasawa,F,Kyoto Sanga FC,17,6.7,0,1,0,0,0,0,0,7,2,0,0,7,0,0,0,0,1,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Ryosuke Yamanaka,M,Kyoto Sanga FC,17,7,0,0,0,0,0,0,0,7,2,0,0,18,0,1,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Taiki Hirato,M,Kyoto Sanga FC,45,6.5,0,0,0,0,0,0,0,15,1,0,0,23,0,0,0,1,0,1,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Yoshinori Suzuki,D,Kyoto Sanga FC,90,7.4,0,0,0,0,0,0,0,75,0,0,0,87,0,5,0,5,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Gakuji Ota,G,Kyoto Sanga FC,90,6.1,0,0,0,0,0,0,0,37,0,0,0,49,0,0,0,1,0,1,0,0,0,3
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Yasuki Kimoto,D,Mito Hollyhock,90,7.8,1,0,0,0,1,1,0,48,0,0,0,62,0,0,3,6,1,2,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Akinari Kawazura,D,Mito Hollyhock,11,6.7,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Taishi Semba,M,Mito Hollyhock,90,7.2,0,1,0,0,1,0,0,42,3,0,0,55,0,3,4,4,0,1,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Arata Watanabe,F,Mito Hollyhock,63,6.6,0,0,0,0,1,0,0,19,1,0,0,30,1,0,0,4,1,3,0,0,2,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Rafael Elias,F,Kyoto Sanga FC,90,6.6,0,0,0,0,5,1,0,20,1,0,2,40,0,2,0,4,2,0,0,0,2,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Shinnosuke Fukuda,D,Kyoto Sanga FC,90,6.3,0,0,0,0,2,0,0,73,2,0,0,98,1,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Fuchi Honda,M,Kyoto Sanga FC,11,6.6,0,0,0,0,1,0,0,5,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Takumi Mase,D,Mito Hollyhock,90,7.7,1,0,0,0,3,2,0,32,1,0,0,67,0,2,3,5,0,2,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Ryo Nemoto,F,Mito Hollyhock,13,6.3,0,0,0,0,1,0,0,7,0,0,0,14,0,1,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Kodai Nagata,D,Kyoto Sanga FC,45,7.7,0,0,0,0,0,0,0,39,1,0,0,50,0,4,4,9,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Chihiro Kato,M,Mito Hollyhock,27,7.3,1,0,0,0,1,1,0,13,1,0,0,22,1,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Yu Funabashi,M,Mito Hollyhock,85,7.8,0,2,0,0,1,0,0,47,4,1,0,64,0,2,0,2,1,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Konosuke Nishikawa,G,Mito Hollyhock,90,7.5,0,0,0,0,0,0,0,40,0,0,0,50,0,0,0,1,0,0,0,0,0,3
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,João Pedro,M,Kyoto Sanga FC,86,6.7,0,0,0,0,2,0,0,51,0,0,0,63,0,3,0,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Kaito Taniguchi,M,Mito Hollyhock,86,6.6,0,0,0,0,2,0,0,28,1,0,0,38,0,1,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Weverton,D,Kyoto Sanga FC,45,6.4,0,0,0,0,1,0,0,46,0,0,0,54,1,0,0,6,1,1,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Yoshiki Torikai,M,Mito Hollyhock,77,6.9,0,0,0,0,2,1,0,19,1,0,0,33,1,1,1,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Haruki Arai,M,Kyoto Sanga FC,73,6.2,0,0,0,0,1,1,0,16,2,1,1,27,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Kyo Sato,D,Kyoto Sanga FC,73,6.2,0,0,0,0,0,0,0,44,1,0,0,56,0,1,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Sho Omori,D,Mito Hollyhock,90,6.7,0,0,0,0,0,0,0,47,0,0,0,68,0,0,1,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Kotaro Uchino,F,Mito Hollyhock,77,5.7,0,0,0,0,1,1,0,15,2,0,0,30,1,0,0,1,0,0,0,0,1,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Ryuma Nakano,M,Kyoto Sanga FC,90,7.4,1,0,0,0,3,2,0,36,0,0,0,51,0,0,1,1,2,1,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Maceió,F,Kyoto Sanga FC,45,6.8,0,0,0,0,0,0,0,18,2,2,0,25,0,2,0,2,1,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Yamamota Hayata,M,Mito Hollyhock,13,6.3,0,0,0,0,1,0,0,4,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Kenta Itakura,D,Mito Hollyhock,90,7.3,0,0,0,0,0,0,0,43,0,0,0,61,1,0,2,4,0,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Sung-jun Yoon,M,Kyoto Sanga FC,90,6.6,0,0,0,0,0,0,0,66,1,0,0,76,1,1,2,2,1,0,0,0,0,0
+J1 League,J1_League_26_27,Kyoto Sanga FC vs Mito Hollyhock,22/08/2026,Shota Yamashita,F,Mito Hollyhock,12,6.5,0,0,0,0,0,0,0,1,0,0,0,6,0,0,1,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Shinji Kagawa,M,Cerezo Osaka,45,6.7,0,0,0,0,1,0,0,28,0,0,0,32,0,0,1,1,1,1,0,0,1,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Kyohei Noborizato,D,Cerezo Osaka,1,,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Kosuke Nakamura,G,Cerezo Osaka,90,8,0,0,0,0,0,0,0,32,0,0,0,37,0,0,0,0,0,0,0,0,0,2
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Jackson Irvine,M,Cerezo Osaka,90,7.8,0,1,0,0,1,1,0,56,2,1,0,73,0,5,1,11,1,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Kinoshita Kosuke,F,Shimizu S-Pulse,24,6.4,0,0,0,0,1,0,0,4,0,0,0,10,0,0,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Yuki Honda,D,Shimizu S-Pulse,90,6.5,0,0,0,0,0,0,0,46,0,0,0,64,0,0,1,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Kei Koizumi,M,Shimizu S-Pulse,33,6.6,0,0,0,0,0,0,0,8,0,0,0,16,0,3,0,3,2,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Dion Cools,D,Cerezo Osaka,90,7.2,0,0,0,0,2,0,0,69,0,0,0,85,0,1,0,8,2,2,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Koya Kitagawa,F,Shimizu S-Pulse,90,6.3,0,0,0,0,1,0,0,15,1,1,0,25,0,0,0,0,1,0,0,0,2,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Shinnosuke Hatanaka,D,Cerezo Osaka,90,7.2,0,0,0,0,0,0,0,51,0,0,0,63,0,1,0,2,1,0,1,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Pablo Sabbag,F,Cerezo Osaka,1,,0,0,0,0,1,0,0,2,0,0,0,7,0,0,0,1,1,1,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Oh Se-Hun,F,Shimizu S-Pulse,66,6.6,0,0,0,0,4,3,0,14,1,0,4,31,1,1,0,11,1,0,1,0,1,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Lucas Fernandes,M,Cerezo Osaka,13,6.5,0,0,0,0,1,1,0,7,2,0,0,15,0,0,0,1,0,1,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Capixaba,M,Shimizu S-Pulse,24,6.6,0,0,0,0,0,0,0,5,0,0,0,11,1,1,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Togo Umeda,G,Shimizu S-Pulse,90,6.2,0,0,0,0,0,0,0,31,0,0,0,40,0,0,0,2,0,1,0,0,0,4
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Ryo Germain,F,Shimizu S-Pulse,90,6.4,0,0,0,0,1,0,0,13,1,0,0,32,0,1,0,9,3,4,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Takumi Nakamura,D,Cerezo Osaka,90,7.2,0,0,0,0,0,0,0,53,2,0,0,79,0,2,1,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Mateus Brunetti,D,Shimizu S-Pulse,90,7.3,0,0,0,0,0,0,0,49,4,2,0,74,0,0,0,3,1,1,1,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Shunta Tanaka,M,Cerezo Osaka,90,7.3,0,0,0,0,0,0,0,47,1,0,0,54,0,2,0,6,0,1,0,0,1,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Dieguinho,M,Shimizu S-Pulse,24,6.6,0,0,0,0,0,0,0,20,0,0,0,26,0,1,0,1,1,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Tomoya Fujii,M,Shimizu S-Pulse,66,6.4,0,0,0,0,1,0,0,14,0,0,0,21,0,0,0,0,0,0,0,0,1,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Ayumu Ohata,D,Cerezo Osaka,89,7,0,0,0,0,1,1,0,30,0,0,0,50,1,3,0,6,1,2,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Solomon Sakuragawa,F,Cerezo Osaka,77,6.3,0,0,0,0,1,0,0,20,0,0,0,27,0,0,0,6,3,0,1,0,1,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Masaki Yumiba,M,Shimizu S-Pulse,66,6.8,0,0,0,0,0,0,0,30,1,0,0,42,0,0,1,2,1,1,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Sodai Hasukawa,D,Shimizu S-Pulse,14,7,0,0,0,0,0,0,0,8,0,0,0,15,0,0,1,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Hidehiro Sugai,D,Shimizu S-Pulse,90,6.2,0,0,0,0,0,0,0,35,0,0,0,66,0,0,2,2,3,1,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Rikito Inoue,D,Cerezo Osaka,90,8.1,0,0,0,0,1,0,0,59,1,0,0,74,0,0,0,6,0,1,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Thiago Andrade,M,Cerezo Osaka,32,7.8,1,0,0,0,1,1,0,8,1,0,0,20,0,0,0,4,0,2,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Yota Komi,M,Cerezo Osaka,44,6.5,0,0,0,0,2,1,0,10,1,0,0,23,0,0,0,1,0,1,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Seung-wook Park,D,Shimizu S-Pulse,76,6.8,0,0,0,0,0,0,0,38,0,0,0,55,0,1,3,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Yumeki Yokoyama,M,Cerezo Osaka,58,6.6,0,0,0,0,1,0,0,10,0,0,0,23,0,0,0,1,0,1,0,0,1,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Shimizu S-Pulse,22/08/2026,Yudai Shimamoto,M,Shimizu S-Pulse,57,6.6,0,0,0,0,2,0,0,13,1,1,0,20,0,0,1,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Mitchell Duke,F,Machida Zelvia,45,6.8,0,0,0,0,1,1,0,11,1,0,1,25,1,1,1,5,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Gen Shoji,D,Machida Zelvia,90,7.1,0,0,0,0,0,0,0,56,0,0,0,82,0,3,4,5,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Hokuto Shimoda,M,Machida Zelvia,8,6.7,0,0,0,0,1,0,0,9,1,1,0,12,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Takuma Nishimura,F,Machida Zelvia,45,6.5,0,0,0,0,2,0,0,21,1,0,1,28,0,0,0,4,0,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Hiroyuki Mae,M,Machida Zelvia,90,6.5,0,0,0,0,2,0,0,52,0,0,0,60,0,1,0,2,2,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Neta Lavi,M,Machida Zelvia,82,6.7,0,0,0,0,2,0,0,81,1,0,0,98,0,2,0,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Ibrahim Drešević,D,Machida Zelvia,88,6.6,0,0,0,0,0,0,0,82,0,0,0,88,0,1,2,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Koki Ogawa,F,Machida Zelvia,8,6.1,0,0,0,0,2,0,0,5,1,0,1,7,0,0,0,1,2,0,1,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Yasuki Kimoto,D,Mito Hollyhock,90,6.9,0,0,0,0,2,0,0,43,0,0,0,58,0,0,0,0,1,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Kosei Tani,G,Machida Zelvia,90,7.1,0,0,0,0,0,0,0,42,0,0,0,48,0,0,0,0,0,0,0,0,0,3
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Taishi Semba,M,Mito Hollyhock,90,6.9,0,0,0,0,1,0,0,37,0,0,0,50,0,0,1,3,1,2,0,0,1,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Arata Watanabe,F,Mito Hollyhock,75,7.1,1,0,0,0,1,1,0,20,0,0,0,40,0,3,1,5,2,2,0,0,2,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Yuki Soma,F,Machida Zelvia,90,8.8,1,0,0,0,3,1,0,44,4,1,0,73,0,0,0,4,1,3,0,0,1,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Yusuke Matsuo,M,Machida Zelvia,8,6.9,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Hotaka Nakamura,M,Machida Zelvia,90,6.4,0,0,0,0,1,0,0,27,2,1,1,42,1,1,1,6,1,2,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Takahiro Akimoto,D,Machida Zelvia,90,6.6,0,0,0,0,0,0,0,43,1,0,0,60,0,2,2,4,0,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Daihachi Okamura,D,Machida Zelvia,90,7,0,0,0,0,0,0,0,79,0,0,0,92,0,1,2,6,1,2,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Takumi Mase,D,Mito Hollyhock,90,7,0,0,0,0,1,1,0,29,4,1,0,46,2,0,1,4,3,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Ryo Nemoto,F,Mito Hollyhock,13,6.5,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Tete Yengi,F,Machida Zelvia,82,6.6,0,0,0,0,4,1,0,20,0,0,1,34,1,1,0,7,1,2,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Chihiro Kato,M,Mito Hollyhock,15,6.7,0,0,0,0,1,0,0,4,0,0,0,9,0,0,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Yu Funabashi,M,Mito Hollyhock,89,6.1,0,0,0,0,1,0,0,31,0,0,0,42,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Konosuke Nishikawa,G,Mito Hollyhock,90,7,0,0,0,0,0,0,0,49,0,0,0,57,0,0,0,0,0,0,0,0,0,2
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Kaito Taniguchi,M,Mito Hollyhock,89,6.3,0,0,0,0,0,0,0,25,0,0,0,32,0,0,1,3,1,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Yoshiki Torikai,M,Mito Hollyhock,89,6.3,0,0,0,0,0,0,0,16,2,0,0,30,1,2,0,3,0,0,0,0,1,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Sho Omori,D,Mito Hollyhock,90,6.6,0,0,0,0,0,0,0,43,3,0,0,68,1,2,1,5,1,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Kotaro Uchino,F,Mito Hollyhock,83,5.9,0,0,0,0,4,2,0,16,0,0,1,30,0,0,0,3,2,1,0,0,1,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Patryck Ferreira,F,Mito Hollyhock,1,,0,0,0,0,2,0,0,0,1,0,0,2,0,0,0,2,1,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Yamamota Hayata,M,Mito Hollyhock,1,,0,0,0,0,0,0,0,4,1,0,0,7,1,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Kenta Itakura,D,Mito Hollyhock,90,7.1,0,0,0,0,0,0,0,53,0,0,0,69,0,0,1,6,1,2,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Machida Zelvia,29/08/2026,Shota Yamashita,F,Mito Hollyhock,1,,0,0,0,0,1,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Yutaka Yoshida,D,Shimizu S-Pulse,82,7.1,0,0,0,0,1,0,0,41,0,0,0,69,0,3,3,4,0,0,0,0,1,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Kinoshita Kosuke,F,Shimizu S-Pulse,24,6.4,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Yuki Honda,D,Shimizu S-Pulse,65,7.8,0,0,0,0,0,0,0,37,0,0,0,43,0,3,0,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Kei Koizumi,M,Shimizu S-Pulse,8,6.6,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Koya Yuruki,M,Kashiwa Reysol,20,6.4,0,0,0,0,0,0,0,14,0,0,0,17,0,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Oh Se-Hun,F,Shimizu S-Pulse,90,7.4,0,0,0,0,1,0,0,21,1,0,1,32,0,0,0,11,0,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Yuki Kakita,F,Kashiwa Reysol,45,6.7,0,0,0,0,1,0,0,14,1,1,0,17,1,0,0,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Yusuke Segawa,M,Kashiwa Reysol,45,6.2,0,0,0,0,2,0,0,16,2,0,1,29,0,2,0,5,1,3,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Capixaba,M,Shimizu S-Pulse,15,6.4,0,0,0,0,0,0,0,8,0,0,0,15,0,0,0,2,2,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Taiyo Koga,D,Kashiwa Reysol,90,7.5,0,0,0,0,0,0,0,97,1,0,0,106,0,2,0,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Daiki Sugioka,D,Kashiwa Reysol,90,6.9,0,0,0,0,1,0,0,71,0,0,0,86,0,0,2,1,1,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Ryosuke Kojima,G,Kashiwa Reysol,90,6.8,0,0,0,0,0,0,0,31,0,0,0,37,0,0,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Togo Umeda,G,Shimizu S-Pulse,90,7.2,0,0,0,0,0,0,0,24,0,0,0,30,0,0,0,0,0,0,0,0,0,3
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Ryo Germain,F,Shimizu S-Pulse,90,5.9,0,0,0,0,0,0,0,31,2,0,0,41,0,0,0,1,1,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Seiya Baba,D,Kashiwa Reysol,1,,0,0,0,0,0,0,0,7,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Mao Hosoya,F,Kashiwa Reysol,33,6.6,0,0,0,0,5,1,1,4,0,0,0,13,0,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Tomoya Fujii,M,Shimizu S-Pulse,75,6.8,0,0,0,0,0,0,0,21,0,0,0,39,2,1,1,5,0,2,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Yoshio Koizumi,F,Kashiwa Reysol,70,7.4,0,0,0,0,1,0,0,52,2,0,0,63,0,2,0,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Jelani Reshaun Sumiyoshi,D,Shimizu S-Pulse,25,6.5,0,0,0,0,0,0,0,7,0,0,0,17,0,1,1,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Keita Endo,M,Kashiwa Reysol,70,6.7,0,0,0,0,0,0,0,26,2,0,0,49,1,1,0,3,2,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Masaki Yumiba,M,Shimizu S-Pulse,82,6.8,0,0,0,0,1,0,0,31,0,0,0,46,0,1,2,2,2,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Hidehiro Sugai,D,Shimizu S-Pulse,90,6.9,0,0,0,0,0,0,0,30,1,1,0,50,0,1,1,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Seung-wook Park,D,Shimizu S-Pulse,90,6.4,0,0,0,0,0,0,0,47,0,0,0,57,0,2,1,2,1,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Tojiro Kubo,M,Kashiwa Reysol,89,7.3,0,0,0,0,3,0,1,44,2,1,1,77,1,4,0,5,1,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Wataru Harada,D,Kashiwa Reysol,90,7.3,0,0,0,0,0,0,0,73,2,0,0,90,1,3,0,7,2,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Hinata Yamauchi,F,Kashiwa Reysol,57,6.8,0,0,0,0,1,0,0,20,0,0,0,35,2,0,0,5,0,3,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Sen Takagi,D,Shimizu S-Pulse,8,6.7,0,0,0,0,0,0,0,11,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Kenshin Yuba,M,Kashiwa Reysol,20,6.7,0,0,0,0,1,1,0,10,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Koki Kumasaka,M,Kashiwa Reysol,90,7,0,0,0,0,0,0,0,58,0,0,0,67,0,1,2,3,2,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Yudai Shimamoto,M,Shimizu S-Pulse,90,7.2,0,0,0,0,1,0,0,29,0,0,0,51,1,3,3,6,2,2,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Nobuteru Nakagawa,M,Kashiwa Reysol,90,6.9,0,0,0,0,2,1,0,62,2,0,0,76,0,1,2,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs Kashiwa Reysol,29/08/2026,Yuto Tsuji,M,Shimizu S-Pulse,66,6.7,0,0,0,0,2,0,0,12,0,0,0,28,1,2,0,4,0,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Yamaguchi Hotaru,M,V-Varen Nagasaki,45,6.9,0,0,0,0,0,0,0,33,0,0,0,42,0,1,2,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Alexander Scholz,D,FC Tokyo,90,8.2,0,0,0,0,0,0,0,86,0,0,0,101,0,2,1,4,1,2,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Kento Hashimoto,M,FC Tokyo,90,7.2,0,0,0,0,1,0,0,80,1,0,0,92,0,2,1,4,1,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Sei Muroya,D,FC Tokyo,90,7.4,0,0,0,0,1,0,0,40,0,0,0,53,0,5,3,5,0,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Kim Seung-gyu,G,FC Tokyo,90,6.6,0,0,0,0,0,0,0,31,0,0,0,40,0,0,0,0,0,0,0,0,0,1
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Teruhito Nakagawa,F,FC Tokyo,23,6.3,0,0,0,0,0,0,0,5,0,0,0,8,0,1,0,1,2,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Shindo Ryosuke,D,V-Varen Nagasaki,90,6,0,0,0,0,0,0,0,54,0,0,0,65,0,1,1,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Thiago Santana,F,V-Varen Nagasaki,70,6.2,0,0,0,0,1,0,0,12,0,0,0,26,1,0,0,6,1,3,0,0,1,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Arai Ikki,D,V-Varen Nagasaki,20,6.7,0,0,0,0,0,0,0,6,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Matheus Jesus,F,V-Varen Nagasaki,13,7.1,0,0,0,0,1,0,0,15,0,0,0,20,1,0,0,3,0,2,0,0,1,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Hirokazu Ishihara,D,FC Tokyo,13,6.8,0,0,0,0,0,0,0,2,0,0,0,6,0,2,0,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Diego Pituca,M,V-Varen Nagasaki,20,6.9,0,0,0,0,0,0,0,36,0,0,0,40,0,1,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Takahiro Ko,M,FC Tokyo,79,7.3,0,0,0,0,1,1,0,60,2,0,0,72,1,5,0,7,1,0,1,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Riku Yamada,M,V-Varen Nagasaki,70,6.1,0,0,0,0,0,0,0,57,1,0,0,70,0,1,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Iwasaki Yuto,F,V-Varen Nagasaki,58,5.7,0,0,0,0,1,1,0,14,0,0,0,20,0,0,0,1,2,0,1,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Goto Masaaki,G,V-Varen Nagasaki,90,6,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0,0,0,0,0,0,0,3
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Onaga Hijiri,M,V-Varen Nagasaki,90,6.5,0,0,0,0,0,0,0,79,1,0,0,94,0,1,1,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Shion Homma,M,FC Tokyo,60,7.4,1,0,0,0,3,2,0,22,1,1,0,33,1,2,0,3,2,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Yoneda Shunya,M,V-Varen Nagasaki,77,6.2,0,0,0,0,0,0,0,20,0,0,0,35,0,0,0,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Kashif Bangnagande,D,FC Tokyo,60,7.1,0,1,0,0,0,0,0,29,1,1,0,41,0,0,1,1,0,1,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Fuki Yamada,M,FC Tokyo,30,6.4,0,0,0,0,0,0,0,5,0,0,0,10,0,0,0,2,1,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Yusei Egawa,D,V-Varen Nagasaki,90,6.4,0,0,0,0,0,0,0,63,1,0,0,78,0,4,2,5,0,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Kento Hashimoto,D,FC Tokyo,30,6.8,0,0,0,0,0,0,0,13,0,0,0,17,0,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Masahiro Sekiguchi,M,V-Varen Nagasaki,70,5.9,0,0,0,0,0,0,0,32,0,0,0,48,0,0,0,3,0,2,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Motoki Hasegawa,F,V-Varen Nagasaki,90,6.8,0,0,0,0,0,0,0,75,0,0,0,85,0,1,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Norman Campbell,M,V-Varen Nagasaki,32,6.3,0,0,0,0,0,0,0,18,2,0,0,24,0,0,0,1,2,1,1,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Marcelo Ryan,F,FC Tokyo,60,7.6,1,1,0,0,4,2,0,14,3,1,1,27,2,0,0,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Kenshin Yasuda,M,V-Varen Nagasaki,45,6.4,0,0,0,0,2,0,0,14,0,0,0,20,0,1,0,2,1,1,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Kein Sato,M,FC Tokyo,83,6.6,0,0,0,0,0,0,0,29,0,0,0,45,1,2,0,4,1,1,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Motoki Nagakura,F,FC Tokyo,67,7.7,1,1,0,0,3,1,0,29,4,1,0,44,0,1,0,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Soma Anzai,M,FC Tokyo,30,6.4,0,0,0,0,0,0,0,9,0,0,0,14,1,0,0,1,0,0,0,0,1,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Hayato Inamura,D,FC Tokyo,90,7.4,0,0,0,0,0,0,0,85,0,0,0,94,0,3,1,7,1,1,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Kyota Tokiwa,M,FC Tokyo,11,6.3,0,0,0,0,0,0,0,5,0,0,0,8,0,0,0,0,1,0,0,0,0,0
+J1 League,J1_League_26_27,V-Varen Nagasaki vs FC Tokyo,29/08/2026,Reijin Kou,F,V-Varen Nagasaki,20,6.3,0,0,0,0,0,0,0,3,0,0,0,6,0,0,1,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Kensuke Nagai,F,Nagoya Grampus,15,6.7,0,0,0,0,0,0,0,1,1,0,0,7,1,1,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Yuki Nogami,D,Nagoya Grampus,70,6.9,0,0,0,0,0,0,0,37,0,0,0,43,0,1,0,3,0,2,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Sho Inagaki,M,Nagoya Grampus,90,7.3,1,0,0,0,2,1,0,61,0,0,0,69,0,2,0,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Kosuke Shirai,M,Fagiano Okayama,90,6.5,0,0,0,0,1,0,0,17,1,0,0,39,0,1,0,3,1,1,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Ataru Esaka,F,Fagiano Okayama,76,6.5,0,0,0,0,1,0,0,31,0,0,1,42,0,3,0,5,1,0,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Ryuji Izumi,F,Nagoya Grampus,83,6.9,0,0,0,0,2,0,0,27,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Yuta Kamiya,M,Fagiano Okayama,14,6.4,0,0,0,0,3,0,0,5,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Yuya Yamagishi,F,Nagoya Grampus,83,6.3,0,0,0,0,1,1,0,9,2,0,0,21,1,1,0,3,2,1,1,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Towa Yamane,M,Fagiano Okayama,83,6.6,0,0,0,0,1,0,0,19,2,1,0,34,0,1,1,1,1,0,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Yoshitake Suzuki,D,Fagiano Okayama,83,7.9,1,0,0,0,3,1,0,20,0,0,0,33,0,1,0,8,1,2,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Yugo Tatsuta,D,Fagiano Okayama,90,6.3,0,0,0,0,0,0,0,27,0,0,0,39,0,0,1,2,1,1,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Lennart Moser,G,Fagiano Okayama,90,6.4,0,0,0,0,0,0,0,18,0,0,0,23,0,0,0,0,0,0,0,0,0,2
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Lucão,F,Fagiano Okayama,76,6.6,0,1,0,0,2,0,0,12,1,0,0,31,1,1,0,6,1,1,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Haruya Fujii,D,Nagoya Grampus,90,6.7,0,0,0,0,2,0,0,78,0,0,0,98,0,3,0,6,1,1,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Sang-Ho Na,F,Fagiano Okayama,62,6.9,0,0,0,0,1,0,0,6,5,0,0,18,1,0,0,2,1,1,1,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Noah Kenshin Browne,M,Fagiano Okayama,15,6.4,0,0,0,0,1,0,0,2,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Tomoki Takamine,M,Nagoya Grampus,90,6.4,0,0,0,0,0,0,0,63,0,0,0,72,0,0,0,3,2,2,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Yuya Asano,M,Nagoya Grampus,90,6.5,0,0,0,0,2,0,0,29,1,0,0,53,0,2,0,6,1,2,1,0,1,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Katsuhiro Nakayama,M,Nagoya Grampus,90,7.7,1,0,0,0,2,1,0,30,3,0,0,57,1,1,1,2,1,0,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Kota Kawano,F,Fagiano Okayama,14,6.4,0,0,0,0,0,0,0,4,1,0,0,8,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Shuhei Tokumoto,D,Nagoya Grampus,90,7.2,0,0,0,0,1,0,0,58,3,0,0,87,2,3,0,11,0,4,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Léo Gaúcho,F,Fagiano Okayama,28,6.2,0,0,0,0,0,0,0,6,1,0,0,15,0,0,0,2,2,0,1,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Yota Sato,D,Nagoya Grampus,20,7.3,0,0,0,0,0,0,0,15,2,0,0,25,0,0,0,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Hiroshi Omori,D,Fagiano Okayama,90,6.1,0,0,0,0,0,0,0,21,0,0,0,40,0,2,2,9,3,3,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Oberdan Alionço,M,Fagiano Okayama,90,7.4,0,0,0,0,1,0,0,32,2,0,0,49,0,3,1,6,0,1,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Yudai Kimura,F,Nagoya Grampus,90,6.4,0,0,0,0,3,1,0,15,1,0,0,32,1,0,0,6,3,3,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Hidemasa Koda,M,Nagoya Grampus,15,6.6,0,0,0,0,1,0,0,1,1,0,0,3,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Eiji Miyamoto,M,Fagiano Okayama,90,6.2,0,0,0,0,1,1,0,37,1,0,0,45,0,0,2,0,4,0,1,0,0,0
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Alexandre Pisano,G,Nagoya Grampus,90,6.6,0,0,0,0,0,0,0,62,0,0,0,66,0,0,0,1,0,0,0,0,0,1
+J1 League,J1_League_26_27,Nagoya Grampus vs Fagiano Okayama,29/08/2026,Ikedo Shu,D,Fagiano Okayama,15,6.3,0,0,0,0,0,0,0,3,0,0,0,8,0,0,0,0,1,0,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Gaku Shibasaki,M,Kashima Antlers,73,6.9,0,0,0,0,1,0,0,73,1,0,0,79,0,1,1,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Naomichi Ueda,D,Kashima Antlers,90,7.6,0,1,0,0,1,0,0,67,1,1,0,74,0,1,0,6,0,0,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Matheus Vidotto,G,Tokyo Verdy,90,5.9,0,0,0,0,0,0,0,31,0,0,0,40,0,0,0,0,0,0,0,0,0,5
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Élber,M,Kashima Antlers,73,7.2,0,1,0,0,4,1,1,50,2,2,2,60,3,0,1,7,2,1,1,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Kento Misao,M,Kashima Antlers,17,6.7,0,0,0,0,1,0,0,28,1,0,0,33,0,1,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Rikuto Hirose,D,Kashima Antlers,83,7.3,0,0,0,0,1,0,0,79,5,3,0,96,1,1,2,4,1,0,1,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Léo Ceará,F,Kashima Antlers,90,8.3,2,0,0,0,10,4,1,35,3,1,5,60,2,0,1,8,0,4,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Aleksandar Čavrić,M,Kashima Antlers,17,6.8,0,0,0,0,2,1,1,11,1,0,1,21,1,1,0,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Ryoya Ogawa,D,Kashima Antlers,90,6.7,0,0,0,0,2,0,0,48,4,0,0,71,0,1,1,1,3,0,1,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Yuma Suzuki,F,Kashima Antlers,88,6.1,0,0,0,0,0,0,0,51,0,0,0,66,0,0,0,6,2,2,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Rei Hirakawa,M,Tokyo Verdy,72,6.3,0,0,0,0,0,0,0,34,0,0,0,42,0,2,1,4,3,1,1,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Kai Shibato,M,Tokyo Verdy,18,6.6,0,0,0,0,0,0,0,16,0,0,0,22,0,0,2,1,0,1,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Matheus Bueno,M,Kashima Antlers,88,7.1,0,0,0,0,0,0,0,111,0,0,0,121,0,0,2,3,2,1,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Koki Morita,M,Tokyo Verdy,41,7,0,0,0,0,1,0,0,20,0,0,0,27,0,3,0,5,1,2,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Ikuma Sekigawa,D,Kashima Antlers,90,7.5,0,0,0,0,0,0,0,66,1,0,0,78,1,0,3,8,0,3,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Yuta Matsumura,M,Kashima Antlers,83,6.7,0,0,0,0,1,0,0,35,1,1,0,49,0,1,0,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Kaito Suzuki,D,Tokyo Verdy,90,5.7,0,0,0,0,0,0,0,40,0,0,0,53,0,1,2,4,1,0,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Itsuki Someno,F,Tokyo Verdy,60,6,0,0,0,0,0,0,0,11,0,0,0,20,0,0,0,3,3,2,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Yuan Matsuhashi,M,Tokyo Verdy,73,6.4,0,0,0,0,0,0,0,13,0,0,0,16,0,0,0,2,1,1,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Naoki Hayashi,D,Tokyo Verdy,90,6.1,0,0,0,0,0,0,0,47,0,0,0,55,0,1,0,4,1,1,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Tomoki Hayakawa,G,Kashima Antlers,90,7.1,0,0,0,0,0,0,0,30,0,0,0,37,0,0,0,2,0,2,0,0,0,1
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Keisuke Tsukui,D,Kashima Antlers,13,6.6,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Inoue Ryota,D,Tokyo Verdy,90,6.5,0,0,0,0,0,0,0,50,0,0,0,61,1,1,0,4,2,1,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Issei Kumatoriya,F,Tokyo Verdy,45,6.9,0,0,0,0,0,0,0,7,0,0,0,15,0,2,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Ryosuke Shirai,F,Tokyo Verdy,44,6.6,0,0,0,0,0,0,0,8,0,0,0,10,0,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Joi Yamamoto,M,Tokyo Verdy,49,6.2,0,0,0,0,1,0,0,30,1,0,0,40,0,1,0,2,2,1,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Gakuto Kawamura,F,Tokyo Verdy,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Yuta Arai,M,Tokyo Verdy,90,6.9,0,0,0,0,1,1,0,32,0,0,0,59,0,2,3,3,1,1,0,0,1,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Soma Kanda,F,Tokyo Verdy,30,6.4,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Shion Nakayama,F,Tokyo Verdy,17,6.7,0,0,0,0,0,0,0,6,1,0,0,9,0,1,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Anthony Motosuna,D,Kashima Antlers,8,6.9,0,0,0,0,1,0,0,9,1,0,0,10,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Yosuke Uchida,M,Tokyo Verdy,90,6.6,0,0,0,0,0,0,0,25,0,0,0,42,0,1,0,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Minato Yoshida,F,Kashima Antlers,8,6.3,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Tokyo Verdy vs Kashima Antlers,29/08/2026,Haruki Hayashi,M,Kashima Antlers,13,6.5,0,0,0,0,1,0,0,7,0,0,0,12,0,1,0,1,1,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Shinji Kagawa,M,Cerezo Osaka,9,6.6,0,0,0,0,0,0,0,6,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Gotoku Sakai,D,Vissel Kobe,90,7.4,0,0,0,0,2,0,0,35,1,0,0,57,0,0,3,1,0,1,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Kosuke Nakamura,G,Cerezo Osaka,90,6.9,0,0,0,0,0,0,0,31,0,0,0,47,0,0,0,0,0,0,0,0,0,4
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Jackson Irvine,M,Cerezo Osaka,90,6.6,0,0,0,0,1,0,0,47,1,0,0,57,0,0,2,1,2,1,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Yosuke Ideguchi,M,Vissel Kobe,90,6.7,0,0,0,0,1,1,0,34,0,0,0,46,0,2,0,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Dion Cools,D,Cerezo Osaka,90,7.4,0,0,0,0,0,0,0,59,1,0,0,70,1,0,0,6,2,1,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Diego,M,Vissel Kobe,90,7.2,0,0,0,0,1,0,0,35,2,1,0,52,3,0,1,5,1,1,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Shinnosuke Hatanaka,D,Cerezo Osaka,90,7.1,0,0,0,0,3,0,0,60,0,0,0,75,0,0,0,6,0,3,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Pablo Sabbag,F,Cerezo Osaka,9,6.2,0,0,0,0,2,0,0,5,0,0,0,12,0,0,0,0,0,0,0,0,1,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Tetsushi Yamakawa,D,Vissel Kobe,90,7.4,0,0,0,0,1,1,0,46,0,0,1,61,0,1,0,6,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Lucas Fernandes,M,Cerezo Osaka,17,6.7,0,0,0,0,0,0,0,17,2,0,0,24,0,0,0,1,2,1,1,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Katsuya Nagato,D,Vissel Kobe,89,6.5,0,0,0,0,0,0,0,19,3,2,0,36,0,0,1,0,1,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Daiya Maekawa,G,Vissel Kobe,90,7.6,0,0,0,0,0,0,0,37,0,0,0,49,0,0,0,1,0,1,0,0,0,3
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Issei Takahashi,D,Vissel Kobe,1,,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Ren Komatsu,F,Vissel Kobe,87,7.3,1,0,0,0,3,3,0,13,0,0,1,27,0,0,1,10,2,1,1,0,1,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Thuler,D,Vissel Kobe,90,7.4,0,0,0,0,2,0,0,44,1,0,1,60,0,1,0,6,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Yuta Goke,M,Vissel Kobe,90,6.7,0,0,0,0,0,0,0,18,0,0,0,31,1,2,0,5,2,2,1,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Takumi Nakamura,D,Cerezo Osaka,73,6.3,0,0,0,0,1,0,0,31,5,0,0,58,1,0,0,2,0,0,0,0,1,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Shunta Tanaka,M,Cerezo Osaka,90,7,0,0,0,0,0,0,0,51,0,0,0,60,0,1,2,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Ayumu Ohata,D,Cerezo Osaka,90,6.6,0,0,0,0,0,0,0,35,0,0,0,67,0,3,3,9,2,6,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Solomon Sakuragawa,F,Cerezo Osaka,81,6.3,0,0,0,0,3,1,0,13,0,0,0,23,0,0,0,5,1,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Nanasei Iino,D,Vissel Kobe,45,6.5,0,0,0,0,2,1,1,16,0,0,0,26,0,2,0,2,5,0,0,0,1,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Yuya Kuwasaki,M,Vissel Kobe,17,6.9,0,0,0,0,0,0,0,11,0,0,0,12,0,1,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Rikito Inoue,D,Cerezo Osaka,90,6.9,0,0,0,0,0,0,0,49,0,0,0,62,0,1,1,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Thiago Andrade,M,Cerezo Osaka,25,6.3,0,0,0,0,2,1,0,3,0,0,0,8,1,0,0,1,2,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Yota Komi,M,Cerezo Osaka,81,6.6,0,0,0,0,2,1,0,13,2,0,0,23,0,0,1,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Mitsuki Hidaka,M,Vissel Kobe,11,6.6,0,0,0,0,0,0,0,4,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Yumeki Yokoyama,M,Cerezo Osaka,65,6.4,0,0,0,0,1,0,0,12,2,0,0,25,1,0,2,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Hyoei Kawabata,F,Vissel Kobe,45,6.5,0,0,0,0,0,0,0,13,0,0,0,22,1,0,1,2,2,1,0,0,0,0
+J1 League,J1_League_26_27,Vissel Kobe vs Cerezo Osaka,29/08/2026,Yuan Iwamoto,M,Vissel Kobe,73,6.7,0,0,0,0,0,0,0,21,1,0,0,26,0,0,1,1,0,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Gaku Shibasaki,M,Kashima Antlers,81,6.9,0,0,0,0,2,0,0,84,4,1,0,101,0,0,2,1,1,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Naomichi Ueda,D,Kashima Antlers,45,6.2,0,0,0,0,1,0,0,51,0,0,0,53,0,0,0,2,1,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Élber,M,Kashima Antlers,45,5.7,0,0,0,0,0,0,0,30,1,0,0,35,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Kento Misao,M,Kashima Antlers,45,6.6,0,0,0,0,0,0,0,60,0,0,0,76,0,2,0,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Rikuto Hirose,D,Kashima Antlers,68,5.8,0,0,0,0,0,0,0,70,0,0,0,90,1,1,1,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Léo Ceará,F,Kashima Antlers,90,8.7,2,0,0,0,8,4,0,25,1,0,1,43,1,0,1,4,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Aleksandar Čavrić,M,Kashima Antlers,45,6.4,0,0,0,0,1,0,0,17,1,0,0,25,0,1,0,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Ryoya Ogawa,D,Kashima Antlers,90,5.3,0,0,0,0,1,0,0,85,1,0,0,109,0,1,2,1,1,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Yuma Suzuki,F,Kashima Antlers,90,7,0,1,0,0,0,0,0,54,2,1,0,66,1,3,1,5,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Yasuki Kimoto,D,Mito Hollyhock,90,6.7,0,0,0,0,0,0,0,28,0,0,0,48,0,1,1,4,0,0,0,0,1,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Kyosuke Tagawa,F,Kashima Antlers,22,6.3,0,0,0,0,3,1,0,10,0,0,0,16,0,0,0,1,1,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Akinari Kawazura,D,Mito Hollyhock,90,6.7,0,0,0,0,0,0,0,33,0,0,0,51,0,0,2,4,0,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Taishi Semba,M,Mito Hollyhock,90,6.9,0,1,0,0,1,0,0,28,1,1,0,44,0,0,4,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Arata Watanabe,F,Mito Hollyhock,80,10,4,0,0,0,5,4,0,17,0,0,0,33,0,2,0,5,1,3,0,0,2,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Matheus Leiria,M,Mito Hollyhock,10,6.5,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Matheus Bueno,M,Kashima Antlers,45,6.7,0,0,0,0,0,0,0,54,0,0,0,57,0,0,2,1,0,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Ikuma Sekigawa,D,Kashima Antlers,90,6.6,0,0,0,0,0,0,0,116,1,0,0,127,0,0,2,7,0,4,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Kim Tae-hyeon,D,Kashima Antlers,45,6.5,0,0,0,0,0,0,0,68,0,0,0,75,0,1,1,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Yuta Matsumura,M,Kashima Antlers,90,6,0,0,0,0,0,0,0,49,1,0,0,69,1,0,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Takumi Mase,D,Mito Hollyhock,90,6.3,0,0,0,0,0,0,0,17,0,0,0,32,0,0,2,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Ryo Nemoto,F,Mito Hollyhock,62,6.5,0,0,0,0,0,0,0,8,0,0,0,17,0,1,0,5,3,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Chihiro Kato,M,Mito Hollyhock,28,6.6,0,0,0,0,0,0,0,4,1,0,0,12,0,0,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Tomoki Hayakawa,G,Kashima Antlers,90,5.5,0,0,0,0,0,0,0,35,0,0,0,38,0,0,0,0,1,0,1,0,0,1
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Konosuke Nishikawa,G,Mito Hollyhock,90,6.2,0,0,0,0,0,0,0,38,0,0,0,53,0,0,0,1,0,0,0,0,0,3
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Kaito Taniguchi,M,Mito Hollyhock,80,6.9,0,0,0,0,1,1,0,16,0,0,0,32,2,1,1,4,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Yoshiki Torikai,M,Mito Hollyhock,62,7.5,0,2,0,0,0,0,0,18,2,1,0,27,0,1,0,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Koshi Osaki,M,Mito Hollyhock,89,6.4,0,0,0,0,0,0,0,25,0,0,0,39,0,1,1,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Sho Omori,D,Mito Hollyhock,90,6.1,0,0,0,0,0,0,0,28,0,0,0,48,0,0,0,1,1,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Kotaro Uchino,F,Mito Hollyhock,28,6.3,0,0,0,0,0,0,0,7,1,0,0,9,0,0,0,1,1,0,1,0,2,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Keisuke Tsukui,D,Kashima Antlers,9,7,0,1,0,0,0,0,0,16,1,1,0,16,0,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Rei Ieizumi,D,Mito Hollyhock,1,,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Mito Hollyhock vs Kashima Antlers,02/09/2026,Yamamota Hayata,M,Mito Hollyhock,10,6.4,0,0,0,0,0,0,0,3,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Koki Yonekura,D,JEF United Chiba,20,6.3,0,0,0,0,0,0,0,3,0,0,0,6,0,0,0,1,1,0,1,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Taishi Taguchi,M,JEF United Chiba,54,7,0,1,0,0,0,0,0,42,3,0,0,52,0,2,0,4,1,0,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,José Aurelio Suárez,G,JEF United Chiba,90,6,0,0,0,0,0,0,0,34,0,0,0,40,0,0,0,0,0,0,0,0,0,2
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Kosuke Shirai,M,Fagiano Okayama,9,6.6,0,0,0,0,1,0,0,10,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Ataru Esaka,F,Fagiano Okayama,45,6.4,0,0,0,0,2,1,0,24,1,0,0,30,0,1,1,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Yuta Kamiya,M,Fagiano Okayama,26,7.9,1,0,0,0,1,1,0,12,3,0,0,25,0,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Daichi Ishikawa,F,JEF United Chiba,90,7,0,0,0,0,1,0,0,34,0,0,0,52,1,1,3,7,1,3,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Towa Yamane,M,Fagiano Okayama,87,6.6,0,0,0,0,1,0,0,32,0,0,0,55,0,0,0,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Takahiro Iida,D,JEF United Chiba,90,6.4,0,0,0,0,0,0,0,52,0,0,0,68,1,1,0,4,0,2,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Yugo Tatsuta,D,Fagiano Okayama,90,7.1,0,0,0,0,0,0,0,51,0,0,0,66,0,0,3,6,1,1,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Takuya Yasui,M,JEF United Chiba,13,6.4,0,0,0,0,0,0,0,6,0,0,0,11,0,0,1,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Hinata Kida,M,JEF United Chiba,36,7.1,0,0,0,0,0,0,0,11,2,0,0,19,0,1,1,2,1,1,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Naoki Tsubaki,M,JEF United Chiba,20,6.3,0,0,0,0,0,0,0,4,0,0,0,12,0,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Lennart Moser,G,Fagiano Okayama,90,6.5,0,0,0,0,0,0,0,17,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Lucão,F,Fagiano Okayama,26,6.7,0,1,0,0,2,0,0,8,2,1,0,18,1,1,0,4,1,1,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Sang-Ho Na,F,Fagiano Okayama,45,6.1,0,0,0,0,2,0,0,11,2,0,0,23,0,0,0,2,2,1,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Noah Kenshin Browne,M,Fagiano Okayama,10,6.7,0,0,0,0,1,0,0,1,0,0,0,4,0,1,0,2,0,0,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Indio,M,JEF United Chiba,90,6.8,0,0,0,0,2,0,0,48,0,0,0,64,0,2,1,6,0,1,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Takumi Tsukui,M,JEF United Chiba,70,6.6,0,0,0,0,0,0,0,40,0,0,0,56,4,1,1,8,3,1,1,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Ken Yamura,F,JEF United Chiba,70,6.6,0,0,0,0,1,0,0,21,0,0,0,31,2,0,0,3,0,1,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Kota Kawano,F,Fagiano Okayama,64,6.5,0,0,0,0,1,0,0,23,1,0,0,38,1,1,1,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Takashi Kawano,D,JEF United Chiba,90,6.9,0,0,0,0,0,0,0,40,0,0,0,65,0,1,1,8,0,1,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Léo Gaúcho,F,Fagiano Okayama,64,6.9,1,0,0,0,2,2,0,6,0,0,0,16,0,0,0,3,3,0,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Erison,F,JEF United Chiba,70,6.8,0,0,0,0,1,0,0,9,0,0,0,27,2,0,0,6,1,2,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Daniel Hall,D,JEF United Chiba,90,6.5,0,0,0,0,1,0,0,36,0,0,0,49,0,0,0,4,0,0,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Hiroshi Omori,D,Fagiano Okayama,90,7.2,0,0,0,0,1,0,0,54,0,0,0,74,3,2,2,8,0,2,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Oberdan Alionço,M,Fagiano Okayama,90,6.7,0,0,0,0,2,0,0,55,3,0,0,69,0,1,2,3,3,1,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Haruka Motoyama,M,Fagiano Okayama,81,6.9,0,1,0,0,0,0,0,36,1,0,0,58,0,1,1,4,0,2,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Kazuki Tanaka,M,JEF United Chiba,84,7.6,1,0,0,0,1,1,0,20,0,0,0,33,1,2,1,4,0,0,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Eiji Miyamoto,M,Fagiano Okayama,90,6.8,0,0,0,0,2,0,0,56,1,0,0,71,0,4,0,6,1,0,1,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Soichiro Mori,M,Fagiano Okayama,90,6.6,0,0,0,0,0,0,0,54,0,0,0,72,0,2,3,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,JEF United Chiba vs Fagiano Okayama,02/09/2026,Takumi Matsumura,F,JEF United Chiba,20,6.3,0,0,0,0,0,0,0,3,0,0,0,9,0,1,0,2,1,1,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Shinji Kagawa,M,Cerezo Osaka,56,6.6,0,0,0,0,2,0,0,46,0,0,0,61,0,2,3,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Kosuke Nakamura,G,Cerezo Osaka,90,8.6,0,0,0,0,0,0,0,29,0,0,0,36,0,0,0,0,0,0,0,0,0,5
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Jackson Irvine,M,Cerezo Osaka,90,7.5,0,0,0,0,0,0,0,62,3,0,0,79,1,3,2,5,0,0,1,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Dion Cools,D,Cerezo Osaka,90,7.4,0,0,0,0,1,0,0,38,0,0,0,63,1,2,2,5,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Koya Yuruki,M,Kashiwa Reysol,21,6.5,0,0,0,0,0,0,0,19,1,0,0,21,0,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Shinnosuke Hatanaka,D,Cerezo Osaka,90,7.4,0,0,0,0,0,0,0,45,0,0,0,56,0,1,1,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Pablo Sabbag,F,Cerezo Osaka,10,6.6,0,0,0,0,1,0,0,5,0,0,0,13,0,0,1,3,1,1,0,0,1,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Yuki Kakita,F,Kashiwa Reysol,45,6.3,0,0,0,0,0,0,0,12,0,0,0,14,0,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Yusuke Segawa,M,Kashiwa Reysol,45,5.8,0,0,0,0,3,1,0,9,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Taiyo Koga,D,Kashiwa Reysol,90,7.6,0,0,0,0,0,0,0,64,0,0,0,79,0,3,0,6,0,1,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Daiki Sugioka,D,Kashiwa Reysol,90,6.6,0,0,0,0,2,2,0,73,1,0,0,88,0,1,1,3,1,1,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Yudai Konishi,M,Kashiwa Reysol,45,6.4,0,0,0,0,0,0,0,56,1,0,0,64,0,0,1,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Ryosuke Kojima,G,Kashiwa Reysol,90,6.1,0,0,0,0,0,0,0,20,0,0,0,33,0,0,0,2,1,1,0,0,0,1
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Mao Hosoya,F,Kashiwa Reysol,45,5.9,0,0,0,0,2,1,0,4,0,0,1,16,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Shunta Tanaka,M,Cerezo Osaka,90,7.5,0,0,0,0,0,0,0,67,4,0,0,80,0,2,3,4,0,1,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Ayumu Ohata,D,Cerezo Osaka,90,6.6,0,0,0,0,0,0,0,31,0,0,0,55,1,0,2,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Solomon Sakuragawa,F,Cerezo Osaka,80,9,2,0,0,0,3,3,0,24,0,0,0,35,0,0,1,9,0,2,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Yoshio Koizumi,F,Kashiwa Reysol,69,6.8,0,0,0,0,0,0,0,34,2,0,0,44,0,1,1,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Keita Endo,M,Kashiwa Reysol,55,6.2,0,0,0,0,2,1,0,10,0,0,0,23,0,1,0,2,1,1,0,0,2,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Rikito Inoue,D,Cerezo Osaka,90,7.4,0,0,0,0,1,0,0,62,0,0,0,75,0,4,2,4,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Thiago Andrade,M,Cerezo Osaka,56,6.1,0,0,0,0,2,0,0,12,1,0,0,24,0,0,0,0,1,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Tojiro Kubo,M,Kashiwa Reysol,90,6.6,0,0,0,0,0,0,0,37,3,1,0,66,2,2,2,4,1,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Wataru Harada,D,Kashiwa Reysol,90,6.4,0,0,0,0,0,0,0,70,1,0,0,84,0,2,0,5,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Kosei Okazawa,M,Cerezo Osaka,34,6.8,0,0,0,0,0,0,0,12,0,0,0,20,1,2,0,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Hinata Yamauchi,F,Kashiwa Reysol,45,6.3,0,0,0,0,0,0,0,12,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Hayato Okuda,D,Cerezo Osaka,90,7.1,0,1,0,0,0,0,0,31,2,0,0,64,0,3,1,5,1,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Yumeki Yokoyama,M,Cerezo Osaka,34,7.7,0,0,0,0,2,0,0,8,0,0,0,21,4,1,0,5,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Kenshin Yuba,M,Kashiwa Reysol,35,6.4,0,0,0,0,0,0,0,19,0,0,0,37,0,2,0,3,0,1,0,0,1,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Koki Kumasaka,M,Kashiwa Reysol,45,6.4,0,0,0,0,0,0,0,23,1,0,0,29,0,0,1,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Cerezo Osaka vs Kashiwa Reysol,02/09/2026,Nobuteru Nakagawa,M,Kashiwa Reysol,90,7,0,0,0,0,2,0,0,44,0,0,0,65,0,3,4,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Masato Morishige,D,FC Tokyo,90,6.6,0,0,0,0,0,0,0,51,0,0,0,66,0,0,1,5,1,2,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Yutaka Yoshida,D,Shimizu S-Pulse,90,6.8,0,0,0,0,0,0,0,39,0,0,0,59,0,1,0,1,2,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Alexander Scholz,D,FC Tokyo,90,6.9,0,0,0,0,0,0,0,69,1,1,0,83,0,1,1,5,1,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Kento Hashimoto,M,FC Tokyo,11,6.7,0,0,0,0,2,0,1,3,0,0,1,8,0,0,0,4,1,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Kim Seung-gyu,G,FC Tokyo,90,5.7,0,0,0,0,0,0,0,43,0,0,0,46,0,0,0,0,0,0,0,0,0,1
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Yuji Takahashi,D,Shimizu S-Pulse,90,7.2,0,0,0,0,1,1,0,41,0,0,0,56,0,0,0,6,0,1,0,0,1,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Kinoshita Kosuke,F,Shimizu S-Pulse,77,7.2,1,0,0,0,1,1,0,14,0,0,0,27,0,0,1,4,3,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Kazuki Kozuka,M,Shimizu S-Pulse,13,6.9,0,0,0,0,0,0,0,7,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Oh Se-Hun,F,Shimizu S-Pulse,26,6.7,0,0,0,0,1,0,0,7,1,0,0,12,0,1,0,3,2,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Hirokazu Ishihara,D,FC Tokyo,90,6.5,0,0,0,0,0,0,0,40,1,0,0,69,0,1,0,5,2,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Takahiro Ko,M,FC Tokyo,86,6.8,0,0,0,0,0,0,0,51,1,1,0,66,0,2,2,4,1,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Togo Umeda,G,Shimizu S-Pulse,90,8.2,0,0,0,0,0,0,0,39,0,0,0,48,0,0,0,0,0,0,0,0,0,4
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Shion Homma,M,FC Tokyo,77,6.7,0,0,0,0,1,0,0,19,1,0,0,32,2,1,0,3,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Ryo Germain,F,Shimizu S-Pulse,64,6.3,0,0,0,0,1,0,0,17,1,0,0,30,0,0,0,4,0,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Tomoya Fujii,M,Shimizu S-Pulse,45,6.7,0,0,0,0,1,0,0,16,0,0,0,20,0,1,0,2,0,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Jelani Reshaun Sumiyoshi,D,Shimizu S-Pulse,90,7,0,0,0,0,0,0,0,44,1,0,0,57,0,0,2,5,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Kai Matsuzaki,M,Shimizu S-Pulse,90,7,0,0,0,0,1,0,0,19,1,0,0,36,2,0,0,4,1,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Kento Hashimoto,D,FC Tokyo,90,7.7,0,0,0,0,3,0,1,41,1,0,0,67,0,1,0,2,1,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Masaki Yumiba,M,Shimizu S-Pulse,90,7.4,0,0,0,0,0,0,0,32,1,0,0,56,1,0,2,4,1,2,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Hidehiro Sugai,D,Shimizu S-Pulse,90,6.3,0,0,0,0,0,0,0,32,0,0,0,52,0,0,0,1,1,1,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Marcelo Ryan,F,FC Tokyo,77,6.7,0,0,0,0,2,1,0,12,1,1,1,28,0,0,0,3,1,0,0,0,3,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Kanta Chiba,F,Shimizu S-Pulse,8,6.3,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Kein Sato,M,FC Tokyo,13,6.7,0,0,0,0,1,1,0,6,1,0,0,8,0,0,0,1,0,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Kota Tawaratsumida,M,FC Tokyo,13,6.6,0,0,0,0,1,0,0,1,0,0,0,4,0,0,0,0,1,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Motoki Nagakura,F,FC Tokyo,90,6.2,0,1,0,0,2,1,1,22,3,1,1,36,1,2,1,3,1,0,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Soma Anzai,M,FC Tokyo,90,7.9,1,0,0,0,3,2,0,35,1,0,0,57,1,0,0,6,0,1,0,0,1,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Yudai Shimamoto,M,Shimizu S-Pulse,89,6.5,0,0,0,0,1,0,0,26,0,0,0,42,2,0,2,4,1,2,0,0,0,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Kyota Tokiwa,M,FC Tokyo,90,6.7,0,0,0,0,2,0,0,48,2,0,0,60,0,2,0,5,0,2,0,0,1,0
+J1 League,J1_League_26_27,Shimizu S-Pulse vs FC Tokyo,02/09/2026,Yuto Tsuji,M,Shimizu S-Pulse,45,6.6,0,0,0,0,1,1,0,5,0,0,0,14,2,2,0,4,1,0,0,0,0,0

@@ -1,0 +1,1036 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Thomas Delaney,M,FC København,18,6.6,0,0,0,0,2,0,0,14,0,0,0,20,0,0,0,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Mohamed Elyounoussi,M,FC København,90,7.2,0,0,0,0,1,0,0,26,4,1,0,52,1,1,3,5,1,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Rúnar Alex Rúnarsson,G,FC København,90,7.9,0,0,0,0,0,0,0,25,0,0,0,32,0,0,0,1,0,1,0,0,0,2
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Juuso Hämäläinen,D,Inter Turku,86,7.4,0,0,0,0,0,0,0,81,1,0,0,98,0,5,6,8,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Jasse Tuominen,M,Inter Turku,70,6.6,0,0,0,0,1,0,0,19,0,0,0,28,0,0,1,2,0,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Felix Beijmo,D,FC København,90,6.5,0,0,0,0,1,0,0,47,1,0,0,56,0,0,0,4,5,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Alex Král,M,FC København,72,6.8,0,0,0,0,1,0,0,35,0,0,0,42,0,1,1,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Mads Emil Madsen,M,FC København,89,6.5,0,0,0,0,1,0,0,25,1,1,0,35,0,2,1,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Marcos López,D,FC København,90,7,0,0,0,0,2,2,0,19,1,0,1,42,0,1,1,2,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Seth Saarinen,D,Inter Turku,90,7.2,0,0,0,0,0,0,0,50,1,0,0,72,1,1,2,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Janne-Pekka Laine,M,Inter Turku,86,7.1,0,0,0,0,0,0,0,61,3,0,0,79,0,1,4,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Gabriel Pereira,D,FC København,90,7.4,0,0,0,0,1,1,0,51,1,0,1,69,0,1,2,5,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Yeboah Amankwah,D,Inter Turku,4,,0,0,0,0,1,0,0,5,0,0,0,7,0,0,0,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Youssoufa Moukoko,F,FC København,18,6.5,0,0,0,0,0,0,0,3,0,0,0,7,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Jussi Niska,D,Inter Turku,90,6.8,0,0,0,0,0,0,0,40,1,0,0,54,1,1,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Eetu Huuhtanen,G,Inter Turku,90,8,0,0,0,0,0,0,0,32,0,0,0,38,0,0,0,0,0,0,0,0,0,3
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Luka Kuittinen,D,Inter Turku,90,6.9,0,0,0,0,2,0,0,92,0,0,0,99,0,0,0,2,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Johannes Yli-Kokko,M,Inter Turku,4,,0,0,0,0,0,0,0,2,1,0,0,4,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,William Clem,M,FC København,90,6.9,0,0,0,0,0,0,0,45,0,0,0,54,0,2,1,4,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Lauri Laine,M,Inter Turku,20,6.6,0,0,0,0,1,0,0,1,0,0,0,7,1,0,0,3,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Junnosuke Suzuki,D,FC København,90,6.9,0,0,0,0,1,0,0,30,2,0,0,48,0,1,3,2,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Alie Conteh,F,Inter Turku,90,7.4,0,0,0,0,2,2,0,15,0,0,1,24,0,0,0,8,1,5,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Prosper Ahiabu,M,Inter Turku,20,6.7,0,0,0,0,0,0,0,3,0,0,0,7,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Antoin Loic Essomba,F,Inter Turku,70,7.2,0,0,0,0,0,0,0,14,1,1,0,28,0,1,0,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Bismark Ampofo,M,Inter Turku,90,6.6,0,0,0,0,0,0,0,49,0,0,0,56,0,1,0,2,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Robert,M,FC København,81,6.4,0,0,0,0,1,0,0,23,1,1,1,41,2,0,1,5,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Viktor Bjarki Dadason,F,FC København,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Clinton Jephta,F,Inter Turku,90,6.6,0,0,0,0,3,0,0,17,1,0,0,38,1,0,0,4,2,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Marvin Nasnas,M,FC København,9,6.6,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Inter Turku vs FC København,20/08/2026,Geovanni Vianney,F,FC København,72,6.9,0,0,0,0,0,0,0,11,0,0,0,23,2,1,1,7,1,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Ruben Jenssen,M,Tromsø IL,90,6.5,0,0,0,0,0,0,0,35,0,0,0,43,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Pascal Groß,M,Brighton & Hove Albion,90,7.1,0,0,0,0,3,1,0,63,6,1,0,87,0,0,0,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Jakob Haugaard,G,Tromsø IL,90,8.3,0,0,0,0,0,0,0,48,0,0,0,65,0,0,0,0,0,0,0,0,0,6
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Olivier Boscagli,D,Brighton & Hove Albion,90,7.7,0,0,0,0,1,0,0,102,0,0,0,123,0,0,1,1,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Ferdi Kadıoğlu,D,Brighton & Hove Albion,87,6.7,0,0,0,0,1,0,0,52,0,0,0,74,0,1,0,2,1,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Lars Olden Larsen,F,Tromsø IL,64,6.7,0,0,0,0,1,0,0,16,0,0,1,22,0,1,0,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Georginio Rutter,M,Brighton & Hove Albion,78,6.6,0,0,0,0,3,1,0,15,3,1,1,29,2,1,1,3,3,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Mats Wieffer,D,Brighton & Hove Albion,90,7.2,0,0,0,0,1,0,0,76,1,0,0,100,1,3,3,6,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,David Edvardsson,M,Tromsø IL,90,7.9,0,0,0,0,0,0,0,32,3,2,0,51,2,1,1,7,1,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Bart Verbruggen,G,Brighton & Hove Albion,90,7.1,0,0,0,0,0,0,0,40,0,0,0,44,0,0,0,0,0,0,0,0,0,1
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Maxim De Cuyper,D,Brighton & Hove Albion,13,6.8,0,0,0,0,0,0,0,15,0,0,0,20,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Vetle Skjaervik,D,Tromsø IL,90,7.7,0,0,0,0,0,0,0,45,0,0,0,60,0,0,0,2,0,2,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Isak Dahlqvist,M,Tromsø IL,80,6.7,0,0,0,0,0,0,0,10,0,0,0,32,0,2,1,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Yasin Ayari,M,Brighton & Hove Albion,90,6.5,0,0,0,0,5,1,0,35,1,1,2,49,2,0,0,5,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Jesper Andreas Grundt,M,Tromsø IL,10,6.6,0,0,0,0,0,0,0,6,0,0,0,10,1,0,1,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Diego Gómez,M,Brighton & Hove Albion,68,6.2,0,0,0,0,0,0,0,20,1,0,0,33,0,1,0,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Amario Cozier-Duberry,M,Brighton & Hove Albion,22,6.5,0,0,0,0,2,0,0,19,1,1,0,25,1,0,0,1,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Heine Asen Larsen,F,Tromsø IL,80,6.3,0,0,0,0,1,1,0,11,0,0,1,25,0,0,1,4,1,3,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Jack Hinshelwood,M,Brighton & Hove Albion,12,6.6,0,0,0,0,2,1,0,6,0,0,0,11,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Sander Innvær,M,Tromsø IL,10,6.7,0,0,0,0,0,0,0,1,0,0,0,5,1,0,0,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Isak Vadebu,D,Tromsø IL,90,7,0,0,0,0,1,0,0,29,0,0,1,45,0,2,1,5,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Daniel Braut,F,Tromsø IL,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Mathias Tonnessen,D,Tromsø IL,90,7.5,0,0,0,0,2,0,0,32,1,1,1,60,1,1,2,11,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Luka Vušković,D,Brighton & Hove Albion,90,8.1,0,0,0,0,1,1,0,105,0,0,0,116,0,2,2,12,1,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Charalampos Kostoulas,F,Brighton & Hove Albion,22,6.6,0,0,0,0,2,0,0,11,2,0,1,19,1,0,0,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Troy Nyhammer,M,Tromsø IL,89,6.5,0,0,0,0,0,0,0,21,0,0,0,33,0,0,0,3,1,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Ibrahim Osman,M,Brighton & Hove Albion,77,6.5,0,0,0,0,3,1,0,41,3,0,0,58,2,2,0,5,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Ieltsin Camões,F,Tromsø IL,26,6.4,0,0,0,0,0,0,0,9,1,1,0,13,0,0,0,1,1,0,0,0,2,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Malick Yalcouyé,M,Brighton & Hove Albion,68,6.9,0,0,0,0,1,0,0,39,1,0,0,46,0,3,0,4,3,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Alexander Warneryd,D,Tromsø IL,90,6.7,0,0,0,0,0,0,0,14,0,0,0,36,1,1,1,5,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Tromsø IL vs Brighton & Hove Albion,20/08/2026,Zadok Yohanna,F,Brighton & Hove Albion,3,,0,0,0,0,0,0,0,2,0,0,0,5,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Jakov Puljić,F,HNK Rijeka,23,6.5,0,0,0,0,1,0,0,4,0,0,0,8,0,0,0,1,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Ante Majstorović,D,HNK Rijeka,90,6.2,0,0,0,0,1,0,0,35,0,0,0,53,0,4,2,9,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Amer Gojak,M,HNK Rijeka,16,6.7,0,0,0,0,0,0,0,14,0,0,0,17,1,0,0,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Philip Billing,M,FC Midtjylland,90,8.6,0,0,0,0,1,1,0,74,2,1,0,90,0,3,0,11,3,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Justas Lasickas,D,HNK Rijeka,9,6.5,0,0,0,0,1,0,0,3,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Magnus Jensen,D,FC Midtjylland,90,8.3,0,0,0,0,2,2,0,63,0,0,0,83,0,2,1,12,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Elías Ólafsson,G,FC Midtjylland,90,7.2,0,0,0,0,0,0,0,36,0,0,0,44,0,0,0,1,0,1,0,0,0,1
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Mladen Devetak,D,HNK Rijeka,90,6,0,0,0,0,0,0,0,20,0,0,0,36,0,1,2,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Toni Fruk,M,HNK Rijeka,87,5.9,0,0,0,0,1,0,0,14,1,0,0,28,0,0,0,1,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Rasmus Kristensen,D,FC Midtjylland,90,7.6,0,0,0,0,1,0,0,54,0,0,0,70,1,3,1,5,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Tiago Dantas,M,HNK Rijeka,67,6.5,0,0,0,0,0,0,0,15,1,0,0,27,0,3,0,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Ivan Ćubelić,M,HNK Rijeka,74,7,0,0,0,0,1,0,0,27,2,0,0,44,0,2,1,6,1,3,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Niko Janković,M,HNK Rijeka,74,6.2,0,0,0,0,3,1,0,15,0,0,0,36,1,0,0,3,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Alfonso Barco,M,HNK Rijeka,90,6.6,0,0,0,0,0,0,0,36,0,0,0,53,0,0,1,4,4,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Mads Bech Sørensen,D,FC Midtjylland,90,9,0,0,0,0,0,0,0,57,2,0,0,80,0,1,0,3,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Gue-sung Cho,F,FC Midtjylland,74,7.5,1,0,0,0,2,1,0,22,0,0,0,38,0,3,1,13,2,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Ante Oreč,D,HNK Rijeka,90,6.9,0,0,0,0,0,0,0,38,2,0,0,68,2,6,0,11,3,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Adam Gabriel,D,FC Midtjylland,1,,0,0,0,0,0,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Darío Osorio,M,FC Midtjylland,89,7.7,0,0,0,0,1,0,0,30,1,1,0,48,2,1,0,6,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Pedro Bravo,M,FC Midtjylland,90,7.2,0,0,0,0,0,0,0,22,0,0,0,31,0,1,0,3,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Yusuf Kabadayi,F,HNK Rijeka,16,6.6,0,0,0,0,0,0,0,5,1,0,0,9,1,0,0,2,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Ante Matej Jurić,F,HNK Rijeka,9,6.6,0,0,0,0,1,0,0,1,1,0,0,4,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Denil Castillo,M,FC Midtjylland,59,6.2,0,0,0,0,2,0,0,22,0,0,1,37,0,1,1,5,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Franculino Djú,F,FC Midtjylland,45,7.2,0,1,0,0,1,0,0,13,1,1,0,17,0,0,0,2,0,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Valdemar Byskov,M,FC Midtjylland,45,7.1,0,0,0,0,0,0,0,26,1,0,0,38,0,0,0,3,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Aleksa Todorović,G,HNK Rijeka,90,8.8,0,0,0,0,0,0,0,30,0,0,0,49,0,1,0,1,0,0,0,0,0,8
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Friday Etim,F,FC Midtjylland,16,6.9,0,0,0,0,2,2,0,2,0,0,1,7,0,0,0,1,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Kjell Wätjen,M,FC Midtjylland,31,7.1,0,0,0,0,1,1,0,14,2,0,0,20,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Daniel Adu-Adjei,F,HNK Rijeka,87,5.4,0,0,0,0,0,0,0,14,0,0,0,25,0,0,0,3,1,1,0,0,2,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Branko Pavić,M,HNK Rijeka,90,6.2,0,0,0,0,0,0,0,34,0,0,0,46,1,2,2,3,4,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Stanley Iheanacho,M,FC Midtjylland,45,6.9,0,0,0,0,3,1,0,8,0,0,2,22,3,1,0,6,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Midtjylland vs HNK Rijeka,20/08/2026,Sofus Johannesen,M,FC Midtjylland,45,7.9,1,0,0,0,2,2,0,13,4,1,0,33,1,1,0,5,2,2,1,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Peter Ankersen,D,FC Nordsjælland,90,7.7,0,0,0,0,0,0,0,50,0,0,0,74,0,2,1,9,1,7,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Lukas Görtler,M,FC St. Gallen 1879,90,6.9,0,0,0,0,0,0,0,53,2,0,0,65,1,5,2,6,3,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Andreas Hansen,G,FC Nordsjælland,90,7.8,0,0,0,0,0,0,0,58,0,0,0,80,0,0,0,1,0,1,0,0,0,6
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Tobias Salquist,D,FC Nordsjælland,90,7.5,0,0,0,0,0,0,0,62,1,0,0,73,0,2,2,5,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Lawrence Ati Zigi,G,FC St. Gallen 1879,90,7.7,0,0,0,0,0,0,0,46,0,0,0,57,0,0,0,1,0,1,0,0,0,3
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Chima Okoroji,D,FC St. Gallen 1879,90,7.4,0,0,0,0,0,0,0,48,0,0,0,66,0,5,0,8,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Mark Brink,M,FC Nordsjælland,19,6.7,0,0,0,0,0,0,0,8,0,0,0,10,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Jozo Stanić,D,FC St. Gallen 1879,90,7.3,0,0,0,0,1,1,0,51,1,0,1,75,0,5,2,11,4,5,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Lukas Daschner,M,FC St. Gallen 1879,77,6.2,0,0,0,0,2,2,1,36,2,0,0,52,1,2,0,3,4,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Nicklas Røjkjær,M,FC Nordsjælland,71,7.6,1,0,0,0,1,1,0,47,2,0,0,56,0,1,0,3,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Christian Witzig,M,FC St. Gallen 1879,45,6.5,0,0,0,0,2,0,0,15,2,2,0,23,1,0,0,1,2,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Alexander Lind,F,FC Nordsjælland,29,7.2,0,0,0,0,1,0,0,9,3,1,0,15,0,0,0,3,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Hugo Vandermersch,M,FC St. Gallen 1879,66,6.7,0,0,0,0,1,0,0,17,0,0,0,41,1,1,0,8,1,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Betim Fazliji,M,FC St. Gallen 1879,13,6.4,0,0,0,0,1,0,0,6,1,0,1,10,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Aliou Balde,F,FC St. Gallen 1879,81,6.9,0,0,0,0,3,1,0,8,1,0,0,27,1,3,0,5,0,0,0,0,2,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Ibrahim Adel,M,FC Nordsjælland,61,6.2,0,1,0,0,1,0,0,23,1,0,1,36,1,1,0,6,4,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Mihailo Stevanović,M,FC St. Gallen 1879,90,6.6,0,0,0,0,2,1,0,28,1,0,0,51,0,3,1,5,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Runar Robinsonn Norheim,M,FC Nordsjælland,90,6.7,0,0,0,0,1,1,0,18,0,0,1,34,1,0,0,3,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Andrin Hunziker,F,FC St. Gallen 1879,67,7,0,0,0,0,3,0,0,8,0,0,0,21,1,0,1,6,2,2,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Enoch Owusu,F,FC St. Gallen 1879,24,7.1,0,0,0,0,0,0,0,28,1,0,0,35,2,0,2,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Leon Frokaj,M,FC St. Gallen 1879,45,5.9,0,0,0,0,2,0,0,10,0,0,0,22,0,1,0,2,1,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Juho Lähteenmäki,D,FC Nordsjælland,90,7.2,0,0,0,0,0,0,0,48,1,1,0,70,0,1,1,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Malamine Efekele,F,FC St. Gallen 1879,9,6.3,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Stephen Acquah,D,FC Nordsjælland,90,7.2,0,0,0,0,1,0,0,67,1,0,0,81,0,2,0,4,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Diego Besio,F,FC St. Gallen 1879,23,6.3,0,0,0,0,2,1,0,2,0,0,1,9,0,0,0,1,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Justin Janssen,M,FC Nordsjælland,90,8.5,0,0,0,0,1,0,0,49,0,0,0,67,0,6,2,9,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Villum Berthelsen,F,FC Nordsjælland,19,6.5,0,0,0,0,0,0,0,9,0,0,0,18,0,1,0,2,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Hjalte Boe Rasmussen,M,FC Nordsjælland,29,5.9,0,0,0,0,3,1,0,9,0,0,1,21,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Prince Amoako Junior,F,FC Nordsjælland,61,6.3,0,0,0,0,1,0,0,19,0,0,0,39,4,0,0,5,2,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Lamine Sadio,F,FC Nordsjælland,71,7.3,0,0,0,0,2,1,0,30,2,1,0,48,2,2,0,9,1,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Nordsjælland vs FC St. Gallen 1879,20/08/2026,Joel Ruiz,D,FC St. Gallen 1879,90,7,0,0,0,0,0,0,0,49,0,0,0,68,0,7,0,9,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Taison,M,PAOK,66,6.8,0,0,0,0,2,1,0,20,2,0,0,38,1,2,1,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Jiří Pavlenka,G,PAOK,90,6.4,0,0,0,0,0,0,0,18,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Bård Finne,F,SK Brann,89,6.5,0,0,0,0,2,0,0,27,2,0,0,38,1,1,0,5,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Rahman Baba,D,PAOK,25,8,1,0,0,0,1,1,0,20,0,0,0,31,0,0,2,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Mathias Dyngeland,G,SK Brann,90,8.4,0,0,0,0,0,0,0,42,0,0,0,51,0,0,0,0,0,0,0,0,0,6
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Thore Pedersen,D,SK Brann,86,6.8,0,0,0,0,0,0,0,57,0,0,0,74,0,4,2,6,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Baptiste Santamaria,M,PAOK,66,6.6,0,0,0,0,4,1,0,16,1,0,1,32,0,3,1,5,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Dimitrios Giannoulis,M,PAOK,65,6.9,0,0,0,0,0,0,0,24,2,2,0,58,4,2,0,6,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Jonjoe Kenny,D,PAOK,90,7.1,0,0,0,0,3,0,0,40,1,0,0,62,2,0,0,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Vetle Dragsnes,D,SK Brann,90,7.1,0,0,0,0,0,0,0,69,0,0,0,82,0,3,0,5,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Kristian Eriksen,M,SK Brann,90,7.6,1,0,0,0,2,1,0,33,0,0,0,50,1,0,2,6,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Joachim Soltvedt,D,SK Brann,90,6.3,0,1,0,0,0,0,0,44,1,1,0,71,0,1,0,3,2,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Fredrik Pallesen Knudsen,D,SK Brann,90,7.7,0,0,0,0,0,0,0,65,0,0,0,85,0,2,1,8,2,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Aritz Elustondo,D,PAOK,90,7.6,0,0,0,0,0,0,0,36,0,0,0,52,0,3,0,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Pantelis Hatzidiakos,D,PAOK,90,6.9,0,0,0,0,0,0,0,43,0,0,0,55,0,2,0,4,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Jacob Lungi Sørensen,M,SK Brann,90,6.8,0,0,0,0,1,0,0,47,0,0,0,67,0,2,2,7,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Greg Taylor,D,PAOK,24,6.9,0,0,0,0,0,0,0,16,0,0,0,24,1,1,1,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Mady Camara,M,PAOK,77,6.3,0,0,0,0,3,0,0,15,1,1,1,29,0,3,0,5,0,1,0,0,2,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Cherif Ndiaye,F,PAOK,34,6.6,0,0,0,0,1,1,0,8,0,0,1,17,2,0,0,3,0,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Shola Shoretire,F,PAOK,13,6.5,0,0,0,0,0,0,0,13,0,0,0,16,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Eggert Aron Guðmundsson,M,SK Brann,90,6.5,0,0,0,0,0,0,0,33,2,1,0,50,2,1,0,4,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Christos Zafeiris,M,PAOK,90,7.9,0,0,0,0,3,0,0,35,3,2,0,54,0,3,1,5,1,0,1,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Niklas Jensen Wassberg,M,SK Brann,90,6.2,0,0,0,0,0,0,0,21,0,0,0,38,1,1,3,3,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Denzel De Roeve,D,SK Brann,90,6.2,0,0,0,0,1,0,0,44,0,0,1,82,2,2,1,6,1,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Tom Louchet,M,PAOK,24,6.6,0,1,0,0,1,0,0,10,1,1,0,18,0,0,1,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Kjartan Mar Kjartansson,M,SK Brann,8,6.5,0,0,0,0,0,0,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Anestis Mythou,F,PAOK,56,7.1,0,0,0,0,2,1,0,16,1,0,1,29,0,3,0,8,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Lars Remmem,M,SK Brann,1,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,PAOK vs SK Brann,20/08/2026,Dimitrios Chatsidis,M,PAOK,90,6.7,0,0,0,0,3,1,0,16,3,0,2,39,3,1,1,10,0,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Lukáš Hrádecký,G,AS Monaco,90,7,0,0,0,0,0,0,0,31,0,0,0,37,0,0,0,0,0,0,0,0,0,4
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Erik Janža,D,Górnik Zabrze,90,6.8,0,1,0,0,0,0,0,42,2,1,0,65,0,1,0,5,2,4,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Rafał Janicki,D,Górnik Zabrze,90,6.1,0,0,0,0,0,0,0,56,0,0,0,62,0,0,0,4,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Eric Dier,D,AS Monaco,90,6.7,0,0,0,0,2,1,1,56,0,0,0,66,0,0,0,8,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Lukáš Sadílek,M,Górnik Zabrze,66,6.5,0,0,0,0,1,0,0,21,0,0,0,34,0,2,1,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Denis Zakaria,M,AS Monaco,89,6.8,0,0,0,0,0,0,0,25,0,0,0,36,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Jordan Teze,M,AS Monaco,35,6.2,0,0,0,0,0,0,0,12,0,0,0,23,0,1,0,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Josema,D,Górnik Zabrze,90,6.9,0,0,0,0,2,1,0,53,0,0,0,64,1,1,0,3,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Michal Sáček,D,Górnik Zabrze,90,6.5,0,0,0,0,1,1,0,43,4,0,0,67,1,2,1,6,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Erik Prekop,F,Górnik Zabrze,66,7.4,1,0,0,0,3,1,0,10,0,0,1,22,0,0,0,3,1,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Sondre Liseth,F,Górnik Zabrze,24,7.2,1,0,0,0,1,1,0,0,0,0,0,4,0,0,0,0,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Janis Antiste,F,Górnik Zabrze,9,6.5,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Paulo Bernardo,M,Górnik Zabrze,81,6.8,0,1,0,0,1,1,0,25,4,0,0,41,0,2,1,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Maximilian Dietz,M,Górnik Zabrze,90,6.7,0,0,0,0,0,0,0,38,0,0,0,47,0,1,1,4,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Philipp Schulze,G,Górnik Zabrze,90,6.3,0,0,0,0,0,0,0,25,0,0,0,35,0,0,0,0,0,0,0,0,0,3
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Maksym Khlan,M,Górnik Zabrze,90,7.2,0,0,0,0,3,1,0,30,0,0,0,49,0,1,0,6,2,5,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Nazinho,D,AS Monaco,10,6.9,0,0,0,0,0,0,0,4,0,0,0,10,0,2,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Kacper Urbański,M,Górnik Zabrze,24,6.6,0,0,0,0,1,0,0,7,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Peter González,M,Górnik Zabrze,74,6.6,0,0,0,0,4,0,0,23,2,1,0,43,1,1,0,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Mika Biereth,F,AS Monaco,81,7.1,1,0,0,0,1,1,0,6,1,0,0,16,0,0,0,3,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Vanderson,D,AS Monaco,55,6.3,0,0,0,0,0,0,0,25,0,0,0,39,0,1,1,1,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Stanis Idumbo Muzambo,M,AS Monaco,90,7.1,0,1,0,0,2,0,0,26,2,1,0,45,1,2,2,5,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Lamine Camara,M,AS Monaco,90,8,1,0,0,0,2,1,0,61,2,0,0,82,0,1,0,4,2,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Paris Brunner,F,AS Monaco,90,7.8,1,0,0,0,5,2,0,19,2,0,0,39,1,0,0,7,1,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Christian Mawissa,D,AS Monaco,80,6.4,0,0,0,0,0,0,0,38,0,0,0,58,2,1,3,6,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Sadibou Sané,D,AS Monaco,90,6.4,0,0,0,0,0,0,0,45,1,0,0,54,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Bruno Durdov,M,Górnik Zabrze,16,6.4,0,0,0,0,0,0,0,6,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Mathys Detourbet,M,AS Monaco,55,6.4,0,1,0,0,0,0,0,28,1,0,0,39,1,0,0,1,3,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Safouane Benzahra,F,AS Monaco,1,,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Oumar Konate,F,AS Monaco,9,6.4,0,0,0,0,1,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Górnik Zabrze vs AS Monaco,20/08/2026,Anis Soubeir,M,AS Monaco,35,6.5,0,0,0,0,1,1,0,8,1,0,0,14,1,1,0,2,2,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Lars Unnerstall,G,FC Twente,90,6.8,0,0,0,0,0,0,0,18,0,0,0,25,0,0,0,0,0,0,0,0,0,3
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Bədavi Hüseynov,D,Qarabağ FK,90,7.1,0,0,0,0,0,0,0,44,0,0,0,61,0,1,2,4,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Marko Janković,M,Qarabağ FK,90,7.1,0,0,0,0,0,0,0,49,1,0,0,60,0,1,1,5,1,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Marko Pjaca,F,FC Twente,61,6.5,0,0,0,0,2,1,0,22,1,0,0,31,0,1,0,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Robin Pröpper,D,FC Twente,45,7,0,0,0,0,0,0,0,32,0,0,0,34,0,1,0,2,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Wout Weghorst,F,FC Twente,61,6.6,0,0,0,0,0,0,0,12,1,0,0,21,0,0,0,4,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Sam Lammers,F,FC Twente,29,6.4,0,0,0,0,1,0,0,14,2,1,0,16,0,0,0,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Olexiy Kashchuk,M,Qarabağ FK,90,6.6,0,0,0,0,2,2,0,15,0,0,0,27,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Martin Zlomislić,G,Qarabağ FK,90,7.3,0,0,0,0,0,0,0,38,0,0,0,50,0,0,1,0,0,0,0,0,0,5
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Matheus Silva,D,Qarabağ FK,90,6.5,0,0,0,0,0,0,0,27,1,0,0,56,1,2,0,3,0,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Bart van Rooij,D,FC Twente,90,7.3,0,0,0,0,2,1,0,55,1,0,1,83,0,4,0,6,4,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Bruno Langa,D,Qarabağ FK,90,7.8,0,0,0,0,0,0,0,27,1,0,0,62,2,4,3,7,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Jaly Mouaddib,M,Qarabağ FK,90,7.3,0,0,0,0,3,1,0,24,2,0,0,47,1,1,1,7,0,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Ramiz Zerrouki,M,FC Twente,90,7.1,0,0,0,0,1,0,0,62,3,0,0,69,0,1,2,3,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Musa Qurbanlı,F,Qarabağ FK,75,6.5,0,1,0,0,0,0,0,15,1,1,0,28,0,0,0,2,1,2,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Bence Várkonyi,D,Qarabağ FK,90,7.2,0,0,0,0,0,0,0,43,0,0,0,56,0,1,2,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Dani Bolt,D,Qarabağ FK,15,6.6,0,0,0,0,0,0,0,4,0,0,0,12,0,1,1,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Daan Rots,M,FC Twente,90,6,0,0,0,0,2,0,0,38,1,0,0,54,0,1,1,3,0,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Samuel Lobato,M,Qarabağ FK,90,6.6,0,0,0,0,0,0,0,36,0,0,0,67,3,4,0,7,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Max Bruns,D,FC Twente,45,6.7,0,0,0,0,0,0,0,54,0,0,0,55,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Aske Adelgaard,D,FC Twente,83,6.4,0,0,0,0,2,1,0,41,0,0,0,67,0,3,1,3,0,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Daouda Weidmann,M,FC Twente,83,7.2,0,0,0,0,4,1,0,44,2,0,0,70,2,3,0,6,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Kristian Hlynsson,M,FC Twente,29,6.5,0,0,0,0,1,0,0,25,2,0,0,35,0,0,1,2,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Kady Borges,M,Qarabağ FK,90,7.6,1,0,0,0,2,1,1,21,0,0,0,38,0,1,2,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Sondre Ørjasæter,M,FC Twente,90,7.2,0,0,0,0,4,1,0,29,2,0,1,54,6,2,0,8,0,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Filip Thorvaldsen,M,FC Twente,12,6.6,0,0,0,0,2,0,0,5,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Lucas Vennegoor of Hesselink,F,FC Twente,12,6.5,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Twente vs Qarabağ FK,20/08/2026,Ruud Nijstad,D,FC Twente,90,7,0,0,0,0,0,0,0,71,0,0,0,80,0,3,1,4,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Marc-André Ter Stegen,G,AFC Ajax,90,6.7,0,0,0,0,0,0,0,19,0,0,0,25,0,0,0,0,0,0,0,0,0,3
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Numa Lavanchy,D,FC Sion,90,6.1,0,0,0,0,1,1,0,35,0,0,0,55,0,3,1,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Davy Klaassen,M,AFC Ajax,90,7.5,1,0,0,0,2,1,0,62,1,0,0,71,0,2,0,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Steven Berghuis,F,AFC Ajax,90,6.8,0,0,0,0,6,1,0,55,5,0,0,79,2,1,0,3,0,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Julian Brandt,F,AFC Ajax,90,8.1,1,0,0,0,2,2,0,69,5,1,0,81,1,0,0,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Benjamin Kololli,M,FC Sion,11,6.5,0,0,0,0,0,0,0,2,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Owen Wijndal,D,AFC Ajax,17,6.8,0,0,0,0,0,0,0,19,0,0,0,23,0,2,0,2,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Caio Henrique,D,AFC Ajax,73,6.1,0,0,0,0,0,0,0,33,0,0,0,47,2,1,0,4,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Ali Kabacalman,M,FC Sion,90,6.9,0,1,0,0,0,0,0,59,3,0,0,64,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Anthony Racioppi,G,FC Sion,90,7.2,0,0,0,0,0,0,0,31,0,0,0,39,0,0,0,0,0,0,0,0,0,4
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Jan Kronig,D,FC Sion,90,5.9,0,0,0,0,0,0,0,53,0,0,0,63,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Rilind Nivokazi,F,FC Sion,75,6.7,0,0,0,0,0,0,0,10,2,0,0,19,0,3,0,6,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Nias Hefti,D,FC Sion,90,6.2,0,0,0,0,1,0,0,31,0,0,0,53,0,2,3,5,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Baltazar,M,FC Sion,82,6.8,0,0,0,0,1,0,0,33,2,0,0,44,2,1,1,4,1,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Ylyas Chouaref,M,FC Sion,85,7.4,1,0,0,0,3,2,0,30,1,0,0,54,1,3,2,7,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Lucas Rosa,D,AFC Ajax,12,6.7,0,0,0,0,0,0,0,17,1,0,0,22,0,0,1,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Tolu Arokodare,F,AFC Ajax,17,7.9,1,1,0,0,2,2,0,4,1,1,0,11,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Donat Rrudhani,M,FC Sion,15,6.4,0,0,0,0,0,0,0,5,1,0,0,7,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Youri Regeer,M,AFC Ajax,45,6.4,0,0,0,0,0,0,0,36,0,0,0,41,1,1,0,3,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Youri Baas,D,AFC Ajax,90,7.1,0,0,0,0,0,0,0,99,0,0,0,111,0,1,4,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Josias Lukembila,M,FC Sion,8,6.5,0,0,0,0,1,0,0,4,0,0,0,8,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Marcos Leonardo,F,AFC Ajax,73,6.5,1,0,0,0,4,1,0,11,1,0,1,18,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Franck Surdez,F,FC Sion,75,8.2,1,0,0,0,2,1,0,20,2,0,0,42,2,3,3,6,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Théo Berdayes,M,FC Sion,8,6.4,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Anton Gaaei,D,AFC Ajax,78,7.1,0,0,0,0,1,0,0,47,1,0,0,70,1,2,1,6,3,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Noé Sow,D,FC Sion,90,5.9,0,0,0,0,0,0,0,53,0,0,0,67,0,1,1,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Oscar Gloukh,M,AFC Ajax,73,6.6,0,0,0,0,2,0,0,32,1,0,0,35,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Fode Sylla,M,FC Sion,15,6.4,0,0,0,0,0,0,0,3,0,0,0,5,0,1,0,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Winsley Boteli Mokango,F,FC Sion,82,6.4,0,0,0,0,3,0,1,6,0,0,0,17,0,0,0,2,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Jorthy Mokio,M,AFC Ajax,45,6.3,0,0,0,0,2,0,0,35,0,0,0,45,0,0,1,2,1,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Aaron Bouwman,D,AFC Ajax,90,7.5,0,0,0,0,2,1,0,89,0,0,0,100,0,3,5,5,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Sion vs AFC Ajax,20/08/2026,Abdellah Ouazane,M,AFC Ajax,17,6.7,0,0,0,0,0,0,0,7,0,0,0,15,2,0,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Omri Altman,F,Hapoel Tel Aviv,63,6.8,0,0,0,0,1,0,0,22,0,0,0,34,2,3,0,6,3,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Mario Pašalić,M,Atalanta,12,6.9,0,0,0,0,0,0,0,17,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Xande Silva,F,Hapoel Tel Aviv,27,6.6,0,0,0,0,2,2,0,10,0,0,0,18,0,1,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Emmanuel Boateng,F,Hapoel Tel Aviv,75,6.2,0,0,0,0,1,1,0,4,0,0,1,12,1,0,0,3,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Marcus Coco,D,Hapoel Tel Aviv,89,7.4,0,0,0,0,0,0,0,57,0,0,0,79,1,3,0,8,2,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Gianluca Scamacca,F,Atalanta,63,6.5,0,0,0,0,1,1,0,16,1,0,0,21,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Raoul Bellanova,M,Atalanta,90,6.7,0,0,0,0,0,0,0,61,0,0,0,80,0,0,2,1,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Nikola Krstović,F,Atalanta,27,6.2,0,0,0,0,3,1,0,9,0,0,1,18,0,0,0,3,2,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Assaf Tzur,G,Hapoel Tel Aviv,90,8.9,0,0,0,0,0,0,0,26,0,0,0,36,0,0,0,1,0,0,0,0,0,5
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Shahar Piven,D,Hapoel Tel Aviv,1,,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Fernand Mayembo,D,Hapoel Tel Aviv,90,7.4,0,0,0,0,0,0,0,53,0,0,0,66,0,2,1,5,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Andrian Kraev,M,Hapoel Tel Aviv,90,6.7,0,0,0,0,1,1,0,55,0,0,0,63,0,2,0,4,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Marco Carnesecchi,G,Atalanta,90,7.2,0,0,0,0,0,0,0,35,0,0,0,44,0,0,0,1,0,1,0,0,0,4
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Giacomo Raspadori,F,Atalanta,90,6.1,0,0,0,0,2,2,0,21,1,1,1,41,1,0,0,3,2,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Chico,D,Hapoel Tel Aviv,90,7,0,0,0,0,0,0,0,59,0,0,0,67,1,0,1,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Gianluca Gaetano,M,Atalanta,90,7.5,0,0,0,0,0,0,0,70,1,0,0,83,2,1,1,5,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Éderson,M,Atalanta,90,6.8,0,0,0,0,1,0,0,56,1,0,0,68,0,0,1,2,2,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Odilon Kossounou,D,Atalanta,90,7.7,0,0,0,0,0,0,0,129,0,0,0,133,0,1,1,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Falcão,M,Hapoel Tel Aviv,90,6.7,0,0,0,0,0,0,0,27,1,0,0,35,0,1,0,3,3,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Lazar Samardžić,M,Atalanta,78,7.1,0,0,0,0,0,0,0,56,2,0,0,76,3,2,0,8,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Nicola Zalewski,M,Atalanta,78,6.7,0,0,0,0,1,0,0,47,0,0,0,55,0,0,0,2,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Giorgio Scalvini,D,Atalanta,26,7.1,0,0,0,0,0,0,0,42,0,0,0,44,0,2,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Lorenzo Bernasconi,M,Atalanta,90,6.9,0,0,0,0,0,0,0,66,0,0,0,87,0,3,1,3,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Doron Leidner,D,Hapoel Tel Aviv,90,6.9,0,0,0,0,0,0,0,39,2,1,0,59,1,1,0,3,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Thomas Kristensen,D,Atalanta,64,7.1,0,0,0,0,1,1,0,74,0,0,0,81,0,0,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Roee Alkokin,M,Hapoel Tel Aviv,89,6.6,0,0,0,0,1,0,0,27,0,0,0,39,1,1,1,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Federico Cassa,M,Atalanta,12,6.4,0,0,0,0,0,0,0,8,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Amit Lemkin,M,Hapoel Tel Aviv,1,,0,0,0,0,0,0,0,2,1,0,0,5,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Douglas Owusu,M,Hapoel Tel Aviv,63,6.9,0,0,0,0,0,0,0,29,1,0,0,40,2,0,1,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Mor Buskila,F,Hapoel Tel Aviv,27,7,0,0,0,0,1,0,0,8,1,0,0,14,0,2,0,2,0,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Atalanta vs Hapoel Tel Aviv,20/08/2026,Daniel Dappa,F,Hapoel Tel Aviv,15,6.6,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Matthias Ginter,D,SC Freiburg,90,8.5,2,0,0,0,4,4,0,90,1,0,0,109,0,3,0,5,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Vincenzo Grifo,M,SC Freiburg,16,6.8,0,1,0,0,0,0,0,17,3,1,0,26,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Stephen O'Donnell,D,Motherwell,12,6.3,0,0,0,0,0,0,0,2,1,0,0,8,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Maximilian Eggestein,M,SC Freiburg,90,7.3,0,0,0,0,3,0,0,57,4,0,0,74,1,1,1,8,0,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Philipp Lienhart,D,SC Freiburg,10,7,0,0,0,0,0,0,0,22,0,0,0,22,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Regan Charles-Cook,F,Motherwell,45,7.3,1,0,0,0,1,1,0,4,0,0,0,11,0,0,0,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Jan-Niklas Beste,M,SC Freiburg,74,6.4,0,0,0,0,1,0,0,23,3,0,0,32,0,1,0,2,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Martin Moormann,D,Motherwell,65,5.7,0,0,0,0,1,0,0,43,0,0,0,52,1,1,0,4,1,1,0,1,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Lukas Fadinger,M,Motherwell,90,6.8,0,0,0,0,0,0,0,58,0,0,0,74,1,4,1,8,1,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Philipp Treu,D,SC Freiburg,90,7.1,0,0,0,0,4,1,0,53,0,0,0,80,0,4,0,7,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Joe Hodge,M,Motherwell,78,5.9,0,0,0,0,0,0,0,44,0,0,0,55,0,1,1,1,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Yannick Engelhardt,M,SC Freiburg,90,7.3,0,0,0,0,1,0,0,55,0,0,0,67,1,2,1,4,3,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Emmanuel Longelo,D,Motherwell,90,6.3,0,1,0,0,0,0,0,29,1,1,0,47,0,0,0,1,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Willy Vogt,F,Motherwell,19,6.5,0,0,0,0,0,0,0,4,0,0,0,4,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Alex Paulsen,G,Motherwell,90,7.9,0,0,0,0,0,0,0,55,0,0,0,66,0,0,0,0,0,0,0,0,0,7
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Ibrahim Said,M,Motherwell,90,6.6,0,0,0,0,0,0,0,21,0,0,0,54,1,5,3,11,3,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Igor Matanović,F,SC Freiburg,80,7,0,1,0,0,6,2,0,20,3,1,0,40,1,3,0,10,3,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Yuito Suzuki,M,SC Freiburg,74,6.2,0,0,0,0,2,1,0,25,0,0,0,33,0,0,0,3,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Tawanda Maswanhise,F,Motherwell,71,6.6,0,0,0,0,1,0,0,9,0,0,0,26,1,2,1,7,3,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Mio Backhaus,G,SC Freiburg,90,6.8,0,0,0,0,0,0,0,31,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Alex Lowry,M,Motherwell,70,5.8,0,0,0,0,0,0,0,17,1,0,0,29,0,0,0,0,2,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Ewan Wilson,D,Motherwell,20,6.7,0,0,0,0,0,0,0,17,0,0,0,24,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Derry Scherhant,F,SC Freiburg,89,6.7,0,0,0,0,2,1,1,29,3,0,0,60,1,0,1,3,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Maximilian Rosenfelder,D,SC Freiburg,80,7,0,0,0,0,0,0,0,82,1,0,0,96,0,7,3,7,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Jordy Makengo,D,SC Freiburg,90,6.6,0,0,0,0,0,0,0,49,0,0,0,66,0,1,2,5,2,2,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Jake Girdwood-Reich,D,Motherwell,78,6.7,0,0,0,0,0,0,0,19,0,0,0,44,0,4,0,7,0,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Berkay Yılmaz,D,SC Freiburg,1,,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Jamie Knight-Lebel,D,Motherwell,90,6.7,0,0,0,0,0,0,0,54,1,0,0,69,0,0,0,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Sebastian Palmer-Houlden,F,Motherwell,45,6.7,0,0,0,0,1,0,0,3,0,0,0,10,0,1,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Keisuke Goto,F,SC Freiburg,10,7.5,1,0,0,0,1,1,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Cyriaque Irié,M,SC Freiburg,16,6.4,0,0,0,0,1,0,0,11,0,0,0,15,1,1,0,2,3,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Motherwell vs SC Freiburg,20/08/2026,Olly Whyte,M,Motherwell,12,6.5,0,0,0,0,0,0,0,4,0,0,0,7,0,0,1,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Kevin Behrens,F,FC Lugano,71,7.4,1,0,0,0,1,1,0,19,0,0,0,28,0,1,1,3,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Dor Peretz,M,Maccabi Tel Aviv,90,6.1,0,0,0,0,1,0,0,25,0,0,0,42,1,1,0,5,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,David von Ballmoos,G,FC Lugano,90,6.4,0,0,0,0,0,0,0,36,0,0,0,42,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Renato Steffen,F,FC Lugano,81,6.6,0,0,0,0,2,0,0,17,1,0,0,21,0,0,0,2,0,2,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Anto Grgić,M,FC Lugano,90,7.5,1,0,0,0,1,1,0,71,1,0,0,85,0,2,1,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Hannes Delcroix,D,FC Lugano,90,6.8,0,0,0,0,0,0,0,47,0,0,0,58,0,2,0,4,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Raz Shlomo,D,Maccabi Tel Aviv,90,7.1,0,0,0,0,1,0,0,89,0,0,0,95,0,0,1,7,3,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Ester Sokler,F,Maccabi Tel Aviv,56,6.7,0,0,0,0,0,0,0,15,0,0,0,21,0,2,0,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Lars Lukas Mai,D,FC Lugano,90,6.8,0,0,0,0,0,0,0,40,0,0,0,54,0,2,2,3,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Mohamed Camara,D,Maccabi Tel Aviv,90,6.6,0,0,0,0,0,0,0,80,0,0,0,86,0,0,2,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Antonios Papadopoulos,D,FC Lugano,90,6.4,0,0,0,0,0,0,0,29,0,0,0,42,0,2,1,6,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Uran Bislimi,M,FC Lugano,90,7,0,0,0,0,0,0,0,67,0,0,0,81,1,1,2,3,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Osher Davida,M,Maccabi Tel Aviv,90,7.3,0,0,0,0,2,0,0,35,2,1,0,60,4,1,1,7,3,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Mattia Zanotti,D,FC Lugano,90,7.5,0,0,0,0,0,0,0,15,2,1,0,43,0,5,0,8,4,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Ahmed Kendouci,M,FC Lugano,1,,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Ido Shahar,M,Maccabi Tel Aviv,90,7.5,1,0,0,0,1,1,0,24,1,0,0,37,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Yanis Cimignani,M,FC Lugano,89,7.4,0,1,0,0,2,0,0,29,3,1,1,47,0,0,0,1,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Hélio Varela,M,Maccabi Tel Aviv,90,6.6,0,0,0,0,1,0,0,33,1,0,1,48,1,1,1,6,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Issouf Sissokho,M,Maccabi Tel Aviv,90,6.8,0,0,0,0,0,0,0,52,1,0,0,61,0,1,0,4,1,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Daniel Dos Santos,M,FC Lugano,71,6.3,0,0,0,0,3,0,0,23,2,0,1,37,0,0,1,3,3,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Tyrese Asante,D,Maccabi Tel Aviv,56,6,0,0,0,0,0,0,0,42,0,0,0,55,1,1,0,4,2,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Roy Revivo,D,Maccabi Tel Aviv,90,7.1,0,1,0,0,2,0,1,64,2,0,0,87,0,0,0,4,1,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Martim Marques,D,FC Lugano,19,7,0,0,0,0,0,0,0,6,0,0,0,14,0,2,0,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Ofek Melika,G,Maccabi Tel Aviv,90,5.9,0,0,0,0,0,0,0,47,0,0,0,51,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Saied Abu Farchi,F,Maccabi Tel Aviv,34,6.1,0,0,0,0,2,0,0,11,0,0,0,18,0,0,0,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Noam Ben Harosh,D,Maccabi Tel Aviv,34,7.5,0,0,0,0,1,0,0,45,2,0,0,52,0,2,0,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Elias Pihlström,F,FC Lugano,9,6.6,0,0,0,0,1,0,0,1,0,0,0,3,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Lugano vs Maccabi Tel Aviv,20/08/2026,Dereck Moncada,M,FC Lugano,19,6.8,0,0,0,0,1,0,0,2,0,0,0,10,0,0,0,2,1,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Stuart Findlay,D,Heart of Midlothian,90,7.1,0,0,0,0,3,0,0,61,2,0,0,72,0,1,0,8,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Calvin Miller,M,Heart of Midlothian,90,6.7,0,0,0,0,1,0,0,14,0,0,0,33,1,2,2,6,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Jamie McCart,D,Heart of Midlothian,90,6.8,0,0,0,0,0,0,0,56,1,0,0,78,2,0,0,5,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Jannes Horn,D,SK Rapid Wien,90,6.5,0,0,0,0,0,0,0,58,1,1,0,80,1,2,1,4,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Ercan Kara,F,SK Rapid Wien,90,5.9,0,0,0,0,0,0,0,16,1,1,0,24,0,1,0,2,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Nenad Cvetković,D,SK Rapid Wien,90,6.8,0,0,0,0,1,0,0,96,0,0,0,112,0,2,4,6,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Niklas Hedl,G,SK Rapid Wien,90,6.3,0,0,0,0,0,0,0,52,0,0,0,63,0,0,0,0,0,0,0,0,0,3
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Bendegúz Bolla,D,SK Rapid Wien,90,6.2,0,0,0,0,1,1,0,73,0,0,1,92,0,2,2,4,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Marco Tilio,F,SK Rapid Wien,12,6.3,0,0,0,0,0,0,0,7,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Beau Reus,G,Heart of Midlothian,90,6.4,0,0,0,0,0,0,0,26,0,0,0,35,0,0,0,0,0,0,0,0,0,4
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Yusuf Demir,F,SK Rapid Wien,83,6.5,0,0,0,0,1,0,0,29,1,0,0,45,0,8,0,10,3,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Oisin McEntee,D,Heart of Midlothian,90,7.3,0,0,0,0,2,0,0,61,0,0,0,77,0,4,2,8,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Tom Renaud,M,Heart of Midlothian,80,6.8,0,0,0,0,3,1,0,28,1,0,0,47,0,5,3,6,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Josh McPake,M,Heart of Midlothian,73,7,0,0,0,0,3,1,0,25,3,0,0,50,4,0,0,9,1,5,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Serge-Philippe Raux-Yao,D,SK Rapid Wien,90,6.8,1,0,0,0,1,1,0,90,1,0,0,97,0,1,0,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Tonni Adamsen,F,SK Rapid Wien,77,6.1,0,0,0,0,1,1,0,31,2,0,0,42,0,0,1,1,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Matthias Seidl,M,SK Rapid Wien,90,6.8,0,1,0,0,2,1,0,68,1,1,1,83,0,3,1,4,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Blair Spittal,M,Heart of Midlothian,90,7.7,0,0,0,0,0,0,0,54,4,0,0,72,3,0,2,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Pierre Landry Kaboré,F,Heart of Midlothian,56,6.4,0,0,0,0,1,0,0,9,0,0,0,18,0,0,1,2,2,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Nicolas Bajlicz,M,SK Rapid Wien,13,6.7,0,1,0,0,0,0,0,16,1,0,0,18,0,0,0,1,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Romeo Amane,M,SK Rapid Wien,89,6.7,0,0,0,0,0,0,0,84,0,0,0,96,0,2,0,4,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Rogers Mato,F,Heart of Midlothian,17,6.4,0,0,0,0,0,0,0,5,0,0,0,11,0,0,1,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Petter Nosakhare Dahl,F,SK Rapid Wien,76,5.7,0,0,0,0,1,1,0,29,0,0,0,47,0,0,1,2,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Cláudio Braga,F,Heart of Midlothian,90,6.7,0,1,0,0,3,1,0,26,2,0,0,54,2,2,1,8,1,4,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Jordi Altena,D,Heart of Midlothian,90,6.6,0,0,0,0,0,0,0,43,1,0,0,70,4,3,1,8,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,James Wilson,F,Heart of Midlothian,34,7.4,1,0,0,0,1,1,0,5,0,0,0,8,0,0,0,0,0,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Nikolaus Wurmbrand,F,SK Rapid Wien,14,7.2,1,0,0,0,1,1,0,2,0,0,0,12,1,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Tomas Magnusson,M,Heart of Midlothian,10,6.6,0,0,0,0,0,0,0,5,0,0,0,7,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Heart of Midlothian vs SK Rapid Wien,20/08/2026,Moulaye Haïdara,F,SK Rapid Wien,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Jan Chramosta,F,FK Jablonec,9,6.5,0,0,0,0,0,0,0,6,2,0,0,8,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Jan Hanuš,G,FK Jablonec,90,6.6,0,0,0,0,0,0,0,22,0,0,0,29,0,0,0,1,0,0,0,0,0,2
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Vakhtang Chanturishvili,M,FK Jablonec,90,6.6,0,0,0,0,0,0,0,22,1,0,0,39,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Lawrence Shankland,F,Rangers,1,,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Filip Zorvan,M,FK Jablonec,28,6.6,0,0,0,0,0,0,0,22,0,0,0,28,1,0,0,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Jan Suchan,M,FK Jablonec,62,6.6,0,0,0,0,0,0,0,11,0,0,0,23,0,0,1,2,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Dujon Sterling,D,Rangers,90,7.1,0,0,0,0,1,0,0,44,0,0,0,74,0,1,1,4,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Richard Sedláček,M,FK Jablonec,90,7.1,0,0,0,0,1,0,0,61,1,0,0,78,2,1,1,4,3,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,James Penrice,D,Rangers,90,7.2,0,0,0,0,1,1,0,53,1,0,0,82,1,2,2,4,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Antonín Růsek,F,FK Jablonec,9,6.4,0,0,0,0,1,1,0,4,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Nemanja Tekijaški,D,FK Jablonec,90,6.8,0,0,0,0,0,0,0,51,0,0,0,64,0,2,0,6,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Jiří Sláma,D,FK Jablonec,81,7.4,0,0,0,0,0,0,0,37,1,0,0,61,1,3,1,6,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Ivor Pandur,G,Rangers,90,7.5,0,0,0,0,0,0,0,29,0,0,0,42,0,0,0,0,0,0,0,0,0,4
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Cameron Devlin,M,Rangers,5,5.1,0,0,0,0,0,0,0,4,0,0,0,5,0,0,0,0,1,0,0,1,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Dan Neil,M,Rangers,87,7.4,0,0,0,0,0,0,0,50,1,0,0,58,0,1,0,4,3,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Sebastian Nebyla,M,FK Jablonec,81,6.3,0,0,0,0,0,0,0,23,0,0,0,33,0,0,1,1,3,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Martin Cedidla,D,FK Jablonec,90,6.6,0,0,0,0,2,2,0,25,0,0,0,47,1,0,1,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Matěj Polidar,M,FK Jablonec,62,6.2,0,0,0,0,0,0,0,13,0,0,0,27,0,0,1,1,0,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Lamin Jawo,F,FK Jablonec,90,6.9,0,0,0,0,1,1,0,11,0,0,0,34,1,0,0,7,1,6,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Tochi Chukwuani,M,Rangers,90,7.5,0,0,0,0,1,0,0,38,4,1,1,45,0,1,0,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Connor Barron,M,Rangers,8,6.5,0,0,0,0,0,0,0,3,0,0,0,4,0,0,1,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Daisuke Yokota,F,Rangers,69,7.3,0,1,0,0,0,0,0,35,2,1,0,44,0,3,0,3,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Emmanuel Fernandez,D,Rangers,90,7.6,0,0,0,0,0,0,0,64,0,0,0,81,0,4,3,5,2,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Djeidi Gassama,M,Rangers,87,6.7,0,0,0,0,5,1,0,35,2,0,1,52,0,0,0,0,1,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Kosta Nedeljković,D,Rangers,8,6.7,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Dušan Pavlović,D,FK Jablonec,90,6.8,0,0,0,0,0,0,0,59,0,0,0,67,0,1,1,4,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Olwethu Makhanya,D,Rangers,90,7.4,0,0,0,0,0,0,0,89,0,0,0,101,1,2,3,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Findlay Curtis,M,Rangers,21,6.7,0,0,0,0,0,0,0,6,0,0,0,10,1,0,0,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Vanja Dragojević,M,Rangers,69,6.2,0,0,0,0,4,0,1,23,0,0,1,36,0,1,3,2,3,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Hugo Ahl,M,FK Jablonec,28,6.3,0,0,0,0,0,0,0,5,0,0,0,8,1,0,0,1,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Rangers vs FK Jablonec,20/08/2026,Ryan Don Naderi,F,Rangers,89,7.9,1,0,0,0,1,1,0,15,3,2,1,34,0,1,0,8,3,3,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Kiko Femenía,D,Getafe,90,6.4,0,0,0,0,2,1,0,29,1,0,0,61,0,0,2,1,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Stefan Mitrović,D,FK Partizan,90,6.5,0,0,0,0,0,0,0,39,0,0,0,52,0,0,3,3,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Djené,D,Getafe,90,6.4,0,0,0,0,0,0,0,48,0,0,0,55,1,0,1,1,3,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Enes Ünal,F,Getafe,88,8,1,0,0,0,2,1,1,21,2,1,0,36,1,0,0,6,3,3,0,0,2,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Johan Mojica,D,Getafe,90,8.3,1,1,0,0,1,1,0,49,2,1,0,68,1,1,1,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,David Soria,G,Getafe,90,6.9,0,0,0,0,0,0,0,26,0,0,0,29,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Borja Mayoral,F,Getafe,8,6.6,0,0,0,0,0,0,0,2,0,0,0,3,0,1,0,2,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Orel Mangala,M,Getafe,79,7.2,0,0,0,0,0,0,0,67,0,0,0,78,0,1,1,4,2,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Nikola Čumić,M,FK Partizan,11,6.5,0,0,0,0,1,0,1,2,0,0,1,6,1,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Marko Milošević,G,FK Partizan,90,6.9,0,0,0,0,0,0,0,28,0,0,0,34,0,0,0,0,0,0,0,0,0,2
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Stefan Milić,D,FK Partizan,90,5.9,0,0,0,0,0,0,0,32,0,0,0,59,1,2,1,4,4,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Iddrisu Baba,M,FK Partizan,79,7.4,0,0,0,0,0,0,0,34,0,0,0,49,1,3,1,8,2,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Martín Satriano,F,Getafe,90,7.8,0,2,0,0,2,1,0,38,2,1,1,60,2,1,0,8,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Francho Serrano,M,Getafe,90,6.9,0,0,0,0,1,0,0,59,1,0,0,71,1,0,0,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Milan Vukotić,M,FK Partizan,67,6.8,0,0,0,0,0,0,0,25,1,1,0,38,0,0,1,2,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Demba Seck,M,FK Partizan,90,7.6,1,0,0,0,1,1,0,11,0,0,0,23,0,2,0,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Ramón Terrats,M,Getafe,73,6.9,0,0,0,0,3,0,0,42,1,0,0,56,0,0,0,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Abdel Abqar,D,Getafe,68,5.6,0,0,0,0,0,0,0,41,0,0,0,48,1,0,3,1,4,0,2,1,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Saba Sazonov,D,Getafe,11,6.7,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Zaid Romero,D,Getafe,90,6.8,0,0,0,0,0,0,0,60,0,0,0,67,0,0,2,4,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Igor Miladinović,M,FK Partizan,23,6.5,0,0,0,0,0,0,0,13,1,0,0,19,1,0,0,3,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Vukašin Đurđević,D,FK Partizan,23,6.1,0,0,0,0,0,0,0,10,1,0,0,14,0,2,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Milan Roganović,D,FK Partizan,90,6.6,0,0,0,0,1,0,0,20,0,0,1,36,0,4,0,6,2,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Milan Aleksić,M,FK Partizan,23,7.1,0,0,0,0,2,0,0,13,2,2,0,21,3,0,0,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Ognjen Ugrešić,M,FK Partizan,67,6.4,0,0,0,0,0,0,0,12,0,0,0,18,0,0,1,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Nikola Simic,D,FK Partizan,90,6.5,0,0,0,0,0,0,0,42,0,0,0,53,0,3,3,4,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Andrés García,D,Getafe,17,7.6,1,0,0,0,1,1,0,7,1,0,0,17,1,1,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Jeh,F,FK Partizan,79,7.2,0,1,0,0,2,0,1,13,1,0,1,26,1,1,0,7,1,3,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Erik Kojzek,F,FK Partizan,11,6.1,0,0,0,0,1,0,0,2,0,0,0,5,0,0,0,0,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Getafe vs FK Partizan,20/08/2026,Samson Nwulu,M,FK Partizan,67,6.5,0,0,0,0,0,0,0,17,1,0,0,27,0,1,1,1,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,João Moutinho,M,Sporting Braga,90,6.8,0,0,0,0,3,0,0,90,0,0,0,105,2,0,0,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Aleksandar Dragović,D,FK Austria Wien,90,6.7,0,0,0,0,0,0,0,63,0,0,0,71,0,1,0,5,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Samuel Sahin-Radlinger,G,FK Austria Wien,90,7.3,0,0,0,0,0,0,0,41,0,0,0,51,0,0,0,0,0,0,0,0,0,3
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Reinhold Ranftl,M,FK Austria Wien,90,6.6,0,0,0,0,0,0,0,40,1,0,0,62,0,2,1,4,3,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Johannes Eggestein,F,FK Austria Wien,72,7.2,0,0,0,0,2,0,0,18,0,0,0,35,0,1,0,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Manfred Fischer,M,FK Austria Wien,90,6.5,0,0,0,0,0,0,1,29,1,0,0,40,0,1,0,5,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Johannes Handl,D,FK Austria Wien,59,6.7,0,0,0,0,0,0,0,37,0,0,0,45,0,2,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Victor Gómez,M,Sporting Braga,90,7.6,0,0,0,0,0,0,0,61,1,0,0,85,2,1,0,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Vítor Carvalho,D,Sporting Braga,89,7.4,0,0,0,0,0,0,0,63,1,0,0,71,0,0,1,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Fran Navarro,F,Sporting Braga,68,6.3,0,0,0,0,1,0,0,12,1,0,1,29,0,2,0,5,1,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Gustaf Lagerbielke,D,Sporting Braga,90,7,0,0,0,0,0,0,0,69,0,0,0,83,0,1,1,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Adrian Bajrami,D,Sporting Braga,90,6.8,0,0,0,0,0,0,0,65,0,0,0,78,0,2,2,4,4,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Lee Tae-seok,M,FK Austria Wien,90,6.5,0,0,0,0,0,0,0,38,2,0,0,58,0,0,2,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Pau Víctor,F,Sporting Braga,89,6.6,1,0,0,0,4,2,0,47,1,0,1,68,1,2,1,5,4,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Kelvin Boateng,F,FK Austria Wien,18,6.5,0,0,0,0,0,0,0,3,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Gabriel Silva,F,Sporting Braga,75,7.9,0,0,0,0,0,0,0,31,2,1,0,60,3,1,0,8,0,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Florian Wustinger,M,FK Austria Wien,18,6.5,0,0,0,0,0,0,0,10,0,0,0,16,0,2,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Denis Huseinbašić,M,Sporting Braga,90,7.4,0,0,0,0,3,2,0,45,0,0,0,58,0,3,1,5,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Sergio Barcia,D,Sporting Braga,1,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Julian Hettwer,F,FK Austria Wien,59,6.2,0,0,0,0,1,1,0,10,0,0,0,19,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Gabriel Martínez,M,Sporting Braga,15,6.3,0,0,0,0,0,0,0,2,0,0,0,8,0,0,0,0,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Diogo Travassos,D,Sporting Braga,1,,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Demir Ege Tıknaz,M,Sporting Braga,75,7.5,0,0,0,0,1,0,0,69,2,0,0,84,3,3,1,8,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Sanel Saljic,F,FK Austria Wien,31,6.7,0,0,0,0,1,0,0,7,0,0,0,12,1,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Diego Rodrigues,M,Sporting Braga,22,7.5,1,0,0,0,1,1,0,9,0,0,0,18,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Buhari Ibrahim,D,FK Austria Wien,90,5.8,0,0,0,0,0,0,0,54,0,0,0,72,1,0,1,3,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Bernardo Fontes,G,Sporting Braga,90,6.8,0,0,0,0,0,0,0,23,0,0,0,25,0,0,0,0,0,0,0,0,0,1
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Mario Dorgeles,M,Sporting Braga,15,7.1,0,1,0,0,1,0,0,10,1,1,0,13,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Matteo Schablas,D,FK Austria Wien,9,6.3,0,0,0,0,0,0,0,6,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Philipp Maybach,M,FK Austria Wien,72,6.5,0,0,0,0,1,0,0,26,0,0,1,38,0,4,1,5,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Vasilije Markovic,M,FK Austria Wien,81,6.4,0,0,0,0,0,0,0,24,0,0,0,44,1,5,4,7,7,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Sporting Braga vs FK Austria Wien,20/08/2026,Daniel Nnodim,D,FK Austria Wien,31,6.7,0,0,0,0,0,0,0,16,0,0,0,32,0,3,1,6,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Louis Schaub,M,SK Rapid Wien,1,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Stuart Findlay,D,Heart of Midlothian,45,6.3,0,0,0,0,0,0,0,20,0,0,0,26,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Calvin Miller,M,Heart of Midlothian,120,8.2,1,0,0,0,1,1,0,24,1,0,0,49,0,2,2,7,2,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Jamie McCart,D,Heart of Midlothian,120,6.7,0,0,0,0,0,0,0,46,0,0,0,70,0,1,0,4,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Jannes Horn,D,SK Rapid Wien,112,6.3,0,0,0,0,2,0,0,55,3,0,0,82,0,3,1,4,3,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Ercan Kara,F,SK Rapid Wien,120,8.5,1,0,0,0,6,1,0,14,2,0,0,34,0,1,1,7,2,1,0,0,2,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Christian Borchgrevink,D,Heart of Midlothian,75,6.8,0,0,0,0,1,1,0,27,0,0,0,50,0,2,0,5,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Nenad Cvetković,D,SK Rapid Wien,120,7.8,1,0,0,0,1,1,0,107,0,0,0,118,0,0,1,5,2,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Niklas Hedl,G,SK Rapid Wien,120,7.4,0,0,0,0,0,0,0,48,0,0,0,62,0,0,0,1,0,1,0,0,0,4
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Bendegúz Bolla,D,SK Rapid Wien,111,6.6,0,0,0,0,1,0,0,73,3,0,0,101,0,1,0,4,3,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Marco Tilio,F,SK Rapid Wien,18,5.7,0,0,0,0,1,0,0,7,1,0,0,11,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Beau Reus,G,Heart of Midlothian,120,8.2,0,0,0,0,0,0,0,35,0,0,0,47,0,0,0,0,0,0,0,0,0,4
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Yusuf Demir,F,SK Rapid Wien,120,7.2,0,0,0,0,8,2,0,82,4,0,0,123,4,1,1,6,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Oisin McEntee,D,Heart of Midlothian,120,6.3,0,0,0,0,1,1,0,39,1,0,0,63,1,1,0,2,2,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Tom Renaud,M,Heart of Midlothian,15,6.5,0,0,0,0,0,0,0,4,0,0,0,4,0,0,0,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Josh McPake,M,Heart of Midlothian,75,7.1,0,0,0,0,2,0,0,16,0,0,0,35,4,1,1,9,2,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Serge-Philippe Raux-Yao,D,SK Rapid Wien,120,7.2,0,0,0,0,1,0,1,91,0,0,1,105,0,1,2,3,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Tonni Adamsen,F,SK Rapid Wien,66,5.9,0,0,0,0,2,1,0,13,0,0,1,25,1,0,0,1,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Matthias Seidl,M,SK Rapid Wien,102,7,0,0,0,0,2,0,0,72,0,0,0,80,0,1,0,2,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Blair Spittal,M,Heart of Midlothian,90,7.9,0,1,0,0,1,0,0,28,2,2,0,48,1,1,1,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Pierre Landry Kaboré,F,Heart of Midlothian,46,7.1,1,0,0,0,2,2,0,9,0,0,0,24,0,0,1,2,3,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Nicolas Bajlicz,M,SK Rapid Wien,54,6.8,0,0,0,0,0,0,0,59,3,0,0,66,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Romeo Amane,M,SK Rapid Wien,119,7.6,0,0,0,0,4,1,0,102,5,0,0,128,3,2,1,11,2,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Rogers Mato,F,Heart of Midlothian,30,7.7,0,1,0,0,0,0,0,2,2,0,0,17,0,2,0,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Petter Nosakhare Dahl,F,SK Rapid Wien,66,7.5,0,0,0,0,1,0,0,15,1,0,0,40,4,1,0,11,1,6,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Cláudio Braga,F,Heart of Midlothian,89,6.8,0,0,0,0,3,2,0,13,0,0,0,30,1,4,0,7,0,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Jordi Altena,D,Heart of Midlothian,120,7.3,0,0,0,0,0,0,0,39,0,0,0,63,2,5,2,10,4,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Kouadio Ange Ahoussou,D,SK Rapid Wien,8,6.7,0,0,0,0,1,0,0,6,0,0,0,9,0,1,0,2,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,James Wilson,F,Heart of Midlothian,74,6.4,0,0,0,0,0,0,0,11,0,0,0,18,0,0,0,3,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Nikolaus Wurmbrand,F,SK Rapid Wien,54,6.5,0,0,0,0,2,0,0,8,2,0,0,27,0,0,0,3,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Sabah Kerjota,F,Heart of Midlothian,45,7.8,0,0,0,0,0,0,0,8,0,0,0,21,1,4,1,8,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Tomas Magnusson,M,Heart of Midlothian,61,5.3,0,0,0,0,1,0,0,22,2,0,1,26,0,0,1,1,2,1,2,1,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Laurent Mendy,M,Heart of Midlothian,31,6.6,0,0,0,0,0,0,0,6,0,0,0,11,1,1,0,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SK Rapid Wien vs Heart of Midlothian,26/08/2026,Moulaye Haïdara,F,SK Rapid Wien,9,6.7,0,1,0,0,1,0,0,1,2,1,0,7,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Filip Novák,D,FK Jablonec,10,6.6,0,0,0,0,1,1,0,7,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Jan Chramosta,F,FK Jablonec,56,6.6,0,0,0,0,1,0,0,12,0,0,0,24,1,1,0,4,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Jan Hanuš,G,FK Jablonec,120,8.1,0,0,0,0,0,0,0,34,0,0,0,46,0,0,0,0,0,0,0,0,0,1
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Vakhtang Chanturishvili,M,FK Jablonec,120,8.3,1,0,0,0,2,1,0,69,0,0,0,101,2,3,1,8,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Eduard Sobol,M,FK Jablonec,41,6.8,0,0,0,0,0,0,0,18,0,0,0,26,1,0,0,3,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Lawrence Shankland,F,Rangers,75,6.4,0,0,0,0,3,0,0,17,0,0,0,28,0,1,0,2,2,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Filip Zorvan,M,FK Jablonec,41,6.4,0,0,0,0,0,0,0,29,3,0,0,33,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Jan Suchan,M,FK Jablonec,79,7.2,0,0,0,0,2,1,0,23,2,1,0,38,0,0,0,7,2,6,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Dujon Sterling,D,Rangers,105,6.7,0,0,0,0,0,0,0,38,0,0,0,60,0,2,1,4,3,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Richard Sedláček,M,FK Jablonec,120,7.6,0,0,0,0,0,0,0,79,2,0,0,89,0,2,0,3,3,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,James Penrice,D,Rangers,120,5.9,0,0,0,0,1,0,0,55,2,1,0,86,0,2,3,4,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Antonín Růsek,F,FK Jablonec,56,6.9,0,0,0,0,1,0,0,16,0,0,0,25,0,2,0,4,1,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Nemanja Tekijaški,D,FK Jablonec,86,7.5,0,0,0,0,0,0,0,51,0,0,0,63,0,0,3,3,1,0,0,0,2,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Jiří Sláma,D,FK Jablonec,79,6.6,0,0,0,0,0,0,0,49,2,0,0,86,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Ivor Pandur,G,Rangers,120,8,0,0,0,0,0,0,0,57,0,0,0,73,0,0,0,1,0,0,0,0,0,4
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Bojan Miovski,F,Rangers,15,6.9,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Dan Neil,M,Rangers,45,6.8,0,0,0,0,0,0,0,34,0,0,0,36,0,0,0,2,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Sebastian Nebyla,M,FK Jablonec,110,7.1,0,0,0,0,2,0,0,32,1,0,0,44,0,3,2,5,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Martin Cedidla,D,FK Jablonec,120,7.7,0,0,0,0,0,0,0,75,1,0,0,97,0,2,0,7,1,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Matěj Polidar,M,FK Jablonec,64,6.6,0,0,0,0,1,1,0,26,1,0,0,41,0,0,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Lamin Jawo,F,FK Jablonec,64,6.4,0,0,0,0,4,1,0,7,1,0,1,18,0,2,0,2,2,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Tochi Chukwuani,M,Rangers,120,6.5,0,0,0,0,1,1,0,39,0,0,1,52,0,0,1,6,2,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Connor Barron,M,Rangers,75,6.6,0,0,0,0,0,0,0,44,2,0,0,56,0,0,0,1,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Thelo Aasgaard,M,Rangers,60,7.3,0,0,0,0,1,0,0,25,1,0,0,44,5,2,0,7,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Daisuke Yokota,F,Rangers,45,6.8,0,0,0,0,0,0,0,10,1,0,0,19,0,1,0,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Emmanuel Fernandez,D,Rangers,120,7,0,0,0,0,0,0,0,69,0,0,0,85,0,1,0,6,3,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Nelson Okeke,M,FK Jablonec,34,7.7,0,0,0,0,2,0,0,25,1,0,0,33,1,3,0,5,3,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Djeidi Gassama,M,Rangers,45,6.7,0,0,0,0,0,0,0,11,0,0,0,15,1,0,0,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Kosta Nedeljković,D,Rangers,41,6.9,0,0,0,0,0,0,0,13,1,0,0,23,1,1,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Dušan Pavlović,D,FK Jablonec,120,7.6,0,0,0,0,0,0,0,103,0,0,0,115,0,0,1,5,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Olwethu Makhanya,D,Rangers,120,7.4,0,0,0,0,0,0,0,81,0,0,0,100,3,3,1,9,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Findlay Curtis,M,Rangers,75,6.6,0,0,0,0,2,0,0,31,0,0,0,63,1,4,0,10,1,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Vanja Dragojević,M,Rangers,60,6.6,0,0,0,0,0,0,0,21,0,0,0,28,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Jablonec vs Rangers,27/08/2026,Ryan Don Naderi,F,Rangers,79,6.5,0,0,0,0,1,0,0,11,1,0,0,23,0,1,0,4,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Kevin Behrens,F,FC Lugano,63,6.6,0,0,0,0,1,0,0,14,1,0,0,20,0,0,0,5,0,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Dor Peretz,M,Maccabi Tel Aviv,90,6.9,1,0,0,0,5,2,0,17,0,0,1,25,1,0,0,4,1,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,David von Ballmoos,G,FC Lugano,90,7.9,0,0,0,0,0,0,0,38,0,0,0,52,0,0,0,4,1,3,0,0,0,6
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Renato Steffen,F,FC Lugano,82,6.5,0,0,0,0,0,0,0,30,2,0,0,44,1,0,0,5,3,3,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Anto Grgić,M,FC Lugano,90,7,0,0,0,0,1,0,0,54,0,0,0,66,0,3,1,4,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Hannes Delcroix,D,FC Lugano,90,6.9,0,0,0,0,0,0,0,47,0,0,0,60,1,1,0,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Raz Shlomo,D,Maccabi Tel Aviv,90,7.5,0,0,0,0,0,0,0,94,0,0,0,102,0,1,1,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Ester Sokler,F,Maccabi Tel Aviv,65,6.8,0,0,0,0,1,1,0,7,0,0,0,18,0,1,1,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Lars Lukas Mai,D,FC Lugano,90,6.6,0,0,0,0,0,0,0,41,1,0,0,54,0,0,2,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Mohamed Camara,D,Maccabi Tel Aviv,90,7,0,0,0,0,0,0,0,75,2,0,0,86,0,3,1,8,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Antonios Papadopoulos,D,FC Lugano,82,6.4,0,0,0,0,2,1,0,19,0,0,0,30,0,1,2,3,1,0,1,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Uran Bislimi,M,FC Lugano,90,6.8,0,0,0,0,1,0,0,47,0,0,0,56,1,1,1,5,0,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Hisham Layous,M,Maccabi Tel Aviv,9,6.5,0,0,0,0,0,0,0,5,1,0,0,9,1,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Osher Davida,M,Maccabi Tel Aviv,90,6.8,0,0,0,0,4,1,0,32,2,0,0,60,3,1,1,5,3,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Mattia Zanotti,D,FC Lugano,58,5.7,0,0,0,0,0,0,0,12,0,0,0,26,1,3,0,4,3,0,2,1,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Ahmed Kendouci,M,FC Lugano,8,6.5,0,0,0,0,0,0,0,7,1,0,0,11,1,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Ido Shahar,M,Maccabi Tel Aviv,81,6.6,0,0,0,0,3,1,0,27,3,1,1,42,1,0,1,3,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Yanis Cimignani,M,FC Lugano,90,6.9,0,1,0,0,0,0,0,36,1,0,0,54,0,2,0,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Hélio Varela,M,Maccabi Tel Aviv,90,7.5,0,0,0,0,0,0,0,29,3,0,0,47,0,1,0,4,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Issouf Sissokho,M,Maccabi Tel Aviv,90,7.1,0,0,0,0,0,0,0,60,1,0,0,78,1,3,2,6,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Daniel Dos Santos,M,FC Lugano,63,6.5,0,0,0,0,2,0,0,23,1,0,0,36,0,1,0,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Tyrese Asante,D,Maccabi Tel Aviv,65,7,0,0,0,0,0,0,0,63,0,0,0,75,0,0,0,2,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Roy Revivo,D,Maccabi Tel Aviv,90,7.1,0,0,0,0,4,2,0,68,1,0,0,93,0,1,1,4,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Ofek Melika,G,Maccabi Tel Aviv,90,6.2,0,0,0,0,0,0,0,25,0,0,0,32,0,0,0,0,0,0,0,0,0,1
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Damian Kelvin,D,FC Lugano,27,6.1,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Elad Madmon,F,Maccabi Tel Aviv,25,6.7,0,0,0,0,3,0,0,6,0,0,1,12,0,0,0,2,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Noam Ben Harosh,D,Maccabi Tel Aviv,25,7.4,0,0,0,0,0,0,0,25,2,1,0,31,0,1,0,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Bekhruz Karimov,D,FC Lugano,8,6.9,0,0,0,0,0,0,0,1,0,0,0,4,0,2,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Maccabi Tel Aviv vs FC Lugano,27/08/2026,Dereck Moncada,M,FC Lugano,27,7.6,1,0,0,0,2,1,0,9,0,0,0,15,1,0,0,3,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Lars Unnerstall,G,FC Twente,120,5.8,0,0,0,0,0,0,0,32,0,0,0,39,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Bədavi Hüseynov,D,Qarabağ FK,114,6,0,0,0,0,0,0,0,61,0,0,0,78,0,2,1,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Marko Janković,M,Qarabağ FK,106,6,0,0,0,0,0,0,0,44,1,0,0,70,0,1,1,6,4,4,2,1,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Marko Pjaca,F,FC Twente,50,8.2,1,1,0,0,2,2,0,19,3,2,0,33,1,2,0,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Robin Pröpper,D,FC Twente,70,7.1,0,0,0,0,0,0,0,48,0,0,0,55,0,0,2,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Wout Weghorst,F,FC Twente,109,6.9,1,1,0,0,3,1,0,24,2,0,0,34,0,0,1,2,3,0,1,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Joni Montiel,M,Qarabağ FK,34,6.3,0,0,0,0,1,0,0,21,0,0,0,28,0,1,0,1,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Bahlul Mustafazada,D,Qarabağ FK,6,,0,0,0,0,0,0,0,6,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Olexiy Kashchuk,M,Qarabağ FK,120,6.6,0,0,0,0,0,0,0,29,0,0,0,44,0,3,0,5,1,2,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Martin Zlomislić,G,Qarabağ FK,120,5.1,0,0,0,0,0,0,0,47,0,0,0,65,0,0,0,2,0,1,0,0,0,5
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Matheus Silva,D,Qarabağ FK,120,5.8,0,0,0,0,0,0,0,36,1,0,0,66,2,4,1,8,4,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Thomas Van den Belt,M,FC Twente,30,6.9,0,0,0,0,0,0,0,26,1,1,0,26,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Bart van Rooij,D,FC Twente,120,6.6,0,0,0,0,0,0,0,59,0,0,0,81,0,1,0,3,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Pedro Bicalho,M,Qarabağ FK,50,6.5,0,0,0,0,0,0,0,20,0,0,0,26,0,1,1,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Mathias Kjølø,M,FC Twente,23,6.7,0,0,0,0,0,0,0,18,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Bruno Langa,D,Qarabağ FK,76,7.6,0,0,0,0,0,0,0,20,0,0,0,46,0,2,2,4,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Jaly Mouaddib,M,Qarabağ FK,114,6.7,0,0,0,0,5,0,0,25,0,0,0,47,2,2,0,6,1,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Ramiz Zerrouki,M,FC Twente,120,7.6,0,0,0,0,1,0,0,81,4,0,0,96,0,1,3,4,1,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Cebrail Makreckis,M,Qarabağ FK,50,6,0,0,0,0,0,0,0,12,0,0,0,21,0,1,0,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Musa Qurbanlı,F,Qarabağ FK,70,6.8,0,1,0,0,0,0,0,9,3,1,0,17,0,2,0,4,2,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Bence Várkonyi,D,Qarabağ FK,120,6.1,0,0,0,0,0,0,0,51,0,0,0,73,0,2,1,3,1,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Dani Bolt,D,Qarabağ FK,44,5.7,0,0,0,0,0,0,0,10,1,0,0,20,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Daan Rots,M,FC Twente,90,7.2,0,0,0,0,5,0,0,37,4,0,0,55,0,4,0,6,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Samuel Lobato,M,Qarabağ FK,70,7.1,0,0,0,0,1,0,0,17,0,0,0,31,1,3,2,9,1,4,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Max Bruns,D,FC Twente,120,7.6,1,0,0,0,2,1,0,97,0,0,0,105,0,0,0,3,2,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Aske Adelgaard,D,FC Twente,31,6.9,0,0,0,0,0,0,0,21,0,0,0,32,0,1,0,3,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Daouda Weidmann,M,FC Twente,97,7.3,0,1,0,0,4,1,1,61,4,1,0,95,5,1,0,11,3,5,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Younes Taha,M,FC Twente,120,8.2,1,0,0,0,4,1,0,54,3,0,0,98,2,5,0,13,2,4,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Kady Borges,M,Qarabağ FK,86,7.8,1,0,0,0,2,1,1,20,1,0,0,32,0,0,2,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Sondre Ørjasæter,M,FC Twente,70,7.1,0,0,0,0,4,1,0,24,3,0,0,50,4,1,0,10,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Filip Thorvaldsen,M,FC Twente,11,6.4,0,0,0,0,2,2,0,4,0,0,2,8,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Hikmat Cabrayilzada,M,Qarabağ FK,6,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Lucas Vennegoor of Hesselink,F,FC Twente,50,6.5,0,0,0,0,2,1,0,8,1,0,0,21,0,1,1,4,0,2,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Qarabağ FK vs FC Twente,27/08/2026,Ruud Nijstad,D,FC Twente,89,6.8,0,0,0,0,0,0,0,38,1,0,0,52,0,2,0,3,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Christian Günter,D,SC Freiburg,90,6.6,0,0,0,0,0,0,0,57,2,0,0,72,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Matthias Ginter,D,SC Freiburg,78,6.9,0,0,0,0,1,0,1,90,1,0,0,96,0,1,0,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Vincenzo Grifo,M,SC Freiburg,22,6.9,0,0,0,0,2,1,0,31,3,1,1,39,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Lucas Höler,F,SC Freiburg,26,6.2,0,0,0,0,2,0,1,3,0,0,0,5,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Maximilian Eggestein,M,SC Freiburg,90,7.9,0,1,0,0,2,1,0,84,1,1,0,89,0,1,1,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Philipp Lienhart,D,SC Freiburg,26,7.3,0,0,0,0,2,0,0,44,0,0,0,46,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Regan Charles-Cook,F,Motherwell,25,6.5,0,0,0,0,0,0,0,5,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Lukas Fadinger,M,Motherwell,90,6.7,0,0,0,0,0,0,0,39,0,0,0,49,1,1,2,3,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Philipp Treu,D,SC Freiburg,90,6.4,0,0,0,0,0,0,0,66,1,0,0,77,0,1,1,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Joe Hodge,M,Motherwell,65,6.4,0,0,0,0,0,0,0,27,0,0,0,32,0,1,0,2,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Yannick Engelhardt,M,SC Freiburg,90,7.3,0,0,0,0,1,0,0,50,2,0,0,56,0,1,0,2,3,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Emmanuel Longelo,D,Motherwell,90,6.6,1,0,0,0,1,1,0,16,0,0,0,30,0,2,1,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Willy Vogt,F,Motherwell,25,6.5,0,0,0,0,0,0,0,2,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Alex Paulsen,G,Motherwell,90,7.3,0,0,0,0,0,0,0,36,0,0,0,52,0,0,0,1,0,1,0,0,0,6
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Ibrahim Said,M,Motherwell,65,6.4,0,1,0,0,0,0,0,19,1,0,0,32,2,0,0,3,1,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Tom Sparrow,D,Motherwell,45,6.4,0,0,0,0,0,0,0,17,0,0,0,25,1,1,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Igor Matanović,F,SC Freiburg,67,8.3,1,0,0,0,1,1,0,17,3,0,0,28,0,1,1,6,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Yuito Suzuki,M,SC Freiburg,64,6.9,0,0,0,0,4,2,0,37,1,0,0,49,1,0,0,3,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Tawanda Maswanhise,F,Motherwell,45,6.7,0,0,0,0,0,0,0,4,0,0,0,11,0,1,1,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Mio Backhaus,G,SC Freiburg,90,5.7,0,0,0,0,0,0,0,32,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Dylan Williams,M,Motherwell,14,6.4,0,0,0,0,0,0,0,6,0,0,0,9,1,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Alex Lowry,M,Motherwell,76,6.3,0,0,0,0,0,0,0,20,1,0,0,25,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Ewan Wilson,D,Motherwell,90,5.8,0,0,0,0,0,0,0,34,0,0,0,39,0,0,1,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Derry Scherhant,F,SC Freiburg,68,9.3,1,2,0,0,6,3,0,16,4,2,0,40,0,2,0,4,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Maximilian Rosenfelder,D,SC Freiburg,64,7,0,0,0,0,0,0,0,80,1,0,0,90,0,4,2,5,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Jake Girdwood-Reich,D,Motherwell,57,5.7,0,0,0,0,0,0,0,8,0,0,0,20,0,0,1,2,1,0,0,1,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Jamie Knight-Lebel,D,Motherwell,90,6.9,0,0,0,0,0,0,0,36,0,0,0,46,0,0,2,2,2,0,1,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Sebastian Palmer-Houlden,F,Motherwell,65,6.3,0,0,0,0,1,0,0,9,0,0,0,16,0,0,0,1,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Keisuke Goto,F,SC Freiburg,23,7.3,1,0,0,0,1,1,0,4,0,0,0,7,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Cyriaque Irié,M,SC Freiburg,90,7.9,1,0,0,0,7,2,1,42,2,1,1,62,1,0,0,2,0,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Bruno Ogbus,D,SC Freiburg,12,6.7,0,0,0,0,0,0,0,11,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,SC Freiburg vs Motherwell,27/08/2026,Olly Whyte,M,Motherwell,25,6.7,0,0,0,0,0,0,0,6,0,0,0,10,0,2,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Lukáš Hrádecký,G,AS Monaco,90,7.4,0,0,0,0,0,0,0,27,0,0,0,33,0,0,0,0,0,0,0,0,0,4
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Rafał Janicki,D,Górnik Zabrze,90,6.2,0,0,0,0,0,0,0,48,0,0,0,56,0,0,3,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Eric Dier,D,AS Monaco,90,6.9,0,0,0,0,0,0,0,96,0,0,0,99,0,2,0,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Lukáš Sadílek,M,Górnik Zabrze,90,6.3,0,0,0,0,0,0,0,22,0,0,0,29,0,1,0,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Paweł Bochniewicz,D,Górnik Zabrze,45,5.8,0,0,0,0,0,0,0,25,0,0,0,32,0,0,2,0,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Aleksandr Golovin,M,AS Monaco,55,7.5,1,0,0,0,2,1,0,32,1,0,0,37,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Denis Zakaria,M,AS Monaco,66,7.1,0,0,0,0,1,0,0,41,2,0,0,43,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Josema,D,Górnik Zabrze,45,6.9,0,1,0,0,1,1,0,29,1,1,1,38,0,0,2,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Michal Sáček,D,Górnik Zabrze,58,5.7,0,0,0,0,0,0,0,15,0,0,0,24,0,0,3,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Sondre Liseth,F,Górnik Zabrze,90,6.5,0,0,0,0,1,1,0,14,0,0,0,24,0,0,0,2,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Ondřej Zmrzlý,D,Górnik Zabrze,90,5.4,0,0,0,0,0,0,0,33,0,0,0,51,0,2,4,2,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Janis Antiste,F,Górnik Zabrze,22,7.4,1,0,0,0,1,1,0,13,0,0,0,17,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Paulo Bernardo,M,Górnik Zabrze,45,6.5,0,0,0,0,0,0,0,18,2,2,0,19,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Maximilian Dietz,M,Górnik Zabrze,45,6.2,0,0,0,0,0,0,0,17,0,0,0,20,0,0,0,0,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Philipp Schulze,G,Górnik Zabrze,90,5.9,0,0,0,0,0,0,0,29,0,0,0,37,0,0,0,0,0,0,0,0,0,2
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Maksym Khlan,M,Górnik Zabrze,68,7,0,0,0,0,3,2,0,17,1,0,1,33,0,0,0,3,2,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Nazinho,D,AS Monaco,90,6.9,0,1,0,0,1,1,0,62,2,0,0,83,0,3,1,4,5,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Kacper Urbański,M,Górnik Zabrze,90,6.1,0,0,0,0,0,0,0,34,1,0,0,43,0,1,2,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Peter González,M,Górnik Zabrze,45,6.7,0,0,0,0,1,0,0,14,0,0,0,26,0,0,1,2,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Mika Biereth,F,AS Monaco,35,7,1,0,0,0,2,1,0,5,0,0,0,8,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Vanderson,D,AS Monaco,76,6.6,0,0,0,0,0,0,0,60,0,0,0,72,0,0,1,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Patryk Warczak,D,Górnik Zabrze,32,6.2,0,0,0,0,0,0,0,16,0,0,0,27,0,2,0,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Stanis Idumbo Muzambo,M,AS Monaco,55,6.9,0,0,0,0,0,0,0,17,1,0,0,25,1,1,0,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Lamine Camara,M,AS Monaco,90,7,0,0,0,0,1,0,0,123,2,0,0,133,0,0,2,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Paris Brunner,F,AS Monaco,90,7.5,1,0,0,0,3,1,0,25,0,0,0,42,0,1,0,4,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Yvan Ikia Dimi,F,Górnik Zabrze,45,6.6,0,0,0,0,0,0,0,13,1,0,0,26,2,0,0,6,1,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Mamadou Coulibaly,M,AS Monaco,65,9.3,1,1,0,0,3,1,0,50,2,0,0,71,2,3,1,10,0,5,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Sadibou Sané,D,AS Monaco,90,7.3,0,0,0,0,0,0,0,113,0,0,0,121,1,2,0,5,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Mathys Detourbet,M,AS Monaco,35,6.8,0,0,0,0,2,1,0,20,0,0,0,30,2,1,0,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Ilane Touré,D,AS Monaco,14,6.5,0,0,0,0,0,0,0,12,0,0,0,14,0,1,1,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Safouane Benzahra,F,AS Monaco,24,6.5,0,0,0,0,0,0,0,25,0,0,0,31,0,1,1,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AS Monaco vs Górnik Zabrze,27/08/2026,Anis Soubeir,M,AS Monaco,25,6.8,0,0,0,0,0,0,0,12,0,0,0,16,0,2,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Stefan de Vrij,D,Panathinaikos FC,120,7.2,0,0,0,0,1,0,0,50,0,0,0,74,0,1,4,5,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Vladimír Darida,M,FC Hradec Králové,120,8.6,1,0,0,0,4,3,0,110,4,0,0,147,0,2,1,4,2,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Mick van Buren,F,FC Hradec Králové,120,5.8,0,0,0,0,0,0,0,21,0,0,0,40,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Davide Calabria,D,Panathinaikos FC,60,6.4,0,0,0,0,0,0,0,22,0,0,0,33,0,1,0,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Adam Vlkanova,F,FC Hradec Králové,98,6.4,0,0,0,0,2,1,0,42,1,0,1,61,0,2,0,3,2,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Daniel Trubač,M,FC Hradec Králové,43,6.2,0,0,0,0,3,1,0,30,1,0,0,46,0,0,0,0,0,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Ondřej Mihálik,F,FC Hradec Králové,21,6.4,0,0,0,0,0,0,0,5,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Georgios Kyriakopoulos,D,Panathinaikos FC,120,6.9,0,0,0,0,1,0,0,46,1,1,0,80,1,0,1,3,2,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Erik Palmer Brown,D,Panathinaikos FC,38,6.4,0,0,0,0,0,0,0,4,0,0,0,18,0,0,2,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Cyriel Dessers,F,Panathinaikos FC,60,9.1,2,0,0,0,3,2,0,15,2,0,0,30,4,0,0,7,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Iñaki Peña,G,Panathinaikos FC,120,9,0,0,0,0,0,0,0,46,0,0,0,74,0,0,0,1,0,0,0,0,0,6
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Pedro Chirivella,M,Panathinaikos FC,30,6.7,0,0,0,0,0,0,0,23,0,0,0,29,0,0,1,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Rick Van Drongelen,D,Panathinaikos FC,120,7.3,0,0,0,0,0,0,0,65,0,0,0,80,0,0,2,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Levi García,F,Panathinaikos FC,82,5.5,0,0,0,0,5,0,1,14,1,0,1,27,1,0,0,1,3,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Samuel Dancák,M,FC Hradec Králové,77,7.9,0,0,0,0,0,0,0,40,1,1,0,48,0,2,0,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Daniel Horák,M,FC Hradec Králové,120,6.9,0,0,0,0,3,1,0,73,3,0,2,113,0,2,0,6,2,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,František Čech,D,FC Hradec Králové,120,6.8,0,0,0,0,1,0,0,100,0,0,0,122,0,4,3,6,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Filip Čihák,D,FC Hradec Králové,120,7.2,0,0,0,0,0,0,0,88,3,1,0,105,0,2,2,7,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Matěj Valenta,M,FC Hradec Králové,43,7.5,0,0,0,0,0,0,0,50,2,0,0,61,1,1,0,4,0,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Facundo Pellistri,M,Panathinaikos FC,60,7,0,0,0,0,0,0,0,13,0,0,0,30,2,1,0,8,1,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Adam Zadražil,G,FC Hradec Králové,120,6.4,0,0,0,0,2,1,0,40,0,0,0,58,0,0,0,1,0,1,0,0,0,3
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Etienne Camara,M,Panathinaikos FC,120,7.8,0,0,0,0,0,0,0,54,1,0,0,79,1,6,0,9,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Vicente Taborda,F,Panathinaikos FC,120,6.6,0,1,0,0,1,1,0,39,3,1,0,71,1,0,0,4,0,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Andreas Tetteh,F,Panathinaikos FC,60,6.3,0,0,0,0,0,0,0,17,1,0,0,30,3,0,0,5,1,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,David Ludvicek,D,FC Hradec Králové,77,6.7,0,0,0,0,1,0,0,26,0,0,0,49,0,3,0,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Jakub Uhrinčať,D,FC Hradec Králové,120,7.5,0,1,0,0,1,0,0,53,4,2,0,71,0,2,1,6,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Elione Fernandes Neto,M,FC Hradec Králové,11,6,0,0,0,0,1,0,0,0,0,0,0,2,0,1,0,1,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Georgios Katris,D,Panathinaikos FC,60,7.3,0,0,0,0,0,0,0,30,0,0,0,44,0,0,1,3,0,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Tom Slončík,F,FC Hradec Králové,60,6.2,0,0,0,0,3,1,0,15,0,0,0,30,0,0,0,2,3,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Adriano Jagušić,M,Panathinaikos FC,23,7.3,0,0,0,0,1,1,0,2,0,0,1,10,0,1,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Sotiris Kontouris,M,Panathinaikos FC,67,6.4,0,0,0,0,2,0,0,24,0,0,0,39,0,2,0,4,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Santino Andino,M,Panathinaikos FC,60,6.9,0,0,0,0,1,1,0,10,0,0,0,26,1,4,0,7,0,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC Hradec Králové vs Panathinaikos FC,27/08/2026,Abdullahi Umar,F,FC Hradec Králové,60,6.3,0,0,0,0,0,0,0,8,0,0,0,17,1,1,0,2,1,0,0,0,2,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Thomas Delaney,M,FC København,9,6.7,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Mohamed Elyounoussi,M,FC København,89,6.7,0,1,0,0,4,1,0,22,3,0,1,43,0,1,1,4,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Andreas Cornelius,F,FC København,81,8.3,0,0,0,0,4,0,1,22,3,2,0,37,1,0,0,8,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Juuso Hämäläinen,D,Inter Turku,81,6,0,0,0,0,0,0,0,35,0,0,0,45,0,1,2,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Jasse Tuominen,M,Inter Turku,81,7.1,1,0,0,0,3,2,0,15,0,0,0,36,1,1,0,4,1,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Felix Beijmo,D,FC København,90,6.6,0,0,0,0,0,0,0,53,0,0,0,64,1,1,2,5,3,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Alex Král,M,FC København,89,6.6,0,0,0,0,0,0,0,16,0,0,0,35,0,5,1,6,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Mads Emil Madsen,M,FC København,90,7.8,1,0,0,0,4,2,0,29,2,0,0,49,1,2,2,5,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Marcos López,D,FC København,90,7.2,0,0,0,0,1,1,0,30,2,0,0,59,0,2,4,7,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Seth Saarinen,D,Inter Turku,81,6.3,0,0,0,0,0,0,0,16,2,1,0,38,0,3,2,6,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Janne-Pekka Laine,M,Inter Turku,90,6.6,0,0,0,0,0,0,0,50,0,0,0,72,0,3,1,6,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Diant Ramaj,G,FC København,90,7.3,0,0,0,0,0,0,0,37,0,0,0,43,0,0,0,2,0,1,0,0,0,1
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Gabriel Pereira,D,FC København,90,7.9,1,0,0,0,2,1,0,63,1,0,1,75,1,1,2,7,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Yeboah Amankwah,D,Inter Turku,9,6.4,0,0,0,0,0,0,0,12,0,0,0,17,1,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Jussi Niska,D,Inter Turku,90,5.6,0,0,0,0,0,0,0,26,0,0,0,53,2,3,2,6,1,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Eetu Huuhtanen,G,Inter Turku,90,7.1,0,0,0,0,0,0,0,37,0,0,0,47,0,0,0,0,0,0,0,0,0,5
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Luka Kuittinen,D,Inter Turku,90,5.1,0,0,0,0,0,0,0,40,0,0,0,48,0,0,0,1,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Johannes Yli-Kokko,M,Inter Turku,9,6.5,0,0,0,0,0,0,0,6,0,0,0,10,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,William Clem,M,FC København,81,8,1,0,0,0,3,1,0,38,2,0,0,50,0,5,0,7,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Jean Fiacre Kouamé Botué,F,Inter Turku,9,6.4,0,0,0,0,0,0,0,3,1,0,0,4,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Junnosuke Suzuki,D,FC København,90,6.4,0,0,0,0,0,0,0,32,0,0,0,54,1,3,1,5,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Thapelo Maseko,M,FC København,1,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Alie Conteh,F,Inter Turku,90,6.4,0,0,0,0,2,0,0,20,1,0,1,33,3,1,0,8,3,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Prosper Ahiabu,M,Inter Turku,19,6.2,0,0,0,0,0,0,0,7,0,0,0,11,0,1,0,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Antoin Loic Essomba,F,Inter Turku,90,5.3,0,0,0,0,0,0,0,12,0,0,0,29,2,0,0,3,3,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Bismark Ampofo,M,Inter Turku,71,7.3,0,0,0,0,0,0,0,38,0,0,0,56,3,3,2,7,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Robert,M,FC København,89,7,0,0,0,0,3,2,0,25,1,0,0,55,5,3,1,11,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Viktor Bjarki Dadason,F,FC København,9,7,0,0,0,0,0,0,0,5,1,0,0,7,0,1,0,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Ákos Markgráf,D,FC København,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Clinton Jephta,F,Inter Turku,90,6.1,0,0,0,0,0,0,0,20,0,0,0,34,0,1,0,2,1,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC København vs Inter Turku,27/08/2026,Marvin Nasnas,M,FC København,1,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Marko Livaja,F,HNK Hajduk Split,30,6.2,0,0,0,0,2,0,0,10,1,0,0,20,0,1,0,2,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Dario Melnjak,D,HNK Hajduk Split,49,6.8,0,0,0,0,0,0,0,18,0,0,0,32,0,1,1,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Mahir Emreli,F,Raków Częstochowa,120,7.6,1,0,0,0,5,1,0,35,1,1,2,58,2,0,1,7,3,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Fran Tudor,D,Raków Częstochowa,90,7.1,0,0,0,0,0,0,0,79,1,1,0,102,0,3,2,6,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Stratos Svarnas,D,Raków Częstochowa,120,7,0,0,0,0,0,0,0,104,2,0,0,126,0,0,0,1,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Jean Carlos Silva,M,Raków Częstochowa,71,6.3,0,0,0,0,0,0,0,48,1,0,0,71,1,0,2,4,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Wladyslaw Kocherhin,M,Raków Częstochowa,49,7.2,0,0,0,0,4,1,0,40,3,0,0,46,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Dario Marešić,D,HNK Hajduk Split,96,6.8,0,1,0,0,0,0,0,26,1,1,0,49,0,3,0,6,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Arvid Brorsson,D,Raków Częstochowa,30,6.5,0,0,0,0,1,0,0,34,0,0,1,45,0,2,0,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Michele Šego,F,HNK Hajduk Split,90,7.2,1,0,0,0,2,1,0,10,1,0,0,19,0,1,0,1,2,0,0,0,2,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Erick Otieno,M,Raków Częstochowa,49,6.5,0,0,0,0,0,0,0,11,0,0,0,32,0,1,1,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Lamine Diaby-Fadiga,F,Raków Częstochowa,105,7.3,1,0,0,0,3,1,0,22,2,0,0,37,0,0,0,5,2,2,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Oskar Repka,M,Raków Częstochowa,120,6.6,0,0,0,0,0,0,0,54,1,0,0,76,0,3,5,6,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Michael Ameyaw,M,Raków Częstochowa,84,7.2,0,0,0,0,3,1,0,28,0,0,0,54,0,4,0,5,1,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Alec Van Hoorenbeeck,D,HNK Hajduk Split,24,6.9,0,0,0,0,1,0,0,5,0,0,0,9,0,0,0,4,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Patryk Makuch,F,Raków Częstochowa,84,6.5,0,0,0,0,2,1,0,25,1,0,0,39,2,1,0,7,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Karol Struski,M,Raków Częstochowa,71,6.3,0,0,0,0,0,0,0,29,0,0,0,36,0,2,0,3,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Abdoulie Sanyang Bamba,M,HNK Hajduk Split,70,6.5,0,0,0,0,0,0,0,9,0,0,0,19,1,0,0,5,1,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Dalisson de Almeida,M,HNK Hajduk Split,71,7.6,0,1,0,0,0,0,0,16,1,1,0,33,3,2,1,6,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Kacper Trelowski,G,Raków Częstochowa,120,6.5,0,0,0,0,0,0,0,55,0,0,0,62,0,0,0,0,0,0,0,0,0,1
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Bogdan Racovițan,D,Raków Częstochowa,120,6.7,0,0,0,0,0,0,0,103,1,0,0,120,0,1,4,6,1,4,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Toni Silić,G,HNK Hajduk Split,120,7.2,0,0,0,0,0,0,0,44,0,0,0,59,0,0,0,3,0,2,0,0,0,3
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Ron Raçi,D,HNK Hajduk Split,120,7.9,1,0,0,0,1,1,0,29,0,0,0,55,0,4,3,8,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Alberto del Moral,M,HNK Hajduk Split,49,6.8,0,0,0,0,0,0,0,21,0,0,0,35,0,3,4,4,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Šimun Hrgović,D,HNK Hajduk Split,120,6.5,0,0,0,0,3,1,0,25,1,0,0,48,0,2,0,2,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Rokas Pukštas,M,HNK Hajduk Split,120,8,1,0,0,0,2,1,0,37,2,0,0,63,1,0,0,14,3,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Marin Šotiček,M,HNK Hajduk Split,79,6.7,0,1,0,0,0,0,0,8,1,1,0,21,0,1,0,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Ádin Molnár,M,Raków Częstochowa,36,6.5,0,0,0,0,2,0,0,17,0,0,0,30,1,0,0,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Mathieu Acapandié,D,HNK Hajduk Split,71,6.6,0,0,0,0,0,0,0,24,0,0,0,47,0,6,1,8,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Niko Sigur,D,HNK Hajduk Split,120,6.7,0,0,0,0,0,0,0,23,0,0,0,41,2,1,3,6,1,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Isak Brusberg,F,Raków Częstochowa,36,6.3,0,0,0,0,0,0,0,5,1,0,0,13,1,0,0,2,0,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Anđelo Šutalo,M,HNK Hajduk Split,50,6.7,0,0,0,0,0,0,0,11,3,0,0,21,1,1,0,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Oliwier Kwiatkowski,M,Raków Częstochowa,15,6.9,0,0,0,0,0,0,0,5,0,0,0,9,0,2,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Raków Częstochowa vs HNK Hajduk Split,27/08/2026,Adam Huram,M,HNK Hajduk Split,41,6.3,0,0,0,0,1,0,0,12,0,0,0,29,2,0,1,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,David Luiz,D,Pafos FC,120,6.7,0,0,0,0,1,0,0,54,1,0,0,65,0,0,1,4,1,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Bruno Dita,D,Dinamo City,120,6.7,0,1,0,0,1,0,0,62,1,1,0,75,0,2,0,4,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Erion Hoxhallari,D,Dinamo City,58,6.3,0,0,0,0,0,0,0,17,1,0,0,39,1,0,1,6,2,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Aldo Teqja,G,Dinamo City,120,6,0,0,0,0,0,0,0,37,0,0,0,48,0,0,0,1,0,0,0,0,0,5
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Ivan Šunjić,M,Pafos FC,64,5.9,0,0,0,0,0,0,0,16,0,0,0,29,0,2,1,3,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Ken Sema,M,Pafos FC,84,7.8,1,0,0,0,1,1,0,17,3,0,0,34,0,1,1,4,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Naser Aliji,D,Dinamo City,120,7.3,0,0,0,0,0,0,0,89,3,0,0,113,0,1,1,9,0,6,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Nikolas Ioannou,D,Pafos FC,120,8.4,1,0,0,0,3,2,0,50,0,0,2,91,6,1,0,11,0,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Guga,M,Pafos FC,56,6.8,0,0,0,0,1,0,0,27,1,0,0,37,1,1,2,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,David Goldar,D,Pafos FC,120,6.2,0,0,0,0,1,0,0,52,1,0,0,68,0,1,0,7,4,1,0,0,2,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Vlad Dragomir,M,Pafos FC,85,6.7,0,0,0,0,0,0,0,20,1,1,0,33,1,0,1,5,4,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Samy Mmaee,D,Pafos FC,35,6.5,0,0,0,0,0,0,0,16,0,0,0,20,0,0,1,4,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Bruno,D,Pafos FC,120,7.9,0,0,0,0,1,0,0,50,6,3,0,106,4,7,1,15,2,2,1,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,João Correia,M,Pafos FC,73,6.7,0,0,0,0,1,0,0,12,0,0,0,26,0,2,0,4,2,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Domingos Quina,M,Pafos FC,36,6.7,0,0,0,0,1,1,0,9,0,0,1,17,0,1,0,2,1,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Nicolas Moumie Ngamaleu,M,Pafos FC,47,8.3,0,1,0,0,1,1,1,10,2,1,0,22,1,1,1,3,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Radosław Majecki,G,Pafos FC,120,6.1,0,0,0,0,0,0,0,32,0,0,0,35,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Lorenco Vila,M,Dinamo City,120,5.7,0,0,0,0,0,0,0,33,0,0,0,52,1,1,1,5,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Anderson Silva,F,Pafos FC,35,6.9,1,0,0,0,4,1,0,5,0,0,1,14,0,0,0,0,4,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Pêpê,M,Pafos FC,120,7,0,0,0,0,1,0,0,75,3,0,0,98,1,1,2,4,3,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Almir Ajzeraj,M,Dinamo City,37,6.4,0,0,0,0,0,0,0,13,0,0,0,20,1,1,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,David Fadairo,M,Dinamo City,70,7.1,1,0,0,0,1,1,0,7,0,0,0,14,0,0,0,0,2,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Adamu Alhassan,M,Dinamo City,50,6.6,0,0,0,0,0,0,0,33,0,0,0,39,0,0,0,3,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Eridon Qardaku,M,Dinamo City,70,6.6,0,0,0,0,0,0,0,29,0,0,0,45,0,2,1,4,3,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Flamur Ruci,M,Dinamo City,37,6.6,0,0,0,0,0,0,0,16,0,0,0,30,0,3,1,6,2,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Ysni Ismaili,D,Dinamo City,104,5.6,0,0,0,0,0,0,0,36,0,0,0,56,0,0,3,3,4,3,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Klevi Qefalija,M,Dinamo City,83,6.3,0,0,0,0,0,0,0,43,2,0,0,56,1,3,0,5,3,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Lelê,F,Pafos FC,85,6,0,0,0,0,5,2,0,12,0,0,1,26,0,0,0,2,3,0,1,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Florenc Ferruku,F,Dinamo City,16,6.4,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,1,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Fabjan Perndreca,D,Dinamo City,62,6.4,0,0,0,0,2,0,0,19,0,0,0,34,0,1,0,3,1,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Malomo Taofeek Ayodeji,M,Dinamo City,83,6.8,0,0,0,0,1,0,0,23,0,0,0,33,0,5,1,6,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Ruben Silva-Richards,F,Dinamo City,120,7.3,1,1,0,0,1,1,0,23,1,1,0,42,0,0,1,4,1,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Pafos FC vs Dinamo City,27/08/2026,Hekuran Berisha,F,Dinamo City,50,6.4,0,0,0,0,1,0,0,15,0,0,0,19,0,0,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Omri Altman,F,Hapoel Tel Aviv,77,7.1,0,0,0,0,0,0,0,27,1,0,0,41,2,0,0,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Sead Kolašinac,D,Atalanta,71,6.7,0,0,0,0,0,0,0,27,0,0,0,38,0,2,0,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Mario Pašalić,M,Atalanta,30,6.5,0,0,0,0,1,1,0,20,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Emmanuel Boateng,F,Hapoel Tel Aviv,81,6.8,0,0,0,0,2,0,0,11,2,0,0,22,0,0,0,7,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Marcus Coco,D,Hapoel Tel Aviv,90,7.2,0,0,0,0,0,0,0,69,0,0,0,90,0,6,1,9,2,3,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Gianluca Scamacca,F,Atalanta,19,7.5,1,0,0,0,1,1,0,8,0,0,0,13,0,0,0,1,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Raoul Bellanova,M,Atalanta,90,7,0,0,0,0,0,0,0,40,2,0,0,60,1,1,1,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Nikola Krstović,F,Atalanta,71,6.4,0,0,0,0,2,0,0,12,1,0,0,24,1,0,1,2,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Assaf Tzur,G,Hapoel Tel Aviv,90,6.7,0,0,0,0,0,0,0,22,0,0,0,30,0,0,0,1,0,0,0,0,0,3
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Fernand Mayembo,D,Hapoel Tel Aviv,90,6.5,0,0,0,0,0,0,0,68,0,0,0,77,0,1,2,3,1,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Andrian Kraev,M,Hapoel Tel Aviv,77,6.8,0,0,0,0,0,0,0,45,0,0,0,58,1,3,1,6,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Marco Carnesecchi,G,Atalanta,90,7.3,0,0,0,0,0,0,0,34,0,0,0,42,0,0,0,0,0,0,0,0,0,3
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Giacomo Raspadori,F,Atalanta,60,6.6,0,0,0,0,0,0,0,13,0,0,0,24,0,0,1,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Chico,D,Hapoel Tel Aviv,90,7,0,0,0,0,1,1,0,68,0,0,0,77,1,1,0,3,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Gianluca Gaetano,M,Atalanta,90,7,0,0,0,0,1,1,0,58,1,0,0,73,0,2,2,4,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Éderson,M,Atalanta,90,7.3,0,0,0,0,2,0,0,33,0,0,1,54,2,3,0,11,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Charles De Ketelaere,F,Atalanta,30,6.5,0,0,0,0,0,0,0,16,1,0,0,23,1,0,0,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Odilon Kossounou,D,Atalanta,90,7.3,0,0,0,0,1,0,0,73,0,0,1,78,0,1,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Falcão,M,Hapoel Tel Aviv,81,6.8,0,0,0,0,0,0,0,29,0,0,0,40,1,4,0,6,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Lazar Samardžić,M,Atalanta,60,6.9,0,0,0,0,3,1,0,23,3,2,0,42,3,2,0,7,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Nicola Zalewski,M,Atalanta,84,6.7,0,0,0,0,2,0,0,24,3,0,0,39,1,1,1,6,3,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Giorgio Scalvini,D,Atalanta,90,7.4,0,0,0,0,0,0,0,91,0,0,0,100,2,0,1,3,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Lorenzo Bernasconi,M,Atalanta,19,6.8,0,0,0,0,1,0,0,7,0,0,0,13,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Doron Leidner,D,Hapoel Tel Aviv,90,6.8,0,0,0,0,0,0,0,36,1,0,0,58,1,0,1,4,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Stav Turiel,M,Hapoel Tel Aviv,24,6.7,0,0,0,0,2,0,0,14,1,0,0,23,1,0,0,1,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,El Yam Kancepolsky,M,Hapoel Tel Aviv,13,6.7,0,0,0,0,0,0,0,4,0,0,0,9,0,2,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Roee Alkokin,M,Hapoel Tel Aviv,90,6.4,0,0,0,0,3,1,0,30,0,0,0,49,2,1,0,4,3,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Federico Cassa,M,Atalanta,10,6.5,0,0,0,0,0,0,0,1,0,0,0,5,1,0,0,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Yonatan Ferber,M,Hapoel Tel Aviv,9,6.6,0,0,0,0,1,0,0,2,0,0,0,5,1,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Douglas Owusu,M,Hapoel Tel Aviv,66,7.1,0,0,0,0,1,0,0,35,2,0,0,48,2,0,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Mor Buskila,F,Hapoel Tel Aviv,13,6.5,0,0,0,0,1,1,1,8,0,0,0,15,1,0,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hapoel Tel Aviv vs Atalanta,27/08/2026,Daniel Dappa,F,Hapoel Tel Aviv,9,6.7,0,0,0,0,0,0,0,4,1,0,0,9,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Peter Ankersen,D,FC Nordsjælland,90,7,0,0,0,0,0,0,0,69,1,0,0,84,0,0,0,3,1,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Lukas Görtler,M,FC St. Gallen 1879,90,7.3,1,0,0,0,4,1,0,59,3,0,2,83,0,4,1,8,3,3,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Andreas Hansen,G,FC Nordsjælland,90,6.8,0,0,0,0,0,0,0,40,0,0,0,55,0,0,0,0,0,0,0,0,0,4
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Tobias Salquist,D,FC Nordsjælland,90,7,0,0,0,0,0,0,0,74,1,0,0,84,0,1,0,4,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Lawrence Ati Zigi,G,FC St. Gallen 1879,90,6,0,0,0,0,0,0,0,44,0,0,0,52,0,0,0,0,0,0,1,0,0,2
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Chima Okoroji,D,FC St. Gallen 1879,90,6.4,0,1,0,0,0,0,0,62,3,0,0,76,0,2,1,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Mark Brink,M,FC Nordsjælland,24,6.8,0,0,0,0,2,0,0,26,0,0,0,30,0,2,0,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Jozo Stanić,D,FC St. Gallen 1879,90,6.5,0,0,0,0,0,0,0,49,0,0,0,65,0,2,0,4,0,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Lukas Daschner,M,FC St. Gallen 1879,90,7.3,0,0,0,0,3,0,0,31,2,1,0,49,2,1,0,4,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Nicklas Røjkjær,M,FC Nordsjælland,66,6.5,0,1,0,0,1,0,0,43,1,0,0,55,0,1,1,4,1,2,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Christian Witzig,M,FC St. Gallen 1879,86,6.7,0,0,0,0,4,2,0,29,0,0,0,48,2,2,1,4,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Alexander Lind,F,FC Nordsjælland,45,6.2,0,1,0,0,3,0,0,15,3,1,0,28,0,0,0,2,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Hugo Vandermersch,M,FC St. Gallen 1879,83,6.9,0,0,0,0,0,0,0,22,3,1,0,46,1,4,0,7,0,2,1,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Colin Noah Kleine-Bekel,D,FC St. Gallen 1879,13,6.6,0,0,0,0,0,0,0,5,1,0,0,5,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Aliou Balde,F,FC St. Gallen 1879,83,7.9,1,0,0,0,4,2,0,9,0,0,0,35,6,0,0,6,0,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Ibrahim Adel,M,FC Nordsjælland,45,6.3,0,0,0,0,1,0,0,14,1,0,0,25,0,1,0,3,2,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Mihailo Stevanović,M,FC St. Gallen 1879,39,5.4,0,0,0,0,1,0,0,20,0,0,0,27,0,0,0,1,2,0,2,1,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Runar Robinsonn Norheim,M,FC Nordsjælland,89,6.7,0,0,0,0,0,0,0,38,3,0,0,60,2,0,0,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Andrin Hunziker,F,FC St. Gallen 1879,43,6.7,0,0,0,0,4,1,0,6,1,0,1,11,0,1,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Enoch Owusu,F,FC St. Gallen 1879,13,6.8,0,0,0,0,0,0,0,1,0,0,0,7,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Leon Frokaj,M,FC St. Gallen 1879,47,6.3,0,0,0,0,1,0,0,11,1,0,0,19,0,0,0,1,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Juho Lähteenmäki,D,FC Nordsjælland,90,7.1,1,0,0,0,1,1,0,30,0,0,0,43,0,1,1,2,1,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Stephen Acquah,D,FC Nordsjælland,90,6.7,0,0,0,0,1,0,0,59,0,0,0,73,1,1,1,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Diego Besio,F,FC St. Gallen 1879,13,6.5,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Justin Janssen,M,FC Nordsjælland,90,7,0,0,0,0,0,0,0,56,1,0,0,66,0,4,0,6,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Markus Walker,D,FC Nordsjælland,1,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Villum Berthelsen,F,FC Nordsjælland,11,7.1,0,0,0,0,3,1,0,9,3,0,0,12,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Nevio Scherrer,F,FC St. Gallen 1879,10,6.5,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Hjalte Boe Rasmussen,M,FC Nordsjælland,24,6.8,1,0,0,0,1,1,0,7,0,0,0,9,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Prince Amoako Junior,F,FC Nordsjælland,66,6.8,1,0,0,0,3,2,0,17,0,0,0,36,2,0,0,2,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Lamine Sadio,F,FC Nordsjælland,79,7.3,0,1,0,0,0,0,0,39,2,1,0,48,1,1,1,4,0,2,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FC St. Gallen 1879 vs FC Nordsjælland,27/08/2026,Joel Ruiz,D,FC St. Gallen 1879,83,6.7,0,0,0,0,0,0,0,53,0,0,0,70,0,4,0,8,2,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Marc-André Ter Stegen,G,AFC Ajax,90,5.8,0,0,0,0,0,0,0,15,0,0,0,18,0,0,0,0,0,0,0,0,0,1
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Numa Lavanchy,D,FC Sion,90,5.2,0,0,0,0,0,0,0,46,0,0,0,60,0,1,1,1,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Davy Klaassen,M,AFC Ajax,60,7.9,1,0,0,0,1,1,0,31,2,0,0,40,0,0,1,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Steven Berghuis,F,AFC Ajax,45,6.9,0,0,0,0,2,2,0,16,3,1,0,29,0,1,0,1,0,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Julian Brandt,F,AFC Ajax,60,6.8,0,0,0,0,2,1,0,29,1,0,0,36,0,2,0,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Caio Henrique,D,AFC Ajax,90,6,0,1,0,0,0,0,0,64,3,1,0,78,0,0,0,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Ali Kabacalman,M,FC Sion,67,6.3,0,0,0,0,3,0,0,46,0,0,0,52,0,0,1,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Anthony Racioppi,G,FC Sion,90,7,0,0,0,0,0,0,0,29,0,0,0,47,0,0,0,0,0,0,0,0,0,9
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Jan Kronig,D,FC Sion,90,6.1,0,0,0,0,0,0,0,52,0,0,0,63,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Rilind Nivokazi,F,FC Sion,56,6.3,0,0,0,0,0,0,0,6,0,0,0,10,1,0,1,1,3,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Oliver Valaker Edvardsen,F,AFC Ajax,45,7.8,1,0,0,0,2,2,0,19,2,1,0,24,0,0,1,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Nias Hefti,D,FC Sion,56,5.1,0,0,0,0,1,0,0,24,0,0,0,34,1,1,1,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Marquinhos Cipriano,D,FC Sion,34,6.6,0,0,0,0,0,0,0,16,0,0,0,19,0,0,0,0,0,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Baltazar,M,FC Sion,90,6.5,0,0,0,0,0,0,0,43,1,0,0,51,1,0,1,3,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Ylyas Chouaref,M,FC Sion,67,6.7,0,0,0,0,0,0,0,24,2,0,0,40,2,1,1,5,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Lucas Rosa,D,AFC Ajax,90,7.1,0,1,0,0,0,0,0,55,1,1,0,86,2,3,3,7,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Tolu Arokodare,F,AFC Ajax,60,8.9,2,0,0,0,7,3,1,13,0,0,0,26,0,0,0,4,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Donat Rrudhani,M,FC Sion,34,6.7,0,0,0,0,0,0,0,19,0,0,0,24,1,0,1,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Youri Regeer,M,AFC Ajax,22,6.5,0,0,0,0,0,0,0,21,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Youri Baas,D,AFC Ajax,90,7.3,1,0,0,0,2,2,0,77,0,0,1,87,1,1,1,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Josias Lukembila,M,FC Sion,34,6.2,0,0,0,0,0,0,0,6,0,0,0,10,0,0,0,0,1,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Marcos Leonardo,F,AFC Ajax,30,6.2,0,0,0,0,4,2,0,7,0,0,4,11,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Franck Surdez,F,FC Sion,56,6,0,0,0,0,2,1,0,17,0,0,0,32,0,2,2,3,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Théo Berdayes,M,FC Sion,23,6.5,0,0,0,0,1,0,0,6,0,0,0,9,1,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Noé Sow,D,FC Sion,90,7.4,0,0,0,0,0,0,0,74,0,0,0,90,0,5,3,5,0,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Oscar Gloukh,M,AFC Ajax,30,6.6,0,0,0,0,2,1,0,13,1,0,0,20,1,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Fode Sylla,M,FC Sion,23,7.3,0,1,0,0,1,0,0,19,2,0,1,25,0,2,1,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Dies Janse,D,AFC Ajax,30,7,0,0,0,0,0,0,0,27,1,0,0,30,0,1,2,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Winsley Boteli Mokango,F,FC Sion,90,9.8,3,0,0,0,3,3,0,19,1,0,0,31,3,0,0,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Jorthy Mokio,M,AFC Ajax,68,7.9,0,0,0,0,2,0,0,40,4,3,0,57,2,0,1,2,3,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Aaron Bouwman,D,AFC Ajax,90,6.6,0,0,0,0,0,0,0,74,0,0,0,84,1,1,2,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,AFC Ajax vs FC Sion,27/08/2026,Abdellah Ouazane,M,AFC Ajax,90,8.5,0,2,0,0,2,1,0,44,3,2,0,62,2,1,1,5,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,João Moutinho,M,Sporting Braga,90,6.8,0,0,0,0,0,0,0,75,1,0,0,81,0,1,2,2,2,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Aleksandar Dragović,D,FK Austria Wien,80,7,0,0,0,0,0,0,0,81,1,0,0,89,0,0,2,1,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Samuel Sahin-Radlinger,G,FK Austria Wien,90,7.2,0,0,0,0,0,0,0,39,0,0,0,50,0,1,0,1,0,0,0,0,0,4
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Reinhold Ranftl,M,FK Austria Wien,65,7.3,0,0,0,0,1,0,0,24,0,0,0,52,0,1,1,4,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Johannes Eggestein,F,FK Austria Wien,72,6.8,0,0,0,0,1,1,0,17,2,0,0,30,1,0,0,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Manfred Fischer,M,FK Austria Wien,90,6.7,0,0,0,0,1,0,0,50,1,0,0,63,1,0,0,1,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Johannes Handl,D,FK Austria Wien,90,7.4,0,0,0,0,0,0,0,79,0,0,0,97,0,4,3,8,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Victor Gómez,M,Sporting Braga,90,6.5,0,0,0,0,1,0,0,47,1,0,0,71,0,0,2,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Vítor Carvalho,D,Sporting Braga,90,7.5,0,0,0,0,0,0,0,37,0,0,0,48,0,0,0,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Fran Navarro,F,Sporting Braga,55,6.3,0,0,0,0,1,0,0,10,1,0,0,26,0,0,0,4,2,3,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Gustaf Lagerbielke,D,Sporting Braga,90,7.1,0,0,0,0,1,1,0,44,0,0,0,55,1,1,0,5,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Adrian Bajrami,D,Sporting Braga,90,6.6,0,0,0,0,0,0,0,36,0,0,0,46,0,0,1,3,3,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Lee Tae-seok,M,FK Austria Wien,90,6.7,0,0,0,0,0,0,0,38,1,0,0,56,0,2,0,3,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Lee Kang-hee,M,FK Austria Wien,90,7.4,0,0,0,0,1,0,0,84,1,0,0,100,1,1,2,6,3,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Pau Víctor,F,Sporting Braga,83,6.6,0,0,0,0,1,0,0,41,1,1,0,53,1,1,0,3,3,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Kelvin Boateng,F,FK Austria Wien,65,6.2,0,0,0,0,1,0,0,6,0,0,0,13,0,1,0,2,3,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Gabriel Silva,F,Sporting Braga,89,6.6,0,0,0,0,1,1,0,24,0,0,0,52,2,0,2,5,1,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Florian Wustinger,M,FK Austria Wien,90,6.7,0,0,0,0,0,0,0,31,0,0,0,39,0,1,3,3,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Julian Hettwer,F,FK Austria Wien,45,6.4,0,0,0,0,3,1,0,5,1,0,1,13,1,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Moritz Wels,F,FK Austria Wien,18,6.5,0,0,0,0,1,0,0,3,0,0,0,7,1,0,0,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Gabriel Martínez,M,Sporting Braga,1,,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Diogo Travassos,D,Sporting Braga,35,7,0,0,0,0,1,1,0,10,0,0,1,28,1,1,0,7,2,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Demir Ege Tıknaz,M,Sporting Braga,90,6.9,0,0,0,0,0,0,0,60,0,0,0,65,1,1,0,4,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Sanel Saljic,F,FK Austria Wien,45,6.5,0,0,0,0,0,0,0,9,0,0,0,16,0,0,0,2,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Jovan Milošević,F,Sporting Braga,11,6.3,0,0,0,0,0,0,0,9,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Diego Rodrigues,M,Sporting Braga,55,7,0,0,0,0,1,0,0,25,2,0,0,32,1,0,0,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Bernardo Fontes,G,Sporting Braga,90,6.7,0,0,0,0,0,0,0,27,0,0,0,32,0,0,0,0,0,0,0,0,0,2
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Mario Dorgeles,M,Sporting Braga,35,6.4,0,0,0,0,1,1,0,30,1,0,0,36,0,1,0,3,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Vasilije Markovic,M,FK Austria Wien,25,6.5,0,0,0,0,0,0,0,1,0,0,0,4,0,0,1,1,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Daniel Nnodim,D,FK Austria Wien,25,6.7,0,0,0,0,0,0,0,8,0,0,0,13,0,1,0,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Austria Wien vs Sporting Braga,27/08/2026,Hasan Deshishku,M,FK Austria Wien,10,6.7,0,0,0,0,0,0,0,3,0,0,0,8,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Ruben Jenssen,M,Tromsø IL,90,6.3,0,0,0,0,0,0,0,23,1,0,0,31,0,1,3,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Pascal Groß,M,Brighton & Hove Albion,90,6.8,0,0,0,0,3,1,0,85,2,0,0,100,0,0,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Lewis Dunk,D,Brighton & Hove Albion,45,7.5,0,0,0,0,0,0,0,63,0,0,0,68,0,0,1,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Jakob Haugaard,G,Tromsø IL,90,5.4,0,0,0,0,0,0,0,39,0,0,0,51,0,0,0,1,0,0,0,0,0,4
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Olivier Boscagli,D,Brighton & Hove Albion,90,9.6,1,0,0,0,1,1,0,101,4,0,0,125,1,1,1,3,1,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Pascal Struijk,D,Brighton & Hove Albion,45,7.2,0,0,0,0,0,0,0,62,0,0,0,66,0,1,0,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Lars Olden Larsen,F,Tromsø IL,45,6.7,0,0,0,0,1,0,0,11,0,0,0,18,0,1,1,2,0,1,0,0,2,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Matt O'Riley,M,Brighton & Hove Albion,81,6.8,0,0,0,0,1,0,0,31,0,0,0,34,0,1,1,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Mats Wieffer,D,Brighton & Hove Albion,45,8.6,1,0,0,0,1,1,0,29,0,0,0,42,1,2,1,5,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,David Edvardsson,M,Tromsø IL,90,6.5,0,0,0,0,0,0,0,19,1,0,0,34,0,3,0,4,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Casper Öyvann,D,Tromsø IL,9,6.2,0,0,0,0,0,0,0,5,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Costinha,D,Brighton & Hove Albion,45,7.1,0,0,0,0,0,0,0,31,2,0,0,43,0,1,0,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Bart Verbruggen,G,Brighton & Hove Albion,90,7,0,0,0,0,0,0,0,49,0,0,0,52,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Maxim De Cuyper,D,Brighton & Hove Albion,66,9.3,1,1,0,0,1,1,0,42,2,0,0,57,0,2,0,3,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Leon Hien,D,Tromsø IL,69,6.6,0,0,0,0,1,0,0,21,0,0,0,36,0,2,2,5,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Vetle Skjaervik,D,Tromsø IL,12,6.9,0,0,0,0,0,0,0,2,0,0,0,5,0,1,1,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Isak Dahlqvist,M,Tromsø IL,90,5.2,0,0,0,0,0,0,0,10,0,0,0,27,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Yasin Ayari,M,Brighton & Hove Albion,90,7.6,0,0,0,0,1,1,0,54,0,0,0,59,0,2,0,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Jesper Andreas Grundt,M,Tromsø IL,45,6.3,0,0,0,0,0,0,0,6,0,0,0,16,0,2,1,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Diego Gómez,M,Brighton & Hove Albion,66,6.7,0,0,0,0,4,0,0,37,2,0,0,56,1,2,0,4,1,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Heine Asen Larsen,F,Tromsø IL,45,6.3,0,0,0,0,2,0,0,6,1,0,0,10,0,0,0,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Sander Innvær,M,Tromsø IL,45,6.9,0,0,0,0,0,0,0,7,0,0,0,17,0,2,0,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Isak Vadebu,D,Tromsø IL,90,5.4,0,0,0,0,0,0,0,19,1,0,0,30,0,0,2,1,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Mathias Tonnessen,D,Tromsø IL,90,6.4,0,0,0,0,0,0,0,31,0,0,0,48,0,1,3,3,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Luka Vušković,D,Brighton & Hove Albion,90,7.8,0,0,0,0,1,1,0,105,0,0,0,122,0,1,3,8,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Charalampos Kostoulas,F,Brighton & Hove Albion,90,7.6,1,1,0,0,8,2,0,29,1,0,0,48,1,1,0,7,4,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Troy Nyhammer,M,Tromsø IL,90,6.5,0,0,0,0,0,0,0,9,0,0,0,17,0,0,0,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Ibrahim Osman,M,Brighton & Hove Albion,24,6.6,0,0,0,0,0,0,0,18,1,0,0,25,0,1,1,1,0,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Ieltsin Camões,F,Tromsø IL,45,7,0,0,0,0,0,0,0,7,0,0,0,15,0,1,0,6,0,2,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Malick Yalcouyé,M,Brighton & Hove Albion,9,6.7,0,0,0,0,0,0,0,10,0,0,0,12,0,0,0,1,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Alexander Warneryd,D,Tromsø IL,45,5.3,0,0,0,0,1,0,0,2,1,0,0,11,0,0,0,0,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Brighton & Hove Albion vs Tromsø IL,27/08/2026,Zadok Yohanna,F,Brighton & Hove Albion,24,6.3,0,0,0,0,0,0,0,13,1,0,0,15,0,0,0,0,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Jakov Puljić,F,HNK Rijeka,26,6.5,0,0,0,0,1,1,0,3,0,0,1,6,0,0,0,0,2,0,1,0,2,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Ante Majstorović,D,HNK Rijeka,90,6.2,0,0,0,0,2,2,0,45,1,0,0,62,0,2,2,10,3,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Amer Gojak,M,HNK Rijeka,11,6.5,0,0,0,0,0,0,0,14,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Philip Billing,M,FC Midtjylland,82,6.8,0,0,0,0,2,0,0,49,1,0,0,63,3,3,0,7,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Martin Erlić,D,FC Midtjylland,31,6.2,0,0,0,0,0,0,0,22,0,0,0,28,0,0,3,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Justas Lasickas,D,HNK Rijeka,90,5.4,0,0,0,0,0,0,0,42,0,0,0,66,0,0,1,3,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Magnus Jensen,D,FC Midtjylland,90,7.5,1,0,0,0,2,1,0,50,2,0,0,63,0,1,2,3,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Elías Ólafsson,G,FC Midtjylland,90,7.2,0,0,0,0,0,0,0,36,0,0,0,45,0,0,0,0,0,0,0,0,0,3
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Toni Fruk,M,HNK Rijeka,83,5.9,0,0,0,0,2,0,0,21,1,0,0,43,0,0,2,1,3,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Rasmus Kristensen,D,FC Midtjylland,90,7.3,0,1,0,0,0,0,0,61,1,1,0,73,1,1,1,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Tiago Dantas,M,HNK Rijeka,90,6.9,0,0,0,0,0,0,0,45,3,1,0,52,0,2,0,4,0,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Ivan Ćubelić,M,HNK Rijeka,26,6.5,0,0,0,0,0,0,0,13,0,0,0,20,0,0,1,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Niko Janković,M,HNK Rijeka,45,6.3,0,0,0,0,1,0,0,12,0,0,0,22,0,1,0,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Mads Bech Sørensen,D,FC Midtjylland,90,6.7,0,0,0,0,1,0,0,54,0,0,0,79,0,1,1,4,0,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Gue-sung Cho,F,FC Midtjylland,33,7.6,1,0,0,0,3,2,0,11,1,0,0,20,0,1,0,7,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Ante Oreč,D,HNK Rijeka,90,6.9,0,1,0,0,0,0,0,36,1,1,0,62,0,3,2,5,1,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Adam Gabriel,D,FC Midtjylland,59,7.2,0,0,0,0,0,0,0,31,2,0,0,46,2,3,4,7,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Darío Osorio,M,FC Midtjylland,57,7.8,1,0,0,0,3,1,0,17,2,0,0,24,0,0,0,1,0,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Pedro Bravo,M,FC Midtjylland,90,6.8,0,0,0,0,0,0,0,30,0,0,0,38,0,3,0,5,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Samuele Vignato,M,HNK Rijeka,64,6.3,0,0,0,0,0,0,0,16,0,0,0,25,1,0,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Anel Husić,D,HNK Rijeka,90,5.5,0,0,0,0,1,0,0,46,0,0,0,58,0,1,0,2,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Yusuf Kabadayi,F,HNK Rijeka,45,6.3,0,0,0,0,1,0,0,8,1,0,0,19,1,1,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Denil Castillo,M,FC Midtjylland,90,7.3,0,1,0,0,2,1,0,31,1,0,0,51,0,3,3,10,3,6,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Franculino Djú,F,FC Midtjylland,33,6.4,0,0,0,0,1,1,0,14,1,0,0,23,2,0,0,2,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Valdemar Byskov,M,FC Midtjylland,8,7,0,0,0,0,1,1,0,15,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Aleksa Todorović,G,HNK Rijeka,90,6.7,0,0,0,0,0,0,0,22,0,0,0,41,0,0,0,0,0,0,0,0,0,4
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Kjell Wätjen,M,FC Midtjylland,45,6.5,0,0,0,0,0,0,0,14,0,0,0,24,2,0,1,2,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Daniel Adu-Adjei,F,HNK Rijeka,64,7.1,1,0,0,0,1,1,0,6,0,0,0,17,0,0,0,3,0,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Branko Pavić,M,HNK Rijeka,83,6.2,0,0,0,0,0,0,0,30,1,0,0,43,0,1,4,2,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Stanley Iheanacho,M,FC Midtjylland,57,7.4,1,0,0,0,3,1,0,12,1,0,0,20,0,0,0,6,2,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Sofus Johannesen,M,FC Midtjylland,45,7,0,1,0,0,1,1,0,16,2,1,1,33,1,1,1,3,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,HNK Rijeka vs FC Midtjylland,27/08/2026,Goran Grulović,M,HNK Rijeka,11,6.6,0,0,0,0,0,0,0,3,0,0,0,5,1,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Kiko Femenía,D,Getafe,90,6.3,0,0,0,0,0,0,0,23,1,0,0,45,1,1,1,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Djené,D,Getafe,90,6.6,0,0,0,0,0,0,0,18,0,0,0,29,1,1,2,6,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Enes Ünal,F,Getafe,81,7.7,1,0,0,0,2,2,0,16,1,0,0,32,0,0,0,5,1,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Johan Mojica,D,Getafe,81,6.3,0,0,0,0,1,0,0,28,0,0,0,62,0,1,2,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,David Soria,G,Getafe,90,6.4,0,0,0,0,0,0,0,37,0,0,0,41,0,0,0,0,0,0,0,0,0,2
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Borja Mayoral,F,Getafe,9,6.6,0,0,0,0,1,1,0,8,0,0,0,10,0,1,0,1,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Orel Mangala,M,Getafe,90,6.2,0,0,0,0,1,0,0,22,1,0,0,37,0,1,1,1,3,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Miloš Krunić,G,FK Partizan,90,6.9,0,0,0,0,0,0,0,23,0,0,0,33,0,0,0,0,0,0,0,0,0,3
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Nikola Čumić,M,FK Partizan,62,6.7,0,0,0,0,3,0,0,20,1,0,1,29,0,2,0,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Stefan Milić,D,FK Partizan,90,6.7,0,0,0,0,0,0,0,56,0,0,0,67,0,1,4,4,1,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Iddrisu Baba,M,FK Partizan,77,7,0,0,0,0,1,0,0,39,1,0,0,50,0,2,1,8,1,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Martín Satriano,F,Getafe,90,6.6,0,0,0,0,0,0,0,31,2,0,0,47,0,4,0,8,1,3,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Francho Serrano,M,Getafe,68,6.6,0,0,0,0,1,0,0,22,0,0,0,30,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Milan Vukotić,M,FK Partizan,77,6.9,0,0,0,0,3,0,0,53,1,0,0,73,0,1,1,5,3,2,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Demba Seck,M,FK Partizan,90,6.9,0,0,0,0,4,1,0,23,2,1,0,41,2,1,1,5,2,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Ramón Terrats,M,Getafe,90,6.8,0,0,0,0,1,0,0,26,1,0,0,50,3,4,2,12,2,5,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Chaka Traorè,M,FK Partizan,13,6.5,0,0,0,0,0,0,0,7,0,0,0,13,1,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Saba Sazonov,D,Getafe,37,6.2,0,0,0,0,0,0,0,3,0,0,0,9,0,0,1,1,4,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Zaid Romero,D,Getafe,90,5.8,0,0,0,0,1,1,0,28,0,0,0,37,0,1,2,2,2,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Igor Miladinović,M,FK Partizan,90,7.5,0,1,0,0,2,1,0,40,2,0,0,58,0,5,0,9,0,4,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Mateja Milovanović,D,FK Partizan,21,6.4,0,0,0,0,0,0,0,13,0,0,0,15,0,0,0,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Milan Roganović,D,FK Partizan,90,6.9,0,0,0,0,0,0,0,48,1,0,0,76,0,3,5,6,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Mario Martín,M,Getafe,22,6.8,0,0,0,0,1,0,0,13,0,0,0,21,0,1,1,2,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Milan Aleksić,M,FK Partizan,28,7.8,0,0,0,0,1,0,0,15,1,0,0,20,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Nikola Simic,D,FK Partizan,90,7,0,0,0,0,0,0,0,65,1,0,0,74,0,1,2,4,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Andrés García,D,Getafe,53,5.7,0,0,0,0,0,0,0,15,0,0,0,29,1,1,0,3,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Jeh,F,FK Partizan,71,7.8,1,0,0,0,1,1,0,10,1,0,0,24,0,0,0,5,1,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Bogdan Kostić,M,FK Partizan,13,6.3,0,0,0,0,0,0,0,5,0,0,0,10,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Erik Kojzek,F,FK Partizan,19,7,1,0,0,0,3,1,0,2,0,0,0,7,0,0,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Davinchi,D,Getafe,9,6.5,0,0,0,0,0,0,0,8,0,0,0,10,0,0,1,0,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,FK Partizan vs Getafe,27/08/2026,Samson Nwulu,M,FK Partizan,69,7,0,1,0,0,0,0,0,36,4,0,0,45,1,3,0,7,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Jordan Obita,D,Hibernian,90,6.2,0,0,0,0,0,0,0,49,1,0,0,68,0,1,1,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Davy Roef,G,KAA Gent,90,7.1,0,0,0,0,0,0,0,23,0,0,0,37,0,0,0,2,0,1,0,0,0,4
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Martin Boyle,F,Hibernian,76,6.5,0,0,0,0,2,1,0,12,1,1,0,26,0,1,0,2,2,1,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Raphael Sallinger,G,Hibernian,90,6.2,0,0,0,0,0,0,0,34,0,0,0,43,0,0,0,1,0,1,0,0,0,3
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Christian Burgess,D,KAA Gent,90,7.8,1,0,0,0,2,1,1,82,0,0,1,102,0,0,2,5,1,0,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,László Bénes,M,KAA Gent,8,7.3,0,1,0,0,0,0,0,3,3,1,0,7,0,0,0,1,1,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Jason Kerr,D,Hibernian,90,7.4,1,0,0,0,2,2,0,70,0,0,0,84,0,0,1,9,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Leonardo Lopes,M,KAA Gent,8,6.6,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Felix Passlack,M,Hibernian,89,7.6,1,0,0,0,2,1,0,26,1,0,0,47,2,1,0,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Jamie McGrath,M,Hibernian,83,7.6,0,1,0,0,1,0,0,38,1,1,0,55,1,3,0,7,0,3,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Siebe Van Der Heyden,D,KAA Gent,82,6.9,0,0,0,0,0,0,0,77,1,0,0,83,0,0,1,3,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Warren O'Hora,D,Hibernian,90,6.2,0,0,0,0,1,0,0,52,0,0,0,70,0,0,1,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Callum Wright,M,Hibernian,11,6.5,0,0,0,0,2,1,0,4,0,0,1,9,0,0,0,1,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Josh Mulligan,M,Hibernian,90,6.8,0,1,0,0,3,1,0,31,3,0,0,43,1,3,0,6,2,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Tiago Araújo,D,KAA Gent,90,7.1,0,1,0,0,1,0,0,46,1,0,0,73,1,4,0,7,2,2,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Ante Šuto,F,Hibernian,14,6.4,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Abdelkahar Kadri,M,KAA Gent,63,6.6,0,0,0,0,1,0,0,42,1,0,0,50,1,2,0,3,1,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Mathias Delorge,M,KAA Gent,90,7.6,0,0,0,0,0,0,0,74,2,1,0,91,0,2,1,4,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Momodou Sonko,F,KAA Gent,64,6.7,0,0,0,0,1,0,0,14,2,1,0,24,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Miguel Changa Chaiwa,M,Hibernian,90,5.7,0,0,0,0,0,0,0,46,2,0,0,59,1,0,0,2,2,1,2,1,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Nathan Lowe,F,Hibernian,90,6.1,0,0,0,0,1,0,0,11,1,1,1,21,0,1,0,5,0,1,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Mouhamed El Ngom,D,KAA Gent,90,6.7,0,0,0,0,0,0,0,53,0,0,0,82,0,2,1,5,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Tibe De Vlieger,M,KAA Gent,82,6.3,0,0,0,0,1,0,0,57,0,0,0,66,0,0,1,2,2,1,1,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Adam Mayor,M,Hibernian,90,8.1,0,0,0,0,0,0,0,33,3,0,0,63,2,1,1,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Kyrell Wilson,M,KAA Gent,27,6.6,0,0,0,0,0,0,0,9,0,0,0,18,0,3,0,3,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Kanayochukwu Megwa,M,Hibernian,1,,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Josué Vergara,F,KAA Gent,90,7.1,1,0,0,0,4,3,0,10,0,0,1,22,0,0,0,4,1,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,El Hadji Seck,M,KAA Gent,26,6.7,0,0,0,0,2,0,0,5,0,0,0,12,1,0,1,1,0,0,0,0,0,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Matties Volckaert,D,KAA Gent,82,6.5,0,0,0,0,1,1,0,24,0,0,0,33,0,0,0,0,0,0,0,0,1,0
+UEFA Conference League,UEFA_Conference_League_26_27,Hibernian vs KAA Gent,27/08/2026,Ibrahima Cisse,F,KAA Gent,8,6.6,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,1,0,0,0,0,0

@@ -1,0 +1,574 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Marco D'Alessandro,M,Catanzaro,63,6.6,0,1,0,0,0,0,0,22,1,0,0,31,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Pietro Iemmello,F,Catanzaro,81,7.3,1,0,0,0,2,2,0,27,1,0,1,37,0,0,1,3,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Daniele Casiraghi,M,Südtirol,10,7.1,0,0,0,0,0,0,0,5,1,0,0,7,0,0,0,0,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Salvatore Molina,M,Südtirol,45,7.1,0,0,0,0,1,0,0,17,1,0,0,29,0,1,1,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Mirko Pigliacelli,G,Catanzaro,90,7.5,0,0,0,0,0,0,0,45,0,0,0,50,1,0,0,1,0,0,0,0,0,1
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Jacopo Petriccione,M,Catanzaro,90,8,0,0,0,0,2,1,0,62,2,0,0,73,1,2,0,5,2,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Alessandro Plizzari,G,Südtirol,90,7.7,0,0,0,0,0,0,0,32,0,0,0,41,0,0,0,0,0,0,0,0,0,2
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Nicola Mosti,M,Catanzaro,90,6.8,0,0,0,0,2,0,0,45,0,0,0,55,0,2,0,5,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Matias Antonini,D,Catanzaro,90,6.3,0,0,0,0,0,0,0,72,0,0,0,80,0,0,0,3,3,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Antonio Candela,D,Catanzaro,90,6.7,0,0,0,0,0,0,0,19,1,1,0,45,1,1,0,2,2,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Bjarki Bjarkason,M,Südtirol,68,5.9,0,0,0,0,0,0,0,11,1,0,0,24,0,1,0,3,0,1,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Nicolò Buso,F,Catanzaro,17,7,0,0,0,0,1,0,0,4,0,0,0,10,0,1,1,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Simone Davì,M,Südtirol,22,7,0,0,0,0,0,0,0,6,0,0,0,13,0,1,1,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Marco Ruggero,D,Catanzaro,81,6.6,0,0,0,0,0,0,0,51,0,0,0,57,0,2,1,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Niklas Pyyhtiä,M,Südtirol,90,7.8,1,0,0,0,2,1,0,49,1,0,0,61,0,1,1,2,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Simone Tronchin,M,Südtirol,90,6.7,0,1,0,0,2,0,1,50,1,1,0,58,0,1,0,2,2,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Aljoša Vasić,M,Südtirol,80,6.5,0,0,0,0,1,0,0,22,1,0,0,36,1,2,1,4,3,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Davide Veroli,D,Südtirol,90,6.4,0,0,0,0,0,0,0,37,0,0,0,48,0,1,0,2,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Gabriele Alesi,F,Catanzaro,90,6.3,0,0,0,0,2,0,1,24,2,0,1,36,0,0,2,2,1,2,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Ruggero Frosinini,D,Catanzaro,17,5.8,0,0,0,0,0,0,0,4,0,0,0,12,0,1,0,2,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Riccardo Stivanello,D,Südtirol,90,5.5,0,0,0,0,0,0,0,52,2,0,0,57,0,0,0,0,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Vasco Lopes,M,Südtirol,90,7,0,0,0,0,2,0,0,25,1,0,0,45,2,3,0,9,3,3,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Federico Davi,D,Südtirol,45,6.2,0,0,0,0,0,0,0,6,0,0,0,11,0,0,0,0,1,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Simone Pafundi,M,Catanzaro,73,7.9,1,0,0,0,3,1,0,23,3,1,0,35,0,0,1,3,1,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Rareș Burnete,F,Südtirol,68,6.6,0,0,0,0,1,1,0,8,0,0,0,18,0,0,0,4,0,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Bruno Verrengia,D,Catanzaro,73,6.4,0,0,0,0,1,0,0,40,0,0,0,47,0,1,2,2,2,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Mehdi Dorval,M,Catanzaro,27,6,0,0,0,0,0,0,0,6,0,0,0,10,0,1,0,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Giacomo Stabile,D,Südtirol,90,6.4,0,0,0,0,0,0,0,51,0,0,0,56,0,0,0,1,2,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Ervin Bashi,D,Catanzaro,9,6.3,0,0,0,0,0,0,0,7,0,0,0,8,0,0,0,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Kenny Mixtur,F,Südtirol,22,7.6,1,0,0,0,2,1,0,2,0,0,0,7,0,0,0,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Catanzaro vs Südtirol,15/08/2026,Gabriel Arditi,F,Catanzaro,9,7.2,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,1,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Gianluca Caprari,F,Padova,70,6.3,0,0,0,0,0,0,0,27,0,0,0,39,0,1,0,3,3,2,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Jesper Karlström,M,Udinese,73,7.1,0,0,0,0,0,0,0,38,1,0,0,44,0,0,1,2,1,2,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Francesco Di Mariano,F,Padova,27,6.7,0,0,0,0,0,0,0,7,0,0,0,7,0,0,0,0,0,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Mattia Bortolussi,F,Padova,45,6.5,0,0,0,0,3,0,0,5,0,0,0,13,0,0,0,2,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Hassane Kamara,M,Udinese,83,6.9,0,0,0,0,0,0,0,31,0,0,0,48,0,0,0,2,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Kevin Lasagna,F,Padova,45,6.3,0,0,0,0,0,0,0,10,1,0,0,15,0,0,0,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Mërgim Vojvoda,D,Udinese,90,8.3,0,0,0,0,0,0,0,66,1,0,0,91,1,3,0,6,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Jakub Piotrowski,M,Udinese,90,6.7,0,0,0,0,1,0,0,49,1,0,0,63,0,1,2,2,2,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Filippo Sgarbi,D,Padova,80,6.9,0,0,0,0,0,0,0,60,0,0,0,70,0,1,1,3,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Keinan Davis,F,Udinese,63,7.2,1,0,0,0,2,1,0,19,0,0,1,27,1,0,0,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Lorenzo Carissoni,M,Padova,90,6.5,0,0,0,0,0,0,0,39,0,0,0,50,0,1,0,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Luca Zanimacchia,M,Padova,90,6.7,0,0,0,0,0,0,0,46,1,0,0,68,0,2,1,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Nicolò Zaniolo,F,Udinese,63,6.4,0,0,0,0,4,1,0,16,1,0,1,35,0,0,0,3,2,3,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Marco Pompetti,M,Padova,63,6.6,0,0,0,0,0,0,0,29,2,0,0,35,0,1,0,2,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Maduka Okoye,G,Udinese,90,6.8,0,0,0,0,0,0,0,28,0,0,0,32,0,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Oumar Solet,D,Udinese,90,8.1,0,1,0,0,2,0,0,60,2,0,0,77,0,3,1,4,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Jürgen Ekkelenkamp,M,Udinese,83,6.6,0,0,0,0,1,0,0,29,1,1,0,34,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Pietro Fusi,M,Padova,90,6.8,0,0,0,0,2,0,0,39,0,0,0,58,1,7,0,10,4,1,0,0,2,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Emanuele Zuelli,M,Padova,90,7.2,0,0,0,0,1,0,0,65,0,0,0,73,0,2,0,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Matteo Lovato,D,Padova,27,6.9,0,0,0,0,0,0,0,38,0,0,0,43,0,0,1,0,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Christian Pastina,D,Padova,63,6.8,0,0,0,0,1,0,0,52,0,0,0,60,0,1,2,4,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Alessandro Sorrentino,G,Padova,90,6.9,0,0,0,0,0,0,0,38,0,0,0,45,0,0,0,0,0,0,0,0,0,1
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Kevin Varas,M,Padova,20,6.7,0,0,0,0,0,0,0,9,1,0,0,12,1,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,James Abankwah,D,Udinese,90,7.1,0,0,0,0,0,0,0,45,0,0,0,52,0,0,1,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Adam Buksa,F,Udinese,27,6.5,0,0,0,0,0,0,0,3,0,0,0,6,0,0,0,2,2,1,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Alessandro Dellavalle,D,Padova,90,7,0,0,0,0,1,0,0,72,2,0,0,92,0,2,1,4,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Lennon Miller,M,Udinese,17,6.8,0,0,0,0,0,0,0,12,0,0,0,14,0,0,0,0,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Unai Gómez,M,Udinese,13,6.5,0,0,0,0,0,0,0,6,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Matteo Cocchi,M,Padova,10,6.9,0,0,0,0,0,0,0,8,1,0,0,11,0,0,1,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Juan Arizala,M,Udinese,13,6.6,0,0,0,0,0,0,0,7,1,0,0,11,0,0,0,0,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Matteo Palma,D,Udinese,90,7.7,0,0,0,0,0,0,0,70,0,0,0,81,0,2,2,5,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Padova,15/08/2026,Idrissa Gueye,F,Udinese,27,7,0,0,0,0,0,0,0,14,1,0,0,19,0,1,0,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Leandro Chichizola,G,Modena,90,7.8,0,0,0,0,0,0,0,42,0,0,0,57,0,0,0,1,0,1,0,0,0,6
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Gastón Brugman,M,Modena,68,6.9,0,0,0,0,0,0,0,25,1,0,0,38,3,1,0,5,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Francesco Zampano,M,Modena,90,6.4,0,0,0,0,1,0,0,32,0,0,0,52,0,2,0,4,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Ridgeciano Haps,M,Venezia,58,6.7,0,0,0,0,0,0,0,22,2,0,0,37,1,2,2,3,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Thierry Correia,D,Venezia,32,6.8,0,0,0,0,0,0,0,15,0,0,0,21,0,1,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Kike Pérez,M,Venezia,74,6.7,0,0,0,0,4,2,1,62,3,0,0,78,1,0,1,2,3,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,John Yeboah,F,Venezia,89,7.6,1,0,0,0,5,1,0,37,2,0,0,50,0,0,0,2,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Gianluca Busio,M,Venezia,90,7.7,0,0,0,0,3,3,0,66,2,0,0,93,1,3,1,5,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Simone Santoro,M,Modena,90,6.5,0,0,0,0,0,0,0,29,2,0,0,39,0,2,0,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Pedro Mendes,F,Modena,16,6.5,0,0,0,0,1,0,0,8,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Simon Sohm,M,Venezia,58,6.6,0,0,0,0,1,0,0,28,1,0,0,38,1,1,1,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Akor Adams,F,Venezia,90,9.3,2,1,0,0,6,3,0,14,2,1,1,23,0,0,0,0,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Giuseppe Caso,M,Modena,74,6.5,0,1,0,0,1,0,0,19,2,1,0,21,0,0,0,0,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Simone Panada,M,Venezia,32,7.2,0,0,0,0,0,0,0,24,2,1,0,29,1,1,1,4,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Armel Bella-Kotchap,D,Venezia,90,6.2,0,0,0,0,1,1,0,52,0,0,0,62,0,3,3,5,2,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Filip Stanković,G,Venezia,90,6.9,0,0,0,0,0,0,0,50,0,0,0,62,0,0,0,0,0,0,0,0,0,2
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Daniel Tonoli,D,Modena,90,6,0,0,0,0,1,0,0,23,0,0,0,41,0,2,1,4,1,0,1,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Giacomo Olzer,F,Modena,90,6.4,0,0,0,0,3,2,1,28,0,0,1,41,0,0,1,2,2,2,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Stênio Zanetti,M,Modena,16,6.4,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Daniele Montevago,F,Modena,9,6.4,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Alessandro Bianco,M,Modena,22,6.6,0,0,0,0,1,0,0,14,1,0,0,17,0,0,0,1,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Albion Rrahmani,F,Venezia,16,6.6,0,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Steven Nador,D,Modena,90,7.3,0,0,0,0,0,0,0,28,0,0,0,41,0,1,1,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Redouane Halhal,D,Venezia,90,6.3,0,0,0,0,1,0,0,65,0,0,0,75,0,0,2,1,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Giuseppe Ambrosino,F,Modena,74,8.7,2,0,0,0,3,2,0,13,1,0,0,26,0,0,0,3,1,2,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Richie Sagrado,M,Venezia,16,6.5,0,0,0,0,1,0,0,4,0,0,0,8,0,0,0,0,1,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Bryant Nieling,D,Modena,90,6.5,0,0,0,0,0,0,0,34,1,1,0,43,0,3,2,4,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Joel Schingtienne,D,Venezia,90,6.3,0,0,0,0,0,0,0,27,0,0,0,34,1,2,3,3,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Antoine Hainaut,M,Venezia,74,6.6,0,0,0,0,1,0,0,32,1,0,0,50,0,0,2,3,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Lamine Fanne,M,Venezia,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Venezia vs Modena,15/08/2026,Antonio Imputato,M,Modena,86,6.7,0,1,0,0,0,0,0,14,1,1,0,22,0,0,0,2,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Cristiano Biraghi,D,Torino,1,,0,0,0,0,1,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Mattia Finotto,F,Carrarese,8,6.4,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Giovanni Simeone,F,Torino,78,7.4,1,0,0,0,5,2,1,16,0,0,0,36,0,2,0,6,0,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Nikola Vlašić,M,Torino,90,7,0,0,0,0,1,0,0,58,3,0,0,69,0,1,1,2,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Niccolò Belloni,M,Carrarese,90,6.7,0,0,0,0,0,0,0,27,1,0,0,40,0,1,0,4,3,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Eray Cömert,D,Torino,89,6.7,0,0,0,0,0,0,0,90,0,0,0,98,0,1,1,1,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Sandro Kulenović,F,Torino,12,6.5,0,0,0,0,0,0,0,2,0,0,0,5,0,1,0,2,2,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Ardian Ismajli,D,Torino,22,6.9,0,0,0,0,0,0,0,35,0,0,0,38,0,0,0,2,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Zakaria Aboukhlal,F,Torino,22,6.5,0,0,0,0,0,0,0,9,0,0,0,17,1,1,1,3,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Filippo Oliana,D,Carrarese,81,6,0,0,0,0,0,0,0,28,0,0,0,34,0,2,0,2,3,0,2,1,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Marcus Pedersen,M,Torino,68,6.9,0,0,0,0,0,0,0,27,1,0,0,37,0,0,1,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Giovanni Garofani,G,Carrarese,90,6.9,0,0,0,0,0,0,0,17,0,0,0,27,0,0,0,0,0,0,0,0,0,2
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Kian Fitz-Jim,M,Torino,89,7.7,0,0,0,0,0,0,0,109,0,0,0,127,1,3,2,4,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Cesare Casadei,M,Torino,90,6.1,0,0,0,0,2,1,0,41,0,0,2,56,1,0,0,4,3,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Gvidas Gineitis,M,Torino,90,7.2,0,0,0,0,1,0,0,46,2,1,0,60,0,5,0,7,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Fabio Abiuso,F,Carrarese,64,6.8,0,0,0,0,1,0,0,9,0,0,0,18,0,2,0,5,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Jonas Rouhi,D,Carrarese,64,6.9,0,0,0,0,0,0,0,22,3,2,0,27,0,0,0,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Saúl Coco,D,Torino,90,7.6,0,0,0,0,0,0,0,148,0,0,0,163,0,1,1,3,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Giacomo Marconi,F,Carrarese,26,6.5,0,0,0,0,0,0,0,6,0,0,0,8,0,0,0,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Tommaso Guercio,D,Carrarese,26,7.2,0,0,0,0,0,0,0,6,1,0,0,13,0,1,1,4,0,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Lorenzo Romani,D,Carrarese,90,6.9,0,0,0,0,0,0,0,40,1,0,0,55,0,2,1,4,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Fabio Ruggeri,D,Carrarese,90,7,0,0,0,0,0,0,0,33,0,0,0,48,0,4,3,6,3,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Moustapha Cissé,F,Carrarese,82,6.3,0,0,0,0,2,1,0,13,1,0,1,24,0,1,0,2,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Gabriele Parlanti,M,Carrarese,76,7,0,0,0,0,1,1,0,24,0,0,1,34,0,0,1,6,0,4,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Pietro Comuzzo,D,Torino,68,7.2,0,0,0,0,0,0,0,106,0,0,0,112,0,0,2,2,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Diego Mascardi,G,Torino,90,7.3,0,0,0,0,0,0,0,22,0,0,0,31,0,0,0,0,0,0,0,0,0,3
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Tommaso Rubino,F,Carrarese,76,6.4,0,0,0,0,3,1,0,22,0,0,0,34,0,1,1,1,0,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Yanis Khafi,M,Carrarese,90,6.2,0,0,0,0,1,0,0,24,0,0,0,36,0,2,0,2,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Alessio Cacciamani,M,Torino,90,7.2,0,0,0,0,1,0,0,20,2,1,0,36,1,0,1,4,2,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Pietro Pinelli,M,Carrarese,14,7.1,0,0,0,0,0,0,0,4,0,0,0,8,0,3,0,4,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Andrea Luongo,M,Torino,1,,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Carrarese,15/08/2026,Giulio Baroncelli,M,Carrarese,14,6.5,0,0,0,0,0,0,0,3,0,0,0,8,0,1,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Kevin Akpoguma,D,Frosinone,67,6.5,0,0,0,0,0,0,0,27,0,0,0,35,0,2,1,2,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Romano Schmid,M,Frosinone,56,7.1,0,0,0,0,0,0,0,27,4,1,0,33,0,1,0,1,1,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Leonardo Candellone,F,Juve Stabia,77,7.4,1,0,0,0,3,2,0,12,1,0,0,25,1,0,0,3,3,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Giacomo Calò,M,Frosinone,77,7.4,0,0,0,0,4,1,0,60,2,1,1,75,0,2,0,4,2,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Alessio Zerbin,M,Frosinone,45,7.3,0,0,0,0,2,1,0,11,1,1,0,19,2,1,0,3,0,0,0,0,2,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Davide Buglio,M,Juve Stabia,90,6.4,0,0,0,0,1,0,0,28,3,0,0,39,0,1,2,2,2,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Kevin Piscopo,M,Juve Stabia,67,6,0,0,0,0,3,1,0,15,0,0,0,25,0,0,0,0,1,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Marco Bellich,D,Juve Stabia,90,6.2,0,0,0,0,0,0,0,72,0,0,0,81,0,1,1,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Ilias Koutsoupias,M,Frosinone,34,7.2,0,0,0,0,0,0,0,17,1,0,0,21,0,1,1,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Thomas Battistella,M,Juve Stabia,67,6.8,0,0,0,0,3,1,0,16,0,0,0,34,1,0,0,7,0,6,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Patrizio Masini,M,Frosinone,23,6.6,0,0,0,0,1,0,0,11,0,0,0,16,0,1,0,2,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Terrence Douglas,D,Juve Stabia,13,7.5,0,0,0,0,0,0,0,4,0,0,0,14,1,0,0,4,0,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Manuel Ricciardi,M,Juve Stabia,90,6.2,0,0,0,0,2,0,0,36,2,0,0,58,3,1,1,7,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Pietro Boer,G,Juve Stabia,90,6,0,0,0,0,0,0,0,47,0,0,0,58,0,0,0,0,0,0,0,0,0,2
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Ilario Monterisi,D,Frosinone,90,6,0,0,0,0,2,0,2,33,0,0,1,47,0,1,1,2,4,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Christian Pierobon,M,Juve Stabia,90,6.8,0,0,0,0,1,1,0,31,1,0,0,52,3,1,2,8,0,4,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Anouar El Azzouzi,M,Frosinone,13,6.5,0,0,0,0,0,0,0,12,0,0,0,14,0,0,0,0,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Luigi Caccavo,F,Juve Stabia,13,6.6,0,0,0,0,0,0,0,2,0,0,0,5,0,1,0,2,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Tommaso Maggioni,D,Juve Stabia,11,6.7,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Anthony Oyono,D,Frosinone,90,6.8,0,0,0,0,1,0,0,50,1,0,0,72,1,2,0,5,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Antonio Raimondo,F,Frosinone,90,7.6,1,1,0,0,3,1,1,15,2,1,1,28,0,2,0,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Matteo Baldi,D,Juve Stabia,90,5.7,0,0,0,0,1,0,0,44,0,0,0,55,0,1,1,2,1,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Lorenzo Palmisani,G,Frosinone,90,7.9,0,0,0,0,0,0,0,24,0,0,0,41,0,1,0,2,0,1,0,0,0,6
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Justin Kumi,M,Juve Stabia,23,6.5,0,0,0,0,0,0,0,13,2,0,0,16,1,0,1,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Giorgi Kvernadze,F,Frosinone,90,9,2,1,0,0,2,2,0,27,4,1,0,40,0,1,0,2,3,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Nicola Patanè,M,Juve Stabia,85,6.9,0,1,0,0,1,1,0,20,2,0,0,32,0,0,0,0,0,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Gabriele Bracaglia,D,Frosinone,23,6.7,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Gabriele Calvani,D,Frosinone,90,7,0,0,0,0,2,0,0,57,0,0,0,71,1,0,1,8,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Farès Ghedjemis,F,Frosinone,45,7.2,0,1,0,0,2,0,0,27,2,1,0,31,0,0,0,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Giulio Scuderi,D,Juve Stabia,77,5.4,0,0,0,0,1,0,0,36,0,0,0,53,0,0,0,1,2,1,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Matteo Cichella,M,Frosinone,67,7.9,1,0,0,0,3,2,0,32,0,0,1,38,0,1,0,1,4,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Frosinone vs Juve Stabia,16/08/2026,Saná Fernandes,F,Juve Stabia,22,6.5,0,0,0,0,1,1,0,3,0,0,0,10,1,0,0,2,1,0,0,1,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Gennaro Acampora,M,Ascoli,33,6.4,0,0,0,0,1,0,0,16,0,0,0,21,0,0,0,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Justin Bijlow,G,Genoa,90,6.1,0,0,0,0,0,0,0,30,0,0,0,33,0,0,0,0,0,0,0,0,0,1
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Marcos Curado,D,Ascoli,90,6.4,0,0,0,0,0,0,0,94,0,0,0,102,0,1,0,4,1,1,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Djibril Sow,M,Genoa,45,6.5,0,0,0,0,0,0,0,13,1,0,0,21,0,0,2,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Gabriele Gori,F,Ascoli,57,6.6,0,0,0,0,0,0,0,12,0,0,0,20,0,1,0,4,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Samuele Damiani,M,Ascoli,75,6.9,0,0,0,0,0,0,0,53,0,0,0,58,0,0,0,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Don Bolsius,M,Ascoli,9,6.6,0,0,0,0,2,0,0,5,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Leo Østigård,D,Genoa,45,6.5,0,0,0,0,0,0,0,19,0,0,0,21,0,0,2,2,1,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Johan Vásquez,D,Genoa,90,6.4,0,0,0,0,0,0,0,38,0,0,0,46,0,1,1,2,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Abdoul Guiebre,D,Ascoli,90,5.5,0,0,0,0,1,0,0,37,1,0,0,57,0,3,2,4,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Morten Frendrup,M,Genoa,90,7.4,0,1,0,0,0,0,0,38,2,1,0,48,0,3,3,3,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Lorenzo Colombo,F,Genoa,66,7.2,1,0,0,0,3,2,0,22,0,0,1,41,0,2,1,4,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Mikael Ellertsson,M,Genoa,78,6.5,0,0,0,0,2,1,0,22,1,0,0,38,0,1,1,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Andrea Silipo,M,Ascoli,90,7.1,1,0,0,0,1,1,0,30,2,0,0,56,3,0,0,4,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Nicholas Rizzo,D,Ascoli,90,6.2,0,0,0,0,0,0,0,69,1,0,0,88,1,3,5,6,4,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Giovanni Corradini,M,Ascoli,57,7.3,0,0,0,0,0,0,0,27,0,0,0,34,1,3,0,4,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Tommaso Milanese,M,Ascoli,75,6.2,0,0,0,0,0,0,0,52,0,0,0,66,0,1,1,2,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Mario Mitaj,D,Genoa,45,7.2,0,1,0,0,2,1,0,18,2,1,0,35,0,2,0,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Tommaso Baldanzi,M,Genoa,78,8.1,1,0,0,0,7,2,0,41,3,0,0,58,0,1,1,4,2,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Amine Chakir,F,Ascoli,33,6.2,0,0,0,0,0,0,0,11,0,0,0,12,0,0,0,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Samuele Vitale,G,Ascoli,90,6.8,0,0,0,0,0,0,0,45,0,0,0,55,0,0,0,0,0,0,0,0,0,5
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Andrea Oliveri,M,Ascoli,15,6.6,0,0,0,0,2,1,0,15,0,0,0,21,1,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Alessandro Marcandalli,D,Genoa,90,8.2,1,0,0,0,1,1,0,25,1,0,0,38,1,4,0,7,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Brooke Norton-Cuffy,M,Genoa,90,7.3,0,1,0,0,2,1,0,26,1,0,0,50,1,2,0,4,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Vitinha,F,Genoa,90,6.8,0,0,0,0,4,1,0,18,1,0,0,37,1,2,1,4,2,1,0,0,2,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Elias Havel,F,Genoa,24,7.7,1,0,0,0,2,1,0,4,0,0,1,11,2,0,0,3,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Simone D'Uffizi,M,Ascoli,81,6.2,0,1,0,0,2,0,0,26,1,0,0,36,0,0,1,0,0,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,David Puczka,D,Genoa,12,6.9,0,0,0,0,0,0,0,3,0,0,0,8,0,1,1,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Sebastian Otoa,D,Genoa,45,6.5,0,0,0,0,0,0,0,18,0,0,0,19,1,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Sergiu Perciun,M,Ascoli,90,6.3,0,0,0,0,0,0,0,41,2,0,0,53,1,2,0,4,2,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Samuel Wiafe,M,Genoa,12,7.3,0,1,0,0,1,0,0,4,2,1,0,9,0,1,0,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Genoa vs Ascoli,16/08/2026,Antonio Russo,M,Ascoli,15,6.4,0,0,0,0,0,0,0,20,0,0,0,21,0,0,1,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Nicola Leali,G,Hellas Verona,90,7.5,0,0,0,0,0,0,0,34,0,0,0,42,0,0,0,1,0,0,0,0,0,2
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Francesco Forte,F,Virtus Entella,78,6.9,0,0,0,0,3,1,0,16,0,0,0,28,0,1,0,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Andrea Tiritiello,D,Virtus Entella,90,6.4,0,0,0,0,1,0,0,57,0,0,0,71,0,4,3,5,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Luca Parodi,D,Virtus Entella,78,6.5,0,0,0,0,1,0,0,36,0,0,0,48,0,0,2,2,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Grigoris Kastanos,M,Hellas Verona,90,8,0,0,0,0,1,0,0,65,0,0,0,81,1,4,2,10,2,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Antoine Bernede,M,Hellas Verona,90,5.6,0,0,0,0,2,0,0,36,0,0,0,54,0,0,2,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Francesco Mezzoni,M,Virtus Entella,90,6.5,0,0,0,0,1,0,0,28,1,0,0,50,0,1,0,5,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Federico Del Frate,G,Virtus Entella,90,7.6,0,0,0,0,0,0,0,29,0,0,0,38,0,0,0,0,0,0,0,0,0,2
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Leonardo Benedetti,M,Virtus Entella,32,6.4,0,0,0,0,0,0,0,10,0,0,0,15,0,1,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Domagoj Bradarić,M,Hellas Verona,81,7,0,1,0,0,0,0,0,35,3,0,0,59,0,3,1,5,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Andrias Edmundsson,D,Hellas Verona,90,7,0,0,0,0,0,0,0,73,0,0,0,85,0,1,4,3,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Abdou Harroui,M,Hellas Verona,65,7.1,0,0,0,0,3,1,0,27,3,0,0,39,1,0,1,3,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Mattia Alborghetti,D,Virtus Entella,90,5.9,0,0,0,0,1,0,0,40,0,0,0,56,0,2,3,3,5,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Samuele Mulattieri,F,Hellas Verona,25,6.9,0,0,0,0,0,0,0,5,0,0,0,9,0,1,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Lucas Felippe,M,Virtus Entella,31,7.3,0,0,0,0,0,0,0,16,0,0,0,22,0,2,0,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Andrea Franzoni,M,Virtus Entella,90,8.1,1,1,0,0,2,1,0,23,1,1,0,42,0,1,1,2,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Mattia Compagnon,M,Hellas Verona,87,8.2,1,0,0,0,2,1,0,15,1,0,0,31,1,1,0,7,1,5,0,0,2,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Mattia Tirelli,F,Virtus Entella,19,6.1,0,0,0,0,1,0,0,1,0,0,0,8,1,0,0,1,0,0,0,0,2,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Niccolò Squizzato,M,Virtus Entella,59,6.4,0,0,0,0,1,0,0,47,0,0,0,53,0,1,0,1,1,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Bernat Guiu,F,Virtus Entella,90,7.1,1,0,0,0,3,2,0,19,1,0,0,43,3,2,0,6,3,1,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Daniel Oyegoke,M,Hellas Verona,90,5.9,0,0,0,0,0,0,0,50,0,0,0,74,0,0,0,2,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Amin Sarr,F,Hellas Verona,65,8.2,1,0,0,0,3,2,1,9,1,0,0,22,2,0,1,7,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Kacper Sezonienko,M,Hellas Verona,25,7,0,0,0,0,0,0,0,8,0,0,0,15,1,3,0,6,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Tobias Slotsager,D,Hellas Verona,90,6.8,0,0,0,0,1,0,0,66,0,0,0,82,0,2,2,5,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Giacomo Corona,F,Virtus Entella,12,5.9,0,0,0,0,0,0,0,2,0,0,0,5,0,1,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Dailon Rocha Livramento,F,Hellas Verona,65,5.9,0,0,0,0,2,0,0,10,1,0,0,21,0,0,1,0,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Leorat Bega,M,Hellas Verona,25,6.7,0,0,0,0,1,0,0,16,1,0,0,20,0,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Stefano Di Mario,M,Virtus Entella,71,6.8,0,0,0,0,0,0,0,38,1,0,0,53,1,4,0,9,1,2,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Nicolas Previtali,D,Virtus Entella,12,6.8,0,0,0,0,0,0,0,8,0,0,0,13,0,1,0,1,1,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Tommaso Annoni,M,Virtus Entella,58,6.5,0,0,0,0,0,0,0,8,1,0,0,22,1,4,1,7,2,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Salvatore Cerbone,M,Hellas Verona,8,6.4,0,0,0,0,0,0,0,3,1,0,0,12,0,1,0,2,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Hellas Verona vs Virtus Entella,16/08/2026,Noe Mael Tagne,D,Hellas Verona,9,6.3,0,0,0,0,0,0,0,3,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Francesco Bardi,G,Mantova,90,7.1,0,0,0,0,0,0,0,31,0,0,0,39,0,0,0,0,1,0,0,0,0,3
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Adam Marušić,D,Lazio,90,7.2,0,0,0,0,0,0,0,49,3,2,0,63,0,0,1,3,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Mattia Zaccagni,F,Lazio,90,6.6,0,0,0,0,1,0,0,44,4,1,1,68,2,0,1,5,1,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Ettore Gliozzi,F,Mantova,90,6.6,0,0,0,0,2,1,0,16,1,0,0,26,0,0,0,8,0,3,0,0,3,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Alfonso Pedraza,D,Lazio,64,6.8,0,0,0,0,0,0,0,26,1,0,0,36,1,0,2,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Luca Pellegrini,D,Lazio,26,6.4,0,0,0,0,0,0,0,21,2,0,0,37,0,0,0,0,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Danilho Doekhi,D,Lazio,90,6.3,0,0,0,0,1,0,0,68,1,0,0,71,0,0,0,6,3,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Davide Frattesi,M,Lazio,19,6.5,0,0,0,0,0,0,0,6,0,0,0,8,0,1,0,2,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Andrea Meroni,D,Mantova,34,6.8,0,0,0,0,0,0,0,11,0,0,0,19,0,0,1,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Fisayo Dele-Bashiru,M,Lazio,71,7,0,0,0,0,3,1,1,33,2,0,0,41,0,0,0,2,1,1,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Christos Mandas,G,Lazio,90,6.8,0,0,0,0,0,0,0,43,0,0,0,54,0,0,0,0,0,0,0,0,0,5
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Nicolò Rovella,M,Lazio,79,6.9,0,0,0,0,1,0,0,95,0,0,0,103,2,1,1,3,2,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Kenneth Taylor,M,Lazio,90,6.9,0,0,0,0,4,1,0,72,0,0,0,82,0,1,0,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Boulaye Dia,F,Lazio,71,6.5,0,0,0,0,1,1,0,27,0,0,0,36,0,0,1,2,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Stefano Cella,D,Mantova,90,6.8,0,0,0,0,0,0,0,28,0,0,0,36,0,0,1,0,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Simone Trimboli,M,Mantova,90,7,0,0,0,0,0,0,0,25,1,0,0,35,0,1,1,4,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Jean Pierre Longonda,M,Mantova,16,6.4,0,0,0,0,0,0,0,3,0,0,0,7,0,0,0,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Matteo Cancellieri,F,Lazio,79,5.7,0,0,0,0,7,0,0,21,0,0,3,45,0,2,1,4,2,2,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,David Wieser,M,Mantova,13,6.8,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Tijjani Noslin,F,Lazio,11,7.2,0,0,0,0,2,0,0,13,1,1,0,18,0,1,0,4,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Francesco Ruocco,F,Mantova,90,7.4,1,0,0,0,4,3,0,15,0,0,0,34,0,1,1,3,1,2,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Rareș Ilie,M,Mantova,56,6.7,0,0,0,0,1,1,0,15,2,0,0,21,0,0,0,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Davide Bragantini,F,Mantova,34,7.9,0,2,0,0,0,0,0,12,2,2,0,22,0,2,1,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Petar Ratkov,F,Lazio,19,6.5,0,0,0,0,0,0,0,5,1,0,0,7,0,1,0,1,1,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Lorenzo Ignacchiti,M,Mantova,74,6.7,0,0,0,0,0,0,0,18,2,0,0,25,1,2,0,3,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Oliver Provstgaard,D,Lazio,90,6.3,0,0,0,0,1,0,0,100,3,0,0,107,0,0,1,3,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Reda Belahyane,M,Lazio,11,6.6,0,0,0,0,0,0,0,13,0,0,0,15,1,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Bodin Tomašević,D,Mantova,56,6.7,0,0,0,0,0,0,0,14,0,0,0,21,0,1,0,1,3,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Jonathan Silva,M,Mantova,56,6.6,0,0,0,0,1,0,0,16,0,0,0,25,0,1,1,2,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Alessio Castellini,D,Mantova,90,7.4,0,0,0,0,1,0,0,48,1,0,0,70,0,1,3,5,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Fahem Benaissa-Yahia,M,Mantova,85,6.8,0,0,0,0,2,1,0,19,0,0,0,46,0,1,4,3,2,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Lazio vs Mantova,16/08/2026,Ismael Cajazzo,M,Mantova,34,8.3,1,0,0,0,1,1,0,6,0,0,0,19,0,2,1,3,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Simone Romagnoli,D,Empoli,13,7.1,0,0,0,0,0,0,0,5,0,0,0,5,0,0,0,0,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Antonio Caracciolo,D,Pisa,90,7,0,0,0,0,0,0,0,63,0,0,0,76,0,3,1,8,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Stefano Moreo,F,Pisa,69,6.8,0,0,0,0,0,0,0,20,1,0,0,31,0,1,0,3,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Salvatore Monaco,F,Empoli,59,7.4,0,0,0,0,2,2,0,5,0,0,1,20,1,2,0,7,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Cristian Cauz,D,Empoli,21,6.6,0,0,0,0,0,0,0,8,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Adrian Šemper,G,Pisa,90,7.8,0,0,0,0,0,0,0,39,0,0,0,45,0,0,0,0,0,0,0,0,0,2
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Joseph Ceesay,M,Empoli,77,5.9,0,0,0,0,1,0,0,16,0,0,0,35,0,1,0,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Mehdi Léris,M,Pisa,90,7.2,0,1,0,0,0,0,0,57,1,0,0,98,1,4,0,8,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Luca Magnino,M,Empoli,90,5.7,0,0,0,0,0,0,0,43,0,0,0,54,1,0,2,1,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Matteo Tramoni,F,Pisa,75,7.2,0,0,0,0,3,2,0,18,1,0,0,30,1,1,0,3,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Marco Curto,D,Empoli,90,6.4,0,0,0,0,1,0,0,42,0,0,0,56,0,3,0,4,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Simone Canestrelli,D,Pisa,90,6.3,0,0,0,0,0,0,0,66,0,0,0,74,0,1,2,5,3,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Giuseppe Leone,M,Pisa,89,6.8,0,0,0,0,1,0,0,50,1,0,0,58,1,1,0,5,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Simone Zanon,M,Pisa,90,6.9,0,0,0,0,1,0,0,43,0,0,0,75,0,3,1,9,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Gabriele Piccinini,M,Pisa,69,6.4,0,0,0,0,1,1,1,33,1,0,0,35,0,0,0,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Tomás Esteves,F,Pisa,21,6.7,0,0,0,0,1,0,0,17,1,0,0,22,0,0,0,1,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Edoardo Saporiti,F,Empoli,90,7.3,1,0,0,0,3,1,0,22,1,0,0,48,0,5,0,6,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Filippo Distefano,F,Empoli,68,6.1,0,0,0,0,0,0,0,8,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Gerard Yepes,M,Empoli,90,6.6,0,0,0,0,1,0,0,33,1,0,0,44,2,2,0,6,1,1,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Gabriele Indragoli,D,Empoli,31,6.7,0,0,0,0,0,0,0,6,0,0,0,19,0,0,0,0,2,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Felipe Loyola,M,Pisa,21,7,0,0,0,0,1,0,0,9,0,0,0,12,0,0,1,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Stiven Shpendi,F,Empoli,45,7.2,0,0,0,0,0,0,0,5,0,0,0,11,2,0,0,4,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Tommaso Marras,F,Pisa,90,9.4,1,0,0,0,2,1,0,17,1,0,0,37,1,3,0,6,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Henrik Wendel Meister,F,Pisa,21,6.9,0,0,0,0,1,0,0,6,1,0,0,11,0,0,0,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Isak Vural,M,Pisa,69,6.3,0,0,0,0,2,1,0,21,0,0,1,34,2,0,0,5,1,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Jacopo Seghetti,G,Empoli,90,7.7,0,0,0,0,0,0,0,45,0,0,0,57,0,0,0,0,0,0,0,0,0,4
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Emanuele Rao,F,Pisa,15,7,0,0,0,0,0,0,0,7,0,0,0,17,1,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Ichem Ferrah,M,Pisa,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Lorenzo Tosto,D,Empoli,69,6.3,0,0,0,0,0,0,0,36,0,0,0,44,0,3,0,3,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Bogdan Popov,F,Empoli,22,6.9,0,0,0,0,0,0,0,5,0,0,0,5,0,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Matteo Egan,M,Empoli,90,6.4,0,0,0,0,0,0,0,18,0,0,0,27,0,3,0,3,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Pisa vs Empoli,17/08/2026,Edoardo Biondini,M,Empoli,45,6.4,0,0,0,0,0,0,0,17,1,0,0,23,0,1,0,4,3,2,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Nemanja Matić,M,Sassuolo,66,6.9,0,0,0,0,0,0,0,39,0,0,0,41,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Dimitri Bisoli,M,Cesena,90,6.6,0,0,0,0,1,0,0,22,2,0,0,32,0,2,2,3,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Massimiliano Mangraviti,D,Cesena,90,6.5,0,0,0,0,0,0,0,74,0,0,0,80,0,1,0,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Arijanet Murić,G,Sassuolo,90,8.7,0,0,0,0,0,0,0,50,0,0,0,61,0,0,0,0,0,0,0,0,0,5
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Andrea Ciofi,D,Cesena,90,6.4,0,0,0,0,1,1,0,32,2,0,0,56,1,0,1,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Matteo Piacentini,D,Cesena,6,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Andrea Ghion,M,Sassuolo,24,6.7,0,0,0,0,0,0,0,20,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Armand Laurienté,F,Sassuolo,90,7.9,0,0,0,0,5,1,0,45,5,0,0,64,3,0,1,3,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Alessandro Siano,G,Cesena,90,6.7,0,0,0,0,0,0,0,40,0,0,0,50,0,0,0,0,0,0,0,0,0,5
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Kieron Bowie,F,Sassuolo,66,6.2,0,0,0,0,3,2,0,13,1,0,0,24,0,1,0,2,2,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Josh Doig,D,Sassuolo,90,7.6,0,1,0,0,0,0,0,45,1,1,0,71,0,2,1,4,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Cas Odenthal,D,Sassuolo,90,7.1,0,0,0,0,2,0,0,68,0,0,0,77,0,1,1,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Luca Schirone,M,Cesena,22,6.2,0,0,0,0,0,0,0,14,0,0,0,15,0,0,0,0,1,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Antonio Fiori,F,Cesena,45,6.4,0,0,0,0,2,1,0,13,0,0,0,23,0,0,1,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Riccardo Pagano,M,Cesena,68,6.9,0,0,0,0,1,1,0,26,1,0,0,31,0,1,0,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Filippo Missori,M,Sassuolo,8,6.8,0,0,0,0,0,0,0,3,0,0,0,8,0,1,0,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Cristian Shpendi,F,Cesena,83,6,0,0,0,0,0,0,0,13,1,0,0,23,0,1,0,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Vasilije Adžić,M,Sassuolo,72,7.9,1,0,0,0,2,1,0,36,1,0,0,42,1,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Luca Lipani,M,Sassuolo,18,7.6,1,0,0,0,1,1,0,13,0,0,0,17,0,0,2,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Cristian Volpato,F,Sassuolo,90,8.2,1,0,0,0,1,1,0,30,5,0,0,47,0,2,2,4,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Benjamín Domínguez,M,Sassuolo,24,6.8,0,0,0,0,0,0,0,15,0,0,0,20,2,0,1,4,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Mihajlo Ilić,D,Cesena,84,6.3,0,0,0,0,0,0,0,55,0,0,0,68,0,0,2,3,2,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Matteo Francesconi,M,Cesena,22,6.4,0,0,0,0,0,0,0,6,0,0,0,7,0,1,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Matteo Guidi,M,Cesena,68,6.1,0,0,0,0,2,0,0,19,0,0,0,26,0,0,0,1,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Simone Cinquegrano,D,Sassuolo,82,7,0,1,0,0,1,0,0,33,1,0,0,51,0,1,0,4,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Maat Daniel Caprini,F,Cesena,45,6.8,0,0,0,0,0,0,0,12,0,0,0,20,0,2,1,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Antonio David,M,Cesena,90,6.2,0,0,0,0,0,0,0,33,1,0,0,66,0,5,5,6,3,1,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Alessandro Debenedetti,F,Cesena,10,6.5,0,0,0,0,1,1,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Alessandro Di Bitonto,D,Sassuolo,8,6.5,0,0,0,0,0,0,0,13,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Darryl Bakola,M,Sassuolo,90,7.8,0,1,0,0,3,2,0,44,4,1,0,64,2,5,1,12,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Tommaso Macchioni,D,Sassuolo,82,7.1,0,0,0,0,0,0,0,50,0,0,0,56,0,2,0,3,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Cesena,17/08/2026,Xavello Druiventak,M,Cesena,90,6.5,0,0,0,0,1,1,0,14,0,0,0,29,0,4,0,4,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Matteo Bianchetti,D,Cremonese,90,7,0,0,0,0,0,0,0,93,0,0,0,99,0,0,1,1,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Gennaro Tutino,F,Sampdoria,29,6.7,0,0,0,0,1,1,0,5,0,0,0,8,0,0,0,1,1,1,0,0,2,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Federico Bonazzoli,F,Cremonese,62,6.5,0,0,0,0,1,0,0,26,0,0,0,33,0,0,0,2,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Liam Henderson,M,Sampdoria,90,6,0,0,0,0,1,0,0,32,1,0,0,42,0,0,2,1,3,1,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Andrea Fulignati,G,Cremonese,90,8.3,0,0,0,0,0,0,0,45,0,0,0,54,0,0,0,0,0,0,0,0,0,3
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Jari Vandeputte,M,Cremonese,90,7,0,0,0,0,1,0,0,41,1,0,0,51,0,1,1,1,1,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Alex Ferrari,D,Sampdoria,10,6.2,0,0,0,0,0,0,0,8,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Alessandro Bellemo,M,Sampdoria,90,6.8,0,0,0,0,0,0,0,26,0,0,0,36,0,2,0,5,2,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Sebastiano Luperto,D,Cremonese,90,6.9,0,0,0,0,0,0,0,76,0,0,0,78,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Fabio Gerli,M,Cremonese,90,6.9,0,0,0,0,0,0,0,67,0,0,0,70,0,0,0,2,2,2,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Simone Pontisso,M,Cremonese,82,7.2,0,0,0,0,1,0,0,60,1,0,0,65,0,0,0,2,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Tobias Lauritsen,F,Sampdoria,61,6.8,0,0,0,0,0,0,0,7,0,0,0,9,0,0,0,5,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Stefan Gartenmann,D,Sampdoria,90,6.9,0,0,0,0,0,0,0,82,0,0,0,91,0,0,1,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Manuel Cicconi,M,Sampdoria,90,6.6,0,0,0,0,0,0,0,43,0,0,0,60,0,3,0,5,0,2,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Alessandro Vogliacco,D,Cremonese,62,6.8,0,0,0,0,0,0,0,35,0,0,0,46,0,1,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Peter Vindahl,G,Sampdoria,90,6.9,0,0,0,0,0,0,0,46,0,0,0,52,0,0,0,1,0,0,0,0,0,1
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Giuseppe Pezzella,M,Cremonese,90,6.7,0,0,0,0,0,0,0,34,1,0,0,54,0,1,2,4,3,2,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Michele Collocolo,M,Cremonese,82,6.5,0,1,0,0,0,0,0,18,1,1,0,30,0,0,1,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Manuel De Luca,F,Cremonese,36,6.2,0,0,0,0,1,1,0,5,0,0,0,10,0,0,0,0,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Danel Sinani,F,Sampdoria,85,6.5,0,0,0,0,1,0,0,26,0,0,0,37,1,0,0,2,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Alessandro Di Pardo,M,Sampdoria,90,6.3,0,0,0,0,0,0,0,50,0,0,0,68,1,0,2,4,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Salvatore Esposito,M,Sampdoria,90,6.2,0,0,0,0,2,1,0,76,0,0,1,92,1,1,2,5,1,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Mattia Viti,D,Sampdoria,85,7,0,0,0,0,0,0,0,71,0,0,0,80,0,1,1,4,0,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Bjorn Meijer,D,Sampdoria,29,6.3,0,0,0,0,0,0,0,19,0,0,0,24,0,1,0,3,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Marco Nasti,F,Cremonese,8,6.4,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0,0,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Tommaso Berti,M,Cremonese,28,7.8,1,0,0,0,1,1,0,11,1,0,0,12,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Dachi Lordkipanidze,M,Cremonese,8,6.6,0,0,0,0,0,0,0,6,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Francesco Folino,D,Cremonese,28,6.8,0,0,0,0,0,0,0,10,0,0,0,16,0,1,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,David Stückler,F,Cremonese,54,7.2,1,0,0,0,2,1,0,3,0,0,0,6,0,0,0,0,4,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Giuseppe Forte,M,Sampdoria,61,6.5,0,0,0,0,1,1,0,9,0,0,0,16,0,1,0,1,0,0,0,0,2,0
+Coppa Italia,Coppa_Italia_26_27,Cremonese vs Sampdoria,17/08/2026,Lorenzo Paratici,F,Sampdoria,10,6.4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Jesse Joronen,G,Palermo,5,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Joel Pohjanpalo,F,Palermo,45,7.2,1,0,0,0,2,1,0,9,1,0,0,17,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Hernani,M,Palermo,45,7,0,0,0,0,0,0,0,18,0,0,0,26,1,0,0,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Wladimiro Falcone,G,Lecce,90,6.2,0,0,0,0,0,0,0,21,0,0,0,25,0,0,0,0,0,0,0,0,0,3
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Pietro Ceccaroni,D,Palermo,90,7.5,0,0,0,0,1,1,0,56,0,0,0,74,0,2,0,5,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Antonio Palumbo,F,Palermo,45,6.4,0,0,0,0,0,0,0,12,0,0,0,18,0,2,0,3,3,1,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Tommaso Augello,M,Palermo,90,7.6,0,0,0,0,0,0,0,43,3,0,0,76,1,3,3,5,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Lassana Coulibaly,M,Lecce,88,6.8,0,0,0,0,1,0,0,26,2,1,0,40,2,2,0,5,2,1,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Jacopo Segre,M,Palermo,90,6.7,0,0,0,0,2,1,0,34,1,0,0,43,1,0,0,2,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Youssef Maleh,M,Lecce,45,6.6,0,0,0,0,0,0,0,26,0,0,0,31,0,1,0,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Dennis Johnsen,F,Palermo,62,7.1,0,1,0,0,2,1,0,18,2,0,0,36,3,2,0,6,0,1,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Gabriel Strefezza,F,Palermo,28,6.9,0,0,0,0,2,0,0,6,0,0,1,16,0,3,0,4,2,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Willem Geubbels,F,Lecce,84,5.9,0,0,0,0,7,2,0,12,3,0,4,24,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Nahuel Estévez,M,Palermo,13,6.8,0,0,0,0,0,0,0,7,0,0,0,12,0,3,0,4,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Filippo Ranocchia,M,Palermo,77,7.4,0,0,0,0,1,0,0,40,1,0,0,56,1,2,0,3,3,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Antonino Gallo,D,Lecce,90,6.4,0,0,0,0,0,0,0,24,4,1,0,46,0,0,2,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Niccolò Pierozzi,M,Palermo,90,7.1,0,0,0,0,1,0,0,12,0,0,0,36,0,1,0,5,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,N'Dri Konan,F,Lecce,90,6.9,0,0,0,0,3,1,0,19,2,0,0,50,0,2,0,7,1,4,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Santiago Pierotti,F,Lecce,74,6.4,0,0,0,0,1,0,0,31,1,1,0,45,1,0,0,1,0,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Danilo Veiga,D,Lecce,90,6.4,0,0,0,0,1,0,0,53,0,0,0,86,0,2,2,4,0,1,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Nikola Štulić,F,Lecce,45,6.7,0,0,0,0,3,0,0,15,1,1,1,22,0,1,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Jérémy Le Douaron,F,Palermo,45,6.5,0,0,0,0,0,0,0,8,0,0,0,21,2,0,0,5,0,1,0,0,2,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Patryk Peda,D,Palermo,90,9.6,0,1,0,0,0,0,0,32,1,1,0,45,0,1,2,6,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Kialonda Gaspar,D,Lecce,90,6.6,0,0,0,0,0,0,0,68,0,0,0,84,1,4,1,8,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Mohamed Kaba,M,Lecce,8,6.8,0,0,0,0,0,0,0,5,0,0,0,8,1,0,0,2,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Mattia Fortin,G,Palermo,85,8.7,0,0,0,0,0,0,0,51,0,0,0,56,0,0,0,0,0,0,0,0,0,3
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Oumar Ngom,M,Lecce,74,6.5,0,0,0,0,0,0,0,37,0,0,0,52,1,1,0,4,3,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Dominic Vavassori,F,Palermo,90,7.5,1,0,0,0,1,1,0,13,0,0,0,21,1,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Olaf Gorter,M,Lecce,16,6.8,0,0,0,0,0,0,0,8,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Paco Esteban,F,Lecce,12,6.3,0,0,0,0,0,0,0,4,0,0,0,7,0,0,1,2,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Tiago Gabriel,D,Lecce,90,6.6,0,0,0,0,1,0,0,60,0,0,0,77,0,0,3,7,0,2,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Lecce,17/08/2026,Hjalte Lærke,M,Lecce,16,7.1,0,0,0,0,1,1,0,4,1,0,0,10,0,0,1,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Milan Đurić,F,Cremonese,10,6.8,0,0,0,0,0,0,0,7,0,0,0,11,1,1,0,3,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Matteo Bianchetti,D,Cremonese,12,6.8,0,0,0,0,0,0,0,3,0,0,0,8,0,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Alberto Grassi,M,Cremonese,90,7.5,0,0,0,0,0,0,0,55,0,0,0,66,0,1,3,2,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Jari Vandeputte,M,Cremonese,45,6.9,0,0,0,0,1,1,0,22,1,1,0,34,3,2,2,5,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Sebastiano Luperto,D,Cremonese,45,6.8,0,0,0,0,0,0,0,18,0,0,0,34,0,1,0,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Simone Pontisso,M,Cremonese,90,7.2,0,0,0,0,2,0,0,81,2,0,0,94,0,4,1,5,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Alessandro Vogliacco,D,Cremonese,78,6.6,0,0,0,0,1,1,0,35,0,0,1,46,0,0,4,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Manuel De Luca,F,Cremonese,20,6,0,0,0,0,1,0,0,4,0,0,2,10,0,0,0,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Pontus Almqvist,F,Parma,27,6.9,0,0,0,0,1,0,0,13,0,0,0,24,0,0,0,2,0,2,0,0,2,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Emanuele Valeri,M,Parma,12,6.7,0,0,0,0,0,0,0,5,1,0,0,18,0,0,1,0,0,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Salvatore Elia,M,Cremonese,45,6.7,0,0,0,0,1,0,0,14,0,0,0,20,1,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Lautaro Valenti,D,Parma,90,6,0,0,0,0,1,0,0,93,0,0,0,105,0,1,2,2,2,1,1,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,El Bilal Touré,M,Parma,45,6.4,0,0,0,0,1,0,0,18,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Yuri Rocchetti,D,Cremonese,45,6.8,0,0,0,0,0,0,0,14,0,0,0,31,0,2,1,3,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Giovanni Fabbian,M,Parma,90,6.3,0,0,0,0,1,1,0,23,1,0,0,32,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Franco Carboni,M,Parma,78,6.1,0,0,0,0,0,0,0,34,0,0,0,57,1,0,1,2,0,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Matija Frigan,F,Parma,63,6.6,0,0,0,0,2,0,0,12,1,1,0,26,0,0,1,1,1,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Giovanni Daffara,G,Parma,90,6.8,0,0,0,0,0,0,0,18,0,0,0,28,0,0,0,0,0,0,0,0,0,4
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Marco Nasti,F,Cremonese,70,6.8,0,1,0,0,1,0,0,15,1,1,0,28,0,1,0,3,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Mandela Keita,M,Parma,45,7.7,0,0,0,0,0,0,0,34,2,0,0,52,1,4,4,8,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Federico Agazzi,G,Cremonese,90,7.2,0,0,0,0,0,0,0,46,0,0,0,63,0,0,0,3,0,1,0,0,0,2
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,David Romero,F,Parma,45,6.2,0,0,0,0,2,0,0,5,0,0,0,14,0,0,0,1,1,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Tommaso Berti,M,Cremonese,85,7.1,0,1,0,0,0,0,0,42,6,2,0,47,0,0,0,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Christian Ordoñez,M,Parma,90,6.9,0,0,0,0,0,0,0,51,1,0,0,68,0,3,1,4,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Nesta Elphege,F,Parma,45,6.5,0,0,0,0,1,1,0,9,0,0,1,10,0,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Adin Ličina,F,Cremonese,90,8.4,1,0,0,0,5,3,0,33,2,1,0,53,2,1,1,3,2,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Abdou-Salam Konate,M,Parma,45,6.4,0,0,0,0,0,0,0,28,0,0,0,33,0,0,1,0,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Ousmane Diallo,F,Parma,45,6.6,0,0,0,0,0,0,0,6,0,0,0,14,0,0,1,1,1,1,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Dominik Drobnic ,D,Parma,90,6.3,0,0,0,0,0,0,0,64,0,0,0,74,0,1,1,4,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Simone Lottici Tessadri,M,Cremonese,90,7.5,1,0,0,0,1,1,0,50,0,0,0,60,2,0,1,3,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Fellipe Jack,D,Cremonese,90,7.4,0,0,0,0,0,0,0,61,0,0,0,71,0,1,1,3,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Parma vs Cremonese,01/09/2026,Sascha Britschgi,D,Parma,90,6.4,0,0,0,0,0,0,0,46,0,0,0,70,0,2,0,2,1,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Duván Zapata,F,Torino,34,6.2,0,0,0,0,2,0,0,6,0,0,1,12,0,0,0,2,3,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Giovanni Simeone,F,Torino,90,6.3,0,0,0,0,3,0,0,19,1,0,0,32,0,0,0,3,2,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Nikola Vlašić,M,Torino,34,7,0,0,0,0,0,0,0,24,3,0,0,36,1,1,0,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Che Adams,F,Torino,11,6.5,0,0,0,0,0,0,0,5,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Patrick Cutrone,F,Monza,20,6.5,0,0,0,0,2,2,0,8,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Sandro Kulenović,F,Torino,56,6.2,0,0,0,0,1,0,0,14,1,0,0,19,0,0,0,4,2,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Idrissa Touré,M,Monza,9,6.6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Dany Mota,F,Monza,70,7.1,1,0,0,0,3,1,1,16,1,0,1,27,0,0,0,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Ardian Ismajli,D,Torino,79,7.1,0,0,0,0,0,0,0,61,1,0,0,76,0,2,3,4,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Samuele Birindelli,M,Monza,14,6.5,0,0,0,0,1,1,0,5,0,0,0,10,0,0,0,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Zakaria Aboukhlal,F,Torino,26,6.8,0,0,0,0,0,0,0,15,0,0,0,32,1,1,1,5,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Demba Thiam,G,Monza,90,6.5,0,0,0,0,0,0,0,34,0,0,0,44,0,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Michael Folorunsho,M,Monza,90,7.3,0,0,0,0,1,0,0,39,0,0,0,57,1,0,0,6,1,3,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Lucas Perri,G,Torino,90,7.8,0,0,0,0,0,0,0,41,0,0,0,57,0,0,0,0,0,0,0,0,0,7
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Ricardo Mangas,D,Monza,90,7.6,0,0,0,0,4,2,0,25,3,1,1,59,0,2,0,4,2,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Tino Anjorin,M,Torino,26,7.3,0,0,0,0,1,0,0,24,0,0,0,28,0,1,0,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Andrea Colpani,F,Monza,20,6.5,0,0,0,0,1,1,0,6,1,0,0,10,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Gaetano Oristanio,M,Torino,56,5.9,0,0,0,0,1,0,1,8,0,0,1,21,1,0,1,1,5,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Lorenzo Lucchesi,D,Monza,90,7.4,0,0,0,0,0,0,0,41,0,0,0,67,0,0,8,8,2,3,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Gvidas Gineitis,M,Torino,90,6.7,0,0,0,0,2,0,0,24,1,0,0,44,0,2,0,4,4,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Saúl Coco,D,Torino,90,7.1,0,0,0,0,1,0,0,34,1,0,0,55,0,1,2,5,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Omari Forson,F,Monza,70,6.6,0,0,0,0,1,0,0,24,3,0,0,43,0,0,0,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Pietro Comuzzo,D,Torino,90,6.9,0,0,0,0,1,0,0,56,0,0,0,72,1,2,2,4,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Adam Bakoune,D,Monza,90,7.2,0,0,0,0,1,0,0,29,2,0,0,69,1,6,1,8,4,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Jay Robinson,F,Monza,76,7.8,0,0,0,0,2,0,1,18,2,1,0,47,4,4,0,11,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Yvan Maye,D,Monza,76,7.2,0,0,0,0,2,1,0,25,0,0,0,46,0,3,0,10,0,5,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Jan Ziółkowski,D,Monza,14,6.7,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Ebenezer Akinsanmiro,M,Monza,89,6.9,0,0,0,0,1,0,0,32,1,0,0,48,3,2,1,5,0,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Eddy Kouadio,D,Monza,90,7.4,0,0,0,0,0,0,0,27,0,0,0,39,0,4,1,4,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Niccolò Fortini,D,Torino,90,6.7,0,0,0,0,0,0,0,21,1,0,0,56,0,3,0,6,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Alessio Cacciamani,M,Torino,64,6.7,0,0,0,0,2,0,0,14,2,0,0,40,0,2,0,6,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Torino vs Monza,01/09/2026,Andrea Luongo,M,Torino,64,6.8,0,0,0,0,2,0,0,16,1,0,0,28,1,4,0,5,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Florian Grillitsch,M,Frosinone,45,7,0,0,0,0,0,0,0,32,1,0,0,38,0,2,0,3,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Kevin Akpoguma,D,Frosinone,62,6.9,0,0,0,0,1,0,0,30,0,0,0,43,0,5,0,8,3,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Domenico Berardi,F,Sassuolo,35,7.2,0,0,0,0,0,0,0,8,0,0,0,18,0,1,0,4,2,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Alessio Zerbin,M,Frosinone,90,6.4,0,0,0,0,2,0,0,28,2,0,1,43,1,3,0,5,4,1,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Aleksa Terzić,D,Frosinone,62,7.8,1,0,0,0,1,1,0,27,1,1,0,40,0,1,1,3,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Stefano Turati,G,Sassuolo,90,8.5,0,0,0,0,0,0,0,44,2,1,0,64,0,0,0,1,0,0,1,0,0,6
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Tomáš Bobček,F,Frosinone,27,6.6,0,0,0,0,2,1,0,5,1,1,0,7,0,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Kristian Thorstvedt,M,Sassuolo,90,7.2,0,0,0,0,2,0,0,32,1,1,0,51,2,0,0,4,2,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Andrea Ghion,M,Sassuolo,90,6.7,0,0,0,0,0,0,0,38,0,0,0,49,0,2,1,3,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Armand Laurienté,F,Sassuolo,35,7.1,0,0,0,0,0,0,0,12,0,0,0,24,2,1,0,4,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Sebastiano Esposito,F,Sassuolo,25,6.9,0,0,0,0,0,0,0,2,0,0,0,7,1,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Daniel Bîrligea,F,Frosinone,63,6.2,0,0,0,0,3,2,0,7,0,0,1,14,0,0,0,0,0,0,0,0,2,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Patrizio Masini,M,Frosinone,10,6.4,0,0,0,0,0,0,0,8,0,0,0,9,0,0,0,0,2,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Kieron Bowie,F,Sassuolo,80,6.5,0,0,0,0,1,0,0,16,0,0,1,38,1,0,0,7,0,5,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Ignace Van der Brempt,D,Sassuolo,35,7.1,0,0,0,0,0,0,0,11,0,0,0,18,0,1,0,4,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Cas Odenthal,D,Sassuolo,90,6.9,0,0,0,0,0,0,0,44,0,0,0,55,1,1,0,3,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Giorgio Cittadini,D,Frosinone,28,7.1,0,0,0,0,0,0,0,16,0,0,0,22,0,3,0,3,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Anouar El Azzouzi,M,Frosinone,80,6.7,0,0,0,0,3,1,0,44,1,1,2,62,1,3,0,5,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Sebastiano Desplanches,G,Frosinone,90,7.1,0,0,0,0,0,0,0,27,0,0,0,45,0,0,0,0,0,0,0,0,0,2
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Luis Hasa,M,Frosinone,90,6.6,0,1,0,0,1,1,0,40,5,0,0,72,1,0,0,6,1,5,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Fedde Leysen,D,Sassuolo,90,6.9,0,0,0,0,0,0,0,48,0,0,0,56,0,2,0,3,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Enzo Tchato Mbiayi,D,Frosinone,90,6.3,0,0,0,0,0,0,0,24,0,0,0,40,0,2,1,2,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Wisdom Amey,D,Frosinone,90,6,0,0,0,0,0,0,0,31,0,0,0,50,0,2,6,3,3,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Rafael Obrador,M,Sassuolo,55,6.3,0,0,0,0,0,0,0,8,0,0,0,21,1,0,0,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Luca Lipani,M,Sassuolo,65,7.1,0,0,0,0,0,0,0,20,0,0,0,34,1,7,0,8,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Cristian Volpato,F,Sassuolo,55,7.3,0,0,0,0,0,0,0,19,2,1,0,35,3,0,0,4,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Benjamín Domínguez,M,Sassuolo,55,7.5,1,0,0,0,3,2,0,14,1,0,1,26,2,1,0,4,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Seydou Fini,F,Frosinone,90,7.5,0,0,0,0,1,0,0,28,2,2,1,52,6,0,0,11,0,4,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Omar Fayed,D,Frosinone,28,7.2,0,0,0,0,0,0,0,12,0,0,0,19,0,0,2,1,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Simone Cinquegrano,D,Sassuolo,90,7.4,0,0,0,0,1,1,0,25,0,0,1,48,1,4,2,8,4,3,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Matteo Cichella,M,Frosinone,45,6.5,0,0,0,0,1,1,0,14,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Sassuolo vs Frosinone,02/09/2026,Darryl Bakola,M,Sassuolo,10,7.5,0,0,0,0,0,0,0,4,0,0,0,10,0,1,0,4,0,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Christian Kabasele,D,Udinese,85,6.3,0,0,0,0,1,0,0,14,0,0,0,28,0,2,3,3,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Jesper Karlström,M,Udinese,90,6.8,0,0,0,0,2,1,0,40,2,0,1,52,1,0,2,1,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Ridgeciano Haps,M,Venezia,18,6.7,0,0,0,0,1,0,0,26,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Lorenzo Montipò,G,Venezia,90,6.9,0,0,0,0,0,0,0,58,0,0,0,70,0,0,0,0,0,0,0,0,0,6
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Hassane Kamara,M,Udinese,18,7,0,0,0,0,0,0,0,6,2,0,0,8,0,0,0,0,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Vakoun Issouf Bayo,F,Udinese,90,8.7,2,0,0,0,3,2,0,18,1,0,0,31,0,2,0,5,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Mërgim Vojvoda,D,Udinese,72,7.3,0,1,0,0,1,0,0,31,1,1,0,48,0,4,0,4,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Keinan Davis,F,Udinese,60,7.4,0,1,0,0,2,1,0,14,2,2,0,16,0,0,0,2,2,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Enzo Ebosse,D,Udinese,10,6.7,0,0,0,0,0,0,0,6,0,0,0,7,0,0,0,0,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Thierry Correia,D,Venezia,90,7.3,0,0,0,0,1,0,0,32,4,2,0,58,0,1,1,5,1,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Lion Lauberbach,F,Venezia,82,6.1,0,0,0,0,3,2,0,7,0,0,1,30,0,1,0,3,0,1,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Þórir Jóhann Helgason,M,Venezia,71,5.9,0,0,0,0,0,0,0,30,0,0,0,35,0,0,0,1,3,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Bartosz Mrozek,G,Udinese,90,7.2,0,0,0,0,0,0,0,31,0,0,0,37,0,0,0,0,0,0,0,0,0,3
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Oumar Solet,D,Udinese,90,7.1,0,0,0,0,0,0,0,44,1,0,0,57,0,5,1,7,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Simon Sohm,M,Venezia,90,6.8,0,0,0,0,1,1,0,41,1,0,0,50,0,1,0,3,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Akor Adams,F,Venezia,8,6.5,0,0,0,0,1,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Simone Panada,M,Venezia,8,6.6,0,0,0,0,0,0,0,16,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Armel Bella-Kotchap,D,Venezia,90,7,0,0,0,0,0,0,0,92,0,0,0,108,0,0,1,6,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Oier Zarraga,M,Udinese,18,6.9,0,0,0,0,1,1,0,7,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Albion Rrahmani,F,Venezia,74,6.8,0,0,0,0,2,0,0,19,0,0,1,32,0,0,2,2,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,James Abankwah,D,Udinese,45,6.9,0,0,0,0,0,0,0,13,0,0,0,20,0,1,3,2,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Nicolò Bertola,D,Udinese,45,6.2,0,0,0,0,0,0,0,15,0,0,0,24,0,0,1,0,1,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Matteo Dagasso,M,Venezia,82,7.2,0,0,0,0,1,0,0,81,0,0,0,91,0,1,3,2,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Redouane Halhal,D,Venezia,90,6.2,0,0,0,0,0,0,0,96,2,0,0,119,0,0,4,2,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Lennon Miller,M,Udinese,90,6.9,0,0,0,0,1,1,0,25,1,0,0,37,0,2,1,6,4,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Richie Sagrado,M,Venezia,90,7.4,1,0,0,0,1,1,0,24,0,0,0,35,0,2,0,4,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Unai Gómez,M,Udinese,72,6.7,0,0,0,0,2,2,0,14,0,0,0,29,0,2,0,4,2,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Lamine Fanne,M,Venezia,19,6.4,0,0,0,0,0,0,0,10,0,0,0,13,0,0,1,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Juan Arizala,M,Udinese,90,7.1,0,0,0,0,1,0,0,21,3,0,0,40,0,2,1,4,2,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Kornel Lisman,M,Venezia,16,6.3,0,0,0,0,0,0,0,7,0,0,0,11,0,0,0,1,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Idrissa Gueye,F,Udinese,30,6.1,0,0,0,0,2,0,0,9,0,0,0,15,0,0,0,2,0,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Udinese vs Venezia,02/09/2026,Ale Gomes,D,Venezia,72,6.4,0,0,0,0,0,0,0,40,0,0,0,56,1,2,4,6,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Francesco Bardi,G,Mantova,90,5.6,0,0,0,0,0,0,0,23,0,0,0,37,0,0,0,0,0,0,0,0,0,4
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Joel Pohjanpalo,F,Palermo,29,8.8,2,0,0,0,2,2,0,10,0,0,0,15,0,0,0,3,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Hernani,M,Palermo,29,6.6,0,0,0,0,2,0,1,9,0,0,0,18,0,1,2,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Federico Barba,D,Palermo,90,7,0,0,0,0,0,0,0,40,0,0,0,48,0,1,0,3,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Ettore Gliozzi,F,Mantova,60,6.6,0,0,0,0,3,1,0,11,1,0,0,19,0,0,0,1,0,0,0,0,2,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Antonio Palumbo,F,Palermo,61,6.9,1,0,0,0,2,1,0,31,0,0,0,43,0,1,1,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Giangiacomo Magnani,D,Palermo,61,6.3,0,0,0,0,0,0,0,26,0,0,0,36,0,2,2,4,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Alessandro Gabrielloni,F,Palermo,61,6.4,0,0,0,0,0,0,0,14,0,0,0,23,0,1,0,7,1,2,1,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Jacopo Segre,M,Palermo,17,7.1,0,1,0,0,0,0,0,4,1,1,0,10,2,1,0,3,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Claudio Gomes,M,Palermo,73,6.9,0,1,0,0,1,1,0,15,3,0,0,22,1,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Dennis Johnsen,F,Palermo,45,8.9,1,1,0,0,1,1,0,15,2,1,0,29,0,2,0,3,0,1,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Gabriel Strefezza,F,Palermo,45,7.6,1,0,0,0,2,1,0,6,1,0,0,15,0,1,0,3,1,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Nahuel Estévez,M,Palermo,90,6.5,0,0,0,0,1,1,0,47,1,1,0,63,0,3,1,3,4,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Tommaso Cassandro,D,Palermo,90,6.7,0,0,0,0,0,0,0,21,0,0,0,47,1,6,0,10,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Stefano Cella,D,Mantova,90,5.9,0,0,0,0,1,1,0,51,0,0,1,68,0,3,2,7,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Simone Trimboli,M,Mantova,14,5.8,0,0,0,0,0,0,0,7,0,0,0,10,0,0,1,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Rachid Kouda,M,Mantova,76,7.7,1,0,0,0,1,1,0,50,1,0,0,61,1,1,0,5,0,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Patryk Peda,D,Palermo,29,7,0,0,0,0,0,0,0,6,0,0,0,14,0,1,1,4,0,2,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Francesco Ruocco,F,Mantova,45,6.8,1,0,0,0,1,1,0,20,1,0,0,31,0,1,0,2,2,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Vanja Vlahović,F,Mantova,30,6.4,0,0,0,0,0,0,0,5,0,0,0,6,0,0,0,0,2,0,0,0,2,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Rareș Ilie,M,Mantova,90,6.6,0,1,0,0,1,0,0,21,2,0,0,50,4,2,1,8,2,2,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Lorenzo Ignacchiti,M,Mantova,90,6.7,0,0,0,0,1,1,0,49,0,0,0,65,1,3,1,5,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Andrea Bozzolan,M,Palermo,90,6.8,0,0,0,0,0,0,0,27,1,0,0,59,2,5,1,9,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Mattia Fortin,G,Palermo,90,7.1,0,0,0,0,0,0,0,54,0,0,0,65,0,0,0,0,0,0,0,0,0,6
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Tommaso Del Lungo,D,Mantova,77,5.7,0,0,0,0,2,1,0,34,0,0,0,45,0,0,0,2,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Dominic Vavassori,F,Palermo,90,8,0,1,0,0,2,2,0,13,1,1,1,27,3,1,0,7,2,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Bodin Tomašević,D,Mantova,13,5.5,0,0,0,0,1,1,0,11,0,0,0,18,0,0,1,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Jonathan Silva,M,Mantova,45,6.6,0,0,0,0,0,0,0,23,0,0,0,37,0,5,2,5,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Alessio Castellini,D,Mantova,90,5.5,0,0,0,0,1,1,0,57,1,0,0,75,0,1,2,3,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Fahem Benaissa-Yahia,M,Mantova,90,6.6,0,0,0,0,0,0,0,49,0,0,0,74,2,3,1,7,3,1,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Federico Chinetti,F,Mantova,45,6.4,0,0,0,0,1,0,0,8,1,0,0,13,1,0,0,2,0,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Palermo vs Mantova,03/09/2026,Ismael Cajazzo,M,Mantova,45,6.1,0,0,0,0,0,0,0,21,1,0,0,29,0,0,0,0,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Simone Perilli,G,Hellas Verona,90,6.7,0,0,0,0,0,0,0,38,0,0,0,44,0,0,0,0,0,0,0,0,0,3
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Alessandro Deiola,M,Cagliari,12,6.5,0,0,0,0,1,0,0,11,0,0,0,12,0,0,0,1,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Harry Winks,M,Cagliari,84,6.8,0,0,0,0,0,0,0,56,0,0,0,62,0,0,0,1,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Grigoris Kastanos,M,Hellas Verona,58,6.6,0,0,0,0,2,0,0,53,1,0,0,57,0,0,0,0,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Boris Radunović,G,Cagliari,90,7,0,0,0,0,0,0,0,30,0,0,0,41,0,0,0,1,0,1,0,0,0,3
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Antoine Bernede,M,Hellas Verona,32,7.2,0,0,0,0,0,0,0,25,0,0,0,37,0,6,0,6,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Nunzio Lella,M,Hellas Verona,64,6.5,0,0,0,0,1,1,0,23,0,0,0,39,1,2,2,5,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Andrias Edmundsson,D,Hellas Verona,90,7.3,0,0,0,0,1,1,0,42,0,0,0,63,0,2,1,3,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Abdou Harroui,M,Hellas Verona,58,7.4,1,0,0,0,2,2,0,35,1,0,0,49,0,2,1,2,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Samuele Mulattieri,F,Hellas Verona,45,7.8,1,0,0,0,1,1,0,7,1,0,0,17,0,2,0,2,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Gabriele Zappa,D,Hellas Verona,22,6.7,0,0,0,0,0,0,0,5,0,0,0,11,0,0,0,1,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Michel Adopo,M,Cagliari,27,6.3,0,0,0,0,1,0,0,11,1,0,0,15,0,0,0,1,1,0,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Giuseppe Aurelio,M,Cagliari,45,6.3,0,0,0,0,0,0,0,36,0,0,0,46,0,0,0,0,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Adam Obert,D,Cagliari,45,6.5,0,0,0,0,0,0,0,61,0,0,0,74,0,0,0,2,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Daniel Maldini,F,Cagliari,27,6.5,0,0,0,0,0,0,0,21,0,0,0,37,1,1,0,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Mattia Felici,F,Cagliari,63,6.4,0,0,0,0,1,0,0,14,1,0,0,33,2,0,0,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Seid Korać,D,Hellas Verona,90,7.2,0,0,0,0,0,0,0,66,0,0,0,88,0,5,2,9,2,1,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Jacopo Fazzini,M,Cagliari,63,7.1,0,0,0,0,3,0,0,37,0,0,0,57,4,0,0,7,1,3,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Edoardo Iannoni,M,Hellas Verona,32,6.9,0,0,0,0,0,0,0,12,0,0,0,19,0,3,0,5,1,2,1,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Riccardo Ciervo,M,Cagliari,90,6.2,0,0,0,0,1,0,0,45,0,0,0,72,1,1,0,3,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Amin Sarr,F,Hellas Verona,45,6.8,0,0,0,0,1,0,0,12,2,0,0,18,1,0,0,2,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Alieu Fadera,F,Cagliari,90,6.9,0,1,0,0,0,0,0,37,3,1,0,64,1,2,2,7,2,4,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Kacper Sezonienko,M,Hellas Verona,90,6.1,0,0,0,0,1,0,0,16,1,0,0,25,0,1,1,3,2,1,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Dailon Rocha Livramento,F,Hellas Verona,90,6.7,0,0,0,0,0,0,0,22,0,0,0,34,1,2,0,5,1,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Raphael Kofler,D,Cagliari,90,6.8,0,0,0,0,1,1,0,100,1,0,0,110,0,1,0,5,0,1,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Alessandro Romano,M,Cagliari,45,6.8,0,0,0,0,1,1,0,34,0,0,0,48,1,2,0,3,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Nicolò Calabrese,D,Hellas Verona,90,6.7,0,0,0,0,0,0,0,32,1,0,0,57,1,2,0,4,2,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Juan Rodríguez,D,Cagliari,90,6.6,0,0,0,0,3,1,0,107,0,0,0,129,1,1,1,6,0,3,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Davide De Battisti,M,Hellas Verona,68,6.3,0,0,0,0,0,0,0,22,0,0,0,46,2,3,3,5,1,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Joseph Liteta,M,Cagliari,45,5.8,0,0,0,0,1,0,0,23,0,0,0,29,1,1,0,2,0,0,0,0,0,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Paul Mendy,F,Cagliari,90,7.1,1,0,0,0,1,1,0,16,0,0,0,27,0,0,0,1,1,0,0,0,1,0
+Coppa Italia,Coppa_Italia_26_27,Cagliari vs Hellas Verona,03/09/2026,Andrea Le Borgne,M,Hellas Verona,26,6.6,0,0,0,0,0,0,0,11,0,0,0,18,0,1,0,1,1,0,0,0,0,0

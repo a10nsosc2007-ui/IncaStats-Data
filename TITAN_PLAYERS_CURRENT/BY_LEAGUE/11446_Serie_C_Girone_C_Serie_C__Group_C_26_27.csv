@@ -1,0 +1,220 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Thiago Cionek,D,Cavese,90,6.3,0,0,0,0,0,0,0,57,0,0,0,79,0,0,3,2,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Giuseppe Fella,F,Cavese,43,6.1,0,0,0.25,0,2,0,0,26,0,0,0,34,0,0,0,3,2,1,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Guido Gómez,F,Bari,84,6.4,0,0,0.06,0,1,0,0,11,0,0,0,17,0,0,0,3,0,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Lukas Grgić,M,Bari,90,7.4,0,0,0,0.01,0,0,0,67,1,0,0,75,0,0,0,4,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Francesco Orlando,M,Cavese,90,7.2,0,0,0.43,0.43,5,1,0,53,5,0,0,79,3,0,1,10,2,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Karlo Butić,F,Bari,90,6.7,0,0,0.14,0.06,2,2,0,35,1,0,0,47,0,0,0,2,0,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Valerio Mantovani,D,Bari,90,8.4,1,0,0.09,0,1,1,0,52,0,0,0,67,0,0,3,6,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Gianluca Esposito,M,Cavese,55,6.8,0,0,0,0.05,0,0,0,32,1,0,0,42,0,0,3,3,2,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Theophilus Awua,M,Cavese,90,6.9,0,0,0.36,0,2,1,0,52,0,0,0,73,1,0,1,9,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Giulio Maggiore,M,Bari,84,7.6,1,0,0.19,0,1,1,0,39,0,0,0,46,0,0,1,3,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Michele Cerofolini,G,Bari,90,7.6,0,0,0,0,0,0,0,17,0,0,0,18,0,0,0,0,0,0,0,0,0,5
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Alessio Tribuzzi,M,Bari,67,6.8,0,0,0.05,0,1,0,0,26,0,0,0,42,1,0,0,5,2,3,0,0,1,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Ciro Loreto,D,Cavese,90,5.9,0,0,0.04,0,1,0,0,47,0,0,0,56,0,0,2,2,2,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Thomas Alberti,F,Cavese,78,6.7,0,0,0.01,0,1,0,0,13,0,0,0,22,0,0,0,8,0,3,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Manuel Peretti,D,Cavese,90,5.6,0,0,0,0,0,0,0,57,0,0,0,70,0,0,1,3,1,0,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Riccardo Burgio,D,Bari,84,6.5,0,0,0,0.01,0,0,0,38,1,0,0,53,1,0,0,4,0,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Ebrima Darboe,M,Bari,47,6.8,0,0,0,0,0,0,0,26,0,0,0,35,0,0,2,2,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Moussa Mane,M,Bari,90,7.2,0,0,0.01,0,1,0,0,34,0,0,0,50,1,0,1,10,0,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Valerio Boffelli,G,Cavese,90,5.6,0,0,0,0,0,0,0,28,0,0,0,37,0,0,0,0,0,0,0,0,0,2
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Niccolò Cocetta,D,Bari,14,6.5,0,0,0,0,0,0,0,4,0,0,0,7,0,0,1,0,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Mirko Elia,D,Bari,90,7.3,0,0,0,0,0,0,0,44,0,0,0,56,0,0,1,7,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Mattia Macchi,D,Cavese,90,5.7,0,0,0.22,0.15,2,1,0,39,1,0,0,54,0,0,2,5,2,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Filippo Faggi,M,Bari,14,6.9,0,1,0,0.09,0,0,0,3,1,0,0,8,0,0,1,4,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Leonardo Mendicino,M,Bari,51,6.9,0,0,0,0,0,0,0,14,0,0,0,20,0,0,0,4,0,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Samuele Sava,F,Cavese,90,5.9,0,0,0.22,0,4,1,0,21,0,0,0,37,1,0,0,5,2,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Vincenzo Colangiuli,M,Bari,14,7.7,1,0,0.09,0,1,1,0,3,0,0,0,6,0,0,1,1,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Gerardo Fusco,F,Cavese,90,5.9,0,0,0.58,0,2,1,0,15,0,0,1,30,0,0,1,6,2,0,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Mattia Esposito,M,Bari,31,6.8,0,1,0.25,0.19,1,0,0,7,1,0,0,13,0,0,0,2,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Bari vs Cavese,21/08/2026,Giammaria Fiorin,M,Cavese,20,6.6,0,0,0,0,0,0,0,12,0,0,0,16,0,0,1,3,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Francesco Di Tacchio,M,Catania,17,5.9,0,0,0,0,1,0,0,9,0,0,0,10,0,0,1,0,1,0,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Giuseppe Prestia,D,Inter U23,52,7.1,0,0,0,0,0,0,0,14,0,0,0,16,0,0,0,4,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Riccardo Melgrati,G,Inter U23,90,7,0,0,0,0,0,0,0,17,0,0,0,19,0,0,0,0,0,0,0,0,0,3
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Marco Perrotta,D,Catania,87,6.4,0,0,0,0,0,0,0,66,0,0,0,82,0,0,0,4,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Daniele Donnarumma,M,Catania,52,6.5,0,0,0,0,1,0,0,27,0,0,0,38,0,1,0,3,0,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Emanuele Cicerelli,M,Catania,90,7.3,0,1,0.02,0.34,1,0,0,36,2,0,0,74,6,0,0,13,1,4,0,0,1,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Luca Fiordilino,M,Inter U23,90,7,0,0,0.04,0,1,0,0,54,0,0,0,65,1,0,3,3,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Mario Ierardi,D,Catania,90,6.2,0,0,0,0,0,0,0,81,0,0,0,94,0,0,3,8,2,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Gabriel Lunetta,M,Catania,31,6.4,0,0,0.21,0,1,1,0,9,1,0,0,18,3,0,0,3,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Alessandro Raimo,D,Catania,52,6.8,0,0,0,0,0,0,0,38,0,0,0,46,1,0,1,3,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Alessandro Quaini,M,Catania,90,7.4,0,0,0,0,0,0,0,64,0,0,0,77,0,2,0,7,1,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Giovanni Bruzzaniti,M,Catania,52,5.9,0,0,0.01,0,1,1,0,15,0,0,0,26,0,0,1,1,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Andrea Corbari,M,Catania,52,6.4,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,1,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Gabriele Pagliai,D,Catania,90,6.3,0,0,0.12,0,1,0,0,45,0,0,0,60,0,0,2,6,1,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Iwo Kaczmarski,M,Inter U23,90,8.7,0,0,0.01,0.2,1,0,0,32,2,0,0,61,5,0,2,21,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Filippo Rinaldi,G,Catania,90,6.4,0,0,0,0,0,0,0,30,0,0,0,37,0,0,0,0,0,0,0,0,0,2
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Jan Żuberek,F,Inter U23,27,6.7,0,0,0.08,0,2,1,0,5,0,0,0,15,1,0,0,3,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Michael Liguori,F,Catania,73,6.9,0,0,0.27,0.23,1,0,0,22,1,0,0,32,0,0,1,4,0,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Simone Leonardi,F,Catania,52,6.5,0,0,0.23,0.27,1,0,0,7,1,0,0,18,0,0,0,1,0,0,0,0,1,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Flavio Russo,F,Catania,52,7.6,1,0,0.43,0.21,3,2,0,6,1,0,0,14,0,0,0,4,0,0,0,0,1,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Francesco Stante,D,Inter U23,90,6.8,0,0,0,0,0,0,0,23,0,0,0,34,0,0,0,4,1,0,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Richi Agbonifo,F,Inter U23,9,7.1,0,0,0.06,0.51,1,0,0,4,2,1,0,12,1,0,0,3,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Leonardo Bovo,M,Inter U23,27,6.8,0,0,0.16,0.01,1,0,0,13,1,0,0,17,0,0,0,2,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Yvan Maye,D,Inter U23,90,8,1,0,0.23,0,2,1,0,28,0,0,0,43,2,0,2,11,2,1,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Mattia Marello,D,Inter U23,90,6.5,0,1,0.08,0.29,1,1,0,25,2,0,0,31,1,0,0,3,1,0,0,0,1,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Mattia Mosconi,F,Inter U23,77,7.5,1,0,0.76,0.04,1,1,0,19,1,0,0,33,1,0,0,7,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Leon Jakirović,D,Inter U23,52,5.9,0,0,0.35,0,1,0,0,16,0,0,1,22,0,0,1,1,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Matteo Lavelli,F,Inter U23,90,6.5,0,0,0.29,0,3,0,0,22,0,0,0,42,1,0,2,6,2,3,0,0,1,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Gabriele Garonetti,D,Inter U23,27,6.8,0,0,0,0,0,0,0,5,0,0,0,10,0,0,1,1,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Gabriele Re Cecconi,D,Inter U23,77,6.2,0,0,0,0,0,0,0,17,0,0,0,23,1,1,1,4,5,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Kaleb Jiménez,M,Catania,90,6.2,0,0,0,0.16,0,0,0,42,1,0,0,55,0,0,0,5,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Catania vs Inter U23,23/08/2026,Matias Mancuso,M,Inter U23,77,6.4,0,0,0.2,0.1,2,0,0,23,2,0,0,38,0,0,0,3,2,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Walter Guerra,D,FC Crotone,17,7,0,0,0,0,0,0,0,7,0,0,0,10,2,0,0,2,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Giuseppe Panico,M,Foggia,65,5.6,0,0,0.1,0,1,0,0,14,0,0,0,26,1,0,0,5,1,0,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Davide Merelli,G,FC Crotone,90,6.3,0,0,0,0,0,0,0,30,0,0,0,35,0,0,0,0,0,0,0,0,0,2
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Davide Di Pasquale,D,Foggia,50,6.9,0,0,0,0,0,0,0,20,0,0,0,28,0,0,1,0,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Yanis Merdji,F,Foggia,38,6.3,0,0,0,0,0,0,0,6,0,0,0,9,0,0,0,0,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Nicolò Armini,D,FC Crotone,90,6.8,0,0,0.16,0,1,0,0,56,0,0,0,79,0,1,1,12,3,2,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Andrea Gallo,M,Foggia,90,6.8,0,0,0,0,0,0,0,29,0,0,0,49,0,1,2,11,3,4,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Antonino Musso,F,FC Crotone,90,6.4,0,0,0.58,0.01,6,3,0,17,1,0,0,35,0,0,0,7,2,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Zak Ruggiero,M,FC Crotone,77,7.4,0,0,0.22,0.46,2,0,0,42,4,0,0,66,1,0,0,6,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Gianluca Saro,G,Foggia,90,9.3,0,0,0,0,0,0,0,26,0,0,0,29,0,0,0,0,0,0,0,0,0,6
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Enrico Oviszach,M,Foggia,59,7.2,0,0,0,0.04,0,0,0,14,1,0,0,26,1,0,0,7,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Marco Zunno,M,FC Crotone,90,7.2,0,0,0.23,0.2,3,1,0,21,2,0,0,43,3,1,0,9,1,3,0,0,2,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Mattia Tordini,F,FC Crotone,26,6.6,0,0,0.14,0.15,2,0,0,10,1,0,0,17,1,0,0,2,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Gianmarco Todisco,D,Foggia,90,6.5,0,0,0.04,0,1,1,0,18,0,0,0,37,0,0,2,3,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Hamza Haoudi,M,Foggia,90,7.5,0,1,0.09,0.48,2,0,0,37,3,0,0,64,0,0,4,8,2,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Francesco Pio Petito,M,Foggia,59,7.2,1,0,0.17,0,1,1,0,11,0,0,0,17,0,0,0,1,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Pierluca Luciani,F,Foggia,90,5.7,0,0,0.33,0,3,1,0,14,0,0,0,34,0,0,1,6,5,4,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Gregorio Tanco,D,FC Crotone,77,6.7,0,0,0.2,0,2,0,0,37,0,0,0,46,0,0,0,3,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Timurs Azarovs,D,Foggia,11,6.8,0,0,0,0,0,0,0,3,0,0,0,4,0,1,1,3,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Angelo Veltri,D,FC Crotone,90,6.5,0,0,0.13,0,4,0,0,49,0,0,0,71,1,0,1,7,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Francesco Crapisto,M,FC Crotone,90,6.9,0,0,0.09,0,1,1,0,60,0,0,0,84,1,0,0,6,2,4,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Filippo Groppelli,D,FC Crotone,86,7.1,0,0,0,0.17,0,0,0,44,4,0,0,52,0,0,1,5,0,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Mohamed Seck,D,Foggia,90,6.9,0,0,0,0,0,0,0,36,0,0,0,45,0,0,1,6,2,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,William Feola,D,FC Crotone,26,6.9,0,0,0,0.09,0,0,0,14,1,0,0,17,0,0,1,1,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Arthur Spadoni,F,FC Crotone,65,6.3,0,0,0.15,0.41,1,0,0,16,2,0,0,28,2,0,0,5,2,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Michele Bigonzoni,F,Foggia,43,6.6,0,0,0.04,0.09,1,0,0,9,1,0,0,14,0,0,0,4,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Isyakha Toure,F,Foggia,43,6.9,0,0,0.04,0.11,3,0,0,12,1,0,0,25,0,1,0,5,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Andrea Smeraldi,M,Foggia,90,6.7,0,0,0,0,0,0,0,20,0,0,0,30,0,0,3,5,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Pedro Rodríguez,M,FC Crotone,38,7.2,0,0,0.09,0,1,0,0,17,0,0,0,22,1,3,1,7,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Bogdan Alexandru Stauciuc,F,FC Crotone,17,6.7,0,0,0,0,1,0,0,3,0,0,0,10,0,0,0,4,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Corentin Parisy,D,Foggia,52,6.9,0,0,0,0,0,0,0,26,0,0,0,35,0,0,1,0,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",FC Crotone vs Foggia,24/08/2026,Iker Torres Delgado,M,FC Crotone,86,7.7,0,0,0.06,0.22,2,1,0,57,2,0,0,75,0,0,0,11,0,3,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Domenico Franco,M,Barletta,90,6.6,0,0,0,0.08,0,0,0,40,1,0,0,44,0,0,1,4,3,0,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Nicola Bizzotto,D,Barletta,90,7.3,0,0,0.23,0,1,1,0,25,0,0,0,34,0,0,2,7,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Alexis Ferrante,F,Barletta,90,6.4,0,0,0.29,0.12,4,1,0,8,2,0,0,25,1,0,1,3,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Anthony Partipilo,F,Barletta,90,6.8,0,0,0,0.23,0,0,0,20,2,0,0,39,1,0,0,8,1,4,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Guido Gómez,F,Bari,90,5.5,0,0,0.5,0,4,1,0,17,0,0,0,41,0,0,0,3,0,2,0,0,1,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Lukas Grgić,M,Bari,81,6.3,0,0,0,0,0,0,0,51,0,0,0,61,0,0,0,1,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Alessandro Celli,D,Bari,36,7,0,0,0,0,0,0,0,19,0,0,0,29,0,0,1,8,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Kristjan Matošević,G,Barletta,90,7.1,0,0,0,0,0,0,0,15,0,0,0,15,0,0,0,0,0,0,0,0,0,2
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Valerio Mantovani,D,Bari,90,6.4,0,0,0,0,0,0,0,83,0,0,0,110,0,0,0,2,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Giulio Maggiore,M,Bari,64,6.9,0,0,0,0.08,0,0,0,26,1,0,0,36,0,0,0,3,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Michele Cerofolini,G,Bari,90,6.2,0,0,0,0,0,0,0,22,0,0,0,23,0,0,0,0,0,0,0,0,0,2
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Idriz Voca,M,Barletta,19,6.1,0,0,0,0,0,0,0,4,0,0,0,7,0,0,0,1,1,1,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Alessio Tribuzzi,M,Bari,86,6.4,0,0,0,0,0,0,0,30,0,0,0,43,1,0,1,6,2,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Giacomo Manzari,M,Bari,19,6.4,0,0,0,0,0,0,0,7,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Stefano Rossoni,D,Barletta,90,7.2,0,0,0,0,0,0,0,23,0,0,0,33,0,0,2,5,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Fabio Laringe,F,Barletta,86,7,0,1,0.02,0.05,1,0,0,26,1,0,0,41,3,0,2,6,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Giuseppe Coccia,M,Barletta,90,6.5,0,0,0.11,0,1,0,0,21,0,0,0,31,0,0,0,4,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Ebrima Darboe,M,Bari,19,7.2,0,0,0,0.28,0,0,0,14,3,0,0,17,0,0,0,2,0,0,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Moussa Mane,M,Bari,64,6.8,0,0,0,0,0,0,0,23,0,0,0,32,0,0,0,5,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Niccolò Cocetta,D,Bari,90,5.7,0,0,0,0,0,0,0,65,0,0,0,85,0,0,1,5,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Mirko Elia,D,Bari,81,6.1,0,0,0,0.01,0,0,0,59,1,0,0,69,0,1,1,6,1,0,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Savio Piarulli,M,Barletta,80,7,0,0,0,0.24,0,0,0,32,1,0,0,40,1,2,1,6,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Leonardo Mendicino,M,Bari,90,7.2,0,0,0,0,0,0,0,51,0,0,0,65,0,0,1,14,1,3,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Roberto Malfitano,M,Barletta,9,6.6,0,0,0,0,0,0,0,3,0,0,0,6,0,1,1,1,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Antonello Vona,D,Barletta,90,7.3,0,0,0.08,0,1,0,0,30,0,0,0,42,0,0,1,8,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Mateus Castro,F,Barletta,86,8.9,2,0,0.36,0.01,5,2,0,18,1,0,0,34,1,0,0,5,3,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Vincenzo Colangiuli,M,Bari,36,6.2,0,0,0,0.17,0,0,0,16,1,0,0,25,1,0,0,2,2,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Mattia Esposito,M,Bari,90,6.1,0,0,0.12,0,4,1,0,21,0,0,0,52,2,1,0,7,0,4,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Matteo Marini,D,Barletta,14,6.8,0,0,0.09,0,1,0,0,6,0,0,0,11,0,0,0,2,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Michele Dicuonzo,F,Barletta,9,6.5,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Claudio Giardino,F,Barletta,14,6.3,0,0,0,0,0,0,0,3,0,0,0,13,0,0,1,3,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Barletta vs Bari,28/08/2026,Pantaleon Spadavecchia,D,Bari,14,6.3,0,0,0,0,0,0,0,5,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Marco Capuano,D,US Salernitana 1919,90,7.1,0,0,0,0,0,0,0,20,0,0,0,29,0,0,2,5,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Filippo Berra,D,Foggia,66,6.7,0,0,0,0,0,0,0,45,0,0,0,55,0,0,3,1,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Eugenio D'Ursi,F,US Salernitana 1919,50,6.8,0,0,0.06,0,1,0,0,10,0,0,0,18,1,0,1,5,0,1,0,0,2,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Armando Anastasio,D,US Salernitana 1919,90,6.9,0,0,0,0.06,1,0,0,38,1,0,0,46,0,0,0,6,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Giuseppe Panico,M,Foggia,66,6.7,0,0,0.06,0,1,0,0,14,0,0,0,22,0,0,0,4,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Facundo Lescano,F,US Salernitana 1919,54,6.4,0,0,0,0,0,0,0,7,0,0,0,9,0,0,0,2,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Mattia Vitale,M,US Salernitana 1919,89,6.5,0,0,0.01,0,1,1,0,28,0,0,0,47,1,0,0,4,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Antonio La Gumina,F,US Salernitana 1919,50,7.9,1,0,0.3,0.01,1,1,0,14,2,0,0,23,2,0,1,5,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Luca Villa,M,US Salernitana 1919,90,6.7,0,1,0.04,0.37,1,0,0,38,2,1,0,47,0,0,1,2,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Yanis Merdji,F,Foggia,38,6.2,0,0,0.7,0,4,1,0,11,0,0,1,18,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Andrea Gallo,M,Foggia,90,7.1,0,0,0,0.33,0,0,0,50,1,1,0,68,0,0,1,4,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Davide Marfella,G,Foggia,63,6.3,0,0,0,0,0,0,0,23,0,0,0,28,0,0,0,0,0,0,0,0,0,1
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Emmanuel Gyabuaa,M,US Salernitana 1919,83,5.9,0,0,0,0,0,0,0,25,0,0,0,29,0,0,1,5,3,0,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Ismail Achik,M,US Salernitana 1919,54,6.3,0,0,0,0.24,0,0,0,4,2,0,0,10,0,0,0,3,1,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Gianluca Saro,G,Foggia,41,6.9,0,0,0,0,0,0,0,7,0,0,0,7,0,0,0,1,0,1,0,0,0,1
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Gianmarco Todisco,D,Foggia,90,7.1,0,0,0,0.43,0,0,0,46,2,0,0,64,0,0,2,4,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Hamza Haoudi,M,Foggia,90,7.7,0,0,0.19,0.1,4,0,0,77,4,0,0,111,3,0,2,8,0,4,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Francesco Pio Petito,M,Foggia,90,6.4,0,0,0.03,0.05,2,0,0,30,1,0,0,46,1,0,0,5,4,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Pierluca Luciani,F,Foggia,90,7.6,1,0,0.34,0.02,4,2,0,23,1,0,0,43,0,0,2,6,1,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Manuel Llano,D,US Salernitana 1919,90,6.4,0,0,0.06,0,1,0,0,32,0,0,0,50,1,0,3,8,1,3,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Cesare Galeotti,G,US Salernitana 1919,90,6.7,0,0,0,0,0,0,0,15,0,0,0,16,0,0,1,0,0,0,0,0,0,4
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Riccardo Zoia,D,US Salernitana 1919,10,6.7,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,1,0,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Malik Djibril,M,US Salernitana 1919,15,6.6,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,2,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Simone Pieraccini,D,US Salernitana 1919,90,6.9,0,0,0.12,0,1,0,0,25,0,0,0,31,0,0,1,9,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Mattia Tascone,M,US Salernitana 1919,90,6.3,0,0,0.18,0.06,3,1,0,36,1,0,0,51,0,1,1,4,4,2,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Valdes Ngana,M,Foggia,8,6.4,0,0,0,0,0,0,0,6,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Mohamed Seck,D,Foggia,38,6.8,0,0,0.03,0,1,0,0,13,0,0,0,18,0,0,0,2,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Rocco Di Vico,M,US Salernitana 1919,21,6.3,0,0,0,0,0,0,0,10,0,0,0,14,0,0,0,1,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Michele Bigonzoni,F,Foggia,8,6.5,0,0,0.07,0,1,0,0,3,0,0,0,11,0,0,0,1,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Isyakha Toure,F,Foggia,90,6.1,0,0,0.11,0.11,2,2,0,29,3,0,0,47,1,0,0,3,4,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Andrea Smeraldi,M,Foggia,90,6.9,0,0,0,0,0,0,0,40,0,0,0,49,0,1,0,9,0,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Foggia vs US Salernitana 1919,29/08/2026,Corentin Parisy,D,Foggia,90,6.7,0,0,0,0,0,0,0,69,0,0,0,86,1,0,1,3,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Raffaele Pucino,D,Monopoli,7,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Cristian Battocchio,M,Monopoli,90,6.7,0,0,0,0.03,0,0,0,51,1,0,0,59,1,0,0,3,3,0,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Marco Perrotta,D,Catania,90,6.9,0,0,0.15,0,1,0,0,66,0,0,0,77,0,0,1,4,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Luca Garritano,M,Monopoli,71,7.3,1,0,0.6,0,2,1,0,22,0,0,0,31,0,0,1,3,3,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Emanuele Cicerelli,M,Catania,73,7,0,0,0.04,0.38,1,1,0,24,2,0,0,44,4,0,1,7,1,3,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Mario Ierardi,D,Catania,90,6,0,0,0,0,0,0,0,68,0,0,0,88,1,0,2,3,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Edoardo Masciangelo,M,Catania,29,7.1,0,0,0,0.15,0,0,0,13,1,0,0,20,1,0,0,2,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Gabriele Bernardotto,F,Monopoli,31,6.1,0,0,0,0,0,0,0,10,0,0,0,11,0,0,0,0,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Gabriel Lunetta,M,Catania,29,6.4,0,0,0,0,0,0,0,6,0,0,0,13,0,0,1,1,2,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Alessandro Raimo,D,Catania,73,6.8,0,0,0,0,0,0,0,38,0,0,0,52,0,0,2,6,1,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Alessandro Quaini,M,Catania,90,6.6,0,0,0,0,0,0,0,63,0,0,0,78,0,0,0,5,1,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Jean Greco,M,Monopoli,90,8.6,1,0,0.34,0.3,4,1,0,27,2,0,0,44,2,0,0,8,1,4,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Giovanni Bruzzaniti,M,Catania,65,6.8,0,0,0.12,0,1,0,0,17,0,0,0,27,1,0,0,5,0,3,0,0,1,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Andrea Corbari,M,Catania,59,6.2,0,0,0,0,0,0,0,20,0,0,0,23,0,0,0,0,3,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Gabriele Pagliai,D,Catania,90,6.3,0,0,0,0,0,0,0,52,0,0,0,66,0,0,1,5,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Stefano Piccinini,D,Monopoli,90,6.7,0,0,0.13,0,1,0,0,30,0,0,0,38,0,0,1,4,2,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Filippo Rinaldi,G,Catania,90,6.5,0,0,0,0,0,0,0,30,0,0,0,35,0,0,0,0,0,0,0,0,0,1
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Cristian Cerretti,D,Monopoli,19,6.9,0,0,0.18,0,2,1,0,9,0,0,0,17,1,0,1,7,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Maguette Fall,F,Monopoli,83,7,0,0,0.09,0,1,0,0,22,0,0,0,35,0,0,1,3,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Michael Liguori,F,Catania,37,6.4,0,0,0,0,0,0,0,13,0,0,0,26,1,0,1,6,0,3,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Simone Leonardi,F,Catania,49,6.5,0,0,0.15,0,1,1,0,6,0,0,0,18,0,0,1,1,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Francesco Gioielli,M,Monopoli,7,,0,0,0,0,0,0,0,5,0,0,0,7,0,0,0,2,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Flavio Russo,F,Catania,90,6.1,0,0,0.29,0,2,1,0,16,0,0,0,29,1,0,0,5,2,2,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Emanuele Scipioni,M,Monopoli,90,8.1,0,2,0.09,0.86,2,0,0,29,2,1,0,36,0,0,1,2,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Antony Angileri,D,Monopoli,90,7.3,0,0,0,0,0,0,0,48,0,0,0,57,0,0,2,5,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Michele Tommasi,G,Monopoli,90,7.8,0,0,0,0,0,0,0,30,0,0,0,35,0,0,1,1,0,1,0,0,0,4
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Tommaso Di Marco,M,Catania,43,6.3,0,0,0,0,0,0,0,17,0,0,0,23,0,0,0,0,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Matteo Colombara,D,Monopoli,90,6.8,0,0,0,0.08,0,0,0,23,1,0,0,31,0,0,0,3,3,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Filippo Tosi,D,Monopoli,83,7,0,0,0,0.01,0,0,0,30,1,0,0,36,0,0,3,6,3,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Bruno Valenti,D,Monopoli,90,6.5,0,0,0,0.1,0,0,0,27,2,0,0,40,0,0,0,3,1,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Mattia Sardo,F,Monopoli,19,7.3,0,0,0,0,0,0,0,3,0,0,0,12,1,0,0,3,1,1,0,0,1,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Monopoli vs Catania,29/08/2026,Kaleb Jiménez,M,Catania,53,6.6,0,0,0.22,0,2,1,0,20,0,0,0,31,0,0,1,2,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Filippo Perucchini,G,Team Altamura,90,6.7,0,0,0,0,0,0,0,19,0,0,0,20,0,0,0,0,0,0,0,0,0,4
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Alessio Curcio,F,Team Altamura,85,7,0,0,0.11,0.22,1,1,0,37,1,0,0,46,0,0,0,5,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Riccardo Melgrati,G,Inter U23,90,6.6,0,0,0,0,0,0,0,16,0,0,0,17,0,0,1,0,0,0,0,0,0,3
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Giancarlo Malcore,F,Team Altamura,25,6.1,0,0,0.22,0,1,0,0,3,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Marco Rosafio,F,Team Altamura,62,6.1,0,0,0,0.22,0,0,0,37,2,0,0,42,0,0,0,0,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Roberto Pirrello,D,Team Altamura,90,7.2,0,0,0,0,0,0,0,64,0,0,0,81,0,0,4,6,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Luca Fiordilino,M,Inter U23,90,6.9,0,0,0.04,0,1,1,0,47,0,0,0,63,1,0,1,6,0,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Tommaso Fumagalli,F,Inter U23,12,6.7,0,0,0,0,0,0,0,5,0,0,0,10,0,0,0,4,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Iwo Kaczmarski,M,Inter U23,74,6.5,0,0,0,0,0,0,0,43,0,0,0,55,0,0,1,5,1,0,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Nicola Dipinto,M,Team Altamura,90,6.7,0,0,0,0,0,0,0,82,0,0,0,104,0,0,1,7,1,2,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Lorenzo Peschetola,F,Team Altamura,37,6.6,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0,2,0,1,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Jan Żuberek,F,Inter U23,19,6.7,0,0,0,0,0,0,0,3,0,0,0,7,0,0,0,3,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Ernestas Gudelevičius,M,Team Altamura,37,6.7,0,0,0,0,0,0,0,23,0,0,0,29,0,0,1,3,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Michele Grande,M,Team Altamura,90,7.1,1,0,0.61,0.16,1,1,0,49,1,0,0,79,2,0,2,9,2,3,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Matteo Falasca,D,Team Altamura,90,6.3,0,0,0,0,0,0,0,58,0,0,0,78,1,0,4,4,3,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Fabiano Pacia,D,Team Altamura,90,6,0,0,0,0,0,0,0,69,0,0,0,79,0,0,0,8,3,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Francesco Stante,D,Inter U23,90,6.8,0,0,0,0,0,0,0,45,0,0,0,61,0,0,6,1,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Leonardo Bovo,M,Inter U23,25,6.9,0,0,0,0,0,0,0,10,0,0,0,14,0,0,2,4,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Tobia Mogentale,M,Team Altamura,90,6.5,0,0,0,0,0,0,0,64,0,0,0,79,1,0,1,3,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Giuseppe Simone,F,Team Altamura,74,5.8,0,0,0.36,0,3,2,0,7,0,0,0,19,0,0,0,1,0,1,0,0,2,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Mattia Marello,D,Inter U23,90,6.6,0,0,0.37,0,3,2,0,34,0,0,0,47,1,1,2,7,2,0,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Marco Nazzaro,M,Team Altamura,62,6.9,0,0,0,0,0,0,0,45,0,0,0,51,0,0,1,5,0,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Alessandro Ovalle Santos,D,Team Altamura,14,6.3,0,0,0,0,0,0,0,2,0,0,0,5,0,0,0,2,2,0,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Mattia Mosconi,F,Inter U23,80,8.2,1,0,0.85,0.09,3,1,0,27,1,0,0,53,3,0,0,10,0,3,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Leon Jakirović,D,Inter U23,90,6.5,0,0,0,0,0,0,0,45,0,0,0,62,0,0,0,3,1,0,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Matteo Lavelli,F,Inter U23,74,6.8,0,0,0.17,0,2,1,0,11,0,0,0,24,0,0,0,7,0,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Gabriele Re Cecconi,D,Inter U23,90,6.7,0,0,0,0.08,0,0,0,37,1,0,0,48,0,0,2,4,2,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Jamal Iddrissou,F,Inter U23,25,6.4,0,0,0,0,0,0,0,7,0,0,0,19,1,0,0,4,1,1,0,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Leonardo Bovio,D,Inter U23,90,7.2,0,0,0,0,0,0,0,59,0,0,0,76,0,0,0,5,2,1,1,0,0,0
+"Serie C, Girone C","Serie_C,_Group_C_26_27",Inter U23 vs Team Altamura,29/08/2026,Matias Mancuso,M,Inter U23,88,6.8,0,0,0.01,0,1,0,0,32,0,0,0,57,0,0,1,10,1,1,0,0,0,0

@@ -1,0 +1,368 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Edson Seidou,D,Le Puy-en-Velay,7,,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Remy Boissier,M,Amiens SC,76,6.2,0,0,0.12,0.17,1,0,0,30,1,0,0,38,0,1,0,3,4,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Ćazim Suljić,M,Amiens SC,90,5.8,0,0,0,0.19,0,0,0,76,1,0,0,89,1,0,1,5,4,0,1,0,2,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Raouf Mroivili,M,Le Puy-en-Velay,68,6.7,0,0,0.13,0,2,0,0,12,0,0,0,20,0,1,2,3,0,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Alexis Giacomini,M,Amiens SC,90,6.6,0,0,0.19,0.12,1,0,0,56,1,0,0,74,0,0,4,8,3,4,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Adrien Julloux,D,Amiens SC,90,7,0,0,0,0,0,0,0,60,0,0,0,71,0,1,1,5,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Matis Carvalho,G,Le Puy-en-Velay,90,6.9,0,0,0,0,0,0,0,35,0,0,0,41,0,0,0,1,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Yannick Pandor,G,Amiens SC,90,7.8,0,0,0,0,0,0,0,29,0,0,0,34,0,0,0,2,0,0,0,0,0,4
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Ismail Cissé,D,Le Puy-en-Velay,90,7.2,0,0,0,0,0,0,0,32,0,0,0,46,0,0,0,9,1,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Lucas Llort,D,Amiens SC,90,6,0,0,0,0,0,0,0,60,0,0,0,81,2,0,1,8,2,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Antoine Nuss,D,Amiens SC,80,6.1,0,0,0,0,0,0,0,68,0,0,0,89,1,0,4,4,2,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Antoine Gauthier,M,Le Puy-en-Velay,87,8,1,0,1.04,0,4,2,0,25,0,0,0,48,2,0,0,10,1,6,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Marvin Emmanuel,F,Le Puy-en-Velay,87,7.2,0,0,0.04,0.01,2,0,0,20,2,0,0,34,1,0,2,5,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Vinicius Gomes,D,Le Puy-en-Velay,90,7,0,0,0,0,0,0,0,34,0,0,0,49,0,0,2,7,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Dan Sinaté,D,Amiens SC,51,6.7,0,0,0.19,0,1,0,1,13,0,0,0,18,0,0,0,3,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Lilian Baret,M,Le Puy-en-Velay,31,6.5,0,0,0.03,0,2,0,0,8,0,0,0,15,0,0,0,8,2,3,1,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Ilan Ducourtioux,M,Le Puy-en-Velay,12,6.6,0,0,0,0.02,0,0,0,3,1,0,0,6,0,0,0,1,0,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Keny Mbala,D,Amiens SC,90,7.5,0,0,0,0,0,0,0,54,0,0,0,64,0,0,3,15,4,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Anis Fatahine,D,Le Puy-en-Velay,90,7.1,0,0,0,0.26,0,0,0,29,2,0,0,45,0,0,3,7,1,3,0,0,1,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Renald Xhemo,M,Le Puy-en-Velay,90,7,0,0,0,0,1,0,0,31,0,0,0,42,0,0,1,4,0,3,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Alvin Doucet,F,Amiens SC,33,6.4,0,0,0.03,0.19,1,0,0,6,1,0,0,10,0,0,0,2,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Côme Fromager,M,Amiens SC,23,6.3,0,0,0,0,0,0,0,6,0,0,0,18,1,0,1,2,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Mathis Colin,F,Amiens SC,51,5.7,0,0,0.17,0,1,0,0,8,0,0,0,21,0,0,1,2,3,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Thomas Ghalem,D,Le Puy-en-Velay,90,7.4,0,0,0.13,0,1,1,0,28,0,0,0,37,0,1,2,8,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Marvin Adélaide,F,Amiens SC,67,6.2,0,0,0,0,0,0,0,13,0,0,0,21,0,0,0,4,2,0,0,0,1,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Emmanuel Kouassi,D,Le Puy-en-Velay,90,6.8,0,0,0.05,0,1,0,0,28,0,0,0,45,1,0,0,9,2,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Plamedi Nsingi,F,Le Puy-en-Velay,68,6.6,0,0,0.23,0,2,1,1,9,0,0,0,25,2,0,1,8,2,3,0,0,2,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Michael Faty,F,Le Puy-en-Velay,31,6.4,0,0,0.37,0,2,1,0,5,0,0,0,13,0,0,0,1,0,0,0,0,1,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Enzo Somon,M,Amiens SC,48,7.1,0,0,0.02,0,1,0,0,23,0,0,0,33,2,0,1,5,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Djibril El Mahjoubi,F,Amiens SC,19,6.6,0,0,0,0,0,0,0,12,0,0,0,14,0,0,0,2,2,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Mathis Mazaudier,F,Le Puy-en-Velay,12,6.4,0,0,0,0,0,0,0,2,0,0,0,5,0,0,0,0,0,0,0,0,1,0
+Ligue 3,Ligue_3_26_27,Le Puy-en-Velay vs Amiens SC,20/08/2026,Lassina Diakité,M,Amiens SC,48,7.4,0,0,0,0,1,0,0,10,0,0,0,23,2,0,0,11,0,2,0,0,1,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Samed Kilic,M,Thionville Lusitanos,90,6.7,0,0,0,0,0,0,0,19,0,0,0,25,0,0,2,7,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Bryan Labissiere,F,Thionville Lusitanos,70,6.6,0,0,0,0.84,0,0,0,22,2,1,0,26,0,0,0,3,2,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Rayan Souici,M,Bourg-en-Bresse,20,6.6,0,0,0,0,0,0,0,11,0,0,0,13,0,0,0,2,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Wilfried Bedfian,G,Thionville Lusitanos,90,7.8,0,0,0,0,0,0,0,24,0,1,0,27,1,0,0,1,0,0,0,0,0,3
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Samir Bouzar Essaidi,M,Thionville Lusitanos,90,6.7,0,0,0,0,0,0,0,16,0,0,0,28,0,0,6,6,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Grégory Coelho,D,Bourg-en-Bresse,90,6,0,0,0.06,0,1,0,0,51,0,0,0,78,1,0,2,7,5,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Exauce Mpembele Boula,M,Bourg-en-Bresse,70,7.1,0,0,0.07,0,1,1,0,16,0,0,0,27,0,0,1,6,1,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Amine Groune,F,Bourg-en-Bresse,90,6,0,0,0.14,0.46,1,0,0,31,1,1,0,57,3,0,0,6,0,1,0,0,2,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,David Luvualu,D,Thionville Lusitanos,90,6.8,0,0,1.02,0,2,1,0,16,1,0,2,29,0,0,0,3,2,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Alexis Gouletquer,F,Thionville Lusitanos,26,6.8,0,0,0,0,0,0,0,4,0,0,0,6,0,0,1,1,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Karim Bouhmidi,F,Thionville Lusitanos,73,7.7,1,0,0.16,0,3,1,0,14,0,0,0,24,0,0,0,10,5,1,0,0,1,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Muamer Aljic,D,Thionville Lusitanos,70,5.3,0,0,0,0,0,0,0,17,0,0,0,19,0,0,0,7,5,1,2,1,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Youssouf Kanouté,D,Bourg-en-Bresse,90,6.9,0,0,0,0,0,0,0,36,0,0,0,52,1,0,0,9,0,5,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Bourama Diarra,D,Thionville Lusitanos,90,6.6,0,0,0,0,0,0,0,24,0,0,0,37,0,0,0,10,2,3,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Jalil Moustaid,M,Thionville Lusitanos,30,7.1,0,0,0,0,0,0,0,5,0,0,0,10,0,1,2,6,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Ikauar Mendes,F,Bourg-en-Bresse,81,6.5,0,0,0,0,1,0,0,21,0,0,0,30,0,0,0,3,1,0,0,0,1,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Lenny Montfort,G,Bourg-en-Bresse,90,7.6,0,0,0,0,0,0,0,62,0,0,0,77,0,0,0,1,0,1,0,0,0,3
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Joseph Atangana Mvondo,M,Thionville Lusitanos,90,7.2,0,1,0.01,0.03,1,0,0,24,1,0,0,31,0,0,0,9,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Tom Gomes,M,Bourg-en-Bresse,70,6.5,0,0,0.05,0,1,1,0,28,0,0,0,39,0,0,1,3,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Enzo Montet,M,Thionville Lusitanos,90,7.3,0,0,0,0,0,0,0,27,0,0,0,36,0,2,0,10,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Romain Muro,D,Bourg-en-Bresse,90,6.5,0,0,0,0,0,0,0,97,0,0,0,116,0,0,3,12,1,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Aness Gharbi,F,Bourg-en-Bresse,30,6.7,0,0,0,0,0,0,0,11,0,0,0,17,0,0,0,0,1,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Yassine Abraou,M,Bourg-en-Bresse,30,6.5,0,0,0,0.01,0,0,0,12,1,0,0,19,1,0,1,2,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Elhadj Mohamed Keita,F,Bourg-en-Bresse,18,6.4,0,0,0.01,0,1,1,0,5,0,0,0,12,0,0,0,1,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Noah Dede-Lhomme,D,Bourg-en-Bresse,90,7,0,0,0,0,0,0,0,92,0,0,0,118,0,0,1,8,0,3,0,0,1,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Marly Rampont-d'Audremont,D,Thionville Lusitanos,16,6.7,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,2,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Mounir El Hajjami,M,Bourg-en-Bresse,81,6,0,0,0.46,0.08,1,0,0,30,2,0,1,49,3,0,0,10,2,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Alvin Krizoua,M,Bourg-en-Bresse,79,6.6,0,0,0,0,0,0,0,52,0,0,0,76,0,0,1,2,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Kylian  Tubio,M,Thionville Lusitanos,83,7.3,1,0,1.03,0,3,3,0,12,0,0,1,23,0,0,1,5,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Bourg-en-Bresse vs Thionville Lusitanos,20/08/2026,Zola Onesime Muepu Ngoie,M,Bourg-en-Bresse,18,6.7,0,0,0,0,0,0,0,12,0,0,0,25,1,0,0,1,0,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Formose Mendy,D,FC Rouen,90,7,0,0,0,0,0,0,0,79,1,0,0,96,0,0,1,4,2,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Axel Maraval,G,FC Rouen,90,8.5,0,0,0,0,0,0,0,47,0,0,0,64,0,0,0,0,0,0,0,0,0,2
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Marvin Gakpa,M,FC Rouen,90,7.3,0,0,0.01,0,1,0,0,58,2,0,0,72,0,0,1,9,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Alassane Diaby,M,Quevilly - Rouen Métropole,90,6.4,0,0,0,0,0,0,0,22,0,0,0,36,0,0,4,8,3,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Malik Tchokounté,F,FC Rouen,90,8.1,1,1,0.12,0,1,1,0,21,2,0,0,41,0,0,1,10,1,2,0,0,1,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Jordy Gaspar,D,FC Rouen,64,7,0,0,0,0,0,0,0,34,0,0,0,43,1,0,0,4,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Bakari Camara,M,FC Rouen,90,7.6,0,0,0,0.16,0,0,0,25,1,0,0,41,1,1,1,14,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Warren Tchimbembé,M,Quevilly - Rouen Métropole,48,6.6,0,0,0,0,0,0,0,19,0,0,0,25,0,0,0,3,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Lisandru Tramoni,M,FC Rouen,78,7.8,1,0,0.32,0,3,2,0,19,0,0,0,45,3,1,1,8,2,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Virgil Thérésin,D,Quevilly - Rouen Métropole,90,6.5,0,0,0,0,0,0,0,34,0,0,0,49,0,0,3,6,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Clement Bassin,D,FC Rouen,90,7.6,0,1,0.01,0.12,2,0,0,60,1,0,0,75,0,2,3,8,0,3,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Issiaka Karamoko,F,FC Rouen,90,7.2,0,1,0.59,0.25,3,1,2,30,4,0,1,48,1,0,0,6,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Théo Pionnier,D,Quevilly - Rouen Métropole,90,6.5,0,0,0.18,0,1,0,0,47,0,0,0,58,0,1,2,6,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Noé Sommer,M,FC Rouen,78,6.6,0,0,0.44,0.02,3,0,0,38,1,0,1,58,0,0,1,6,3,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Youssef Gazzaoui,D,Quevilly - Rouen Métropole,68,6,0,0,0,0.2,0,0,0,7,1,0,0,25,0,0,1,4,2,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Mathys Jean-Marie,F,Quevilly - Rouen Métropole,48,7.8,0,0,0.02,0.89,2,0,0,12,2,1,0,30,4,0,0,7,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Marius Ros,D,Quevilly - Rouen Métropole,26,6.7,0,0,0,0.15,0,0,0,14,2,0,0,17,0,0,0,3,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Mathis Hamdi,D,Quevilly - Rouen Métropole,90,6.7,0,0,0,0,0,0,0,31,0,0,0,46,0,1,2,10,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Natanaël Bouekou,M,Quevilly - Rouen Métropole,46,6.2,0,0,0,0,0,0,0,10,0,0,0,17,0,2,1,4,2,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Guiry Egny,M,FC Rouen,17,6.6,0,0,0,0,0,0,0,3,0,0,0,6,0,0,0,1,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Sory Traoré,F,FC Rouen,17,7.6,1,0,0.06,0,1,1,0,5,0,0,0,12,0,0,0,0,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Mathys Silistrie,G,Quevilly - Rouen Métropole,90,5.5,0,0,0,0,0,0,0,29,0,0,0,41,0,0,0,0,0,0,0,0,0,2
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Schinéar Mopila,D,Quevilly - Rouen Métropole,90,6.1,0,0,0.2,0,1,1,0,34,0,0,0,44,0,0,0,6,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Djiby Seck,F,Quevilly - Rouen Métropole,30,6.3,0,0,0.43,0,2,0,0,9,0,0,0,23,1,0,0,3,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Salim Diaby,F,FC Rouen,31,6.8,0,0,0.07,0,2,0,0,10,1,0,0,19,0,0,1,1,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Zakary Lamgahez,D,FC Rouen,90,6.1,0,0,0,0,0,0,0,76,0,0,0,97,0,0,1,6,3,3,1,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Ibrahima Samoura,M,FC Rouen,4,,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,1,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Samuel Come Ruiz,M,Quevilly - Rouen Métropole,68,5.8,0,0,0,0,0,0,0,27,0,0,0,52,2,0,0,6,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Ruben Rosa,F,Quevilly - Rouen Métropole,46,6.5,0,0,0,0,0,0,0,10,0,0,0,13,0,1,1,3,2,0,0,0,1,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Gabin Capuano,F,Quevilly - Rouen Métropole,64,5.9,0,0,0.65,0,2,1,0,13,0,0,1,27,0,0,0,6,2,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Djibril Sarr,M,Quevilly - Rouen Métropole,26,5.9,0,0,0,0,0,0,0,10,0,0,0,21,0,0,0,1,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Quevilly - Rouen Métropole,20/08/2026,Joël Viana Viana,M,FC Rouen,4,,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Lionel Carole,D,Stade Malherbe Caen,33,6.9,0,0,0,0,0,0,0,12,1,0,0,15,0,0,0,2,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Yannis Clementia,G,Stade Malherbe Caen,90,7.8,0,0,0,0,0,0,0,23,0,0,0,30,0,0,0,1,0,1,0,0,0,4
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Fahd El Khoumisti,F,Stade Malherbe Caen,90,7.3,1,0,0.55,0.09,2,2,0,16,1,0,0,26,0,0,0,1,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Ivann Botella,F,Stade Malherbe Caen,89,5.9,0,0,0.51,0.24,3,1,0,40,2,0,0,58,0,1,2,6,3,3,2,1,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Mohamed Nehari,D,Aubagne FC,90,6.6,0,0,0,0,0,0,0,10,0,0,0,16,0,0,0,3,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Adam Oudjani,M,Aubagne FC,90,7.1,0,0,0,0.34,0,0,0,24,2,0,0,29,0,0,0,3,0,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Mohamed-Amine El Idrissi,M,Stade Malherbe Caen,78,6.5,0,0,0.24,0,2,0,0,21,1,0,0,33,0,0,0,2,1,0,0,0,1,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Samuel Noireau-Dauriat,F,Stade Malherbe Caen,22,7.1,0,0,0.11,0,1,1,0,1,0,0,0,3,0,0,0,2,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Freddy Bomo,M,Stade Malherbe Caen,67,6.3,0,0,0,0,1,0,0,71,0,0,0,83,0,0,3,5,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Adame Faiz,M,Aubagne FC,22,6.5,0,0,0.14,0.1,1,1,0,1,1,0,0,2,0,0,0,1,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Ritchy Valme,D,Aubagne FC,90,7,0,0,0,0,0,0,0,19,0,0,0,32,0,0,3,4,2,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Diabe Bolumbu,D,Stade Malherbe Caen,90,7.6,0,0,0,0,0,0,0,50,0,0,0,64,1,0,1,10,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Hugo Lamouliatte,D,Stade Malherbe Caen,90,7,0,0,0.18,0,4,1,0,52,0,0,0,74,0,0,5,7,1,2,1,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Jebryl Sahraoui,M,Aubagne FC,90,6.7,0,0,0,0.07,0,0,0,16,1,0,0,26,1,0,0,6,3,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Karim Cisse,M,Aubagne FC,83,6.3,0,0,0.22,0,2,0,0,16,0,0,0,45,2,0,5,9,2,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Issiaka Touré,G,Aubagne FC,90,7.5,0,0,0,0,0,0,0,8,0,0,0,8,0,0,0,0,0,0,0,0,0,5
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Léo Milliner,M,Stade Malherbe Caen,33,6.8,0,0,0,0,1,0,0,10,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Josué Kimboma,M,Stade Malherbe Caen,90,7.7,0,0,0.22,0,1,0,0,117,1,0,0,134,0,0,2,4,3,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Adem Tafni,M,Aubagne FC,90,6.2,0,0,0,0,1,0,0,17,0,0,0,23,0,0,3,7,3,2,1,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Yohan Zemoura,F,Aubagne FC,90,6.5,0,0,0.53,0,3,2,0,13,0,0,1,28,0,0,0,7,0,1,0,0,1,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Soiyir Ahamada,M,Aubagne FC,5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Malik Ahamadi,M,Aubagne FC,17,6.1,0,0,0.1,0,1,1,0,3,1,0,0,6,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Keelyan  Portut,F,Stade Malherbe Caen,90,6.6,0,0,0.09,0.02,1,1,0,39,1,0,0,65,0,0,2,6,2,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Diabe Kanoute,M,Stade Malherbe Caen,5,,0,1,0,0.45,0,0,0,1,1,1,0,5,1,0,0,3,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Walid Bouaziz,M,Aubagne FC,78,6.2,0,0,0.14,0.19,2,0,0,18,1,0,0,29,1,0,1,5,2,0,1,0,1,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Othniel Pembele,D,Stade Malherbe Caen,67,6.6,0,0,0,0,0,0,0,61,0,0,0,82,0,0,1,0,2,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Sacha M'Baka,D,Stade Malherbe Caen,90,7.9,0,0,0,0,0,0,0,85,0,0,0,132,0,0,0,7,0,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Aymen Sadi,D,Aubagne FC,90,6.3,0,0,0.01,0.08,1,0,0,15,1,0,0,24,0,0,1,4,2,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Aubagne FC,20/08/2026,Anisse Bellebrahim,D,Aubagne FC,90,7,0,0,0,0,0,0,0,14,0,0,0,29,0,0,1,4,1,4,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Gaëtan Courtet,F,Valenciennes,51,6,0,0,0.04,0,1,1,0,10,0,0,0,15,0,0,0,0,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Christophe Diedhiou,D,Paris 13 Atletico,90,5.7,0,0,0,0,0,0,0,26,0,0,0,39,0,0,2,4,3,1,2,1,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Jean Louchet,G,Valenciennes,90,6.3,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0,0,0,0,0,0,0,1
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Vincent Marcel,M,Valenciennes,46,6.2,0,0,0,0,0,0,0,17,0,0,0,23,0,0,0,2,2,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Bryan Passi,D,Valenciennes,90,7.4,0,0,0,0,0,0,0,61,0,0,0,79,0,0,2,11,0,3,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Christopher Rocchia,D,Valenciennes,90,6.1,0,0,0,0.04,0,0,0,50,1,0,0,63,2,0,2,8,2,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Charles Abi,F,Valenciennes,66,6.4,0,0,0,0,0,0,0,14,0,0,0,25,0,0,0,6,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Mabrouk Rouai,M,Valenciennes,90,6.3,0,0,0.05,0,4,0,0,72,0,0,0,109,4,0,2,15,4,2,1,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Abdelwahed Wahib,D,Valenciennes,21,6.5,0,0,0,0,0,0,0,8,0,0,0,10,0,0,0,0,2,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Jordan Poha,D,Paris 13 Atletico,90,6.8,0,0,0,0,0,0,0,28,0,0,0,48,0,0,1,6,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Stacy Misiatu,M,Paris 13 Atletico,7,,0,0,0,0.11,0,0,0,3,1,0,0,5,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Nicolas Bernardino,D,Paris 13 Atletico,90,7.1,0,0,0,0,0,0,0,27,0,0,0,47,0,0,3,8,1,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Zaïd Amir,F,Valenciennes,66,6.5,0,0,0,0.03,0,0,0,34,2,0,0,39,1,0,1,3,1,0,0,0,1,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Derrick Abu,D,Valenciennes,46,6.3,0,0,0,0,0,0,0,41,0,0,0,49,1,0,2,3,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Etienne Michut,M,Paris 13 Atletico,49,6.4,0,0,0,0,0,0,0,15,0,0,0,19,0,0,0,3,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Noa Donat,M,Paris 13 Atletico,90,6.8,0,1,0,0,0,0,0,21,0,1,0,32,0,0,0,7,3,0,0,0,1,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Omar Bezzekhami,M,Paris 13 Atletico,90,7.6,1,0,0.54,0,1,1,0,20,1,0,0,36,0,0,1,4,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Maël Zogba,D,Valenciennes,90,5.9,0,0,0,0,0,0,0,84,0,0,0,106,0,0,1,1,1,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Ibrahim Camara,M,Paris 13 Atletico,49,6.9,0,1,0,0.04,0,0,0,16,1,0,0,23,0,0,1,5,0,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Dany Goprou,D,Valenciennes,51,6.5,0,0,0,0,0,0,0,33,0,0,0,43,0,0,0,4,0,1,0,0,1,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Abdelmalek Amara,M,Paris 13 Atletico,66,6.6,0,0,0,0,0,0,0,12,0,0,0,24,2,0,0,4,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Enzo Noel Dode,D,Paris 13 Atletico,90,6.6,0,0,0,0,1,0,0,24,0,0,0,41,1,0,1,9,0,5,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Axel Temperton,G,Paris 13 Atletico,90,6.3,0,0,0,0,0,0,0,21,0,0,0,21,0,0,0,0,0,0,0,0,0,1
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Aboubacar Sidibe,F,Paris 13 Atletico,90,7,1,0,0.04,0,2,2,0,21,0,0,0,46,2,0,0,6,3,0,0,0,1,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Thibault Marechal,M,Valenciennes,76,7,0,0,0,0,0,0,0,61,0,0,0,78,1,0,1,3,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Mattheo Guendez,M,Paris 13 Atletico,31,6.8,0,0,0.11,0,1,0,0,7,0,0,0,14,2,0,0,4,0,3,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Ibrahim Koné,D,Paris 13 Atletico,90,6.6,0,0,0,0,0,0,0,28,0,0,0,35,0,0,3,2,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Luka Boiteau,M,Valenciennes,31,6.6,0,0,0,0,0,0,0,21,0,0,0,25,0,0,0,1,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Rayane Ekra,F,Valenciennes,90,7.2,1,0,0.78,0.01,2,1,0,38,1,0,0,73,6,0,0,13,0,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Paris 13 Atletico vs Valenciennes,20/08/2026,Dayann Linyon,F,Valenciennes,31,6.4,0,0,0,0,0,0,0,11,0,0,0,13,0,0,0,1,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Lionel Carole,D,Stade Malherbe Caen,60,6.7,0,0,0,0,0,0,0,85,0,0,0,112,0,0,1,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Dennis Appiah,D,Stade Malherbe Caen,39,6.3,0,0,0,0,0,0,0,25,0,0,0,28,0,0,0,2,1,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Joachim Eickmayer,M,Bastia,90,7.3,0,0,0,0.09,0,0,0,21,1,0,0,29,0,0,2,4,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Armand Gnanduillet,F,Stade Malherbe Caen,7,,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Yannis Clementia,G,Stade Malherbe Caen,90,6.5,0,0,0,0,0,0,0,18,0,0,0,24,0,0,0,1,0,1,0,0,0,1
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Gustave Akueson,D,Bastia,90,7.5,0,0,0.09,0,1,0,0,7,0,0,0,20,0,0,5,5,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Fahd El Khoumisti,F,Stade Malherbe Caen,90,6.8,0,0,0.01,0.39,1,0,0,25,2,0,0,37,1,0,0,2,2,0,0,0,2,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Felix Tomi,M,Bastia,90,7.4,0,1,0.01,0,1,0,0,14,0,0,0,36,3,0,4,12,1,6,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Anthony Roncaglia,D,Bastia,90,7,0,0,0,0,0,0,0,20,0,0,0,30,0,0,1,2,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Théo De Percin,G,Bastia,90,7,0,0,0,0,0,0,0,12,0,0,0,12,0,0,0,0,0,0,0,0,0,3
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Mohamed-Amine El Idrissi,M,Stade Malherbe Caen,39,6.4,0,0,0.12,0,1,0,0,7,0,0,0,13,0,0,0,0,2,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Samuel Noireau-Dauriat,F,Stade Malherbe Caen,18,6.6,0,0,0,0,0,0,0,4,0,0,0,5,0,0,0,1,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Noah Zilliox,D,Bastia,90,7.4,0,0,0,0,0,0,0,15,0,0,0,22,1,0,1,5,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Freddy Bomo,M,Stade Malherbe Caen,18,7.1,0,0,0,0,0,0,0,12,0,0,0,18,0,0,0,5,0,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Diabe Bolumbu,D,Stade Malherbe Caen,90,6.2,0,0,0,0,0,0,0,50,0,0,0,63,1,0,0,3,0,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Mohamed Hafid,M,Stade Malherbe Caen,90,7.8,0,0,0.09,0,4,2,0,52,0,0,0,83,5,0,0,16,0,3,0,0,1,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Zoumana Bagbema,M,Stade Malherbe Caen,90,6.8,0,0,0.01,0.19,2,0,0,70,2,0,0,98,3,0,3,7,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Hugo Lamouliatte,D,Stade Malherbe Caen,80,7.4,0,0,0,0.02,0,0,0,71,1,0,0,90,0,0,1,4,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Clement Rodrigues,F,Bastia,87,8.2,1,0,0.22,0,1,1,0,13,0,0,0,25,0,0,0,11,0,2,0,0,1,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Erawan Garnier,F,Bastia,77,6.5,0,0,0,0,0,0,0,15,0,0,0,24,2,1,0,6,4,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Léo Milliner,M,Stade Malherbe Caen,90,6.4,0,0,0.06,0.01,1,0,1,50,2,0,0,64,2,0,0,6,2,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Josué Kimboma,M,Stade Malherbe Caen,60,6.1,0,0,0.07,0.01,2,1,0,48,1,0,0,62,1,0,1,3,4,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Cléo Mélières,D,Bastia,77,6.6,0,0,0.06,0,1,1,0,16,0,0,0,29,1,1,0,10,1,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Alexandre Zaouai,M,Bastia,12,6.7,0,0,0.14,0,1,0,0,6,0,0,0,17,2,0,0,3,2,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Isaac Monnier,D,Bastia,90,6.3,0,0,0,0,0,0,0,24,0,0,0,38,1,0,1,11,1,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Lakhdar Belal,M,Bastia,87,6.4,0,0,0,0,0,0,0,12,1,0,0,27,3,2,0,9,3,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Nassim Douce,D,Bastia,21,7,0,0,0,0,0,0,0,7,0,0,0,14,0,0,3,3,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Keelyan  Portut,F,Stade Malherbe Caen,80,6.3,0,0,0.52,0,2,0,0,25,0,0,1,47,1,0,2,5,0,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Dramane Diarra,D,Bastia,21,6.7,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Daouda Tamba,F,Bastia,12,6.5,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Stade Malherbe Caen vs Bastia,27/08/2026,Sacha M'Baka,D,Stade Malherbe Caen,90,7,0,0,0,0,0,0,0,101,0,0,0,131,0,0,1,1,2,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Sabri Hattab,F,Aubagne FC,36,6.8,0,0,0.32,0,1,1,0,6,0,0,1,15,0,0,0,3,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Brahima Doukansy,M,Aubagne FC,24,7.1,0,0,0,0,0,0,0,6,0,0,0,7,0,0,0,6,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Grégory Coelho,D,Bourg-en-Bresse,83,5.8,0,0,0,0,0,0,0,38,0,0,0,51,0,0,2,9,1,4,1,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Rayane Doucoure,D,Aubagne FC,7,,0,0,0.02,0,1,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Amine Groune,F,Bourg-en-Bresse,68,6.4,0,0,0.08,0,3,0,0,17,0,0,0,26,1,0,0,3,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Mohamed Nehari,D,Aubagne FC,90,7.9,1,0,0.22,0,1,1,0,11,0,0,0,17,0,0,2,4,2,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Adam Oudjani,M,Aubagne FC,75,6.8,0,0,0,0,0,0,0,29,0,0,0,41,0,0,1,2,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Youssouf Kanouté,D,Bourg-en-Bresse,90,5.3,0,0,0,0,0,0,0,39,0,0,0,49,1,0,2,4,3,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Adame Faiz,M,Aubagne FC,63,8.9,0,2,0.43,0.78,4,1,0,15,4,0,0,41,8,0,0,10,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Ritchy Valme,D,Aubagne FC,90,6.8,0,0,0,0,0,0,0,28,1,0,0,39,0,0,4,7,1,2,1,0,1,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Ikauar Mendes,F,Bourg-en-Bresse,30,6.5,0,0,0,0,0,0,0,12,0,0,0,19,1,0,2,3,0,1,0,0,1,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Jebryl Sahraoui,M,Aubagne FC,90,8.3,1,0,0.04,0,1,1,0,27,0,0,0,34,0,0,0,11,2,4,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Karim Cisse,M,Aubagne FC,90,6.8,0,0,0.16,0.02,3,2,0,18,1,0,0,44,2,0,1,12,1,4,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Lenny Montfort,G,Bourg-en-Bresse,90,7.5,0,0,0,0,0,0,0,30,0,0,0,33,0,0,0,0,0,0,0,0,0,5
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Issiaka Touré,G,Aubagne FC,90,7.3,0,0,0,0,0,0,0,19,0,0,0,21,0,0,0,1,0,1,0,0,0,1
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Bilel Tafni,F,Aubagne FC,75,6.9,0,0,0,0,0,0,0,35,0,0,0,43,0,0,1,5,2,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Zaid Seha,F,Aubagne FC,36,6.3,0,0,0,0,0,0,0,8,0,0,0,14,0,0,3,4,2,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Romain Muro,D,Bourg-en-Bresse,90,6.3,0,0,0,0,0,0,0,65,0,0,0,89,0,0,0,4,4,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Mahmoud El Wakil,F,Bourg-en-Bresse,68,6.3,0,0,0,0,0,0,0,15,0,0,0,26,0,0,1,4,2,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Aness Gharbi,F,Bourg-en-Bresse,68,5.7,0,0,0,0,0,0,0,21,0,0,0,37,0,0,2,2,3,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Yassine Abraou,M,Bourg-en-Bresse,68,5.8,0,0,0,0,0,0,0,24,0,0,0,34,0,0,1,3,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Yohan Zemoura,F,Aubagne FC,63,6.6,0,0,0.51,0,2,1,0,12,0,0,0,25,0,0,0,5,4,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Adam Dihad,D,Bourg-en-Bresse,16,6.9,0,0,0,0,0,0,0,8,0,0,0,12,0,0,1,3,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Victor Lebas Da Silva,M,Bourg-en-Bresse,30,5.9,0,0,0,0,0,0,0,19,0,0,0,27,0,0,0,1,2,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Bilal Benosmane,F,Aubagne FC,24,6.6,0,0,0,0,0,0,0,10,0,0,0,18,0,0,0,2,1,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Noah Dede-Lhomme,D,Bourg-en-Bresse,90,6.9,0,0,0.03,0,1,0,0,74,0,0,0,108,0,0,2,7,1,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Mounir El Hajjami,M,Bourg-en-Bresse,90,6.1,0,0,0.08,0.08,1,0,0,40,1,0,0,65,0,0,1,9,2,2,1,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Alvin Krizoua,M,Bourg-en-Bresse,90,6.8,0,0,0.01,0,1,0,0,64,0,0,0,89,0,0,0,4,1,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Aymen Sadi,D,Aubagne FC,90,6.4,0,0,0,0,1,0,0,20,0,0,0,35,0,0,0,8,3,2,1,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Zola Onesime Muepu Ngoie,M,Bourg-en-Bresse,30,6.7,0,0,0,0.03,0,0,0,13,1,0,0,18,0,0,0,2,0,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Anisse Bellebrahim,D,Aubagne FC,90,6.3,0,0,0,0,0,0,0,24,0,0,0,38,0,0,3,3,3,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,Aubagne FC vs Bourg-en-Bresse,29/08/2026,Esteban Alberto,D,Bourg-en-Bresse,30,6.8,0,0,0.08,0.15,2,1,0,18,2,0,0,27,1,0,0,4,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Raphael Calvet,D,FC Versailles 78,90,6.3,0,0,0,0,0,0,0,55,0,0,0,68,0,0,1,7,2,0,1,0,1,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Remy Boissier,M,Amiens SC,73,6.6,0,0,0,0.2,0,0,0,21,1,0,0,31,0,0,0,5,1,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Ćazim Suljić,M,Amiens SC,90,6.5,0,0,0,0,0,0,0,51,1,0,0,62,0,0,3,5,3,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Jordan Leborgne,M,FC Versailles 78,90,6.3,0,0,0,0,0,0,0,28,0,0,0,40,0,0,3,5,1,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Mathias Fischer,M,FC Versailles 78,89,6.7,0,0,0,0.01,0,0,0,24,1,0,0,28,0,0,0,6,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Romain Basque,M,FC Versailles 78,89,6.7,0,0,0.01,0.15,1,0,0,49,1,0,0,57,1,0,1,6,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Alexis Giacomini,M,Amiens SC,26,6.8,0,0,0,0,0,0,0,12,0,0,0,13,1,0,0,3,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Abdourahmane Barry,D,FC Versailles 78,90,5.3,0,0,0,0,0,0,0,34,0,0,0,44,0,0,2,5,4,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Adrien Julloux,D,Amiens SC,90,7,0,0,0,0,0,0,0,55,0,0,0,68,0,0,4,2,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Cedric Odzoumo,F,FC Versailles 78,36,6.5,0,0,0,0,0,0,0,5,0,0,0,7,0,1,0,1,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Yannick Pandor,G,Amiens SC,90,7.5,0,0,0,0,0,0,0,39,0,0,0,47,0,0,1,0,0,0,0,0,0,1
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Jérémi Santini,M,FC Versailles 78,90,7.7,0,0,0,0.14,0,0,0,18,1,0,0,44,6,0,2,19,3,4,0,0,1,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Jawad Kalai,M,FC Versailles 78,63,6.8,0,0,0.01,0.21,1,0,0,17,1,0,0,35,0,1,0,6,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Lucas Llort,D,Amiens SC,17,6.8,0,0,0,0,0,0,0,4,0,0,0,7,0,1,0,3,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Antoine Nuss,D,Amiens SC,90,6.4,0,0,0,0,0,0,0,43,0,0,0,59,0,0,1,1,3,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Ryan Tchato,D,FC Versailles 78,71,5.8,0,0,0,0,0,0,0,22,0,0,0,29,0,0,1,1,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Dan Sinaté,D,Amiens SC,81,5.8,0,0,0,0,0,0,0,33,0,0,0,41,0,0,1,1,3,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Nathan Yavorsky,G,FC Versailles 78,90,6.1,0,0,0,0,0,0,0,39,0,0,0,49,0,0,0,0,0,0,0,0,0,1
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Keny Mbala,D,Amiens SC,90,6.8,0,0,0,0,0,0,0,59,0,0,0,70,0,0,2,2,2,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Enzo Genton,M,Amiens SC,90,7.2,0,0,0,0,0,0,0,43,0,0,0,61,1,0,1,4,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Ali Ouchen,M,FC Versailles 78,36,6.3,0,0,0,0,0,0,0,15,0,0,0,18,0,0,2,1,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Ramla Islam Dejelali,F,Amiens SC,17,6.4,0,0,0.08,0,1,1,0,6,0,0,0,18,2,0,0,3,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Amir Etien,F,FC Versailles 78,63,6.4,0,0,0.15,0,1,0,0,9,0,0,0,18,1,0,0,7,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Mathis Colin,F,Amiens SC,81,7.8,1,0,0.55,0,3,1,0,21,0,0,0,44,1,0,2,6,0,3,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Artur Zakharyan,M,FC Versailles 78,27,6.6,0,0,0,0,0,0,0,10,0,0,0,17,0,0,0,3,1,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Marvin Adélaide,F,Amiens SC,63,5.6,0,0,0.18,0,1,0,0,15,0,0,0,27,0,0,0,1,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Shelton Guillaume,F,FC Versailles 78,90,6,0,0,0.35,0,2,1,0,19,0,0,0,35,0,0,0,3,0,2,0,0,3,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Emric Goumot,M,FC Versailles 78,9,6.2,0,0,0,0,0,0,0,4,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Zourab Sopromadze,M,Amiens SC,26,7.6,1,0,0.76,0.08,1,1,0,11,1,0,0,16,1,0,0,4,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Ely Julien,F,Amiens SC,36,7.1,0,1,0,0,0,0,0,8,0,1,0,12,1,0,0,4,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Alexis Dos Santos,M,FC Versailles 78,9,6.6,0,0,0,0,0,0,0,6,0,0,0,6,0,0,1,1,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Amiens SC vs FC Versailles 78,29/08/2026,Lassina Diakité,M,Amiens SC,73,8.6,1,0,0.3,0.18,1,1,0,14,1,0,0,28,1,1,0,8,0,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Sébastien Corchia,D,AS Cannes,90,7.3,0,0,0.04,0,2,0,0,40,0,0,0,54,1,0,2,6,0,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Quentin Beunardeau,G,AS Cannes,90,7.5,0,0,0,0,0,0,0,27,0,0,0,29,0,0,0,1,0,1,0,0,0,1
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Cheikh N'Doye,M,AS Cannes,10,6.5,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,1,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Cedric Goncalves,M,AS Cannes,90,7.8,1,0,0.02,0,1,1,0,63,0,0,0,75,0,0,1,4,3,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Raouf Mroivili,M,Le Puy-en-Velay,73,6.5,0,0,0,0.01,0,0,0,33,1,0,0,43,1,0,1,4,1,3,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Julien López,F,AS Cannes,68,6.8,0,1,0,0.13,0,0,0,37,2,0,0,42,1,0,0,2,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Mahamadou Dembélé,D,Le Puy-en-Velay,32,6.9,0,0,0,0,0,0,0,32,0,0,0,39,0,0,0,2,2,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Alan Kerouedan,F,AS Cannes,90,7.6,0,1,0.29,0.22,1,1,0,37,2,0,0,46,1,1,2,4,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Matis Carvalho,G,Le Puy-en-Velay,90,6.4,0,0,0,0,0,0,0,34,0,0,0,38,0,0,0,0,0,0,0,0,0,4
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Leandro Morante,D,AS Cannes,90,7.9,1,0,0.44,0,2,1,0,42,0,0,0,56,0,0,3,6,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Ahmed Majid,M,AS Cannes,33,7.2,0,0,0.21,0.22,2,2,0,7,1,0,0,17,2,0,0,5,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Cédric Makutungu,D,AS Cannes,90,7.1,0,0,0,0,0,0,0,57,0,0,0,70,0,0,1,4,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Loup Hervieu,M,AS Cannes,90,7.3,0,0,0,0,0,0,0,39,0,0,0,47,0,0,1,5,2,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Almike Moussa N'Diaye,M,AS Cannes,10,6.9,0,0,0,0,0,0,0,9,0,0,0,15,0,0,0,2,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Malhory Noc,F,AS Cannes,21,6.5,0,0,0,0,0,0,0,7,0,0,0,12,1,0,0,3,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Loup-Diwan Gueho,D,AS Cannes,90,7,0,0,0,0,0,0,0,43,0,0,0,59,0,0,2,6,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Ismail Cissé,D,Le Puy-en-Velay,68,6.7,0,0,0.2,0,1,1,0,48,0,0,0,59,1,0,2,3,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Antoine Gauthier,M,Le Puy-en-Velay,90,7.3,0,0,0.17,0.42,2,0,0,47,2,0,0,70,3,0,1,10,2,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Raphael Gerbeaud,F,AS Cannes,68,6.2,0,0,0,0,0,0,0,15,1,0,0,25,0,0,0,5,4,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Marvin Emmanuel,F,Le Puy-en-Velay,51,6.8,0,0,0,0.06,0,0,0,19,1,0,0,35,2,0,0,7,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Vinicius Gomes,D,Le Puy-en-Velay,90,7.1,0,0,0,0,0,0,0,79,0,0,0,108,1,0,2,10,1,4,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,George Morgan,F,AS Cannes,33,6.3,0,0,0,0,0,0,0,3,0,0,0,7,0,0,0,0,1,0,0,0,1,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Lilian Baret,M,Le Puy-en-Velay,27,6.3,0,0,0,0,0,0,0,12,0,0,0,16,0,0,0,1,2,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Ilan Ducourtioux,M,Le Puy-en-Velay,22,6.5,0,0,0,0.11,0,0,0,15,1,0,0,18,0,0,0,1,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Anis Fatahine,D,Le Puy-en-Velay,90,6.7,0,0,0.01,0.06,1,0,0,51,1,0,0,69,2,0,1,6,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Renald Xhemo,M,Le Puy-en-Velay,90,6.4,0,0,0,0,0,0,0,66,0,0,0,80,0,0,2,1,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Brice Oggad,F,AS Cannes,79,6.2,0,0,0.29,0,3,1,0,17,0,0,0,35,2,0,1,6,2,2,1,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Thomas Ghalem,D,Le Puy-en-Velay,68,6.2,0,0,0.23,0,1,0,0,32,0,0,0,40,0,0,2,3,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Emmanuel Kouassi,D,Le Puy-en-Velay,90,6.8,0,0,0,0,0,0,0,44,0,0,0,68,0,0,3,11,1,4,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Plamedi Nsingi,F,Le Puy-en-Velay,32,7.1,0,0,0.06,0,1,0,0,7,0,0,0,16,0,0,1,2,0,0,0,0,1,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Michael Faty,F,Le Puy-en-Velay,78,6.2,0,0,0.26,0,1,0,0,14,0,0,0,21,0,0,0,1,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,AS Cannes vs Le Puy-en-Velay,29/08/2026,Mathis Mazaudier,F,Le Puy-en-Velay,49,6.8,0,0,0,0,0,0,0,4,0,0,0,13,0,0,0,4,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Jonathan Rivas,F,FC Fleury,88,6.8,0,0,0.2,0.11,1,0,0,28,1,0,0,52,0,0,0,11,0,6,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Kevin Farade,F,FC Fleury,90,6.3,1,0,0.31,0.01,6,3,0,20,1,0,0,35,0,0,0,3,5,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Gregoire Lefebvre,M,FC Fleury,90,5.6,0,0,0,0.21,0,0,0,74,2,0,0,88,0,0,1,2,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Hamadou Karamoko,D,FC Fleury,90,7.6,0,0,0,0,0,0,0,84,0,0,0,110,0,0,1,5,2,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Jean-Pierre Morgan,D,FC Fleury,90,6.3,0,0,0,0,0,0,0,58,0,0,0,72,0,0,1,3,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Alassane Diaby,M,Quevilly - Rouen Métropole,90,6.6,0,0,0.22,0,1,1,0,22,0,0,0,30,1,0,0,9,5,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Yoann Le Mehaute,M,FC Fleury,33,6.3,0,0,0.02,0.08,1,0,1,13,1,0,0,26,0,0,0,5,0,3,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Romain Leleve,M,FC Fleury,90,7.7,0,0,0.09,0,1,0,0,81,1,0,0,107,0,1,1,9,3,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Warren Tchimbembé,M,Quevilly - Rouen Métropole,17,6.6,0,0,0,0,0,0,0,6,0,0,0,7,0,0,0,1,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Souleymane Anne,F,FC Fleury,15,6.7,0,0,0.24,0,1,1,0,3,0,0,0,9,0,0,0,2,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Cyril Khetir,M,FC Fleury,70,6.7,0,0,0,0.14,0,0,0,46,2,0,0,59,1,0,0,3,3,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Virgil Thérésin,D,Quevilly - Rouen Métropole,90,6.4,0,0,0.11,0,1,0,0,16,0,0,0,26,1,0,2,4,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Théo Pionnier,D,Quevilly - Rouen Métropole,90,6.8,0,0,0.17,0,1,0,0,16,0,0,0,25,0,0,1,5,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Youssef Gazzaoui,D,Quevilly - Rouen Métropole,90,7.6,0,1,0,0.51,0,0,0,31,3,0,0,44,3,0,1,9,1,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Mathys Jean-Marie,F,Quevilly - Rouen Métropole,90,7.6,0,1,0.28,0.16,5,1,0,26,2,0,0,55,8,0,0,10,0,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Freddy Colombo,D,FC Fleury,76,6.5,0,0,0,0,0,0,0,56,0,0,0,75,1,0,1,5,1,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Mathis Hamdi,D,Quevilly - Rouen Métropole,90,6.4,0,0,0,0,0,0,0,21,0,0,0,32,0,0,4,5,2,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Natanaël Bouekou,M,Quevilly - Rouen Métropole,2,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Yannis Verdier,M,FC Fleury,88,6.4,0,1,0.02,0.07,1,0,0,38,1,0,0,58,2,0,0,5,0,0,0,0,1,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Mathys Silistrie,G,Quevilly - Rouen Métropole,90,7,0,0,0,0,0,0,0,19,0,0,0,20,0,0,0,0,0,0,0,0,0,3
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Gael Alette,G,FC Fleury,90,7.8,0,0,0,0,0,0,0,32,0,0,0,35,0,0,0,1,0,1,0,0,0,6
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Schinéar Mopila,D,Quevilly - Rouen Métropole,9,6.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Djiby Seck,F,Quevilly - Rouen Métropole,85,7.4,1,0,0.55,0.05,3,2,0,11,2,0,1,34,1,0,1,6,3,3,0,0,2,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Junior Burban,F,Quevilly - Rouen Métropole,17,6.4,0,0,0.04,0,1,0,0,1,0,0,0,6,0,0,0,1,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Samuel Come Ruiz,M,Quevilly - Rouen Métropole,90,8.1,1,0,0.16,0.2,2,1,0,26,3,0,0,36,0,2,3,10,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Ruben Rosa,F,Quevilly - Rouen Métropole,28,5.9,0,0,0.15,0,1,0,0,2,0,0,0,5,0,0,0,2,2,0,1,0,1,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Nadir Homssa,M,FC Fleury,15,6.3,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0,1,0,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Gabin Capuano,F,Quevilly - Rouen Métropole,74,6.8,0,0,0.41,0.03,4,3,0,8,1,0,0,19,0,0,0,5,2,1,0,0,2,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Quentin Vogt,D,FC Fleury,26,6.3,0,0,0,0,0,0,0,39,0,0,0,50,0,0,1,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Djibril Sarr,M,Quevilly - Rouen Métropole,85,7.2,0,0,0,0.41,0,0,0,21,2,1,0,39,2,0,1,5,0,3,0,0,0,0
+Ligue 3,Ligue_3_26_27,Quevilly - Rouen Métropole vs FC Fleury,29/08/2026,Franck Angong,M,FC Fleury,90,6.4,0,0,0.25,0.22,3,0,0,37,2,0,0,48,0,0,1,6,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Gaëtan Courtet,F,Valenciennes,73,6.4,0,0,0.19,0,1,0,0,12,0,0,0,18,0,0,1,2,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Vincent Viot,G,US Concarneau,90,6.9,0,0,0,0,0,0,0,12,0,0,0,12,0,0,0,0,0,0,0,0,0,2
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Loïc Goujon,M,US Concarneau,90,6.5,0,0,0.11,0,4,1,0,33,0,0,0,47,0,0,1,2,3,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Jean Louchet,G,Valenciennes,90,7.7,0,0,0,0,0,0,0,46,0,0,0,56,0,0,0,1,0,1,0,0,0,2
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Vincent Marcel,M,Valenciennes,80,6.9,0,0,0,0,1,0,0,25,0,0,0,38,0,0,0,5,2,4,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Mathis Picouleau,M,US Concarneau,90,6.6,0,0,0,0.11,0,0,0,48,3,0,0,62,0,0,3,1,3,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Bryan Passi,D,Valenciennes,90,6.8,0,0,0,0,0,0,0,86,0,0,0,112,0,0,2,4,1,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Baptiste Etcheverria,D,US Concarneau,90,7.2,0,0,0,0,0,0,0,62,0,0,0,82,3,0,0,8,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Christopher Rocchia,D,Valenciennes,88,6.8,0,0,0,0,0,0,0,31,0,0,0,41,1,1,0,6,3,2,0,0,1,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Charles Abi,F,Valenciennes,24,6.5,0,0,0,0,0,0,0,4,0,0,0,7,0,0,0,2,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Mabrouk Rouai,M,Valenciennes,90,7.5,0,0,0,0.01,0,0,0,59,1,0,0,78,1,0,3,12,3,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Abdelwahed Wahib,D,Valenciennes,9,6.7,0,0,0,0,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Djessine Seba,D,US Concarneau,90,6.6,0,0,0,0,0,0,0,58,0,0,0,69,0,0,3,2,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Jimmy Halby Touré,D,US Concarneau,90,6.9,0,0,0.11,0,1,0,0,41,0,0,0,52,0,0,3,3,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Nicolas Mercier,M,US Concarneau,24,6.4,0,0,0.11,0,1,0,0,10,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Zaïd Amir,F,Valenciennes,80,7.3,0,0,0,0.29,0,0,0,22,3,0,0,37,2,1,1,11,1,2,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Raimane Daou,M,US Concarneau,90,6.9,0,0,0,0,0,0,0,36,0,0,0,56,0,0,1,7,1,5,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Derrick Abu,D,Valenciennes,90,7.5,0,0,0,0,0,0,0,36,0,0,0,45,1,2,3,8,2,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Stan Janno,F,US Concarneau,79,5.8,0,0,0,0,0,0,0,14,0,0,0,29,2,0,0,4,2,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Maël Zogba,D,Valenciennes,90,7,0,0,0,0,0,0,0,92,0,0,0,121,0,0,0,2,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Charles Divialle,D,US Concarneau,90,6.7,0,0,0,0,0,0,0,74,0,0,0,85,0,0,3,8,2,1,1,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Aly Sidibe,F,US Concarneau,47,6.4,0,0,0,0,0,0,0,9,0,0,0,22,0,0,0,2,0,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Salif Lebouath,F,Valenciennes,16,6.6,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Thibault Marechal,M,Valenciennes,90,7.1,0,0,0.13,0.19,1,0,0,39,1,0,0,47,0,0,1,7,1,1,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Jules Varvat,F,US Concarneau,17,6.6,0,0,0.04,0.11,2,1,0,6,1,0,0,11,0,0,0,2,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Baptiste Macon,M,US Concarneau,50,7,0,0,0.07,0,1,0,0,12,0,0,0,25,1,0,0,7,2,5,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Luka Boiteau,M,Valenciennes,16,6.6,0,0,0.01,0,1,0,0,4,0,0,0,9,1,0,0,2,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Rayane Ekra,F,Valenciennes,88,6.5,0,0,0.22,0,5,2,0,21,0,0,0,36,3,0,0,5,3,0,0,0,1,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Lucasr Rosier,F,US Concarneau,72,6.2,0,0,0.01,0.07,1,0,0,30,1,0,0,49,1,0,1,3,1,1,0,0,1,0
+Ligue 3,Ligue_3_26_27,Valenciennes vs US Concarneau,29/08/2026,Kaïs Lesueur,M,Valenciennes,9,6.5,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,2,1,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Formose Mendy,D,FC Rouen,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Axel Maraval,G,FC Rouen,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Malik Tchokounté,F,FC Rouen,90,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Jean Louchet,G,Valenciennes,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Jordy Gaspar,D,FC Rouen,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Bryan Passi,D,Valenciennes,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Bakari Camara,M,FC Rouen,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Charles Abi,F,Valenciennes,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Lisandru Tramoni,M,FC Rouen,77,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Mabrouk Rouai,M,Valenciennes,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Clement Bassin,D,FC Rouen,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Issiaka Karamoko,F,FC Rouen,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Noé Sommer,M,FC Rouen,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Abdelwahed Wahib,D,Valenciennes,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Junior Ndiaye,F,Valenciennes,12,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Zaïd Amir,F,Valenciennes,90,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Derrick Abu,D,Valenciennes,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Sory Traoré,F,FC Rouen,19,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Maël Zogba,D,Valenciennes,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Melvin Borne,D,FC Rouen,19,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Salim Diaby,F,FC Rouen,13,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Zakary Lamgahez,D,FC Rouen,71,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Dany Goprou,D,Valenciennes,90,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Amara Touré,M,FC Rouen,71,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Thibault Marechal,M,Valenciennes,78,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ligue 3,Ligue_3_26_27,FC Rouen vs Valenciennes,03/09/2026,Rayane Ekra,F,Valenciennes,90,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0

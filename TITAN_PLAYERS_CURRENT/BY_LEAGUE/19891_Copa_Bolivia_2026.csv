@@ -1,0 +1,65 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Alain Baroja,G,Club Always Ready,90,6,0,0,0,0,0,0,0,14,0,0,0,15,0,0,0,0,0,0,0,0,0,1
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Alex Arancibia,G,CDT Real Oruro,90,6.6,0,0,0,0,0,0,0,26,0,0,0,30,0,0,0,0,1,0,0,0,0,3
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Leandro Corulo,D,CDT Real Oruro,90,7.3,1,0,0,0,2,1,0,17,0,0,0,34,0,0,0,4,3,3,1,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Alexis Bravo,F,CDT Real Oruro,16,6.7,0,0,0,0,0,0,0,9,1,0,0,10,1,0,0,1,0,0,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Joel Amoroso,M,Club Always Ready,45,7.9,0,1,0,0,1,0,0,32,2,2,0,42,2,0,0,2,0,0,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Carmelo Algarañaz,F,Club Always Ready,90,8.6,2,0,0,0,5,3,0,14,0,0,1,32,1,1,0,4,1,2,0,0,1,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Denis Pinto,F,CDT Real Oruro,74,6.7,0,0,0,0,0,0,0,16,0,0,0,22,1,1,0,3,0,0,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Alex Rambal,D,Club Always Ready,45,6.5,0,0,0,0,0,0,0,39,0,0,0,55,0,2,0,2,3,0,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Edwin Rivera,M,CDT Real Oruro,74,6.2,0,0,0,0,1,1,0,5,0,0,0,13,0,3,0,4,1,0,1,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Angel Quiñonez,F,CDT Real Oruro,21,6.6,0,0,0,0,0,0,0,7,0,0,0,12,0,1,0,2,0,0,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Álvaro Quiroga,M,Club Always Ready,90,6,0,0,0,0,2,1,0,51,1,0,1,60,0,2,0,2,2,0,1,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Juan Montenegro,M,CDT Real Oruro,69,7,1,1,0,0,1,1,0,11,2,0,0,27,0,0,0,2,1,0,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Edisson Restrepo,D,Club Always Ready,90,6.9,0,1,0,0,0,0,0,74,2,1,0,82,0,1,1,2,0,1,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Ramon,M,Club Always Ready,90,7.3,0,0,0,0,0,0,0,49,3,0,0,64,2,1,0,10,1,7,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Carlos Andrés Chore,D,CDT Real Oruro,74,5.8,0,0,0,0,0,0,0,9,0,0,0,17,0,1,2,1,0,0,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,José Herrera,D,Club Always Ready,73,6.6,0,1,0,0,1,0,0,40,1,0,0,51,0,1,2,2,0,0,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Francisco Gatti,M,CDT Real Oruro,90,6,0,0,0,0,1,0,0,20,1,0,0,41,1,5,2,7,1,1,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Javier Uzeda,M,Club Always Ready,73,6.5,0,0,0,0,1,0,0,28,1,0,0,39,0,0,0,0,1,0,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Richet Gomez,D,Club Always Ready,45,6.6,0,0,0,0,1,0,0,30,1,0,0,34,0,0,0,1,0,0,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Juan Godoy,F,Club Always Ready,90,9.3,2,0,0,0,5,3,0,22,0,0,0,35,0,1,0,4,0,3,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Daniel Castellón,D,CDT Real Oruro,16,7.2,0,0,0,0,0,0,0,5,0,0,0,10,0,1,0,1,0,0,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Rivaldo Omar Méndez Maraz,D,CDT Real Oruro,16,6.7,0,0,0,0,1,0,0,2,0,0,1,5,1,0,0,1,1,0,1,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Carlitos Rodriguez,D,Club Always Ready,17,6.6,0,0,0,0,0,0,0,3,1,0,0,8,0,0,0,0,0,0,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Damian Medina,D,Club Always Ready,17,6.8,0,0,0,0,0,0,0,11,0,0,0,14,0,1,0,2,1,1,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Ademar Rivera,M,CDT Real Oruro,90,6.2,0,0,0,0,0,0,0,15,0,0,0,20,0,3,1,3,3,0,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Juan Pablo Gómez,M,CDT Real Oruro,78,6.1,0,0,0,0,1,0,0,15,0,0,0,25,0,3,1,5,5,1,0,1,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Jesús Maraude,M,Club Always Ready,45,6.5,0,0,0,0,0,0,0,21,1,0,0,30,0,0,0,1,0,1,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Santos Garcia Cuellar,F,CDT Real Oruro,39,6.7,0,0,0,0,0,0,0,1,0,0,0,7,0,0,1,3,0,3,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Reymar José Balceras Cuellar,D,CDT Real Oruro,90,5.5,0,0,0,0,0,0,0,7,0,0,0,20,0,0,1,0,0,0,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Jose Ojeda,F,Club Always Ready,45,6.6,0,0,0,0,2,0,0,12,0,0,0,23,0,1,0,3,1,1,0,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Carlos Collazo,M,Club Always Ready,45,6.3,0,0,0,0,0,0,0,13,0,0,0,23,0,1,0,1,1,0,1,0,0,0
+Copa Bolivia,2026,Club Always Ready vs CDT Real Oruro,20/08/2026,Jose Velez Nina,M,CDT Real Oruro,51,5.9,0,0,0,0,1,0,0,9,0,0,0,22,2,0,0,3,2,1,1,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Alejandro Chumacero,M,Academia de Balompié Boliviano,90,6.9,0,0,0,0,0,0,0,49,1,0,0,54,0,2,1,2,1,0,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Augusto Seimandi,D,Academia de Balompié Boliviano,90,6.6,0,0,0,0,0,0,0,50,0,0,0,55,0,0,0,1,1,0,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Freddy Abastoflor,F,Academia de Balompié Boliviano,66,6.9,0,0,0,0,2,0,0,13,0,0,0,24,1,1,1,2,1,0,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Rodderyck Perozo,M,Academia de Balompié Boliviano,24,6.4,0,0,0,0,0,0,0,9,0,0,0,22,1,0,0,2,0,0,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Ramon,M,Club Always Ready,81,7.3,0,0,0,0,0,0,0,39,3,1,0,46,1,1,1,3,2,1,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Layonel Figueroa,M,Academia de Balompié Boliviano,11,6.4,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,José Herrera,D,Club Always Ready,16,6.9,0,0,0,0,1,1,0,8,0,0,0,12,0,1,0,1,0,0,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Javier Uzeda,M,Club Always Ready,81,6.8,0,0,0,0,2,0,0,28,2,0,0,38,0,2,0,2,2,0,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Pablo Vaca,M,Academia de Balompié Boliviano,31,6.3,0,0,0,0,0,0,0,15,0,0,0,18,0,0,0,0,1,0,0,1,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,José Briceño,F,Academia de Balompié Boliviano,79,6.4,0,0,0,0,1,0,0,17,0,0,0,24,1,0,0,1,0,0,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Juan Godoy,F,Club Always Ready,90,6.2,0,0,0,0,4,0,0,11,0,0,0,27,0,0,0,3,0,2,0,0,1,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Santiago Paz,G,Academia de Balompié Boliviano,90,6.4,0,0,0,0,0,0,0,35,0,0,0,40,0,0,0,0,0,0,0,0,0,1
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Enzo Rodriguez,G,Club Always Ready,90,6.9,0,0,0,0,0,0,0,20,0,0,0,25,0,0,0,1,0,1,0,0,0,1
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Gary Rea,M,Academia de Balompié Boliviano,65,6.4,0,0,0,0,0,0,0,6,0,0,0,18,0,0,0,4,2,4,1,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Damian Medina,D,Club Always Ready,74,6.7,0,0,0,0,0,0,0,15,0,0,0,34,0,1,1,3,1,1,1,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Omar Preciado,D,Academia de Balompié Boliviano,60,6.8,0,0,0,0,0,0,0,35,0,0,0,39,0,1,0,1,1,0,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Emanuel Paniagua,M,Academia de Balompié Boliviano,79,7.4,0,0,0,0,0,0,0,20,3,0,0,39,0,3,0,8,3,5,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Jean Riascos,D,Academia de Balompié Boliviano,90,6.7,0,0,0,0,0,0,0,17,1,0,0,38,1,3,0,4,2,0,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Fabio Zamora,D,Academia de Balompié Boliviano,90,6.5,0,0,0,0,2,0,0,27,1,0,0,45,0,2,1,4,0,1,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Alejandro Camacho,M,Academia de Balompié Boliviano,90,7.3,0,0,0,0,3,0,0,24,1,0,0,44,1,7,0,11,3,3,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Nicolas Villarroel,D,Club Always Ready,90,7.3,0,0,0,0,1,0,0,38,1,0,0,57,2,1,3,4,1,1,0,0,1,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Jesús Maraude,M,Club Always Ready,90,8.3,1,0,0,0,4,1,0,35,4,0,0,64,2,1,0,6,0,3,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Hector Galvis,M,Club Always Ready,90,7.2,0,0,0,0,0,0,0,35,0,0,0,41,0,2,0,4,0,1,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Kenyhiro Estrada,D,Club Always Ready,74,6.8,0,0,0,0,1,0,0,14,0,0,1,32,0,3,2,5,3,2,1,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Alexander Cespedes Vaca,M,Club Always Ready,9,6.6,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Thiago Barba,M,Club Always Ready,16,6.6,0,0,0,0,0,0,0,2,0,0,0,10,0,0,0,0,1,0,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Carlos Collazo,M,Club Always Ready,61,6.6,0,0,0,0,3,0,0,10,0,0,0,21,1,1,0,3,1,1,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Roberto Pérez,M,Club Always Ready,29,6.6,0,0,0,0,0,0,0,14,0,0,0,24,1,0,1,2,0,1,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Santiago Cuestas,M,Club Always Ready,90,7.3,0,1,0,0,0,0,0,50,2,1,0,61,0,3,3,4,3,0,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Juan Fajardo,F,Academia de Balompié Boliviano,25,6.5,0,0,0,0,1,1,0,10,1,0,0,17,0,0,0,0,0,0,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Jeffrey Minah,M,Academia de Balompié Boliviano,11,6.4,0,0,0,0,0,0,0,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Copa Bolivia,2026,Academia de Balompié Boliviano vs Club Always Ready,30/08/2026,Leandro Lara,M,Club Always Ready,9,6.9,0,0,0,0,0,0,0,2,1,0,0,6,0,1,0,1,0,0,0,0,0,0

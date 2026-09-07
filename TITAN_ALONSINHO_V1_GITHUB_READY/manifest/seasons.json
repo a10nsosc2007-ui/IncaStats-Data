@@ -304,7 +304,8 @@
         "Round 1",
         "Round 2",
         "Round 3",
-        "Round 6"
+        "Round 6",
+        "Round 4"
       ],
       "regions": [
         "Europe"
@@ -500,7 +501,8 @@
       ],
       "stages": [
         "Round 1",
-        "Round 2"
+        "Round 2",
+        "Round 3"
       ],
       "regions": [
         "Europe"
@@ -637,7 +639,8 @@
         "Round 1",
         "Round 2",
         "Round 3",
-        "Round 4"
+        "Round 4",
+        "Round 5"
       ],
       "regions": [
         "Europe"
@@ -1055,7 +1058,8 @@
         "Round 14",
         "Round 15",
         "Round 16",
-        "Round 19"
+        "Round 19",
+        "Round 20"
       ],
       "regions": [
         "Europe"
@@ -1594,7 +1598,8 @@
       ],
       "stages": [
         "Round 1",
-        "Round 2"
+        "Round 2",
+        "Round 3"
       ],
       "regions": [
         "Europe"
@@ -1731,7 +1736,8 @@
         "Round 1",
         "Round 2",
         "Round 3",
-        "Round 4"
+        "Round 4",
+        "Round 5"
       ],
       "regions": [
         "Europe"
@@ -1870,7 +1876,8 @@
         "Round 1",
         "Round 2",
         "Round 3",
-        "Round 4"
+        "Round 4",
+        "Round 5"
       ],
       "regions": [
         "Europe"
@@ -2249,7 +2256,8 @@
         "REGULAR"
       ],
       "stages": [
-        "Round 1"
+        "Round 1",
+        "Round 2"
       ],
       "regions": [
         "Europe"
@@ -2389,7 +2397,8 @@
         "Round 1",
         "Round 2",
         "Round 3",
-        "Round 4"
+        "Round 4",
+        "Round 5"
       ],
       "regions": [
         "Europe"
@@ -2527,7 +2536,8 @@
         "Round 1",
         "Round 2",
         "Round 3",
-        "Round 4"
+        "Round 4",
+        "Round 5"
       ],
       "regions": [
         "Europe"
@@ -2656,7 +2666,8 @@
         "Round 3",
         "Round 4",
         "Round 5",
-        "Round 6"
+        "Round 6",
+        "Round 7"
       ],
       "regions": [
         "Europe"
@@ -2939,7 +2950,8 @@
         "Round 13",
         "Round 14",
         "Round 18",
-        "Round 19"
+        "Round 19",
+        "Round 20"
       ],
       "regions": [
         "Europe"
@@ -3066,7 +3078,8 @@
       "stages": [
         "Round 1",
         "Round 2",
-        "Round 3"
+        "Round 3",
+        "Round 4"
       ],
       "regions": [
         "Europe"
@@ -3722,7 +3735,8 @@
       "stages": [
         "Round 1",
         "Round 2",
-        "Round 3"
+        "Round 3",
+        "Round 4"
       ],
       "regions": [
         "Europe"
@@ -3866,7 +3880,8 @@
       ],
       "stages": [
         "Round 1",
-        "Round 2"
+        "Round 2",
+        "Round 3"
       ],
       "regions": [
         "Europe"
@@ -4002,7 +4017,8 @@
       "stages": [
         "Round 1",
         "Round 2",
-        "Round 3"
+        "Round 3",
+        "Round 4"
       ],
       "regions": [
         "Europe"
@@ -4789,7 +4805,8 @@
         "Round 2",
         "Round 3",
         "Round 4",
-        "Round 5"
+        "Round 5",
+        "Round 6"
       ],
       "regions": [
         "Europe"
@@ -4910,7 +4927,8 @@
         "Round 2",
         "Round 3",
         "Round 4",
-        "Round 8"
+        "Round 8",
+        "Round 5"
       ],
       "regions": [
         "Europe"
@@ -5162,7 +5180,8 @@
         "Round 4",
         "Round 5",
         "Round 6",
-        "Round 7"
+        "Round 7",
+        "Round 8"
       ],
       "regions": [
         "Europe"
@@ -5313,7 +5332,8 @@
         "Round 5",
         "Round 2",
         "Round 6",
-        "Round 7"
+        "Round 7",
+        "Round 8"
       ],
       "regions": [
         "America"
@@ -5662,7 +5682,8 @@
         "Round 1",
         "Round 2",
         "Round 3",
-        "Round 4"
+        "Round 4",
+        "Round 5"
       ],
       "regions": [
         "Europe"
@@ -5902,7 +5923,8 @@
       ],
       "stages": [
         "Round 1",
-        "Round 2"
+        "Round 2",
+        "Round 3"
       ],
       "regions": [
         "Europe"
@@ -6093,7 +6115,8 @@
         "Round 3",
         "Round 4",
         "Round 5",
-        "Round 6"
+        "Round 6",
+        "Round 7"
       ],
       "regions": [
         "Europe"
@@ -6472,7 +6495,8 @@
         "Round 1",
         "Round 2",
         "Round 3",
-        "Round 4"
+        "Round 4",
+        "Round 5"
       ],
       "regions": [
         "Europe"
@@ -6845,7 +6869,8 @@
         "Round 23",
         "Round 24",
         "Round 25",
-        "Round 4"
+        "Round 4",
+        "Round 26"
       ],
       "regions": [
         "America"
@@ -9770,7 +9795,8 @@
         "Round 22",
         "Round 23",
         "Round 24",
-        "Round 25"
+        "Round 25",
+        "Round 26"
       ],
       "regions": [
         "America"
@@ -10015,7 +10041,8 @@
         "Round 4",
         "Round 5",
         "Round 6",
-        "Round 7"
+        "Round 7",
+        "Round 8"
       ],
       "regions": [
         "America"
@@ -10147,14 +10174,17 @@
       "season_status": "CURRENT",
       "season_status_basis": "SOFASCORE_NEXT_EVENT",
       "phases": [
-        "PLAYOFF"
+        "PLAYOFF",
+        "REGULAR"
       ],
       "stages": [
-        "Round 1"
+        "Round 1",
+        "Round 2"
       ],
       "regions": [
         "Europe"
-      ]
+      ],
+      "competition_type": "CUP"
     },
     {
       "competition_id": 465,

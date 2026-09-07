@@ -1,0 +1,402 @@
+﻿Liga,Temporada,Partido,Fecha,Jugador,Posicion,Equipo,Minutos_Jugados,Rating,Goles,Asistencias,xG,xA,Tiros_Totales,Tiros_Al_Arco,Tiros_Al_Palo,Pases_Totales,Pases_Clave,Grandes_Ocasiones_Creadas,Grandes_Ocasiones_Falladas,Toques,Regates_Completados,Entradas(Tackles),Intercepciones,Duelos_Ganados,Faltas_Cometidas,Faltas_Recibidas,Tarjetas_Amarillas,Tarjetas_Rojas,Offsides,Atajadas(Portero)
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Igor Plastun,D,KAS Eupen,90,8.1,1,0,0.3364,0.00508734,2,1,0,79,0,0,0,91,0,1,0,4,1,2,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Nicolas Gavory,D,KAS Eupen,82,6.9,0,0,0,0.194976,0,0,0,41,1,0,0,63,0,0,0,2,1,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Marco Hiller,G,KAS Eupen,90,6,0,0,0,0.00002431,0,0,0,21,0,0,0,27,0,0,0,0,0,0,0,0,0,2
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Kikas,F,KAS Eupen,85,5.4,0,1,0.7046,0.0375582,4,1,0,17,2,1,2,30,0,0,1,1,2,0,1,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Mathias Fixelles,M,KAS Eupen,19,7,0,0,0,0.00763947,0,0,0,5,0,0,0,12,0,2,2,3,1,1,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Yentl Van Genechten,D,KAS Eupen,90,7.5,1,0,0.8878,0.0884563,1,1,0,38,1,0,0,56,0,2,2,4,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Rune Paeshuyse,D,KAS Eupen,90,6.9,0,0,0,0.0101745,0,0,0,82,0,0,0,93,0,1,2,5,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Isaac Nuhu,M,KAS Eupen,45,6.9,0,0,0,0.107166,0,0,0,22,0,0,0,29,0,1,0,2,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Kayden Pierre,D,Jong KRC Genk U23,90,5.6,0,0,0,0.050408,0,0,0,28,0,0,0,43,0,0,0,2,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Amadou Keita,M,KAS Eupen,45,6.7,0,0,0,0.0844286,0,0,0,25,0,0,0,32,0,1,1,3,1,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Logan Delaurier-Chaubet,M,KAS Eupen,90,8.2,0,2,0.3904,1.4089,4,0,0,42,6,4,1,81,1,2,4,5,1,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Brad Manguelle,D,Jong KRC Genk U23,90,6.2,0,0,0,0.00749448,0,0,0,39,0,0,0,51,0,3,0,6,0,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Myung-jun Kim,M,Jong KRC Genk U23,68,7.2,1,0,0.5045,0.549815,1,1,0,10,2,1,0,18,0,1,0,2,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Yumeki Yoshinaga,D,Jong KRC Genk U23,90,5.6,0,0,0,0.0138257,0,0,0,28,0,0,0,62,0,1,1,2,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Lorenzo Youndje,D,KAS Eupen,8,6.7,0,0,0,0.00075927,0,0,0,3,0,0,0,7,0,0,2,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Chris-Kévin Nadje,M,KAS Eupen,45,7.7,1,0,0.4468,0.180681,1,1,0,11,2,0,0,20,0,1,1,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Djoully Nzoko,M,Jong KRC Genk U23,90,6.3,0,1,0.2546,0.12835,1,0,0,21,2,1,1,39,1,3,0,7,2,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Emile Doucouré,G,Jong KRC Genk U23,90,6.4,0,0,0,0.00092401,0,0,0,29,0,0,0,39,0,0,0,0,0,0,0,0,0,3
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Sandro Vidigal,F,KAS Eupen,45,8.3,1,0,0.2645,0.181084,2,2,0,6,1,1,0,17,1,0,0,3,0,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Théo Maréchal,M,KAS Eupen,71,6.9,0,0,0.0613,0.00070787,1,1,0,35,0,0,0,49,0,3,3,4,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Kiyan Achahbar,F,Jong KRC Genk U23,81,6.8,0,0,0.0956,0.00245301,1,1,0,16,0,0,0,30,1,2,1,5,2,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Jelle Driessen,M,Jong KRC Genk U23,68,6.1,0,0,0,0.00592469,0,0,0,34,0,0,0,42,0,2,0,2,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Jens De Groof,M,Jong KRC Genk U23,2,,0,0,0,0.00108346,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Ali Camara,M,Jong KRC Genk U23,9,6.5,0,0,0,0.0169074,0,0,0,3,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Wout Kapers,D,Jong KRC Genk U23,88,6.6,0,0,0,0.0185737,0,0,0,48,0,0,0,57,0,0,0,3,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Zion Henry,D,Jong KRC Genk U23,2,,0,0,0,0.00038807,0,0,0,5,0,0,0,6,0,0,0,1,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Manu Mocsnik,M,Jong KRC Genk U23,90,6.8,0,0,0.0181,0.0217315,1,0,0,47,0,0,0,71,0,3,4,6,4,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Precious Ogbeiwi,M,Jong KRC Genk U23,22,6.8,0,0,0.0589,0.00303864,1,0,0,11,1,0,0,17,1,2,1,3,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Mark Müller,M,KAS Eupen,90,7.3,0,1,0,0.0504978,0,0,0,38,2,0,0,47,1,2,1,4,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Jonathan Coenen,F,Jong KRC Genk U23,88,6,0,0,0.0171,0.144631,1,1,0,18,0,0,0,28,0,0,0,2,4,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Aron Sulejmani,F,KAS Eupen,9,7,0,0,0,0.00002897,0,0,0,2,0,0,0,7,0,1,0,3,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KAS Eupen vs Jong KRC Genk U23,15/08/2026,Mustapha Koma,F,Jong KRC Genk U23,22,6.6,0,0,0,0.00019877,0,0,0,2,0,0,0,7,0,0,0,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Radja Nainggolan,M,Patro Eisden Maasmechelen,73,6.3,0,0,0.2126,0.0153685,2,0,0,14,1,0,0,29,0,0,1,4,0,3,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Stef Peeters,M,Patro Eisden Maasmechelen,90,7.8,1,0,0.8673,0.341585,2,1,0,49,4,0,0,68,1,1,0,3,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Thomas Foket,D,RSCA Futures U23,84,6.2,0,0,0.0423,0.0167812,1,0,0,27,0,0,0,44,0,1,0,3,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Jordan Renson,D,Patro Eisden Maasmechelen,90,6.3,0,0,0.0186,0.00986339,1,0,0,35,1,0,0,44,0,0,0,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Jordi Belin,G,Patro Eisden Maasmechelen,90,7.1,0,0,0,0.0014564,0,0,0,35,0,0,0,46,0,0,0,0,0,0,0,0,0,2
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Lars Dietz,D,Patro Eisden Maasmechelen,90,6.7,0,0,0,0.00898325,0,0,0,51,1,0,0,63,0,1,1,2,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Louis Verstraete,M,Patro Eisden Maasmechelen,90,6.6,0,0,0.0193,0.0110391,1,0,0,32,1,0,0,49,0,6,0,7,3,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Haji Mnoga,M,Patro Eisden Maasmechelen,90,7.5,0,0,0.1188,0.00718643,1,1,0,23,0,0,0,44,1,2,1,8,1,3,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Isaías Delpupo,M,Patro Eisden Maasmechelen,90,8,0,0,0.287,0.261687,3,1,0,18,2,0,0,43,5,1,0,9,1,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Justin Munezero,D,Patro Eisden Maasmechelen,90,6.6,0,0,0,0.00803044,0,0,0,26,1,0,0,48,0,2,2,5,3,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Seok-ju Hong,F,Patro Eisden Maasmechelen,78,6.4,1,0,0.9778,0.00346651,4,2,0,6,2,0,0,21,0,1,1,2,4,1,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Tsubasa Kasayanagi,M,Patro Eisden Maasmechelen,68,7,0,0,0.1762,0.0230698,4,1,0,13,0,0,0,25,1,2,1,4,0,1,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Ilyas Lefrancq,F,Patro Eisden Maasmechelen,12,6.4,0,0,0,0.00631556,0,0,0,7,1,0,0,11,0,0,0,0,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Willsem Boussaid,M,RSCA Futures U23,22,6.5,0,0,0.0475,0.00068976,1,0,0,9,0,0,0,17,0,1,0,2,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Rento Takaoka,F,Patro Eisden Maasmechelen,22,6.5,0,0,0,0.00008505,0,0,0,4,0,0,0,10,0,0,0,1,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Nunzio Engwanda,D,RSCA Futures U23,90,7.5,0,0,0,0.28784,0,0,0,126,0,0,0,136,0,2,0,2,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Hüseyin Ertürk,F,Patro Eisden Maasmechelen,17,6.5,0,0,0,0.0052735,0,0,0,1,1,0,0,5,0,0,0,2,2,2,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Enzo Sternal,M,RSCA Futures U23,84,6.7,0,0,0.0116,0.190239,1,0,0,26,1,1,0,37,1,0,0,3,0,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Babatunde Akomolede,D,RSCA Futures U23,68,7.4,0,0,0.0107,0.00673716,1,0,0,29,0,0,0,51,0,2,0,4,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Mattis Seghers,G,RSCA Futures U23,90,6.9,0,0,0,0.00177604,0,0,0,35,0,0,0,45,0,0,0,1,0,0,0,0,0,3
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Ilyas Benktib,M,RSCA Futures U23,68,6.7,0,0,0,0.0188798,0,0,0,12,2,0,0,22,0,2,0,3,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Gassimou Sylla,F,RSCA Futures U23,11,6.6,0,0,0,0.00040825,0,0,0,4,0,0,0,5,0,0,0,1,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Ludovick Wola-Wetshay,D,RSCA Futures U23,90,6.8,0,0,0,0.0217627,0,0,0,102,1,0,0,116,0,1,4,5,2,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Terry Van De Ven,F,RSCA Futures U23,79,6.4,0,0,0.2293,0.0794113,2,1,0,7,1,1,1,18,0,0,0,2,1,2,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Alexander De Ridder,M,RSCA Futures U23,90,7.2,0,1,0,0.0724902,0,0,0,48,1,1,0,65,1,2,1,6,2,3,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Omar Sarr,M,RSCA Futures U23,90,6.8,0,0,0,0.0177896,0,0,0,89,1,0,0,98,1,2,0,8,4,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Joel Matadi,D,RSCA Futures U23,15,6.6,0,0,0,0.00058692,0,0,0,6,0,0,0,13,0,2,0,2,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Pape Aliya N'dao,F,RSCA Futures U23,90,6.9,1,0,0.4181,0.00544929,2,2,0,10,0,0,1,29,1,0,0,4,1,2,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Check Koité,D,RSCA Futures U23,22,4.9,0,0,0,0.00248541,0,0,0,9,0,0,0,16,0,0,2,1,2,1,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs RSCA Futures U23,15/08/2026,Mohamed Abdellaoui,M,RSCA Futures U23,15,6.4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Lukas Van Eenoo,M,K. Beerschot V.A.,90,9.9,2,0,0.3268,0.260999,3,2,0,45,1,0,0,65,2,4,1,8,5,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Jelle Vossen,F,K. Beerschot V.A.,76,6.7,0,0,0,0.00853748,0,0,0,12,0,0,0,22,0,0,1,4,1,2,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Genki Haraguchi,M,K. Beerschot V.A.,90,6.7,0,0,0.03,0.0895728,1,0,0,32,0,0,0,39,0,1,0,3,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Edisson Jordanov,D,K. Beerschot V.A.,67,6.9,0,0,0,0.199649,0,0,0,22,1,1,0,34,0,1,0,2,1,0,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Glenn Claes,M,K. Beerschot V.A.,86,7.4,0,1,0.0629,0.336018,1,0,0,23,2,1,0,41,1,1,0,5,1,0,0,0,3,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,William Popp,G,K. Beerschot V.A.,90,8.9,0,0,0,0.00344002,0,0,0,36,0,0,0,49,0,0,0,2,0,1,0,0,0,3
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Toshio Lake,F,K. Beerschot V.A.,10,6.4,0,0,0.0389,0.00230476,1,0,0,4,0,0,0,7,0,0,0,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Brian Plat,D,K. Beerschot V.A.,90,6.9,0,0,0,0.00797876,0,0,0,45,0,0,0,48,0,0,0,3,2,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Dennis Gyamfi,D,K. Beerschot V.A.,90,7.7,0,0,0,0.0126918,0,0,0,53,0,0,0,71,0,1,4,6,0,3,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,D'Margio Wright-Phillips,F,K. Beerschot V.A.,76,7.6,1,0,0.5024,0.00923155,1,1,0,9,0,0,0,25,2,0,0,2,0,0,0,0,2,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Bas Van den Eynden,D,K. Beerschot V.A.,86,7.3,0,0,0.1313,0.00821865,1,0,0,62,0,0,1,73,0,3,0,6,2,1,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Sem Audoor,D,K. Beerschot V.A.,23,7.2,0,0,0,0.504623,0,0,0,9,1,0,0,12,0,1,0,1,3,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Anas Haj Mohamed,F,K. Beerschot V.A.,14,6.3,0,1,0.093,0.00072782,1,0,0,4,1,1,0,8,0,0,1,0,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Axl Van Himbeeck,M,K. Beerschot V.A.,90,6.8,0,0,0,0.0625562,0,0,0,23,0,0,0,34,1,1,1,3,4,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Saidou Toure,F,KAA Gent Reserve U23,12,6.7,0,0,0,0.00132157,0,0,0,5,0,0,0,6,0,0,0,1,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Milan Govaers,D,K. Beerschot V.A.,10,6.6,0,0,0,0.00008842,0,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Gyano Vanderdonck,M,KAA Gent Reserve U23,45,6.2,0,0,0.0397,0.00196496,1,0,0,17,0,0,0,23,1,1,0,2,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Moctar Diop,F,KAA Gent Reserve U23,24,6.3,0,0,0,0.00008307,0,0,0,4,0,0,0,9,0,0,0,2,2,1,1,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Oleksandr Soroka,M,KAA Gent Reserve U23,90,6.5,0,0,0,0.0180834,0,0,0,72,1,0,0,80,0,1,2,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Ali Donny Sylla,M,KAA Gent Reserve U23,66,6.8,0,0,0.3604,0.00732402,1,1,0,17,0,0,0,24,0,1,0,3,0,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Trey Kongolo,D,KAA Gent Reserve U23,90,5.8,0,0,0,0.0118712,0,0,0,63,0,0,0,68,0,0,0,0,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Mohammed El Âdfaoui,M,KAA Gent Reserve U23,90,6.7,0,0,0.0367,0.417509,1,0,0,48,2,0,0,64,0,4,1,7,1,3,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Arnold Vula,F,K. Beerschot V.A.,14,8.1,1,1,0.3048,0.0361512,2,1,0,5,3,0,0,15,0,2,0,3,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Bas Evers,G,KAA Gent Reserve U23,90,6,0,0,0,0.00722739,0,0,0,40,0,0,0,41,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Ruslan Vydysh,M,KAA Gent Reserve U23,78,6.4,0,0,0.0772,0.147227,2,1,0,35,2,1,0,48,1,0,0,2,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Abubakar Abdullahi,M,KAA Gent Reserve U23,90,6.6,0,0,0,0.0237278,0,0,0,28,0,0,0,44,0,1,1,7,1,3,0,0,2,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Preben Blondeel,D,KAA Gent Reserve U23,90,6.3,0,0,0.1946,0.00863893,1,1,0,91,0,0,1,102,0,1,2,4,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Lars Cooman,D,KAA Gent Reserve U23,90,6.6,0,0,0,0.0115282,0,0,0,51,0,0,0,82,0,2,4,7,1,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Daniel James Wisdom,F,KAA Gent Reserve U23,45,6.5,0,0,0,0.00674814,0,0,0,11,0,0,0,18,1,0,0,4,2,3,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Abdul Ayinde,D,KAA Gent Reserve U23,65,5.9,0,0,0,0.0119182,0,0,0,33,0,0,0,47,0,0,0,2,0,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,K. Beerschot V.A. vs KAA Gent Reserve U23,16/08/2026,Victor Vandenbroucke,D,KAA Gent Reserve U23,25,5.9,0,0,0,0.00018265,0,0,0,7,0,0,0,14,0,0,1,1,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Igor Plastun,D,KAS Eupen,90,6.4,0,0,0.0635,0.121259,2,1,0,60,1,0,0,74,0,1,0,7,2,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Nicolas Gavory,D,KAS Eupen,78,6.1,0,0,0.0171,0.0603736,1,0,0,25,0,0,0,47,1,2,0,5,3,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Marco Hiller,G,KAS Eupen,90,6.7,0,0,0,0.00101911,0,0,0,28,0,0,0,37,0,0,0,1,0,0,0,0,0,5
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Ba-Muaka Simakala,F,KAS Eupen,45,6.3,0,0,0.3886,0.0117521,2,0,0,8,0,0,0,15,0,1,0,2,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Maxime Pau,M,KSC Lokeren,86,8,0,0,0.0951,0.245179,2,2,0,43,3,2,0,66,2,0,0,9,1,5,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Matias Lloci,D,KSC Lokeren,90,7.4,1,0,0.3658,0.0039892,4,2,0,14,0,0,1,37,0,0,1,2,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Kikas,F,KAS Eupen,45,6.3,0,0,0.0374,0.00024161,1,0,0,7,0,0,0,15,0,0,0,3,0,0,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Mathias Fixelles,M,KAS Eupen,32,6.7,0,0,0,0.0486378,0,0,0,26,0,0,0,33,0,2,0,2,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Yentl Van Genechten,D,KAS Eupen,90,6.7,0,0,0.0609,0.215119,1,0,0,19,1,0,0,47,0,1,2,3,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Jarno Vervaque,D,KSC Lokeren,86,6.6,0,1,0.0752,0.0600541,1,0,0,29,3,0,0,55,0,1,3,2,2,1,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Rune Paeshuyse,D,KAS Eupen,90,6.4,0,0,0.0361,0.00762574,1,0,0,38,0,0,0,48,0,0,0,2,1,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Isaac Nuhu,M,KAS Eupen,59,6.6,0,0,0.0282,0.0436933,1,1,0,20,2,0,0,37,0,0,1,4,2,3,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Sam Van Aerschot,M,KSC Lokeren,90,6.4,0,0,0,0.0451271,0,0,0,38,0,0,0,55,1,2,0,6,2,1,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Toon Janssen,M,KSC Lokeren,10,6.8,0,0,0.2081,0.00221277,1,0,0,3,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Rune Van Den Bergh,M,KSC Lokeren,90,7.5,1,0,0.1422,0.0125025,1,1,0,39,0,0,0,53,0,2,3,3,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Luan Simnica,M,KSC Lokeren,21,6.7,0,0,0,0.00630917,0,0,0,10,1,0,0,17,1,1,0,3,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Logan Delaurier-Chaubet,M,KAS Eupen,88,6.3,0,0,0.1011,0.198933,3,1,0,39,1,0,0,69,0,2,1,5,2,2,2,1,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Anisse Brrou,M,KSC Lokeren,10,6.6,0,0,0.0478,0.00287386,1,0,0,3,1,0,0,7,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Andreas Spegelaere,D,KSC Lokeren,90,6.7,0,0,0.1221,0.00314952,1,0,0,38,0,0,1,55,0,2,0,3,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Jonas Lietaert,D,KSC Lokeren,90,7,0,0,0,0.00252655,0,0,0,44,1,0,0,64,0,2,2,7,3,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Lorenzo Youndje,D,KAS Eupen,12,7,0,1,0,0.0968356,0,0,0,6,1,0,0,10,0,0,1,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Simon Vervacke,G,KSC Lokeren,90,6.7,0,0,0,0.0007893,0,0,0,35,0,0,0,46,0,0,0,0,0,0,0,0,0,4
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Chris-Kévin Nadje,M,KAS Eupen,90,6.1,0,0,0.028,0.0417774,1,0,0,20,0,0,0,40,1,2,0,6,1,2,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Jordi Palacios,D,KSC Lokeren,90,7.1,0,0,0,0.0787972,0,0,0,49,0,0,0,67,0,3,1,5,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Sandro Vidigal,F,KAS Eupen,31,7.7,1,0,0.2443,0.00366085,2,1,0,9,0,0,0,31,0,2,0,5,0,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Théo Maréchal,M,KAS Eupen,58,6.4,0,0,0,0.00944929,0,0,0,20,1,0,0,25,0,0,3,0,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Vancy Mabanza,F,KSC Lokeren,90,7,0,0,0.6386,0.00292424,3,2,0,10,0,0,1,44,1,0,0,14,4,3,0,0,2,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Jassim Mazouz,M,KSC Lokeren,69,7.3,0,1,0.196,0.207007,1,0,0,23,3,2,1,37,1,2,1,6,2,1,1,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Mark Müller,M,KAS Eupen,78,6.4,0,0,0.0842,0.142624,1,0,0,18,1,0,0,35,0,1,0,4,1,3,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs KAS Eupen,21/08/2026,Aron Sulejmani,F,KAS Eupen,12,6.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Alliou Dembele,M,Royal Excelsior Virton,90,7,0,0,0.0655,0.0171269,1,0,0,31,1,0,0,45,0,6,3,6,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Alexis Flips,M,RSCA Futures U23,66,6.2,0,0,0,0.0628439,0,0,0,39,2,0,0,51,0,0,0,1,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Tyron Tormin,M,Royal Excelsior Virton,3,,0,0,0,0.00025972,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Gaëtan Arib,M,Royal Excelsior Virton,75,7.1,0,0,0,0.273233,0,0,0,46,3,0,0,56,1,3,0,4,1,0,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Jean-Claude Ntenda,D,Royal Excelsior Virton,90,7.1,0,0,0.0307,0.0114138,1,0,0,19,2,0,0,46,2,3,1,6,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Paul Wade,M,Royal Excelsior Virton,75,7.5,0,1,0.1701,1.01594,3,1,0,20,2,2,0,35,2,2,2,4,0,0,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Allan Tchaptchet,D,Royal Excelsior Virton,90,7.2,0,0,0,0.033048,0,0,0,38,1,0,0,54,0,3,7,4,1,0,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Antoine Valerio,M,Royal Excelsior Virton,15,6.7,0,0,0,0.00546105,0,0,0,5,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Celestin De Schrevel,G,Royal Excelsior Virton,90,7.2,0,0,0,0.0036045,0,0,0,32,0,0,0,43,0,0,0,0,0,0,0,0,0,3
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,William Simba,M,Royal Excelsior Virton,15,6.7,0,0,0.1039,0.00178519,1,0,0,7,0,0,0,11,0,1,0,4,2,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Maxime Guillaume,M,Royal Excelsior Virton,24,6.7,0,0,0,0.00181435,0,0,0,16,0,0,0,25,0,0,0,1,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Michiel Haentjens,G,RSCA Futures U23,90,7.4,0,0,0,0.00182855,0,0,0,35,0,0,0,48,0,0,0,2,0,1,0,0,0,4
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Marks Inchaud,F,Royal Excelsior Virton,3,,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Nunzio Engwanda,D,RSCA Futures U23,90,7.2,0,0,0.0122,0.0705223,1,0,0,105,0,0,0,119,2,1,1,3,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Steeven Assengue,D,Royal Excelsior Virton,66,6.8,0,0,0,0.0190018,0,0,0,26,0,0,0,50,0,5,2,6,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Enzo Sternal,M,RSCA Futures U23,80,6.7,0,0,0.0524,0.102411,2,0,0,38,1,0,0,59,2,0,1,3,0,1,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Babatunde Akomolede,D,RSCA Futures U23,70,7,0,0,0,0.120906,0,0,0,58,1,0,0,77,0,3,1,6,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Ilyas Benktib,M,RSCA Futures U23,24,6.6,0,0,0.0918,0.0502633,2,1,0,7,1,0,0,14,1,0,0,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Hugo Lambotte,D,Royal Excelsior Virton,90,8.3,0,0,0,0.00538336,0,0,0,44,0,0,0,68,1,4,3,6,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Gassimou Sylla,F,RSCA Futures U23,10,6.1,0,0,0.1348,0.00892458,1,0,0,6,0,0,0,13,0,0,0,1,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Ludovick Wola-Wetshay,D,RSCA Futures U23,90,6.8,0,0,0,0.0168562,0,0,0,102,0,0,0,121,0,2,2,4,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Abdelsamad Hachem,F,Royal Excelsior Virton,87,6.5,1,0,1.5303,0.0623281,6,2,0,26,2,0,1,44,0,0,2,6,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Terry Van De Ven,F,RSCA Futures U23,90,6.2,0,0,0,0.0101779,0,0,0,17,1,0,0,33,2,0,0,2,3,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Gorak Ghale,M,RSCA Futures U23,10,6.6,0,0,0,0.00002612,0,0,0,3,0,0,0,9,0,1,0,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Alexander De Ridder,M,RSCA Futures U23,90,6.9,0,0,0,0.0546294,0,0,0,55,1,0,0,67,0,2,1,2,2,0,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Omar Sarr,M,RSCA Futures U23,90,7.6,0,0,0,0.0936201,0,0,0,67,3,0,0,80,1,2,1,5,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Ehsan Kari,D,Royal Excelsior Virton,90,7.9,0,0,0,0.0071127,0,0,0,56,0,0,0,80,1,2,2,5,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Joel Matadi,D,RSCA Futures U23,66,6.7,0,0,0.077,0.0608982,1,0,0,42,0,0,0,70,1,0,2,2,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Pape Aliya N'dao,F,RSCA Futures U23,80,5.9,0,0,0.1758,0.00692687,4,2,0,20,0,0,0,40,0,2,1,3,0,0,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Ihab Goudani El Baraka,M,Royal Excelsior Virton,87,7,0,0,0.2273,0.176441,3,2,0,42,3,0,0,71,2,1,1,4,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Check Koité,D,RSCA Futures U23,20,7.3,0,0,0,0.165544,0,0,0,21,2,0,0,37,0,1,0,3,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs Royal Excelsior Virton,21/08/2026,Mohamed Abdellaoui,M,RSCA Futures U23,24,6.6,0,0,0.0847,0.0323143,1,0,0,14,0,0,0,17,0,0,0,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Lukas Van Eenoo,M,K. Beerschot V.A.,90,7,0,0,0.1242,0.361747,2,0,0,61,2,0,0,78,1,2,1,5,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Jelle Vossen,F,K. Beerschot V.A.,90,7.3,0,0,0.0314,0.141713,1,0,0,21,1,0,0,29,0,1,0,8,0,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Genki Haraguchi,M,K. Beerschot V.A.,90,8,0,0,0,0.378553,0,0,0,51,2,0,0,74,2,2,0,4,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Edisson Jordanov,D,K. Beerschot V.A.,45,6.1,0,0,0.0108,0.0044991,1,0,0,20,0,0,0,29,0,0,0,0,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Glenn Claes,M,K. Beerschot V.A.,83,7.7,0,0,0,0.0747898,0,0,0,22,0,0,0,44,0,1,1,3,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Kobe Cools,D,FCV Dender,90,7.3,0,1,0.0917,0.166267,1,1,0,22,1,0,0,35,0,1,2,5,4,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,William Popp,G,K. Beerschot V.A.,90,6.7,0,0,0,0.00050407,0,0,0,28,0,0,0,46,0,0,0,1,0,1,0,0,0,6
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Julien Devriendt,G,FCV Dender,90,8,0,0,0,0.00503763,0,0,0,30,0,0,0,47,0,0,0,1,0,0,0,0,0,2
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Junior Marsoni Sambu Mansoni​,D,FCV Dender,90,6.8,0,0,0.2118,0.1939,1,0,0,28,0,0,1,47,0,2,1,2,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Nathan Rodes,M,FCV Dender,90,7.7,0,0,0,0.498055,0,0,0,27,2,1,0,44,2,1,1,4,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Toshio Lake,F,K. Beerschot V.A.,14,6.8,0,0,0,0.468717,0,0,0,10,0,0,0,16,1,0,0,2,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Brian Plat,D,K. Beerschot V.A.,76,7.3,0,0,0,0.068553,0,0,0,75,0,0,0,92,0,3,5,4,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Dennis Gyamfi,D,K. Beerschot V.A.,90,6.8,0,0,0,0.0396688,0,0,0,71,0,0,0,91,0,2,0,8,2,4,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,D'Margio Wright-Phillips,F,K. Beerschot V.A.,90,6,0,0,0.1978,0.0347103,2,1,0,11,0,0,0,21,0,0,0,1,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,David Toshevski,F,FCV Dender,27,6.7,0,0,0.1864,0.119987,1,1,0,5,2,0,0,10,0,0,0,2,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Pjotr Kestens,M,FCV Dender,3,,0,0,0.0365,0.0295268,1,1,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Bas Van den Eynden,D,K. Beerschot V.A.,45,6.6,0,0,0,0.00724223,0,0,0,49,0,0,0,55,1,1,0,5,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Malcolm Viltard,M,FCV Dender,90,7.2,0,0,0.0534,0.0281647,2,0,1,34,1,1,0,57,0,2,0,5,1,1,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Martin Expérience,D,FCV Dender,90,7.4,0,0,0.0365,0.0984657,2,1,0,30,1,0,0,57,1,4,0,8,2,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Ilias Breugelmans,D,FCV Dender,90,7.4,0,0,0.0437,0.0434452,1,0,0,28,1,0,0,49,0,1,0,7,2,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Sem Audoor,D,K. Beerschot V.A.,45,6.4,0,0,0,0.0327342,0,0,0,28,0,0,0,47,0,1,0,2,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Axl Van Himbeeck,M,K. Beerschot V.A.,45,6.6,0,0,0,0.0058359,0,0,0,13,0,0,0,25,0,3,0,4,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Milan Govaers,D,K. Beerschot V.A.,45,8.9,0,0,0,0.0365524,0,0,0,53,0,0,0,65,0,0,0,1,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Emmanuel Mballa,F,FCV Dender,63,6.9,0,0,0.4801,0.220582,2,2,0,15,1,0,1,26,0,1,0,6,2,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Ensar Brahić,F,K. Beerschot V.A.,10,6.4,0,0,0,0.00113346,0,0,0,1,0,0,0,3,0,0,0,2,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Krzysztof Koton,M,FCV Dender,89,6.5,0,0,0.0708,0.313126,1,0,0,27,2,0,0,40,0,1,0,2,2,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Arnold Vula,F,K. Beerschot V.A.,45,6.5,0,0,0.2647,0.00007541,2,1,0,6,0,0,0,18,2,0,0,5,1,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Bo De Kerf,D,FCV Dender,90,10,2,0,0.1969,0.0133651,2,2,0,40,0,0,0,59,0,2,1,6,0,2,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Amine Daali,M,FCV Dender,87,7.4,0,0,0.1172,0.356743,1,1,0,35,1,0,0,60,0,4,1,6,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,FCV Dender vs K. Beerschot V.A.,22/08/2026,Oskar Szulc,M,FCV Dender,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Denis Odoi,D,Club NXT U23,90,7.1,0,0,0,0.0255458,0,0,0,123,0,0,0,130,0,0,1,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Nick Gillekens,G,RFC Seraing,90,5.5,0,0,0,0.0029066,0,0,0,26,0,0,0,36,0,0,0,0,0,0,0,0,0,2
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Victor Corneillie,D,RFC Seraing,90,6.4,0,0,0,0.00232292,0,0,0,35,0,0,0,50,0,4,2,5,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Milan Robberechts,M,Club NXT U23,83,6.4,0,1,0.1178,0.0928517,2,0,0,21,1,0,0,38,0,3,0,4,3,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Anas Namri,D,RFC Seraing,90,7.3,0,0,0,0.0700234,0,0,0,24,2,0,0,42,1,4,1,8,3,3,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Matthieu Muland,F,RFC Seraing,59,8.8,2,0,1.1655,0.00590691,4,3,1,10,0,0,1,19,0,1,0,3,2,2,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Argus Vanden Driessche,G,Club NXT U23,90,8,0,0,0,0.00121216,0,0,0,69,0,0,0,81,0,0,0,2,0,1,0,0,0,2
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Alexander Vandeperre,D,Club NXT U23,62,7.5,0,0,0,0.142092,0,0,0,28,1,0,0,47,1,4,0,6,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Briek Morel,D,Club NXT U23,13,6.1,0,0,0,0.00033978,0,0,0,3,0,0,0,5,0,1,0,1,0,0,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Nabil Bouchentouf,D,RFC Seraing,63,6.1,0,0,0.0354,0.0164,1,0,0,12,0,0,0,27,0,3,0,3,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Oussmane Kebe,D,RFC Seraing,86,6.2,0,0,0,0.137857,0,0,0,28,1,1,0,44,0,0,2,1,0,1,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Jessi Da Silva,M,Club NXT U23,78,6.9,0,1,0.2438,0.189219,2,1,0,24,1,1,0,41,0,1,0,5,0,4,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Wassim Bahri,M,RFC Seraing,63,6.8,0,0,0.2724,0.0291063,1,0,0,22,2,1,1,39,1,2,2,5,3,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Yannis Lawson,M,RFC Seraing,31,6.4,0,0,0.0861,0.00082304,1,0,0,8,0,0,0,10,0,0,0,1,1,0,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Matteo Scarpinati,M,RFC Seraing,22,3.9,0,0,0,0.000034,0,0,0,9,0,0,0,15,0,2,1,2,1,0,1,1,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Al-Hassan Kamara,F,Club NXT U23,62,7.1,1,0,0.6131,0.0117724,2,1,0,15,1,0,0,36,1,1,3,3,3,1,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Andre Garcia,D,Club NXT U23,20,6.4,0,0,0,0.00594878,0,0,0,10,0,0,0,14,0,1,0,2,1,1,0,1,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Naïm Amengai,M,Club NXT U23,90,8.5,1,0,0.0871,0.0971621,2,2,0,37,1,0,0,57,1,4,0,8,1,3,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Emmanuel Tshimbalanga,D,RFC Seraing,90,5.7,0,0,0,0.0127675,0,0,0,25,0,0,0,55,1,2,1,5,3,1,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Elijah Ly,F,Club NXT U23,28,6.3,0,0,0.0237,0.0017409,1,0,0,7,0,0,0,20,2,1,0,4,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Jakke Van Britsom,F,Club NXT U23,78,7.2,1,0,0.165,0.0474583,1,1,0,19,2,0,0,26,1,0,0,1,0,0,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Gianluca Okon-Engstler,M,Club NXT U23,90,7.1,0,0,0,0.0496751,0,0,0,48,0,0,0,63,0,2,0,8,2,5,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Utku Kurtal,M,Club NXT U23,12,6.3,0,0,0,0.00017037,0,0,0,5,0,0,0,5,0,0,0,0,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Tom Lockman,F,RFC Seraing,28,6.5,0,0,0,0.00308522,0,0,0,2,0,0,0,7,0,1,0,1,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Valerio Di Crescenzo,M,RFC Seraing,27,6.9,0,0,0,0.0071463,0,0,0,12,0,0,0,21,1,1,0,5,0,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Mohamed Elbay,D,Club NXT U23,90,7,0,0,0,0.0422061,0,0,0,69,0,0,0,87,0,2,0,5,1,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Samba Coulibaly,D,Club NXT U23,90,7,0,0,0,0.0345503,0,0,0,104,0,0,0,117,0,3,0,7,1,3,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Moustapha Diop,D,RFC Seraing,90,6.3,0,0,0.0691,0.00147755,2,1,0,25,0,0,0,36,0,2,2,3,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Matteo Bisarre,F,RFC Seraing,10,6.7,0,1,0,0.00193087,0,0,0,1,1,1,0,4,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Reda Aamer,M,RFC Seraing,27,7.1,0,1,0,0.0427166,0,0,0,8,1,1,0,14,0,0,1,2,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Mahi Gnemagnon,F,RFC Seraing,62,6.3,0,0,0.306,0.00085432,1,1,1,8,0,0,1,23,1,3,0,5,4,1,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Club NXT U23 vs RFC Seraing,22/08/2026,Matteo Soria,F,Club NXT U23,12,6.4,0,0,0,0.00003874,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Pierre-Yves Ngawa,D,RFC Liège,90,6.1,0,0,0,0.00083406,0,0,0,17,0,0,0,27,0,2,0,2,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Jonathan D'Ostilio,D,RFC Liège,90,6.6,0,0,0.1257,0.0278654,1,0,0,24,1,0,0,53,1,2,1,3,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Reno Wilmots,M,RFC Liège,90,6.9,0,0,0,0.00114603,0,0,0,20,0,0,0,39,0,3,1,4,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Simon Paulet,M,RFC Liège,90,8.3,2,0,0.9293,0.00847588,2,2,0,29,0,0,0,57,1,4,3,8,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Kays Ruiz-Atil,M,RFC Liège,88,6.9,0,0,0.2425,0.176014,3,0,0,34,3,1,0,50,1,1,1,6,1,3,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Oregan Ravet,G,RFC Liège,90,7.6,0,0,0,0.00175607,0,0,0,25,0,0,0,38,0,1,0,5,0,3,0,0,0,3
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Kayden Pierre,D,Jong KRC Genk U23,89,6.1,0,0,0.1357,0.111495,2,0,0,27,1,0,0,47,1,0,0,4,2,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Benoit Bruggeman,M,RFC Liège,74,7.3,0,1,0.1264,0.179265,2,0,0,24,1,1,1,42,2,1,1,12,1,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Yaimar Medina,D,Jong KRC Genk U23,45,6.2,0,1,0,0.0953491,0,0,0,29,1,0,0,37,0,2,1,2,3,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Valentin Guillaume,M,RFC Liège,88,6.3,0,0,0.029,0.17774,1,0,0,23,0,0,0,39,0,1,1,2,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Eric N'jo,D,RFC Liège,90,7.1,0,0,0.1485,0.00608857,1,0,0,31,1,0,1,43,0,0,0,0,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Kevin Shkurti,M,RFC Liège,9,6.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Brad Manguelle,D,Jong KRC Genk U23,34,6.7,0,0,0.1863,0.00421746,1,0,0,28,0,0,0,33,0,0,2,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Robin Mirisola,F,Jong KRC Genk U23,90,8.4,2,0,1.1567,0.016824,6,2,0,22,1,0,0,38,0,0,0,4,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Myung-jun Kim,M,Jong KRC Genk U23,90,7.3,0,0,0.1397,0.285968,2,0,1,32,3,0,0,53,3,3,0,10,2,4,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Noah Adedeji-Sternberg,M,Jong KRC Genk U23,90,6.8,0,0,0.0795,0.227324,2,0,0,48,0,0,0,86,1,2,0,6,1,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Djoully Nzoko,M,Jong KRC Genk U23,74,6.9,0,0,0.0227,0.290166,1,0,0,22,1,0,0,44,5,1,1,6,0,0,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Ousmane Camara,M,RFC Liège,26,6.5,0,0,0,0.00135401,0,0,0,6,0,0,0,14,1,2,0,3,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Emile Doucouré,G,Jong KRC Genk U23,90,5.6,0,0,0,0.00070053,0,0,0,27,0,0,0,34,0,1,0,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Elie Mbavu,D,Jong KRC Genk U23,90,6.6,0,0,0,0.192735,0,0,0,63,1,0,0,70,0,2,0,4,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Jelle Driessen,M,Jong KRC Genk U23,74,6.9,0,0,0.0266,0.0408282,1,1,0,57,0,0,0,65,0,1,0,2,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,August De Wannemacker,M,Jong KRC Genk U23,90,7.8,0,0,0.082,0.46305,1,0,0,99,5,0,0,111,2,1,0,8,1,3,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Nacim Dendani,F,RFC Liège,64,6.8,0,0,0.0399,0.00721997,1,0,0,13,0,0,0,27,0,2,0,5,0,3,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Ali Camara,M,Jong KRC Genk U23,16,6.8,0,0,0.0676,0.0157055,1,0,0,5,0,0,0,14,0,3,1,4,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Wout Kapers,D,Jong KRC Genk U23,45,7.4,0,0,0.0827,0.322898,1,0,0,25,4,0,0,43,1,0,1,3,1,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Zion Henry,D,Jong KRC Genk U23,56,6.6,0,0,0,0.00365635,0,0,0,41,0,0,0,49,1,0,1,3,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Ryan Ogam,F,RFC Liège,64,6,0,0,0.2497,0.00536814,1,0,0,11,1,0,0,21,0,0,0,1,1,1,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Stephen Reynaerts,D,RFC Liège,16,6.4,0,0,0,0.00041732,0,0,0,7,0,0,0,12,0,0,1,1,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Jonathan Coenen,F,Jong KRC Genk U23,8,6.4,0,0,0.028,0,1,1,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Mustapha Koma,F,Jong KRC Genk U23,16,6.6,0,0,0.092,0.241488,2,1,0,3,1,0,0,6,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Ilunga Kitoko,D,RFC Liège,9,6.7,0,0,0,0.00000319,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Jong KRC Genk U23 vs RFC Liège,23/08/2026,Adham Refai,M,RFC Liège,26,6.3,0,0,0,0.00220685,0,0,0,6,0,0,0,9,0,0,0,1,1,0,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Maxime Pau,M,KSC Lokeren,90,9,1,0,0.2111,0.591957,4,1,0,59,3,1,0,90,3,0,3,8,1,5,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Matias Lloci,D,KSC Lokeren,90,7.4,0,0,0.1935,0.486925,4,0,0,46,3,2,0,82,0,3,0,9,1,4,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Modeste Duku Mbenga,F,KSC Lokeren,23,6.5,0,0,0,0.0134056,0,0,0,9,0,0,0,17,0,0,0,1,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Jarno Vervaque,D,KSC Lokeren,67,6.5,0,0,0.0316,0.0215573,1,0,0,21,1,0,0,47,0,2,3,4,0,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Sam Van Aerschot,M,KSC Lokeren,80,6.8,0,0,0.1687,0.0347738,2,0,0,39,0,0,0,56,1,3,0,6,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Kayden Pierre,D,Jong KRC Genk U23,90,6.5,0,1,0,0.173234,0,0,0,18,2,1,0,33,2,1,0,4,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Rune Van Den Bergh,M,KSC Lokeren,67,6.1,0,0,0,0.0365296,0,0,0,26,3,0,0,33,1,1,0,2,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Robin Denuit,D,KSC Lokeren,18,7.1,0,0,0,0.0287054,0,0,0,19,0,0,0,23,0,1,0,2,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Luan Simnica,M,KSC Lokeren,10,6.5,0,0,0,0.00134144,0,0,0,2,0,0,0,5,0,1,0,2,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Anisse Brrou,M,KSC Lokeren,45,6.6,0,0,0.0127,0.157661,1,0,0,18,1,0,0,32,1,1,1,3,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Brad Manguelle,D,Jong KRC Genk U23,1,,0,0,0,0,0,0,0,1,0,0,0,4,0,0,1,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Andreas Spegelaere,D,KSC Lokeren,90,6.3,0,0,0.4431,0.028101,2,0,0,65,0,0,1,82,0,3,0,6,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Jonas Lietaert,D,KSC Lokeren,72,6.3,0,0,0,0.0199468,0,0,0,49,0,0,0,60,0,3,0,3,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Myung-jun Kim,M,Jong KRC Genk U23,90,8,2,0,1.4088,0.0125884,4,2,0,13,0,0,0,32,2,0,0,2,4,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Yumeki Yoshinaga,D,Jong KRC Genk U23,90,6.6,1,0,0.2138,0.191679,1,1,0,23,2,0,0,48,0,0,2,1,2,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Simon Vervacke,G,KSC Lokeren,90,5.8,0,0,0,0.00459083,0,0,0,46,0,0,0,53,0,0,0,0,0,0,0,0,0,2
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Djoully Nzoko,M,Jong KRC Genk U23,76,6.9,0,1,0.0175,0.734877,1,0,0,21,3,1,0,38,2,1,0,3,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Emile Doucouré,G,Jong KRC Genk U23,90,6.4,0,0,0,0.00037015,0,0,0,30,0,0,0,46,0,0,0,2,0,1,0,0,0,2
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Jordi Palacios,D,KSC Lokeren,90,6.9,0,1,0.0141,0.0966242,1,1,0,58,2,0,0,75,1,4,0,7,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Kiyan Achahbar,F,Jong KRC Genk U23,76,7,0,1,0,0.0674114,0,0,0,18,2,1,0,30,1,1,0,3,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Elie Mbavu,D,Jong KRC Genk U23,90,6.8,0,0,0,0.0259168,0,0,0,15,1,0,0,25,0,0,0,2,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Jelle Driessen,M,Jong KRC Genk U23,14,6.7,0,0,0.0272,0.0321615,1,1,0,7,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,August De Wannemacker,M,Jong KRC Genk U23,90,7.5,0,0,0.0925,0.078949,3,1,0,48,1,0,0,85,2,6,2,13,0,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Wout Kapers,D,Jong KRC Genk U23,90,6.1,0,0,0,0.00567438,0,0,0,36,0,0,0,49,1,0,2,2,2,0,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Manu Mocsnik,M,Jong KRC Genk U23,66,6.7,0,0,0,0.00404445,0,0,0,13,0,0,0,25,0,1,3,1,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Precious Ogbeiwi,M,Jong KRC Genk U23,24,6.5,0,0,0,0.00105945,0,0,0,4,0,0,0,10,0,0,0,0,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Vancy Mabanza,F,KSC Lokeren,90,7,1,0,1.2575,0.0393359,5,2,0,11,1,0,2,27,0,1,0,8,3,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Jassim Mazouz,M,KSC Lokeren,45,6.2,0,0,0,0.0328455,0,0,0,5,1,0,0,12,0,0,1,2,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Aboubacar Dindane,F,KSC Lokeren,23,6.4,0,0,0.1292,0.0248953,1,0,1,8,1,0,1,11,0,0,0,1,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Jonathan Coenen,F,Jong KRC Genk U23,89,7.1,1,0,0.9758,0.00945969,4,1,0,15,0,0,0,34,2,1,0,5,4,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,KSC Lokeren vs Jong KRC Genk U23,28/08/2026,Mustapha Koma,F,Jong KRC Genk U23,14,6.4,0,0,0,0.00029271,0,0,0,4,0,0,0,8,0,0,0,1,1,0,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Ryan Sanusi,M,Koninklijke Sporting Hasselt,31,6.7,0,0,0,0.0340553,0,0,0,36,0,0,0,41,0,1,1,2,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Tuur Dierckx,F,Koninklijke Sporting Hasselt,59,6.5,0,0,0.0753,0.0532086,1,0,0,18,0,0,0,33,0,1,0,4,1,2,1,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Nicolas Gerits,M,Koninklijke Sporting Hasselt,59,6.6,0,0,0,0.0256817,0,0,0,28,1,0,0,36,0,1,1,3,3,2,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Nicolas Orye,F,Koninklijke Sporting Hasselt,16,6.1,0,0,0.7571,0.00647906,6,3,0,4,1,0,0,11,0,0,0,2,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Mehdi Bounou,F,Koninklijke Sporting Hasselt,90,6.6,0,0,0.0687,0.202178,2,0,0,36,1,0,0,60,0,2,0,4,3,2,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Loic Masscho,D,Koninklijke Sporting Hasselt,90,7.3,0,0,0,0.259664,0,0,0,56,3,1,0,90,1,2,0,6,0,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Livio Milts,F,Koninklijke Sporting Hasselt,76,6.7,0,0,0.1315,0.322789,3,0,0,27,1,0,0,57,0,3,0,6,3,2,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Alain-Jerry Matoka,M,Koninklijke Sporting Hasselt,14,6.9,0,0,0.5666,0.107891,2,1,0,16,0,0,1,23,1,1,0,2,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Lucca Lucker,D,Koninklijke Sporting Hasselt,76,6.2,0,0,0,0.031448,0,0,0,33,0,0,0,48,1,1,2,5,1,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Leonardo Cascio,G,Koninklijke Sporting Hasselt,90,7.2,0,0,0,0.00053992,0,0,0,23,0,0,0,31,0,0,0,1,0,1,0,0,0,1
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Lucas Vankerkhoven,M,Koninklijke Sporting Hasselt,85,6.7,0,0,0,0.0648181,0,0,0,74,0,0,0,79,1,0,1,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Ethan Butera,D,Koninklijke Sporting Hasselt,14,6.6,0,0,0.332,0.0133289,1,0,0,9,2,0,1,13,0,1,0,2,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Javan Ngoyi,F,Koninklijke Sporting Hasselt,31,6.8,0,0,0.1482,0.15458,2,1,0,15,2,0,0,32,1,3,0,4,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Andres Labie,D,Koninklijke Sporting Hasselt,90,6.5,0,0,0,0.0326425,0,0,0,74,0,0,0,88,0,2,2,4,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Gilles De Meyer,D,KAA Gent Reserve U23,89,7.4,0,0,0.026,0.0114982,1,0,0,33,0,0,0,65,2,1,3,8,1,4,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Cheick Thiam,D,Koninklijke Sporting Hasselt,90,6.6,0,0,0,0.155659,0,0,0,60,1,0,0,74,0,2,0,5,2,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Gyano Vanderdonck,M,KAA Gent Reserve U23,90,7.9,0,0,0,0.0369547,0,0,0,30,0,0,0,51,2,4,1,8,2,2,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Moctar Diop,F,KAA Gent Reserve U23,45,7.5,0,1,0,0.021218,0,0,0,17,1,1,0,24,1,0,0,6,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Alexandre Chaidron,M,KAA Gent Reserve U23,15,6.6,0,0,0,0.00040681,0,0,0,5,0,0,0,14,0,0,0,1,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Oleksandr Soroka,M,KAA Gent Reserve U23,90,6.4,0,0,0,0.0201061,0,0,0,43,0,0,0,65,0,1,1,1,3,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Ali Donny Sylla,M,KAA Gent Reserve U23,90,7.7,1,0,0.2636,0.0447671,1,1,0,26,1,0,0,50,4,0,0,10,0,4,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Trey Kongolo,D,KAA Gent Reserve U23,90,7.1,0,0,0,0.00132562,0,0,0,61,0,0,0,67,0,1,0,4,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Jemiah Umolu,F,KAA Gent Reserve U23,45,6.4,0,0,0,0.00365926,0,0,0,8,0,0,0,11,0,0,0,0,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Eric Junior Simporé,D,KAA Gent Reserve U23,9,6.9,0,0,0,0.00060936,0,0,0,2,0,0,0,8,0,0,0,2,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Bas Evers,G,KAA Gent Reserve U23,90,8,0,0,0,0.00132817,0,0,0,44,0,0,0,54,0,0,0,0,0,0,0,0,0,5
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Siebe Van Keymolen,F,Koninklijke Sporting Hasselt,90,7.3,0,0,0.2793,0.0289192,3,0,0,17,0,0,1,36,2,0,1,11,2,6,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Ruslan Vydysh,M,KAA Gent Reserve U23,74,8.4,1,0,0.964,0.252826,2,1,0,25,2,0,0,43,1,0,1,4,1,3,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Abubakar Abdullahi,M,KAA Gent Reserve U23,90,6.2,0,0,0.1418,0.021512,3,1,0,25,0,0,0,51,1,0,1,4,5,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Preben Blondeel,D,KAA Gent Reserve U23,90,8,0,0,0,0.00939882,0,0,0,76,0,0,0,100,0,1,4,6,4,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Daniel James Wisdom,F,KAA Gent Reserve U23,16,6.7,0,0,0.0823,0.0135971,1,0,0,9,0,0,0,18,1,1,1,2,1,0,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Koninklijke Sporting Hasselt vs KAA Gent Reserve U23,28/08/2026,Victor Vandenbroucke,D,KAA Gent Reserve U23,84,7.2,0,1,0,0.00701832,0,0,0,20,1,1,0,41,0,2,1,3,3,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Lukas Van Eenoo,M,K. Beerschot V.A.,77,6.7,0,0,0.0933,0.0773693,1,0,1,26,1,0,0,45,0,2,0,5,1,2,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Jelle Vossen,F,K. Beerschot V.A.,45,6.4,0,0,0.0913,0.0155589,1,0,0,10,0,0,0,14,0,1,1,2,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Genki Haraguchi,M,K. Beerschot V.A.,90,7,0,0,0.1425,0.153228,1,1,0,45,2,0,0,62,0,0,2,2,2,2,1,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Edisson Jordanov,D,K. Beerschot V.A.,45,7.2,0,0,0,0.00287031,0,0,0,17,0,0,0,34,2,1,0,6,1,3,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Glenn Claes,M,K. Beerschot V.A.,30,6.3,0,0,0,0.0021139,0,0,0,13,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Thomas Foket,D,RSCA Futures U23,90,6.2,0,0,0.1043,0.0797038,4,1,0,37,2,1,0,60,0,1,0,1,2,0,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,William Popp,G,K. Beerschot V.A.,90,7.2,0,0,0,0.00363866,0,0,0,35,0,0,0,43,0,0,0,2,0,0,0,0,0,3
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Toshio Lake,F,K. Beerschot V.A.,60,8.3,1,0,0.2401,0.18653,3,3,0,16,3,0,0,30,0,0,1,4,0,3,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Brian Plat,D,K. Beerschot V.A.,90,7.5,0,0,0.0374,0.0141091,1,0,0,58,0,0,0,70,0,1,3,4,1,0,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Dennis Gyamfi,D,K. Beerschot V.A.,41,5.4,0,0,0.1198,0.00516931,1,1,0,17,0,0,0,26,1,0,0,1,2,0,2,1,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,D'Margio Wright-Phillips,F,K. Beerschot V.A.,87,7.2,0,0,0,0.0968817,0,0,0,17,1,0,0,33,2,1,1,4,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Bas Van den Eynden,D,K. Beerschot V.A.,90,8.2,0,0,0.0737,0.0146911,1,0,0,60,0,0,0,81,0,2,2,7,0,1,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Sem Audoor,D,K. Beerschot V.A.,90,6.5,0,0,0,0.00867792,0,0,0,36,0,0,0,56,0,1,0,2,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Anas Haj Mohamed,F,K. Beerschot V.A.,12,6.4,0,0,0,0.00185552,0,0,0,3,0,0,0,7,0,1,0,2,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Willsem Boussaid,M,RSCA Futures U23,29,7.2,0,0,0.1495,0.233983,2,0,0,12,1,0,0,27,2,2,1,4,0,0,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Milan Govaers,D,K. Beerschot V.A.,13,6.6,0,0,0,0.00000662,0,0,0,3,0,0,0,9,0,3,0,3,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Ensar Brahić,F,K. Beerschot V.A.,12,6.4,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Nunzio Engwanda,D,RSCA Futures U23,90,6.1,0,0,0,0.00915997,0,0,0,58,0,0,0,64,0,0,0,0,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Enzo Sternal,M,RSCA Futures U23,82,6.7,0,0,0.1986,0.0707239,2,0,0,37,3,0,1,55,1,1,2,7,1,3,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Arnold Vula,F,K. Beerschot V.A.,87,6.7,0,0,0.0115,0.0315222,1,1,0,16,0,0,0,31,0,1,0,8,0,3,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Babatunde Akomolede,D,RSCA Futures U23,90,7.2,0,0,0.0793,0.0693721,3,1,0,47,0,0,0,66,0,2,0,10,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Mattis Seghers,G,RSCA Futures U23,90,7.6,0,0,0,0.00619932,0,0,0,39,1,0,0,53,0,0,0,0,0,0,0,0,0,5
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Ilyas Benktib,M,RSCA Futures U23,16,6.5,0,0,0,0.0513975,0,0,0,6,0,0,0,13,1,0,0,2,2,0,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Gassimou Sylla,F,RSCA Futures U23,8,6.5,0,0,0,0.00524117,0,0,0,3,0,0,0,7,0,0,0,2,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Ludovick Wola-Wetshay,D,RSCA Futures U23,74,6.3,0,0,0,0.0144528,0,0,0,46,0,0,0,56,0,2,1,2,2,0,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Terry Van De Ven,F,RSCA Futures U23,61,6.4,0,0,0,0.0150529,0,0,0,6,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Joël Kana,M,RSCA Futures U23,45,7.1,0,0,0,0.049581,0,0,0,38,1,0,0,41,0,0,0,2,0,0,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Alexander De Ridder,M,RSCA Futures U23,90,6.5,0,0,0.0811,0.0510605,2,0,0,53,1,0,0,67,1,0,1,4,3,3,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Omar Sarr,M,RSCA Futures U23,45,6.5,0,0,0,0.0114335,0,0,0,17,0,0,0,22,1,0,0,1,2,0,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Milan Debast,D,RSCA Futures U23,16,7.1,0,0,0,0.0154727,0,0,0,13,0,0,0,15,0,1,0,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Pape Aliya N'dao,F,RSCA Futures U23,90,6.2,0,0,0.0879,0.084279,2,1,0,14,2,0,0,36,1,0,0,1,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RSCA Futures U23 vs K. Beerschot V.A.,29/08/2026,Check Koité,D,RSCA Futures U23,74,6.7,0,0,0.052,0.0471908,2,0,0,14,2,0,0,27,0,0,0,2,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Pierre-Yves Ngawa,D,RFC Liège,90,6.9,0,0,0,0.00295812,0,0,0,68,0,0,0,87,0,2,1,4,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Jonathan D'Ostilio,D,RFC Liège,90,5.9,0,0,0,0.041778,0,0,0,60,0,0,0,83,0,1,1,3,1,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Kobe Cools,D,FCV Dender,90,6.6,0,0,0,0.0111276,0,0,0,30,0,0,0,40,0,1,2,5,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Reno Wilmots,M,RFC Liège,90,6.5,0,0,0,0.0419743,0,0,0,36,0,0,0,53,0,4,2,6,1,1,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Julien Devriendt,G,FCV Dender,90,7.5,0,0,0,0.00406623,0,0,0,21,0,0,0,30,0,0,0,1,0,1,0,0,0,1
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Simon Paulet,M,RFC Liège,88,7.7,1,0,0.7884,0.0858886,1,1,0,68,1,0,0,115,1,2,1,9,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Junior Marsoni Sambu Mansoni​,D,FCV Dender,90,6.7,0,0,0,0.21407,0,0,0,36,1,1,0,63,1,3,0,5,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Nathan Rodes,M,FCV Dender,90,7.4,0,1,0,0.0164708,0,0,0,38,2,0,0,53,0,4,1,9,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Kays Ruiz-Atil,M,RFC Liège,90,7.8,0,0,0.0355,0.558521,1,0,0,61,1,0,0,93,5,1,2,9,0,3,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Oregan Ravet,G,RFC Liège,45,8.8,0,0,0,0.00054755,0,0,0,20,0,0,0,31,0,1,0,3,0,2,0,0,0,3
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,David Toshevski,F,FCV Dender,23,6.4,0,0,0.1128,0.00016732,1,0,0,7,0,0,0,18,2,0,0,3,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Malcolm Viltard,M,FCV Dender,90,9,2,0,0.8721,0.0548979,3,2,0,51,0,0,0,80,0,8,3,11,3,2,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Benoit Bruggeman,M,RFC Liège,90,6.2,0,0,0.3909,0.0174735,2,1,1,31,0,0,1,53,1,1,2,6,0,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Martin Expérience,D,FCV Dender,90,7.1,0,0,0.2299,0.127012,1,1,0,31,2,0,1,69,0,8,3,10,2,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Ilias Breugelmans,D,FCV Dender,90,6.7,0,0,0,0.0339037,0,0,0,33,0,0,0,47,0,2,0,4,3,0,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Valentin Guillaume,M,RFC Liège,88,6.6,0,0,0.1137,0.0511894,3,0,0,46,0,0,0,64,1,1,0,3,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Eric N'jo,D,RFC Liège,90,6.7,0,0,0,0.00792093,0,0,0,70,0,0,0,81,1,0,3,3,1,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Kevin Shkurti,M,RFC Liège,45,7,0,0,0,0.135161,0,0,0,30,1,1,0,43,1,2,1,3,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Gerard Vandeplas,F,FCV Dender,11,6.5,0,0,0,0.00421136,0,0,0,5,0,0,0,8,0,0,0,1,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Emmanuel Mballa,F,FCV Dender,79,7.1,0,0,0.6943,0.0381979,5,3,0,20,0,0,3,38,0,1,0,9,3,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Adam Nhaili,M,FCV Dender,23,7.2,0,0,0.0148,0.0227523,1,1,0,11,1,0,0,25,1,3,0,5,0,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Krzysztof Koton,M,FCV Dender,67,6.6,0,0,0.0861,0.276121,1,0,0,21,3,1,0,43,4,0,0,5,2,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Ousmane Camara,M,RFC Liège,45,6.6,0,0,0.0098,0.00568942,1,0,0,16,0,0,0,32,2,0,0,7,1,4,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Alexis Andre Jr.,G,RFC Liège,45,6.4,0,0,0,0.00222071,0,0,0,15,0,0,0,24,0,0,0,3,0,1,0,0,0,2
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Arnold Qevani,F,RFC Liège,8,6.5,0,0,0,0.00809185,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Nacim Dendani,F,RFC Liège,8,6.3,0,0,0,0.00001112,0,0,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Ryan Ogam,F,RFC Liège,45,6.4,0,0,0,0.00184013,0,0,0,4,0,0,0,13,1,0,1,2,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Bo De Kerf,D,FCV Dender,90,6.8,0,0,0,0.015095,0,0,0,41,0,0,0,60,1,0,1,3,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Amine Daali,M,FCV Dender,67,7.3,0,0,0.1549,0.110702,3,0,0,25,1,0,0,48,3,3,1,8,0,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,RFC Liège vs FCV Dender,29/08/2026,Adham Refai,M,RFC Liège,45,5.9,0,0,0,0.195705,0,0,0,21,1,0,0,29,0,0,0,0,4,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Jeremy Bokila,F,Patro Eisden Maasmechelen,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Radja Nainggolan,M,Patro Eisden Maasmechelen,90,7.7,1,0,0.8582,0.0805687,2,2,0,19,2,0,0,36,1,1,0,7,1,3,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Kevin Kis,D,Patro Eisden Maasmechelen,89,6.2,0,0,0,0.00513574,0,0,0,28,0,0,0,53,0,2,2,4,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Denis Odoi,D,Club NXT U23,90,6.9,0,0,0,0.013758,0,0,0,142,0,0,0,150,0,0,0,4,3,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Stef Peeters,M,Patro Eisden Maasmechelen,90,6.7,0,0,0,0.0234615,0,0,0,33,1,0,0,40,1,0,0,2,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Jordan Renson,D,Patro Eisden Maasmechelen,90,6,0,0,0.0566,0.00103087,1,0,0,27,1,0,0,30,0,0,1,0,1,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Jordi Belin,G,Patro Eisden Maasmechelen,90,6.7,0,0,0,0.00591077,0,0,0,22,0,0,0,30,0,0,0,1,0,1,0,0,0,1
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Lars Dietz,D,Patro Eisden Maasmechelen,90,6.3,0,0,0,0.0152825,0,0,0,25,0,0,0,37,0,1,0,6,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Louis Verstraete,M,Patro Eisden Maasmechelen,90,7.3,0,0,0.1073,0.00697121,1,0,0,24,0,0,0,42,1,7,0,10,3,1,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Haji Mnoga,M,Patro Eisden Maasmechelen,90,6.7,0,0,0.0367,0.049571,1,0,0,22,1,0,0,56,0,1,1,7,2,3,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Isaías Delpupo,M,Patro Eisden Maasmechelen,59,6.6,0,0,0,0.0012769,0,0,0,9,0,0,0,32,2,3,0,8,1,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Japhet Muanza,D,Patro Eisden Maasmechelen,1,,0,0,0,0.00000551,0,0,0,3,0,0,0,3,0,0,0,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Milan Robberechts,M,Club NXT U23,90,6,0,0,0.0759,0.0100896,2,1,1,24,0,0,1,48,2,0,1,6,1,4,1,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Seok-ju Hong,F,Patro Eisden Maasmechelen,90,6.2,0,0,0.0951,0.00436217,1,0,0,17,1,0,0,36,2,0,1,10,6,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Tsubasa Kasayanagi,M,Patro Eisden Maasmechelen,89,7,0,0,0.2256,0.0414287,3,1,0,16,1,0,0,26,3,1,0,4,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Argus Vanden Driessche,G,Club NXT U23,90,6.9,0,0,0,0.0031078,0,0,0,76,0,0,0,84,0,0,0,0,0,0,0,0,0,2
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Samuel Gomez Van Hoogen,D,Club NXT U23,90,6.6,0,0,0,0.00149727,0,0,0,30,0,0,0,59,0,6,1,10,2,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Rento Takaoka,F,Patro Eisden Maasmechelen,31,6.6,0,0,0,0.00282648,0,0,0,4,1,0,0,11,0,0,0,2,0,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Al-Hassan Kamara,F,Club NXT U23,66,6.8,0,0,0,0.0102142,0,0,0,11,0,0,0,21,0,3,1,3,2,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Naïm Amengai,M,Club NXT U23,90,6.2,1,1,0.4762,0.0134763,3,1,0,25,1,0,0,46,0,1,1,4,3,2,1,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Tian Nai Koren,M,Club NXT U23,75,6.4,0,0,0,0.0128607,0,0,0,11,0,0,0,20,0,2,0,2,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Axl Wins,D,Club NXT U23,90,7.5,0,0,0,0.0289643,0,0,0,160,0,0,0,172,2,0,0,7,0,4,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Jakke Van Britsom,F,Club NXT U23,75,6.2,0,0,0.0811,0.0347628,1,0,0,15,2,1,0,28,0,0,0,3,0,2,0,0,1,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Gianluca Okon-Engstler,M,Club NXT U23,90,6.6,0,0,0,0.258109,0,0,0,80,0,0,0,94,0,0,1,3,0,2,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Utku Kurtal,M,Club NXT U23,15,6.7,0,0,0,0.00690906,0,0,0,3,1,0,0,8,1,0,0,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Mohamed Elbay,D,Club NXT U23,90,6.6,0,0,0,0.00986478,0,0,0,36,0,0,0,54,0,1,1,1,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Matteo Soria,F,Club NXT U23,15,7.5,1,0,0.0415,0.0003783,1,1,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Challenger Pro League,Challenger_Pro_League_26_27,Patro Eisden Maasmechelen vs Club NXT U23,29/08/2026,Clever Ossohou,F,Club NXT U23,24,6.2,0,0,0,0.00144909,0,0,0,3,0,0,0,8,0,0,0,0,3,0,1,0,0,0
