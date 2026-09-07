@@ -1,0 +1,44 @@
+{
+  "provider": "API-FOOTBALL / API-SPORTS",
+  "mode": "SERVER_ENV_ONLY",
+  "note": "No pegar keys aquí si este archivo va a GitHub. Usa Vercel Environment Variables.",
+  "accounts": [
+    {
+      "name": "A10NSOSC2007",
+      "enabled": false
+    },
+    {
+      "name": "JOKERANALISTAS",
+      "enabled": false
+    },
+    {
+      "name": "ALONSO ANDRE",
+      "enabled": false
+    },
+    {
+      "name": "GEMINI",
+      "enabled": false
+    },
+    {
+      "name": "ROGER SILVA",
+      "enabled": false
+    },
+    {
+      "name": "INCA STATS",
+      "enabled": false
+    },
+    {
+      "name": "MOSQUEPERRAS",
+      "enabled": false
+    },
+    {
+      "name": "Inca STATS",
+      "enabled": false
+    },
+    {
+      "name": "7 mosuqeprras 2025",
+      "enabled": false
+    }
+  ],
+  "active_env": "API_FOOTBALL_KEY"
+}

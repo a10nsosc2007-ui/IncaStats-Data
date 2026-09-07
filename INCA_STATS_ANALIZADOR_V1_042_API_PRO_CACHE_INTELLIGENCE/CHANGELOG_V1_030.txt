@@ -1,0 +1,8 @@
+INCA STATS ANALIZADOR V1.030 · REFEREE TEAM HALVES PRO · TITAN V9.3
+
+- Referee Stat Hub: 1T / 2T / TOTAL dentro de cada lado LOCAL y VISITA.
+- Centro simplificado: Amarillas totales, Rojas totales y Tarjetas totales (amarillas + rojas).
+- Faltas quedan asociadas al equipo en la cabecera de cada lado.
+- Sin Booking Points en la UI.
+- El reparto 1T/2T por equipo solo se muestra cuando existe en datos o puede deducirse de forma matematica unica; nunca se inventa.
+- Mantiene primera tarjeta, resultado, competicion y detalle de partido.

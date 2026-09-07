@@ -1,0 +1,21 @@
+INCA STATS ANALIZADOR V1.021
+
+LEAGUE CENTER MOBILE PRO
+- Refactor responsive localizado de League Center para iPhone, Android, tablet y desktop.
+- Hero de liga compacto en móvil; selector sin superposición.
+- Tabs táctiles en una sola fila con scroll horizontal explícito.
+- Agenda/calendario móvil compactado a dos campos.
+- Fixtures reconstruidos en móvil: equipos, hora, árbitro, estadio, cuotas y Abrir análisis sin recortes.
+- Top Players: nombres legibles y métricas reordenadas para 360-430 px.
+- Player Streaks: mercado, secuencia y próximo rival sin desbordes.
+- Tablas, árbitros y modal de jugador/árbitro adaptados a móvil.
+- Safe areas iOS/Android y prevención de overflow horizontal de página.
+- Reparación sintáctica del bloque CSS V1.020 que estaba serializado con \n literales; sin cambiar su lógica.
+
+NO TOCADO
+- Analyzer / Scanner
+- Player Picks
+- Data Histórica PRO
+- Leaderboards
+- Auth / Supabase
+- API live

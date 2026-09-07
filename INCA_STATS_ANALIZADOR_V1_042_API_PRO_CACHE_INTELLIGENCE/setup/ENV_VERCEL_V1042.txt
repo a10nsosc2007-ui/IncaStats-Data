@@ -1,0 +1,24 @@
+INCA STATS V1.042 · VARIABLES DE VERCEL
+
+OBLIGATORIAS:
+API_FOOTBALL_KEY=TU_API_KEY_ACTIVA
+SUPABASE_SERVICE_ROLE_KEY=TU_SERVICE_ROLE
+CRON_SECRET=GENERA_UN_SECRETO_LARGO
+
+YA EXISTENTES / OPCIONALES:
+SUPABASE_URL=https://jijxmshpzcoalohlhhnb.supabase.co
+SUPABASE_PUBLISHABLE_KEY=...
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=...
+
+CONTROL DE GASTO:
+INCA_API_DAILY_BUDGET=15
+INCA_API_RUN_BUDGET=8
+
+IMPORTANTE
+- NO pongas API_FOOTBALL_KEY en config.js, index.html ni GitHub.
+- V1.042 NO rota cuentas para saltarse límites.
+- Si administras varias cuentas legítimas, cambia la key activa desde Vercel; el frontend nunca ve ninguna key.
+- EJEMPLOS DE PRESUPUESTO:
+- Si tu key activa tiene 500 requests/mes: DAILY=15 y RUN=8 (450 teóricos/30 días).
+- Si una key individual autorizada tiene 4500 requests/mes: DAILY=135 y RUN=68 (4050 teóricos/30 días).
+No sumes automáticamente cuotas de cuentas separadas para saltar límites del proveedor.

@@ -1,0 +1,6 @@
+INCA STATS ANALIZADOR V1.033 · REFEREE DUAL CARD ICON PRO · TITAN V9.3
+
+- Referee Quick History: TARJ. ahora usa un icono compacto de tarjeta amarilla + roja superpuestas.
+- Se mantiene el valor TARJ. como suma total de amarillas + rojas.
+- No se modificaron cálculos, datos TITAN, faltas, primera tarjeta ni estructura del historial.
+- Cache busting y Service Worker actualizados a V1.033.

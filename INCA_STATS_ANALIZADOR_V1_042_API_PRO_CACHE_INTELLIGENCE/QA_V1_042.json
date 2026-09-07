@@ -1,0 +1,20 @@
+{
+  "version": "V1.042",
+  "generated_at": "2026-09-07T02:54:19Z",
+  "base": "V1.041_PLAYER_FACES_OVERLAY_SIMPLE_BAT",
+  "checks": {
+    "node_syntax_all_root_and_api_js": "PASS",
+    "html_local_script_and_css_refs": "PASS",
+    "user_api_keys_embedded": "NO",
+    "player_face_priority_preserved": "PASS",
+    "cache_only_user_endpoints": "PASS",
+    "cron_budget_guard": "PASS",
+    "price_coverage": "26/31",
+    "responsive_css_added": "PASS"
+  },
+  "not_executed": {
+    "live_api_network_calls": "NOT RUN - would consume user quota",
+    "vercel_deploy": "NOT RUN - requires user project/environment",
+    "supabase_migration": "NOT RUN - requires user database"
+  }
+}

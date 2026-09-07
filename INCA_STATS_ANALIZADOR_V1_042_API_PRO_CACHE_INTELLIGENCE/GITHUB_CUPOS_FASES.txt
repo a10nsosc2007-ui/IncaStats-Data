@@ -1,0 +1,15 @@
+SUBIR A LA RAÍZ DE IncaStats-Data
+
+Opción recomendada:
+1. Renombra el último archivo generado por el extractor a:
+   INCASTATS_CUPOS_FASES_31_CURRENT.json
+2. Súbelo directamente a la raíz del repo IncaStats-Data.
+3. Reemplaza ese mismo archivo cada vez que actualices los cupos/fases.
+
+También soportado:
+- Puedes subir el snapshot con fecha, por ejemplo:
+  INCASTATS_CUPOS_FASES_31_2026-08-30T22-25-47-720Z.json
+- Si el CURRENT no existe, V1.016 intenta localizar automáticamente el snapshot más reciente en la raíz usando GitHub Contents API.
+
+Ruta esperada:
+https://raw.githubusercontent.com/a10nsosc2007-ui/IncaStats-Data/main/INCASTATS_CUPOS_FASES_31_CURRENT.json

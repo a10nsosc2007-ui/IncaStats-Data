@@ -1,0 +1,10 @@
+INCA STATS ANALIZADOR · V1.024
+REFEREE CENTER PRO + TITAN REFEREES CURRENT
+
+- Integra TITAN_REFEREES_CURRENT (568 árbitros, 22,295 partidos, 31 ligas) con fallback local.
+- Nuevo módulo independiente Referee Center: búsqueda, liga, país, muestra mínima y rankings por disciplina.
+- League Center -> Árbitros consume el maestro real y abre histórico 10/20/30/40/50.
+- Match Center enlaza la designación con TITAN y muestra KPIs arbitrales cuando hay coincidencia.
+- Matching de nombres reforzado para diferencias de acentos/segmentos entre proveedores.
+- Política del lote preservada: amarilla=10, roja efectiva=20 Puntos INCA.
+- No modifica Player Picks, Analyzer, Data Histórica PRO, Leaderboards ni Auth.

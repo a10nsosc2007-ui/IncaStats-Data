@@ -1,0 +1,11 @@
+INCA STATS ANALIZADOR V1.040
+
+- TITAN_PLAYERS_MASTER_2025_PLUS es la única base histórica de jugadores.
+- Eliminado fallback runtime a data/player-props-v2.
+- TITAN_PLAYERS_CURRENT actúa como overlay DELTA y gana por Event_ID + Player_ID.
+- Player Picks solicita el histórico completo por jugador (BY_PLAYER) y no solo recent20.
+- Rachas de jugadores y Match Center usan MASTER 2025+ + CURRENT DELTA.
+- Fixtures/alineaciones en vivo siguen viniendo de API; el histórico estadístico viene de TITAN.
+- Soporte preferente para caras HD TITAN_PLAYERS_FACES_CURRENT/web_1024/{Player_ID}.webp.
+- Fallback de cara: assets locales anteriores / SofaScore / avatar.
+- PC + Android + iPhone.

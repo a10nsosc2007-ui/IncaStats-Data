@@ -1,0 +1,49 @@
+INCA STATS ANALIZADOR · V1.027
+REFEREE STAT HUB PRO · TITAN REFEREES V9.3
+================================================
+
+BASE
+- Parte exclusivamente de V1.026 REFEREE PROFILE VISUAL PRO.
+- No se reconstruyó la aplicación.
+- No se tocaron Player Picks, Analyzer principal, Historical PRO, Leaderboards ni Auth salvo cache-busting global.
+
+TITAN REFEREES V9.3
+- Cliente arbitral actualizado al contrato incastats.referees_master.v9.3.
+- GitHub sigue siendo la fuente prioritaria: TITAN_REFEREES_CURRENT/.
+- Se rechaza un snapshot arbitral local antiguo para impedir mezclar V1/V9.3.
+- Índices en memoria por ID, nombre normalizado y competición.
+- Búsqueda por nombre más robusta para acentos, apellidos y nombres parciales únicos.
+- Historial por árbitro se descarga de forma lazy y se cachea en memoria.
+- Historial ordenado defensivamente por fecha/evento.
+- Cara: prioridad faces/web_1024 -> face_web_path -> original -> avatar gris.
+- HTTP cache revalidable en vez de no-store para evitar descargas repetidas del master.
+
+REFEREE STAT HUB
+- Nuevo landing blanco/pro, compacto y editorial.
+- Sin filtros de liga/país: búsqueda únicamente por nombre o apellido.
+- Resumen visual del dataset V9.3 (2024+).
+- Perfiles activos con cara real y métricas compactas.
+- Perfil completo con cara HD, país, competiciones y KPIs.
+- Resumen Discipline DNA: Local vs Visitante para amarillas, faltas y Booking Points.
+- Match Rhythm: primera tarjeta, incidentes 1T/2T y calidad de extracción.
+- Estadísticas por competición sin tabla horizontal ni scroll interno absurdo.
+- Historial COMPLETO 2024+: se muestran 12 partidos al inicio y se cargan 12 más al pulsar; los cálculos usan todos los partidos.
+- Cada partido muestra resultado, tarjetas y faltas por equipo, Booking Points por equipo/total y primera tarjeta (incluye 45+X/90+X).
+- Detalle técnico (Event ID, ronda, calidad e incidencias) queda plegado para no ensuciar la UI.
+
+LEAGUE / MATCH CENTER
+- Textos actualizados a V9.3 / histórico oficial 2024+.
+- League Center ya no comunica límite de 50 partidos.
+- Match Center enlaza al Referee Stat Hub completo.
+- Modal fallback admite TODOS los partidos.
+
+OPTIMIZACIÓN
+- Eliminado el snapshot local arbitral V1.024/V1.025/V1.026 (aprox. 36 MB) para evitar datos obsoletos y reducir el ZIP.
+- El Referee Stat Hub solo descarga el master al entrar; cada histórico se pide al abrir el árbitro.
+- Las caras se cargan lazy.
+
+RESPONSIVE
+- Desktop, iPhone y Android.
+- Match cards se reorganizan verticalmente en móvil.
+- Sin tablas horizontales en Referee Stat Hub.
+- Sin scroll interno de historial.

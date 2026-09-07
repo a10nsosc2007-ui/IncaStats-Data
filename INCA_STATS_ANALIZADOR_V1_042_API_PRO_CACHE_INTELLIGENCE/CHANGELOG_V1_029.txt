@@ -1,0 +1,12 @@
+INCA STATS ANALIZADOR · V1.029
+REFEREE CARDS CLEAR PRO · TITAN V9.3
+
+- Referee Stat Hub: Booking Points eliminado de la interfaz visual.
+- Partido a partido: LOCAL / VISITA muestran solo amarillas, rojas y faltas.
+- Tarjetas por tiempo rediseñadas en tres líneas independientes: 1T, 2T y TOTAL.
+- 2T se deriva como TOTAL - 1T para mantener coherencia con los totales del partido.
+- TOTAL usa las tarjetas LOCAL + VISITA del partido.
+- Perfil superior sin KPI de Booking Points.
+- Discipline DNA y competiciones sin Booking Points.
+- Diseño más fino y legible en desktop, Android e iPhone.
+- Datos TITAN V9.3 intactos; cambio únicamente de presentación/cálculo visual por periodo.

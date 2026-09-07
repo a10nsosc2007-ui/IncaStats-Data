@@ -1,0 +1,1909 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="es-PE">
+<head>
+<meta charset="utf-8"/>
+<link rel="preconnect" href="https://raw.githubusercontent.com" crossorigin/>
+<link rel="dns-prefetch" href="//raw.githubusercontent.com"/>
+
+<meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport"/>
+<meta content="INCA STATS ANALIZADOR: motor de análisis estadístico para equipos, mercados y jugadores de fútbol." name="description"/>
+<meta content="INCA STATS ANALIZADOR" name="application-name"/>
+<meta content="INCA STATS ANALIZADOR" name="apple-mobile-web-app-title"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="yes" name="mobile-web-app-capable"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="strict-origin-when-cross-origin" name="referrer"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="light" name="color-scheme"/>
+<meta content="website" property="og:type"/>
+<meta content="es_PE" property="og:locale"/>
+<meta content="INCA STATS ANALIZADOR | ANALÍTICA DE FÚTBOL" property="og:title"/>
+<meta content="Escáner y motor profesional de análisis estadístico de fútbol." property="og:description"/>
+<meta content="assets/brand/inca-stats-v26.webp" property="og:image"/>
+<title>
+   INCA STATS ANALIZADOR | ANALÍTICA DE FÚTBOL
+  </title>
+<link href="assets/brand/inca-stats-v26.webp" rel="icon" type="image/webp"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link crossorigin="" href="https://cdnjs.cloudflare.com" rel="preconnect"/>
+<link crossorigin="" href="https://raw.githubusercontent.com" rel="preconnect"/>
+<link crossorigin="" href="https://cdn.jsdelivr.net" rel="preconnect"/>
+<link href="https://ui-avatars.com" rel="dns-prefetch"/>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&amp;family=Poppins:wght@400;600;700;800;900&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet"/>
+<link href="inca-stats.css?v=1.042" rel="stylesheet"/>
+<link href="api-pro-ui.css?v=1.042" rel="stylesheet"/>
+<script onerror="this.onerror=null;this.src='https://unpkg.com/papaparse@5.3.2/papaparse.min.js';" src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js">
+</script>
+<link crossorigin="" href="https://raw.githubusercontent.com" rel="preconnect"/>
+<link crossorigin="" href="https://cdn.jsdelivr.net" rel="preconnect"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Inter+Tight:wght@500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet"><script>document.documentElement.classList.add('inca-auth-pending');</script></head>
+<body class="theme-default">
+<div id="incaAuthGate" role="dialog" aria-modal="true" aria-labelledby="incaAuthTitle">
+  <div class="inca-auth-shell">
+    <aside class="inca-auth-showcase" aria-hidden="true">
+      <div class="inca-auth-showcase-brand"><img alt="" src="assets/brand/inca-stats-v26.webp"/><div><b>INCA STATS ANALIZADOR</b><small>FOOTBALL INTELLIGENCE</small></div></div>
+      <div class="inca-auth-showcase-copy"><span>ANÁLISIS DE FÚTBOL</span><h2>Todo tu análisis en un solo lugar.</h2><p>Partidos, rachas, jugadores y contexto de liga con una interfaz clara, rápida y centrada en la temporada actual.</p></div>
+      <div class="inca-auth-showcase-pills"><span>31 ligas</span><span>Temporada actual</span><span>Acceso privado</span></div>
+    </aside>
+  <section class="inca-auth-card">
+    <div class="inca-auth-brand"><img alt="Inca Stats" src="assets/brand/inca-stats-v26.webp"/><div><span>INCA STATS ANALIZADOR</span><small>ACCESO PRIVADO</small></div></div>
+    <h1 id="incaAuthTitle">Bienvenido de nuevo.</h1>
+    <p>Inicia sesión con la cuenta asignada para acceder al motor completo de INCA STATS ANALIZADOR.</p>
+    <div class="inca-auth-loader" id="incaAuthLoader" aria-live="polite">
+      <span class="inca-auth-loader-mark" aria-hidden="true"><i class="fa-solid fa-shield-halved"></i><b></b></span>
+      <span class="inca-auth-loader-copy"><strong id="incaAuthLoaderText">Verificando sesión…</strong><small>Conexión segura con INCA STATS ANALIZADOR</small></span>
+      <span class="inca-auth-loader-dots" aria-hidden="true"><i></i><i></i><i></i></span>
+    </div>
+    <form id="incaAuthForm" autocomplete="on">
+      <div class="inca-auth-field"><label for="incaAuthEmail">CORREO</label><div class="inca-auth-input-wrap"><i class="fa-solid fa-envelope"></i><input id="incaAuthEmail" name="email" type="email" autocomplete="username" autocapitalize="none" autocorrect="off" spellcheck="false" placeholder="tu@correo.com" required/></div></div>
+      <div class="inca-auth-field"><label for="incaAuthPassword">CONTRASEÑA</label><div class="inca-auth-input-wrap"><i class="fa-solid fa-lock"></i><input id="incaAuthPassword" name="password" type="password" autocomplete="current-password" autocapitalize="none" autocorrect="off" spellcheck="false" placeholder="••••••••" required/><button class="inca-auth-password-toggle" id="incaAuthPasswordToggle" type="button" aria-label="Mostrar contraseña"><i class="fa-solid fa-eye"></i></button></div></div>
+      <button class="inca-auth-link" id="incaAuthForgot" type="button">¿Olvidaste tu contraseña?</button>
+      <button class="inca-auth-submit" id="incaAuthSubmit" type="submit"><i class="fa-solid fa-arrow-right-to-bracket"></i> Entrar a INCA STATS ANALIZADOR</button>
+    </form>
+    <form id="incaRecoveryForm" autocomplete="off" hidden>
+      <div class="inca-auth-field"><label for="incaRecoveryPassword">NUEVA CONTRASEÑA</label><div class="inca-auth-input-wrap"><i class="fa-solid fa-key"></i><input id="incaRecoveryPassword" name="new-password" type="password" autocomplete="new-password" autocapitalize="none" autocorrect="off" spellcheck="false" placeholder="Nueva contraseña" required/></div></div>
+      <div class="inca-auth-field"><label for="incaRecoveryPassword2">REPETIR CONTRASEÑA</label><div class="inca-auth-input-wrap"><i class="fa-solid fa-shield-halved"></i><input id="incaRecoveryPassword2" name="confirm-password" type="password" autocomplete="new-password" autocapitalize="none" autocorrect="off" spellcheck="false" placeholder="Repite la contraseña" required/></div></div>
+      <button class="inca-auth-submit" id="incaRecoverySubmit" type="submit"><i class="fa-solid fa-floppy-disk"></i> Guardar nueva contraseña</button>
+      <button class="inca-auth-link centered" id="incaRecoveryBack" type="button">Volver al inicio de sesión</button>
+    </form>
+    <div class="inca-auth-status" id="incaAuthStatus" aria-live="polite">Verificando acceso…</div>
+    <div class="inca-auth-foot"><i class="fa-solid fa-shield-halved"></i><span>Cuenta protegida · hasta 2 dispositivos autorizados</span></div>
+  </section>
+  </div>
+</div>
+<!-- INCA STATS ANALIZADOR · V1.018 · MOBILE STABILITY PRO -->
+<div class="portal-shell" id="incaPortal"><div class="portal-scroll-progress" id="portalScrollProgress"></div>
+<header class="portal-topbar">
+<button class="portal-brand" data-view="home" type="button"><img alt="Inca Stats" src="assets/brand/inca-stats-v26.webp"/><span>INCA STATS <b>ANALIZADOR</b></span></button>
+<nav aria-label="Módulos principales" class="portal-nav">
+<button class="portal-nav-btn active" data-view="home" type="button"><i class="fa-solid fa-house"></i> Inicio</button>
+<button class="portal-nav-btn" data-view="leagues" type="button"><i class="fa-solid fa-trophy"></i> Ligas</button>
+<button class="portal-nav-btn" data-view="referees" type="button"><i class="fa-solid fa-user-tie"></i> Árbitros</button>
+<button class="portal-nav-btn" data-view="streaks" type="button"><i class="fa-solid fa-fire"></i> Rachas</button>
+<button class="portal-nav-btn" data-view="players" type="button"><i class="fa-solid fa-person-running"></i> Jugadores</button>
+<button class="portal-nav-btn" data-view="compare" type="button"><i class="fa-solid fa-scale-balanced"></i> Comparar</button>
+<button class="portal-nav-btn" data-view="rankings" type="button"><i class="fa-solid fa-ranking-star"></i> Rankings</button>
+<button class="portal-nav-btn" data-view="betlab" type="button"><i class="fa-solid fa-shield-halved"></i> Team Intel</button>
+<button class="portal-nav-btn portal-primary" data-view="scanner" type="button"><i class="fa-solid fa-microscope"></i> Analizador</button>
+</nav>
+<span class="portal-build-badge" aria-label="Versión 1.041">V1.041</span>
+<button aria-label="Configuración" class="portal-settings-btn" id="incaSettingsTrigger" type="button" title="Configuración"><i class="fa-solid fa-gear"></i></button>
+<button aria-label="Abrir menú" class="portal-mobile-menu" id="portalMobileMenu" type="button"><i class="fa-solid fa-bars"></i></button>
+</header>
+<div class="inca-settings-menu" id="incaSettingsMenu" hidden aria-label="Configuración de INCA STATS ANALIZADOR">
+  <div class="inca-settings-menu-head"><div><small id="incaSettingsKicker">SISTEMA</small><strong id="incaSettingsTitle">Configuración</strong></div><button id="incaSettingsClose" type="button" aria-label="Cerrar"><i class="fa-solid fa-xmark"></i></button></div>
+  <div class="inca-settings-menu-section"><label id="incaAppearanceLabel">APARIENCIA</label><div class="inca-theme-segment"><button type="button" data-inca-theme="light"><i class="fa-regular fa-sun"></i><span id="incaLightLabel">Claro</span></button><button type="button" data-inca-theme="dark"><i class="fa-solid fa-moon"></i><span id="incaDarkLabel">Oscuro</span></button></div></div>
+  <div class="inca-settings-menu-section"><label id="incaLanguageLabel" for="incaLanguageSelect">IDIOMA</label><div class="inca-language-select"><i class="fa-solid fa-language"></i><select id="incaLanguageSelect"><option value="es">Español</option><option value="en">English</option><option value="pt">Português</option><option value="fr">Français</option><option value="de">Deutsch</option></select><i class="fa-solid fa-chevron-down"></i></div></div>
+  <div class="inca-settings-menu-foot"><i class="fa-solid fa-floppy-disk"></i><span id="incaSettingsSaved">Se guarda automáticamente en este navegador.</span></div>
+</div>
+<main class="portal-view portal-page home25" id="portalHome">
+<section class="home25-intro" aria-label="INCA STATS Football Intelligence">
+  <div class="home25-intro-copy">
+    <span class="home25-kicker"><i></i> INCA STATS · FOOTBALL INTELLIGENCE</span>
+    <h1><span>Lee el fútbol.</span><em>Entiende el contexto.</em></h1>
+    <p>Temporada, localía, rivales, jugadores, árbitros y 48 métricas conectados al mismo histórico. Una lectura más clara antes de abrir cada análisis.</p>
+  </div>
+  <div class="home25-intro-actions">
+    <button class="home25-primary" data-view="leagues" type="button">Ver partidos <i class="fa-solid fa-arrow-right"></i></button>
+    <button class="home25-secondary" data-view="scanner" type="button">Abrir analizador</button>
+  </div>
+</section>
+
+<nav class="home25-channelbar" aria-label="Accesos destacados">
+  <button data-view="leagues" type="button"><span>01</span><b>Partidos</b><small>Agenda y Match Center</small></button>
+  <button data-view="streaks" type="button"><span>02</span><b>Rachas</b><small>Condición y líneas</small></button>
+  <button data-view="players" type="button"><span>03</span><b>Jugadores</b><small>Campaña y per 90</small></button>
+  <button data-view="scanner" type="button"><span>04</span><b>Herramientas</b><small>Comparador y analizador</small></button>
+</nav>
+
+<section class="home25-carousel-section" aria-labelledby="home25CarouselTitle">
+  <header class="home25-carousel-head">
+    <div>
+      <small>EXPLORA INCA</small>
+      <h2 id="home25CarouselTitle">Ocho módulos. Un mismo histórico.</h2>
+    </div>
+    <div class="home25-carousel-controls">
+      <span id="home25CarouselCount">01 / 08</span>
+      <button id="home25CarouselPrev" type="button" aria-label="Anterior"><i class="fa-solid fa-arrow-left"></i></button>
+      <button id="home25CarouselNext" type="button" aria-label="Siguiente"><i class="fa-solid fa-arrow-right"></i></button>
+    </div>
+  </header>
+
+  <div class="home25-carousel" id="home25Carousel" tabindex="0" aria-label="Módulos destacados de INCA STATS">
+    <div class="home25-carousel-track" id="home25CarouselTrack">
+      <article class="home25-card" data-view="leagues" data-index="1" tabindex="0" role="button" aria-label="Abrir Centro de Ligas">
+        <img src="assets/home/carousel/league-center.webp" alt="Ambiente de estadio de fútbol" loading="eager">
+        <span class="home25-card-shade"></span>
+        <div class="home25-card-copy"><small>PARTIDOS · 31 LIGAS</small><h3>Centro de Ligas</h3><p>Agenda, temporada, tabla, jugadores y análisis desde cada fixture.</p><b>Explorar <i class="fa-solid fa-arrow-right"></i></b></div>
+      </article>
+      <article class="home25-card" data-view="streaks" data-index="2" tabindex="0" role="button" aria-label="Abrir Rachas">
+        <img src="assets/home/carousel/streaks.webp" alt="Futbolista bajo luces de estadio" loading="eager">
+        <span class="home25-card-shade"></span>
+        <div class="home25-card-copy"><small>TENDENCIAS · TITAN</small><h3>Rachas</h3><p>Últimos partidos, condición local/visita y líneas deportivas sin cifras inventadas.</p><b>Detectar <i class="fa-solid fa-arrow-right"></i></b></div>
+      </article>
+      <article class="home25-card" data-view="players" data-index="3" tabindex="0" role="button" aria-label="Abrir Jugadores">
+        <img src="assets/home/carousel/players.webp" alt="Futbolista en partido" loading="lazy">
+        <span class="home25-card-shade"></span>
+        <div class="home25-card-copy"><small>CAMPAÑA ACTUAL</small><h3>Jugadores</h3><p>Minutos, producción, per 90, rachas y contexto individual conectado a cada equipo.</p><b>Ver jugadores <i class="fa-solid fa-arrow-right"></i></b></div>
+      </article>
+      <article class="home25-card" data-view="compare" data-index="4" tabindex="0" role="button" aria-label="Abrir Comparador">
+        <img src="assets/home/carousel/compare.webp" alt="Duelo entre futbolistas" loading="lazy">
+        <span class="home25-card-shade"></span>
+        <div class="home25-card-copy"><small>EQUIPO VS EQUIPO</small><h3>Comparador</h3><p>Misma muestra, misma condición y métricas enfrentadas para leer diferencias reales.</p><b>Comparar <i class="fa-solid fa-arrow-right"></i></b></div>
+      </article>
+      <article class="home25-card" data-view="referees" data-index="5" tabindex="0" role="button" aria-label="Abrir Referee Center">
+        <img src="assets/home/carousel/referees.webp" alt="Árbitro dialogando con un futbolista" loading="lazy">
+        <span class="home25-card-shade"></span>
+        <div class="home25-card-copy"><small>DISCIPLINA · ÚLTIMOS 50</small><h3>Árbitros</h3><p>Tarjetas, faltas, tiempos y perfil disciplinario desde un centro arbitral independiente.</p><b>Consultar <i class="fa-solid fa-arrow-right"></i></b></div>
+      </article>
+      <article class="home25-card" data-view="betlab" data-index="6" tabindex="0" role="button" aria-label="Abrir Team Intel">
+        <img src="assets/home/carousel/team-intel.webp" alt="Retrato editorial de futbolista" loading="lazy">
+        <span class="home25-card-shade"></span>
+        <div class="home25-card-copy"><small>EQUIPO · PERFIL</small><h3>Team Intel</h3><p>Plantilla, forma, entrenador, estadio, títulos y próximos rivales en una sola ficha.</p><b>Abrir ficha <i class="fa-solid fa-arrow-right"></i></b></div>
+      </article>
+      <article class="home25-card" data-view="rankings" data-index="7" tabindex="0" role="button" aria-label="Abrir Rankings">
+        <img src="assets/home/carousel/player-radar.webp" alt="Futbolista celebrando" loading="lazy">
+        <span class="home25-card-shade"></span>
+        <div class="home25-card-copy"><small>RENDIMIENTO</small><h3>Rankings</h3><p>Ordena equipos por producción estadística y compara el nivel de la temporada activa.</p><b>Ver ranking <i class="fa-solid fa-arrow-right"></i></b></div>
+      </article>
+      <article class="home25-card" data-view="scanner" data-index="8" tabindex="0" role="button" aria-label="Abrir Analizador">
+        <img src="assets/home/carousel/analyzer.webp" alt="Futbolista celebrando bajo focos" loading="lazy">
+        <span class="home25-card-shade"></span>
+        <div class="home25-card-copy"><small>48 MÉTRICAS</small><h3>Analizador</h3><p>Configura equipo, muestra, condición y mercado con trazabilidad sobre el dato real.</p><b>Analizar <i class="fa-solid fa-arrow-right"></i></b></div>
+      </article>
+    </div>
+  </div>
+  <div class="home25-carousel-dots" id="home25CarouselDots" aria-hidden="true"></div>
+</section>
+
+<section class="home25-statusline" aria-label="Estado del sistema">
+  <div><span class="home25-live"></span><small>DATOS</small><strong id="portalDataStatus">Cargando</strong></div>
+  <div><small>BASE</small><strong id="heroEngineStatus">TITAN</strong></div>
+  <div><small>COBERTURA</small><strong>31 ligas</strong></div>
+  <div><small>LECTURA</small><strong>General · Local · Visita</strong></div>
+</section>
+
+<section class="home25-editorial-note">
+  <div><small>INCA STATS ANALIZADOR</small><h2>Datos primero. Interfaz después.</h2></div>
+  <p>La portada solo organiza el acceso. Cada módulo conserva su muestra, temporada y condición para que la lectura sea verificable.</p>
+  <button data-view="fixtures" type="button">Abrir Match Center <i class="fa-solid fa-arrow-right"></i></button>
+</section>
+
+<footer class="home25-footer">
+  <div class="home25-footer-brand"><strong>INCA STATS</strong><p>Análisis de fútbol conectado a TITAN.</p></div>
+  <div><small>PRODUCTO</small><button data-view="leagues" type="button">Ligas</button><button data-view="referees" type="button">Árbitros</button><button data-view="players" type="button">Jugadores</button><button data-view="streaks" type="button">Rachas</button></div>
+  <div><small>HERRAMIENTAS</small><button data-view="compare" type="button">Comparador</button><button data-view="betlab" type="button">Team Intel</button><button data-view="scanner" type="button">Analizador</button></div>
+  <div class="home25-footer-meta"><small>INCA STATS · V1.041</small><span>Football Intelligence</span></div>
+</footer>
+</main>
+<main class="portal-view portal-page portal-hidden" id="portalFixtures">
+<section class="fx-topbar">
+  <div>
+    <span id="fxPageEyebrow">MATCH CENTER · PARTIDOS Y ANÁLISIS</span>
+    <h1 id="fxPageTitle">Partidos listos para analizar</h1>
+    <p id="fxPageSubtitle">Elige una de las 31 ligas. Abre cualquier partido y entra directamente a su análisis con forma, rachas, jugadores y contexto.</p>
+  </div>
+  <button class="fx-back-button" id="fxBackButton" type="button"><i class="fa-solid fa-arrow-left"></i><span><b>VOLVER</b><small>Centro de Ligas</small></span></button>
+</section>
+
+<section class="fx-browser">
+  <div class="fx-browser-head">
+    <div class="fx-field">
+      <label for="fxLeague">COMPETICIÓN</label>
+      <select id="fxLeague"></select>
+    </div>
+    <div class="fx-browser-note">
+      <i class="fa-solid fa-wand-magic-sparkles"></i>
+      <span>31 ligas · solo competición de liga · sin copas ni torneos paralelos.</span>
+    </div>
+    <span class="fx-refresh fx-titan-status" style="pointer-events:none"><i class="fa-solid fa-database"></i> AGENDA LISTA</span>
+  </div>
+  <span class="fx-status" id="fxStatus">Preparando agenda…</span>
+  <div class="fx-fixture-list" id="fxFixtureList"></div>
+</section>
+
+<section class="fx-match-detail" id="fxMatchDetail" hidden></section>
+</main>
+
+<main class="portal-view portal-page portal-hidden" id="portalLeagues">
+<section class="league-hub">
+  <div class="league-hub-head">
+    <div><span class="league-hub-eyebrow">LEAGUE CENTER PRO</span><h1 id="leagueHubTitle">Centro de Liga</h1><p id="leagueHubMeta">Fixtures, tabla, jugadores, rachas y árbitros en una sola vista.</p></div>
+    <div class="league-hub-selector"><div style="width:100%"><label for="leagueHubLeague">LIGA</label><select class="league-hub-select" id="leagueHubLeague"></select></div></div>
+  </div>
+  <nav class="league-hub-tabs" id="leagueHubTabs" aria-label="Secciones de liga"></nav>
+  <section class="league-hub-panel" id="leagueHubContent"><div class="league-hub-empty">Preparando liga…</div></section>
+</section>
+</main>
+
+<main class="portal-view portal-page portal-hidden" id="portalReferees">
+<section class="rsh-shell">
+  <section class="rsh-landing" id="refpLanding">
+    <header class="rsh-title"><div><span>REFEREE STAT HUB · TITAN V9.3</span><h1>Árbitros</h1><p>Inteligencia disciplinaria desde 2024. Historial real, tarjetas y faltas por equipo, tarjetas por tiempo y primera tarjeta.</p></div><em><i class="fa-solid fa-circle-check"></i>DATA OFICIAL 2024+</em></header>
+    <section class="rsh-dataset-pulse" id="rshDatasetPulse"><span><small>BASE</small><b>TITAN V9.3</b><em>conectando…</em></span></section>
+    <section class="rsh-search-panel">
+      <label for="refpSearch">ENCUENTRA UN ÁRBITRO</label>
+      <div class="rsh-search"><i class="fa-solid fa-magnifying-glass"></i><input id="refpSearch" type="search" autocomplete="off" spellcheck="false" placeholder="Nombre o apellido…"><kbd>ENTER</kbd></div>
+      <div class="refp-suggestions rsh-suggestions" id="refpSuggestions" hidden></div>
+    </section>
+    <section class="rsh-featured-shell"><header><div><span>PERFILES ACTIVOS</span><h2>Referee intelligence</h2></div><small>Perfiles recientes con cara disponible en TITAN.</small></header><div class="rsh-featured" id="refpFeatured"><div class="rsh-loading"><span></span><b>Conectando TITAN REFEREES V9.3…</b></div></div></section>
+  </section>
+  <section class="rsh-profile" id="refpProfile" hidden></section>
+</section>
+</main>
+
+<main class="portal-view portal-page portal-hidden" id="portalStreaks">
+<section class="portal-page-title"><span>STREAK FINDER PRO</span><h1>Radar profesional de rachas</h1><p>Elige mercado, umbral y muestra. INCA STATS ANALIZADOR recalcula las rachas al instante según la temporada y la condición seleccionadas.</p>
+<div class="streak-pro-meta"><span class="streak-pro-chip"><i class="fa-solid fa-trophy"></i><b id="streakLeagueMeta">Todas las ligas</b></span><span class="streak-pro-chip neutral"><i class="fa-solid fa-calendar-check"></i><b id="streakSeasonMeta">Temporada vigente</b></span><span class="streak-pro-chip neutral"><i class="fa-solid fa-database"></i><b id="streakDataMeta">Preparando datos</b></span><span class="streak-pro-chip api"><i class="fa-solid fa-shield-halved"></i>AGENDA PRECARGADA</span></div></section>
+<div class="streak-pro-shell">
+<section class="streak-category-bar" id="streakCategoryBar" aria-label="Categorías de rachas"></section>
+<section class="streak-pro-filter streak-pro-filter-auto">
+<div class="streak-pro-field"><label for="streakMetricPro">Tipo de mercado</label><select id="streakMetricPro"></select></div>
+<div class="streak-pro-field"><label for="streakExpectedOddsPro">Referencia de cuota (no bookmaker)</label><input id="streakExpectedOddsPro" type="number" min="1.01" max="10" step="0.05" value="1.50" inputmode="decimal"></div>
+<div class="streak-pro-field"><label for="streakThresholdPro">Umbral mínimo</label><select id="streakThresholdPro"><option value="50">50%+</option><option value="55">55%+</option><option value="60">60%+</option><option value="65">65%+</option><option value="70">70%+</option><option value="75">75%+</option><option value="80" selected>80%+</option><option value="85">85%+</option><option value="90">90%+</option><option value="95">95%+</option><option value="100">100%</option></select></div>
+<div class="streak-pro-field"><label for="streakMinMatchesPro">Partidos mínimo</label><select id="streakMinMatchesPro"><option value="3">3+</option><option value="4">4+</option><option value="5">5+</option><option value="6" selected>6+</option><option value="7">7+</option><option value="8">8+</option><option value="10">10+</option><option value="12">12+</option><option value="15">15+</option></select></div>
+<div class="streak-pro-field"><label for="streakLeagueScopePro">Liga / ámbito</label><select id="streakLeagueScopePro"><option value="ALL">Todas las ligas</option></select></div>
+<div class="streak-pro-field"><label for="streakConditionPro">Condición</label><select id="streakConditionPro"><option value="global">Global</option><option value="local">Como local</option><option value="visitante">Como visitante</option></select></div>
+<div class="streak-pro-actions"><div class="streak-pro-action-group"><span class="streak-pro-chip api"><i class="fa-solid fa-bolt"></i> CÁLCULO INSTANTÁNEO</span><button class="streak-pro-btn light" id="streakResetPro" type="button"><i class="fa-solid fa-arrow-rotate-left"></i>Restablecer</button></div></div>
+</section>
+<section class="streak-pro-status ready" id="streakFixtureStatus"><span class="streak-pro-dot"></span><div><strong>Resultados listos para consultar sin recargas manuales</strong><small id="streakFixtureStatusMeta"></small></div></section>
+<section class="streak-pro-results" id="streakResultPro"><div class="streak-pro-empty"><i class="fa-solid fa-fire-flame-curved"></i><h3>Preparando radar</h3><p>Los cálculos se ejecutarán sobre tu data local de la temporada activa.</p></div></section>
+</div>
+</main>
+<div class="streak-modal" id="streakProModal" aria-hidden="true" role="dialog" aria-modal="true" aria-label="Detalle de racha"><div class="streak-modal-card" id="streakModalContent"></div></div>
+
+<main class="portal-view portal-page portal-hidden" id="portalPlayers">
+<section class="portal-page-title"><span>PLAYER DIRECTORY</span><h1>Jugadores y acceso a props</h1><p>Busca dentro del directorio real de jugadores y abre su análisis detallado desde el módulo Player Props VIP.</p></section>
+<section class="portal-category-tabs"><button class="active">Participación de gol</button><button>Tiros a puerta</button><button>Tiros totales</button><button>Tarjetas</button><button>Faltas</button><button>Tackles</button><button>Recibió falta</button><button>Offside</button></section>
+<section class="portal-toolbar"><div class="portal-filter-row"><input id="playerSearch" type="search" placeholder="Buscar jugador por nombre"><label class="portal-range">Racha mínima <input id="playerMinStreak" max="10" min="2" type="range" value="3"><b id="playerRangeValue">3</b></label><span class="portal-chip" id="playerCategoryLabel">Participación de gol</span></div></section>
+<section class="portal-data-panel" id="playerRows"><div class="portal-empty"><i class="fa-solid fa-users"></i><h3>Directorio preparado</h3><p>Abre esta sección para cargar los jugadores.</p></div></section></main>
+
+
+<main class="portal-view portal-page portal-hidden" id="portalBetLab">
+<section class="portal-page-title ti-title">
+  <div>
+    <span>TEAM INTELLIGENCE</span>
+    <h1>Team Intel</h1>
+    <p>Perfil, forma reciente y próximo rival desde la temporada y la agenda actual.</p>
+  </div>
+  <div class="ti-title-badge"><i class="fa-solid fa-shield-halved"></i> 31 LIGAS · EQUIPOS ACTUALES</div>
+</section>
+
+
+
+<section class="ti-controls" id="tiStandardControls" hidden>
+  
+  
+  <div class="ti-control" id="tiTeamControl"><label>EQUIPO</label><select id="tiTeam" disabled><option value="">Selecciona equipo</option></select></div>
+  <div class="ti-control" id="tiTournamentControl"><label>TORNEO DE LA MUESTRA</label><select id="tiTournament" disabled><option value="ALL">Todos los torneos</option></select></div>
+</section>
+
+<section class="ti-controls ti-quick-controls" id="tiQuickControls">
+  <div class="ti-control ti-quick-search">
+    <label>BUSCAR EQUIPO</label>
+    <div class="ti-search-wrap">
+      <i class="fa-solid fa-magnifying-glass"></i>
+      <input id="tiQuickSearch" type="search" autocomplete="off" placeholder="Barcelona, Madrid, Arsenal...">
+    </div>
+    <div class="ti-search-results" id="tiQuickResults" hidden></div>
+  </div>
+  <div class="ti-control">
+    <label>MUESTRA</label>
+    <select id="tiSampleSize">
+      <option value="10" selected>ÚLTIMOS 10</option><option value="15">ÚLTIMOS 15</option><option value="20">ÚLTIMOS 20</option><option value="25">ÚLTIMOS 25</option><option value="30">ÚLTIMOS 30</option><option value="35">ÚLTIMOS 35</option><option value="40">ÚLTIMOS 40</option><option value="45">ÚLTIMOS 45</option><option value="50">ÚLTIMOS 50</option>
+    </select>
+  </div>
+  <div class="ti-control">
+    <label>TORNEO</label>
+    <select id="tiQuickTournament" disabled><option value="ALL">Todos los torneos</option></select>
+  </div>
+  <div class="ti-control ti-condition-control">
+    <label>CONDICIÓN</label>
+    <div class="ti-condition-tabs" id="tiCondition" role="group" aria-label="Condición de los partidos">
+      <button type="button" class="active" data-ti-condition="ALL">GENERAL</button>
+      <button type="button" data-ti-condition="LOCAL">LOCAL</button>
+      <button type="button" data-ti-condition="VISITA">VISITA</button>
+    </div>
+  </div>
+</section>
+<div class="ti-statusbar"><span id="tiDataStatus">Preparando datos…</span><span id="tiIntelGlobalStatus">Preparando información adicional…</span></div>
+
+<section class="ti-hero">
+  <article class="ti-profile">
+    <div class="ti-team-head">
+      <span class="ti-team-logo-slot" id="tiTeamLogoSlot"><i class="fa-solid fa-shield-halved"></i><img id="tiTeamLogo" alt="" style="display:none"></span>
+      <div><small>TEAM INTELLIGENCE</small><h2 id="tiTeamName">Selecciona un equipo</h2><p id="tiTeamSub">31 ligas disponibles</p></div>
+    </div>
+
+    <div class="ti-facts">
+      <div class="ti-fact"><span>Entrenador</span><strong id="tiCoach">—</strong></div>
+      <div class="ti-fact"><span>Estadio</span><strong id="tiVenue">—</strong><small id="tiVenueMeta"></small></div>
+      <div class="ti-fact"><span>País</span><strong id="tiCountry">—</strong></div>
+    </div>
+
+    <div class="ti-squad-strip">
+      <div><strong id="tiPlayers">—</strong><span>Jugadores</span></div>
+      <div><strong id="tiAge">—</strong><span>Edad media</span></div>
+      <div><strong id="tiForeign">—</strong><span>Extranjeros</span></div>
+      <div><strong id="tiNational">—</strong><span>Selección nacional</span></div>
+      <div><strong id="tiTitles">—</strong><span>Títulos</span></div>
+    </div>
+  </article>
+
+  <article class="ti-next-card">
+    <h3>Próximo partido</h3>
+    <div id="tiNextMatch"><div class="ti-empty">Esperando equipo.</div></div>
+  </article>
+</section>
+
+<section class="ti-grid">
+  <article class="ti-panel">
+    <div class="ti-panel-head"><div><h3>Promedios del equipo</h3><small>Compara la forma reciente contra toda la muestra seleccionada</small></div><span id="tiMatchCount"></span></div>
+    <div class="ti-metric-head"><b>Métrica</b><span>Últ. 5</span><span>Últ. 10</span><strong>Muestra</strong><em>Cambio L10</em></div>
+    <div id="tiMetricRows"><div class="ti-empty">Selecciona un equipo para cargar sus promedios.</div></div>
+  </article>
+
+  <article class="ti-panel">
+    <div class="ti-panel-head"><div><h3>Forma reciente</h3><small id="tiFormSubtitle">Últimos 10 · todos los torneos · general</small></div></div>
+    <div class="ti-last-match"><span>Último partido</span><div id="tiLastMatch"><span>Esperando equipo.</span></div></div>
+    <div class="ti-form-list" id="tiForm"></div>
+  </article>
+</section>
+
+<section class="ti-insight-card">
+  <div class="ti-insight-icon"><i class="fa-solid fa-wand-magic-sparkles"></i></div>
+  <div><h3>Qué pasó en sus últimos partidos</h3><div id="tiNarrative"><p>La descripción se genera con los partidos registrados del equipo.</p></div></div>
+</section>
+
+<section class="ti-honours-card">
+  <div class="ti-panel-head"><div><h3>Palmarés del equipo</h3><small>Total, competición y temporadas cuando están disponibles</small></div></div>
+  <div id="tiHonoursText"><div class="ti-honours-empty">Palmarés no disponible.</div></div>
+</section>
+</main>
+
+
+<main class="portal-view portal-page portal-hidden" id="portalRankings">
+<section class="portal-page-title gr-title">
+  <span>RANKINGS GLOBALES</span>
+  <h1>Ranking global por cumplimiento de líneas</h1>
+  <p>La app calcula con los datos disponibles según la muestra de partidos que elijas.</p>
+</section>
+
+<section class="gr-toolbar gr-toolbar-live gr-toolbar-v4279">
+  <div>
+    <label>Mercado</label>
+    <select id="grMarket"></select>
+  </div>
+  <div>
+    <label>Medición</label>
+    <select id="grMode"></select>
+  </div>
+  <div>
+    <label>Over / Under</label>
+    <select id="grDirection">
+      <option value="over">Más de · Over</option>
+      <option value="under">Menos de · Under</option>
+    </select>
+  </div>
+  <div>
+    <label>Línea</label>
+    <select id="grLine"></select>
+  </div>
+  <div>
+    <label>Muestra de partidos</label>
+    <select id="grSample">
+      <option value="5">Últimos 5</option>
+      <option value="10">Últimos 10</option>
+      <option value="15" selected>Últimos 15</option>
+      <option value="20">Últimos 20</option>
+      <option value="25">Últimos 25</option>
+    </select>
+  </div>
+  <div>
+    <label>Tamaño del ranking</label>
+    <select id="grTop">
+      <option value="5">Top 5 equipos</option>
+      <option value="10" selected>Top 10 equipos</option>
+      <option value="15">Top 15 equipos</option>
+      <option value="20">Top 20 equipos</option>
+      <option value="25">Top 25 equipos</option>
+    </select>
+  </div>
+  <button id="grRun" type="button"><i class="fa-solid fa-ranking-star"></i> Calcular</button>
+</section>
+
+<div class="gr-status" id="grStatus">Preparando ranking…</div>
+<div class="gr-calc-status" id="grCalcStatus">Sin calcular todavía</div>
+
+<section class="gr-headline">
+  <div>
+    <small>RANKING ACTIVO · <span id="grSampleTag">L15</span></small>
+    <h2 id="grActiveTitle">Más de 15.5 tiros totales del equipo</h2>
+  </div>
+  <span id="grContext">Últimos 15 partidos reales de cada equipo · todas las competiciones</span>
+</section>
+
+<section id="grResults">
+  <div class="gr-empty">
+    <i class="fa-solid fa-ranking-star"></i>
+    <h3>Listo para calcular</h3>
+    <p>“Muestra de partidos” define L5/L10/L15/L20/L25. “Tamaño del ranking” define cuántos equipos quieres ver.</p>
+  </div>
+</section>
+
+<section class="gr-rule">
+  <i class="fa-solid fa-bolt"></i>
+  <div>
+    <strong>Fuente directa + aceleración local.</strong>
+    <span>Las fuentes se actualizan de forma centralizada. Los usuarios solo consultan resultados ya preparados.</span>
+  </div>
+</section>
+</main>
+
+<main class="portal-view portal-page portal-hidden" id="portalMetrics48">
+<section class="portal-page-title m48-title">
+  <span>MÉTRICAS DE EQUIPO</span>
+  <h1>48 métricas · promedio + cumplimiento de línea</h1>
+  <p>Selecciona contexto, métrica y línea. INCA STATS ANALIZADOR muestra promedio, muestra válida y el porcentaje exacto de partidos que cumplen la línea.</p>
+</section>
+
+<section class="m48-toolbar">
+  <div><label>Liga</label><select id="m48Competition"></select></div>
+  <div><label>Temporada</label><select id="m48Season"></select></div>
+  <div><label>Tiempo</label>
+    <select id="m48Time">
+      <option value="ALL">FT · Partido completo</option>
+      <option value="1ST">1T · Primer tiempo</option>
+      <option value="2ND">2T · Segundo tiempo</option>
+    </select>
+  </div>
+  <div><label>Condición</label>
+    <select id="m48Condition">
+      <option value="global">Global</option>
+      <option value="home">Solo local</option>
+      <option value="away">Solo visita</option>
+    </select>
+  </div>
+  <div><label>Muestra</label>
+    <select id="m48Sample">
+      <option value="ALL">Temporada completa</option>
+      <option value="5">Últimos 5</option>
+      <option value="10" selected>Últimos 10</option>
+      <option value="15">Últimos 15</option>
+      <option value="20">Últimos 20</option>
+    </select>
+  </div>
+  <div><label>Objetivo</label>
+    <select id="m48Direction">
+      <option value="over">Más de / Over</option>
+      <option value="under">Menos de / Under</option>
+    </select>
+  </div>
+  <div><label>Línea objetivo</label><input id="m48Line" type="number" step="0.5" value="0.5" inputmode="decimal"/></div>
+  <div><label>Ordenar ranking</label>
+    <select id="m48RankBy">
+      <option value="hit" selected>% cumplimiento</option>
+      <option value="avg">Promedio</option>
+    </select>
+  </div>
+  <div><label>Dirección promedio</label>
+    <select id="m48Sort">
+      <option value="desc">Más → menos</option>
+      <option value="asc">Menos → más</option>
+    </select>
+  </div>
+  <div class="m48-metric"><label>Métrica · 48 disponibles</label><select id="m48Metric"></select></div>
+  <button id="m48Run" type="button"><i class="fa-solid fa-ranking-star"></i> Analizar métrica</button>
+</section>
+
+<div class="m48-status" id="m48Status">Preparando 48 métricas…</div>
+
+<section class="m48-headline">
+  <div><small>MÉTRICA ACTIVA</small><h2 id="m48MetricTitle">Goles</h2></div>
+  <span id="m48Context">Selecciona un contexto para comenzar</span>
+</section>
+
+<section class="m48-grid">
+  <article class="m48-panel" id="m48Own"><div class="m48-empty">Pulsa Analizar métrica.</div></article>
+  <article class="m48-panel" id="m48Against"><div class="m48-empty">El ranking rival aparecerá aquí.</div></article>
+</section>
+
+<section class="m48-note">
+  <i class="fa-solid fa-circle-info"></i>
+  <div>
+    <strong>No mezclamos ceros con datos faltantes.</strong>
+    <span>Los null se excluyen del promedio. Cada fila muestra cuántos partidos válidos se usaron.</span>
+  </div>
+</section>
+</main>
+
+<main class="portal-view portal-page portal-hidden" id="portalCompare">
+<section class="portal-page-title compare-title-pro">
+  <span>COMPARADOR PRO</span>
+  <h1>Busca dos equipos y compara exactamente su contexto</h1>
+  <p>Escribe parte del nombre del club, elige el año, después liga/copa, condición y métrica. No necesitas encontrar primero su liga.</p>
+</section>
+
+<section class="compare-control-bar compare-control-v4274">
+  <div class="compare-control-field">
+    <label for="compareSample">Tamaño de muestra</label>
+    <select id="compareSample">
+      <option value="ALL">Todos los partidos</option>
+      <option value="5">Últimos 5</option>
+      <option value="10" selected>Últimos 10</option>
+      <option value="15">Últimos 15</option>
+      <option value="20">Últimos 20</option>
+    </select>
+  </div>
+  <div class="compare-flow-note">
+    <i class="fa-solid fa-wand-magic-sparkles"></i>
+    <span><b>Flujo rápido:</b> Equipo → Año → Competición → Local/Global/Visita → Métrica</span>
+  </div>
+  <button id="runComparison" type="button" disabled>
+    <i class="fa-solid fa-chart-simple"></i><span>Comparar equipos</span>
+  </button>
+</section>
+
+<section class="compare-team-pickers compare-cross-league compare-search-flow">
+  <article class="compare-team-picker side-a" id="comparePickerA">
+    <span class="compare-team-band"></span>
+
+    <div class="compare-picker-top">
+      <div class="compare-competition-logo" id="compareCompetitionLogoA" aria-label="Competición">
+        <i class="fa-solid fa-magnifying-glass"></i>
+      </div>
+      <div class="compare-picker-heading">
+        <small>EQUIPO A</small>
+        <h3 id="compareTitleA">Busca un club</h3>
+        <span id="compareLeagueBadgeA">LIGA</span>
+      </div>
+      <div class="compare-team-crest"><i class="fa-solid fa-shield-halved compare-crest-placeholder"></i><img id="compareLogoA" alt="Escudo Equipo A"></div>
+    </div>
+
+    <div class="compare-side-fields compare-side-fields-search">
+      <div class="wide compare-team-search">
+        <label>Buscar equipo</label>
+        <div class="compare-search-input-wrap">
+          <i class="fa-solid fa-magnifying-glass"></i>
+          <input id="compareSearchA" type="search" autocomplete="off" placeholder="Ej. hein, arsenal, barcelona...">
+          <input id="compareA" type="hidden" value="">
+        </div>
+        <div class="compare-search-results" id="compareSearchResultsA" hidden></div>
+        <small class="compare-help">Con 2 letras ya empieza a buscar. Enter selecciona el primer resultado.</small>
+      </div>
+
+      <div>
+        <label>Año / temporada</label>
+        <select id="compareYearA" disabled><option value="">Selecciona año</option></select>
+      </div>
+
+      <div>
+        <label>Condición</label>
+        <select id="compareConditionA" disabled>
+          <option value="global">Global · local + visita</option>
+          <option value="home">Solo como local</option>
+          <option value="away">Solo como visitante</option>
+        </select>
+      </div>
+
+      <div class="wide">
+        <label>Competición / copa</label>
+        <select id="compareTournamentA" disabled><option value="ALL">Todos los torneos</option></select>
+      </div>
+
+      <div class="wide compare-metric-unlock">
+        <label>Métrica a comparar</label>
+        <select id="compareMetricA"><option value="">Selecciona una métrica</option>
+<optgroup label="Goles">
+  <option value="goals_total">Goles · Total partido</option>
+  <option value="goals_team">Goles · Equipo</option>
+  <option value="goals_rival">Goles · Rival</option>
+</optgroup>
+<optgroup label="Córners">
+  <option value="corners_total">Córners · Total partido</option>
+  <option value="corners_team">Córners · Equipo</option>
+  <option value="corners_rival">Córners · Rival</option>
+</optgroup>
+<optgroup label="Tarjetas">
+  <option value="cards_total">Tarjetas · Total partido</option>
+  <option value="cards_team">Tarjetas · Equipo</option>
+  <option value="cards_rival">Tarjetas · Rival</option>
+</optgroup>
+<optgroup label="Puntos de tarjetas">
+  <option value="booking_total">Puntos de tarjetas · Total partido</option>
+  <option value="booking_team">Puntos de tarjetas · Equipo</option>
+  <option value="booking_rival">Puntos de tarjetas · Rival</option>
+</optgroup>
+<optgroup label="Tiros">
+  <option value="shots_total">Tiros · Total partido</option>
+  <option value="shots_team">Tiros · Equipo</option>
+  <option value="shots_rival">Tiros · Rival</option>
+</optgroup>
+<optgroup label="Tiros al arco">
+  <option value="sot_total">Tiros al arco · Total partido</option>
+  <option value="sot_team">Tiros al arco · Equipo</option>
+  <option value="sot_rival">Tiros al arco · Rival</option>
+</optgroup>
+<optgroup label="Faltas">
+  <option value="fouls_total">Faltas · Total partido</option>
+  <option value="fouls_team">Faltas · Equipo</option>
+  <option value="fouls_rival">Faltas · Rival</option>
+</optgroup>
+<optgroup label="Fueras de juego">
+  <option value="offsides_total">Fueras de juego · Total partido</option>
+  <option value="offsides_team">Fueras de juego · Equipo</option>
+  <option value="offsides_rival">Fueras de juego · Rival</option>
+</optgroup>
+<optgroup label="Saques de meta">
+  <option value="goalkicks_total">Saques de meta · Total partido</option>
+  <option value="goalkicks_team">Saques de meta · Equipo</option>
+  <option value="goalkicks_rival">Saques de meta · Rival</option>
+</optgroup>
+<optgroup label="Saques de banda">
+  <option value="throwins_total">Saques de banda · Total partido</option>
+  <option value="throwins_team">Saques de banda · Equipo</option>
+  <option value="throwins_rival">Saques de banda · Rival</option>
+</optgroup>
+<optgroup label="Tackles">
+  <option value="tackles_total">Tackles · Total partido</option>
+  <option value="tackles_team">Tackles · Equipo</option>
+  <option value="tackles_rival">Tackles · Rival</option>
+</optgroup></select>
+        <small>Se habilita automáticamente al cargar el equipo.</small>
+      </div>
+    </div>
+
+    <small id="compareMetaA">Escribe parte del nombre para comenzar</small>
+  </article>
+
+  <div class="compare-vs-emblem" aria-hidden="true">
+    <span>VS</span><small>COMPARACIÓN</small>
+  </div>
+
+  <article class="compare-team-picker side-b" id="comparePickerB">
+    <span class="compare-team-band"></span>
+
+    <div class="compare-picker-top">
+      <div class="compare-competition-logo" id="compareCompetitionLogoB" aria-label="Competición">
+        <i class="fa-solid fa-magnifying-glass"></i>
+      </div>
+      <div class="compare-picker-heading">
+        <small>EQUIPO B</small>
+        <h3 id="compareTitleB">Busca un club</h3>
+        <span id="compareLeagueBadgeB">LIGA</span>
+      </div>
+      <div class="compare-team-crest"><i class="fa-solid fa-shield-halved compare-crest-placeholder"></i><img id="compareLogoB" alt="Escudo Equipo B"></div>
+    </div>
+
+    <div class="compare-side-fields compare-side-fields-search">
+      <div class="wide compare-team-search">
+        <label>Buscar equipo</label>
+        <div class="compare-search-input-wrap">
+          <i class="fa-solid fa-magnifying-glass"></i>
+          <input id="compareSearchB" type="search" autocomplete="off" placeholder="Ej. city, inter, heidenheim...">
+          <input id="compareB" type="hidden" value="">
+        </div>
+        <div class="compare-search-results" id="compareSearchResultsB" hidden></div>
+        <small class="compare-help">Busca entre todos los equipos disponibles, sin elegir liga primero.</small>
+      </div>
+
+      <div>
+        <label>Año / temporada</label>
+        <select id="compareYearB" disabled><option value="">Selecciona año</option></select>
+      </div>
+
+      <div>
+        <label>Condición</label>
+        <select id="compareConditionB" disabled>
+          <option value="global">Global · local + visita</option>
+          <option value="home">Solo como local</option>
+          <option value="away">Solo como visitante</option>
+        </select>
+      </div>
+
+      <div class="wide">
+        <label>Competición / copa</label>
+        <select id="compareTournamentB" disabled><option value="ALL">Todos los torneos</option></select>
+      </div>
+
+      <div class="wide compare-metric-unlock">
+        <label>Métrica a comparar</label>
+        <select id="compareMetricB"><option value="">Selecciona una métrica</option>
+<optgroup label="Goles">
+  <option value="goals_total">Goles · Total partido</option>
+  <option value="goals_team">Goles · Equipo</option>
+  <option value="goals_rival">Goles · Rival</option>
+</optgroup>
+<optgroup label="Córners">
+  <option value="corners_total">Córners · Total partido</option>
+  <option value="corners_team">Córners · Equipo</option>
+  <option value="corners_rival">Córners · Rival</option>
+</optgroup>
+<optgroup label="Tarjetas">
+  <option value="cards_total">Tarjetas · Total partido</option>
+  <option value="cards_team">Tarjetas · Equipo</option>
+  <option value="cards_rival">Tarjetas · Rival</option>
+</optgroup>
+<optgroup label="Puntos de tarjetas">
+  <option value="booking_total">Puntos de tarjetas · Total partido</option>
+  <option value="booking_team">Puntos de tarjetas · Equipo</option>
+  <option value="booking_rival">Puntos de tarjetas · Rival</option>
+</optgroup>
+<optgroup label="Tiros">
+  <option value="shots_total">Tiros · Total partido</option>
+  <option value="shots_team">Tiros · Equipo</option>
+  <option value="shots_rival">Tiros · Rival</option>
+</optgroup>
+<optgroup label="Tiros al arco">
+  <option value="sot_total">Tiros al arco · Total partido</option>
+  <option value="sot_team">Tiros al arco · Equipo</option>
+  <option value="sot_rival">Tiros al arco · Rival</option>
+</optgroup>
+<optgroup label="Faltas">
+  <option value="fouls_total">Faltas · Total partido</option>
+  <option value="fouls_team">Faltas · Equipo</option>
+  <option value="fouls_rival">Faltas · Rival</option>
+</optgroup>
+<optgroup label="Fueras de juego">
+  <option value="offsides_total">Fueras de juego · Total partido</option>
+  <option value="offsides_team">Fueras de juego · Equipo</option>
+  <option value="offsides_rival">Fueras de juego · Rival</option>
+</optgroup>
+<optgroup label="Saques de meta">
+  <option value="goalkicks_total">Saques de meta · Total partido</option>
+  <option value="goalkicks_team">Saques de meta · Equipo</option>
+  <option value="goalkicks_rival">Saques de meta · Rival</option>
+</optgroup>
+<optgroup label="Saques de banda">
+  <option value="throwins_total">Saques de banda · Total partido</option>
+  <option value="throwins_team">Saques de banda · Equipo</option>
+  <option value="throwins_rival">Saques de banda · Rival</option>
+</optgroup>
+<optgroup label="Tackles">
+  <option value="tackles_total">Tackles · Total partido</option>
+  <option value="tackles_team">Tackles · Equipo</option>
+  <option value="tackles_rival">Tackles · Rival</option>
+</optgroup></select>
+        <small>Se habilita automáticamente al cargar el equipo.</small>
+      </div>
+    </div>
+
+    <small id="compareMetaB">Escribe parte del nombre para comenzar</small>
+  </article>
+</section>
+
+<section class="compare-data-ribbon" id="compareDataStatus">
+  <i class="fa-solid fa-database"></i>
+  <span>Preparando buscador…</span>
+</section>
+
+<section class="portal-data-panel compare-results-shell" id="compareResult">
+  <div class="portal-empty">
+    <i class="fa-solid fa-scale-balanced"></i>
+    <h3>Comparador listo</h3>
+    <p>Busca los dos equipos. El resto de opciones se irá habilitando solo.</p>
+  </div>
+</section>
+</main>
+</div>
+<section class="portal-view portal-hidden" id="scannerView"><div class="app-container">
+<aside aria-label="Navegación principal y mercados de análisis" class="sidebar" id="sidebarMenu">
+<button aria-controls="sidebarMenu" aria-expanded="false" aria-label="Cerrar menú principal" class="mobile-close-btn" onclick="toggleMobileMenu()" type="button">
+<i aria-hidden="true" class="fa-solid fa-xmark">
+</i>
+</button>
+<div class="brand-header">
+<div class="brand-logo-container">
+<img alt="Inca Stats" class="brand-logo" decoding="async" fetchpriority="high" height="60" src="assets/brand/inca-stats-v26.webp" width="60"/>
+</div>
+<h1 class="brand-title">
+      INCA STATS
+      <span>
+       ANALIZADOR
+      </span>
+</h1>
+<span class="brand-admin">
+      ADMIN: ALONSO A. SILVA CUBAS
+     </span>
+<span class="brand-release">RELEASE 1.034</span>
+<button aria-label="Volver al portal" class="scanner-return" id="returnToPortal" type="button">
+<i class="fa-solid fa-arrow-left" aria-hidden="true"></i><span>Portal</span>
+</button>
+<div class="brand-divider">
+</div>
+</div>
+<div class="sidebar-scroll-area">
+<div class="control-block source-block inca-engine-card">
+<div class="inca-engine-head">
+  <span class="inca-engine-icon" aria-hidden="true"><i class="fa-solid fa-database"></i></span>
+  <span class="inca-engine-copy">
+    <small>INCA ANALYTICS</small>
+    <strong>MOTOR DE ANÁLISIS</strong>
+    <em>31 ligas · temporada activa</em>
+  </span>
+  <span class="inca-engine-state">
+    <span aria-atomic="true" aria-label="Estado de carga del escáner" aria-live="polite" class="status-dot loading" id="statusCarga" role="status" title="Estado de conexión"></span>
+  </span>
+</div>
+<div class="inca-engine-separator"></div>
+<div class="selector-group">
+<label for="selectLiga">
+        COMPETICIÓN
+       </label>
+<div class="custom-select-wrapper">
+<select class="modern-input" id="selectLiga" onchange="cambiarLigaInca('escaner')">
+<optgroup label="🏴 INGLATERRA">
+<option value="Premier">PREMIER LEAGUE</option>
+<option value="Championship">CHAMPIONSHIP</option>
+</optgroup>
+<optgroup label="🇪🇸 ESPAÑA">
+<option value="LaLiga">LALIGA</option>
+</optgroup>
+<optgroup label="🇮🇹 ITALIA">
+<option value="SerieA">SERIE A</option>
+</optgroup>
+<optgroup label="🇩🇪 ALEMANIA">
+<option value="Bundesliga">BUNDESLIGA</option>
+</optgroup>
+<optgroup label="🇫🇷 FRANCIA">
+<option value="Ligue1">LIGUE 1</option>
+</optgroup>
+<optgroup label="🇧🇷 BRASIL">
+<option value="Brasileirao">BRASILEIRÃO SERIE A</option>
+</optgroup>
+</select>
+</div>
+</div>
+<div class="selector-group">
+<label for="selectTemporada">
+        TEMPORADA
+       </label>
+<div class="custom-select-wrapper">
+<i aria-hidden="true" class="fa-solid fa-calendar-days input-icon">
+</i>
+<select class="modern-input" id="selectTemporada" onchange="cargarBaseDeDatos('escaner')">
+<option value="25_26">
+          2025 / 2026
+         </option>
+<option value="24_25">
+          2024 / 2025
+         </option>
+<option value="23_24">
+          2023 / 2024
+         </option>
+<option value="22_23">
+          2022 / 2023
+         </option>
+<option value="21_22">
+          2021 / 2022
+         </option>
+</select>
+</div>
+</div>
+</div>
+<div class="menu-accordion control-block">
+<div class="block-title">
+       MÉTRICAS BASE (LIVE)
+      </div>
+<div class="accordion-item">
+<button aria-controls="menuAccordionPanel1" aria-expanded="true" class="accordion-header active" onclick="toggleAccordion(this)" type="button">
+<div class="header-left">
+<i aria-hidden="true" class="fa-solid fa-futbol">
+</i>
+<span>
+          GOLES &amp; MARCADOR
+         </span>
+</div>
+<i aria-hidden="true" class="fa-solid fa-chevron-down arrow">
+</i>
+</button>
+<div class="accordion-content" id="menuAccordionPanel1" style="display: block;">
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Resultado FT', this)" role="button" tabindex="0">
+         RESULTADO FINAL (FT)
+        </div>
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Resultado HT', this)" role="button" tabindex="0">
+         RESULTADO MEDIO TIEMPO (HT)
+        </div>
+<div aria-pressed="true" class="menu-option active" onclick="seleccionarMercado('Goles', this)" role="button" tabindex="0">
+         GOLES TOTALES
+        </div>
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Goles 1er Tiempo', this)" role="button" tabindex="0">
+         GOLES 1ER TIEMPO
+        </div>
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Goles 2do Tiempo', this)" role="button" tabindex="0">
+         GOLES 2DO TIEMPO
+        </div>
+</div>
+</div>
+<div class="accordion-item">
+<button aria-controls="menuAccordionPanel2" aria-expanded="false" class="accordion-header" onclick="toggleAccordion(this)" type="button">
+<div class="header-left">
+<i aria-hidden="true" class="fa-solid fa-crosshairs">
+</i>
+<span>
+          ATAQUE &amp; DISPAROS
+         </span>
+</div>
+<i aria-hidden="true" class="fa-solid fa-chevron-down arrow">
+</i>
+</button>
+<div class="accordion-content" id="menuAccordionPanel2">
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Tiros Totales', this)" role="button" tabindex="0">
+         TIROS TOTALES
+        </div>
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Tiros a Puerta', this)" role="button" tabindex="0">
+         TIROS A PUERTA
+        </div>
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Tiros a Puerta Handicap', this)" role="button" tabindex="0">
+         HÁNDICAP TIROS A PUERTA
+        </div>
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Fueras de Juego', this)" role="button" tabindex="0">
+         FUERAS DE JUEGO
+        </div>
+</div>
+</div>
+<div class="accordion-item">
+<button aria-controls="menuAccordionPanel3" aria-expanded="false" class="accordion-header" onclick="toggleAccordion(this)" type="button">
+<div class="header-left">
+<i aria-hidden="true" class="fa-solid fa-gavel">
+</i>
+<span>
+          INFRACCIONES
+         </span>
+</div>
+<i aria-hidden="true" class="fa-solid fa-chevron-down arrow">
+</i>
+</button>
+<div class="accordion-content" id="menuAccordionPanel3">
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Faltas', this)" role="button" tabindex="0">
+         FALTAS COMETIDAS
+        </div>
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Tarjetas', this)" role="button" tabindex="0">
+         TARJETAS TOTALES
+        </div>
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Puntos por Tarjetas', this)" role="button" tabindex="0">
+         BOOKING POINTS
+        </div>
+</div>
+</div>
+<div class="accordion-item" style="margin-bottom: 25px;">
+<button aria-controls="menuAccordionPanel4" aria-expanded="false" class="accordion-header" onclick="toggleAccordion(this)" type="button">
+<div class="header-left">
+<i aria-hidden="true" class="fa-solid fa-chess-board">
+</i>
+<span>
+          POSESIÓN &amp; JUEGO
+         </span>
+</div>
+<i aria-hidden="true" class="fa-solid fa-chevron-down arrow">
+</i>
+</button>
+<div class="accordion-content" id="menuAccordionPanel4">
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Córners', this)" role="button" tabindex="0">
+         TIROS DE ESQUINA
+        </div>
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Córners Handicap', this)" role="button" tabindex="0">
+         CÓRNERS HANDICAP
+        </div>
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Saques de Meta', this)" role="button" tabindex="0">
+         SAQUES DE META
+        </div>
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Saques de Banda', this)" role="button" tabindex="0">
+         SAQUES DE BANDA
+        </div>
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Pases', this)" role="button" tabindex="0">
+         PASES
+        </div>
+<div aria-pressed="false" class="menu-option" onclick="seleccionarMercado('Entradas', this)" role="button" tabindex="0">
+         TACKLES (ENTRADAS)
+        </div>
+</div>
+</div>
+<div class="block-title analyzer-reports-block" style="margin-top: 20px;">
+       REPORTES COMPLETOS
+      </div>
+<button class="db-pro-btn analyzer-history-btn" id="btnIrDatabase" onclick="abrirVistaDatabase()" type="button">
+<i aria-hidden="true" class="fa-solid fa-database"></i>
+       DATA HISTÓRICA PRO
+      </button>
+<button class="db-pro-btn analyzer-leaderboards-btn" id="btnIrRankings" onclick="window.INCA_NAV?.openRankings?.()" type="button">
+<i aria-hidden="true" class="fa-solid fa-trophy"></i>
+       LEADERBOARDS
+      </button>
+<div class="block-title analyzer-player-block" style="margin-top: 14px;">
+       JUGADORES
+      </div>
+<button class="db-pro-btn analyzer-player-picks-btn" id="btnIrJugadores" onclick="abrirVistaJugadores()" type="button">
+<i aria-hidden="true" class="fa-solid fa-user-chart">
+</i>
+       PLAYER PICKS
+      </button>
+</div>
+</div>
+</aside>
+<main aria-label="Panel principal de análisis" class="main-content" id="mainContent" tabindex="-1">
+<header aria-label="Filtros del escáner" class="top-bar" id="topBarScanner">
+<button aria-controls="sidebarMenu" aria-expanded="false" aria-label="Abrir menú principal" class="mobile-menu-btn" onclick="toggleMobileMenu()" type="button">
+<i aria-hidden="true" class="fa-solid fa-bars">
+</i>
+</button>
+<div class="filter-group focus-group">
+<label for="selectEquipo">
+       EQUIPO A ANALIZAR
+      </label>
+<div class="custom-select-wrapper with-team">
+<img alt="Escudo del equipo seleccionado" class="input-logo img-preview-container" decoding="async" fetchpriority="auto" id="logoEquipoMain" loading="eager" referrerpolicy="no-referrer" src="" style="display: none;"/>
+<select class="modern-input" id="selectEquipo" onchange="actualizarEscaner()">
+</select>
+</div>
+</div>
+<div class="filter-group" id="headerCondicionEscaner">
+<label for="selectCondicion">
+       LOCALÍA / CONDICIÓN
+      </label>
+<div class="custom-select-wrapper">
+<select class="modern-input" id="selectCondicion" onchange="actualizarEscaner()">
+<option value="General">
+         GLOBAL (LOCAL + VISITA)
+        </option>
+<option value="Local">
+         HOME (LOCAL)
+        </option>
+<option value="Visita">
+         AWAY (VISITA)
+        </option>
+</select>
+</div>
+</div>
+<div class="filter-group" id="bloquePeriodo" style="display: none;">
+<label for="selectTiempo">
+       PERIODO DEL JUEGO
+      </label>
+<div class="custom-select-wrapper">
+<select class="modern-input" id="selectTiempo" onchange="cambiarPeriodoEscaner()">
+<option value="ALL">
+         FT (PARTIDO COMPLETO)
+        </option>
+<option value="1ST">
+         HT (PRIMER TIEMPO)
+        </option>
+<option value="2ND">
+         SH (SEGUNDO TIEMPO)
+        </option>
+</select>
+</div>
+</div>
+<div class="top-bar-actions" style="margin-left: auto; display: flex; align-items: center; gap: 15px;">
+
+</div>
+</header>
+<header aria-label="Filtros de Data Histórica PRO" class="top-bar" id="topBarPro" style="display: none;">
+<div class="filter-group">
+<label for="selectLigaPro">
+       COMPETICIÓN (DATA PRO)
+      </label>
+<div class="custom-select-wrapper data-pro-competition-wrap" id="dataProCompetitionWrap">
+<select class="modern-input data-pro-competition-select" id="selectLigaPro" onchange="cambiarLigaHistoricaV46()">
+<optgroup label="🏴 INGLATERRA">
+<option value="Premier">PREMIER LEAGUE</option>
+<option value="Championship">CHAMPIONSHIP</option>
+</optgroup>
+<optgroup label="🇪🇸 ESPAÑA">
+<option value="LaLiga">LALIGA</option>
+</optgroup>
+<optgroup label="🇮🇹 ITALIA">
+<option value="SerieA">SERIE A</option>
+</optgroup>
+<optgroup label="🇩🇪 ALEMANIA">
+<option value="Bundesliga">BUNDESLIGA</option>
+</optgroup>
+<optgroup label="🇫🇷 FRANCIA">
+<option value="Ligue1">LIGUE 1</option>
+</optgroup>
+<optgroup label="🇧🇷 BRASIL">
+<option value="Brasileirao">BRASILEIRÃO SERIE A</option>
+</optgroup>
+</select>
+</div>
+</div>
+<div class="filter-group">
+<label for="selectTemporadaPro">
+       TEMPORADA
+      </label>
+<div class="custom-select-wrapper">
+<i aria-hidden="true" class="fa-solid fa-calendar-days input-icon" style="color: var(--brand-accent);">
+</i>
+<select class="modern-input" id="selectTemporadaPro" onchange="cambiarTemporadaHistoricaV46()">
+<option value="25_26">
+         2025 / 2026
+        </option>
+<option value="24_25">
+         2024 / 2025
+        </option>
+<option value="23_24">
+         2023 / 2024
+        </option>
+<option value="22_23">
+         2022 / 2023
+        </option>
+<option value="21_22">
+         2021 / 2022
+        </option>
+</select>
+</div>
+</div>
+<div class="filter-group inca-phase-filter" id="faseTablaProGroup" hidden>
+<label for="selectFasePro">
+       TABLA / TORNEO
+      </label>
+<div class="custom-select-wrapper inca-phase-native-wrap">
+<span class="inca-phase-select-mark" aria-hidden="true"><i class="fa-solid fa-table-list"></i></span>
+<select class="modern-input inca-phase-native-select" id="selectFasePro" onchange="cambiarFaseDataPro()">
+</select>
+</div>
+<small class="inca-phase-meta" id="faseTablaProMeta"></small>
+</div>
+<div class="filter-group focus-group">
+<label for="selectEquipoPro">
+       EQUIPO HISTÓRICO PRO
+      </label>
+<div class="custom-select-wrapper with-team">
+<img alt="Escudo del equipo histórico seleccionado" class="input-logo img-preview-container" decoding="async" fetchpriority="auto" id="logoEquipoProMain" loading="eager" referrerpolicy="no-referrer" src="" style="display: none;"/>
+<select class="modern-input" id="selectEquipoPro" onchange="renderizarDatabase()">
+</select>
+</div>
+</div>
+<div class="top-bar-actions" style="margin-left: auto; display: flex; gap: 15px; align-items: center;">
+
+<div aria-atomic="true" aria-label="Estado de carga de Data Histórica" aria-live="polite" class="status-dot loading" id="statusCargaPro" role="status" title="Estado de Conexión">
+</div>
+<button class="db-pro-btn-back" onclick="volverAlEscanerOriginal()" type="button">
+<i aria-hidden="true" class="fa-solid fa-arrow-left">
+</i>
+       ESCÁNER
+      </button>
+</div>
+</header>
+<header aria-label="Barra heredada de Player Picks" class="top-bar player-picks-legacy-bar" id="topBarJugadores" style="display: none;">
+<div style="flex: 1; display: flex; align-items: center; gap: 15px;">
+<h3 class="player-picks-legacy-title">PLAYER PICKS</h3>
+<div aria-atomic="true" aria-label="Estado de carga de Player Props" aria-live="polite" class="status-dot loading" id="statusCargaJugadores" role="status" title="Estado de Base de Datos">
+</div>
+</div>
+<div class="top-bar-actions" style="margin-left: auto; display: flex; gap: 15px; align-items: center;">
+
+<button class="db-pro-btn-back" onclick="volverAlEscanerOriginal()" type="button">
+<i aria-hidden="true" class="fa-solid fa-arrow-left">
+</i>
+       VOLVER AL ESCÁNER
+      </button>
+</div>
+</header>
+<!-- SECCIÓN 1: ESCÁNER LIVE -->
+<section aria-labelledby="tituloMercado" class="results-section" id="vista-escaner" role="region">
+<div class="summary-hud editor-panel-style" id="mainHudPanel">
+<div class="hud-info inca-visual-heading">
+<img alt="Logo del equipo seleccionado" class="inca-visual-main-logo" decoding="async" id="visualTeamLogo" loading="eager" referrerpolicy="no-referrer" src=""/>
+<div class="inca-visual-heading-copy">
+<div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+<h2 class="hud-title text-gradient" id="tituloMercado" style="margin-bottom: 0;">
+         GOLES TOTALES
+        </h2>
+<div class="value-bet-badge" id="valueBetBadge" style="display: none;">
+<i aria-hidden="true" class="fa-solid fa-fire">
+</i>
+         VALUE BET
+        </div>
+<div class="inca-title-rate" id="incaTitleRate" aria-label="Cumplimiento global">
+  <span>CUMPLE</span>
+  <strong id="incaHeaderHitRate">—</strong>
+  <small id="incaHeaderHitMeta">0 / 0 partidos</small>
+</div>
+</div>
+<div aria-atomic="true" aria-live="polite" class="hud-subtitle" id="subtituloFiltros" style="margin-top: 8px;">
+        ESPERANDO SELECCIÓN...
+       </div>
+<div class="trend-container" id="hud-trend-container" style="display: none;">
+<span style="font-size: 10px; font-weight: 800; color: var(--text-muted); letter-spacing: 0.05em; margin-right: 5px;">
+         ÚLTIMOS:
+        </span>
+</div>
+</div>
+</div>
+<div class="hud-filters">
+<div class="filter-group">
+<label for="selectSubMercado" id="labelSubMercadoEscaner">
+         TIPO DE ESTADÍSTICA
+        </label>
+<div class="custom-select-wrapper">
+<select class="modern-input" id="selectSubMercado" onchange="cambiarSubMercado()">
+</select>
+</div>
+</div>
+<div class="filter-group">
+<label for="inputLinea" id="labelLineaEscaner">
+         LÍNEA / OVER
+        </label>
+<div class="custom-select-wrapper" id="lineaSelectWrap">
+<select class="modern-input numeric-input" id="inputLinea" onchange="actualizarEscaner()">
+</select>
+</div>
+<input class="modern-input numeric-input inca-manual-line-input" id="inputLineaManual"
+       type="number" min="0" max="2500" step="0.5" inputmode="decimal"
+       placeholder="Ej. 699.5" hidden oninput="cambiarLineaManualEscaner()"
+       aria-label="Línea manual de Betano">
+</div>
+</div>
+</div>
+<div class="inca-signal-board" id="incaSignalBoard" aria-label="Cumplimiento de la línea seleccionada">
+  <div class="inca-signal-board__head">
+    <div class="inca-signal-board__title">
+      <span class="inca-data-kicker">CUMPLIMIENTO DE LÍNEA</span>
+      <strong id="incaSignalLabel">Selecciona equipo, mercado y línea</strong>
+    </div>
+    <div class="inca-signal-board__summary">
+      <article class="inca-rate-card is-global inca-rate-card--global-compact">
+        <div class="inca-rate-card__top"><span><i class="fa-solid fa-chart-line" aria-hidden="true"></i> GLOBAL</span><strong id="incaHitGlobal">—</strong></div>
+        <div class="inca-rate-bar"><i id="incaHitGlobalBar"></i></div>
+        <small id="incaHitGlobalMeta">0 / 0 partidos</small>
+      </article>
+      <div class="inca-signal-board__sample"><span>MUESTRA</span><b id="incaSignalSample">0</b></div>
+    </div>
+  </div>
+  <div class="inca-signal-grid">
+    <article class="inca-rate-card inca-rate-card--home">
+      <div class="inca-rate-card__top"><span><i class="fa-solid fa-house" aria-hidden="true"></i> HOME</span><strong id="incaHitHome">—</strong></div>
+      <div class="inca-rate-bar"><i id="incaHitHomeBar"></i></div>
+      <small id="incaHitHomeMeta">0 / 0 partidos</small>
+    </article>
+    <article class="inca-rate-card inca-rate-card--away">
+      <div class="inca-rate-card__top"><span><i class="fa-solid fa-plane" aria-hidden="true"></i> AWAY</span><strong id="incaHitAway">—</strong></div>
+      <div class="inca-rate-bar"><i id="incaHitAwayBar"></i></div>
+      <small id="incaHitAwayMeta">0 / 0 partidos</small>
+    </article>
+  </div>
+</div>
+<div class="inca-export-toolbar" id="incaExportToolbar">
+  <div class="inca-export-toolbar__copy">
+    <span class="inca-export-kicker">REPORTE VISUAL PREMIUM</span>
+    <strong>Exporta las tablas completas en una sola imagen</strong>
+  </div>
+  <button class="inca-export-button" id="btnExportarTablasPng" type="button">
+    <i class="fa-solid fa-image" aria-hidden="true"></i>
+    EXPORTAR TABLAS PNG
+  </button>
+</div>
+<div class="split-tables-container" id="splitTablesContainer">
+<div class="table-wrapper editor-panel-style" id="homeTableWrapper">
+<div class="table-header-title home-title">
+<div class="inca-panel-title-copy">
+<i aria-hidden="true" class="fa-solid fa-house"></i>
+<div>
+<strong id="visualHomeTitle">HOME · HISTORIAL DE LOCAL</strong>
+<span id="visualHomeSubtitle">Últimos partidos en casa</span>
+</div>
+</div>
+<span class="inca-panel-count" id="visualHomeCount">0</span>
+</div>
+<div class="table-container">
+<table class="data-table">
+<colgroup>
+<col class="col-date"/>
+<col class="col-team"/>
+<col class="col-score"/>
+<col class="col-team"/>
+</colgroup>
+<caption class="visually-hidden">Historial visual del equipo jugando como local</caption>
+<thead>
+<tr>
+<th class="col-date" scope="col">FECHA</th>
+<th class="col-team" scope="col">LOCAL</th>
+<th class="col-score" id="thPropioHome" scope="col">STATS</th>
+<th class="col-team" id="thRivalHome" scope="col">VISITANTE</th>
+</tr>
+</thead>
+<tbody id="tablaResultadosHome">
+</tbody>
+</table>
+</div>
+</div>
+<div class="table-wrapper editor-panel-style" id="awayTableWrapper">
+<div class="table-header-title away-title">
+<div class="inca-panel-title-copy">
+<i aria-hidden="true" class="fa-solid fa-plane"></i>
+<div>
+<strong id="visualAwayTitle">AWAY · HISTORIAL DE VISITA</strong>
+<span id="visualAwaySubtitle">Últimos partidos fuera de casa</span>
+</div>
+</div>
+<span class="inca-panel-count" id="visualAwayCount">0</span>
+</div>
+<div class="table-container">
+<table class="data-table">
+<colgroup>
+<col class="col-date"/>
+<col class="col-team"/>
+<col class="col-score"/>
+<col class="col-team"/>
+</colgroup>
+<caption class="visually-hidden">Historial visual del equipo jugando como visitante</caption>
+<thead>
+<tr>
+<th class="col-date" scope="col">FECHA</th>
+<th class="col-team" scope="col">LOCAL</th>
+<th class="col-score" id="thPropioAway" scope="col">STATS</th>
+<th class="col-team" id="thRivalAway" scope="col">VISITANTE</th>
+</tr>
+</thead>
+<tbody id="tablaResultadosAway">
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<!-- SECCIÓN 2: BASE DE DATOS PRO -->
+<section aria-labelledby="dbTeamName" class="results-section" id="vista-database" role="region" style="display: none;">
+<div class="db-hero editor-panel-style">
+<div style="display: flex; align-items: center; gap: 20px;">
+<img alt="Escudo del equipo del reporte" decoding="async" fetchpriority="auto" id="dbTeamLogo" loading="eager" referrerpolicy="no-referrer" src="" style="width: 70px; height: 70px; object-fit: contain; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.15));"/>
+<div>
+<h2 id="dbTeamName" style="font-size: 28px; font-weight: 900; font-family: 'Poppins', sans-serif; color: var(--text-primary);">
+         SELECCIONA UN EQUIPO
+        </h2>
+<p style="font-size: 12px; font-weight: 700; color: var(--text-muted); letter-spacing: 0.1em; margin-top: 4px;">
+         REPORTE ESTADÍSTICO DE LA TEMPORADA
+        </p>
+</div>
+</div>
+<div style="margin-top: 25px; display: flex; flex-direction: column; gap: 15px;">
+<div class="db-phase-context" id="dbPhaseContext" hidden>
+  <span class="db-phase-context__icon"><i class="fa-solid fa-layer-group" aria-hidden="true"></i></span>
+  <span class="db-phase-context__copy">
+    <small>FASE ACTIVA</small>
+    <strong id="dbPhaseContextLabel">Temporada regular</strong>
+    <em id="dbPhaseContextMeta">—</em>
+  </span>
+</div>
+<div class="db-qualification-context" id="dbQualificationContext" hidden>
+  <div class="db-qualification-head">
+    <span class="db-qualification-head__icon"><i class="fa-solid fa-route" aria-hidden="true"></i></span>
+    <span class="db-qualification-head__copy">
+      <small>CUPOS / FASES</small>
+      <strong id="dbQualificationTitle">Estructura de la competición</strong>
+      <em id="dbQualificationMeta">SofaScore · temporada actual</em>
+    </span>
+  </div>
+  <div class="db-qualification-zones" id="dbQualificationZones" aria-label="Cupos y fases de la competición"></div>
+</div>
+<div aria-label="Condición de localía para Data Histórica" class="db-split-filters" id="dbSplitFilters" role="group">
+<button aria-pressed="true" class="db-split-btn active" onclick="setDbSplit('ALL', this)" type="button">
+         TODOS
+        </button>
+<button aria-pressed="false" class="db-split-btn" onclick="setDbSplit('HOME', this)" type="button">
+         HOME
+        </button>
+<button aria-pressed="false" class="db-split-btn" onclick="setDbSplit('AWAY', this)" type="button">
+         AWAY
+        </button>
+</div>
+<div aria-label="Mercados de Data Histórica PRO" class="db-market-tabs" id="mainMarketTabs" role="tablist">
+<button aria-selected="true" class="db-market-btn active" onclick="setDbTab('Resumen', this)" role="tab" type="button">
+         RESUMEN &amp; TABLAS
+        </button>
+<button aria-selected="false" class="db-market-btn" onclick="setDbTab('Goles', this)" role="tab" type="button">
+         GOLES
+        </button>
+<button aria-selected="false" class="db-market-btn" onclick="setDbTab('Córners', this)" role="tab" type="button">
+         CÓRNERS
+        </button>
+<button aria-selected="false" class="db-market-btn" onclick="setDbTab('Tarjetas', this)" role="tab" type="button">
+         TARJETAS
+        </button>
+<button aria-selected="false" class="db-market-btn" onclick="setDbTab('Tiros Totales', this)" role="tab" type="button">
+         TIROS
+        </button>
+<button aria-selected="false" class="db-market-btn" onclick="setDbTab('Tiros a Puerta', this)" role="tab" type="button">
+         TIROS AL ARCO
+        </button>
+<button aria-selected="false" class="db-market-btn" onclick="setDbTab('Faltas', this)" role="tab" type="button">
+         FALTAS
+        </button>
+<button aria-selected="false" class="db-market-btn" onclick="setDbTab('Fueras de Juego', this)" role="tab" type="button">
+         FUERAS DE JUEGO
+        </button>
+<button aria-selected="false" class="db-market-btn" onclick="setDbTab('Saques de Meta', this)" role="tab" type="button">
+         SAQ. META
+        </button>
+<button aria-selected="false" class="db-market-btn" onclick="setDbTab('Saques de Banda', this)" role="tab" type="button">
+         LATERALES
+        </button>
+<button aria-selected="false" class="db-market-btn" onclick="setDbTab('Pases', this)" role="tab" type="button">
+         PASES
+        </button>
+<button aria-selected="false" class="db-market-btn" onclick="setDbTab('Entradas', this)" role="tab" type="button">
+         ENTRADAS
+        </button>
+</div>
+</div>
+</div>
+<div class="editor-panel-style" id="pro-controls-container" style="display: none; padding: 24px 32px; margin-bottom: 10px;">
+<div style="display: flex; flex-direction: column; gap: 20px;">
+<div style="display: flex; gap: 20px; align-items: center;">
+<label for="dbCategorySelect" style="font-size: 13px; font-weight: 800; color: var(--text-muted); width: 220px;">
+         MERCADO PRINCIPAL:
+        </label>
+<div class="custom-select-wrapper" style="width: 350px;">
+<select class="modern-input" id="dbCategorySelect" onchange="cambiarCategoriaPro()">
+</select>
+</div>
+</div>
+<div style="display: flex; gap: 20px; align-items: center;">
+<label for="dbSubMarketSelect" style="font-size: 13px; font-weight: 800; color: var(--text-muted); width: 220px;">
+         SELECCIÓN ESPECÍFICA:
+        </label>
+<div class="custom-select-wrapper" style="width: 350px;">
+<select class="modern-input" id="dbSubMarketSelect" onchange="cambiarSubMercadoPro()">
+</select>
+</div>
+</div>
+<div id="dbManualPassLineRow" style="display:none; gap:20px; align-items:center;">
+<label for="dbManualPassLine" style="font-size:13px;font-weight:800;color:var(--text-muted);width:220px;">
+         LÍNEA BETANO:
+        </label>
+<input class="modern-input inca-db-manual-line" id="dbManualPassLine"
+       type="number" min="0" max="2500" step="0.5" inputmode="decimal"
+       value="399.5" oninput="cambiarLineaPasesPro()"
+       style="width:350px;" aria-label="Línea manual Betano para pases">
+</div>
+</div>
+</div>
+<div id="db-content-area">
+</div>
+</section>
+<!-- SECCIÓN 3: PLAYER PROPS -->
+<section aria-label="Player Props VIP" class="results-section ppsO-host" id="vista-jugadores" role="region" style="display: none;"></section>
+<!-- SECCIÓN 4: RANKINGS VIP (LEADERBOARDS) -->
+<section aria-labelledby="lblRankingTitulo" class="results-section rk-pro-layout" id="vista-rankings" role="region" style="display: none;">
+<div class="rk-pro-loader" id="rankingsProLoader" hidden aria-live="polite" aria-busy="true">
+  <div class="rk-pro-loader-card">
+    <div class="rk-pro-loader-mark"><span></span><img id="rankingsProLoaderLogo" alt="" decoding="async"/></div>
+    <div class="rk-pro-loader-copy"><small>INCA DATA ENGINE</small><strong id="rankingsProLoaderTitle">Cargando competición</strong><span id="rankingsProLoaderText">Preparando historial y leaderboard...</span></div>
+    <div class="rk-pro-loader-bar"><i></i></div>
+  </div>
+</div>
+<header class="rk-pro-header">
+<div class="rk-pro-brand">
+<div aria-hidden="true" class="rk-pro-brand__icon">
+<i class="fa-solid fa-trophy"></i>
+</div>
+<div class="rk-pro-brand__copy">
+<h2 id="lblRankingTitulo">LEADERBOARDS VIP</h2>
+<span aria-atomic="true" aria-live="polite" id="lblRankingFiltro">DESCUBRIMIENTO DE VALOR</span>
+<div class="rk-league-context">
+<span class="rk-league-context__logo"><img id="rankingsLeagueLogo" alt="" decoding="async" referrerpolicy="no-referrer"/></span>
+<span id="rankingsLeagueContext">Premier League · CAMPAÑA ACTUAL</span>
+</div>
+</div>
+</div>
+<div aria-label="Configuración principal del ranking" class="rk-pro-primary-controls">
+<div class="rk-select-group rk-control-league">
+<label for="rankingsSelectLiga"><i aria-hidden="true" class="fa-solid fa-trophy"></i>LIGA</label>
+<div class="custom-select-wrapper rk-custom-wrapper rk39-rank-league-wrap">
+<img id="rankingsSelectLeagueLogo" class="rk39-rank-league-logo" alt="" decoding="async" loading="eager"/>
+<select class="modern-input rk39-native-ranking-select" data-titan-catalog="ranking31" id="rankingsSelectLiga" onchange="cambiarLigaRankingVIP()">
+
+
+<option value="Premier">Premier League</option>
+<option value="Championship">Championship</option>
+<option value="LaLiga">LaLiga EA Sports</option>
+<option value="SerieA">Serie A</option>
+<option value="Bundesliga">Bundesliga</option>
+<option value="Ligue1">Ligue 1</option>
+<option value="LigaPortugal">Liga Portugal</option>
+<option value="Eredivisie">Eredivisie</option>
+<option value="Brasileirao">Brasileirão Série A</option>
+<option value="Argentina">Liga Profesional Argentina</option>
+<option value="MLS">MLS</option>
+
+
+</select>
+</div>
+</div>
+<div class="rk-select-group rk-control-season">
+<label for="rankingsSelectTemporada"><i aria-hidden="true" class="fa-regular fa-calendar"></i>TEMPORADA</label>
+<div class="custom-select-wrapper rk-custom-wrapper">
+<select class="modern-input" id="rankingsSelectTemporada" onchange="cambiarTemporadaRankingVIP()">
+<option value="CURRENT" selected>CAMPAÑA ACTUAL</option>
+<option value="25_26">2025 / 2026</option>
+<option value="24_25">2024 / 2025</option>
+<option value="23_24">2023 / 2024</option>
+<option value="22_23">2022 / 2023</option>
+<option value="21_22">2021 / 2022</option>
+</select>
+</div>
+</div>
+<div class="rk-select-group rk-control-metric">
+<label for="rankingsSelectMetrica">
+<i aria-hidden="true" class="fa-solid fa-chart-simple"></i>
+MÉTRICA VIP
+</label>
+<div class="custom-select-wrapper rk-custom-wrapper">
+<select class="modern-input" id="rankingsSelectMetrica" onchange="actualizarRankingsDOM()">
+<option value="Goles">Goles</option>
+<option value="Asistencias">Asistencias</option>
+<option value="Tiros_Totales">Tiros Totales</option>
+<option value="Tiros_Al_Arco">Tiros a Puerta</option>
+<option value="Pases_Totales">Pases Completados</option>
+<option value="Entradas(Tackles)">Entradas (Tackles)</option>
+<option value="Faltas_Cometidas">Faltas Cometidas</option>
+<option value="Faltas_Recibidas">Faltas Recibidas</option>
+<option value="Tarjetas_Generales">Tarjetas Generales</option>
+<option disabled="" hidden="" value="Atajadas">Atajadas (Solo Arqueros)</option>
+<option value="Minutos_Jugados">Minutos Jugados</option>
+</select>
+</div>
+</div>
+<div class="rk-select-group rk-control-mode">
+<label for="rankingsSelectModo">
+<i aria-hidden="true" class="fa-solid fa-calculator"></i>
+MODO DE CÁLCULO
+</label>
+<div class="custom-select-wrapper rk-custom-wrapper">
+<select class="modern-input" id="rankingsSelectModo" onchange="actualizarRankingsDOM()">
+<option value="total">Acumulado Total</option>
+<option value="promedio">Promedio x Partido</option>
+</select>
+</div>
+</div>
+<aside class="rk-mode-help" id="rankingsModeHelp" aria-live="polite">
+<i class="fa-solid fa-circle-info" aria-hidden="true"></i>
+<div><strong id="rankingsModeHelpTitle">ACUMULADO TOTAL</strong>
+<span id="rankingsModeHelpText">Suma toda la producción del jugador en la temporada seleccionada.</span></div>
+</aside>
+<button class="rk-btn-back" onclick="abrirVistaDatabase()" type="button">
+<i aria-hidden="true" class="fa-solid fa-arrow-left"></i>
+<span>VOLVER A DATA PRO</span>
+</button>
+</div>
+</header>
+<div aria-label="Filtros del leaderboard" class="rk-pro-filterbar">
+<!-- NUEVO FILTRO: CONDICIÓN -->
+<div class="rk-select-group rk-filter-condition">
+<label for="rankingsSelectCondicion">
+<i aria-hidden="true" class="fa-solid fa-location-dot"></i> CONDICIÓN
+        </label>
+<div class="custom-select-wrapper rk-custom-wrapper">
+<select class="modern-input" id="rankingsSelectCondicion" onchange="actualizarRankingsDOM()">
+<option value="ALL">Global (Ambos)</option>
+<option value="LOCAL">Local</option>
+<option value="VISITA">Visita</option>
+</select>
+</div>
+</div>
+<!-- EQUIPO -->
+<div class="rk-select-group rk-filter-team">
+<label for="rankingsSelectEquipo">
+<i aria-hidden="true" class="fa-solid fa-shield-halved"></i> EQUIPO
+</label>
+<div class="custom-select-wrapper rk-custom-wrapper">
+<select class="modern-input" id="rankingsSelectEquipo" onchange="actualizarRankingsDOM()">
+<option value="ALL">Todos los equipos</option>
+</select>
+</div>
+</div>
+<!-- POSICIÓN -->
+<div class="rk-select-group rk-filter-position">
+<label for="rankingsSelectPosicion">
+<i aria-hidden="true" class="fa-solid fa-street-view"></i> POSICIÓN
+        </label>
+<div class="custom-select-wrapper rk-custom-wrapper">
+<select class="modern-input" id="rankingsSelectPosicion" onchange="actualizarRankingsDOM()">
+<option value="ALL">Todas</option>
+<option value="ARQUERO">Arqueros</option>
+<option value="DEFENSOR">Defensores</option>
+<option value="MEDIOCENTRO">Mediocentros</option>
+<option value="DELANTERO">Delanteros</option>
+</select>
+</div>
+</div>
+<!-- LÍMITE (TOP X) -->
+<div class="rk-select-group rk-filter-limit">
+<label for="rankingsSelectLimite">
+<i aria-hidden="true" class="fa-solid fa-list-ol"></i> MOSTRAR
+        </label>
+<div class="custom-select-wrapper rk-custom-wrapper">
+<select class="modern-input" id="rankingsSelectLimite" onchange="actualizarRankingsDOM()">
+<option value="3">Top 3</option>
+<option value="5">Top 5</option>
+<option value="10">Top 10</option>
+<option selected="" value="25">Top 25</option>
+<option value="50">Top 50</option>
+</select>
+</div>
+</div>
+
+</div>
+<article class="rk-pro-hero" id="rankingsHeroCard">
+<div aria-hidden="true" class="rk-pro-hero__icon">
+<i class="fa-solid fa-chart-column" id="rankingsHeroIcon"></i>
+</div>
+<div class="rk-pro-hero__copy">
+<span class="rk-pro-hero__eyebrow">RENDIMIENTO DE TEMPORADA</span>
+<h3 id="rankingsHeroTitle">RANKING DE JUGADORES</h3>
+<p id="rankingsHeroDescription">Ordenado según la métrica y el modo de cálculo seleccionados.</p>
+</div>
+<div class="rk-pro-hero__meta">
+<span id="rankingsHeroMode">ACUMULADO TOTAL</span>
+<small id="rankingsHeroCount">JUGADORES DISPONIBLES</small>
+</div>
+<div aria-hidden="true" class="rk-pro-hero__visual">
+<i class="fa-regular fa-futbol"></i>
+</div>
+</article>
+<div class="table-maestra-container rk-main-card">
+<div class="rk-table-scroll">
+<table class="rk-table">
+<caption class="visually-hidden">Ranking estadístico de jugadores</caption>
+<thead>
+<tr>
+<th scope="col">RK</th>
+<th scope="col">JUGADOR / EQUIPO</th>
+<th scope="col" title="Partidos Jugados"><i aria-hidden="true" class="fa-regular fa-calendar-days"></i> PJ</th>
+<th scope="col" title="Minutos Jugados"><i aria-hidden="true" class="fa-regular fa-clock"></i> MINS</th>
+<th class="col-head-total" id="thRankTotal" scope="col">TOTAL</th>
+<th class="col-head-prom" id="thRankProm" scope="col">POR PARTIDO</th>
+</tr>
+</thead>
+<tbody aria-live="polite" id="tablaBodyRankings"></tbody>
+</table>
+</div>
+</div>
+</section>
+</main>
+</div></section>
+<!-- MODAL VIP: FICHA RÁPIDA DE JUGADOR -->
+<div aria-describedby="modalResumenTitulo" aria-hidden="true" aria-labelledby="modalNombrePj" aria-modal="true" class="pro-modal-overlay" id="modalJugadorVIP" role="dialog" style="display:none;" tabindex="-1">
+<div class="pro-modal-content pro-modal-content--player">
+<button aria-label="Cerrar ficha del jugador" class="pro-modal-close" data-modal-close="true" onclick="cerrarModalJugador()" type="button">
+<i aria-hidden="true" class="fa-solid fa-xmark"></i>
+</button>
+<div class="pro-modal-header pro-modal-header--player" id="modalHeaderTheme">
+<div class="modal-avatar-wrapper modal-avatar-wrapper--pro">
+<img alt="Foto del jugador" decoding="async" fetchpriority="high" id="modalFotoPj" loading="eager" referrerpolicy="no-referrer" src=""/>
+<span aria-hidden="true" class="modal-avatar-placeholder">--</span>
+</div>
+<div class="modal-info-pj">
+<span class="modal-profile-kicker"><i aria-hidden="true" class="fa-solid fa-ranking-star"></i> PERFIL DE RANKING</span>
+<h3 class="modal-name" id="modalNombrePj">NOMBRE JUGADOR</h3>
+<div class="modal-identity-row">
+<div class="modal-team-row">
+<img alt="Escudo del equipo del jugador" class="modal-team-logo" decoding="async" id="modalEscudoEq" loading="eager" referrerpolicy="no-referrer" src=""/>
+<span class="modal-team-name" id="modalNombreEq">EQUIPO</span>
+</div>
+<span class="modal-position-pill" id="modalPosicionPj">POSICIÓN</span>
+</div>
+</div>
+</div>
+<div class="pro-modal-body">
+<div class="modal-section-heading">
+<div>
+<span class="modal-section-eyebrow">TEMPORADA ACTUAL</span>
+<h4 class="modal-subtitle" id="modalResumenTitulo">RESUMEN ESTADÍSTICO</h4>
+</div>
+</div>
+<div class="modal-stats-grid">
+<div class="modal-stat-box"><span class="m-val" id="mPj">0</span><span class="m-lbl">PARTIDOS</span></div>
+<div class="modal-stat-box"><span class="m-val" id="mMins">0</span><span class="m-lbl">MINUTOS</span></div>
+<div class="modal-stat-box theme-gol"><span class="m-val" id="mGol">0</span><span class="m-lbl">GOLES</span></div>
+<div class="modal-stat-box theme-asi"><span class="m-val" id="mAsi">0</span><span class="m-lbl">ASIST.</span></div>
+<div class="modal-stat-box theme-tir"><span class="m-val" id="mTir">0</span><span class="m-lbl">TIROS</span></div>
+<div class="modal-stat-box theme-pue"><span class="m-val" id="mPue">0</span><span class="m-lbl">A PUERTA</span></div>
+<div class="modal-stat-box theme-tck"><span class="m-val" id="mTck">0</span><span class="m-lbl">TACKLES</span></div>
+<div class="modal-stat-box theme-tar"><span class="m-val" id="mTar">0</span><span class="m-lbl">TARJETAS</span></div>
+<div class="modal-stat-box theme-atj" id="modalAtajadasBox" style="display:none;"><span class="m-val" id="mAtj">0</span><span class="m-lbl">ATAJADAS</span></div>
+</div>
+</div>
+</div>
+</div>
+<script src="config.js?v=1.042"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script>
+<script src="auth-pro.js?v=1.042"></script>
+<script src="api-cache-client.js?v=1.042"></script>
+<script src="storage/indexed-db.js?v=1.034"></script>
+<script src="data-client.js?v=1.034"></script>
+<script src="virtual-table.js?v=1.034"></script>
+<script src="modules/logos.js?v=1.034"></script>
+<script src="modules/faces.js?v=1.034"></script>
+<script src="modules/search.js?v=1.034"></script>
+<script src="modules/scanner.js?v=1.034"></script>
+<script src="modules/player-vip.js?v=1.034"></script>
+<script src="modules/leaderboard.js?v=1.034"></script>
+<script src="app.js?v=1.042"></script>
+<script src="qualification-phases.js?v=1.034"></script>
+<script src="titan-data.js?v=1.034"></script>
+<script onerror="console.error('No se pudo cargar escaner.js.');" src="escaner.js?v=1.042">
+</script>
+<script id="html-compatibility-bridge">
+   (() => {
+    'use strict';
+
+    let previousModalFocus = null;
+
+    const visible = (element) => Boolean(element && getComputedStyle(element).display !== 'none');
+
+    const syncThemeState = () => {
+        const dark = document.body.classList.contains('dark-mode');
+        document.querySelectorAll('.theme-toggle-btn').forEach((button) => {
+            button.setAttribute('aria-pressed', String(dark));
+            button.setAttribute('aria-label', dark ? 'Activar modo claro' : 'Activar modo oscuro');
+        });
+    };
+
+    const syncSidebarState = () => {
+        const sidebar = document.getElementById('sidebarMenu');
+        if (!sidebar) return;
+        const open = sidebar.classList.contains('open');
+        document.querySelectorAll('.mobile-menu-btn, .mobile-close-btn').forEach((button) => {
+            button.setAttribute('aria-expanded', String(open));
+        });
+    };
+
+    const syncInteractiveState = () => {
+        document.querySelectorAll('.accordion-header').forEach((button) => {
+            button.setAttribute('aria-expanded', String(button.classList.contains('active')));
+        });
+        document.querySelectorAll('.menu-option, .category-btn, .db-split-btn').forEach((button) => {
+            button.setAttribute('aria-pressed', String(button.classList.contains('active')));
+        });
+        document.querySelectorAll('[role="tab"]').forEach((button) => {
+            button.setAttribute('aria-selected', String(button.classList.contains('active')));
+            button.setAttribute('tabindex', button.classList.contains('active') ? '0' : '-1');
+        });
+    };
+
+    const syncModalState = () => {
+        const modal = document.getElementById('modalJugadorVIP');
+        if (!modal) return;
+        const open = visible(modal);
+        modal.setAttribute('aria-hidden', String(!open));
+
+        if (open) {
+            if (!previousModalFocus) previousModalFocus = document.activeElement;
+            const closeButton = modal.querySelector('[data-modal-close]');
+            if (closeButton && document.activeElement !== closeButton) closeButton.focus({ preventScroll: true });
+        } else if (previousModalFocus instanceof HTMLElement) {
+            previousModalFocus.focus({ preventScroll: true });
+            previousModalFocus = null;
+        }
+    };
+
+    const syncSearchState = () => {
+        const input = document.getElementById('inputBusquedaJugador');
+        const results = document.getElementById('resultadosBusquedaJugador');
+        if (!input || !results) return;
+        const expanded = results.childElementCount > 0 && visible(results);
+        input.setAttribute('aria-expanded', String(expanded));
+    };
+
+    const syncAll = () => {
+        syncThemeState();
+        syncSidebarState();
+        syncInteractiveState();
+        syncModalState();
+        syncSearchState();
+    };
+
+    document.addEventListener('DOMContentLoaded', () => {
+        syncAll();
+
+        new MutationObserver(syncThemeState).observe(document.body, {
+            attributes: true,
+            attributeFilter: ['class']
+        });
+
+        const sidebar = document.getElementById('sidebarMenu');
+        if (sidebar) {
+            new MutationObserver(syncSidebarState).observe(sidebar, {
+                attributes: true,
+                attributeFilter: ['class']
+            });
+        }
+
+        document.querySelectorAll('.accordion-header, .menu-option, .category-btn, .db-split-btn, [role="tab"]').forEach((element) => {
+            new MutationObserver(syncInteractiveState).observe(element, {
+                attributes: true,
+                attributeFilter: ['class']
+            });
+        });
+
+        const modal = document.getElementById('modalJugadorVIP');
+        if (modal) {
+            new MutationObserver(syncModalState).observe(modal, {
+                attributes: true,
+                attributeFilter: ['style', 'class']
+            });
+            modal.addEventListener('click', (event) => {
+                if (event.target === modal && typeof window.cerrarModalJugador === 'function') {
+                    window.cerrarModalJugador();
+                }
+            });
+        }
+
+        const results = document.getElementById('resultadosBusquedaJugador');
+        if (results) {
+            new MutationObserver(syncSearchState).observe(results, {
+                childList: true,
+                subtree: true,
+                attributes: true,
+                attributeFilter: ['style', 'class']
+            });
+        }
+    });
+
+    document.addEventListener('click', () => queueMicrotask(syncInteractiveState));
+
+    document.addEventListener('keydown', (event) => {
+        const interactiveOption = event.target.closest?.('.menu-option[role="button"]');
+        if (interactiveOption && (event.key === 'Enter' || event.key === ' ')) {
+            event.preventDefault();
+            interactiveOption.click();
+            return;
+        }
+
+        if (event.key !== 'Escape') return;
+
+        const modal = document.getElementById('modalJugadorVIP');
+        if (visible(modal) && typeof window.cerrarModalJugador === 'function') {
+            window.cerrarModalJugador();
+            return;
+        }
+
+        const sidebar = document.getElementById('sidebarMenu');
+        if (sidebar?.classList.contains('open')) {
+            sidebar.classList.remove('open');
+            syncSidebarState();
+        }
+    });
+})();
+  </script>
+<script defer src="table-export.js?v=1.034"></script>
+<script defer src="odds-market-policy.js?v=1.042"></script><script defer="True" src="pro-portal.js?v=1.042"></script><script defer src="streaks-pro.js?v=1.034"></script><script defer src="titan-players-client.js?v=1.042"></script><script defer src="player-props.js?v=1.042"></script><script defer src="pro-intelligence.js?v=1.042"></script><script defer src="titan-referees-client.js?v=1.042"></script><script defer src="league-center.js?v=1.042"></script><script defer src="referee-center.js?v=1.042"></script><script defer src="navigation-controller.js?v=1.034"></script><button aria-label="Volver arriba" class="portal-scroll-top" id="portalScrollTop" type="button"><i class="fa-solid fa-arrow-up"></i></button>
+<script src="./betting-core.js?v=1.034"></script>
+<script src="./titan-fixtures.js?v=1.034"></script>
+<script defer src="product-polish.js?v=1.034"></script>
+<script src="./team-intel.js?v=1.034"></script>
+<script src="./compare-cross-league.js?v=1.034"></script>
+<script src="./match-center-pro.js?v=1.042"></script>
+<script src="./metric-selects.js?v=1.034"></script>
+<script defer src="./league-logo-selects.js?v=1.034"></script><script defer src="./mobile-selectors.js?v=1.034"></script><script defer src="./mobile-stability.js?v=1.034"></script><script defer src="./inca-settings.js?v=1.034"></script>
+<script src="metrics-48.js?v=1.034"></script><script src="global-rankings.js?v=1.034"></script>
+<script src="ui-friendly-status.js?v=1.034"></script>
+<script src="./fast-launch.js?v=1.034"></script>
+<script src="editorial-pro-ui.js?v=1.034"></script>
+<script src="home-carousel-v26.js?v=1.034"></script>
+</body>
+</html>

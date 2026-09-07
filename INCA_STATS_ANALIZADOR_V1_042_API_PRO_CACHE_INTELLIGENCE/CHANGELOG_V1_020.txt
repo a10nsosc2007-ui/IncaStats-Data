@@ -1,0 +1,11 @@
+INCA STATS ANALIZADOR V1.020
+
+PLAYER PICKS
+- xG eliminado del catálogo.
+- Pases: línea manual, sin catálogo prefijado.
+- Tap/click táctil sobre una barra abre el detalle: rival, fecha, condición, estadística, mercado y cumplimiento.
+- Desktop conserva tooltip por hover.
+
+ANALYZER
+- Pases deja únicamente la entrada manual de línea.
+- El selector legacy de línea se limpia y deshabilita mientras Pases está activo para impedir opciones antiguas.

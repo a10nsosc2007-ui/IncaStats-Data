@@ -1,0 +1,1 @@
+(() => { window.INCA_MODULES = window.INCA_MODULES || {}; let timer=0; window.INCA_MODULES.search={ debounce(fn,ms=120){ return (...args)=>{clearTimeout(timer);timer=setTimeout(()=>fn(...args),ms);}; }, async index(items,field='Jugador'){ try{return await window.INCA_DATA_WORKER.buildSearchIndex(items,field);}catch{return null;} } }; })();

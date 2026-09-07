@@ -1,0 +1,11 @@
+INCA STATS ANALIZADOR V1.025
+REFEREE FACES + BOOKING POINTS
+
+- Base: V1.024 Referee Center Pro.
+- TITAN_REFEREES_CURRENT actualizado con 403 caras reales disponibles.
+- Cliente arbitral carga faces/rutas_imagenes_referees.json con GitHub -> fallback local.
+- Referee Center muestra foto real cuando existe y avatar genérico cuando no existe.
+- League Center > Árbitros muestra caras en designaciones, tabla y modal.
+- Match Center muestra cara del árbitro cuando la designación enlaza con TITAN.
+- UI renombrada de Puntos INCA a Booking Points sin cambiar la fórmula del dataset.
+- No se modificaron Player Picks, Analyzer, Data Histórica PRO, Leaderboards ni Auth.

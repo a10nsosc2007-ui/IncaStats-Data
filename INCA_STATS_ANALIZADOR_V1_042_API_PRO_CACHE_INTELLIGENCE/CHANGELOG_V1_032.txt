@@ -1,0 +1,8 @@
+INCA STATS ANALIZADOR V1.032 · REFEREE WHISTLE DETAIL PRO · TITAN V9.3
+
+- Referee Quick History mantiene estructura compacta V1.031.
+- Tarjetas rojas usan rojo real en todos los bloques.
+- Faltas usan silbato SVG animado sutil (respeta prefers-reduced-motion).
+- Detalle elimina CALIDAD.
+- Detalle muestra EVENT ID, RONDA y MIN. 1ª TARJETA.
+- Sin cambios en datos, cálculos ni otros módulos.

@@ -1,0 +1,8 @@
+V1.041 · PLAYER FACES OVERLAY · SIMPLE BAT
+
+- TITAN_PLAYERS_FACES_CURRENT de GitHub tiene prioridad sobre todas las caras viejas.
+- Si {Player_ID}.webp nuevo no existe o falla, la UI continúa automáticamente con la cara legacy y luego avatar/API según el módulo.
+- Player Picks, League Center, Match Center, Scanner/Rankings y Directorio de Jugadores respetan el overlay.
+- Token de 5 minutos en URLs de faces para recoger actualizaciones del BAT/GitHub sin invalidar caché en cada render.
+- No requiere F12 para actualizar faces.
+- PC + Android + iPhone usan el mismo resolver.

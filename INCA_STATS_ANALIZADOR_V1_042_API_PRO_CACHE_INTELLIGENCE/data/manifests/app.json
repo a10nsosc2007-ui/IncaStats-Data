@@ -1,0 +1,28 @@
+{
+  "version": "24.0.0",
+  "source": "V4_22 + TITAN_ALONSINHO_V1_PRO + CURATED_26_EUROPE_5_AMERICA",
+  "storage": "IndexedDB",
+  "worker": "workers/data-worker.js",
+  "remote": {
+    "faces": "https://raw.githubusercontent.com/a10nsosc2007-ui/IncaStats-Data/main/IncaStats_Caras/rutas_imagenes.json",
+    "players": "https://raw.githubusercontent.com/a10nsosc2007-ui/IncaStats-Data/main/IncaStats_Caras/jugadores_ids_9514.json"
+  },
+  "titan": {
+    "enabled": true,
+    "catalog": "https://raw.githubusercontent.com/a10nsosc2007-ui/IncaStats-Data/main/TITAN_ALONSINHO_V1_GITHUB_READY/manifest/manifest_global.json",
+    "raw_base": "https://raw.githubusercontent.com/a10nsosc2007-ui/IncaStats-Data/main/TITAN_ALONSINHO_V1_GITHUB_READY/",
+    "release": "https://github.com/a10nsosc2007-ui/IncaStats-Data/releases/download/titan-data-v1/TITAN_ALONSINHO_V1_FULL_DATA_RELEASE.zip",
+    "coverage": {
+      "teams": 731,
+      "europe": 585,
+      "america": 146,
+      "years": "2021-2026"
+    },
+    "mode": "TITAN_PRIMARY_LEGACY_PLAYERS_PRESERVED",
+    "catalog_mode": "CURATED_31",
+    "visible_competitions": {
+      "europe": 26,
+      "america": 5
+    }
+  }
+}

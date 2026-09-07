@@ -1,0 +1,25 @@
+INCA STATS ANALIZADOR V1.023 — PLAYER STREAKS + MATCH UX PRO
+
+1. LEAGUE CENTER / PLAYER STREAKS
+- Tarjetas completamente reorganizadas para evitar nombres de rivales letra por letra.
+- Jerarquía: jugador + club actual, mercado, racha, secuencia y próximo partido.
+- Próximo partido muestra LOCAL/VISITA como pill, rival completo y fecha/hora en línea separada.
+- Responsive real desktop/tablet/iPhone/Android.
+
+2. PLAYER ANALYZER
+- El mercado con el que se abre una racha se conserva.
+- Después de MIN se muestra siempre la métrica activa: Tackles, Tiros, Tiros a puerta, Faltas, etc.
+- Tabla enfocada en el mercado seleccionado con CUMPLE / NO CUMPLE.
+
+3. MATCH CENTER / JUGADORES
+- Goles, Asistencias, Tiros, Tackles, etc. pasan a un único menú de selección.
+- Se elimina el carrusel horizontal de chips de mercados.
+
+4. MATCH CENTER / FORMA & COMPARADOR
+- Se separan dos vistas: Últimos partidos y Comparador.
+- El contexto Todos / Misma localía se mantiene arriba y aplica a ambas vistas.
+- Los controles de línea solo aparecen dentro de Últimos partidos.
+- Comparador conserva únicamente campaña actual; no recicla temporada anterior.
+
+5. ALCANCE
+- No se modifica Analyzer principal, Player Picks, Data Histórica PRO, Leaderboards, Auth/Supabase ni API architecture.

@@ -1,0 +1,12 @@
+INCA STATS ANALIZADOR V1.026
+REFEREE PROFILE VISUAL PRO
+
+- Referee Center rediseñado como módulo visual, sin filtros de liga/país/rankings.
+- Búsqueda por nombre con sugerencias y caras reales TITAN.
+- Perfil arbitral editorial con cara, país y KPIs limpios.
+- Pestañas Historial de partidos / Estadísticas.
+- Cada partido muestra tarjetas amarillas/rojas por equipo, faltas por equipo, Booking Points y minuto de primera tarjeta.
+- Estadísticas agregadas por competición y disciplina Local/Visitante.
+- League Center y Match Center abren el perfil completo del árbitro en Referee Center cuando TITAN lo reconoce.
+- Responsive dedicado desktop / iPhone / Android.
+- No se modifican Player Picks, Analyzer, Data Histórica PRO, Leaderboards ni Auth.

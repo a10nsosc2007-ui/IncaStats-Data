@@ -1,0 +1,8 @@
+INCA STATS ANALIZADOR · V1.037 · GRAPHITE TOPBAR + NAV PRO
+
+- Barra superior (logo / versión / cuenta / menú) pasa de blanco a graphite real.
+- Badge V1.037 integrado en graphite, sin cápsula blanca.
+- Cuenta y botón de menú armonizados con el mismo chrome oscuro.
+- Drawer mantiene deep graphite y se refuerzan overrides frente a CSS legacy móvil.
+- Android/iPhone: overrides específicos <=980px y <=700px + safe-area horizontal.
+- Tema global de módulos sigue claro; NO se activa Dark Mode global.

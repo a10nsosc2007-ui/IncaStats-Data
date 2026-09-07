@@ -1,0 +1,9 @@
+INCA STATS ANALIZADOR V1.039 · PLAYERS MASTER 56 PRO
+
+- Integra los 56 ZIP de stats de jugadores como MASTER 2025+ consolidado.
+- 324,321 jugador-partido únicos desde 01/01/2025.
+- 7,395 jugadores · 34,392 eventos · 274 competiciones.
+- TITAN_PLAYERS_CURRENT conserva prioridad para campaña vigente.
+- Merge key: ID_Jugador + Event_ID; CURRENT gana.
+- Runtime móvil: current primero, recent20 diferido, full history por jugador remoto/lazy.
+- No reemplaza ni modifica Referee Center.

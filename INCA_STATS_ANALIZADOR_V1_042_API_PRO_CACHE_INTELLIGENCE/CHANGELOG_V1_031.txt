@@ -1,0 +1,9 @@
+INCA STATS ANALIZADOR V1.031 · REFEREE QUICK HISTORY PRO · TITAN V9.3
+
+- Referee history redesigned as a compact StatHub-style row table.
+- LOCAL and VISITA show team totals: yellow cards, red cards and fouls.
+- Dedicated PRIMER TIEMPO column shows aggregate match 1T yellow/red/cards only.
+- TOTAL PARTIDO shows yellow, red, total cards and total fouls.
+- Fouls are never split by half because TITAN V9.3 does not provide half-by-half fouls.
+- Competition and date stay visible at the right; Event ID/card detail remains collapsible.
+- No Booking Points in the referee UI.

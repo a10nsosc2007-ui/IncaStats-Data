@@ -1,0 +1,10 @@
+INCA STATS ANALIZADOR V1.022 — LEAGUE + MATCH MOBILE DATA FIX
+
+- League Table y Match Info priorizan TITAN de la campaña actual mediante loadCompetitionSeason; no reciclan una temporada anterior.
+- Match Center usa fixtures finalizados solo como fallback de tabla.
+- Player Streaks conserva el mercado al abrir Player Analyzer (ej.: Tackles abre Tackles).
+- Club mostrado en rachas se fuerza al plantel actual de TITAN_PLAYERS_CURRENT.
+- Avatar neutral/incógnito para jugadores sin foto.
+- Refactor responsive localizado de League Center y Match Center para iPhone, Android y desktop.
+- Fixture cards sin columnas fantasma; tablas móviles con columnas esenciales; hero, forma reciente y Player Stats compactados.
+- No se modificó Analyzer, Player Picks, Data Histórica PRO, Leaderboards, Auth ni la arquitectura API.

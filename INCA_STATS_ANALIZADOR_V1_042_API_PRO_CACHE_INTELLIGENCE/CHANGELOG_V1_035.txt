@@ -1,0 +1,6 @@
+INCA STATS ANALIZADOR · V1.035 · GRAPHITE NAV PRO
+
+- Drawer principal cambiado de gris humo claro a graphite/plomo real.
+- Texto e iconografía adaptados a contraste oscuro.
+- Hover/activo más legibles, sin tocar el tema global blanco.
+- Hero, Referee Stat Hub y lógica de datos permanecen intactos.

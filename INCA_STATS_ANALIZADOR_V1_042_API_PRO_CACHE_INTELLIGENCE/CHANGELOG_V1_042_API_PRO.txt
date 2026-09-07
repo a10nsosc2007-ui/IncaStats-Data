@@ -1,0 +1,17 @@
+INCA STATS ANALIZADOR · V1.042 · API PRO CACHE INTELLIGENCE
+Fecha: 2026-09-06
+
+- V1.041 se conserva como base.
+- TITAN player faces HD continúa con prioridad global por Player_ID, incluidos históricos.
+- Usuarios: 0 llamadas directas a API-FOOTBALL.
+- Match Center y League Center leen cache central.
+- Vercel Cron central 00:15 y 12:15 PE.
+- 31 ligas mapeadas; 26 con capa de precios.
+- Odds reales API-FOOTBALL; Bet365/Betano se priorizan solo si el feed los devuelve.
+- Árbitro del fixture se cruza con TITAN REFEREES 2024+.
+- Player Value Scanner: liga, bookmaker, mercado, cuota mínima, hit-rate mínimo, muestra 5/10/15.
+- Sin cuota real no se publica pick ni se inventa mercado.
+- Budget guard default 135 requests/día.
+- Nuevo SQL SUPABASE_V1042_API_PRO.sql.
+- Nuevos endpoints cache-only y cron-sync.
+- PC + Android + iPhone responsive.

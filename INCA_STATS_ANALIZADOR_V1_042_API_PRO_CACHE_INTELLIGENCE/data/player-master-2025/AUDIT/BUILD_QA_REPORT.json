@@ -1,0 +1,36 @@
+{
+  "source_zips": 56,
+  "all_zip_integrity_ok": true,
+  "stats_schema_columns": 37,
+  "info_schema_columns": 9,
+  "raw_stats_rows": 398580,
+  "dedup_before_date_cut": 324323,
+  "final_rows": 324321,
+  "duplicate_excess_removed": 74257,
+  "conflicts_resolved": 19,
+  "players": 7395,
+  "players_with_info": 7389,
+  "players_missing_info": [
+    "803023",
+    "822088",
+    "846773",
+    "1020202",
+    "1084464",
+    "1134578"
+  ],
+  "unique_events": 34392,
+  "competitions": 274,
+  "recent20_rows": 139917,
+  "pre_2025_rows_excluded": 2,
+  "duplicate_keys_after_build": 0,
+  "date_parse_errors": 0,
+  "passes_ok_gt_total": 0,
+  "sot_gt_shots": 0,
+  "exact_duplicate_source_groups": [
+    [
+      "EMERG_174_al_349 2.zip",
+      "EMERG_174_al_349.zip"
+    ]
+  ],
+  "max_match_date": "2026-09-02"
+}

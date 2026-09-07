@@ -1,0 +1,14 @@
+INCA STATS ANALIZADOR · V1.028
+REFEREE STAT HUB FINE PRO · TITAN V9.3
+
+- Referee Hub refinado visualmente estilo StatHub, manteniendo identidad INCA blanca/pro.
+- Eliminado KPI de total de partidos del perfil arbitral.
+- LOCAL y VISITA claramente separados en cada partido.
+- Se elimina la abreviatura BP de la UI: ahora dice Booking Points.
+- Booking Points explicado: 10 amarilla / 20 roja efectiva.
+- Tarjetas por tiempo visibles por partido: amarillas/rojas 1T y 2T.
+- Historial mucho más compacto, sin tarjetas gigantes ni scroll interno.
+- Hero del árbitro más fino, claro y profesional.
+- Tabs tipo línea activa, no botones gruesos.
+- Histórico progresivo sin exponer total de partidos como KPI.
+- TITAN REFEREES V9.3 sigue siendo la única fuente arbitral válida.

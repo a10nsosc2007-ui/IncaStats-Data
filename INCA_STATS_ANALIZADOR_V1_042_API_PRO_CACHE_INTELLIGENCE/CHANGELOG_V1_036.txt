@@ -1,0 +1,8 @@
+INCA STATS ANALIZADOR · V1.036 · DEEP GRAPHITE NAV PRO
+
+- Corrige el bloque CSS V1.035 que quedó serializado con \n literales y no se aplicaba.
+- Drawer real #1d2225; header #191d20; footer #171b1e.
+- Texto blanco/gris claro, filas graphite y activo con acento verde.
+- Overlay más oscuro.
+- Solo navegación; tema global permanece claro.
+- Cache-busting CSS y Service Worker actualizados a V1.036.

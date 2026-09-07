@@ -1,0 +1,64 @@
+{
+  "schema_version": "incastats.player_props.master.v1",
+  "description": "Contrato V64O. Cuando lleguen los 24 + 6 archivos se unirán, deduplicarán y dividirán por Competition_ID para que la app cargue una sola liga a la vez.",
+  "ui_scope": "No season selector. League -> Team -> Player. Last 5/10/20 matches by date.",
+  "preferred_columns": [
+    "Competition_ID",
+    "Liga",
+    "Partido",
+    "Fecha",
+    "Jugador",
+    "Posicion",
+    "Equipo",
+    "Minutos_Jugados",
+    "Rating",
+    "Goles",
+    "Asistencias",
+    "xG",
+    "xA",
+    "Tiros_Totales",
+    "Tiros_Al_Arco",
+    "Tiros_Al_Palo",
+    "Pases_Totales",
+    "Pases_Clave",
+    "Grandes_Ocasiones_Creadas",
+    "Toques",
+    "Regates_Completados",
+    "Entradas(Tackles)",
+    "Intercepciones",
+    "Duelos_Ganados",
+    "Faltas_Cometidas",
+    "Faltas_Recibidas",
+    "Tarjetas_Amarillas",
+    "Tarjetas_Rojas",
+    "Offsides",
+    "Atajadas(Portero)"
+  ],
+  "dedupe_key": [
+    "Jugador",
+    "Equipo",
+    "Fecha",
+    "Partido"
+  ],
+  "output_manifest": "data/player-props-master/manifest.json",
+  "output_files": "data/player-props-master/<Competition_ID>.csv",
+  "line_rules": {
+    "Tiros": [
+      0.5,
+      1.5,
+      2.5,
+      3.5,
+      4.5,
+      5.5
+    ],
+    "Tiros a puerta": [
+      0.5,
+      1.5,
+      2.5,
+      3.5
+    ],
+    "Pases": "manual numeric; +55 or 55 means >=55",
+    "manual_comparator": ">= line",
+    "half_line_comparator": "> line"
+  }
+}

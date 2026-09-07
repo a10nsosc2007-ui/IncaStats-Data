@@ -1,0 +1,128 @@
+{
+  "version": "2026-08-14",
+  "rule": "REAL only when an event/bookmaker actually returns the market. Otherwise use ESTIMATED only for approved model families, or STREAK_ONLY.",
+  "team_metrics": {
+    "goals_result": {
+      "documented_real": true,
+      "keys": [
+        "h2h",
+        "h2h_3_way",
+        "alternate_totals",
+        "team_totals",
+        "alternate_team_totals",
+        "btts",
+        "btts_h1",
+        "draw_no_bet",
+        "double_chance",
+        "double_chance_h1",
+        "correct_score",
+        "correct_score_h1",
+        "halftime_fulltime"
+      ]
+    },
+    "corners": {
+      "documented_real": true,
+      "keys": [
+        "alternate_totals_corners",
+        "alternate_team_totals_corners",
+        "alternate_spreads_corners",
+        "corners_1x2"
+      ],
+      "inca_total_lines": [
+        7.5,
+        8.5,
+        9.5,
+        10.5,
+        11.5,
+        12.5
+      ]
+    },
+    "cards": {
+      "documented_real": true,
+      "keys": [
+        "alternate_totals_cards",
+        "alternate_spreads_cards"
+      ]
+    },
+    "team_shots": {
+      "documented_real": false,
+      "fallback": "STREAK_ONLY"
+    },
+    "team_shots_on_target": {
+      "documented_real": false,
+      "fallback": "STREAK_ONLY"
+    },
+    "fouls": {
+      "documented_real": false,
+      "fallback": "STREAK_ONLY"
+    },
+    "offsides": {
+      "documented_real": false,
+      "fallback": "STREAK_ONLY"
+    },
+    "goal_kicks": {
+      "documented_real": false,
+      "fallback": "STREAK_ONLY"
+    },
+    "throw_ins": {
+      "documented_real": false,
+      "fallback": "STREAK_ONLY"
+    },
+    "tackles": {
+      "documented_real": false,
+      "fallback": "STREAK_ONLY"
+    },
+    "booking_points": {
+      "documented_real": false,
+      "fallback": "STREAK_ONLY"
+    }
+  },
+  "soccer_player_props": {
+    "documented_leagues": [
+      "EPL",
+      "Ligue 1",
+      "Bundesliga",
+      "Serie A",
+      "La Liga",
+      "MLS"
+    ],
+    "bookmaker_scope_note": "Official documentation says coverage is currently limited to US bookmakers.",
+    "keys": [
+      "player_goal_scorer_anytime",
+      "player_first_goal_scorer",
+      "player_last_goal_scorer",
+      "player_to_receive_card",
+      "player_to_receive_red_card",
+      "player_shots_on_target",
+      "player_shots",
+      "player_assists"
+    ]
+  },
+  "coverage_warning": "The provider documents soccer corner/card market keys but does not guarantee availability in a fixed set of 26 leagues. Availability is discovered per event and bookmaker.",
+  "optimization": {
+    "default_price_tier": [
+      "h2h",
+      "h2h_3_way",
+      "alternate_totals",
+      "btts",
+      "double_chance",
+      "alternate_team_totals",
+      "alternate_totals_corners",
+      "alternate_team_totals_corners",
+      "alternate_spreads_corners",
+      "corners_1x2",
+      "alternate_totals_cards",
+      "alternate_spreads_cards"
+    ],
+    "extended_only_when_explicit_or_needed": [
+      "draw_no_bet",
+      "team_totals",
+      "btts_h1",
+      "correct_score",
+      "correct_score_h1",
+      "double_chance_h1",
+      "halftime_fulltime"
+    ],
+    "note": "Market discovery is per event. Extended markets are not fetched by default so quota is not spent without a reason."
+  }
+}

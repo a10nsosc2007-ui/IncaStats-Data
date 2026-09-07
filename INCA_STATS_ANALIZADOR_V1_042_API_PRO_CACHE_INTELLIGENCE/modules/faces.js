@@ -1,0 +1,1 @@
+(() => { window.INCA_MODULES = window.INCA_MODULES || {}; window.INCA_MODULES.faces = { async ready(){ await Promise.allSettled([window.cargarMapaCaras?.(),window.cargarIndiceIdsGlobal?.()]); } }; })();
