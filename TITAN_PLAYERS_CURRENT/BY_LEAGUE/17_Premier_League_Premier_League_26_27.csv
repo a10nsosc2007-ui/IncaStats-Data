@@ -809,8 +809,8 @@ Premier League,26_27,Nottingham Forest vs Tottenham Hotspur,05/09/2026,Matz Sels
 Premier League,26_27,Nottingham Forest vs Tottenham Hotspur,05/09/2026,Xaver Schlager,M,Nottingham Forest,90,7.1,0,0,0.0266,0.0628194,1,0,0,32,0,0,0,47,0,4,2,5,1,0,0,0,0,0
 Premier League,26_27,Nottingham Forest vs Tottenham Hotspur,05/09/2026,Ola Aina,D,Nottingham Forest,59,6.6,0,0,0,0.00234044,0,0,0,17,0,0,0,37,0,5,1,7,1,1,0,0,0,0
 Premier League,26_27,Nottingham Forest vs Tottenham Hotspur,05/09/2026,Nikola Milenković,D,Nottingham Forest,90,7.3,0,0,0,0.006933,0,0,0,42,0,0,0,55,0,2,0,5,1,1,1,0,0,0
-Premier League,26_27,Nottingham Forest vs Tottenham Hotspur,05/09/2026,Morgan Gibbs-White,M,Nottingham Forest,90,6.6,0,0,0.4751,0.012874,3,1,0,22,0,0,1,40,0,2,0,2,1,0,0,0,1,0
-Premier League,26_27,Nottingham Forest vs Tottenham Hotspur,05/09/2026,Daniel Muñoz,M,Nottingham Forest,31,6.7,0,0,0.0341,0.00259475,1,0,0,6,0,0,0,16,0,1,0,2,1,1,0,0,0,0
+Premier League,26_27,Nottingham Forest vs Tottenham Hotspur,05/09/2026,Morgan Gibbs-White,M,Nottingham Forest,90,6.6,0,0,0.5092,0.012874,4,1,0,22,0,0,1,41,0,2,0,2,1,0,0,0,1,0
+Premier League,26_27,Nottingham Forest vs Tottenham Hotspur,05/09/2026,Daniel Muñoz,M,Nottingham Forest,31,6.7,0,0,0,0.00259475,0,0,0,6,0,0,0,15,0,1,0,2,1,1,0,0,0,0
 Premier League,26_27,Nottingham Forest vs Tottenham Hotspur,05/09/2026,Neco Williams,D,Nottingham Forest,90,6.7,0,0,0,0.0689611,0,0,0,30,1,0,0,56,0,3,0,7,4,4,0,0,0,0
 Premier League,26_27,Nottingham Forest vs Tottenham Hotspur,05/09/2026,Dan Ndoye,M,Nottingham Forest,59,6.3,0,0,0,0.00111952,0,0,0,5,0,0,0,18,1,1,0,5,2,2,0,0,0,0
 Premier League,26_27,Nottingham Forest vs Tottenham Hotspur,05/09/2026,Igor Jesus,F,Nottingham Forest,31,6.6,0,0,0,0.00171703,0,0,0,6,0,0,0,11,0,1,0,3,1,1,0,0,0,0
@@ -928,3 +928,310 @@ Premier League,26_27,Arsenal vs Chelsea,06/09/2026,Martín Zubimendi,M,Arsenal,2
 Premier League,26_27,Arsenal vs Chelsea,06/09/2026,Piero Hincapié,D,Arsenal,23,6.8,0,0,0,0.00489496,0,0,0,11,0,0,0,17,0,1,0,1,0,0,0,0,0,0
 Premier League,26_27,Arsenal vs Chelsea,06/09/2026,Christos Tzolis,M,Arsenal,90,7.7,0,1,0,0.199245,0,0,0,44,4,1,0,56,1,1,1,6,0,3,1,0,0,0
 Premier League,26_27,Arsenal vs Chelsea,06/09/2026,Myles Lewis-Skelly,D,Arsenal,67,6.4,0,0,0.0331,0.102906,1,0,0,32,1,0,0,38,0,0,0,2,5,1,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Bernd Leno,G,Fulham,90,7.5,0,0,0,0.00172676,0,0,0,38,0,0,0,45,0,0,0,0,0,0,0,0,0,3
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Kenny Tete,D,Fulham,27,6.4,0,0,0,0.0007802,0,0,0,7,0,0,0,14,0,0,0,0,2,0,1,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Timothy Castagne,D,Fulham,72,6.7,0,0,0,0.0101821,0,0,0,36,0,0,0,58,0,2,0,2,0,0,0,0,1,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Alex Iwobi,M,Fulham,77,6.8,0,0,0.1477,0.108651,2,0,0,38,2,0,0,49,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Sander Berge,M,Fulham,90,6.9,0,0,0,0.0104784,0,0,0,47,1,0,0,60,0,3,1,3,0,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Antonee Robinson,D,Fulham,90,6.6,0,0,0.0538,0.052089,1,0,0,35,2,0,0,69,0,2,1,3,3,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Calvin Bassey,D,Fulham,90,7.3,0,0,0.0516,0.00289367,1,1,0,28,0,0,0,40,1,1,1,4,0,1,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Emile Smith Rowe,M,Fulham,13,6.6,0,0,0,0.00294165,0,0,0,5,0,0,0,6,0,0,1,0,0,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,David Affengruber,D,Fulham,90,6.9,0,0,0,0.00302204,0,0,0,45,0,0,0,59,0,1,2,1,1,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Rodrigo Muniz,F,Fulham,13,6.4,0,0,0,0.00291489,0,0,0,2,0,0,0,6,0,0,0,1,0,1,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Oscar Bobb,M,Fulham,63,6.7,0,0,0,0.13475,0,0,0,15,2,0,0,33,0,1,2,3,0,2,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Kevin,M,Fulham,18,6.6,0,0,0.0304,0.0658313,1,0,0,4,0,0,0,10,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Shea Charles,M,Fulham,90,7.2,0,0,0,0.0183062,0,0,0,58,0,0,0,76,1,1,3,6,1,3,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Hugo Larsson,M,Fulham,13,6.6,0,0,0,0.00527882,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Gonzalo García,F,Fulham,77,6,0,0,0.2043,0.0268238,1,1,0,15,1,0,1,28,0,0,0,4,1,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Joshua King,M,Fulham,77,7.4,0,0,0.2125,0.0876263,4,2,0,22,1,1,0,36,1,2,0,6,0,3,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Virgil van Dijk,D,Liverpool FC,90,7.3,0,0,0,0.0136393,0,0,0,78,1,0,0,89,0,0,4,0,1,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Alisson,G,Liverpool FC,90,7.9,0,0,0,0.00325339,0,0,0,28,0,0,0,40,0,0,0,0,0,0,0,0,0,3
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Kostas Tsimikas,D,Liverpool FC,45,6.4,0,0,0,0.00701896,0,0,0,31,0,0,0,50,1,1,1,2,3,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Alexander Isak,F,Liverpool FC,90,6.8,0,0,0.501,0.00343196,3,1,0,5,0,0,1,15,2,0,0,4,0,1,0,0,1,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Cody Gakpo,M,Liverpool FC,30,6.5,0,0,0.0783,0.0162825,1,0,0,9,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Dominik Szoboszlai,M,Liverpool FC,90,7.2,0,0,0.1203,0.27826,2,1,0,52,4,3,0,77,0,0,1,1,4,1,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Alexis Mac Allister,M,Liverpool FC,30,6.7,0,0,0.0162,0.0164717,1,0,0,20,2,0,0,26,0,1,1,1,0,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Ryan Gravenberch,M,Liverpool FC,60,7,0,0,0.0444,0.00839914,1,0,0,30,1,0,0,47,0,2,1,4,1,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Ronald Araújo,D,Liverpool FC,72,6.8,0,0,0,0.00490868,0,0,0,32,0,0,0,48,0,1,1,4,0,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Jeremie Frimpong,D,Liverpool FC,18,7,0,0,0,0.124769,0,0,0,12,2,1,0,23,0,1,1,1,0,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Bradley Barcola,F,Liverpool FC,72,6.7,0,0,0.2064,0.0319188,1,0,0,19,1,0,1,32,0,3,0,3,0,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Florian Wirtz,M,Liverpool FC,90,7,0,0,0.1074,0.0566556,3,0,0,53,2,0,0,67,0,1,0,2,0,0,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Miloš Kerkez,D,Liverpool FC,45,7,0,0,0,0.0141127,0,0,0,19,0,0,0,37,0,1,0,3,0,2,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Víctor Muñoz,F,Liverpool FC,60,7.1,0,0,0.0967,0.00410693,1,1,0,15,0,0,1,23,1,0,0,4,0,2,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Jérémy Jacquet,D,Liverpool FC,90,8.5,0,0,0,0.0172621,0,0,0,87,0,0,0,96,1,1,1,8,1,1,0,0,0,0
+Premier League,26_27,Liverpool FC vs Fulham,12/09/2026,Rio Ngumoha,F,Liverpool FC,18,6.5,0,0,0.1072,0.00445883,1,0,0,4,0,0,1,10,0,0,0,1,1,1,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Chris Wood,F,Nottingham Forest,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Matz Sels,G,Nottingham Forest,90,7.5,0,0,0,0.00182948,0,0,0,21,0,0,0,34,0,0,0,1,0,0,0,0,0,5
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Xaver Schlager,M,Nottingham Forest,90,7.5,0,0,0.0569,0.0230165,1,1,0,42,1,0,1,57,1,6,3,8,2,1,1,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Ola Aina,D,Nottingham Forest,90,6.8,0,0,0,0.00664615,0,0,0,40,0,0,0,53,0,3,1,5,1,1,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Ibrahim Sangaré,M,Nottingham Forest,8,6.6,0,0,0.0588,0.00643607,1,0,0,8,0,0,0,13,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Morgan Gibbs-White,M,Nottingham Forest,90,7.4,0,1,0.1558,0.90528,2,1,0,37,7,3,0,55,0,1,0,4,1,2,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Daniel Muñoz,M,Nottingham Forest,90,8,0,0,0.2195,0.177497,1,1,0,37,5,1,1,63,0,4,0,7,0,0,0,0,2,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Neco Williams,D,Nottingham Forest,90,6.6,0,0,0.1951,0.160596,2,0,0,21,1,1,0,44,0,1,0,3,0,1,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Dan Ndoye,M,Nottingham Forest,75,6.7,0,0,0.6983,0.246335,5,1,0,9,1,1,1,19,0,0,0,1,3,1,1,0,1,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Igor Jesus,F,Nottingham Forest,15,7.6,1,0,0.1316,0.011594,1,1,0,9,1,0,0,12,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Liam Delap,F,Nottingham Forest,89,7.1,1,0,0.6292,0.0795653,6,1,0,12,1,0,1,33,1,1,0,4,1,1,1,0,1,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,James McAtee,M,Nottingham Forest,82,7.4,0,0,0.0336,0.377028,2,1,0,48,2,0,0,69,0,3,1,6,3,3,1,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Murillo,D,Nottingham Forest,90,6.7,0,1,0,0.00887981,0,0,0,43,1,0,0,64,1,2,2,4,5,0,1,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Ousmane Diomande,D,Nottingham Forest,90,6.9,0,0,0.1061,0.0029063,1,0,0,33,0,0,1,52,0,1,1,6,0,1,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Ross Barkley,M,Aston Villa,63,6.6,0,0,0.0329,0.0112432,1,1,0,32,0,0,0,45,0,4,0,5,3,1,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Victor Lindelöf,D,Aston Villa,90,6.5,0,0,0.4366,0.0101486,1,1,1,66,0,0,1,72,0,0,0,0,1,0,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,John McGinn,M,Aston Villa,90,7.1,0,1,0,0.110977,0,0,0,21,2,1,0,42,0,1,1,6,0,5,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Tyrone Mings,D,Aston Villa,65,7.3,0,0,0.0876,0.0048512,1,0,0,35,0,0,0,43,1,1,1,7,1,1,1,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Tammy Abraham,F,Aston Villa,45,6.4,0,0,0,0.00156835,0,0,0,10,0,0,0,14,1,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Emiliano Buendía,M,Aston Villa,63,6.3,0,0,0,0.0125862,0,0,0,20,0,0,0,32,1,0,0,3,1,2,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Boubacar Kamara,M,Aston Villa,90,7.1,0,0,0,0.0474159,0,0,0,36,1,0,0,49,0,3,0,7,1,3,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Aaron Wan-Bissaka,D,Aston Villa,90,6.9,0,0,0,0.0581809,0,0,0,48,1,0,0,75,1,5,3,7,0,1,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Pau Torres,D,Aston Villa,25,6.9,0,0,0,0.00101297,0,0,0,26,0,0,0,27,0,0,0,2,0,1,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Zion Suzuki,G,Aston Villa,90,7.3,0,0,0,0.00528979,0,0,0,46,0,0,0,59,0,0,0,1,0,1,0,0,0,5
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Ian Maatsen,D,Aston Villa,83,6.5,0,0,0.1784,0.0263462,2,1,0,35,0,0,0,63,0,1,2,1,0,0,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Nicolas Jackson,F,Aston Villa,45,6.5,0,0,0,0.0432821,0,0,0,6,0,0,0,12,1,0,0,1,1,0,1,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,George Hemmings,M,Aston Villa,45,6.4,0,0,0,0.0123795,0,0,0,7,1,0,0,14,0,0,0,1,1,0,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Johan Manzambi,M,Aston Villa,27,6.5,0,0,0,0.0807794,0,0,0,10,0,0,0,15,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Ibrahim Mbaye,F,Aston Villa,27,6.7,0,0,0.0188,0.132843,1,1,0,10,1,0,0,16,0,1,0,1,1,0,0,0,0,0
+Premier League,26_27,Aston Villa vs Nottingham Forest,12/09/2026,Alysson,M,Aston Villa,45,7.4,1,0,0.0643,0.00185942,1,1,0,13,0,0,0,22,1,0,0,3,1,1,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Kristoffer Ajer,D,Brentford,90,6.1,0,0,0.0152,0.00128032,1,0,0,37,0,0,0,50,0,2,1,6,1,0,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Vitaly Janelt,M,Brentford,90,6.9,0,0,0,0.0766557,0,0,0,44,1,0,0,68,1,3,6,6,1,0,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Caoimhin Kelleher,G,Brentford,90,7,0,0,0,0.00162045,0,0,0,37,0,0,0,51,0,0,0,0,0,0,0,0,0,8
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Mikkel Damsgaard,M,Brentford,30,6.6,0,0,0.0956,0.0047247,1,0,0,13,0,0,0,23,0,0,1,2,0,0,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Aaron Hickey,D,Brentford,71,6.6,0,0,0.0267,0.0250153,1,0,0,22,0,0,0,46,2,2,0,8,1,3,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Keane Lewis-Potter,D,Brentford,60,6.2,0,0,0.0301,0.130445,1,0,0,22,0,0,0,37,0,1,0,3,2,1,0,0,1,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Kevin Schade,M,Brentford,90,8.5,2,0,0.2079,0.10021,2,2,0,23,0,0,0,46,0,1,0,7,0,1,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Igor Thiago,F,Brentford,90,5.9,0,0,0.1067,0.0284207,1,0,0,22,1,0,0,34,0,0,0,4,2,2,1,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Jaidon Anthony,M,Brentford,60,6.5,0,0,0,0.095862,0,0,0,10,1,0,0,32,2,2,0,4,1,0,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Yehor Yarmoliuk,M,Brentford,60,6.4,0,1,0,0.213103,0,0,0,29,1,1,0,36,1,0,1,1,0,0,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Mamadou Sangare,M,Brentford,90,7.5,0,0,0,0.280408,0,0,0,43,0,0,0,64,3,6,0,11,2,0,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Dango Ouattara,M,Brentford,30,6.5,0,0,0.0163,0.00638095,1,0,0,14,0,0,0,21,0,0,0,3,1,1,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Michael Kayode,D,Brentford,19,6.7,0,0,0,0.150343,0,0,0,10,1,0,0,16,0,0,1,1,0,0,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,El Hadji Malick Diouf,D,Brentford,30,7,0,0,0,0.00682487,0,0,0,15,0,0,0,21,0,0,0,3,0,1,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Jannik Schuster,D,Brentford,90,6.9,0,0,0,0.0078735,0,0,0,34,0,0,0,51,0,2,0,5,2,1,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Adam Smith,D,Bournemouth,90,6.6,0,0,0,0.013335,0,0,0,39,0,0,0,66,1,1,0,7,2,1,1,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Ryan Christie,M,Bournemouth,24,6.4,0,0,0,0.117942,0,0,0,15,1,0,0,24,1,0,3,1,0,0,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Lewis Cook,M,Bournemouth,8,6.6,0,0,0,0.00255393,0,0,0,4,0,0,0,6,0,0,1,0,1,0,1,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Tyler Adams,M,Bournemouth,82,6.6,0,0,0.0287,0.0232788,1,1,0,59,0,0,0,76,0,2,3,2,0,0,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Justin Kluivert,M,Bournemouth,66,7.4,1,0,0.207,0.0161764,3,3,0,26,0,0,0,35,0,0,1,1,0,0,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,David Brooks,M,Bournemouth,13,6.4,0,0,0,0.00160453,0,0,0,2,0,0,0,8,0,0,0,0,1,0,1,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Đorđe Petrović,G,Bournemouth,90,5.1,0,0,0,0.00040463,0,0,0,36,0,0,0,42,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Marcus Tavernier,M,Bournemouth,83,8.3,1,0,0.1957,0.467504,4,3,0,32,4,2,0,53,0,1,0,2,2,1,1,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Evanilson,F,Bournemouth,89,6.5,0,1,0,0.247027,0,0,0,21,3,1,0,38,1,0,1,5,2,2,0,0,2,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Adrien Truffert,D,Bournemouth,90,7.1,0,0,0.0799,0.104197,2,2,0,48,1,0,0,88,1,8,3,11,1,1,0,0,1,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,António Silva,D,Bournemouth,90,6.5,0,0,0.5757,0.22512,2,0,0,63,1,0,2,81,0,0,4,5,0,0,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Alex Scott,M,Bournemouth,90,6.8,0,0,0.1865,0.0519598,1,0,0,56,4,0,1,82,0,2,3,6,0,3,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Álvaro Rodriguez,F,Bournemouth,1,0,0,0,0,0.00335031,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Ben Gannon-Doak,M,Bournemouth,8,7.2,0,0,0.0984,0.0315684,2,0,1,8,0,0,0,14,1,1,0,2,0,0,0,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,James Hill,D,Bournemouth,90,6.5,0,0,0,0.00974063,0,0,0,62,1,0,0,83,0,1,2,8,1,2,1,0,0,0
+Premier League,26_27,Bournemouth vs Brentford,12/09/2026,Rayan,M,Bournemouth,82,6.7,0,0,0.385,0.0234005,5,1,0,23,1,0,1,42,0,1,0,8,0,3,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Danny Welbeck,F,Chelsea,12,6.6,0,0,0,0.0586597,0,0,0,3,1,0,0,6,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Emiliano Martínez,G,Chelsea,90,6.8,0,0,0,0.00021543,0,0,0,15,0,0,0,31,0,0,0,0,0,0,0,0,0,3
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Pedro Neto,M,Chelsea,86,6.1,0,0,0.0461,0.103397,1,1,0,50,1,0,0,78,1,1,2,2,1,0,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Maxence Lacroix,D,Chelsea,11,6.7,0,0,0,0.00027038,0,0,0,5,0,0,0,9,0,1,2,1,1,0,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Reece James,D,Chelsea,90,7.6,0,0,0.1554,0.139291,3,2,0,86,0,0,0,110,0,2,0,3,0,1,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Wesley Fofana,D,Chelsea,86,7.5,0,0,0,0.0288453,0,0,0,88,0,0,0,100,1,2,1,11,1,2,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Morgan Rogers,M,Chelsea,90,7.9,1,0,0.2106,0.0238897,2,2,0,25,0,0,1,46,2,2,0,7,0,3,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,João Pedro,F,Chelsea,90,7.8,1,1,0.2868,0.044828,1,1,0,22,1,0,0,44,2,0,0,7,1,1,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Cole Palmer,M,Chelsea,90,7,0,1,0.1323,0.253192,3,0,0,35,3,2,0,52,1,0,0,2,0,1,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Levi Colwill,D,Chelsea,90,6.8,0,0,0,0.0113532,0,0,0,72,1,0,0,80,0,0,0,3,1,0,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Malo Gusto,D,Chelsea,78,6.1,0,0,0.0396,0.070371,1,0,0,54,1,0,0,73,0,0,2,0,0,0,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Pep Chavarría,D,Chelsea,45,6.6,0,0,0,0.00738122,0,0,0,24,0,0,0,39,0,0,1,1,0,1,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Roméo Lavia,M,Chelsea,69,6.6,0,0,0,0.0715558,0,0,0,46,0,0,0,56,1,1,3,2,1,0,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Valentín Barco,M,Chelsea,21,7,0,0,0,0.0903595,0,0,0,31,0,0,0,38,0,0,1,3,1,2,1,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Jorrel Hato,D,Chelsea,45,5.9,0,0,0,0.104505,0,0,0,18,0,0,0,25,1,1,1,3,0,0,0,0,1,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Estêvão,M,Chelsea,11,6.6,0,0,0.0345,0.0651913,1,1,0,3,0,0,0,7,0,1,0,2,0,1,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,John Egan,D,Hull City,90,6.4,0,0,0.0428,0.00260139,2,0,0,29,0,0,0,49,0,2,2,4,2,0,1,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Matt Crooks,M,Hull City,69,6.3,0,0,0,0.00387996,0,0,0,17,0,0,0,25,0,2,0,3,3,0,1,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Semi Ajayi,D,Hull City,90,6,0,0,0.1266,0.00127161,1,0,1,28,0,0,1,38,0,1,1,3,0,0,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Oli McBurnie,F,Hull City,82,6.8,0,1,0.3297,0.0443229,1,1,0,13,1,0,1,28,1,1,0,7,1,3,1,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Lewie Coyle,D,Hull City,82,6,0,0,0.1344,0.0123296,1,0,0,18,1,0,0,34,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Regan Slater,M,Hull City,90,7.2,0,0,0.0418,0.104203,1,1,0,28,2,1,0,41,1,3,1,5,0,0,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Sorba Thomas,M,Hull City,30,6.4,0,0,0.0191,0.0309112,1,0,0,8,1,0,0,17,1,0,0,1,0,0,0,0,1,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Ryan Giles,D,Hull City,90,6.4,0,1,0,0.169395,0,0,0,16,2,2,0,43,0,1,1,3,0,1,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Konstantinos Tzolakis,G,Hull City,90,6.5,0,0,0,0.00178048,0,0,0,39,0,0,0,58,0,0,0,2,0,1,0,0,0,5
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Mohamed Ali Cho,F,Hull City,30,7,0,0,0.4721,0.155834,2,1,0,4,1,0,1,11,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Tim Iroegbunam,M,Hull City,21,6.7,0,0,0,0.00112445,0,0,0,7,0,0,0,12,1,1,1,2,1,0,1,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Brooke Norton-Cuffy,M,Hull City,8,6.7,0,0,0.0473,0.00030095,1,0,0,5,0,0,0,10,1,0,0,1,1,0,1,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Mohamed Belloumi,M,Hull City,60,8.5,2,0,0.1708,0.0627818,3,2,0,6,1,0,0,17,0,1,0,1,1,0,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Elliot Stroud,M,Hull City,60,6.3,0,0,0.0104,0.00220887,1,0,0,11,0,0,0,20,0,2,0,3,2,0,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Nobel Mendy,D,Hull City,59,6.8,0,0,0,0.00239453,0,0,0,23,0,0,0,34,0,2,1,4,0,1,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Robinio Vaz,F,Hull City,8,6.4,0,0,0,0.00406159,0,0,0,2,0,0,0,7,0,0,0,1,1,1,0,0,0,0
+Premier League,26_27,Chelsea vs Hull City,12/09/2026,Lucas Herrington,D,Hull City,31,6.3,0,0,0,0.0144623,0,0,0,11,0,0,0,13,0,0,1,0,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Will Hughes,M,Crystal Palace,13,6.5,0,0,0,0.0389932,0,0,0,7,1,0,0,15,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Walter Benítez,G,Crystal Palace,90,7.6,0,0,0,0.00116651,0,0,0,28,0,0,0,38,0,0,0,1,0,0,0,0,0,3
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Jefferson Lerma,M,Crystal Palace,12,6.5,0,0,0,0.0010192,0,0,0,2,0,0,0,6,0,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Daichi Kamada,M,Crystal Palace,84,7.4,0,2,0,0.0506095,0,0,0,15,2,0,0,25,0,1,0,3,0,2,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Ben Chilwell,D,Crystal Palace,13,6.4,0,0,0.118,0.00551302,1,0,0,5,0,0,0,12,1,0,0,3,0,2,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Takehiro Tomiyasu,D,Crystal Palace,53,6.7,0,0,0,0.00662527,0,0,0,35,0,0,0,48,0,1,1,4,0,1,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Axel Disasi,D,Crystal Palace,34,5.2,0,0,0,0.0005037,0,0,0,23,0,0,0,29,0,0,2,0,2,0,0,1,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Jørgen Strand Larsen,F,Crystal Palace,84,7.7,1,0,0.0884,0.0242011,3,2,0,15,1,0,0,31,1,1,0,4,0,1,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Chris Richards,D,Crystal Palace,90,6.3,0,0,0,0.0563154,0,0,0,49,0,0,0,73,0,1,3,3,1,0,1,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Quinten Timber,M,Crystal Palace,90,7.9,0,0,0.1028,0.0329305,2,1,0,46,0,0,0,72,3,8,0,13,0,2,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Yéremy Pino,F,Crystal Palace,37,6.5,0,0,0,0.0073129,0,0,0,16,0,0,0,21,0,0,0,1,0,1,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Tyrick Mitchell,M,Crystal Palace,77,6.5,0,0,0,0.0558579,0,0,0,30,1,0,0,51,0,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Adam Wharton,M,Crystal Palace,77,6.7,0,0,0.0822,0.038858,1,0,0,32,1,0,0,45,0,1,0,3,0,2,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Anan Khalaili,M,Crystal Palace,90,7.5,1,0,0.2241,0.136217,4,1,0,31,1,0,1,57,0,2,0,3,1,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Zavier Gozo,M,Crystal Palace,12,6.3,0,0,0,0.00052222,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Honest Ahanor,D,Crystal Palace,90,6.7,0,0,0,0.00871338,0,0,0,54,1,0,0,77,0,2,1,9,2,5,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Saša Lukić,M,Ipswich Town,77,6.4,0,0,0,0.0970665,0,0,0,44,2,0,0,52,0,1,2,1,3,0,1,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Exequiel Palacios,M,Ipswich Town,90,7,0,0,0,0.0356035,0,0,0,65,0,0,0,80,0,3,1,3,2,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Issa Diop,D,Ipswich Town,90,6.8,0,0,0,0.131286,0,0,0,59,0,0,0,71,0,1,4,3,1,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Daizen Maeda,F,Ipswich Town,27,6.1,0,0,0,0.00195583,0,0,0,7,0,0,0,10,0,0,0,0,2,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Kjell Scherpen,G,Ipswich Town,90,5.7,0,0,0,0.00075759,0,0,0,29,0,0,0,44,0,0,0,2,0,0,0,0,0,2
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Florentino Luís,M,Ipswich Town,13,6.6,0,0,0,0.00975145,0,0,0,19,2,0,0,27,1,1,1,2,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Dara O'Shea,D,Ipswich Town,90,6.4,0,0,0,0.0844314,0,0,0,50,3,0,0,78,1,2,1,6,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Zian Flemming,F,Ipswich Town,27,7,1,0,0.519,0.00056842,3,2,0,4,0,0,0,11,0,0,0,3,1,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Jack Clarke,M,Ipswich Town,63,6.6,0,0,0.1467,0.0200909,1,1,0,26,1,0,0,35,0,1,0,3,1,1,1,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Leif Davis,D,Ipswich Town,90,7.1,1,1,0.5151,0.191918,2,1,1,22,1,1,0,42,0,0,0,1,0,1,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Julio Enciso,M,Ipswich Town,90,6.6,0,0,0.0528,0.203721,2,0,0,21,1,0,0,38,0,0,0,3,1,2,0,0,1,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Jacob Greaves,D,Ipswich Town,88,6.5,0,0,0,0.0100832,0,0,0,60,0,0,0,68,0,0,2,2,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Jaden Philogene-Bidace,M,Ipswich Town,28,6.1,0,0,0.015,0.00340737,1,1,0,11,0,0,0,22,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Abdul Fatawu Issahaku,M,Ipswich Town,62,6.5,0,0,0,0.0503095,0,0,0,19,0,0,0,47,3,2,1,7,5,1,1,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Emersonn,F,Ipswich Town,63,7.7,1,1,0.44,0.0472063,3,1,0,12,1,1,0,27,1,0,0,2,0,1,0,0,0,0
+Premier League,26_27,Crystal Palace vs Ipswich Town,12/09/2026,Abdoul Ouattara,M,Ipswich Town,8,6.8,0,0,0,0.00064173,0,0,0,4,0,0,0,5,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Andy Robertson,D,Tottenham Hotspur,90,6.9,0,0,0.066,0.0886241,1,0,0,60,2,1,0,78,1,0,1,1,0,0,0,0,1,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Tosin Adarabioyo,D,Tottenham Hotspur,8,6.8,0,0,0,0.00077862,0,0,0,6,0,0,0,11,0,2,0,2,0,0,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,James Maddison,M,Tottenham Hotspur,13,6.7,0,0,0,0.0106004,0,0,0,15,0,0,0,19,0,0,1,0,0,0,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Dominic Solanke,F,Tottenham Hotspur,63,6.1,0,0,0,0.00868922,0,0,0,12,0,0,0,20,0,0,0,1,2,0,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Rodrigo Bentancur,M,Tottenham Hotspur,63,7.3,0,0,0,0.0389459,0,0,0,63,0,0,0,72,0,3,0,4,0,0,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Omar Marmoush,F,Tottenham Hotspur,77,6.3,0,0,0.019,0.0276749,1,0,0,13,1,0,0,29,2,0,0,3,1,1,0,0,1,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Sandro Tonali,M,Tottenham Hotspur,90,7.6,0,0,0.0916,0.314505,2,0,0,88,1,0,0,104,1,0,1,2,1,0,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Mohammed Kudus,M,Tottenham Hotspur,27,7,0,0,0,0.0456256,0,0,0,18,1,0,0,27,2,1,0,4,1,1,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Jan Paul van Hecke,D,Tottenham Hotspur,90,8.2,0,0,0.1448,0.0535678,1,0,0,106,1,0,1,127,0,2,1,5,2,1,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Micky van de Ven,D,Tottenham Hotspur,90,7.1,0,0,0,0.0175867,0,0,0,79,0,0,0,88,0,0,1,3,1,1,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Antonín Kinský,G,Tottenham Hotspur,90,7.9,0,0,0,0.00005098,0,0,0,18,0,0,0,29,0,0,0,1,0,0,0,0,0,3
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Sávio,M,Tottenham Hotspur,90,7,0,0,0.1034,0.256464,2,0,0,34,4,0,0,63,4,0,0,6,1,2,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Mathys Tel,F,Tottenham Hotspur,27,6.8,0,0,0.0065,0.0938392,1,0,0,12,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Archie Gray,M,Tottenham Hotspur,85,7,0,0,0.0949,0.0258511,2,0,0,50,0,0,0,71,1,2,2,4,1,0,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Mateus Fernandes,M,Tottenham Hotspur,63,6.7,0,0,0.1108,0.0312692,3,1,0,50,0,0,0,62,0,2,0,3,3,1,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Lucas Bergvall,M,Tottenham Hotspur,27,7.2,0,0,0.0574,0.247008,1,1,0,20,0,0,0,26,0,1,0,2,1,1,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Jordan Pickford,G,Everton,90,7,0,0,0,0.00088344,0,0,0,44,0,0,0,57,1,0,0,2,0,0,0,0,0,2
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,James Tarkowski,D,Everton,90,7.5,0,0,0,0.00966116,0,0,0,57,0,0,0,65,0,5,0,8,0,0,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Jack Grealish,M,Everton,25,6.7,0,0,0,0.0123247,0,0,0,10,0,0,0,17,0,1,0,3,1,2,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Ainsley Maitland-Niles,D,Everton,75,7.1,0,0,0.0274,0.138803,1,0,0,29,1,0,0,44,1,2,1,3,0,0,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Kiernan Dewsbury-Hall,M,Everton,90,7.1,0,0,0.1676,0.0949812,3,1,0,38,1,0,1,59,3,0,1,6,0,3,1,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Vitaliy Mykolenko,D,Everton,90,7.7,0,0,0,0.0675193,0,0,0,35,1,0,0,65,0,7,3,8,1,0,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,James Garner,M,Everton,90,8.3,0,0,0.0367,0.0178283,1,1,0,51,0,0,0,71,0,6,1,10,1,4,1,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Jarrad Branthwaite,D,Everton,90,7.5,0,0,0,0.00263596,0,0,0,44,0,0,0,56,0,1,0,3,1,2,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Jake O'Brien,D,Everton,15,6.7,0,0,0,2.1e-7,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,1,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Hayden Hackney,M,Everton,15,6.6,0,0,0,0.0195018,0,0,0,3,1,0,0,7,0,0,0,0,1,0,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Brennan Johnson,F,Everton,75,6.9,0,0,0.1644,0.182983,1,0,0,12,2,0,0,25,0,2,1,2,0,0,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Thierno Barry,F,Everton,90,6.6,0,0,0.6715,0.0327022,5,1,0,13,1,0,1,28,1,0,1,6,2,1,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Tyrique George,F,Everton,65,6.6,0,0,0.0455,0.146905,1,0,0,18,1,1,0,36,2,0,0,2,0,0,0,0,0,0
+Premier League,26_27,Tottenham Hotspur vs Everton,12/09/2026,Harrison Armstrong,M,Everton,90,6.6,0,0,0,0.0229932,0,0,0,25,0,0,0,33,0,0,0,1,1,0,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Granit Xhaka,M,Sunderland,90,7.4,0,0,0,0.370431,0,0,0,57,3,1,0,72,2,1,1,5,3,1,1,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Thomas Meunier,D,Sunderland,76,6.7,0,0,0.1298,0.00295024,3,1,0,20,0,0,0,31,0,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Nordi Mukiele,D,Sunderland,90,6.6,0,0,0.7035,0.0195849,4,1,0,21,0,0,2,48,0,3,1,5,3,1,1,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Kevin Danso,D,Sunderland,90,6.7,0,0,0,0.0827287,0,0,0,30,1,0,0,47,0,0,0,2,0,1,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Reinildo Mandava,D,Sunderland,90,6.1,0,0,0,0.00675142,0,0,0,23,0,0,0,44,0,1,2,5,3,2,2,1,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Wilson Isidor,F,Sunderland,20,6.3,0,0,0,0.00039599,0,0,0,1,0,0,0,4,0,1,0,1,1,0,0,0,1,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Brian Brobbey,F,Sunderland,90,6.1,0,0,0,0.00957226,0,0,0,16,1,0,0,30,0,0,0,2,3,2,1,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Daniel Ballard,D,Sunderland,90,6.5,0,0,0.0843,0.0138452,1,0,0,37,1,0,0,51,0,1,1,9,3,2,1,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Enzo Le Fée,M,Sunderland,90,6.3,0,0,0.8452,0.589378,3,1,1,15,2,1,1,25,1,0,0,2,0,1,0,0,1,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Robin Roefs,G,Sunderland,90,6.9,0,0,0,0.00328634,0,0,0,31,0,0,0,37,0,0,0,0,0,0,0,0,0,3
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Nilson Angulo,M,Sunderland,70,6.3,0,0,0,0.00151055,0,0,0,6,0,0,0,20,0,2,0,2,1,0,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Noah Sadiki,M,Sunderland,90,6.7,0,0,0.0383,0.00471435,1,0,0,24,0,0,0,35,0,3,0,3,0,0,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Malick Fofana,M,Sunderland,14,6.4,0,0,0,0.00139219,0,0,0,3,0,0,0,9,0,0,0,0,1,0,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Martin Ødegaard,M,Arsenal,85,7.5,0,0,0,0.251691,0,0,0,42,5,1,0,55,2,1,1,5,0,2,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,David Raya,G,Arsenal,90,8.9,0,0,0,0.0010913,0,0,0,33,0,0,0,50,0,0,0,4,0,2,0,0,0,2
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Mikel Merino,M,Arsenal,14,6.4,0,0,0,0.00016951,0,0,0,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Ezri Konsa,D,Arsenal,90,7.3,0,0,0,0.00080468,0,0,0,28,0,0,0,39,0,2,2,7,2,2,0,0,1,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Kai Havertz,F,Arsenal,90,6.2,0,0,0.3385,0.0166331,3,1,0,20,1,0,1,32,0,0,0,5,2,1,1,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Ben White,D,Arsenal,45,6.8,0,0,0,0.00394048,0,0,0,15,0,0,0,30,0,2,1,2,1,0,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Declan Rice,M,Arsenal,81,7.8,0,1,0,0.370101,0,0,0,68,3,1,0,78,0,2,0,3,0,0,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Eberechi Eze,M,Arsenal,9,6.5,0,0,0,0.00001372,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Bruno Guimarães,M,Arsenal,45,7.9,1,0,0.092,0.136404,2,1,0,13,0,0,0,20,0,1,1,4,0,2,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Gabriel Magalhães,D,Arsenal,90,8,0,0,0.0155,0.00751495,1,0,0,44,0,0,0,63,0,1,2,10,1,2,1,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Bukayo Saka,F,Arsenal,90,8.1,1,0,1.3751,0.0841973,4,3,0,27,1,0,1,47,0,1,0,5,1,4,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Riccardo Calafiori,D,Arsenal,90,6.7,0,0,0.0585,0.00827559,1,0,0,24,0,0,0,40,0,0,0,0,1,0,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Jurriën Timber,D,Arsenal,45,6.7,0,0,0,0.00742481,0,0,0,13,0,0,0,19,0,1,0,1,0,0,0,0,1,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Martín Zubimendi,M,Arsenal,9,6.8,0,0,0,0.00038438,0,0,0,5,0,0,0,8,0,1,0,2,0,0,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Christos Tzolis,M,Arsenal,81,6.8,0,0,0,0.125927,0,0,0,22,0,0,0,37,0,1,1,4,1,2,0,0,0,0
+Premier League,26_27,Sunderland vs Arsenal,12/09/2026,Myles Lewis-Skelly,D,Arsenal,45,6.4,0,0,0,0.00478842,0,0,0,29,0,0,0,37,0,0,0,1,2,1,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Matt Grimes,M,Coventry City,84,6.8,0,0,0.0459,0.0237869,1,0,0,23,0,0,0,31,0,1,0,4,0,2,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Taiwo Awoniyi,F,Coventry City,53,5.4,0,0,0.0623,0.0148421,1,0,0,9,1,0,0,16,1,1,0,2,1,0,0,1,1,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Jay DaSilva,D,Coventry City,90,6.4,0,0,0,0.334873,0,0,0,17,2,1,0,27,0,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Victor Torp,M,Coventry City,13,6.4,0,0,0,0.00121475,0,0,0,4,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Brandon Thomas-Asante,F,Coventry City,17,6.6,0,0,0.2057,0.0285962,2,2,0,3,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Ethan Pinnock,D,Coventry City,90,5.6,0,0,0.0147,0.00260665,1,0,0,20,0,0,0,34,0,2,0,4,0,0,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Ephron Mason-Clark,M,Coventry City,60,6.4,0,0,0.4871,0.00572489,3,2,0,9,0,0,0,20,0,0,0,5,2,0,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Frank Onyeka,M,Coventry City,73,6.9,0,0,0.0334,0.00897275,1,1,0,17,0,0,0,30,0,1,1,7,2,4,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Milan van Ewijk,D,Coventry City,90,7.1,0,0,0,0.044629,0,0,0,24,1,0,0,49,1,1,0,6,0,2,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Jack Rudoni,M,Coventry City,73,8.5,0,0,0.3298,0.734518,2,1,0,15,4,0,1,36,0,0,0,6,2,2,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Aurèle Amenda,D,Coventry City,90,6,0,0,0,0.00319883,0,0,0,27,1,0,0,37,0,0,2,6,1,0,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Carl Rushworth,G,Coventry City,90,6.2,0,0,0,0.00605357,0,0,0,46,0,0,0,57,0,0,0,1,0,1,0,0,0,2
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Bobby Thomas,D,Coventry City,90,5.5,0,0,0.1925,0.0661282,3,0,0,26,0,0,0,41,0,0,1,8,1,2,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Sidiki Cherif,F,Coventry City,30,6.6,0,0,0,0.00009626,0,0,0,4,0,0,0,12,0,0,1,3,0,1,0,0,1,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Caleb Yirenkyi,M,Coventry City,17,6.3,0,0,0,0.00945187,0,0,0,5,1,0,0,6,0,0,0,2,0,0,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Pascal Groß,M,Brighton & Hove Albion,90,8.7,1,2,0.8227,0.188262,2,1,0,93,6,1,0,113,0,2,0,4,2,0,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Lewis Dunk,D,Brighton & Hove Albion,90,9.1,1,0,0.0265,0.0284331,1,1,0,94,0,0,0,103,0,1,0,5,0,0,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Olivier Boscagli,D,Brighton & Hove Albion,78,6.9,0,0,0.0115,0.0307382,1,0,0,53,1,0,0,73,0,1,1,4,3,1,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Ferdi Kadıoğlu,D,Brighton & Hove Albion,90,6.7,0,0,0,0.0860532,0,0,0,37,1,0,0,48,0,0,0,2,1,2,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Pascal Struijk,D,Brighton & Hove Albion,12,6.9,0,0,0,0.0081741,0,0,0,23,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Matt O'Riley,M,Brighton & Hove Albion,13,6.6,0,0,0,0.00657192,0,0,0,2,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Costinha,D,Brighton & Hove Albion,13,6.6,0,0,0,0.00228003,0,0,0,8,0,0,0,11,0,0,1,0,0,0,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Bart Verbruggen,G,Brighton & Hove Albion,90,9.8,0,0,0,0.00025298,0,0,0,29,0,0,0,42,0,0,0,2,0,0,0,0,0,6
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Maxim De Cuyper,D,Brighton & Hove Albion,90,6.9,0,1,0.0303,0.0364908,1,0,0,53,4,1,0,62,1,0,0,2,1,1,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Yasin Ayari,M,Brighton & Hove Albion,90,7.8,1,0,0.3134,0.0309213,4,2,0,48,0,0,0,57,0,1,0,2,0,1,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Diego Gómez,M,Brighton & Hove Albion,84,6.6,0,0,0.1363,0.0628919,2,0,0,27,0,0,0,38,0,0,0,3,0,0,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Luka Vušković,D,Brighton & Hove Albion,78,7.4,0,0,0.1104,0.00944989,2,0,0,62,0,0,0,78,0,1,1,6,0,1,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Charalampos Kostoulas,F,Brighton & Hove Albion,84,7.7,1,0,0.39,0.0133789,3,1,0,11,0,0,1,30,1,1,0,5,2,3,0,0,2,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Chema Andrés,M,Brighton & Hove Albion,25,6.5,0,1,0.2426,0.00840494,1,0,0,17,1,0,0,22,0,1,0,2,2,0,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Ibrahim Osman,M,Brighton & Hove Albion,12,6.5,0,0,0.0479,0.00807937,2,0,0,8,0,0,0,12,1,0,0,1,1,0,0,0,0,0
+Premier League,26_27,Coventry City vs Brighton & Hove Albion,13/09/2026,Malick Yalcouyé,M,Brighton & Hove Albion,65,7.6,1,0,0.6747,0.0100714,3,2,0,19,1,0,0,32,1,2,0,3,3,0,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Rúben Dias,D,Manchester City,90,6.9,0,0,0,0.00370554,0,0,0,51,0,0,0,59,0,0,2,2,0,0,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Gianluigi Donnarumma,G,Manchester City,90,7.5,0,0,0,0.00094761,0,0,0,41,0,0,0,52,0,0,0,0,0,0,0,0,0,3
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Erling Haaland,F,Manchester City,90,8,1,0,0.8665,0.0137954,2,1,0,18,0,0,1,30,2,0,0,7,0,2,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Phil Foden,M,Manchester City,23,4.1,0,0,0,0.019466,0,0,0,8,1,0,0,15,0,0,0,1,0,1,0,1,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Marc Guéhi,D,Manchester City,90,7,0,0,0,0.00154917,0,0,0,51,0,0,0,61,0,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Iliman Ndiaye,M,Manchester City,45,7,0,0,0,0.0145719,0,0,0,14,0,0,0,38,3,1,1,9,1,5,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Antoine Semenyo,M,Manchester City,90,6.2,0,0,0,0.0566963,0,0,0,29,1,0,0,42,0,1,0,3,3,1,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Matheus Nunes,D,Manchester City,90,7.9,0,0,0,0.00730589,0,0,0,38,0,0,0,64,2,2,2,5,0,0,0,0,1,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Joško Gvardiol,D,Manchester City,90,7.9,0,0,0.0191,0.00253081,1,0,0,35,0,0,0,53,2,4,0,9,0,0,1,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Enzo Fernández,M,Manchester City,82,6.7,0,0,0.1762,0.127013,2,1,1,34,1,1,0,55,1,2,3,8,4,3,1,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Rayan Cherki,M,Manchester City,45,6.6,0,0,0.0338,0.061061,1,0,0,27,0,0,0,34,0,0,0,1,1,1,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Elliot Anderson,M,Manchester City,90,7.1,0,0,0,0.00743255,0,0,0,54,0,0,0,77,0,3,2,7,1,4,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Nico O'Reilly,D,Manchester City,8,6.5,0,0,0,0.00365999,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Harry Maguire,D,Manchester United,90,6.5,0,0,0.1218,0.0112153,2,0,0,57,0,0,0,68,1,1,1,5,3,0,1,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Bruno Fernandes,M,Manchester United,90,7.5,0,0,0.0292,0.325853,1,1,0,59,1,0,0,71,0,2,0,2,1,0,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Youri Tielemans,M,Manchester United,67,7.1,0,0,0,0.0362483,0,0,0,44,1,0,0,56,0,2,2,6,0,1,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Marcus Rashford,F,Manchester United,83,6.7,0,0,0.1157,0.0808741,3,0,1,27,1,0,0,54,1,1,1,3,1,1,0,0,1,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Diogo Dalot,D,Manchester United,90,6.6,0,0,0.0195,0.0471388,1,0,0,40,1,0,0,62,1,1,1,4,3,1,0,0,1,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Lisandro Martínez,D,Manchester United,90,7,0,0,0.0283,0.0757842,1,1,0,66,0,0,0,77,0,3,0,4,2,0,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Matheus Cunha,F,Manchester United,90,6.7,0,0,0.108,0.0273895,3,0,0,28,1,0,0,46,2,1,0,5,1,2,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Joshua Zirkzee,F,Manchester United,13,6.5,0,0,0,0.00546358,0,0,0,7,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Bryan Mbeumo,F,Manchester United,90,5.9,0,0,0.4885,0.0784041,3,1,0,27,2,0,1,43,0,1,0,4,0,2,0,0,1,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Senne Lammens,G,Manchester United,90,6.7,0,0,0,0.00003,0,0,0,16,0,0,0,18,0,0,0,1,0,0,0,0,0,1
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Benjamin Šeško,F,Manchester United,23,6.6,0,0,0.0592,0.00236023,1,0,0,5,0,0,0,8,1,0,0,1,0,0,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Kobbie Mainoo,M,Manchester United,90,7.5,0,0,0.0291,0.0730269,1,0,1,70,3,0,0,86,4,0,2,5,3,1,0,0,0,0
+Premier League,26_27,Manchester United vs Manchester City,13/09/2026,Patrick Dorgu,M,Manchester United,90,6.6,0,0,0,0.0323494,0,0,0,41,1,0,0,68,0,6,1,7,3,1,0,0,1,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Nico Elvedi,D,Leeds United,90,6.4,0,0,0.052,0.0045084,1,0,0,61,0,0,0,75,0,1,0,1,0,0,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Harry Wilson,M,Leeds United,18,6.8,0,0,0,0.0302055,0,0,0,5,0,0,0,9,0,1,0,2,0,1,0,0,1,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Dominic Calvert-Lewin,F,Leeds United,78,8.8,2,0,0.9885,0.00443071,4,3,0,14,0,0,1,26,1,0,0,5,1,0,1,0,1,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Lukas Nmecha,F,Leeds United,12,6.6,0,0,0,0.00608091,0,0,0,3,0,0,0,5,0,0,0,1,0,1,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,James Justin,D,Leeds United,90,7.5,0,1,0,0.276592,0,0,0,47,2,0,0,62,0,2,0,6,0,1,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Daniel James,M,Leeds United,12,6.8,0,0,0.1099,0,2,0,0,0,0,0,0,7,3,0,0,3,1,0,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Gabriel Gudmundsson,D,Leeds United,72,7.2,0,0,0,0.175689,0,0,0,30,0,0,0,53,1,3,1,5,1,1,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Ethan Ampadu,M,Leeds United,90,7.1,0,0,0.0687,0.0158778,1,0,0,48,0,0,0,63,0,1,2,4,0,1,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Noah Okafor,F,Leeds United,72,7.9,1,0,0.0713,0.0767038,2,1,0,20,1,0,0,39,0,2,0,6,0,2,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Sean Longstaff,M,Leeds United,2,0,0,0,0,0.00000992,0,0,0,1,0,0,0,3,0,0,0,1,0,1,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Ao Tanaka,M,Leeds United,72,7.2,0,0,0.0604,0.0253882,1,0,0,43,0,0,0,54,1,2,1,4,0,0,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Anton Stach,M,Leeds United,88,6.8,0,0,0.4275,0.0734262,1,0,0,32,3,0,1,49,1,2,2,3,2,0,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Melvin Bard,D,Leeds United,18,6.3,0,0,0,0.00210635,0,0,0,6,1,0,0,9,0,1,1,2,1,0,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Jayden Bogle,M,Leeds United,83,6.9,0,0,0.2098,0.0464473,2,2,0,19,1,0,0,39,0,2,0,4,2,2,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Brenden Aaronson,F,Leeds United,18,6.5,0,0,0,0.00174389,0,0,0,5,0,0,0,9,0,0,0,1,0,1,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,James Trafford,G,Leeds United,90,7,0,0,0,0.00185039,0,0,0,47,0,0,0,59,0,0,0,1,0,0,0,0,0,4
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Tarik Muharemović,D,Leeds United,90,7.2,0,1,0,0.0200506,0,0,0,59,1,1,0,76,0,1,2,6,0,2,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Jacob Murphy,F,Newcastle United,57,6.2,0,0,0,0.139327,0,0,0,13,0,0,0,28,1,1,0,4,1,1,1,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Yoane Wissa,F,Newcastle United,90,5.3,0,0,0.1567,0.00438545,1,0,0,15,2,1,1,31,0,1,0,2,4,0,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Harvey Barnes,F,Newcastle United,90,6.9,0,0,0.293,0.31441,2,2,0,23,1,1,1,34,0,0,1,3,1,1,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Joe Willock,M,Newcastle United,32,6.8,0,0,0.1228,0.0559171,2,1,1,11,1,0,0,23,0,1,0,2,0,1,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Sven Botman,D,Newcastle United,90,6,0,0,0,0.00217131,0,0,0,52,0,0,0,72,0,2,1,7,1,2,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Nico González,M,Newcastle United,19,6.5,0,0,0,0.00017986,0,0,0,8,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Lukáš Horníček,G,Newcastle United,90,6.8,0,0,0,0.00070674,0,0,0,31,0,0,0,39,0,0,0,0,0,0,0,0,0,3
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Tino Livramento,D,Newcastle United,32,6.5,0,0,0,0.00743333,0,0,0,16,0,0,0,24,0,2,0,2,1,0,1,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Malick Thiaw,D,Newcastle United,90,6,0,0,0,0.00471043,0,0,0,43,0,0,0,58,0,0,1,4,1,0,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Amar Dedić,D,Newcastle United,58,5.7,0,0,0,0.00310778,0,0,0,28,0,0,0,42,0,3,0,4,0,0,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Lewis Hall,D,Newcastle United,90,6.4,0,0,0.0209,0.0132213,1,1,0,50,0,0,0,83,3,4,0,9,0,1,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Matías Fernández-Pardo,F,Newcastle United,58,6.8,0,0,0,0.0057667,0,0,0,12,1,0,0,18,0,1,0,3,1,1,0,0,1,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Lewis Miley,M,Newcastle United,80,5.7,0,0,0,0.0334494,0,0,0,60,0,0,0,66,0,1,1,2,0,0,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Bazoumana Touré,M,Newcastle United,33,7.6,1,0,0.2846,0.0116228,1,1,0,13,0,0,0,24,2,0,0,4,1,1,0,0,2,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Sean Steur,M,Newcastle United,71,6.2,0,0,0,0.0294639,0,0,0,54,1,0,0,62,0,2,1,2,1,0,0,0,0,0
+Premier League,26_27,Leeds United vs Newcastle United,14/09/2026,Aladji Bamba,M,Newcastle United,10,6.5,0,0,0,0.00044582,0,0,0,4,0,0,0,8,0,1,0,1,1,0,0,0,0,0

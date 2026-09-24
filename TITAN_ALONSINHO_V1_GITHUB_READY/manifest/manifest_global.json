@@ -2,7 +2,7 @@
   "schema_version": "titan.master_manifest.v1",
   "product": "TITAN ALONSINHO V1 PRO",
   "extractor_version": "1.0.0_TITAN_ALONSINHO_PRO",
-  "generated_at": "2026-09-07",
+  "generated_at": "2026-09-24",
   "coverage": {
     "start_year": 2021,
     "end_year": 2026,
@@ -16,11 +16,11 @@
   },
   "counts": {
     "competitions": 161,
-    "competition_seasons": 670,
-    "unique_matches": 84566,
+    "competition_seasons": 672,
+    "unique_matches": 85035,
     "cards": 355826,
-    "portal_shards": 670,
-    "portal_rows": 507396
+    "portal_shards": 672,
+    "portal_rows": 510210
   },
   "dedupe": {
     "portal_rows_removed": 185130,
@@ -98,34 +98,34 @@
   "full_data_release": "TITAN_ALONSINHO_V1_FULL_DATA_RELEASE.zip",
   "live_update": {
     "sync_version": "TITAN_SYNC_V3_UNIFIED",
-    "updated_at": "2026-09-07T05:21:35.543242Z",
-    "delta_file": "TITAN_DELTA_V3_UNIFIED_2026-09-07T05-14-00-000Z_314_eventos.zip",
-    "delta_sha256": "08aa4b4544870b43e5654808e6f77d957b17325d3a2a54fb2bcaf482a1996906",
+    "updated_at": "2026-09-24T17:59:06.468471Z",
+    "delta_file": "TITAN_DELTA_V3_UNIFIED_2026-09-17T16-06-00-000Z_687_eventos.zip",
+    "delta_sha256": "9cb9383489d1d496fd803f8cc1e41aa2f05c42d4fb7676da2a73c8c64231251e",
     "window": {
-      "requested_from": "2026-09-04T04:44:00.000Z",
-      "effective_from": "2026-09-02T04:44:00.000Z",
-      "requested_to": "2026-09-07T05:14:00.000Z",
+      "requested_from": "2026-09-07T05:14:00.000Z",
+      "effective_from": "2026-09-05T05:14:00.000Z",
+      "requested_to": "2026-09-17T16:06:00.000Z",
       "overlap_hours": 48
     },
     "delta_counts": {
-      "unique_events_discovered": 333,
-      "valid_events": 314,
-      "incomplete": 19,
-      "friendlies_excluded": 0,
-      "affected_teams": 535,
-      "requests": 4963,
-      "player_rows": 8898,
-      "player_events": 283,
-      "unique_players": 8312,
-      "player_incomplete_events": 1
+      "unique_events_discovered": 726,
+      "valid_events": 687,
+      "incomplete": 38,
+      "friendlies_excluded": 1,
+      "affected_teams": 592,
+      "requests": 9575,
+      "player_rows": 18736,
+      "player_events": 598,
+      "unique_players": 10644,
+      "player_incomplete_events": 3
     },
-    "affected_team_files": 535,
-    "inserted_rows": 3060,
-    "replaced_rows": 588,
-    "player_rows_before": 93847,
-    "player_rows_inserted": 7893,
-    "player_rows_replaced": 1005,
-    "player_rows_after": 101740,
+    "affected_team_files": 592,
+    "inserted_rows": 5442,
+    "replaced_rows": 2580,
+    "player_rows_before": 101740,
+    "player_rows_inserted": 12070,
+    "player_rows_replaced": 6666,
+    "player_rows_after": 113810,
     "note": "V3 actualiza match stats ALL_OFFICIAL y player stats SOLO LEAGUE en una sola operación."
   }
 }

@@ -893,3 +893,383 @@ Serie A,26_27,Juventus vs AC Milan,06/09/2026,Ardon Jashari,M,AC Milan,8,6.5,0,0
 Serie A,26_27,Juventus vs AC Milan,06/09/2026,Filippo Terracciano,D,AC Milan,8,6.5,0,0,0,0.00089496,0,0,0,4,0,0,0,6,0,0,0,2,0,1,0,0,0,0
 Serie A,26_27,Juventus vs AC Milan,06/09/2026,Diego Moreira,M,AC Milan,61,6.3,0,0,0,0.019439,0,0,0,31,0,0,0,59,0,2,1,2,1,0,0,0,0,0
 Serie A,26_27,Juventus vs AC Milan,06/09/2026,Alphadjo Cissè,F,AC Milan,29,7.3,1,0,0.0493,0.00144425,1,1,0,4,0,0,0,9,1,0,0,1,0,0,1,0,1,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Wladimiro Falcone,G,Lecce,90,8.3,0,0,0,0.00084991,0,0,0,26,0,0,0,43,0,0,0,0,0,0,1,0,0,8
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Lassana Coulibaly,M,Lecce,90,6.9,0,0,0.1051,0.020986,1,1,0,55,2,0,0,68,0,1,1,4,0,2,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Youssef Maleh,M,Lecce,24,6.6,0,0,0,0.00906515,0,0,0,21,1,0,0,28,0,1,2,1,1,0,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Ivan Ilić,M,Lecce,66,6.8,0,0,0.0539,0.0126299,1,0,0,55,0,0,0,64,0,1,0,1,0,0,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Antonino Gallo,D,Lecce,90,6.5,0,0,0,0.314839,0,0,0,32,1,1,0,55,0,1,1,1,0,0,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Konan N'Dri,F,Lecce,24,6.7,0,0,0,0.00745248,0,0,0,7,0,0,0,16,1,0,0,3,0,2,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Santiago Pierotti,F,Lecce,82,6.5,0,0,0,0.102255,0,0,0,23,0,0,0,39,1,2,0,5,1,0,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Danilo Veiga,D,Lecce,90,6.6,0,0,0,0.113033,0,0,0,48,1,0,0,73,0,1,0,3,1,1,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Jamil Siebert,D,Lecce,24,6.6,0,0,0.1724,0.00170249,1,0,0,23,0,0,1,32,0,0,0,3,0,2,1,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Nikola Štulić,F,Lecce,90,6,0,0,0.0691,0.0130305,2,1,0,15,0,0,0,22,0,0,0,1,1,0,0,0,1,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Joël Monteiro,M,Lecce,66,6.4,0,0,0.0205,0.0164433,1,0,0,15,1,0,0,36,3,3,0,9,4,0,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Kialonda Gaspar,D,Lecce,66,6.3,0,0,0,0.00418131,0,0,0,61,0,0,0,70,0,2,0,3,3,0,1,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Medon Berisha,M,Lecce,8,6.8,0,0,0.0266,0.0234479,1,1,0,9,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Amar Fatah,F,Lecce,45,6.8,0,0,0.0185,0.0138185,1,0,0,11,0,0,0,17,1,2,0,3,0,0,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Oumar Ngom,M,Lecce,45,7.2,0,0,0.0378,0.0226502,2,0,0,33,1,0,0,41,0,5,0,5,0,0,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Tiago Gabriel,D,Lecce,90,7.2,0,0,0,0.0150099,0,0,0,80,0,0,0,95,0,2,0,6,2,1,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Roberto Gagliardini,M,Cagliari,16,6.8,0,0,0,0.0110332,0,0,0,9,1,0,0,15,0,0,2,0,0,0,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Alessandro Deiola,M,Cagliari,90,7.3,0,0,0,0.0170433,0,0,0,36,0,0,0,51,0,3,1,4,0,1,1,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Harry Winks,M,Cagliari,90,7.3,0,0,0.0137,0.0239126,1,0,0,53,0,0,0,65,0,1,3,2,0,1,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Michel Adopo,M,Cagliari,90,6.7,0,0,0.1511,0.0644369,2,2,0,36,1,0,0,45,0,0,0,2,2,0,0,0,1,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Zé Pedro,D,Cagliari,90,6.9,0,0,0,0.04391,0,0,0,28,1,0,0,54,1,2,1,4,0,0,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Elia Caprile,G,Cagliari,90,7.8,0,0,0,0.0013065,0,0,0,32,0,0,0,40,0,0,0,1,0,0,0,0,0,3
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Adam Obert,D,Cagliari,90,6.7,0,0,0.0376,0.00674625,1,1,0,28,1,0,0,48,0,0,1,1,1,0,0,0,3,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Daniel Maldini,F,Cagliari,66,7.9,1,0,0.7483,0.098211,5,1,1,16,1,1,0,42,1,0,1,4,0,3,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Mattia Felici,F,Cagliari,13,6.8,0,0,0.0887,0.00262188,1,1,0,5,1,0,0,9,1,0,0,1,0,0,0,0,1,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Jacopo Fazzini,M,Cagliari,61,7.5,0,1,0.0949,0.247732,2,0,0,30,3,1,0,57,2,3,1,7,0,2,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Alieu Fadera,F,Cagliari,24,6.6,0,0,0.0773,0.00185,2,1,0,6,1,0,0,15,0,1,0,2,3,1,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Raphael Kofler,D,Cagliari,24,7.1,0,0,0.0578,0.0128329,1,0,0,2,1,0,0,11,0,0,0,1,0,0,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Alessandro Romano,M,Cagliari,90,6.8,0,0,0.0284,0.158259,2,1,0,34,1,0,0,56,0,2,0,5,1,2,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Juan Rodríguez,D,Cagliari,66,7.2,0,0,0,0.00232502,0,0,0,32,0,0,0,43,0,1,2,3,0,1,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Alessandro Sugamele,F,Cagliari,16,6.7,0,0,0.0859,0.00327068,1,1,0,5,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Cagliari vs Lecce,07/09/2026,Paul Mendy,F,Cagliari,74,6,0,0,0.2214,0.0116479,2,1,1,16,1,0,1,34,0,0,0,3,2,2,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Christian Kabasele,D,Udinese,52,6.5,0,0,0,0.0321048,0,0,0,11,0,0,0,18,0,1,0,3,1,0,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Jesper Karlström,M,Udinese,90,7.3,1,0,0.307,0.0115905,1,1,0,43,0,0,0,55,0,3,1,3,3,0,1,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Hassane Kamara,M,Udinese,90,7.3,0,0,0.1477,0.0540584,3,2,0,19,0,0,0,51,2,4,1,6,0,0,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Vakoun Issouf Bayo,F,Udinese,45,6.7,0,0,0,0.0108734,0,0,0,11,0,0,0,16,0,0,0,4,1,1,1,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Mërgim Vojvoda,D,Udinese,90,6.9,0,0,0,0.0383611,0,0,0,49,1,0,0,74,1,3,1,6,0,1,0,0,1,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Jakub Piotrowski,M,Udinese,15,6.4,0,0,0,0.00714261,0,0,0,3,1,0,0,4,0,0,0,0,2,0,1,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Keinan Davis,F,Udinese,76,7.2,0,1,0.3137,0.105934,3,2,0,27,2,1,0,35,0,1,0,7,0,0,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Enzo Ebosse,D,Udinese,90,6.5,0,0,0,0.00406586,0,0,0,41,0,0,0,52,0,0,2,3,1,1,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Maduka Okoye,G,Udinese,90,7.8,0,0,0,0.00893945,0,0,0,28,0,0,0,42,0,0,0,0,0,0,0,0,0,4
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Oumar Solet,D,Udinese,38,7.2,0,0,0,0.00306022,0,0,0,24,0,0,0,32,0,2,0,4,0,1,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Jürgen Ekkelenkamp,M,Udinese,90,7,0,0,0.0583,0.0698737,2,1,0,26,1,0,0,39,2,2,0,5,1,1,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Oier Zarraga,M,Udinese,14,6.5,0,0,0,0.00077486,0,0,0,3,0,0,0,5,0,0,0,1,0,1,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,James Abankwah,D,Udinese,76,6.6,0,0,0,0.00701485,0,0,0,26,1,0,0,39,0,2,0,3,1,1,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Nicolò Bertola,D,Udinese,14,6.3,0,0,0,0.00177037,0,0,0,12,0,0,0,14,0,1,0,1,1,0,1,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Lennon Miller,M,Udinese,75,7.1,0,0,0,0.0144638,0,0,0,28,1,0,0,52,3,2,5,7,2,2,1,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Unai Gómez,M,Udinese,45,6.5,0,0,0.0304,0.0949728,1,0,0,8,1,0,0,16,0,1,0,1,0,0,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Mattia Zaccagni,F,Lazio,89,7.4,0,1,0.3877,0.555754,4,2,1,47,2,1,1,66,2,1,1,3,0,0,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Alfonso Pedraza,D,Lazio,1,0,0,0,0,0.00253974,0,0,0,2,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Albert Guðmundsson,F,Lazio,10,7.5,1,0,0.1601,0.0213201,2,1,0,7,1,0,0,10,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Andrea Pinamonti,F,Lazio,53,6.2,0,0,0,0.00012642,0,0,0,10,0,0,0,13,0,0,0,2,2,1,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Danilho Doekhi,D,Lazio,90,7.3,0,1,0.0463,0.206778,1,0,0,59,2,0,0,74,0,0,1,3,0,0,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Davide Frattesi,M,Lazio,80,7.4,1,0,0.6998,0.335261,3,1,0,27,0,0,0,46,1,1,1,5,0,3,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Christos Mandas,G,Lazio,90,7.4,0,0,0,0.00062559,0,0,0,22,0,0,0,37,0,0,0,0,0,0,0,0,0,5
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Nuno Tavares,D,Lazio,90,7,0,0,0.0543,0.0641776,2,1,0,65,2,0,0,105,3,1,1,8,1,4,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Kenneth Taylor,M,Lazio,90,6.8,0,0,0.0598,0.25504,2,0,0,64,2,0,0,77,1,4,1,5,2,0,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Gustav Isaksen,F,Lazio,53,6.8,0,0,0.064,0.0137862,1,0,0,22,0,0,0,36,0,0,0,4,0,3,1,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Matteo Cancellieri,F,Lazio,37,7,0,0,0.1699,0.610193,2,1,0,16,4,1,0,24,0,0,1,0,0,0,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Tijjani Noslin,F,Lazio,37,6,0,0,0.0421,0.119523,1,0,0,12,0,0,0,19,0,0,0,0,0,0,0,0,1,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Romano Floriani Mussolini,M,Lazio,90,6.3,0,0,0,0.0215888,0,0,0,48,1,0,0,72,0,3,2,3,1,0,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Oliver Provstgaard,D,Lazio,90,6.3,0,0,0.1489,0.0109865,1,0,0,74,0,0,0,83,0,1,0,4,2,0,0,0,0,0
+Serie A,26_27,Udinese vs Lazio,07/09/2026,Reda Belahyane,M,Lazio,90,7,0,0,0,0.0412392,0,0,0,67,1,0,0,77,0,3,1,4,0,1,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Juan Jesus,D,Venezia,21,6.6,0,0,0,0.00468054,0,0,0,22,0,0,0,26,0,2,1,2,1,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Ridgeciano Haps,M,Venezia,90,6.3,0,1,0,0.0546495,0,0,0,64,1,1,0,92,1,1,2,5,0,1,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Thierry Correia,D,Venezia,21,6.5,0,0,0,0.0450698,0,0,0,15,1,0,0,27,3,0,0,4,0,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Kike Pérez,M,Venezia,90,6.5,0,0,0.0174,0.148961,1,0,0,64,2,0,0,90,0,2,2,3,2,1,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,John Yeboah,F,Venezia,80,6.9,0,0,0.172,0.042442,2,0,0,20,2,0,1,35,1,2,0,4,0,1,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Lion Lauberbach,F,Venezia,10,6.5,0,0,0,0.00050997,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Þórir Jóhann Helgason,M,Venezia,46,6.2,0,0,0.0152,0.0306641,1,1,0,27,1,0,0,41,0,1,0,1,2,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Gianluca Busio,M,Venezia,44,7,0,1,0,0.0262419,0,0,0,23,1,0,0,30,0,2,0,2,1,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Simon Sohm,M,Venezia,80,6.2,0,0,0,0.0180562,0,0,0,53,0,0,0,59,0,0,0,0,1,0,1,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Akor Adams,F,Venezia,90,7.2,1,0,0.1532,0.0154563,4,1,0,12,0,0,0,28,0,0,0,3,0,1,0,0,2,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Filip Stanković,G,Venezia,90,8.4,0,0,0,0.00101152,0,0,0,52,0,0,0,70,0,0,0,0,0,0,0,0,0,6
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Richie Sagrado,M,Venezia,69,6.2,0,0,0.0365,0.00547739,1,0,0,17,0,0,0,26,0,1,1,1,0,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Joel Schingtienne,D,Venezia,90,6.2,0,0,0,0.0233513,0,0,0,76,0,0,0,84,1,1,0,3,1,0,1,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Antoine Hainaut,M,Venezia,90,7.6,1,0,0.0914,0.186555,1,1,0,55,2,1,0,84,1,1,0,7,3,1,0,0,1,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Matias Moreno,D,Venezia,69,6.7,0,0,0,0.00919282,0,0,0,52,0,0,0,63,0,1,1,3,0,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Toni Fernández,M,Venezia,10,6.6,0,0,0,0.0156387,0,0,0,7,0,0,0,13,1,0,0,1,0,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,David De Gea,G,Fiorentina,90,6.2,0,0,0,0.00349576,0,0,0,23,1,1,0,25,0,0,0,0,0,0,0,0,0,1
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Marin Pongračić,D,Fiorentina,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Luca Ranieri,D,Fiorentina,89,6.3,0,0,0.039,0.0208537,1,0,0,29,1,1,0,34,0,1,2,2,1,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Pedro Gonçalves,M,Fiorentina,10,6.3,0,0,0,0.00929114,0,0,0,7,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Nicolò Fagioli,M,Fiorentina,90,7.6,0,1,0.0785,0.0592002,1,1,0,59,1,1,0,78,2,4,1,9,0,3,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Marco Brescianini,M,Fiorentina,1,0,0,0,0,0.035055,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Beto,F,Fiorentina,60,5.7,0,1,0.9328,0.00468616,3,1,0,7,1,0,0,22,1,0,0,2,0,0,0,0,1,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Radu Drăguşin,D,Fiorentina,90,6.9,0,0,0,0.103,0,0,0,20,0,0,0,37,0,1,6,5,1,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Wilfried Gnonto,F,Fiorentina,30,6.3,0,0,0,0.00096543,0,0,0,12,0,0,0,18,1,0,0,1,1,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Mateo Pellegrino,F,Fiorentina,30,7.6,1,0,0.3959,0.0122444,1,1,0,8,1,0,0,15,0,0,0,2,0,1,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Cher Ndour,M,Fiorentina,90,6.5,0,0,0.0406,0.385587,1,0,0,37,1,1,0,52,1,2,1,3,0,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Álex Jiménez,D,Fiorentina,90,6.4,0,1,0.0991,0.0262922,1,0,0,35,1,0,1,62,0,2,1,2,0,0,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Franco Mastantuono,F,Fiorentina,89,9.9,3,0,1.2121,0.268512,8,5,0,26,4,1,1,54,3,1,1,6,1,2,0,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Arthur Atta,M,Fiorentina,60,6.9,0,0,0,0.0820211,0,0,0,28,2,0,0,38,2,0,1,4,0,0,0,0,1,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Alieu Njie,F,Fiorentina,80,7.5,0,0,0.5146,0.738214,3,2,0,20,3,0,2,40,3,3,0,11,1,4,1,0,0,0
+Serie A,26_27,Venezia vs Fiorentina,11/09/2026,Viery,D,Fiorentina,90,6.5,0,0,0,0.00901486,0,0,0,31,0,0,0,47,0,5,0,6,1,0,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Stephan El Shaarawy,F,Genoa,30,6.6,0,0,0,0.0175524,0,0,0,9,0,0,0,17,0,1,0,1,0,0,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Justin Bijlow,G,Genoa,90,7.7,0,0,0,0.00895366,0,0,0,44,0,0,0,54,0,0,0,0,0,0,0,0,0,5
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Kingsley Ehizibue,M,Genoa,60,6.6,0,0,0.0804,0.00851298,3,0,0,19,0,0,0,37,0,2,1,4,2,1,1,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Djibril Sow,M,Genoa,79,6.9,0,1,0,0.152413,0,0,0,27,4,0,0,46,0,1,0,3,1,1,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Leo Østigård,D,Genoa,90,7.3,0,0,0.0957,0.0131876,2,1,0,24,0,0,0,37,0,1,0,6,1,0,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Junior Messias,F,Genoa,45,7.3,0,0,0.0806,0.0468311,3,0,0,13,2,0,0,29,2,1,0,6,0,1,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Johan Vásquez,D,Genoa,86,7.5,1,0,0.1271,0.0213617,2,1,0,32,1,0,0,50,0,3,1,8,1,1,2,1,1,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Morten Frendrup,M,Genoa,90,6.9,0,0,0,0.00157393,0,0,0,20,0,0,0,35,1,1,5,5,0,1,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Milutin Osmajić,F,Genoa,90,6.4,0,0,0.0746,0.0134571,1,0,0,10,1,0,0,27,1,0,0,4,2,2,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Lorenzo Colombo,F,Genoa,70,5.9,0,0,0.8078,0.0230035,2,1,0,11,1,1,1,27,1,1,0,6,1,2,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Mikael Ellertsson,M,Genoa,80,6.6,0,0,0,0.00387914,0,0,0,19,1,0,0,36,0,4,0,4,2,0,0,0,1,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Tommaso Baldanzi,M,Genoa,45,6.7,0,0,0.4317,0.00341114,2,1,0,10,1,0,1,15,0,0,0,0,1,0,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Alessandro Marcandalli,D,Genoa,90,6.9,0,0,0,0.0361091,0,0,0,24,2,0,0,47,0,1,0,5,1,1,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Vitinha,F,Genoa,20,6.5,0,0,0.1409,0.00321755,1,1,0,4,0,0,0,11,1,0,0,2,0,0,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Alexsandro Amorim,M,Genoa,11,6.8,0,0,0,0.0234434,0,0,0,4,1,0,0,9,0,1,1,2,0,0,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Franz-Ethan Meichtry,M,Genoa,10,6.8,0,0,0.0377,0.00401282,1,0,0,2,0,0,0,5,1,0,0,1,0,0,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Romano Schmid,M,Frosinone,71,6.5,0,1,0,0.0355445,0,0,0,29,1,1,0,40,1,1,0,3,1,0,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Giacomo Calò,M,Frosinone,90,6.8,0,0,0.3451,0.303462,5,1,0,73,4,2,0,94,1,0,0,2,0,1,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Alessio Zerbin,M,Frosinone,8,6.5,0,0,0.0837,0.00026469,2,1,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Tomáš Bobček,F,Frosinone,19,6.7,0,0,0.1429,0.0439229,1,1,0,4,1,0,1,9,0,1,0,1,0,0,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Patrizio Masini,M,Frosinone,90,6.4,0,0,0.0559,0.0088062,3,0,0,38,0,0,0,57,0,1,3,3,0,1,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Giorgio Cittadini,D,Frosinone,45,6.7,0,0,0,0.00802781,0,0,0,19,0,0,0,35,0,1,1,6,3,0,1,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Ilario Monterisi,D,Frosinone,45,7,0,0,0.0712,0.042554,1,0,0,17,2,0,0,26,0,2,0,8,0,0,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Luis Hasa,M,Frosinone,19,6.7,0,0,0.1828,0.06281,3,1,0,13,2,0,0,22,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Anthony Oyono,D,Frosinone,90,6.2,0,0,0.121,0.0249478,3,0,0,41,0,0,0,81,1,0,4,3,1,1,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Antonio Raimondo,F,Frosinone,71,6.5,0,0,0.1492,0.00122567,1,0,0,6,0,0,0,16,0,0,0,3,1,1,0,0,2,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Lorenzo Palmisani,G,Frosinone,90,6.8,0,0,0,0.00026303,0,0,0,22,0,0,0,34,0,0,0,1,0,0,0,0,0,4
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Giorgi Kvernadze,F,Frosinone,87,8,1,0,0.3398,0.0830311,2,2,0,9,6,0,0,33,2,1,0,6,0,3,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Seydou Fini,F,Frosinone,18,6.9,0,0,0,0.140951,0,0,0,13,3,1,0,22,2,0,0,3,0,1,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Gabriele Bracaglia,D,Frosinone,90,6.2,0,0,0.1292,0.00967587,2,0,0,27,1,0,1,54,1,1,1,3,3,0,1,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Gabriele Calvani,D,Frosinone,90,7.1,0,0,0.0873,0.00309894,1,0,0,20,0,0,0,45,0,2,1,8,2,2,0,0,0,0
+Serie A,26_27,Genoa vs Frosinone,12/09/2026,Farès Ghedjemis,F,Frosinone,72,6.4,0,0,0.2226,0.100705,2,0,0,20,1,0,0,35,1,0,0,4,1,2,0,0,1,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Luka Modrić,M,AC Milan,45,6.3,0,0,0,0.0907513,0,0,0,42,1,0,0,52,0,0,1,0,0,0,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Mike Maignan,G,AC Milan,90,7.2,0,0,0,0.00085128,0,0,0,35,0,0,0,48,0,0,0,1,0,1,0,0,0,4
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Adrien Rabiot,M,AC Milan,90,6.3,0,1,0,0.0540716,0,0,0,63,2,1,0,71,0,0,0,0,3,0,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Ruben Loftus-Cheek,M,AC Milan,45,6.6,0,0,0.0244,0.0762188,1,0,0,16,2,1,0,22,0,0,0,2,1,1,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Pervis Estupiñán,M,AC Milan,45,6.4,0,0,0.0197,0.0060492,1,0,0,28,0,0,0,34,0,0,0,0,0,0,0,0,1,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Christian Pulišić,F,AC Milan,45,7.2,0,1,0.0736,0.163601,1,1,0,21,4,1,0,31,3,0,0,3,2,0,1,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Samuel Chukwueze,F,AC Milan,90,7.4,0,0,0.1365,0.22304,3,1,0,61,2,1,0,92,4,0,4,5,0,0,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Gonçalo Ramos,F,AC Milan,85,6.7,0,0,0.0897,0.00316843,1,0,0,14,0,0,0,31,0,2,0,4,1,2,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Mario Gila,D,AC Milan,90,7.2,0,0,0.308,0.050448,1,1,0,73,2,0,1,92,0,3,1,5,2,2,1,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Strahinja Pavlović,D,AC Milan,90,6.4,0,0,0.2245,0.0293778,2,1,0,90,0,0,1,97,0,1,0,4,1,1,1,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Yunus Musah,M,AC Milan,45,7,0,0,0,0.0305841,0,0,0,33,0,0,0,41,1,1,1,4,1,2,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Koni De Winter,D,AC Milan,90,6.6,0,0,0,0.00307517,0,0,0,79,0,0,0,87,0,1,1,4,3,1,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Omari Hutchinson,M,AC Milan,13,6.5,0,0,0.014,0.00425411,1,1,0,7,0,0,0,15,0,0,0,1,0,1,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Diego Moreira,M,AC Milan,45,9,2,0,0.2742,0.0988409,4,2,0,26,0,0,0,42,1,0,0,2,0,1,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Alphadjo Cissè,F,AC Milan,77,6.2,0,0,0.0866,0.0221474,1,0,0,35,1,0,1,51,0,0,0,3,0,3,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Francesco Camarda,F,AC Milan,10,6.4,0,0,0,0.00005487,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Manuel Lazzari,D,Lazio,11,6.7,0,0,0,0.00002637,0,0,0,3,0,0,0,5,0,0,0,1,0,1,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Mattia Zaccagni,F,Lazio,90,7.2,0,1,0.6552,0.323892,3,3,0,30,1,1,1,54,0,2,4,6,2,3,1,0,1,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Albert Guðmundsson,F,Lazio,16,6.3,0,0,0,0.00072856,0,0,0,6,0,0,0,6,0,0,0,0,3,0,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Andrea Pinamonti,F,Lazio,32,6.3,0,0,0,0.00004132,0,0,0,5,0,0,0,8,0,0,0,0,1,0,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Davide Frattesi,M,Lazio,90,7,0,0,0.1778,0.356921,2,0,0,22,1,1,0,35,0,1,0,3,0,2,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Diogo Leite,D,Lazio,11,6.7,0,0,0,0.00002087,0,0,0,5,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Christos Mandas,G,Lazio,90,7.5,0,0,0,0.00302546,0,0,0,38,0,0,0,55,0,0,0,1,0,0,0,0,0,5
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Nuno Tavares,D,Lazio,90,6.8,0,0,0,0.040937,0,0,0,38,1,0,0,62,1,2,0,5,0,2,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Josip Šutalo,D,Lazio,84,6.1,0,0,0,0.00040993,0,0,0,23,0,0,0,34,1,0,1,1,0,0,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Kenneth Taylor,M,Lazio,74,6.6,0,0,0,0.105212,0,0,1,31,1,0,0,40,0,1,1,3,1,2,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Gustav Isaksen,F,Lazio,32,6.4,0,0,0,0.00145867,0,0,0,6,0,0,0,11,0,0,0,1,1,1,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Matteo Cancellieri,F,Lazio,58,7.3,1,0,0.2379,0.00199318,1,1,0,7,0,0,0,17,0,2,0,2,1,0,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Tijjani Noslin,F,Lazio,58,7.4,1,0,0.9435,0.0127304,2,2,0,11,0,0,1,21,0,0,0,2,0,2,0,0,1,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Romano Floriani Mussolini,M,Lazio,84,6.6,0,0,0,0.0662505,0,0,0,21,1,1,0,37,1,3,2,5,1,0,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Oliver Provstgaard,D,Lazio,90,6.5,0,0,0,0.0314698,0,0,0,43,1,0,0,50,1,0,0,2,3,0,0,0,0,0
+Serie A,26_27,Lazio vs AC Milan,12/09/2026,Reda Belahyane,M,Lazio,90,6.9,0,0,0,0.00271511,0,0,0,28,0,0,0,38,0,4,0,4,2,0,1,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Sead Kolašinac,D,Atalanta,68,6.1,0,0,0.0159,0.0384596,1,0,0,34,0,0,0,40,0,1,0,1,1,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Mario Pašalić,M,Atalanta,10,6.8,0,0,0,0.033567,0,0,0,12,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Franck Kessié,M,Atalanta,86,7.6,0,0,0.4069,0.0955808,3,1,0,68,2,0,1,90,2,5,0,8,1,1,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Gianluca Scamacca,F,Atalanta,68,7.5,1,0,0.1886,0.0677614,4,2,0,20,2,0,0,26,0,0,0,0,1,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Raoul Bellanova,M,Atalanta,90,6.2,0,0,0.0298,0.046467,1,0,0,64,0,0,0,95,1,3,1,4,3,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Nikola Krstović,F,Atalanta,22,6.2,0,0,0.1747,0.0409308,1,1,0,10,1,0,0,19,0,0,0,2,0,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Marco Carnesecchi,G,Atalanta,90,6.2,0,0,0,0.00010967,0,0,0,22,0,0,0,27,0,0,0,0,0,0,0,0,0,3
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Giacomo Raspadori,F,Atalanta,14,7,0,0,0.074,0.252687,3,0,0,16,2,0,0,23,0,0,0,0,1,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Éderson,M,Atalanta,90,7,0,0,0.0135,0.103148,1,0,0,90,1,0,0,103,0,0,0,3,0,3,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Charles De Ketelaere,F,Atalanta,90,6.6,0,1,0,0.188283,0,0,0,40,3,0,0,61,2,0,0,2,1,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Odilon Kossounou,D,Atalanta,90,6.9,0,0,0,0.0852017,0,0,0,98,0,0,0,102,0,2,1,2,0,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Lazar Samardžić,M,Atalanta,76,7,0,0,0.7184,0.061126,4,0,0,74,1,0,0,96,5,2,0,7,0,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Giorgio Scalvini,D,Atalanta,90,6.7,0,0,0,0.0278083,0,0,0,84,0,0,0,94,0,1,1,3,1,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Lorenzo Bernasconi,M,Atalanta,22,7,0,0,0.0261,0.0259774,1,0,0,30,1,0,0,35,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Jonathan Rowe,F,Atalanta,90,7.3,0,0,0.0941,0.0963807,3,0,0,34,2,0,0,66,3,3,0,10,0,3,0,0,1,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Alessandro Deiola,M,Cagliari,90,7.1,0,0,0,0.00085525,0,0,0,58,0,0,0,72,0,3,2,4,1,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Harry Winks,M,Cagliari,90,7.2,0,0,0,0.00256612,0,0,0,61,0,0,0,76,0,2,4,4,2,2,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Yukinari Sugawara,D,Cagliari,22,6.8,0,0,0,0.00417075,0,0,0,6,0,0,0,11,0,0,0,0,1,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Michel Adopo,M,Cagliari,90,6.8,0,1,0,0.192057,0,0,0,32,2,1,0,41,0,1,1,2,0,1,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Zé Pedro,D,Cagliari,68,6.7,0,0,0,0.00312189,0,0,0,31,0,0,0,52,2,3,2,5,1,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Elia Caprile,G,Cagliari,90,8.1,0,0,0,0.0006547,0,0,0,44,0,0,0,56,0,0,0,0,0,0,0,0,0,3
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Adam Obert,D,Cagliari,90,6.7,0,0,0.0343,0.00740465,1,1,0,39,1,0,0,55,0,5,1,5,0,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Daniel Maldini,F,Cagliari,79,6.8,1,0,0.7991,0.00727373,2,2,0,34,0,0,0,61,2,1,2,5,1,1,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Jacopo Fazzini,M,Cagliari,57,6,0,0,0,0.00041798,0,0,0,17,0,0,0,28,0,1,0,1,0,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Alieu Fadera,F,Cagliari,33,6.6,0,0,0,0.0240755,0,0,0,10,1,0,0,16,0,1,0,2,0,1,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Kevin Carlos Omoruyi,F,Cagliari,11,6.7,0,0,0,0.00003593,0,0,0,4,0,0,0,8,0,0,0,2,0,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Raphael Kofler,D,Cagliari,11,7.2,0,0,0,0.00000117,0,0,0,1,0,0,0,6,0,1,0,3,0,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Alessandro Romano,M,Cagliari,90,6.5,0,0,0.0382,0.0262936,1,1,0,52,0,0,0,70,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Juan Rodríguez,D,Cagliari,90,7.2,0,0,0,0.00049273,0,0,0,44,0,0,0,57,0,3,2,3,0,0,0,0,0,0
+Serie A,26_27,Atalanta vs Cagliari,12/09/2026,Paul Mendy,F,Cagliari,79,7.5,1,0,0.45,0.00190782,1,1,0,9,0,0,0,22,1,3,0,6,2,1,0,0,2,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Wladimiro Falcone,G,Lecce,90,7.8,0,0,0,0.00596858,0,0,0,41,0,0,0,56,0,0,0,1,0,1,0,0,0,8
+Serie A,26_27,Lecce vs Monza,13/09/2026,Lassana Coulibaly,M,Lecce,90,8.9,2,0,0.7561,0.00503678,3,2,0,31,0,0,1,51,0,4,0,10,1,3,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Youssef Maleh,M,Lecce,85,6.5,0,0,0.1143,0.00693967,2,0,0,30,0,0,0,42,0,1,1,2,2,1,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Ivan Ilić,M,Lecce,66,7.6,0,2,0,0.201431,0,0,0,37,2,1,0,51,1,1,2,2,1,0,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Antonino Gallo,D,Lecce,90,7.2,0,0,0,0.00887636,0,0,0,36,0,0,0,66,0,3,0,5,0,0,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Konan N'Dri,F,Lecce,45,6,0,0,0,0.00003934,0,0,0,7,0,0,0,27,0,3,1,3,3,0,1,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Santiago Pierotti,F,Lecce,45,6.5,0,0,0,0.00183643,0,0,0,9,0,0,0,18,1,3,0,5,3,0,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Danilo Veiga,D,Lecce,90,7.6,0,1,0,0.243384,0,0,0,22,1,1,0,68,1,5,0,9,1,3,1,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Jamil Siebert,D,Lecce,90,6.5,0,0,0,0.00371009,0,0,0,31,0,0,0,47,0,2,2,4,0,0,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Nikola Štulić,F,Lecce,74,6.3,0,0,0,0.0932804,0,0,0,11,0,0,0,25,0,0,0,3,2,1,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Joël Monteiro,M,Lecce,74,6.8,0,0,0,0.00383904,0,0,0,18,0,0,0,45,1,3,1,8,0,0,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Mohamed Kaba,M,Lecce,10,6.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Amar Fatah,F,Lecce,16,6.5,0,0,0.0551,0.00124741,1,0,0,5,0,0,0,8,0,0,1,0,0,0,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Oumar Ngom,M,Lecce,24,7,0,0,0,0.00574493,0,0,0,10,0,0,0,18,1,1,1,3,0,0,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Paco Esteban,F,Lecce,16,6.9,0,0,0,0.00003514,0,0,0,3,0,0,0,12,1,2,0,6,0,2,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Tiago Gabriel,D,Lecce,90,7.8,1,0,0.1466,0.00097352,1,1,0,30,0,0,0,43,0,3,1,8,0,2,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Patrick Cutrone,F,Monza,26,6.3,0,0,0.1756,0.0136544,2,1,0,8,0,0,0,13,0,1,0,2,1,0,0,0,1,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Samuele Birindelli,M,Monza,90,7.1,0,1,0.0259,0.629795,1,1,0,31,3,1,0,57,0,1,0,3,0,2,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Demba Thiam,G,Monza,90,5.6,0,0,0,0.00377463,0,0,0,24,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Michael Folorunsho,M,Monza,90,7.2,0,0,0.018,0.061943,1,0,0,67,2,1,0,90,1,3,1,9,0,2,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Ricardo Mangas,D,Monza,45,7.2,1,0,0.7783,0.091613,1,1,0,14,1,1,0,41,0,1,0,4,0,2,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Andrea Colpani,F,Monza,64,6.5,0,0,0.418,0.0613637,3,2,0,16,1,0,1,30,1,0,0,3,0,0,0,0,1,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Andrea Carboni,D,Monza,90,7,0,0,0.0112,0.0279971,1,1,0,81,0,0,0,101,0,2,2,8,0,1,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Lorenzo Lucchesi,D,Monza,90,6.6,0,0,0.2427,0.00575714,1,1,0,63,0,0,1,82,0,3,4,7,2,0,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Exequiel Zeballos,F,Monza,26,7.3,1,0,0.0626,0.067679,2,1,0,13,0,0,0,24,1,1,0,3,3,0,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Gustavo Varela,F,Monza,75,6.8,0,0,0.2884,0.07458,2,1,0,11,3,2,2,25,1,0,0,3,2,0,0,0,1,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Omari Forson,F,Monza,15,6.6,0,0,0,0.0197962,0,0,0,3,1,0,0,10,0,0,0,2,0,2,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Adam Bakoune,D,Monza,45,6.6,0,0,0.047,0.0146319,1,0,0,19,0,0,0,35,0,0,1,2,0,0,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Jay Robinson,F,Monza,64,6.7,0,0,0.4439,0.0248957,3,2,0,15,0,0,1,43,0,2,0,7,0,4,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Ebenezer Akinsanmiro,M,Monza,84,6.3,0,0,0,0.266898,0,0,0,59,2,0,0,70,1,1,1,3,3,1,0,0,0,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Eddy Kouadio,D,Monza,90,6.2,0,0,0,0.00433336,0,0,0,57,0,0,0,76,0,7,2,9,2,0,0,0,1,0
+Serie A,26_27,Lecce vs Monza,13/09/2026,Mathis Mout,M,Monza,11,6.9,0,0,0.0129,0.0224711,1,0,0,10,0,0,0,14,0,1,0,1,0,0,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Federico Bernardeschi,F,Bologna,82,6.8,0,0,0.0211,0.0271645,1,0,0,26,0,0,0,42,1,2,1,5,2,1,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Nikola Moro,M,Bologna,24,7,0,0,0,0.0142239,0,0,0,21,0,0,0,26,0,1,0,3,0,2,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Jens Odgaard,M,Bologna,32,6.3,0,0,0,0.00056994,0,0,0,5,0,0,0,11,0,0,0,1,1,0,0,0,2,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Juan Miranda,D,Bologna,90,7,0,0,0,0.0964508,0,0,0,48,1,0,0,72,1,3,1,7,0,1,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Lewis Ferguson,M,Bologna,90,7.3,0,0,0,0.0332679,0,0,0,65,0,0,0,79,0,2,1,5,3,1,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Tommaso Pobega,M,Bologna,58,6.9,0,0,0.1155,0.00407937,2,1,0,21,0,0,0,30,0,1,1,2,1,1,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Torbjørn Heggem,D,Bologna,90,6.9,0,0,0,0.00282461,0,0,0,41,0,0,0,54,0,1,1,3,0,0,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Roberto Piccoli,F,Bologna,58,6.4,0,0,0,0.00158823,0,0,0,8,0,0,0,25,1,1,0,5,0,2,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Emil Holm,D,Bologna,90,7.5,0,0,0,0.00755668,0,0,0,34,0,0,0,67,1,6,2,9,0,2,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Arthur Theate,D,Bologna,90,6.6,0,0,0,0.00256209,0,0,0,52,0,0,0,62,0,0,1,1,0,1,0,0,1,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Nicolò Cambiaghi,F,Bologna,82,6.3,0,0,0,0.0149966,0,0,0,27,1,0,0,36,0,0,0,2,0,2,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Samuel Mbangula,M,Bologna,8,6.4,0,0,0.1095,0.00443339,1,1,0,7,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Mikel Amondarain,M,Bologna,66,6,0,0,0,0.0221611,0,0,0,17,1,0,0,29,0,2,0,4,3,1,1,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Massimo Pessina,G,Bologna,90,6.6,0,0,0,0.00074931,0,0,0,33,0,0,0,43,0,0,0,2,0,0,0,0,0,3
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Jay Enem,F,Bologna,8,6.5,0,0,0.0458,0.0786641,1,0,0,2,1,0,0,3,0,0,0,1,0,0,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Marco Libra,M,Bologna,32,6.3,0,0,0,0.00422039,0,0,0,8,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Kevin De Bruyne,M,SSC Napoli,88,8.1,0,0,0.2302,0.547158,3,0,0,61,3,0,0,85,2,0,0,2,1,0,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Leonardo Spinazzola,D,SSC Napoli,90,7.8,0,0,0.0547,0.126376,1,0,0,61,2,0,0,86,1,2,0,4,2,0,0,0,1,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Stanislav Lobotka,M,SSC Napoli,90,8.7,1,0,0.3438,0.0927704,1,1,0,62,2,1,0,75,0,1,0,7,1,4,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Giovanni Di Lorenzo,D,SSC Napoli,90,6.5,0,0,0,0.0180113,0,0,0,49,0,0,0,61,0,1,0,1,2,0,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Matteo Politano,M,SSC Napoli,45,6.8,0,0,0,0.073386,0,0,0,18,1,1,0,20,0,0,0,1,0,1,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Amir Rrahmani,D,SSC Napoli,90,7.7,0,0,0.0463,0.0178588,2,0,0,69,0,0,0,82,0,1,1,11,2,2,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Vanja Milinković-Savić,G,SSC Napoli,90,7.1,0,0,0,0.0067519,0,0,0,34,0,0,0,38,0,0,0,0,0,0,0,0,0,2
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Mathías Olivera,D,SSC Napoli,8,6.7,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Noa Lang,F,SSC Napoli,45,7,0,0,0.014,0.219291,1,0,0,30,1,0,0,40,1,1,0,2,0,0,0,0,1,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Billy Gilmour,M,SSC Napoli,90,7,0,0,0.0391,0.0320812,1,0,0,59,0,0,0,70,1,0,0,4,0,2,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Lorenzo Lucca,F,SSC Napoli,15,6.5,0,0,0,0.0095336,0,0,0,11,1,0,0,15,0,0,1,2,2,0,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Rafa Marín,D,SSC Napoli,90,7,0,0,0.1204,0.0124435,1,0,0,67,0,0,0,75,0,3,0,4,2,0,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Antonio Vergara,F,SSC Napoli,45,6,0,0,0,0.0023818,0,0,0,7,0,0,0,28,0,5,0,6,0,0,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Rasmus Højlund,F,SSC Napoli,75,5.9,0,0,0.2879,0.0148789,3,1,0,9,0,0,2,19,0,0,0,1,2,0,0,0,0,0
+Serie A,26_27,SSC Napoli vs Bologna,13/09/2026,Costantino Favasuli,M,SSC Napoli,45,7.6,0,1,0.0548,0.138686,1,1,0,14,2,1,0,28,2,3,0,5,1,0,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Guglielmo Vicario,G,Juventus,90,6.8,0,0,0,0.00010875,0,0,0,24,0,0,0,35,0,0,0,1,0,0,0,0,0,3
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Teun Koopmeiners,M,Juventus,71,6.9,0,0,0.0998,0.0437654,1,1,0,60,0,0,0,64,1,0,0,2,1,0,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Jhon Lucumí,D,Juventus,45,6.8,0,0,0,0.0192497,0,0,0,66,0,0,0,68,0,0,0,0,1,0,1,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Lloyd Kelly,D,Juventus,45,6,0,0,0,0.0120275,0,0,0,36,0,0,0,39,1,0,0,1,1,0,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Douglas Luiz,M,Juventus,90,6.9,0,0,0.0757,0.0384794,1,1,0,75,1,0,0,87,0,2,0,2,3,0,1,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Randal Kolo Muani,F,Juventus,90,6.5,0,1,0.0253,0.0384449,1,0,0,14,2,0,0,25,0,1,0,4,1,1,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Gleison Bremer,D,Juventus,90,6.2,0,0,0,0.0143779,0,0,0,81,1,0,0,90,0,1,2,5,2,1,0,0,1,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Edon Zhegrova,F,Juventus,30,9.2,2,0,0.3552,0.14743,3,2,0,16,3,1,0,31,3,1,0,5,1,1,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Zeki Çelik,D,Juventus,90,6.3,0,0,0.0408,0.0914495,1,0,0,32,2,0,0,48,0,3,0,5,0,0,0,0,1,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Nicolás González,M,Juventus,60,6.8,0,0,0.1406,0.0751311,3,0,1,25,1,0,0,35,0,2,0,4,0,2,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Pierre Kalulu,D,Juventus,90,6.4,0,0,0,0.0566276,0,0,0,57,0,0,0,79,1,3,0,4,0,0,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Francisco Conceição,F,Juventus,60,7,0,0,0.0153,0.0620128,1,1,0,35,2,0,0,45,0,1,0,2,0,1,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Nick Woltemade,F,Juventus,30,6.2,0,0,0.1502,0.0199263,2,0,0,7,0,0,1,12,0,0,0,1,2,1,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Pape Matar Sarr,M,Juventus,19,6.3,0,0,0,0.00978446,0,0,0,19,0,0,0,21,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Justin Oboavwoduo,F,Juventus,8,6.5,0,0,0,0.00019531,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Kerim Alajbegović,M,Juventus,87,6.4,0,0,0.1947,0.0861176,6,3,0,41,1,0,0,59,2,0,0,3,1,1,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Nemanja Matić,M,Sassuolo,90,7.5,0,1,0,0.0835976,0,0,0,70,1,1,0,84,1,4,0,5,0,0,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Domenico Berardi,F,Sassuolo,71,7.2,0,0,0.3593,0.0523071,3,3,0,29,0,0,1,45,0,2,1,3,0,1,0,0,1,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Duje Ćaleta-Car,D,Sassuolo,9,6.1,0,0,0,0.00013036,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Arijanet Murić,G,Sassuolo,90,8.1,0,0,0,0.00028938,0,0,0,38,0,0,0,49,0,0,0,1,0,0,0,0,0,6
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Kristian Thorstvedt,M,Sassuolo,71,7,0,0,0,0.0169788,0,0,0,26,0,0,0,34,0,0,1,3,0,3,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Armand Laurienté,F,Sassuolo,90,7.1,0,1,0,0.0886765,0,0,0,31,2,0,0,49,2,1,0,4,0,0,0,0,1,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Jay Idzes,D,Sassuolo,81,6.8,0,0,0.0572,0.00111651,1,0,0,39,0,0,0,47,1,0,1,3,2,2,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Sebastiano Esposito,F,Sassuolo,70,7.9,1,0,0.2777,0.195983,2,1,0,35,3,1,0,48,0,0,0,3,1,3,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Kieron Bowie,F,Sassuolo,19,7.7,1,0,0.0858,0.0305113,1,1,0,6,0,0,0,12,0,1,0,1,0,0,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Josh Doig,D,Sassuolo,90,6.6,0,0,0.0352,0.0161896,2,0,0,28,0,0,0,54,0,1,3,3,1,2,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Fedde Leysen,D,Sassuolo,90,6.4,0,0,0,0.00166468,0,0,0,46,0,0,0,57,0,2,3,3,1,0,1,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Vasilije Adžić,M,Sassuolo,19,7.4,1,0,0.2091,0.00041997,1,1,0,10,0,0,0,15,0,0,0,0,0,0,0,0,1,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Luca Lipani,M,Sassuolo,55,6.5,0,0,0,0.00397101,0,0,0,19,0,0,0,27,0,1,0,1,2,0,1,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Benjamín Domínguez,M,Sassuolo,20,6.5,0,0,0,0.00007734,0,0,0,4,0,0,0,7,0,1,0,1,0,0,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Simone Cinquegrano,D,Sassuolo,90,6.2,0,0,0,0.00195082,0,0,0,17,0,0,0,42,0,2,1,2,1,0,0,0,0,0
+Serie A,26_27,Sassuolo vs Juventus,13/09/2026,Darryl Bakola,M,Sassuolo,35,7,0,1,0,0.0437124,0,0,0,20,1,0,0,28,1,1,0,3,0,1,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Diego Carlos,D,Parma,90,7.1,0,0,0,0.0118616,0,0,0,54,0,0,0,74,0,0,0,1,1,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Vincent Sierro,M,Parma,64,6.8,0,0,0.0575,0.488601,1,0,0,32,1,1,0,41,0,0,0,1,0,1,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Pontus Almqvist,F,Parma,10,6.7,0,1,0,0.0850828,0,0,0,3,1,1,0,6,0,0,1,0,0,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Emanuele Valeri,M,Parma,90,7.2,0,0,0,0.477822,0,0,0,17,2,1,0,37,0,1,1,2,0,1,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Enrico Delprato,D,Parma,90,6.3,0,0,0,0.00533092,0,0,0,38,1,0,0,54,0,0,4,2,0,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Adrián Bernabé,M,Parma,26,6.5,0,0,0,0.0253525,0,0,0,18,0,0,0,21,0,0,0,1,0,1,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,El Bilal Touré,M,Parma,55,6.6,0,0,0.0194,0.0161649,1,1,0,3,1,0,0,14,0,1,0,1,0,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Edoardo Corvi,G,Parma,90,8.6,0,0,0,0.00056259,0,0,0,31,0,0,0,41,0,0,0,0,0,0,0,0,0,5
+Serie A,26_27,Como vs Parma,14/09/2026,Giovanni Fabbian,M,Parma,10,6.3,0,0,0,0.00000277,0,0,0,3,0,0,0,3,0,0,0,0,1,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Matija Frigan,F,Parma,35,6.5,0,0,0.1688,0.00411768,1,0,0,4,1,0,0,5,0,0,0,1,0,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Mandela Keita,M,Parma,90,6.5,0,0,0.047,0.0203018,1,0,0,40,2,0,0,56,0,1,1,3,0,2,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,David Romero,F,Parma,26,7.2,1,0,0.5909,0.0121255,4,3,1,5,0,0,1,14,0,0,1,1,0,1,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Nesta Elphege,F,Parma,64,6.7,0,0,0.0122,0.012606,1,0,0,14,1,0,0,20,1,0,0,4,0,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Mariano Troilo,D,Parma,90,7.3,0,0,0,0.00905484,0,0,0,61,0,0,0,77,1,1,3,3,0,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Simone Lontani,F,Parma,80,6.4,0,0,0.2333,0.00658626,2,0,0,17,0,0,1,33,2,1,1,4,0,1,0,0,1,0
+Serie A,26_27,Como vs Parma,14/09/2026,Sascha Britschgi,D,Parma,80,6,0,0,0.0171,0.00736544,1,0,0,22,0,0,0,38,0,0,0,2,2,1,0,0,1,0
+Serie A,26_27,Como vs Parma,14/09/2026,Marc Kempf,D,Como,90,6.8,0,0,0.0539,0.0180171,3,0,0,72,1,0,0,83,0,0,1,4,0,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Luis Milla,M,Como,10,6.4,0,0,0.0654,0.0024909,1,0,0,11,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Moise Kean,F,Como,64,6.7,0,0,0.1257,0.0402288,2,1,0,9,1,0,0,18,0,1,0,3,0,1,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Maxence Caqueret,M,Como,35,6.6,0,0,0,0.0467093,0,0,0,30,1,1,0,36,0,0,0,0,1,0,1,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Anastasios Douvikas,F,Como,26,6.5,0,0,0.2178,0.00266761,1,1,0,5,1,0,1,7,0,0,0,0,0,0,0,0,2,0
+Serie A,26_27,Como vs Parma,14/09/2026,Lucas Da Cunha,M,Como,80,7.4,0,0,0.0192,0.20522,1,0,0,76,5,0,0,91,1,2,0,3,0,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Robert Sánchez,G,Como,90,6.8,0,0,0,0.00361145,0,0,0,27,0,0,0,37,0,0,0,0,0,0,0,0,0,3
+Serie A,26_27,Como vs Parma,14/09/2026,Samuele Ricci,M,Como,10,6.5,0,0,0,0.0570692,0,0,0,13,2,1,0,16,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Yan Couto,M,Como,90,6.8,0,0,0.1673,0.0754068,2,2,0,64,1,0,1,85,0,0,0,0,1,0,0,0,1,0
+Serie A,26_27,Como vs Parma,14/09/2026,Máximo Perrone,M,Como,90,7.8,0,1,0.2287,0.124181,2,0,0,83,4,1,0,97,0,2,2,4,2,1,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Martin Baturina,M,Como,55,7.6,0,0,0.158,0.338873,2,0,0,38,1,0,0,47,2,0,0,2,0,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Kaiki,D,Como,90,8.2,1,0,0.608,0.10083,3,1,0,33,2,0,1,69,5,3,0,11,0,1,0,0,1,0
+Serie A,26_27,Como vs Parma,14/09/2026,Nico Paz,M,Como,80,8.1,0,1,0.2867,0.156815,5,0,0,64,2,1,0,87,1,5,1,6,2,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Jacobo Ramón,D,Como,90,7.5,1,0,0.7658,0.0630539,1,1,0,80,0,0,0,87,0,1,0,6,1,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Assane Diao,M,Como,55,7.1,0,0,0,0.0878476,0,0,0,30,2,0,0,44,2,0,0,4,1,0,0,0,0,0
+Serie A,26_27,Como vs Parma,14/09/2026,Jesús Rodriguez,M,Como,35,7.5,0,0,0.3249,0.0777039,6,1,0,21,1,1,1,37,1,2,0,3,0,0,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Duván Zapata,F,Torino,13,6.5,0,0,0,0.00001993,0,0,0,2,1,1,0,7,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Ricardo Rodríguez,D,Torino,17,6.3,0,0,0,0.00073082,0,0,0,12,0,0,0,18,0,1,0,1,0,0,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Giovanni Simeone,F,Torino,90,6.5,0,0,0.7416,0.00197762,4,1,0,15,0,0,3,38,0,0,1,8,2,3,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Nikola Vlašić,M,Torino,90,6.2,0,0,0.0297,0.0185051,1,0,0,28,1,0,0,41,0,0,0,1,2,1,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Rolando Mandragora,M,Torino,83,7,0,0,0.0554,0.0251668,2,2,0,55,0,0,0,65,0,2,0,7,0,3,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Eray Cömert,D,Torino,90,6.5,0,0,0.0286,0.01244,1,0,0,60,0,0,0,73,0,3,0,4,0,0,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Daniel Bragança,M,Torino,45,7.5,0,0,0,0.255605,0,0,0,24,1,1,0,37,3,1,0,8,0,3,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Lucas Perri,G,Torino,90,6.4,0,0,0,0.00449956,0,0,0,63,0,0,0,74,0,0,0,1,0,0,0,0,0,3
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Kian Fitz-Jim,M,Torino,59,6.4,0,0,0,0.0709575,0,0,0,35,1,0,0,45,0,0,1,1,1,1,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Gvidas Gineitis,M,Torino,45,6.5,0,0,0,0.00478183,0,0,0,16,0,0,0,23,0,1,0,4,1,2,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Saúl Coco,D,Torino,90,6.5,0,0,0,0.00622587,0,0,0,73,0,0,0,88,0,0,3,2,0,1,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Rafik Belghali,M,Torino,45,6.3,0,0,0,0.00682457,0,0,0,12,0,0,0,18,1,0,0,1,0,0,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Emirhan İlkhan,M,Torino,31,6.5,0,0,0,0.225098,0,0,0,19,1,1,0,24,0,0,0,1,0,1,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Pietro Comuzzo,D,Torino,90,6.5,0,0,0,0.0368469,0,0,0,50,1,0,0,69,0,2,1,6,1,1,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Niccolò Fortini,D,Torino,73,6.8,0,0,0,0.0307456,0,0,0,31,0,0,0,55,2,4,0,8,0,1,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Alessio Cacciamani,M,Torino,45,6.7,0,0,0,0.00542878,0,0,0,14,0,0,0,31,0,0,0,3,0,3,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Marten de Roon,M,AS Roma,26,6.6,0,0,0,0.0108047,0,0,0,21,1,0,0,27,1,1,4,2,1,0,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Bryan Cristante,M,AS Roma,64,6.5,0,0,0.1147,0.0149025,2,0,0,41,0,0,0,51,0,3,0,4,3,0,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Paulo Dybala,F,AS Roma,64,6.8,0,0,0.0826,0.0793576,1,0,0,27,3,1,0,47,2,1,1,4,0,1,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Mario Hermoso,D,AS Roma,90,7.1,0,0,0,0.450573,0,0,0,49,1,1,0,61,0,1,2,2,1,1,1,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Gianluca Mancini,D,AS Roma,90,7,0,0,0.0505,0.0810267,1,1,0,47,1,0,0,65,2,4,4,8,2,0,0,0,1,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Mile Svilar,G,AS Roma,90,7.5,0,0,0,0.00004792,0,0,0,22,0,0,0,33,0,0,0,0,0,0,0,0,0,3
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Donyell Malen,F,AS Roma,57,7.8,1,0,1.3225,0.0136772,4,2,0,8,1,0,2,13,0,0,0,2,1,1,0,0,1,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Nahuel Molina,D,AS Roma,90,6.9,0,0,0.0635,0.0319953,2,1,0,53,0,0,0,77,0,4,0,5,3,0,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Leonardo Balerdi,D,AS Roma,90,7.3,0,0,0.1456,0.00737656,1,0,0,32,0,0,0,53,0,1,3,7,1,1,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Manu Koné,M,AS Roma,26,6.3,0,0,0,0.00150138,0,0,0,11,0,0,0,15,0,0,1,1,4,1,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Devyne Rensch,M,AS Roma,8,6.7,0,0,0,0.00003235,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Matías Soulé,F,AS Roma,57,7.2,0,0,0.0212,0.0804134,1,0,0,29,1,0,0,48,3,2,0,6,1,1,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Santiago Castro,F,AS Roma,33,6.4,0,0,0.0148,0.00942468,1,0,0,12,0,0,0,15,0,0,0,2,0,0,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Niccolò Pisilli,M,AS Roma,90,7.5,1,0,0.0377,0.156221,1,1,0,38,2,0,0,50,0,1,0,1,2,0,1,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Rodrigo Mora,M,AS Roma,33,6.9,0,0,0,0.123907,0,0,0,12,1,0,0,19,2,0,1,2,0,0,0,0,0,0
+Serie A,26_27,Torino vs AS Roma,14/09/2026,Emanuele Lulli,M,AS Roma,88,6.9,0,0,0,0.031094,0,0,0,34,0,0,0,68,1,3,0,5,1,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Christian Kabasele,D,Udinese,90,5.6,0,0,0,0.00161285,0,0,0,35,0,0,0,46,0,0,1,2,1,2,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Jesper Karlström,M,Udinese,90,6.7,0,0,0.0122,0.00542698,1,1,0,31,0,0,0,49,1,2,3,3,0,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Hassane Kamara,M,Udinese,90,6.8,0,0,0,0.0191328,0,0,0,20,1,0,0,39,0,3,1,6,0,2,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Sandi Lovrić,M,Udinese,10,6.9,0,0,0,0.114502,0,0,0,4,2,0,0,9,0,1,0,1,1,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Vakoun Issouf Bayo,F,Udinese,10,6.6,0,1,0.0493,0.00044909,1,1,0,2,1,1,0,4,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Mërgim Vojvoda,D,Udinese,74,6.5,0,0,0,0.0108292,0,0,0,26,0,0,0,39,0,1,0,3,0,2,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Keinan Davis,F,Udinese,80,6.4,0,1,0,0.25172,0,0,0,24,1,1,0,33,0,0,0,2,1,0,1,0,1,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Enzo Ebosse,D,Udinese,90,5.9,0,0,0,0.00554693,0,0,0,48,0,0,0,59,0,2,1,2,0,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Giorgi Chakvetadze,M,Udinese,17,6.5,0,0,0,0.00480502,0,0,0,7,0,0,0,8,0,1,0,1,0,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Maduka Okoye,G,Udinese,90,8.6,0,0,0,0.00167838,0,0,0,41,0,0,0,57,0,0,0,0,0,0,0,0,0,7
+Serie A,26_27,Inter vs Udinese,14/09/2026,Jürgen Ekkelenkamp,M,Udinese,80,7.7,1,0,0.3157,0.0630616,2,1,0,16,0,0,0,24,0,1,1,3,0,1,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,James Abankwah,D,Udinese,90,6.5,1,0,0.3439,0.00200503,1,1,0,38,0,0,0,54,0,0,0,2,2,2,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Nicolò Bertola,D,Udinese,16,6.2,0,0,0,0.0048002,0,0,0,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Lennon Miller,M,Udinese,73,5.7,0,0,0,0.00042416,0,0,0,17,0,0,0,24,1,1,0,2,2,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Unai Gómez,M,Udinese,61,6.5,0,1,0,0.256081,0,0,0,13,1,1,0,21,0,0,0,0,2,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Idrissa Gueye,F,Udinese,29,7.5,1,0,0.2013,0.00013907,1,1,0,4,0,0,0,10,1,0,0,1,0,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Henrikh Mkhitaryan,M,Inter,62,6.9,0,0,0.3778,0.0440857,6,1,0,31,2,0,1,49,0,2,1,3,0,1,1,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Piotr Zieliński,M,Inter,82,7.2,0,1,0.0829,0.161775,3,0,0,78,1,1,0,86,0,1,0,2,1,1,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,John Stones,D,Inter,62,6.4,0,0,0.0319,0.0179234,1,0,0,66,0,0,0,73,0,1,0,2,0,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Federico Dimarco,M,Inter,20,6.6,0,0,0,0.119935,0,0,0,22,2,0,0,27,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Nicolò Barella,M,Inter,90,8.6,1,0,0.2205,0.508967,3,2,0,64,6,2,0,82,1,0,0,2,0,1,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Manuel Akanji,D,Inter,90,6.4,0,0,0.1217,0.0309754,2,1,0,66,0,0,0,80,0,1,2,4,2,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Benjamin Pavard,D,Inter,28,6.5,0,0,0,0.00197753,0,0,0,28,0,0,0,32,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Marcus Thuram,F,Inter,70,8.6,1,1,0.655,0.037231,4,3,0,17,3,0,2,30,2,1,0,7,2,2,0,0,1,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Alessandro Bastoni,D,Inter,70,6.8,0,0,0,0.246709,0,0,0,75,0,0,0,88,0,1,2,3,1,1,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Josep Martínez,G,Inter,90,6,0,0,0,0.00005482,0,0,0,22,0,0,0,32,0,0,0,0,0,0,0,0,0,2
+Serie A,26_27,Inter vs Udinese,14/09/2026,Curtis Jones,M,Inter,28,7.1,0,0,0,0.105253,0,0,0,39,0,0,0,44,1,0,1,1,0,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Carlos Augusto,D,Inter,90,8.1,1,0,0.0757,0.0810576,2,2,0,53,2,0,1,72,0,0,2,6,1,0,0,0,2,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Andy Diouf,M,Inter,90,6.2,0,1,0.0251,0.264815,1,0,0,44,3,2,0,56,0,0,1,1,0,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Ange-Yoan Bonny,F,Inter,20,6.8,1,0,0.9056,0.00132029,2,2,0,5,0,0,1,14,0,0,2,0,0,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Aleksandar Stanković,M,Inter,8,6.5,0,0,0.0769,0.00024573,1,0,1,12,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+Serie A,26_27,Inter vs Udinese,14/09/2026,Pio Esposito,F,Inter,90,7.4,1,0,0.4753,0.135773,2,1,0,16,0,0,0,25,0,0,0,2,2,2,0,0,0,0

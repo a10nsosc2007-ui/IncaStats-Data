@@ -411,193 +411,475 @@ Stoiximan Super League,Super_League_26_27,APO Levadiakos vs Panathinaikos FC,31/
 Stoiximan Super League,Super_League_26_27,APO Levadiakos vs Panathinaikos FC,31/08/2026,Sotiris Kontouris,M,Panathinaikos FC,45,6.6,0,0,0.1271,0.0259489,2,1,0,25,0,0,0,41,1,2,1,5,2,2,1,0,0,0
 Stoiximan Super League,Super_League_26_27,APO Levadiakos vs Panathinaikos FC,31/08/2026,Santino Andino,M,Panathinaikos FC,60,6,0,0,0.0598,0.0949242,1,0,0,16,1,0,0,32,1,0,1,3,4,1,1,0,0,0
 Stoiximan Super League,Super_League_26_27,APO Levadiakos vs Panathinaikos FC,31/08/2026,Mahamadou Balde,F,APO Levadiakos,10,6.7,0,0,0,0.0011592,0,0,0,5,0,0,0,7,1,0,0,2,0,1,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Remo Freuler,M,Olympiacos FC,13,6.8,0,0,0,0.0216105,0,0,0,18,0,0,0,22,1,0,0,1,0,0,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Stefan Ortega,G,Olympiacos FC,90,6.6,0,0,0,0.00108949,0,0,0,32,0,0,0,35,0,0,0,0,0,0,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Manolis Saliakas,M,Olympiacos FC,90,6.6,0,0,0.1345,0.0580998,2,0,0,48,2,0,0,78,0,0,1,2,1,1,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Dani García,M,Olympiacos FC,77,6.7,0,0,0,0.182574,0,0,0,43,0,0,0,48,0,1,0,1,3,0,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Gelson Martins,M,Olympiacos FC,29,6.6,0,0,0,0.106966,0,0,0,20,0,0,0,30,1,1,0,3,0,1,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Chiquinho,M,Olympiacos FC,90,6.8,0,0,0.0569,0.156306,2,0,0,36,4,1,0,66,1,2,0,5,1,1,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Panagiotis Retsos,D,Olympiacos FC,90,6.4,0,0,0,0.00844956,0,0,0,61,0,0,0,78,0,1,1,6,2,3,1,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,David Carmo,D,Olympiacos FC,46,6.6,0,0,0,0.00271535,0,0,0,31,0,0,0,37,0,1,1,3,1,0,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Ayoub El Kaabi,F,Olympiacos FC,44,7.1,0,0,0.2144,0.00367021,2,0,0,7,0,0,0,11,0,0,0,2,0,1,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Lorenzo Pirola,D,Olympiacos FC,44,6.7,0,0,0.0252,0.00360213,2,0,0,40,1,0,0,52,0,1,2,3,1,0,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Santiago Hezze,M,Olympiacos FC,90,7,0,0,0.1489,0.0290202,3,1,0,60,0,0,0,67,0,3,0,5,1,0,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Jota Silva,F,Olympiacos FC,77,7.6,1,0,0.813,0.133452,2,2,0,8,2,0,0,22,0,1,0,6,4,4,0,0,1,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Onyemaechi Bruno,D,Olympiacos FC,90,6.2,0,0,0,0.179072,0,0,0,47,0,0,0,70,0,1,0,1,1,0,0,0,1,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Joel Roca,M,Olympiacos FC,61,6.7,0,0,0.1912,0.00715163,2,0,0,15,0,0,1,34,0,3,0,6,2,3,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Gustavo Sá,M,Olympiacos FC,13,6.6,0,0,0,0.00017078,0,0,0,2,0,0,0,10,0,1,0,2,0,1,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Armando González,F,Olympiacos FC,46,6.1,0,0,0.0348,0.0113778,2,1,0,3,0,0,0,7,0,0,0,0,2,0,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Georgios Mygas,D,NPS Volos,72,6.3,0,0,0,0.00645738,0,0,0,25,0,0,0,40,1,0,1,2,1,0,1,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Giannis Kargas,D,NPS Volos,90,7.2,0,0,0,0.00127993,0,0,0,33,0,0,0,70,1,3,2,11,2,2,1,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Joca,M,NPS Volos,45,6.1,0,0,0,0.00054935,0,0,0,10,0,0,0,12,1,0,0,1,3,0,1,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Marios Siampanis,G,NPS Volos,90,6.5,0,0,0,0.0003035,0,0,0,34,0,0,0,47,0,0,0,1,1,1,1,0,0,2
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Lazaros Lamprou,M,NPS Volos,90,6.9,0,0,0.0317,0.00479666,1,0,0,16,0,0,0,36,2,1,2,5,1,2,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Hamza Mendyl,D,NPS Volos,72,6.2,0,0,0,0.0008959,0,0,0,15,0,0,0,20,0,1,0,1,0,0,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Keidi Bare,M,NPS Volos,66,6.6,0,0,0,0.0282705,0,0,0,13,0,0,0,18,0,0,1,1,1,1,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Jan Hurtado,F,NPS Volos,17,6.7,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,3,0,1,0,0,1,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Xesc Regis,M,NPS Volos,73,6.6,0,0,0,0.0438981,0,0,0,21,0,0,0,34,1,1,0,3,0,1,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Maximiliano Comba,M,NPS Volos,90,7.7,1,0,0.1992,0.00337722,1,1,0,21,0,0,0,35,2,1,1,5,2,2,1,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Vasilis Grosdis,M,NPS Volos,24,6.8,0,0,0,0.00110719,0,0,0,7,0,0,0,12,1,2,0,3,1,0,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Matías González,M,NPS Volos,90,6.4,0,0,0.067,0.016003,2,0,0,20,0,0,0,38,1,0,0,5,0,3,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Gustavo Furtado,M,NPS Volos,45,6.7,0,0,0.0207,0.00191137,1,0,0,8,0,0,0,18,1,0,0,5,1,3,1,0,1,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Hatim Essaouabi,D,NPS Volos,90,7.1,0,0,0,0.00308874,0,0,0,24,0,0,0,45,0,1,1,5,1,1,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Georgios Charalampoglou,F,NPS Volos,18,7.4,0,1,0.089,0.444903,1,0,0,6,2,1,0,11,0,0,0,1,0,1,0,0,0,0
-Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Konstantinos Lykourinos,D,NPS Volos,18,6.7,0,0,0,0.00209404,0,0,0,8,1,0,0,19,0,0,0,1,1,0,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Petros Mantalos,M,AEK Athens,10,7.6,0,1,0.0309,0.45476,1,0,0,14,1,1,0,17,0,0,0,1,0,1,0,0,1,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Mijat Gaćinović,M,AEK Athens,68,7.3,0,1,0.3257,0.460617,2,1,0,27,2,1,1,47,1,2,2,6,3,3,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Thomas Strakosha,G,AEK Athens,90,7.1,0,0,0,0.00159911,0,0,0,21,0,0,0,25,0,0,0,0,0,0,0,0,0,2
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Răzvan Marin,M,AEK Athens,80,7.7,1,0,0.4855,0.222351,1,1,0,60,2,0,0,70,0,1,0,2,1,0,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Luka Jović,F,AEK Athens,68,6.4,0,0,0.2372,0.0170303,3,0,0,20,1,0,0,27,0,1,0,4,1,0,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Oleksandr Zubkov,M,AEK Athens,11,6.5,0,0,0,0.00367945,0,0,0,6,0,0,0,6,0,0,0,0,0,0,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Harold Moukoudi,D,AEK Athens,90,7.6,0,0,0,0.196897,0,0,0,58,1,0,0,68,0,0,1,3,0,1,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Lovro Majer,M,AEK Athens,83,8.5,0,2,0.0549,0.548913,1,1,0,58,4,2,0,75,0,1,1,4,2,2,1,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Barnabás Varga,F,AEK Athens,80,8.5,2,0,1.0231,0.0190265,3,2,0,28,1,0,0,38,0,1,0,7,2,0,0,0,2,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Aboubakary Koita,M,AEK Athens,22,8,1,0,0.051,0.00683518,1,1,0,14,0,0,0,22,0,3,0,5,1,2,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Lazaros Rota,D,AEK Athens,90,7.6,0,0,0.4393,0.0159664,4,2,0,35,0,0,0,58,0,4,1,6,5,1,1,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Stavros Pilios,D,AEK Athens,90,7.7,0,0,0.1412,0.067692,2,0,0,43,2,0,0,71,1,5,0,10,0,4,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Zini,F,AEK Athens,22,7,1,0,0.6672,0.0124566,2,2,0,10,1,0,0,16,0,0,0,0,0,0,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Kervin Arriaga,M,AEK Athens,10,6.5,0,0,0,0.0115198,0,0,0,18,0,0,0,22,0,1,1,2,1,0,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Milán Vitális,M,AEK Athens,90,7.8,0,1,0,0.061415,0,0,0,54,4,0,0,65,0,1,1,3,0,2,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Filipe Relvas,D,AEK Athens,90,7.6,0,0,0.0842,0.014215,1,0,0,76,0,0,0,87,0,0,2,4,0,1,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Giannis Gianniotas,F,Aris Thessaloniki,45,6.2,0,0,0,0.00009345,0,0,0,7,0,0,0,15,0,0,0,1,1,1,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Sebastián Palacios,M,Aris Thessaloniki,45,7.2,0,0,0,0.0130757,0,0,0,12,0,0,0,25,2,0,1,7,0,5,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Remo Freuler,M,Olympiacos FC,13,6.8,0,0,0,0.0267735,0,0,0,19,0,0,0,23,1,0,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Stefan Ortega,G,Olympiacos FC,90,6.6,0,0,0,0.00108938,0,0,0,32,0,0,0,35,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Manolis Saliakas,M,Olympiacos FC,90,6.6,0,0,0.1345,0.0580718,2,0,0,48,2,0,0,78,0,0,1,2,1,1,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Dani García,M,Olympiacos FC,77,6.7,0,0,0,0.0508205,0,0,0,43,0,0,0,48,0,1,0,1,3,0,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Gelson Martins,M,Olympiacos FC,29,6.6,0,0,0,0.0353794,0,0,0,20,0,0,0,31,2,1,0,4,0,1,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Chiquinho,M,Olympiacos FC,90,6.8,0,0,0.0729,0.177934,2,0,0,37,4,1,0,67,1,2,0,5,1,1,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Panagiotis Retsos,D,Olympiacos FC,90,6.4,0,0,0,0.0078433,0,0,0,61,0,0,0,78,0,1,1,7,2,3,1,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,David Carmo,D,Olympiacos FC,46,6.6,0,0,0,0.00277752,0,0,0,31,0,0,0,37,0,1,1,3,1,0,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Ayoub El Kaabi,F,Olympiacos FC,44,7.1,0,0,0.2904,0.00367021,2,0,0,7,0,0,0,11,0,0,0,2,0,1,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Lorenzo Pirola,D,Olympiacos FC,44,6.7,0,0,0.0329,0.00347275,2,0,0,40,1,0,0,52,0,1,2,3,1,0,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Santiago Hezze,M,Olympiacos FC,90,7,0,0,0.1058,0.027869,3,1,0,60,0,0,0,67,0,3,0,5,1,0,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Jota Silva,F,Olympiacos FC,77,7.6,1,0,0.8358,0.133451,2,2,0,8,2,0,0,22,0,1,0,6,4,4,0,0,1,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Onyemaechi Bruno,D,Olympiacos FC,90,6.2,0,0,0,0.178656,0,0,0,47,0,0,0,70,0,1,0,1,1,0,0,0,1,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Joel Roca,M,Olympiacos FC,61,6.7,0,0,0.1697,0.00713796,2,0,0,15,0,0,1,34,0,3,0,6,2,3,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Gustavo Sá,M,Olympiacos FC,13,6.6,0,0,0,0.00017078,0,0,0,2,0,0,0,11,0,1,0,2,0,1,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Armando González,F,Olympiacos FC,46,6.1,0,0,0.0607,0.0113778,2,1,0,3,0,0,0,7,0,0,0,0,2,0,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Georgios Mygas,D,NPS Volos,72,6.3,0,0,0,0.00642537,0,0,0,26,0,0,0,41,1,0,1,2,1,0,1,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Giannis Kargas,D,NPS Volos,90,7.2,0,0,0,0.00368672,0,0,0,33,0,0,0,71,2,3,2,12,2,2,1,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Joca,M,NPS Volos,45,6.1,0,0,0,0.00069171,0,0,0,9,0,0,0,11,1,0,0,1,3,0,1,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Marios Siampanis,G,NPS Volos,90,6.5,0,0,0,0.00031626,0,0,0,34,0,0,0,49,0,0,0,1,1,1,1,0,0,2
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Lazaros Lamprou,M,NPS Volos,90,6.9,0,0,0.0418,0.00479666,1,0,0,16,0,0,0,36,2,1,2,5,1,2,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Hamza Mendyl,D,NPS Volos,72,6.2,0,0,0,0.00088997,0,0,0,14,0,0,0,20,0,1,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Keidi Bare,M,NPS Volos,66,6.6,0,0,0,0.028277,0,0,0,13,0,0,0,18,0,0,1,1,1,1,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Jan Hurtado,F,NPS Volos,17,6.7,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,3,0,1,0,0,1,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Xesc Regis,M,NPS Volos,73,6.6,0,0,0,0.0444099,0,0,0,21,0,0,0,35,1,1,1,3,0,1,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Maximiliano Comba,M,NPS Volos,90,7.7,1,0,0.1992,0.00329294,1,1,0,21,0,0,0,34,2,1,0,5,2,2,1,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Vasilis Grosdis,M,NPS Volos,24,6.8,0,0,0,0.00111276,0,0,0,7,0,0,0,12,1,2,0,3,1,0,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Matías González,M,NPS Volos,90,6.4,0,0,0.0727,0.0159668,2,0,0,20,0,0,0,38,1,0,0,6,0,3,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Gustavo Furtado,M,NPS Volos,45,6.7,0,0,0.0335,0.00596518,1,0,0,8,0,0,0,19,1,0,0,4,1,3,1,0,1,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Hatim Essaouabi,D,NPS Volos,90,7.1,0,0,0,0.00164964,0,0,0,24,0,0,0,45,0,1,1,5,1,1,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Georgios Charalampoglou,F,NPS Volos,18,7.4,0,1,0.1047,0.444904,1,0,0,6,2,1,0,12,1,0,0,2,0,1,0,0,0,0
+Stoiximan Super League,26_27,NPS Volos vs Olympiacos FC,05/09/2026,Konstantinos Lykourinos,D,NPS Volos,18,6.7,0,0,0,0.002094,0,0,0,8,1,0,0,19,0,0,0,1,1,0,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Petros Mantalos,M,AEK Athens,10,7.6,0,1,0.058,0.630192,1,0,0,14,1,1,0,17,0,0,0,2,0,1,0,0,1,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Mijat Gaćinović,M,AEK Athens,68,7.3,0,1,0.2343,0.460033,2,1,0,27,2,1,1,47,1,2,2,6,3,3,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Thomas Strakosha,G,AEK Athens,90,7.1,0,0,0,0.0015874,0,0,0,21,0,0,0,25,0,0,0,0,0,0,0,0,0,2
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Răzvan Marin,M,AEK Athens,80,7.7,1,0,0.4782,0.223384,1,1,0,61,2,0,0,71,0,2,0,3,1,0,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Luka Jović,F,AEK Athens,68,6.4,0,0,0.2369,0.0168799,3,0,0,20,1,0,0,27,0,1,0,4,1,0,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Oleksandr Zubkov,M,AEK Athens,11,6.5,0,0,0,0.00367936,0,0,0,6,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Harold Moukoudi,D,AEK Athens,90,7.6,0,0,0,0.19684,0,0,0,58,1,0,0,68,0,0,1,3,0,1,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Lovro Majer,M,AEK Athens,83,8.5,0,2,0.0549,0.532864,1,1,0,59,4,2,0,76,0,1,1,4,2,2,1,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Barnabás Varga,F,AEK Athens,80,8.5,2,0,0.9963,0.0190883,3,2,0,28,1,0,0,38,0,1,0,7,2,0,0,0,2,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Aboubakary Koita,M,AEK Athens,22,8,1,0,0.051,0.0070499,1,1,0,14,0,0,0,22,0,3,0,5,1,2,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Lazaros Rota,D,AEK Athens,90,7.6,0,0,0.4308,0.0158588,4,2,0,33,0,0,0,56,0,4,1,6,5,1,1,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Stavros Pilios,D,AEK Athens,90,7.7,0,0,0.1438,0.0681108,2,0,0,43,2,0,0,71,1,5,0,10,0,4,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Zini,F,AEK Athens,22,7,1,0,0.8031,0.0136445,2,2,0,10,1,0,0,17,1,0,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Kervin Arriaga,M,AEK Athens,10,6.5,0,0,0,0.0115376,0,0,0,18,0,0,0,22,0,1,1,2,1,0,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Milán Vitális,M,AEK Athens,90,7.8,0,1,0,0.0883776,0,0,0,56,4,0,0,68,0,1,1,3,0,2,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Filipe Relvas,D,AEK Athens,90,7.6,0,0,0.0842,0.0142219,1,0,0,77,0,0,0,87,0,0,2,4,0,1,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Giannis Gianniotas,F,Aris Thessaloniki,45,6.2,0,0,0,0.00009349,0,0,0,7,0,0,0,15,0,0,0,1,1,1,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Sebastián Palacios,M,Aris Thessaloniki,45,7.2,0,0,0,0.0127507,0,0,0,12,0,0,0,25,2,0,1,7,0,5,0,0,0,0
 Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Manu García,M,Aris Thessaloniki,45,6.3,0,0,0,0.0389778,0,0,0,11,0,0,0,19,0,0,0,1,0,1,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Tino Kadewere,F,Aris Thessaloniki,64,5.8,0,0,0,0.00388879,0,0,0,14,0,0,0,20,0,0,0,0,3,0,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Christian Kouamé,F,Aris Thessaloniki,45,6.4,0,0,0.282,0.00885158,3,0,0,19,0,0,1,35,2,0,0,4,2,1,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Rafa Mir,F,Aris Thessaloniki,26,6.6,0,0,0.0273,0.00308084,1,1,0,10,0,0,0,11,0,0,0,1,0,0,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Uroš Račić,M,Aris Thessaloniki,90,6.8,0,0,0.0356,0.0260874,1,0,0,46,1,0,0,60,2,1,3,7,1,3,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Ricardo Velho,G,Aris Thessaloniki,90,6.8,0,0,0,0.0001578,0,0,0,25,0,0,0,37,0,0,0,0,0,0,0,0,0,5
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Fredrik Jensen,M,Aris Thessaloniki,90,5.7,0,0,0,0.00276868,0,0,0,37,0,0,0,47,0,1,1,1,0,0,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Martin Hongla,M,Aris Thessaloniki,26,5.7,0,0,0.0168,0.00215391,1,1,0,17,0,0,0,22,0,4,0,5,0,0,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Tino Kadewere,F,Aris Thessaloniki,64,5.8,0,0,0,0.00387522,0,0,0,14,0,0,0,20,0,0,0,0,3,0,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Christian Kouamé,F,Aris Thessaloniki,45,6.4,0,0,0.2965,0.00794584,3,0,0,19,0,0,1,35,2,0,0,4,2,1,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Rafa Mir,F,Aris Thessaloniki,26,6.6,0,0,0.0273,0.00322243,1,1,0,10,0,0,0,11,0,0,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Uroš Račić,M,Aris Thessaloniki,90,6.8,0,0,0.0356,0.0265932,1,0,0,47,1,0,0,60,2,1,2,7,1,3,1,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Ricardo Velho,G,Aris Thessaloniki,90,6.8,0,0,0,0.00015528,0,0,0,25,0,0,0,37,0,0,0,0,0,0,0,0,0,5
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Fredrik Jensen,M,Aris Thessaloniki,90,5.7,0,0,0,0.00270125,0,0,0,36,0,0,0,46,0,1,1,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Martin Hongla,M,Aris Thessaloniki,26,5.7,0,0,0.0274,0.00215391,1,1,0,17,0,0,0,22,0,4,0,5,0,0,0,0,0,0
 Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Othmane Boussaid,M,Aris Thessaloniki,8,6.2,0,0,0,0.00014022,0,0,0,3,0,0,0,8,0,0,0,0,1,0,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Omar Richards,D,Aris Thessaloniki,90,5.4,0,0,0,0.00898449,0,0,0,33,0,0,0,52,0,2,2,3,1,1,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Tom Dele-Bashiru,M,Aris Thessaloniki,64,6.7,0,0,0,0.012366,0,0,0,30,1,0,0,40,0,4,1,6,1,0,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Benjamín Garré,M,Aris Thessaloniki,82,6.1,0,0,0.0414,0.00459862,1,0,0,19,0,0,0,37,1,3,0,7,5,2,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Boško Šutalo,D,Aris Thessaloniki,90,5.6,0,0,0,0.00288964,0,0,0,37,0,0,0,59,1,1,3,2,0,0,0,0,0,0
-Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Noah Fadiga,D,Aris Thessaloniki,90,5.7,0,0,0,0.04255,0,0,0,37,1,0,0,53,0,0,1,3,2,1,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Steven Zuber,M,APS Atromitos Athinon,90,6.9,0,0,0.0939,0.0848472,3,0,0,40,0,0,0,56,0,1,0,6,0,5,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Jere Uronen,D,APS Atromitos Athinon,90,7.3,0,0,0,0.150799,0,0,0,48,1,0,0,83,0,3,0,3,1,0,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Sotiris Tsiloulis,M,APS Atromitos Athinon,70,6.6,0,0,0,0.00893342,0,0,0,17,0,0,0,32,1,0,0,5,0,2,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Omar Richards,D,Aris Thessaloniki,90,5.4,0,0,0,0.00741859,0,0,0,32,0,0,0,51,0,2,2,3,1,1,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Tom Dele-Bashiru,M,Aris Thessaloniki,64,6.7,0,0,0,0.0122727,0,0,0,30,1,0,0,40,0,4,1,6,1,0,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Benjamín Garré,M,Aris Thessaloniki,82,6.1,0,0,0.0414,0.00526979,1,0,0,21,0,0,0,38,1,3,0,7,5,2,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Boško Šutalo,D,Aris Thessaloniki,90,5.6,0,0,0,0.00301866,0,0,0,39,0,0,0,61,1,1,3,2,0,0,0,0,0,0
+Stoiximan Super League,26_27,AEK Athens vs Aris Thessaloniki,05/09/2026,Noah Fadiga,D,Aris Thessaloniki,90,5.7,0,0,0,0.0336162,0,0,0,37,1,0,0,53,0,0,1,3,2,1,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Steven Zuber,M,APS Atromitos Athinon,90,6.9,0,0,0.0906,0.0848471,3,0,0,40,0,0,0,56,0,1,0,6,0,5,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Jere Uronen,D,APS Atromitos Athinon,90,7.3,0,0,0,0.154502,0,0,0,48,1,0,0,83,0,3,0,3,1,0,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Sotiris Tsiloulis,M,APS Atromitos Athinon,69,6.6,0,0,0,0.00893342,0,0,0,17,0,0,0,32,1,0,0,5,0,2,0,0,0,0
 Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Lefteris Choutesiotis,G,APS Atromitos Athinon,90,6.5,0,0,0,0.00011201,0,0,0,31,0,0,0,41,0,0,0,0,0,0,0,0,0,3
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Serginho,M,APS Atromitos Athinon,20,6.5,0,0,0,0.158089,0,0,0,11,1,0,0,15,1,0,0,1,0,0,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Dimitrios Stavropoulos,D,APS Atromitos Athinon,90,6.7,0,0,0.0184,0.0208532,1,0,0,55,0,0,0,65,0,0,0,2,0,1,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Lefteris Lyratzis,D,APS Atromitos Athinon,90,7,0,0,0.0336,0.0932032,1,1,0,34,1,0,0,66,0,3,1,5,2,2,1,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Cristopher Núñez,M,APS Atromitos Athinon,59,6.2,0,1,0.0284,0.0559814,1,0,0,25,2,0,0,33,0,1,0,2,2,1,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Georgios Tzovaras,F,APS Atromitos Athinon,60,6.7,0,0,0.0113,0.057702,1,0,0,14,1,0,0,30,0,3,1,4,2,0,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Samuel Moutoussamy,M,APS Atromitos Athinon,90,8,1,0,0.0205,0.0381645,1,1,0,51,1,0,0,65,1,2,0,6,1,2,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Theocharis Tsingaras,M,APS Atromitos Athinon,20,6.7,0,0,0,0.0214109,0,0,0,20,0,0,0,21,0,0,0,0,1,0,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Gerasimos Mitoglou,D,APS Atromitos Athinon,90,6.1,0,0,0.0208,0.00895437,1,0,0,56,0,0,0,62,0,0,0,2,4,0,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Athanasios Karamanis,M,APS Atromitos Athinon,70,6.3,0,0,0,0.0150286,0,0,0,35,0,0,0,46,1,0,0,2,2,1,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Stavros Pnevmonidis,M,APS Atromitos Athinon,31,6.5,0,0,0.0136,0.130023,1,0,0,10,0,0,0,22,0,1,0,1,2,0,1,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Serginho,M,APS Atromitos Athinon,21,6.5,0,0,0,0.158089,0,0,0,11,1,0,0,14,1,0,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Dimitrios Stavropoulos,D,APS Atromitos Athinon,90,6.7,0,0,0.0217,0.0208533,1,0,0,55,0,0,0,66,0,0,0,2,0,1,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Lefteris Lyratzis,D,APS Atromitos Athinon,90,7,0,0,0.0244,0.0971001,1,1,0,34,1,0,0,68,0,3,1,5,2,2,1,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Cristopher Núñez,M,APS Atromitos Athinon,59,6.2,0,0,0.0258,0.055975,1,0,0,25,1,0,0,32,0,1,0,2,2,1,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Georgios Tzovaras,F,APS Atromitos Athinon,60,6.7,0,0,0.015,0.0586001,1,0,0,14,1,0,0,30,0,3,1,4,2,0,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Samuel Moutoussamy,M,APS Atromitos Athinon,90,8,1,0,0.0293,0.0380914,1,1,0,49,1,0,0,65,1,2,0,6,1,2,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Theocharis Tsingaras,M,APS Atromitos Athinon,21,6.7,0,0,0,0.0209711,0,0,0,20,0,0,0,21,0,0,0,0,1,0,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Gerasimos Mitoglou,D,APS Atromitos Athinon,90,6.1,0,0,0.0236,0.00893383,1,0,0,55,0,0,0,62,0,0,0,2,4,0,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Athanasios Karamanis,M,APS Atromitos Athinon,69,6.3,0,0,0,0.0143005,0,0,0,35,0,0,0,46,1,0,0,2,2,1,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Stavros Pnevmonidis,M,APS Atromitos Athinon,31,6.5,0,0,0.023,0.130969,1,0,0,10,0,0,0,21,0,0,0,0,2,0,1,0,0,0
 Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Panagiotis Tsantilas,F,APS Atromitos Athinon,30,6.7,0,0,0,0.00152573,0,0,0,4,0,0,0,6,2,0,0,2,0,0,0,0,0,0
 Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Giannis Gelios,G,PS Kalamata,90,6.1,0,0,0,0.00159177,0,0,0,31,0,0,0,35,0,0,0,0,0,0,0,0,0,1
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Julián Bonetto,M,PS Kalamata,45,6.7,0,0,0.0351,0.0111004,1,1,0,9,0,0,0,21,1,1,0,4,0,1,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Ahmad Mendes Moreira,M,PS Kalamata,90,6.4,0,0,0.0459,0.102864,2,1,0,21,2,0,0,45,2,1,0,7,4,2,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Stefanos Stroungis,D,PS Kalamata,90,7.6,0,0,0.0187,0.00930635,1,0,0,49,1,0,0,75,0,3,1,7,1,2,1,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Julio Alonso,D,PS Kalamata,90,7,0,0,0,0.123462,0,0,0,27,2,0,0,53,0,2,1,4,1,2,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Marcelino Carreazo,M,PS Kalamata,45,6.6,0,0,0.0413,0.00414946,1,1,0,12,0,0,0,17,0,0,0,0,0,0,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Juan Cataldi,M,PS Kalamata,73,5.9,0,0,0.0194,0.0400171,1,0,0,40,1,0,0,50,0,1,0,2,2,1,2,1,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Jovanny Bolívar,F,PS Kalamata,89,6.9,0,0,0.1327,0.144579,3,0,0,15,0,0,0,25,1,0,0,6,2,3,1,0,1,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Rodrigues,D,PS Kalamata,90,6.9,0,0,0,0.0125898,0,0,0,46,1,0,0,64,1,2,3,6,1,0,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Julián Bonetto,M,PS Kalamata,45,6.7,0,0,0.0592,0.0111004,1,1,0,9,0,0,0,21,1,1,0,4,0,1,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Ahmad Mendes Moreira,M,PS Kalamata,90,6.4,0,0,0.0523,0.126877,2,1,0,21,2,0,0,46,2,1,0,7,4,2,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Stefanos Stroungis,D,PS Kalamata,90,7.6,0,0,0.0375,0.00928619,1,0,0,47,1,0,0,75,0,3,1,7,1,2,1,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Julio Alonso,D,PS Kalamata,90,7,0,0,0,0.117108,0,0,0,26,2,0,0,53,0,2,1,4,1,2,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Marcelino Carreazo,M,PS Kalamata,45,6.6,0,0,0.042,0.0043166,1,1,0,13,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Juan Cataldi,M,PS Kalamata,73,5.9,0,0,0.0256,0.0400172,1,0,0,39,1,0,0,51,0,1,0,2,2,1,2,1,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Jovanny Bolívar,F,PS Kalamata,89,6.9,0,0,0.12,0.0212713,3,0,0,15,0,0,0,25,1,0,0,6,2,3,1,0,1,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Rodrigues,D,PS Kalamata,90,6.9,0,0,0,0.0121858,0,0,0,44,1,0,0,63,1,2,3,5,1,0,0,0,0,0
 Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Uroš Ignjatović,D,PS Kalamata,10,6.7,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Petros Kaloutsikidis,D,PS Kalamata,90,6.2,0,0,0.0619,0.03351,1,0,0,21,1,0,0,49,0,0,1,0,0,0,0,0,1,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Gonzalo Piñeiro,M,PS Kalamata,79,7,0,0,0,0.0475182,0,0,0,44,0,0,0,62,0,1,3,5,1,2,0,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Junior Bakayoko,D,PS Kalamata,11,6.7,0,0,0.0223,0.00001373,1,0,0,2,0,0,0,7,0,0,1,3,0,2,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Petros Kaloutsikidis,D,PS Kalamata,90,6.2,0,0,0.021,0.0327699,1,0,0,22,1,0,0,48,0,0,0,0,0,0,0,0,1,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Gonzalo Piñeiro,M,PS Kalamata,79,7,0,0,0,0.0469451,0,0,0,43,0,0,0,65,0,1,3,5,1,2,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Junior Bakayoko,D,PS Kalamata,11,6.7,0,0,0.0305,0.00001373,1,0,0,2,0,0,0,7,0,0,1,3,0,2,0,0,0,0
 Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Djibril Diarra,M,PS Kalamata,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0
-Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Erik Hamza,F,PS Kalamata,80,6.3,0,0,0.0872,0.179748,1,0,0,22,4,0,0,44,1,1,3,4,1,2,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Taxiarchis Fountas,F,OFI Crete,83,6,0,0,0.1656,0.0330617,2,1,0,16,0,0,0,29,1,0,0,1,1,0,1,0,1,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Andreas Bouchalakis,M,OFI Crete,90,8.3,1,0,0.105,0.0115154,1,1,0,59,0,0,0,74,1,1,2,6,3,2,1,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Lorenzo Dickmann,M,OFI Crete,66,6.7,0,0,0,0.0238857,0,0,0,16,0,0,0,33,0,3,2,4,0,1,0,0,1,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Kenan Kodro,F,OFI Crete,66,7.1,0,0,0.0099,0.437741,1,0,0,12,1,0,0,14,0,0,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,APS Atromitos Athinon vs PS Kalamata,06/09/2026,Erik Hamza,F,PS Kalamata,80,6.3,0,0,0.0854,0.184106,1,0,0,23,4,0,0,44,2,1,1,5,1,2,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Taxiarchis Fountas,F,OFI Crete,83,6,0,0,0.1656,0.0760322,2,1,0,16,0,0,0,29,1,0,0,1,1,0,1,0,1,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Andreas Bouchalakis,M,OFI Crete,90,8.3,1,0,0.1149,0.0115871,1,1,0,59,0,0,0,73,1,1,1,6,3,2,1,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Lorenzo Dickmann,M,OFI Crete,66,6.7,0,0,0,0.0309028,0,0,0,16,0,0,0,33,0,3,2,4,0,1,0,0,1,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Kenan Kodro,F,OFI Crete,66,7.1,0,0,0.1347,0.435603,1,0,0,12,1,0,0,15,0,0,0,1,0,0,0,0,0,0
 Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Achilleas Poungouras,D,OFI Crete,45,7.2,0,0,0,0.00364028,0,0,0,31,0,0,0,35,0,1,0,2,0,1,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Dimitrios Nikolaou,D,OFI Crete,90,7.4,0,0,0,0.00342796,0,0,0,58,0,0,0,73,0,2,1,4,1,1,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Athanasios Androutsos,M,OFI Crete,66,8,1,0,0.3908,0.00428172,1,1,0,19,0,0,0,28,0,2,0,5,0,2,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Aitor Cantalapiedra,M,OFI Crete,24,6.3,0,0,0,0.00019775,0,0,0,13,0,0,0,19,0,0,0,1,0,0,0,0,1,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Krešimir Krizmanić,D,OFI Crete,45,6.8,0,0,0,0.00040963,0,0,0,28,0,0,0,31,0,1,0,3,1,1,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Nikolaos Christogeorgos,G,OFI Crete,90,8.1,0,0,0,0.00076214,0,0,0,44,0,0,0,56,0,0,0,1,0,1,0,0,0,3
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Thiago Nuss,M,OFI Crete,90,7,0,0,0,0.0798514,0,0,0,20,1,0,0,43,0,2,3,7,4,2,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Nikolaos Athanasiou,M,OFI Crete,90,7.2,0,0,0,0.224745,0,0,0,46,0,0,0,73,1,3,3,9,1,4,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Georgios Kanellopoulos,M,OFI Crete,24,6.9,0,0,0,0.00448198,0,0,0,16,0,0,0,23,0,1,1,3,1,2,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Giannis Apostolakis,M,OFI Crete,11,6.6,0,0,0,0.00052337,0,0,0,5,0,0,0,9,1,0,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Dimitrios Nikolaou,D,OFI Crete,90,7.4,0,0,0,0.00342896,0,0,0,58,0,0,0,73,0,2,1,4,1,1,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Athanasios Androutsos,M,OFI Crete,66,8,1,0,0.4602,0.00428172,1,1,0,19,0,0,0,28,0,2,0,5,0,2,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Aitor Cantalapiedra,M,OFI Crete,24,6.3,0,0,0,0.00031773,0,0,0,14,0,0,0,19,0,0,0,1,0,0,0,0,1,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Krešimir Krizmanić,D,OFI Crete,45,6.8,0,0,0,0.00040963,0,0,0,28,0,0,0,32,0,1,0,3,1,1,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Nikolaos Christogeorgos,G,OFI Crete,90,8.1,0,0,0,0.00076832,0,0,0,44,0,0,0,57,0,0,0,1,0,1,0,0,0,3
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Thiago Nuss,M,OFI Crete,90,7,0,0,0,0.0798514,0,0,0,20,1,0,0,43,1,1,3,7,4,2,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Nikolaos Athanasiou,M,OFI Crete,90,7.2,0,0,0,0.224579,0,0,0,47,0,0,0,74,1,3,3,9,1,4,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Georgios Kanellopoulos,M,OFI Crete,24,6.9,0,0,0,0.00448198,0,0,0,16,0,0,0,24,0,1,1,3,1,2,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Giannis Apostolakis,M,OFI Crete,11,6.6,0,0,0,0.00052337,0,0,0,5,0,0,0,11,1,0,1,1,0,0,0,0,0,0
 Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Borja Gonzalez,D,OFI Crete,24,6.5,0,0,0,0.00211415,0,0,0,12,0,0,0,16,0,0,0,0,0,0,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Konstantinos Kostoulas,D,OFI Crete,90,7.2,0,0,0,0.0801223,0,0,0,51,0,0,0,62,1,0,2,3,0,0,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Ángelo Sagal,F,AE Kifisia,62,6.4,0,0,0.3861,0.00101273,4,1,0,5,0,0,0,20,0,0,0,3,2,3,0,0,1,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Hugo Sousa,D,AE Kifisia,90,6.5,0,0,0.1979,0.0044929,3,0,0,50,0,0,0,61,0,1,0,6,2,2,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Jorge Pombo,M,AE Kifisia,90,7.6,0,0,0.4375,0.281167,5,2,2,39,3,0,1,64,6,1,1,7,1,0,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Jordi Mboula,M,AE Kifisia,28,6.5,0,0,0,0.0512455,0,0,0,10,1,0,0,16,0,0,0,0,2,0,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Benny,M,AE Kifisia,45,6.8,0,0,0.0278,0.0598273,2,0,0,30,1,0,0,41,1,1,0,3,3,1,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Leroy Abanda,D,AE Kifisia,90,6.3,0,0,0,0.11707,0,0,0,48,3,1,0,73,0,0,0,0,0,0,0,0,1,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Moisés Ramírez,G,AE Kifisia,90,5.9,0,0,0,0.00086032,0,0,0,33,0,0,0,40,0,0,0,0,1,0,1,0,0,1
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Konstantinos Apostolakis,D,AE Kifisia,45,7.2,0,0,0,0.00784531,0,0,0,16,0,0,0,34,0,4,0,6,1,2,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Konstantinos Kostoulas,D,OFI Crete,90,7.2,0,0,0,0.080125,0,0,0,51,0,0,0,62,1,0,2,3,0,0,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Ángelo Sagal,F,AE Kifisia,62,6.4,0,0,0.2146,0.00101273,4,1,0,5,0,0,0,21,0,0,0,3,2,3,0,0,1,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Hugo Sousa,D,AE Kifisia,90,6.5,0,0,0.1164,0.00439065,3,0,0,51,0,0,0,62,0,0,0,5,2,2,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Jorge Pombo,M,AE Kifisia,90,7.6,0,0,0.7161,0.157646,5,2,2,39,2,0,1,64,6,1,2,7,1,0,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Jordi Mboula,M,AE Kifisia,28,6.5,0,0,0,0.0521178,0,0,0,10,1,0,0,16,0,0,0,0,2,0,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Benny,M,AE Kifisia,45,6.8,0,0,0.0403,0.0599657,2,0,0,30,1,0,0,41,1,1,0,3,3,1,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Leroy Abanda,D,AE Kifisia,90,6.3,0,0,0,0.123572,0,0,0,48,3,1,0,73,0,0,0,0,0,0,0,0,1,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Moisés Ramírez,G,AE Kifisia,90,5.9,0,0,0,0.0008605,0,0,0,33,0,0,0,40,0,0,0,0,1,0,1,0,0,1
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Konstantinos Apostolakis,D,AE Kifisia,45,7.2,0,0,0,0.00792253,0,0,0,16,0,0,0,34,0,4,1,6,1,2,0,0,0,0
 Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Imam Jagne,M,AE Kifisia,45,6.6,0,0,0,0.00518716,0,0,0,14,1,0,0,20,0,0,2,1,0,1,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Apostolos Christopoulos,F,AE Kifisia,13,6.8,0,0,0.0171,0.00468474,1,0,0,4,0,0,0,7,1,1,0,3,0,0,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Konstantinos Roukounakis,M,AE Kifisia,90,6.5,0,0,0,0.0428868,0,0,0,54,1,0,0,69,1,0,2,4,1,1,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Jeremy Antonisse,M,AE Kifisia,77,6,0,0,0.0288,0.0499817,1,0,0,33,1,0,0,45,0,0,0,1,1,0,0,0,1,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Tiago Manso,D,AE Kifisia,45,6,0,0,0,0.0507891,0,0,0,17,0,0,0,28,0,0,3,1,0,0,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Gerson Sousa,M,AE Kifisia,62,6,0,0,0,0.147881,0,0,0,15,3,0,0,24,0,0,0,0,1,0,1,0,1,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Dimitris Theodoridis,F,AE Kifisia,28,6.5,0,0,0,0.0106324,0,0,0,4,0,0,0,8,0,1,0,2,1,1,0,0,0,0
-Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Clément Jolibois,D,AE Kifisia,90,6.4,0,0,0,0.0104893,0,0,0,51,0,0,0,61,0,0,4,2,2,1,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Ognjen Ožegović,F,APO Levadiakos,26,6.4,0,0,0,0.00122133,0,0,0,4,0,0,0,7,0,0,0,1,2,1,0,0,1,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Adrian Șut,M,APO Levadiakos,75,7,0,0,0.0442,0.0161311,1,0,0,52,0,0,0,57,0,2,0,3,0,0,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Giannis Kosti,M,APO Levadiakos,90,6.5,0,0,0.2633,0.0683609,4,0,0,49,2,0,0,80,1,3,1,7,1,2,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Juan Bauza,M,APO Levadiakos,25,6.4,0,0,0.0168,0.0210714,1,0,0,8,0,0,0,14,0,1,0,2,3,1,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Dimitrios Emmanouilidis,F,APO Levadiakos,64,6.8,0,0,0.0522,0.0211299,1,0,0,19,2,0,0,31,1,1,0,7,0,3,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Georgios Nikas,M,APO Levadiakos,82,7.2,0,0,0,0.0161511,0,0,0,33,0,0,0,49,2,1,0,13,0,2,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Marios Vichos,D,APO Levadiakos,90,6.8,0,0,0.0541,0.031665,1,0,0,32,0,0,0,64,0,4,0,8,0,3,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Panagiotis Liagas,D,APO Levadiakos,90,6.5,0,0,0.0071,0.0091977,1,0,1,72,0,0,0,84,0,1,0,4,0,0,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Agustín Urzi,F,APO Levadiakos,90,7.1,0,0,0.1312,0.0773773,3,0,0,43,2,0,0,59,0,0,1,6,1,4,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Lucas Anacker,G,APO Levadiakos,90,6.7,0,0,0,0.0102276,0,0,0,23,0,0,0,27,0,0,0,0,0,0,0,0,0,1
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Gregorio Rodriguez,M,APO Levadiakos,15,6.7,0,0,0,0.0052314,0,0,0,9,0,0,0,14,1,1,0,3,0,0,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Alexandru Grigoras Pantea,D,APO Levadiakos,82,6.7,0,0,0.0366,0.0933497,2,0,0,51,4,0,0,78,0,4,0,6,3,1,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Giannis Tsivelekidis,D,APO Levadiakos,90,6.9,0,0,0,0.0114706,0,0,0,85,1,0,0,100,0,3,1,6,0,0,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Moses David Cobnan,F,APO Levadiakos,65,6.4,0,0,0.0653,0.00867677,2,0,0,8,0,0,0,16,0,0,0,1,0,0,0,0,1,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Konstantinos Goumas,M,APO Levadiakos,8,6.7,0,0,0,0.0574185,0,0,0,11,0,0,0,14,1,0,0,2,0,0,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Mahamadou Balde,F,APO Levadiakos,8,6.6,0,0,0.0236,0.0268801,1,0,0,8,0,0,0,17,0,1,0,2,1,1,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Charis Mavrias,D,GFS Panetolikos,90,6.6,0,0,0,0.00687833,0,0,0,30,0,0,0,53,0,1,2,2,3,1,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Apostolos Christopoulos,F,AE Kifisia,13,6.8,0,0,0.0254,0.00468474,1,0,0,4,0,0,0,7,1,1,0,3,0,0,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Konstantinos Roukounakis,M,AE Kifisia,90,6.5,0,0,0,0.0429129,0,0,0,54,1,0,0,70,1,0,2,4,1,1,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Jeremy Antonisse,M,AE Kifisia,77,6,0,0,0.0237,0.0499649,1,0,0,33,1,0,0,45,0,0,0,1,1,0,0,0,1,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Tiago Manso,D,AE Kifisia,45,6,0,0,0,0.0532258,0,0,0,17,0,0,0,28,0,0,3,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Gerson Sousa,M,AE Kifisia,62,6,0,0,0,0.141714,0,0,0,15,3,0,0,23,0,0,0,0,1,0,1,0,1,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Dimitris Theodoridis,F,AE Kifisia,28,6.5,0,0,0,0.0104819,0,0,0,4,0,0,0,7,0,0,0,1,1,1,0,0,0,0
+Stoiximan Super League,26_27,OFI Crete vs AE Kifisia,06/09/2026,Clément Jolibois,D,AE Kifisia,90,6.4,0,0,0,0.0103591,0,0,0,51,0,0,0,62,0,0,4,2,2,1,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Ognjen Ožegović,F,APO Levadiakos,26,6.4,0,0,0,0.00122617,0,0,0,4,0,0,0,7,0,0,0,1,2,1,0,0,1,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Adrian Șut,M,APO Levadiakos,75,7,0,0,0.0418,0.0146247,1,0,0,53,0,0,0,59,0,2,0,3,0,0,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Giannis Kosti,M,APO Levadiakos,90,6.5,0,0,0.2733,0.0486975,4,0,0,49,2,0,0,79,1,3,1,7,1,2,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Juan Bauza,M,APO Levadiakos,25,6.4,0,0,0.037,0.0211372,1,0,0,8,0,0,0,14,0,1,0,2,3,1,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Dimitrios Emmanouilidis,F,APO Levadiakos,64,6.8,0,0,0.0465,0.0115226,1,0,0,20,2,0,0,32,1,1,0,7,0,3,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Georgios Nikas,M,APO Levadiakos,82,7.2,0,0,0,0.0142921,0,0,0,33,0,0,0,51,2,1,1,14,0,2,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Marios Vichos,D,APO Levadiakos,90,6.8,0,0,0.0536,0.0317861,1,0,0,29,0,0,0,64,0,4,0,8,0,3,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Panagiotis Liagas,D,APO Levadiakos,90,6.5,0,0,0.0071,0.0092175,1,0,1,73,0,0,0,86,0,2,0,5,0,0,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Agustín Urzi,F,APO Levadiakos,90,7.1,0,0,0.2024,0.0781666,3,0,0,42,2,0,0,58,0,0,0,6,1,4,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Lucas Anacker,G,APO Levadiakos,90,6.7,0,0,0,0.010189,0,0,0,23,0,0,0,27,0,0,0,0,0,0,0,0,0,1
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Gregorio Rodriguez,M,APO Levadiakos,15,6.7,0,0,0,0.00508455,0,0,0,9,0,0,0,14,1,1,0,3,0,0,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Alexandru Grigoras Pantea,D,APO Levadiakos,82,6.7,0,0,0.0353,0.116817,2,0,0,50,4,0,0,78,0,4,0,6,3,1,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Giannis Tsivelekidis,D,APO Levadiakos,90,6.9,0,0,0,0.0114217,0,0,0,85,1,0,0,99,0,3,1,6,0,0,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Moses David Cobnan,F,APO Levadiakos,65,6.4,0,0,0.0707,0.00867674,2,0,0,8,0,0,0,17,0,1,0,2,0,0,0,0,1,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Konstantinos Goumas,M,APO Levadiakos,8,6.7,0,0,0,0.0497736,0,0,0,11,0,0,0,14,1,0,0,2,0,0,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Mahamadou Balde,F,APO Levadiakos,8,6.6,0,0,0.0213,0.0268883,1,0,0,8,0,0,0,17,0,1,0,2,1,1,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Charis Mavrias,D,GFS Panetolikos,90,6.6,0,0,0,0.00558675,0,0,0,29,0,0,0,53,0,1,2,2,3,1,0,0,0,0
 Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Marvelous Nakamba,M,GFS Panetolikos,29,6.9,0,0,0,0.00056515,0,0,0,7,0,0,0,16,0,2,0,3,0,1,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Moussa Djenepo,F,GFS Panetolikos,62,7.1,0,0,0,0.0441601,0,0,0,11,2,0,0,29,2,1,0,5,3,2,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Amine Bassi,M,GFS Panetolikos,78,6.2,0,0,0.0208,0.0156714,1,0,1,24,0,0,0,37,1,0,2,3,1,1,0,0,1,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Novica Eraković,M,GFS Panetolikos,61,7.3,0,0,0.0299,0.017505,1,1,0,21,0,0,0,45,1,1,2,6,0,0,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Kosta Aleksić,F,GFS Panetolikos,12,6.3,0,0,0.098,0.00000224,1,0,1,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Nikola Stajić,D,GFS Panetolikos,90,7,0,0,0.0317,0.00329201,1,0,0,21,0,0,0,36,0,1,0,4,1,0,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Gustav Granath,D,GFS Panetolikos,90,7.4,0,0,0,0.0317061,0,0,0,28,0,0,0,38,1,0,0,5,0,1,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Youssouph Badji,F,GFS Panetolikos,90,6.4,0,0,0.0594,0.00653156,2,0,0,21,0,0,0,38,0,0,0,14,2,0,1,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Giannis Satsias,M,GFS Panetolikos,89,6.5,0,0,0,0.0154981,0,0,0,23,1,0,0,33,0,4,0,5,4,0,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Yevhenii Kucherenko,G,GFS Panetolikos,90,7,0,0,0,0.00378919,0,0,0,34,0,0,0,41,0,0,0,1,0,0,1,0,0,1
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Diego Esteban,M,GFS Panetolikos,78,6.7,0,1,0.0351,0.101186,1,0,0,18,3,0,0,32,0,1,2,1,0,0,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Apostolos Apostolopoulos,D,GFS Panetolikos,90,7.7,0,1,0,0.0425019,0,0,0,12,1,1,0,47,0,1,1,6,1,2,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Kwadwo Opoku,F,GFS Panetolikos,28,8.7,2,0,1,0.00182962,2,2,0,6,0,0,0,15,0,0,0,1,2,1,1,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Moussa Djenepo,F,GFS Panetolikos,62,7.1,0,0,0,0.081105,0,0,0,10,1,0,0,30,3,1,0,6,3,2,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Amine Bassi,M,GFS Panetolikos,78,6.2,0,0,0.0466,0.0163127,1,0,1,22,0,0,1,34,1,0,2,3,1,1,0,0,1,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Novica Eraković,M,GFS Panetolikos,61,7.3,0,0,0.0259,0.0160996,1,1,0,21,0,0,0,44,1,1,2,6,0,0,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Kosta Aleksić,F,GFS Panetolikos,12,6.3,0,0,0.0884,0.00000224,1,0,1,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Nikola Stajić,D,GFS Panetolikos,90,7,0,0,0.0313,0.00334982,1,0,0,22,0,0,0,39,0,1,1,4,1,0,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Gustav Granath,D,GFS Panetolikos,90,7.4,0,0,0,0.00255676,0,0,0,25,0,0,0,38,1,0,0,5,0,1,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Youssouph Badji,F,GFS Panetolikos,90,6.4,0,0,0.0594,0.006296,2,0,0,22,0,0,0,39,0,0,0,14,2,0,1,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Giannis Satsias,M,GFS Panetolikos,89,6.5,0,0,0,0.01535,0,0,0,24,1,0,0,38,0,4,0,5,4,0,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Yevhenii Kucherenko,G,GFS Panetolikos,90,7,0,0,0,0.00430243,0,0,0,35,0,0,0,42,0,0,0,1,0,0,1,0,0,1
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Diego Esteban,M,GFS Panetolikos,78,6.7,0,1,0.0407,0.103981,1,0,0,19,4,0,0,33,0,1,2,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Apostolos Apostolopoulos,D,GFS Panetolikos,90,7.7,0,1,0,0.0304052,0,0,0,13,1,1,0,48,0,1,1,6,1,2,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Kwadwo Opoku,F,GFS Panetolikos,28,8.7,2,0,0.9799,0.00182962,2,2,0,6,0,0,0,15,0,0,0,1,2,1,1,0,0,0
 Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Athanasios Prodromitis,D,GFS Panetolikos,1,0,0,0,0,0,0,0,0,1,0,0,0,3,0,1,0,1,0,0,0,0,0,0
-Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Adriano Bregou,M,GFS Panetolikos,12,6.3,0,0,0,0.04135,0,0,0,3,1,0,0,6,0,0,0,0,1,0,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Stefan de Vrij,D,Panathinaikos FC,90,7.3,0,0,0,0.121255,0,0,0,74,1,0,0,83,1,2,2,3,0,0,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Davide Calabria,D,Panathinaikos FC,90,6.4,0,0,0.0177,0.0556989,1,0,0,62,0,0,0,81,0,1,0,1,3,0,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Georgios Kyriakopoulos,D,Panathinaikos FC,90,6.8,0,1,0.0622,0.369512,2,0,0,55,2,1,0,78,0,0,1,0,1,0,1,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Cyriel Dessers,F,Panathinaikos FC,8,5.8,0,0,0.1408,0.00031179,2,1,0,1,0,0,1,3,0,0,0,0,1,0,0,1,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Iñaki Peña,G,Panathinaikos FC,90,6.7,0,0,0,0.0023492,0,0,0,21,0,0,0,28,0,0,0,2,0,1,0,0,0,1
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Rick Van Drongelen,D,Panathinaikos FC,90,7.7,0,0,0.0324,0.0561132,2,0,0,79,0,0,0,89,0,2,0,6,2,1,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Levi García,F,Panathinaikos FC,89,6.3,0,0,0.236,0.0607072,3,2,0,27,0,0,0,39,3,0,0,4,3,0,0,0,1,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Imrân Louza,M,Panathinaikos FC,28,7.4,0,0,0.0671,0.21151,1,0,0,42,5,1,0,51,0,0,2,0,0,0,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Kings Kangwa,M,Panathinaikos FC,62,7.6,0,1,0.3553,0.423213,3,1,0,42,1,1,1,57,0,2,1,2,1,0,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Azzedine Ounahi,M,Panathinaikos FC,23,7.2,0,0,0.1456,0.0303211,2,1,0,28,0,0,0,38,4,0,0,8,0,3,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Elmin Rastoder,F,Panathinaikos FC,8,6.6,0,0,0.0434,0.00024631,1,1,0,2,0,0,0,7,0,1,1,2,1,0,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Etienne Camara,M,Panathinaikos FC,89,6.9,0,0,0,0.0365767,0,0,0,60,2,0,0,73,0,3,1,4,3,0,1,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Vicente Taborda,F,Panathinaikos FC,61,7.6,1,0,0.9657,0.246223,3,2,0,37,2,0,1,57,0,3,0,5,2,1,0,0,1,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Andreas Tetteh,F,Panathinaikos FC,67,9.1,2,0,0.6396,0.154337,4,2,0,11,1,1,0,28,3,0,0,5,0,1,1,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Santino Andino,M,Panathinaikos FC,90,6.7,0,0,0.0182,0.127698,1,1,0,38,1,0,0,58,0,0,2,3,2,2,0,0,1,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Panagiotis Biniaris,M,Panathinaikos FC,8,6.4,0,0,0,0.0002499,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Taison,M,PAOK,15,6.5,0,0,0,0.00955939,0,0,0,11,0,0,0,16,0,0,0,1,0,1,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Dimitrios Pelkas,M,PAOK,18,6.6,0,0,0,0.0271365,0,0,0,3,0,0,0,5,0,0,0,1,0,1,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Jiří Pavlenka,G,PAOK,90,8.1,0,0,0,0.00180072,0,0,0,23,0,0,0,37,0,0,0,0,0,0,0,0,0,8
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Andrija Živković,M,PAOK,45,6.6,0,0,0,0.151551,0,0,0,8,1,1,0,12,0,2,1,2,1,0,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Baptiste Santamaria,M,PAOK,58,6.2,0,0,0,0.0130698,0,0,0,18,0,0,0,30,0,0,2,1,0,0,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Dimitrios Giannoulis,M,PAOK,90,6.4,0,0,0,0.10712,0,0,0,32,1,0,0,51,0,0,0,3,2,3,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Jonjoe Kenny,D,PAOK,90,6.5,0,1,0,0.293699,0,0,0,23,1,1,0,46,1,3,2,4,3,0,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Aritz Elustondo,D,PAOK,15,3.2,0,0,0,0.00001557,0,0,0,3,0,0,0,5,0,1,0,2,1,1,0,1,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Mady Camara,M,PAOK,32,6.3,0,0,0,0.00191419,0,0,0,9,0,0,0,12,0,1,0,1,1,0,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Cherif Ndiaye,F,PAOK,90,6.5,0,0,0.1331,0.0161003,1,1,0,12,0,0,0,32,3,0,0,8,1,3,0,0,1,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Giannis Michailidis,D,PAOK,90,7.4,0,0,0,0.00358296,0,0,0,28,0,0,0,50,0,5,0,9,0,2,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Taha Abdi Ali,M,PAOK,75,6.4,0,0,0,0.090587,0,0,0,10,1,0,0,20,2,0,0,3,0,1,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Christos Zafeiris,M,PAOK,75,6.8,0,0,0,0.0912159,0,0,0,19,0,0,0,37,1,2,2,7,1,4,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Ognjen Ugrešić,M,PAOK,15,7.4,1,0,0.7206,0.0538514,1,1,0,9,0,0,0,16,2,0,0,2,0,0,0,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Dimitrios Bataoulas,D,PAOK,72,6.4,0,0,0.1447,0.0321334,2,0,0,16,0,0,1,30,0,0,2,4,1,2,1,0,0,0
-Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Dimitrios Chatsidis,M,PAOK,45,6.6,0,0,0.0201,0.007245,1,0,0,7,0,0,0,15,0,1,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,APO Levadiakos vs GFS Panetolikos,06/09/2026,Adriano Bregou,M,GFS Panetolikos,12,6.3,0,0,0,0.04135,0,0,0,3,1,0,0,6,0,0,0,0,1,0,1,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Stefan de Vrij,D,Panathinaikos FC,90,7.3,0,0,0,0.125651,0,0,0,76,1,0,0,85,1,2,2,3,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Davide Calabria,D,Panathinaikos FC,90,6.4,0,0,0.0177,0.0569146,1,0,0,64,0,0,0,82,0,1,0,1,3,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Georgios Kyriakopoulos,D,Panathinaikos FC,90,6.8,0,1,0.0622,0.358885,2,0,0,56,2,1,0,79,0,0,1,0,1,0,1,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Cyriel Dessers,F,Panathinaikos FC,8,5.8,0,0,0.1876,0.00032668,2,1,0,1,0,0,1,3,0,0,0,0,1,0,0,1,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Iñaki Peña,G,Panathinaikos FC,90,6.7,0,0,0,0.00220953,0,0,0,23,0,0,0,30,0,0,0,2,0,1,0,0,0,1
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Rick Van Drongelen,D,Panathinaikos FC,90,7.7,0,0,0.0641,0.0738088,2,0,0,81,0,0,0,91,0,2,0,6,2,1,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Levi García,F,Panathinaikos FC,89,6.3,0,0,0.3004,0.058903,3,2,0,27,0,0,0,41,3,0,0,4,3,0,0,0,1,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Imrân Louza,M,Panathinaikos FC,28,7.4,0,0,0.0671,0.287115,1,0,0,42,5,1,0,51,0,0,2,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Kings Kangwa,M,Panathinaikos FC,62,7.6,0,1,0.3683,0.416028,3,1,0,44,1,1,1,59,0,2,1,2,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Azzedine Ounahi,M,Panathinaikos FC,23,7.2,0,0,0.1762,0.036252,2,1,0,28,0,0,0,38,4,0,0,8,0,3,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Elmin Rastoder,F,Panathinaikos FC,8,6.6,0,0,0.0697,0.00024631,1,1,0,2,0,0,0,7,0,1,1,2,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Etienne Camara,M,Panathinaikos FC,89,6.9,0,0,0,0.0400686,0,0,0,62,2,0,0,74,0,3,1,4,3,0,1,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Vicente Taborda,F,Panathinaikos FC,61,7.6,1,0,0.9606,0.259068,3,2,0,39,2,0,1,59,0,2,0,4,2,1,0,0,1,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Andreas Tetteh,F,Panathinaikos FC,67,9.1,2,0,0.4609,0.145527,4,2,0,11,1,1,0,28,3,0,0,5,0,1,1,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Santino Andino,M,Panathinaikos FC,90,6.7,0,0,0.0186,0.110593,1,1,0,38,1,0,0,59,0,0,2,3,2,2,0,0,1,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Panagiotis Biniaris,M,Panathinaikos FC,8,6.4,0,0,0,0.00025775,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Taison,M,PAOK,15,6.5,0,0,0,0.00996382,0,0,0,12,0,0,0,17,0,0,0,1,0,1,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Dimitrios Pelkas,M,PAOK,18,6.6,0,0,0,0.027137,0,0,0,4,0,0,0,6,0,0,0,1,0,1,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Jiří Pavlenka,G,PAOK,90,8.1,0,0,0,0.00222078,0,0,0,24,0,0,0,38,0,0,0,0,0,0,0,0,0,8
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Andrija Živković,M,PAOK,45,6.6,0,0,0,0.151504,0,0,0,8,1,1,0,12,0,2,1,2,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Baptiste Santamaria,M,PAOK,58,6.2,0,0,0,0.0088929,0,0,0,20,0,0,0,33,0,0,2,2,0,1,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Dimitrios Giannoulis,M,PAOK,90,6.4,0,0,0,0.130213,0,0,0,33,1,0,0,53,0,0,0,3,2,3,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Jonjoe Kenny,D,PAOK,90,6.5,0,1,0,0.377382,0,0,0,23,1,1,0,46,1,3,2,4,3,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Aritz Elustondo,D,PAOK,15,3.2,0,0,0,0.00001238,0,0,0,3,0,0,0,6,0,2,0,3,1,1,0,1,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Mady Camara,M,PAOK,32,6.3,0,0,0,0.00310302,0,0,0,9,0,0,0,12,0,1,0,1,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Cherif Ndiaye,F,PAOK,90,6.5,0,0,0.1331,0.00769323,1,1,0,12,0,0,0,31,3,0,0,8,1,3,0,0,1,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Giannis Michailidis,D,PAOK,90,7.4,0,0,0,0.00387081,0,0,0,30,0,0,0,49,0,4,0,8,0,2,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Taha Abdi Ali,M,PAOK,75,6.4,0,0,0,0.0952795,0,0,0,10,1,0,0,19,2,0,0,2,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Christos Zafeiris,M,PAOK,75,6.8,0,0,0,0.0683918,0,0,0,19,0,0,0,38,1,2,2,7,1,4,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Ognjen Ugrešić,M,PAOK,15,7.4,1,0,0.766,0.0536444,1,1,0,9,0,0,0,16,2,0,0,2,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Dimitrios Bataoulas,D,PAOK,72,6.4,0,0,0.1191,0.0545024,2,0,0,16,0,0,1,30,0,0,2,4,1,2,1,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs PAOK,06/09/2026,Dimitrios Chatsidis,M,PAOK,45,6.6,0,0,0.0236,0.00725379,1,0,0,7,0,0,0,15,0,1,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Federico Macheda,F,Asteras Aktor,45,5.8,0,0,0.1283,0.0451031,2,0,0,5,0,0,0,12,0,0,0,0,2,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Dimitris Kourbelis,M,Asteras Aktor,90,7.7,0,0,0.0602,0.0968747,2,1,0,88,0,0,0,112,0,3,2,8,1,2,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Nikolaos Kaltsas,M,Asteras Aktor,21,7.1,0,0,0.1656,0.0416392,1,1,0,8,1,0,1,17,0,2,0,3,1,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Jordan Silva,D,Asteras Aktor,90,7.5,0,0,0.1048,0.0225435,3,0,0,60,0,0,0,78,0,4,0,12,1,0,1,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Franz Denniz Brorsson,D,Asteras Aktor,90,6,0,0,0,0.0120471,0,0,0,42,0,0,0,57,0,1,1,2,2,0,1,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Giannis Kotsiras,D,Asteras Aktor,90,6.9,0,0,0.0161,0.293805,1,0,0,56,2,0,0,77,1,2,1,3,1,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Eder González,M,Asteras Aktor,78,7.2,0,0,0,0.393561,0,0,0,37,4,1,0,54,1,2,0,5,0,2,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Giannis Bouzoukis,M,Asteras Aktor,69,6.9,0,0,0.1757,0.0912792,3,2,0,45,1,0,0,65,0,0,1,3,1,2,1,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Adrián Riera,M,Asteras Aktor,12,6.4,0,0,0,0.00024735,0,0,0,7,0,0,0,12,0,0,0,0,0,0,0,0,1,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Benjamin Mbunga-Kimpioka,F,Asteras Aktor,31,7,0,0,0,0.0739355,0,0,0,4,1,1,0,16,2,1,0,4,0,1,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Kalvin Ketu,M,Asteras Aktor,45,6.6,0,0,0,0.0175156,0,0,0,14,0,0,0,26,0,2,0,2,2,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Franco Orozco,M,Asteras Aktor,59,6.5,0,0,0,0.311289,0,0,0,18,3,0,0,33,1,1,0,3,1,1,0,0,1,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Vasilis Chatziemmanouil,G,Asteras Aktor,90,6.1,0,0,0,0.00029271,0,0,0,17,0,0,0,22,0,0,0,1,0,1,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Ricardinho,F,Asteras Aktor,45,6.4,0,0,0.3014,0.00339726,1,1,0,4,0,0,1,10,0,0,0,2,0,1,0,0,1,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Antonis Papakanellos,M,Asteras Aktor,45,6.4,0,0,0,0.00453901,0,0,0,15,0,0,0,33,3,2,1,5,0,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Alex Mendez,D,Asteras Aktor,90,5.8,0,0,0.0226,0.057015,1,0,0,45,0,0,0,66,0,1,2,3,3,2,1,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Praxitelis Vouros,D,POT Iraklis,90,7.1,0,0,0,0.00184333,0,0,0,18,0,0,0,33,0,2,0,3,2,1,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Nemanja Radoja,M,POT Iraklis,31,6.6,0,0,0,0.00812272,0,0,0,17,0,0,0,23,1,0,0,1,2,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Giorgos Athanasiadis,G,POT Iraklis,90,8.3,0,0,0,0.00038566,0,0,0,24,0,0,0,33,0,0,0,0,0,0,0,0,0,5
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Nanú,D,POT Iraklis,90,6.7,0,0,0,0.0154605,0,0,0,15,0,0,0,44,0,0,0,2,0,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Elvir Koljić,F,POT Iraklis,58,6.4,0,0,0,0.00923734,0,0,0,12,1,0,0,19,0,0,0,1,1,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Ivi López,F,POT Iraklis,45,7.1,1,0,0.8248,0.0177381,2,1,0,19,0,0,0,32,1,1,0,2,0,0,1,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Marco Krainz,M,POT Iraklis,13,6.6,0,0,0,0.00003781,0,0,0,7,0,0,0,12,1,1,0,3,0,1,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Yoel Bárcenas,M,POT Iraklis,45,7.6,1,0,0.0735,0.00213229,1,1,0,14,0,0,0,20,0,1,0,2,0,1,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Pedro Marques,F,POT Iraklis,32,6.4,0,0,0,0.00176873,0,0,0,6,0,0,0,11,1,0,0,3,2,2,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Iñigo Piña,D,POT Iraklis,90,7.3,0,0,0.0259,0.00033749,1,0,0,13,0,0,0,33,0,1,1,4,0,1,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Carles Soria,D,POT Iraklis,90,7,0,0,0,0.108006,0,0,0,24,1,0,0,53,0,2,1,5,0,2,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Yohan Roche,D,POT Iraklis,90,7.4,0,0,0,0.00741877,0,0,0,34,0,0,0,57,0,2,2,4,1,2,1,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Kylian Kaiboue,D,POT Iraklis,59,7.2,0,0,0.0172,0.00734973,1,0,0,27,0,0,0,40,0,2,0,3,1,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Rob Nizet,D,POT Iraklis,89,7.2,0,0,0.0234,0.0182259,1,0,0,15,0,0,0,33,1,2,0,6,2,3,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Vasilios Sourlis,M,POT Iraklis,77,7.1,0,0,0,0.0016258,0,0,0,10,0,0,0,25,2,4,0,8,1,1,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs POT Iraklis,07/09/2026,Nikolaos Anastasiadis,M,POT Iraklis,1,0,0,0,0,0.00000382,0,0,0,2,0,0,0,6,0,1,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Stefan de Vrij,D,Panathinaikos FC,90,7,0,0,0.0265,0.00785157,1,0,0,80,0,0,0,94,0,2,1,5,3,2,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Davide Calabria,D,Panathinaikos FC,90,7.8,0,1,0.0172,0.700681,1,0,0,60,4,1,0,73,0,2,1,3,1,1,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Georgios Kyriakopoulos,D,Panathinaikos FC,89,7.3,0,0,0,0.145558,0,0,0,70,1,0,0,96,2,3,2,6,1,0,0,0,1,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Iñaki Peña,G,Panathinaikos FC,90,6.8,0,0,0,0.00624422,0,0,0,39,0,0,0,44,0,0,0,0,0,0,0,0,0,3
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Rick Van Drongelen,D,Panathinaikos FC,90,6.2,0,0,0,0.00913297,0,0,0,75,0,0,0,86,0,0,1,1,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Levi García,F,Panathinaikos FC,85,6.6,0,0,0.1546,0.0350598,3,1,0,15,1,1,0,26,1,0,0,6,1,2,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Imrân Louza,M,Panathinaikos FC,30,6.8,0,0,0,0.0563368,0,0,0,36,1,0,0,39,0,0,0,1,2,1,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Kings Kangwa,M,Panathinaikos FC,60,7.7,1,0,0.1974,0.0207776,3,1,0,32,1,0,0,40,0,0,1,1,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Azzedine Ounahi,M,Panathinaikos FC,30,6.4,0,0,0.1174,0.0763906,2,0,0,25,1,0,0,38,2,0,0,2,1,0,0,0,1,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Elmin Rastoder,F,Panathinaikos FC,5,7.3,1,0,0.3688,0,1,1,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Etienne Camara,M,Panathinaikos FC,89,7.2,0,0,0,0.0333123,0,0,0,62,0,0,1,77,2,3,1,9,3,4,1,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Vicente Taborda,F,Panathinaikos FC,90,7.6,1,0,1.5185,0.0880524,6,3,2,42,3,0,2,77,2,1,0,6,0,2,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Andreas Tetteh,F,Panathinaikos FC,60,6.7,0,0,0,0.0214583,0,0,0,10,1,0,0,16,0,0,0,4,0,3,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Georgios Katris,D,Panathinaikos FC,1,0,0,0,0,0.00133696,0,0,0,7,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Santino Andino,M,Panathinaikos FC,90,7.3,0,1,0.1596,0.558523,3,3,0,44,3,2,1,60,3,1,0,5,2,0,0,0,3,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Panagiotis Biniaris,M,Panathinaikos FC,1,0,0,0,0,0.00012304,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Ioannis Kousoulos,M,AE Kifisia,58,6.8,0,0,0.0267,0.00289967,1,0,0,18,0,0,0,30,0,1,2,4,1,2,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Ángelo Sagal,F,AE Kifisia,67,6.7,0,0,0.0594,0.00302788,2,0,0,9,0,0,0,18,2,0,0,4,0,1,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Hugo Sousa,D,AE Kifisia,90,6.4,0,0,0,0.00051683,0,0,0,35,0,0,0,50,0,3,4,6,1,1,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Jorge Pombo,M,AE Kifisia,67,7.4,0,0,0.1154,0.0117645,1,1,0,28,2,0,0,47,2,2,1,10,2,5,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Benny,M,AE Kifisia,32,6.6,0,0,0,0.00044301,0,0,0,10,0,0,0,19,0,1,0,3,2,2,1,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Leroy Abanda,D,AE Kifisia,90,5.8,0,0,0,0.00506664,0,0,0,31,0,0,0,50,0,2,1,2,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Moisés Ramírez,G,AE Kifisia,90,7.7,0,0,0,0.0009906,0,0,0,34,0,0,0,47,0,0,0,0,0,0,0,0,0,6
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Imam Jagne,M,AE Kifisia,32,6.3,0,0,0,0.00007334,0,0,0,7,0,0,0,9,0,1,0,1,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Apostolos Christopoulos,F,AE Kifisia,5,0,0,0,0,0.00001275,0,0,0,3,0,0,0,6,0,0,1,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Konstantinos Roukounakis,M,AE Kifisia,85,6.8,0,0,0.0205,0.00559135,1,1,0,22,0,0,0,41,0,2,1,4,1,2,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Jeremy Antonisse,M,AE Kifisia,90,6.3,0,0,0.0224,0.0296366,1,1,0,18,1,0,0,36,2,1,1,4,1,0,1,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Tiago Manso,D,AE Kifisia,90,6.2,0,0,0,0.00169975,0,0,0,18,0,0,0,45,0,2,1,5,3,1,1,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Jon de Luis,D,AE Kifisia,23,7.2,0,0,0,0.0000716,0,0,0,10,0,0,0,15,0,2,0,3,0,1,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Gerson Sousa,M,AE Kifisia,58,6.4,0,0,0,0.0101074,0,0,0,6,1,0,0,16,1,0,0,4,0,2,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Dimitris Theodoridis,F,AE Kifisia,23,7.3,1,0,0.114,0.0000653,1,1,0,2,0,0,0,6,0,0,0,0,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs AE Kifisia,10/09/2026,Clément Jolibois,D,AE Kifisia,63,6.1,0,0,0,0.00046779,0,0,0,29,0,0,0,42,0,0,0,1,2,0,2,1,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Taxiarchis Fountas,F,OFI Crete,78,6.3,0,0,0.1685,0.00128499,3,1,1,18,0,0,0,31,0,0,0,0,1,0,0,0,1,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Andreas Bouchalakis,M,OFI Crete,77,6.8,0,0,0,0.0275398,0,0,0,35,2,0,0,44,1,1,1,2,1,0,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Zisis Karachalios,M,OFI Crete,13,6.6,0,0,0,0.00037513,0,0,0,1,0,0,0,6,0,1,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Lorenzo Dickmann,M,OFI Crete,90,6.7,0,0,0.3992,0.0168752,4,0,0,28,1,0,0,56,0,0,1,2,0,1,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Kenan Kodro,F,OFI Crete,70,7.4,1,0,0.1459,0.025749,1,1,0,21,2,0,0,33,2,0,0,4,0,2,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Achilleas Poungouras,D,OFI Crete,90,7.2,0,0,0,0.00186423,0,0,0,38,0,0,0,51,0,1,1,3,0,0,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Dimitrios Nikolaou,D,OFI Crete,13,6.7,0,0,0,0.00013416,0,0,0,9,0,0,0,10,0,0,0,1,0,1,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Athanasios Androutsos,M,OFI Crete,69,6.2,0,0,0,0.00308677,0,0,0,20,0,0,0,36,1,0,2,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Aitor Cantalapiedra,M,OFI Crete,90,6.5,0,0,0.0201,0.0581405,1,0,0,31,2,0,0,42,0,1,0,2,1,1,0,0,2,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Tasos Chatzigiovanis,M,OFI Crete,20,6.5,0,0,0,0.00188041,0,0,0,7,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Krešimir Krizmanić,D,OFI Crete,77,7.4,0,0,0,0.00125461,0,0,0,40,0,0,0,54,0,2,3,4,1,1,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Nikolaos Christogeorgos,G,OFI Crete,90,8,0,0,0,0.00041208,0,0,0,31,0,0,0,50,0,0,0,1,0,1,0,0,0,4
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Nikolaos Athanasiou,M,OFI Crete,90,7.4,0,1,0.0849,0.118047,2,1,0,46,3,0,0,79,1,2,3,6,1,3,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Georgios Kanellopoulos,M,OFI Crete,21,6.6,0,0,0,0.00081745,0,0,0,4,1,0,0,9,0,1,0,1,1,0,0,0,1,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Konstantinos Kostoulas,D,OFI Crete,90,7.4,0,0,0.0621,0.00230125,1,0,0,36,0,0,0,56,0,1,1,6,0,2,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Giannis Theodosoulakis,F,OFI Crete,12,7,0,0,0.017,0.00217148,1,1,0,4,0,0,0,10,1,1,0,5,0,0,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Remo Freuler,M,Olympiacos FC,67,7.2,0,0,0,0.13357,0,0,0,57,1,0,0,63,0,0,2,3,0,0,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Kostas Fortounis,F,Olympiacos FC,75,6.8,0,0,0.131,0.230539,3,0,0,48,3,0,0,72,1,1,0,3,0,1,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Stefan Ortega,G,Olympiacos FC,90,7.4,0,0,0,0.00017025,0,0,0,21,0,0,0,29,0,0,0,0,0,0,0,0,0,4
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Gelson Martins,M,Olympiacos FC,14,6.9,0,0,0.0392,0.036298,1,1,0,12,1,0,0,19,2,0,0,2,0,0,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Chiquinho,M,Olympiacos FC,83,6.8,0,0,0,0.139655,0,0,0,34,2,1,0,43,0,2,0,4,0,1,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Leon Bailey,F,Olympiacos FC,15,6.7,0,0,0.0683,0.00696719,1,0,0,9,1,0,0,16,0,0,0,3,0,2,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Panagiotis Retsos,D,Olympiacos FC,90,7.2,0,0,0.0944,0.229964,2,0,0,93,0,0,0,102,0,3,1,6,1,0,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Roman Yaremchuk,F,Olympiacos FC,23,6.4,0,0,0,0.0000439,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Nair Tiknizyan,D,Olympiacos FC,90,6.6,0,0,0,0.0234909,0,0,0,67,0,0,0,86,1,2,0,3,1,0,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Marcus Pedersen,M,Olympiacos FC,90,6.6,0,0,0,0.132519,0,0,0,57,0,0,0,89,1,0,0,3,1,1,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Lorenzo Pirola,D,Olympiacos FC,90,6.8,0,0,0.1595,0.0134234,3,0,0,75,1,0,0,91,0,1,0,5,2,0,1,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Santiago Hezze,M,Olympiacos FC,23,6.7,0,0,0,0.01981,0,0,0,33,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Jota Silva,F,Olympiacos FC,90,6.1,0,0,0.1381,0.143985,4,2,0,20,0,0,0,31,0,1,0,3,3,0,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Gustavo Puerta,M,Olympiacos FC,75,7,0,0,0.3706,0.0246432,2,1,0,67,0,0,1,79,0,2,1,3,1,1,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Gustavo Sá,M,Olympiacos FC,15,6.6,0,0,0.1366,0.00893445,2,0,0,12,0,0,0,15,0,1,0,2,0,0,0,0,0,0
+Stoiximan Super League,26_27,Olympiacos FC vs OFI Crete,12/09/2026,Armando González,F,Olympiacos FC,67,6.3,0,0,0.2411,0.144564,2,0,0,6,1,0,0,13,0,0,0,0,3,0,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Steven Zuber,M,APS Atromitos Athinon,90,6,0,0,0.8186,0.0123836,4,2,1,24,0,0,1,41,1,0,0,5,3,3,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Hörður Magnússon,D,APS Atromitos Athinon,90,6.8,0,0,0,0.0072823,0,0,0,49,0,0,0,57,0,0,0,3,0,1,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Jere Uronen,D,APS Atromitos Athinon,90,7.3,0,0,0,0.676968,0,0,0,40,2,1,0,57,0,2,2,4,0,0,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Sotiris Tsiloulis,M,APS Atromitos Athinon,56,7.3,1,0,0.5212,0.0180206,1,1,0,12,0,0,0,21,1,0,0,3,4,2,1,0,1,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Lefteris Choutesiotis,G,APS Atromitos Athinon,90,5.8,0,0,0,0.00004601,0,0,0,26,0,0,0,33,0,0,0,0,0,0,0,0,0,1
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Serginho,M,APS Atromitos Athinon,8,6.4,0,0,0,0.00000274,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Dimitrios Stavropoulos,D,APS Atromitos Athinon,90,6.7,0,0,0,0.00157495,0,0,0,37,0,0,0,49,0,2,0,4,0,1,1,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Lefteris Lyratzis,D,APS Atromitos Athinon,82,6.7,0,0,0.0472,0.0144803,1,0,0,12,1,0,0,27,1,0,0,3,2,1,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Samuel Moutoussamy,M,APS Atromitos Athinon,90,6.9,0,0,0,0.0190864,0,0,0,33,2,0,0,40,1,0,0,4,3,1,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Juan José Perea,F,APS Atromitos Athinon,56,6.6,0,1,0.0949,0.0530275,3,1,0,5,2,1,0,17,0,0,0,3,2,3,1,0,2,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Theocharis Tsingaras,M,APS Atromitos Athinon,90,7.1,0,0,0,0.22084,0,0,0,56,0,0,0,68,1,1,2,4,0,2,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Athanasios Karamanis,M,APS Atromitos Athinon,19,6.3,0,0,0,0.00105502,0,0,0,6,0,0,0,9,0,0,0,1,1,0,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Mattheos Mountes,D,APS Atromitos Athinon,71,7.3,0,0,0,0.0420274,0,0,0,34,1,0,0,49,0,2,2,5,1,3,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Stavros Pnevmonidis,M,APS Atromitos Athinon,34,6.5,0,0,0,0.00346018,0,0,0,5,1,0,0,15,0,3,0,4,2,1,1,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Panagiotis Tsantilas,F,APS Atromitos Athinon,34,6.6,0,0,0.2198,0.00013697,1,0,0,4,0,0,0,7,0,0,0,1,0,1,0,0,1,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Praxitelis Vouros,D,POT Iraklis,90,7,0,0,0,0.00448738,0,0,0,65,0,0,0,77,1,1,1,4,2,0,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Nemanja Radoja,M,POT Iraklis,45,6.7,0,0,0,0.00384854,0,0,0,24,0,0,0,27,1,0,0,2,1,1,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Giorgos Athanasiadis,G,POT Iraklis,90,6.6,0,0,0,0.00024297,0,0,0,17,0,0,0,28,0,0,0,0,0,0,1,0,0,3
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Nanú,D,POT Iraklis,56,6.7,0,0,0,0.00868296,0,0,0,20,0,0,0,42,1,1,1,3,0,1,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Elvir Koljić,F,POT Iraklis,86,6.5,0,0,0.3401,0.00041439,3,0,0,12,0,0,0,21,0,0,0,4,0,0,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Ivi López,F,POT Iraklis,45,6.7,0,0,0.0578,0.166814,1,0,1,27,3,0,0,41,2,0,0,2,2,0,1,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Marco Krainz,M,POT Iraklis,8,6.6,0,0,0,0.00117663,0,0,0,4,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Kristjan Kushta,F,POT Iraklis,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Pedro Marques,F,POT Iraklis,34,7.6,1,0,0.4437,0.00392401,3,2,0,5,0,0,0,10,0,1,0,3,1,0,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Iñigo Piña,D,POT Iraklis,90,7.1,0,0,0.0265,0.00581204,1,0,0,76,0,0,0,86,1,0,0,4,1,2,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Carles Soria,D,POT Iraklis,90,6.5,0,0,0,0.0868097,0,0,0,48,1,0,0,74,1,2,0,4,1,1,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Yohan Roche,D,POT Iraklis,90,7.4,0,1,0,0.22061,0,0,0,88,1,1,0,104,0,2,2,6,1,3,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Kylian Kaiboue,D,POT Iraklis,45,6.6,0,0,0,0.0061511,0,0,0,21,0,0,0,26,0,1,1,3,1,2,1,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Rob Nizet,D,POT Iraklis,90,7.2,0,0,0.0137,0.0494185,1,0,0,26,2,0,0,61,3,0,0,9,3,6,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Vasilios Sourlis,M,POT Iraklis,82,6.7,0,0,0,0.0395933,0,0,0,32,2,0,0,38,0,1,0,3,1,2,0,0,0,0
+Stoiximan Super League,26_27,POT Iraklis vs APS Atromitos Athinon,12/09/2026,Vitor Meer,D,POT Iraklis,45,6.1,0,0,0.0208,0.00400476,1,0,0,15,0,0,0,24,0,1,0,1,4,0,1,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Alexei Koşelev,G,NPS Volos,90,5.6,0,0,0,0.00005279,0,0,0,25,0,0,0,35,0,0,0,0,0,0,0,0,0,3
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Georgios Mygas,D,NPS Volos,13,6.6,0,0,0,0.0248478,0,0,0,7,1,0,0,16,0,1,0,2,2,0,1,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Giannis Kargas,D,NPS Volos,90,6.8,0,0,0.0951,0.277099,1,1,0,57,2,1,0,68,1,0,1,4,1,1,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Joca,M,NPS Volos,90,6.7,0,1,0.1273,0.175082,3,2,1,26,2,0,0,45,1,0,1,4,1,2,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Lazaros Lamprou,M,NPS Volos,90,6.2,0,0,0.1032,0.101614,2,0,0,30,1,0,0,47,3,0,1,5,1,2,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Dženis Burnić,M,NPS Volos,30,6.4,0,0,0,0.0170261,0,0,0,23,0,0,0,24,0,0,0,1,0,1,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Hamza Mendyl,D,NPS Volos,77,5.6,0,0,0,0.00426657,0,0,0,25,0,0,0,43,0,0,1,0,3,0,1,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Xesc Regis,M,NPS Volos,30,7.2,0,0,0.4146,0.504845,2,1,1,8,0,0,1,13,1,0,0,2,0,0,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Maximiliano Comba,M,NPS Volos,90,6.9,0,0,0.0205,0.0171517,1,0,0,32,0,0,0,56,1,4,0,8,1,3,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Vasilis Grosdis,M,NPS Volos,60,6.1,0,0,0,0.00844251,0,0,0,23,0,0,0,29,0,1,0,1,1,0,1,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Derek Agyakwa,D,NPS Volos,41,5.8,0,0,0,0.00129011,0,0,0,22,0,0,0,29,0,2,0,2,1,0,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Matías González,M,NPS Volos,77,7.2,1,0,0.0428,0.154666,1,1,0,30,2,0,0,41,0,0,0,3,3,2,1,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Gustavo Furtado,M,NPS Volos,60,6.3,0,0,0,0.00724684,0,0,0,10,0,0,0,16,0,0,0,1,0,1,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Hatim Essaouabi,D,NPS Volos,49,6.9,0,0,0.1919,0.00177956,1,0,0,15,0,0,1,26,0,2,1,5,0,2,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Georgios Charalampoglou,F,NPS Volos,13,6.4,0,0,0,0.0118618,0,0,0,2,1,0,0,6,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Konstantinos Lykourinos,D,NPS Volos,90,6.2,0,0,0,0.0191221,0,0,0,39,1,0,0,65,0,6,0,8,0,1,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Giannis Gelios,G,PS Kalamata,90,6.8,0,0,0,0.00018153,0,0,0,28,0,0,0,36,0,0,0,0,0,0,0,0,0,4
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Arnór Sigurðsson,M,PS Kalamata,78,6.3,0,0,0,0.0277278,0,0,0,11,1,0,0,21,1,1,0,3,3,1,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Ilias Chatzitheodoridis,D,PS Kalamata,9,6.6,0,0,0,0.00236475,0,0,0,3,0,0,0,8,0,1,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Julián Bonetto,M,PS Kalamata,65,7.1,0,0,0,0.739485,0,0,0,17,2,1,0,29,0,1,0,2,1,0,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Ahmad Mendes Moreira,M,PS Kalamata,90,7.7,0,2,0.6529,0.185875,3,1,0,19,3,0,1,47,1,1,0,12,1,7,0,0,2,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Stefanos Stroungis,D,PS Kalamata,90,6.6,0,0,0.2153,0.00804192,2,0,0,48,0,0,1,54,0,1,0,4,1,0,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Julio Alonso,D,PS Kalamata,90,6.6,0,0,0,0.0213799,0,0,0,35,0,0,0,67,1,1,2,4,1,2,1,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Jovanny Bolívar,F,PS Kalamata,89,6.9,1,0,0.9544,0.0003415,4,2,0,9,0,0,1,20,0,1,0,5,1,1,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Rodrigues,D,PS Kalamata,90,7.5,0,0,0,0.0409771,0,0,0,47,0,0,0,61,0,3,2,4,1,0,0,0,1,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Petros Kaloutsikidis,D,PS Kalamata,90,7.5,0,0,0.04,0.43757,1,0,0,30,1,1,0,53,3,2,1,6,1,1,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Gonzalo Piñeiro,M,PS Kalamata,89,6.7,0,0,0.0106,0.00739434,1,0,0,38,1,0,0,53,0,1,5,2,2,1,1,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Junior Bakayoko,D,PS Kalamata,9,6.7,0,0,0,0.00169773,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Djibril Diarra,M,PS Kalamata,12,7.4,0,1,0,0.0509692,0,0,0,3,1,1,0,6,0,2,0,3,0,0,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Argyrios Liatsikouras,M,PS Kalamata,25,6.8,0,0,0,0.00420153,0,0,0,11,0,0,0,14,0,1,1,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,PS Kalamata vs NPS Volos,13/09/2026,Erik Hamza,F,PS Kalamata,90,9,2,0,0.3986,0.366003,4,3,0,25,2,1,0,44,1,2,1,6,4,1,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Petros Mantalos,M,AEK Athens,8,6.6,0,0,0,0.00287854,0,0,0,4,0,0,0,6,1,0,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Alberto Brignoli,G,AEK Athens,90,8.3,0,0,0,0.00445771,0,0,0,23,0,0,0,37,0,0,0,1,0,1,0,0,0,4
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Mijat Gaćinović,M,AEK Athens,52,6.3,0,0,0.2985,0.0658811,1,0,0,17,1,0,0,24,0,0,0,2,2,1,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Răzvan Marin,M,AEK Athens,90,6.8,0,0,0.1483,0.227477,1,0,0,57,2,0,0,71,0,0,0,4,1,2,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Luka Jović,F,AEK Athens,90,6.6,0,0,0.8647,0.169467,4,1,0,15,3,0,2,33,0,0,0,6,2,3,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Harold Moukoudi,D,AEK Athens,90,6.4,0,0,0.1572,0.0245782,1,0,0,55,0,0,1,64,0,1,0,5,1,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Lovro Majer,M,AEK Athens,90,7.5,0,0,0.0237,0.793764,1,0,0,61,5,2,0,84,1,4,0,6,1,1,1,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Barnabás Varga,F,AEK Athens,38,6.6,0,0,0.1454,0.0598439,2,0,0,5,0,0,2,10,0,0,0,4,0,1,0,0,1,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Aboubakary Koita,M,AEK Athens,38,7,0,0,0.1293,0.0598588,3,0,0,12,1,0,0,30,3,0,0,6,0,3,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Lazaros Rota,D,AEK Athens,90,6.5,0,0,0,0.0511766,0,0,0,39,0,0,0,62,0,0,0,1,0,1,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Stavros Pilios,D,AEK Athens,90,7,0,0,0.0443,0.187788,1,0,0,39,3,1,0,77,1,2,0,5,2,1,0,0,1,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Zini,F,AEK Athens,88,7.2,0,0,0.4792,0.0557267,5,2,0,31,1,1,0,50,2,5,0,9,0,1,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Kervin Arriaga,M,AEK Athens,52,6.5,0,0,0,0.00434269,0,0,0,36,0,0,0,40,0,0,0,3,2,2,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Filipe Relvas,D,AEK Athens,90,8.7,0,0,0.1293,0.0212291,1,0,0,90,2,0,0,105,0,1,2,10,0,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Federico Macheda,F,Asteras Aktor,74,6.6,0,1,0.3483,0.0598571,2,0,0,16,1,1,0,23,0,0,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Dimitris Kourbelis,M,Asteras Aktor,74,7,0,0,0.0198,0.0830251,1,0,0,21,2,0,0,33,0,1,1,8,5,3,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Jordan Silva,D,Asteras Aktor,90,7.1,0,0,0,0.0151735,0,0,0,19,0,0,0,31,0,2,1,3,1,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Franz Denniz Brorsson,D,Asteras Aktor,90,7,0,0,0.1088,0.00019172,1,0,0,18,0,0,1,32,0,1,1,1,2,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Giannis Kotsiras,D,Asteras Aktor,90,6.8,0,0,0,0.0886795,0,0,0,43,1,0,0,69,0,2,1,4,3,0,1,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Eder González,M,Asteras Aktor,90,6.9,0,0,0.0244,0.016088,1,0,0,42,0,0,0,63,0,7,0,8,1,1,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Giannis Bouzoukis,M,Asteras Aktor,16,6.9,0,0,0,0.00314046,0,0,0,10,0,0,0,13,1,1,0,2,0,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Julián Bartolo,F,Asteras Aktor,89,7.9,1,0,0.7668,0.219595,4,2,0,25,3,1,0,58,1,0,0,4,2,3,1,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Alexandros Tereziou,D,Asteras Aktor,1,0,0,0,0,0.00012701,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Kalvin Ketu,M,Asteras Aktor,81,7.9,0,0,0.1189,0.476321,2,2,0,14,4,0,0,28,1,1,1,5,0,3,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Vasilis Chatziemmanouil,G,Asteras Aktor,90,7,0,0,0,0.00073483,0,0,0,24,0,0,0,33,0,0,0,0,1,0,0,0,0,2
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Ricardinho,F,Asteras Aktor,16,6.3,0,0,0,0.00126509,0,0,0,3,0,0,0,4,0,0,0,2,0,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Antonis Papakanellos,M,Asteras Aktor,9,6.5,0,0,0,0.00195678,0,0,0,5,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Dimitris Laskaris,D,Asteras Aktor,90,6.1,0,0,0,0.00356216,0,0,0,22,0,0,0,36,0,1,1,4,2,0,0,0,0,0
+Stoiximan Super League,26_27,Asteras Aktor vs AEK Athens,13/09/2026,Alex Mendez,D,Asteras Aktor,90,6.9,0,0,0.1329,0.0110674,2,1,0,22,0,0,0,41,0,2,0,3,1,1,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Taison,M,PAOK,73,6.6,0,0,0.0552,0.0221576,1,0,0,37,1,0,0,47,0,1,2,2,1,0,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Dimitrios Pelkas,M,PAOK,73,6.7,0,0,0.3708,0.0523333,3,1,0,23,1,1,1,31,0,0,0,3,2,1,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Jiří Pavlenka,G,PAOK,90,8.3,0,0,0,0.0007837,0,0,0,19,0,0,0,23,0,0,0,1,0,1,0,0,0,3
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Andrija Živković,M,PAOK,85,7.9,1,0,0.7684,0.249972,2,1,1,36,2,0,0,61,3,0,3,6,4,2,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Rahman Baba,D,PAOK,90,7.5,0,0,0,0.0127093,0,0,0,32,0,0,0,63,1,4,1,7,1,0,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Jonjoe Kenny,D,PAOK,90,7,0,0,0,0.0274015,0,0,0,18,0,0,0,49,0,1,1,2,2,1,1,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Kristijan Jakić,M,PAOK,26,7.4,0,0,0,0.00517261,0,0,0,20,0,0,0,35,0,2,0,5,0,1,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Mady Camara,M,PAOK,17,6.6,0,0,0.0125,0.00762898,1,0,0,5,0,0,0,8,0,0,0,2,0,0,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Cherif Ndiaye,F,PAOK,85,7.4,1,0,0.8474,0.020435,2,1,0,20,1,0,0,45,1,2,1,8,0,3,1,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Giannis Michailidis,D,PAOK,90,7.7,0,0,0.0174,0.0134101,1,0,0,43,0,0,0,64,0,2,2,7,0,1,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Diego Costa,D,PAOK,90,7.1,0,0,0.05,0.0086642,1,0,0,45,1,0,0,56,0,1,0,3,2,1,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Taha Abdi Ali,M,PAOK,8,6.6,0,0,0,0.00534376,0,0,0,3,0,0,0,6,0,1,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Christos Zafeiris,M,PAOK,64,7,0,0,0.2716,0.0306204,1,1,0,37,0,0,1,45,0,2,1,3,3,0,1,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Ognjen Ugrešić,M,PAOK,90,7.3,0,0,0.0787,0.0178065,1,1,0,24,0,0,0,42,3,4,2,8,0,1,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Anestis Mythou,F,PAOK,8,6.5,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Dimitrios Chatsidis,M,PAOK,17,6.6,0,0,0,0.00536013,0,0,0,5,0,0,0,15,2,0,0,4,0,1,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Giannis Gianniotas,F,Aris Thessaloniki,78,7.5,0,0,0.2135,0.228145,5,0,0,10,2,1,0,42,1,2,1,8,0,5,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Sebastián Palacios,M,Aris Thessaloniki,8,6.4,0,0,0,0.0001597,0,0,0,1,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Fabiano,D,Aris Thessaloniki,90,6.4,0,0,0.1865,0.136684,2,0,0,60,0,0,0,73,0,3,1,6,4,0,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Manu García,M,Aris Thessaloniki,45,6.5,0,0,0.0214,0.304366,1,0,0,26,1,1,0,39,0,0,0,0,1,0,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Tino Kadewere,F,Aris Thessaloniki,61,6.3,0,0,0.3759,0.00732433,2,1,0,14,0,0,1,27,1,0,0,7,2,0,1,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Christian Kouamé,F,Aris Thessaloniki,12,6.3,0,0,0,0.00060511,0,0,0,6,0,0,0,10,0,0,1,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Uroš Račić,M,Aris Thessaloniki,90,6.8,0,0,0.2007,0.363797,2,1,0,38,3,0,1,52,0,1,1,3,2,1,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Ricardo Velho,G,Aris Thessaloniki,90,7.4,0,0,0,0.00116654,0,0,0,37,0,0,0,47,0,0,0,2,0,1,0,0,0,4
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Fredrik Jensen,M,Aris Thessaloniki,90,6.4,0,0,0.0682,0.0176539,1,1,0,41,0,0,0,51,0,0,1,1,1,1,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Omar Richards,D,Aris Thessaloniki,90,6.6,0,0,0,0.0541889,0,0,0,31,1,0,0,60,1,4,4,10,2,4,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Loren Morón,F,Aris Thessaloniki,29,6.3,0,0,0.0891,0.0021602,1,0,0,4,0,0,0,11,0,0,0,1,1,1,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Tom Dele-Bashiru,M,Aris Thessaloniki,45,6.4,0,0,0,0.00320229,0,0,0,29,0,0,0,39,0,1,1,2,0,1,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Benjamín Garré,M,Aris Thessaloniki,85,6.4,0,0,0.0394,0.171514,1,0,0,35,2,0,0,60,3,0,0,6,1,1,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Jeremy Petris,D,Aris Thessaloniki,12,6.9,0,0,0,0.0007508,0,0,0,11,0,0,0,27,0,2,2,2,0,0,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Boško Šutalo,D,Aris Thessaloniki,90,6.5,0,0,0,0.00198801,0,0,0,52,0,0,0,76,0,2,4,3,0,0,0,0,0,0
+Stoiximan Super League,26_27,PAOK vs Aris Thessaloniki,13/09/2026,Noah Fadiga,D,Aris Thessaloniki,78,6.5,0,0,0,0.0194454,0,0,0,26,1,0,0,50,0,3,0,4,1,0,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Ognjen Ožegović,F,APO Levadiakos,12,6.6,0,0,0.0204,0.00291718,1,0,0,2,0,0,0,4,1,0,0,1,0,0,0,0,1,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Panagiotis Symelidis,M,APO Levadiakos,38,6.7,0,0,0,0.00045889,0,0,0,3,0,0,0,8,0,1,1,2,0,1,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Adrian Șut,M,APO Levadiakos,52,6.9,0,0,0,0.00695701,0,0,0,21,0,0,0,27,0,1,0,2,0,0,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Giannis Kosti,M,APO Levadiakos,70,6.9,0,0,0.3953,0.0317601,1,0,0,28,1,0,1,44,2,2,0,4,1,0,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Juan Bauza,M,APO Levadiakos,21,6.8,0,0,0,0.0143399,0,0,0,6,1,0,0,11,0,1,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Georgios Kornezos,D,APO Levadiakos,90,7.9,0,0,0,0.00265303,0,0,0,26,0,0,0,44,1,1,1,3,1,0,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Dimitrios Emmanouilidis,F,APO Levadiakos,38,6.5,0,0,0,0.00051802,0,0,0,7,0,0,0,15,0,0,0,4,0,1,0,0,1,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Georgios Nikas,M,APO Levadiakos,90,6.9,0,0,0,0.00394856,0,0,0,25,0,0,0,43,0,3,2,5,1,1,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Marios Vichos,D,APO Levadiakos,90,7,0,0,0,0.00786277,0,0,0,28,1,0,0,48,1,1,1,5,1,2,1,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Agustín Urzi,F,APO Levadiakos,52,6.7,0,0,0,0.325578,0,0,0,11,0,0,0,24,0,1,2,3,1,2,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Alexandru Grigoras Pantea,D,APO Levadiakos,90,6.6,0,0,0,0.00662175,0,0,0,33,1,0,0,61,0,1,3,2,2,0,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Giannis Tsivelekidis,D,APO Levadiakos,90,7.3,0,0,0,0.00461907,0,0,0,41,0,0,0,53,0,0,2,1,1,0,1,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Moses David Cobnan,F,APO Levadiakos,78,6.7,0,0,0.0753,0.162091,2,1,0,13,1,1,0,30,1,2,0,7,5,3,0,0,4,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Niv Eliasi,G,APO Levadiakos,90,8.3,0,0,0,0.00208385,0,0,0,24,0,0,0,32,0,0,0,0,0,0,1,0,0,4
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Konstantinos Goumas,M,APO Levadiakos,20,6.8,0,0,0,0.00182951,0,0,0,6,0,0,0,14,1,1,0,4,0,2,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Mahamadou Balde,F,APO Levadiakos,69,7.1,0,0,0.0541,0.0167028,1,0,0,12,0,0,0,30,2,2,0,6,1,2,1,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Ángelo Sagal,F,AE Kifisia,84,6.5,0,0,0.0501,0.0156558,2,0,0,19,0,0,0,33,0,0,0,2,1,2,0,0,1,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Hugo Sousa,D,AE Kifisia,90,7.5,0,0,0,0.0117107,0,0,0,58,1,0,0,66,0,0,1,0,1,0,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Jorge Pombo,M,AE Kifisia,45,7.2,0,0,0,0.267304,0,0,0,23,2,0,0,29,0,0,1,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Jordi Mboula,M,AE Kifisia,29,6.7,0,0,0,0.0129502,0,0,0,8,0,0,0,16,1,0,1,3,1,2,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Alex Petkov,D,AE Kifisia,90,8,0,0,0.2263,0.00851102,2,1,0,64,0,0,0,88,0,1,0,9,1,4,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Benny,M,AE Kifisia,90,7.2,0,0,0.0558,0.0837542,1,0,1,54,0,0,0,79,1,3,2,6,1,1,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Leroy Abanda,D,AE Kifisia,90,6.5,0,0,0.0117,0.0146143,1,1,0,34,1,0,0,64,0,0,0,2,4,0,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Moisés Ramírez,G,AE Kifisia,90,6.9,0,0,0,0.00039147,0,0,0,40,0,0,0,47,0,0,0,0,0,0,0,0,0,1
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Konstantinos Apostolakis,D,AE Kifisia,45,6.6,0,0,0,0.00287771,0,0,0,19,1,0,0,31,0,2,1,4,2,1,1,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Imam Jagne,M,AE Kifisia,90,6.5,0,0,0,0.0251634,0,0,0,24,0,0,0,37,1,1,0,2,2,0,1,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Konstantinos Roukounakis,M,AE Kifisia,90,7.8,0,0,0,0.238123,0,0,0,74,1,0,0,101,0,3,3,5,2,2,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Jeremy Antonisse,M,AE Kifisia,61,6.7,0,0,0.0185,0.0162095,1,0,0,24,0,0,0,35,1,0,0,3,0,1,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Tiago Manso,D,AE Kifisia,45,7.3,0,0,0.2378,0.104508,1,1,0,25,1,0,0,35,0,0,0,0,1,0,1,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Gerson Sousa,M,AE Kifisia,10,6.8,0,0,0,0.00727126,0,0,0,9,0,0,0,11,1,0,0,2,0,0,0,0,0,0
+Stoiximan Super League,26_27,AE Kifisia vs APO Levadiakos,13/09/2026,Dimitris Theodoridis,F,AE Kifisia,45,6.2,0,0,0.3978,0.00290287,2,1,0,7,1,0,0,13,0,1,0,1,0,0,0,0,2,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Stefan de Vrij,D,Panathinaikos FC,90,7.4,0,0,0,0.0152592,0,0,0,59,0,0,0,66,0,1,2,1,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Davide Calabria,D,Panathinaikos FC,90,8.7,1,1,0.8105,0.0397345,2,1,0,51,1,0,0,72,0,4,0,5,1,1,0,0,1,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Georgios Kyriakopoulos,D,Panathinaikos FC,90,7.6,0,0,0.0298,0.150359,1,1,0,54,1,1,0,77,0,0,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Cyriel Dessers,F,Panathinaikos FC,76,6.7,0,0,0.9788,0.0244942,5,2,0,10,1,0,2,22,1,0,0,5,1,2,0,0,1,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Iñaki Peña,G,Panathinaikos FC,90,6.9,0,0,0,0.00037488,0,0,0,20,0,0,0,24,0,0,0,0,0,0,0,0,0,2
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Rick Van Drongelen,D,Panathinaikos FC,90,7.1,0,0,0,0.0410618,0,0,0,64,0,0,0,71,0,1,0,1,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Levi García,F,Panathinaikos FC,70,6.7,0,0,0.4352,0.07062,3,1,0,25,1,0,1,33,0,0,0,1,2,1,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Imrân Louza,M,Panathinaikos FC,61,7.1,0,0,0.2357,0.160872,3,0,0,39,2,0,0,52,0,1,2,1,3,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Kings Kangwa,M,Panathinaikos FC,29,7.2,0,0,0.195,0.338545,1,1,0,30,1,0,0,45,3,1,0,4,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Facundo Pellistri,M,Panathinaikos FC,14,7,0,0,0,0.091822,0,0,0,9,0,0,0,18,2,1,0,3,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Azzedine Ounahi,M,Panathinaikos FC,61,8.4,1,0,0.1026,0.0625944,3,1,0,59,2,0,0,77,4,0,0,6,1,2,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Triantafyllos Tsapras,D,Panathinaikos FC,14,6.6,0,0,0,0.064359,0,0,0,11,1,1,0,14,0,0,1,0,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Etienne Camara,M,Panathinaikos FC,90,7.2,0,0,0.0773,0.163129,2,0,0,67,0,0,0,79,1,3,0,5,2,1,1,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Vicente Taborda,F,Panathinaikos FC,20,7.5,1,0,0.2493,0.0163334,2,1,0,19,0,0,0,26,2,0,0,2,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Andreas Tetteh,F,Panathinaikos FC,29,7.1,0,0,0.221,0.0794357,3,1,0,8,1,0,0,15,1,0,0,2,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Santino Andino,M,Panathinaikos FC,76,7.4,0,1,0.0254,0.582359,1,0,0,46,3,2,0,69,7,1,0,9,3,1,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Charis Mavrias,D,GFS Panetolikos,63,6.5,0,0,0,0.00698056,0,0,0,25,0,0,0,43,2,1,0,8,2,4,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Marvelous Nakamba,M,GFS Panetolikos,45,6.7,0,0,0,0.00420313,0,0,0,21,0,0,0,25,0,0,0,0,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Moussa Djenepo,F,GFS Panetolikos,90,6,0,0,0.0823,0.0252768,1,1,0,22,0,0,0,37,3,1,0,7,3,3,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Amine Bassi,M,GFS Panetolikos,90,7.2,0,0,0.0307,0.0660547,1,0,0,53,3,0,0,70,0,1,3,5,0,4,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Novica Eraković,M,GFS Panetolikos,57,6.5,0,0,0.0214,0.0122599,1,1,0,33,0,0,0,42,1,1,0,3,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Kosta Aleksić,F,GFS Panetolikos,45,6.3,0,0,0.0232,0.0121437,1,0,0,9,1,0,0,14,0,0,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Nikola Stajić,D,GFS Panetolikos,90,6.5,0,0,0,0.00106362,0,0,0,43,0,0,0,51,0,1,0,1,1,0,1,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Gustav Granath,D,GFS Panetolikos,90,6.9,0,0,0,0.00389028,0,0,0,41,0,0,0,54,0,0,1,1,1,0,1,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Youssouph Badji,F,GFS Panetolikos,33,6.7,0,0,0,0.00321437,0,0,0,8,0,0,0,10,0,1,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Giannis Satsias,M,GFS Panetolikos,30,6.4,0,0,0,0.00023042,0,0,0,8,0,0,0,9,0,0,0,1,0,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Yevhenii Kucherenko,G,GFS Panetolikos,90,7.4,0,0,0,0.00040325,0,0,0,35,0,0,0,50,0,1,0,2,0,1,0,0,0,5
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Diego Esteban,M,GFS Panetolikos,60,6,0,0,0,0.00461743,0,0,0,22,0,0,0,30,0,1,0,1,1,0,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Apostolos Apostolopoulos,D,GFS Panetolikos,90,6.6,0,0,0.015,0.0039635,1,0,0,26,0,0,0,53,1,1,3,5,0,3,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Kwadwo Opoku,F,GFS Panetolikos,33,6.6,0,0,0,0.00406935,0,0,0,8,0,0,0,14,0,1,0,2,0,1,0,0,0,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Mateo Mejía,F,GFS Panetolikos,57,6.6,0,0,0,0.00018267,0,0,0,7,0,0,0,12,1,0,0,2,0,1,0,0,1,0
+Stoiximan Super League,26_27,Panathinaikos FC vs GFS Panetolikos,13/09/2026,Athanasios Prodromitis,D,GFS Panetolikos,27,6.4,0,0,0,0.0007261,0,0,0,8,0,0,0,17,0,2,0,2,0,0,0,0,0,0

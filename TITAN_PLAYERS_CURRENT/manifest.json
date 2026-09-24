@@ -1,7 +1,7 @@
 {
   "schema_version": "incastats.player_current_master.v2",
   "provider": "sofascore",
-  "generated_at": "2026-09-07T05:21:09.400650Z",
+  "generated_at": "2026-09-24T17:58:44.173602Z",
   "scope": "LEAGUE_ONLY_CURRENT_SEASON",
   "merge_key": [
     "Event_ID",
@@ -21,9 +21,9 @@
   ],
   "merge_policy": "PLAYER_DELTA_UPSERT_REPLACE_SAME_KEY",
   "counts": {
-    "rows": 101740,
-    "unique_events": 3256,
-    "unique_players": 21929,
+    "rows": 113810,
+    "unique_events": 3642,
+    "unique_players": 22349,
     "competitions": 111
   },
   "leagues": [
@@ -41,9 +41,9 @@
       "season_id": 97268,
       "league": "LaLiga",
       "season": "LaLiga_26_27",
-      "rows": 1238,
-      "unique_events": 39,
-      "unique_players": 417
+      "rows": 1808,
+      "unique_events": 57,
+      "unique_players": 456
     },
     {
       "competition_id": 9,
@@ -59,27 +59,27 @@
       "season_id": 96668,
       "league": "Premier League",
       "season": "Premier_League_26_27",
-      "rows": 929,
-      "unique_events": 30,
-      "unique_players": 387
+      "rows": 1236,
+      "unique_events": 40,
+      "unique_players": 406
     },
     {
       "competition_id": 18,
       "season_id": 97037,
       "league": "Championship",
       "season": "26_27",
-      "rows": 1880,
-      "unique_events": 60,
-      "unique_players": 522
+      "rows": 2587,
+      "unique_events": 83,
+      "unique_players": 543
     },
     {
       "competition_id": 20,
       "season_id": 87809,
       "league": "Eliteserien",
       "season": "2026",
-      "rows": 4730,
-      "unique_events": 152,
-      "unique_players": 431
+      "rows": 4979,
+      "unique_events": 160,
+      "unique_players": 437
     },
     {
       "competition_id": 21,
@@ -95,45 +95,45 @@
       "season_id": 95836,
       "league": "Serie A",
       "season": "Serie_A_26_27",
-      "rows": 894,
-      "unique_events": 28,
-      "unique_players": 405
+      "rows": 1274,
+      "unique_events": 40,
+      "unique_players": 437
     },
     {
       "competition_id": 24,
       "season_id": 97077,
       "league": "League One",
       "season": "26_27",
-      "rows": 1778,
-      "unique_events": 58,
-      "unique_players": 490
+      "rows": 2173,
+      "unique_events": 71,
+      "unique_players": 512
     },
     {
       "competition_id": 25,
       "season_id": 97078,
       "league": "League Two",
       "season": "26_27",
-      "rows": 1816,
-      "unique_events": 60,
-      "unique_players": 499
+      "rows": 2192,
+      "unique_events": 72,
+      "unique_players": 513
     },
     {
       "competition_id": 34,
       "season_id": 96127,
       "league": "Ligue 1",
       "season": "Ligue_1_26_27",
-      "rows": 853,
-      "unique_events": 27,
-      "unique_players": 366
+      "rows": 1131,
+      "unique_events": 36,
+      "unique_players": 383
     },
     {
       "competition_id": 35,
       "season_id": 97464,
       "league": "Bundesliga",
       "season": "Bundesliga_26_27",
-      "rows": 569,
-      "unique_events": 18,
-      "unique_players": 335
+      "rows": 854,
+      "unique_events": 27,
+      "unique_players": 357
     },
     {
       "competition_id": 36,
@@ -149,36 +149,36 @@
       "season_id": 96143,
       "league": "Eredivisie",
       "season": "26_27",
-      "rows": 1292,
-      "unique_events": 41,
-      "unique_players": 388
+      "rows": 1697,
+      "unique_events": 54,
+      "unique_players": 404
     },
     {
       "competition_id": 38,
       "season_id": 96616,
       "league": "Belgian Pro League",
       "season": "26_27",
-      "rows": 1400,
-      "unique_events": 45,
-      "unique_players": 392
+      "rows": 1680,
+      "unique_events": 54,
+      "unique_players": 398
     },
     {
       "competition_id": 39,
       "season_id": 95785,
       "league": "Danish Superliga",
       "season": "26_27",
-      "rows": 1295,
-      "unique_events": 41,
-      "unique_players": 279
+      "rows": 1512,
+      "unique_events": 48,
+      "unique_players": 288
     },
     {
       "competition_id": 40,
       "season_id": 87925,
       "league": "Allsvenskan",
       "season": "2026",
-      "rows": 4789,
-      "unique_events": 156,
-      "unique_players": 440
+      "rows": 5157,
+      "unique_events": 168,
+      "unique_players": 452
     },
     {
       "competition_id": 41,
@@ -194,18 +194,18 @@
       "season_id": 97406,
       "league": "2. Bundesliga",
       "season": "26_27",
-      "rows": 1125,
-      "unique_events": 36,
-      "unique_players": 366
+      "rows": 1408,
+      "unique_events": 45,
+      "unique_players": 380
     },
     {
       "competition_id": 45,
       "season_id": 97043,
       "league": "Austrian Bundesliga",
       "season": "26_27",
-      "rows": 939,
-      "unique_events": 30,
-      "unique_players": 251
+      "rows": 1121,
+      "unique_events": 36,
+      "unique_players": 261
     },
     {
       "competition_id": 46,
@@ -230,27 +230,27 @@
       "season_id": 98080,
       "league": "Trendyol Süper Lig",
       "season": "26_27",
-      "rows": 1057,
-      "unique_events": 34,
-      "unique_players": 377
+      "rows": 1404,
+      "unique_events": 45,
+      "unique_players": 394
     },
     {
       "competition_id": 53,
       "season_id": 99067,
       "league": "Serie B",
       "season": "Serie_B_26_27",
-      "rows": 920,
-      "unique_events": 29,
-      "unique_players": 405
+      "rows": 1265,
+      "unique_events": 40,
+      "unique_players": 427
     },
     {
       "competition_id": 54,
       "season_id": 97280,
       "league": "LaLiga 2",
       "season": "26_27",
-      "rows": 1368,
-      "unique_events": 43,
-      "unique_players": 475
+      "rows": 1752,
+      "unique_events": 55,
+      "unique_players": 504
     },
     {
       "competition_id": 91,
@@ -266,18 +266,18 @@
       "season_id": 98149,
       "league": "1. Lig",
       "season": "26_27",
-      "rows": 1753,
-      "unique_events": 56,
-      "unique_players": 440
+      "rows": 2190,
+      "unique_events": 70,
+      "unique_players": 460
     },
     {
       "competition_id": 131,
       "season_id": 96187,
       "league": "Eerste Divisie",
       "season": "26_27",
-      "rows": 1566,
-      "unique_events": 50,
-      "unique_players": 442
+      "rows": 2003,
+      "unique_events": 64,
+      "unique_players": 465
     },
     {
       "competition_id": 135,
@@ -293,18 +293,18 @@
       "season_id": 97124,
       "league": "Liga I",
       "season": "26_27",
-      "rows": 1889,
-      "unique_events": 61,
-      "unique_players": 370
+      "rows": 2196,
+      "unique_events": 71,
+      "unique_players": 384
     },
     {
       "competition_id": 155,
       "season_id": 87913,
       "league": "Liga Profesional Argentina",
       "season": "2026",
-      "rows": 11334,
-      "unique_events": 363,
-      "unique_players": 980
+      "rows": 11864,
+      "unique_events": 380,
+      "unique_players": 985
     },
     {
       "competition_id": 170,
@@ -347,9 +347,9 @@
       "season_id": 96109,
       "league": "Ligue 2",
       "season": "26_27",
-      "rows": 1369,
-      "unique_events": 44,
-      "unique_players": 384
+      "rows": 1687,
+      "unique_events": 54,
+      "unique_players": 400
     },
     {
       "competition_id": 183,
@@ -365,9 +365,9 @@
       "season_id": 98659,
       "league": "Stoiximan Super League",
       "season": "Super_League_26_27",
-      "rows": 602,
-      "unique_events": 19,
-      "unique_players": 275
+      "rows": 884,
+      "unique_events": 28,
+      "unique_players": 298
     },
     {
       "competition_id": 187,
@@ -446,9 +446,9 @@
       "season_id": 96589,
       "league": "Swiss Super League",
       "season": "26_27",
-      "rows": 1228,
-      "unique_events": 39,
-      "unique_players": 275
+      "rows": 1510,
+      "unique_events": 48,
+      "unique_players": 288
     },
     {
       "competition_id": 216,
@@ -500,18 +500,18 @@
       "season_id": 97436,
       "league": "Liga Portugal",
       "season": "26_27",
-      "rows": 1301,
-      "unique_events": 41,
-      "unique_players": 388
+      "rows": 1680,
+      "unique_events": 53,
+      "unique_players": 417
     },
     {
       "competition_id": 239,
       "season_id": 97470,
       "league": "Liga Portugal 2",
       "season": "26_27",
-      "rows": 1133,
-      "unique_events": 36,
-      "unique_players": 381
+      "rows": 1675,
+      "unique_events": 53,
+      "unique_players": 421
     },
     {
       "competition_id": 240,
@@ -527,9 +527,9 @@
       "season_id": 86668,
       "league": "MLS",
       "season": "2026",
-      "rows": 10566,
-      "unique_events": 343,
-      "unique_players": 813
+      "rows": 11470,
+      "unique_events": 372,
+      "unique_players": 827
     },
     {
       "competition_id": 266,
@@ -563,9 +563,9 @@
       "season_id": 87678,
       "league": "Brasileirão Série A",
       "season": "2026",
-      "rows": 8028,
-      "unique_events": 254,
-      "unique_players": 691
+      "rows": 8408,
+      "unique_events": 266,
+      "unique_players": 701
     },
     {
       "competition_id": 328,
@@ -626,17 +626,17 @@
       "season_id": 89840,
       "league": "Brasileirão Série B",
       "season": "2026",
-      "rows": 8289,
-      "unique_events": 260,
-      "unique_players": 702
+      "rows": 8927,
+      "unique_events": 280,
+      "unique_players": 721
     },
     {
       "competition_id": 406,
       "season_id": 88529,
       "league": "Liga 1 Perú",
       "season": "2026",
-      "rows": 6982,
-      "unique_events": 225,
+      "rows": 7226,
+      "unique_events": 233,
       "unique_players": 496
     },
     {
@@ -824,9 +824,9 @@
       "season_id": 88838,
       "league": "Canadian Championship",
       "season": "2026",
-      "rows": 33,
-      "unique_events": 1,
-      "unique_players": 33
+      "rows": 65,
+      "unique_events": 2,
+      "unique_players": 37
     },
     {
       "competition_id": 9233,

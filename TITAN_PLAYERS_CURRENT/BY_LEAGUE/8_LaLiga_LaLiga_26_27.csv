@@ -1173,67 +1173,637 @@ LaLiga,26_27,Deportivo Alavés vs Osasuna,06/09/2026,Youssef Enriquez,D,Deportiv
 LaLiga,26_27,Deportivo Alavés vs Osasuna,06/09/2026,Ángel Pérez,M,Deportivo Alavés,90,8.5,0,2,0.1634,0.468512,1,1,1,30,3,3,0,55,4,0,0,6,2,1,0,0,0,0
 LaLiga,26_27,Deportivo Alavés vs Osasuna,06/09/2026,Xanet Olaiz,D,Deportivo Alavés,10,6.6,0,0,0,0.00004016,0,0,0,7,0,0,0,10,0,0,0,0,0,0,0,0,0,0
 LaLiga,26_27,Deportivo Alavés vs Osasuna,06/09/2026,Aitor Mañas,F,Deportivo Alavés,19,6.6,0,0,0,0.00008293,0,0,0,4,0,0,0,8,1,0,0,2,0,0,0,0,0,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Alfonso Herrero,G,Málaga CF,90,8.1,0,0,0,0.00009298,0,0,0,46,0,0,0,53,0,0,0,1,0,0,0,0,0,3
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Einar Galilea,D,Málaga CF,90,7.1,0,0,0,0.00467411,0,0,0,92,0,0,0,104,0,0,2,1,1,1,0,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Alfonso Herrero,G,Málaga CF,90,8.1,0,0,0,0.00009298,0,0,0,46,0,0,0,54,0,0,0,1,0,0,0,0,0,3
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Einar Galilea,D,Málaga CF,90,7.1,0,0,0,0.00467411,0,0,0,92,0,0,0,105,1,0,2,2,1,1,0,0,0,0
 LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Jens-Lys Cajuste,M,Málaga CF,9,6.7,0,0,0,0.00052297,0,0,0,6,0,0,0,7,0,1,0,1,0,0,0,0,0,0
 LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Joaquín Muñoz,M,Málaga CF,31,6.8,0,0,0,0.0598109,0,0,0,11,2,0,0,17,1,0,0,2,1,1,0,0,0,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Pablo Martínez,M,Málaga CF,59,6.7,0,0,0.0142,0.0389669,1,0,0,40,2,0,0,53,0,0,1,0,1,0,1,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Pablo Martínez,M,Málaga CF,59,6.7,0,0,0.0145,0.0389489,1,0,0,39,2,0,0,51,0,0,1,0,1,0,1,0,0,0
 LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Juan Cruz,M,Málaga CF,59,6.7,0,0,0,0.0187871,0,0,0,21,0,0,0,30,1,2,0,3,0,0,0,0,0,0
 LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Ramón Enríquez,M,Málaga CF,23,6.7,0,0,0,0.0128661,0,0,0,24,0,0,0,28,1,0,2,1,0,0,0,0,0,0
 LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Carlos Dotor,M,Málaga CF,86,6.4,0,0,0.0858,0.153319,1,0,0,41,2,0,0,57,1,3,0,6,3,0,0,0,1,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,David Larrubia,M,Málaga CF,90,6.5,0,0,0.1965,0.180442,2,0,0,22,1,0,0,48,3,1,0,5,0,1,0,0,0,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Jose Salinas,D,Málaga CF,90,7,0,0,0,0.0110502,0,0,0,45,0,0,0,63,1,0,2,4,1,2,0,0,0,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Ángel Recio,D,Málaga CF,90,7.3,0,0,0.0155,0.0172716,1,1,0,102,0,0,0,108,0,1,1,3,1,0,0,0,0,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Carlos Puga,D,Málaga CF,23,7,0,0,0,0.00884467,0,0,0,22,0,0,0,36,3,1,1,5,2,1,1,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,David Larrubia,M,Málaga CF,90,6.5,0,0,0.3195,0.180442,2,0,0,22,1,0,0,48,3,1,0,5,0,1,0,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Jose Salinas,D,Málaga CF,90,7,0,0,0,0.0110502,0,0,0,45,0,0,0,63,1,1,1,5,1,2,0,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Ángel Recio,D,Málaga CF,90,7.3,0,0,0.0155,0.0172716,1,1,0,103,0,0,0,109,0,1,1,3,1,0,0,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Carlos Puga,D,Málaga CF,23,7,0,0,0,0.00825893,0,0,0,22,0,0,0,37,3,1,1,5,2,1,1,0,0,0
 LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Dani Lorenzo,M,Málaga CF,67,7,0,0,0.1761,0.0338403,1,0,0,45,1,0,1,57,3,1,0,6,2,2,1,0,0,0
 LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Izan Merino,M,Málaga CF,31,6.9,0,0,0,0.0122476,0,0,0,20,0,0,0,21,0,1,0,1,0,0,0,0,0,0
 LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Rafa Garrido,D,Málaga CF,67,6.7,0,0,0,0.0179002,0,0,0,27,0,0,0,44,3,0,0,3,1,0,1,0,1,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Chupete,F,Málaga CF,90,5.7,0,0,0.9766,0.0188784,4,2,0,14,0,0,1,28,0,0,0,4,2,2,0,0,1,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Aïssa Mandi,D,Levante UD,90,6.9,0,0,0,0.00636823,0,0,0,60,0,0,0,70,0,1,2,1,0,0,1,0,0,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Mathew Ryan,G,Levante UD,90,8,0,0,0,0.00016251,0,0,0,34,0,0,0,45,0,0,0,0,0,0,0,0,0,3
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Chupete,F,Málaga CF,90,5.7,0,0,0.9748,0.0188784,4,2,0,14,0,0,1,28,0,0,0,4,2,2,0,0,1,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Aïssa Mandi,D,Levante UD,90,6.9,0,0,0,0.00636823,0,0,0,59,0,0,0,70,0,1,2,1,0,0,1,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Mathew Ryan,G,Levante UD,90,8,0,0,0,0.00016251,0,0,0,35,0,0,0,45,0,0,0,0,0,0,0,0,0,3
 LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Jeremy Toljan,D,Levante UD,13,6.7,0,0,0,0.00046927,0,0,0,4,0,0,0,6,1,0,0,1,0,0,0,0,0,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Oriol Rey,M,Levante UD,90,6.8,0,0,0.017,0.00805908,1,0,0,31,0,0,0,40,0,1,1,2,1,0,0,0,0,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Roger Brugué,M,Levante UD,90,6.3,0,0,0.1037,0.00007892,1,0,0,15,0,0,0,21,0,0,0,2,1,1,0,0,0,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Manuel Sánchez,D,Levante UD,90,8,0,0,0,0.0584926,0,0,0,49,1,0,0,72,0,12,0,14,1,2,0,0,0,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Enzo Bardeli,M,Levante UD,77,6.3,0,0,0.0658,0.148139,1,0,0,21,2,0,0,40,0,3,3,3,2,0,0,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Oriol Rey,M,Levante UD,90,6.8,0,0,0.017,0.00807348,1,0,0,32,0,0,0,40,0,1,1,2,1,0,0,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Roger Brugué,M,Levante UD,90,6.3,0,0,0.1549,0.00007892,1,0,0,15,0,0,0,21,0,0,0,2,1,1,0,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Manuel Sánchez,D,Levante UD,90,8,0,0,0,0.0594941,0,0,0,49,1,0,0,72,0,12,0,14,1,2,0,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Enzo Bardeli,M,Levante UD,77,6.3,0,0,0.0405,0.148139,1,0,0,20,2,0,0,40,0,3,3,4,2,0,0,0,0,0
 LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Adrián de la Fuente,D,Levante UD,90,7.3,0,0,0.0277,0.0203403,1,0,0,42,0,0,0,56,0,1,1,5,2,2,1,0,0,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Jon Ander Olasagasti,M,Levante UD,86,7.4,0,0,0.1046,0.0718718,1,0,0,28,1,0,0,50,0,3,0,10,1,5,0,0,0,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Iván Romero,F,Levante UD,60,6.7,0,0,0.1333,0.130283,2,1,0,12,2,1,0,24,1,1,0,5,0,2,0,0,0,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Hugo Sotelo,M,Levante UD,13,6.6,0,0,0,0.00000507,0,0,0,2,0,0,0,4,0,0,1,0,0,0,0,0,0,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Thiago Fernández,M,Levante UD,77,7,0,0,0.2418,0.0224465,3,1,0,16,1,0,1,27,2,2,1,4,0,0,0,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Jon Ander Olasagasti,M,Levante UD,86,7.4,0,0,0.1585,0.0718986,1,0,0,29,1,0,0,49,0,2,0,10,1,5,0,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Iván Romero,F,Levante UD,60,6.7,0,0,0.1053,0.130283,2,1,0,12,2,1,0,24,1,1,0,7,0,2,0,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Hugo Sotelo,M,Levante UD,13,6.6,0,0,0,0.00000507,0,0,0,2,0,0,0,5,0,1,1,1,0,0,0,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Thiago Fernández,M,Levante UD,77,7,0,0,0.3621,0.0285507,3,1,0,16,1,0,1,29,3,2,1,5,0,0,0,0,0,0
 LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Daniel Requena,M,Levante UD,9,6.6,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,1,0,0,0,0
 LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Paco Cortés,F,Levante UD,13,6.5,0,0,0,0.000031,0,0,0,2,0,0,0,5,1,0,0,2,0,1,0,0,0,0
-LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Yanis Musuayi,F,Levante UD,30,6.4,0,0,0,0.00005039,0,0,0,4,0,0,0,14,1,0,0,2,2,1,0,0,0,0
+LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Yanis Musuayi,F,Levante UD,30,6.4,0,0,0,0.00005039,0,0,0,4,0,0,0,16,1,0,0,2,2,1,0,0,0,0
 LaLiga,26_27,Málaga CF vs Levante UD,06/09/2026,Nacho Pérez,D,Levante UD,77,6.9,0,0,0.1137,0.0129215,1,1,0,15,0,0,1,28,0,1,1,1,1,0,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Leandro Cabrera,D,Espanyol,90,6.7,0,0,0,0.0324621,0,0,0,51,0,0,0,59,0,1,0,4,3,1,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Leandro Cabrera,D,Espanyol,90,6.8,0,0,0,0.0324621,0,0,0,50,0,0,0,58,0,1,0,4,3,1,0,0,0,0
 LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Marko Dmitrović,G,Espanyol,90,6.8,0,0,0,0.00069751,0,0,0,27,0,0,0,42,1,0,0,1,0,0,0,0,0,2
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Edu Expósito,M,Espanyol,90,7.7,0,0,0.141,0.610396,1,0,0,49,6,2,0,71,3,0,1,5,1,0,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Unai Núñez,D,Espanyol,86,6.1,0,0,0.0238,0.0192189,1,0,0,62,0,0,0,71,1,1,0,3,0,0,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Tyrhys Dolan,M,Espanyol,90,6.6,0,0,0,0.0117709,0,0,0,23,0,0,0,36,1,1,1,4,1,2,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Urko González,M,Espanyol,31,6.8,0,0,0,0.0109488,0,0,0,21,0,0,0,25,0,2,0,4,0,1,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Omar El Hilali,D,Espanyol,75,7.4,0,0,0,0.0835113,0,0,0,8,1,0,0,32,0,4,1,6,0,1,0,0,1,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Bryan Zaragoza,F,Espanyol,15,7,0,0,0,0.344376,0,0,0,11,0,0,0,12,0,0,0,0,0,0,0,0,1,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Clemens Riedel,D,Espanyol,16,6.8,0,0,0,0.00328904,0,0,0,11,0,0,0,13,0,0,0,0,0,0,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Álex Calatrava,M,Espanyol,59,6.7,0,0,0.1652,0.0327031,2,0,0,14,0,0,1,23,0,1,0,6,0,2,1,0,1,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Marcos Fernández,F,Espanyol,31,7.2,1,0,0.5535,0.00076786,3,2,1,4,0,0,2,12,0,1,0,3,2,0,0,0,1,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Quilindschy Hartman,D,Espanyol,16,6.9,0,0,0,0.183862,0,0,0,9,1,1,0,14,0,0,0,1,2,0,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Roberto Fernández,F,Espanyol,90,6.8,0,0,0.259,0.00271678,3,0,0,7,0,0,0,20,0,1,0,4,2,2,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Gabriel Moscardo,M,Espanyol,59,7.1,0,0,0,0.0136426,0,0,0,21,0,0,0,33,0,3,1,9,1,1,1,0,1,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Javier Hernández,M,Espanyol,90,5.7,0,0,0.0603,0.0187987,2,1,0,21,0,0,0,44,1,0,0,2,5,1,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Roger Hinojo,D,Espanyol,86,6.5,0,0,0,0.0322035,0,0,0,40,0,0,0,61,0,2,3,3,0,0,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Edu Expósito,M,Espanyol,90,7.8,0,0,0.141,0.674493,1,0,0,49,6,1,0,71,3,0,1,5,1,0,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Unai Núñez,D,Espanyol,86,6.1,0,0,0.0238,0.0192189,1,0,0,63,0,0,0,72,1,1,0,3,0,0,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Tyrhys Dolan,M,Espanyol,90,6.5,0,0,0,0.0117709,0,0,0,23,0,0,0,36,1,0,1,3,1,2,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Urko González,M,Espanyol,31,6.8,0,0,0,0.0109483,0,0,0,21,0,0,0,25,0,2,0,4,0,1,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Omar El Hilali,D,Espanyol,75,7.4,0,0,0,0.0658527,0,0,0,9,1,0,0,32,0,4,1,6,0,1,0,0,1,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Bryan Zaragoza,F,Espanyol,15,7,0,0,0,0.344375,0,0,0,11,0,0,0,12,0,0,0,0,0,0,0,0,1,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Clemens Riedel,D,Espanyol,16,6.8,0,0,0,0.00230353,0,0,0,11,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Álex Calatrava,M,Espanyol,59,6.7,0,0,0.1652,0.0327029,2,0,0,14,0,0,0,23,0,1,0,6,0,2,1,0,1,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Marcos Fernández,F,Espanyol,31,7,1,0,0.5788,0.00017841,3,2,1,4,0,0,2,12,0,1,0,3,2,0,0,0,1,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Quilindschy Hartman,D,Espanyol,16,6.9,0,0,0,0.206795,0,0,0,9,1,1,0,14,0,0,0,1,2,0,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Roberto Fernández,F,Espanyol,90,6.8,0,0,0.259,0.00271682,3,0,0,7,0,0,0,20,0,1,0,4,2,2,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Gabriel Moscardo,M,Espanyol,59,6.9,0,0,0,0.0136332,0,0,0,21,0,0,0,32,0,2,1,8,1,1,1,0,1,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Javier Hernández,M,Espanyol,90,5.7,0,0,0.0603,0.0188531,2,1,0,21,0,0,0,44,1,0,0,2,5,1,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Roger Hinojo,D,Espanyol,86,6.4,0,0,0,0.0322031,0,0,0,40,0,0,0,61,0,2,3,3,0,0,0,0,0,0
 LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Odysseas Vlachodimos,G,Sevilla,90,7.1,0,0,0,0.00122929,0,0,0,30,0,0,0,38,0,0,0,1,0,0,0,0,0,2
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Jon Guridi,M,Sevilla,71,6.4,0,0,0,0.0352319,0,0,0,22,1,1,0,30,1,0,1,3,1,0,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Gabriel Suazo,D,Sevilla,90,7.2,0,0,0,0.122401,0,0,0,29,0,0,0,45,0,4,0,5,0,0,0,0,1,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Chidera Ejuke,F,Sevilla,60,6.6,0,0,0,0.0150228,0,0,0,24,0,0,0,36,1,0,2,2,0,0,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Giorgi Kochorashvili,M,Sevilla,54,6.6,0,0,0,0.0181341,0,0,0,28,0,0,0,42,0,1,1,2,1,1,1,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Youssouf Fofana,M,Sevilla,36,6.2,0,0,0.0061,0.0317862,1,0,0,6,0,0,0,16,0,0,0,0,1,0,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Juan Iglesias,D,Sevilla,90,6.5,0,0,0.026,0.0296892,1,1,0,28,0,0,0,46,0,1,1,3,1,2,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Lucien Agoumé,M,Sevilla,90,7.1,0,0,0,0.105742,0,0,0,43,0,0,0,58,2,2,4,5,2,0,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,José Ángel Carmona,D,Sevilla,19,6.5,0,0,0,0.0449225,0,0,0,4,1,0,0,14,0,0,0,2,0,2,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Arouna Sangante,D,Sevilla,56,5.9,0,0,0,0.0039989,0,0,0,26,0,0,0,32,0,0,1,2,1,1,0,1,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Kike Salas,D,Sevilla,90,6.4,0,0,0,0.0120145,0,0,0,29,0,0,0,47,0,1,1,8,0,2,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Lucas Stassin,F,Sevilla,36,7.4,1,0,0.3995,0.00065598,2,2,0,6,0,0,1,12,1,0,0,3,0,0,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Manu Bueno,M,Sevilla,19,6.5,0,0,0,0.0370645,0,0,0,8,1,0,0,14,0,0,0,3,0,2,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Robbie Ure,F,Sevilla,54,6.5,0,0,0,0.0248584,0,0,0,9,0,0,0,19,1,0,0,4,2,3,1,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Andres Castrin,D,Sevilla,30,6.4,0,0,0.0215,0.00002581,1,0,0,2,0,0,0,9,0,1,2,2,0,0,0,0,0,0
-LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Miguel Sierra,M,Sevilla,71,6.6,0,0,0.0149,0.00960936,1,0,0,17,0,0,0,38,2,1,0,6,4,3,1,0,1,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Jon Guridi,M,Sevilla,71,6.5,0,0,0,0.0448002,0,0,0,23,1,1,0,30,1,0,1,3,1,0,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Gabriel Suazo,D,Sevilla,90,7.1,0,0,0,0.101755,0,0,0,29,0,0,0,46,0,4,0,5,0,0,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Chidera Ejuke,F,Sevilla,60,6.6,0,0,0,0.0150137,0,0,0,24,0,0,0,36,1,0,2,2,0,0,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Giorgi Kochorashvili,M,Sevilla,54,6.6,0,0,0,0.0181247,0,0,0,28,0,0,0,42,0,1,1,2,1,1,1,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Youssouf Fofana,M,Sevilla,36,6.2,0,0,0.0082,0.0317862,1,0,0,6,0,0,0,16,0,0,0,0,1,0,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Juan Iglesias,D,Sevilla,90,6.6,0,0,0.021,0.0228425,1,1,0,30,0,0,0,46,0,1,1,3,1,2,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Lucien Agoumé,M,Sevilla,90,7.1,0,0,0,0.218869,0,0,0,43,0,0,0,58,2,2,4,5,2,0,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,José Ángel Carmona,D,Sevilla,19,6.4,0,0,0,0.0298323,0,0,0,4,1,0,0,14,0,0,0,2,0,2,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Arouna Sangante,D,Sevilla,56,5.9,0,0,0,0.00404863,0,0,0,26,0,0,0,32,0,0,1,2,1,1,0,1,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Kike Salas,D,Sevilla,90,6.4,0,0,0,0.0132314,0,0,0,29,0,0,0,47,0,1,1,8,0,2,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Lucas Stassin,F,Sevilla,36,7.4,1,0,0.3995,0.0006539,2,2,0,6,0,0,1,12,1,0,0,3,0,0,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Manu Bueno,M,Sevilla,19,6.4,0,0,0,0.0370645,0,0,0,8,1,0,0,14,0,0,0,2,0,2,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Robbie Ure,F,Sevilla,54,6.5,0,0,0,0.0248585,0,0,0,9,0,0,0,19,1,0,0,4,2,3,1,0,1,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Andrés Castrin,D,Sevilla,30,6.4,0,0,0.0215,0.00002581,1,0,0,2,0,0,0,9,0,1,2,2,0,0,0,0,0,0
+LaLiga,26_27,Espanyol vs Sevilla,06/09/2026,Miguel Sierra,M,Sevilla,71,6.6,0,0,0.0795,0.00960936,1,0,0,17,0,0,0,38,2,1,0,6,4,3,1,0,1,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Iago Aspas,F,Celta Vigo,64,6.7,0,0,0.0415,0.0307897,1,0,0,35,0,0,0,42,1,1,0,5,0,2,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Marcos Alonso,D,Celta Vigo,90,7,0,0,0,0.0843407,0,0,0,82,0,0,0,95,0,2,2,4,1,0,1,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Carl Starfelt,D,Celta Vigo,90,8.4,1,0,0.1377,0.0330844,2,1,0,92,1,0,0,104,0,3,2,5,1,1,1,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Borja Iglesias,F,Celta Vigo,21,6.3,0,0,0.2881,0.00722451,2,0,0,5,0,0,0,8,0,0,0,0,0,0,0,0,1,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Ionuț Radu,G,Celta Vigo,90,6.7,0,0,0,0.00042595,0,0,0,24,0,0,0,37,0,0,0,0,0,0,0,0,0,1
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Javi Galán,D,Celta Vigo,64,6.8,0,0,0,0.134833,0,0,0,25,2,0,0,41,0,2,0,2,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Ferrán Jutglà,F,Celta Vigo,13,6.7,0,0,0,0.0168113,0,0,0,3,0,0,0,5,1,1,0,2,1,0,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Ilaix Moriba,M,Celta Vigo,90,6.5,0,0,0.0154,0.0860764,1,0,0,79,0,0,0,89,0,2,0,2,1,0,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Hugo González,M,Celta Vigo,83,7,0,1,0.363,0.173162,4,2,0,29,3,1,1,54,2,0,0,5,1,3,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Sergio Carreira,M,Celta Vigo,26,6.9,0,0,0,0.0594542,0,0,0,20,1,0,0,22,0,0,0,0,0,0,0,0,1,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Javier Rueda,M,Celta Vigo,26,7,0,0,0,0.281418,0,0,0,9,2,1,0,17,0,1,1,2,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Couhaib Driouech,F,Celta Vigo,26,6.6,0,0,0.038,0.157616,1,0,0,11,2,0,0,23,0,1,0,1,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Yoel Lago,D,Celta Vigo,90,6.8,0,0,0,0.0396402,0,0,0,79,0,0,0,97,0,0,1,1,1,0,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Jones El-Abdellaoui,F,Celta Vigo,64,6.2,0,0,0.0319,0.00868241,1,0,0,20,0,0,0,38,1,0,0,2,2,0,0,0,1,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Pablo Durán,F,Celta Vigo,69,5.8,0,0,0.0673,0.0379069,1,0,0,18,1,0,0,27,0,0,0,1,1,1,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Miguel Román,M,Celta Vigo,90,6.6,0,0,0.0427,0.0686186,3,0,0,57,1,0,0,66,1,1,1,4,0,1,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Kiko Femenía,D,Getafe,8,6.7,0,0,0,0.00038467,0,0,0,3,0,0,0,4,0,0,1,0,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Nemanja Gudelj,M,Getafe,90,6.3,0,0,0.0218,0.00780997,1,0,0,30,0,0,0,36,0,1,1,3,1,0,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Djené,D,Getafe,90,6.2,0,0,0,0.00078543,0,0,0,25,0,0,0,27,0,0,1,0,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Enes Ünal,F,Getafe,90,6.9,0,0,0.1,0.0149404,1,0,0,10,1,0,0,28,0,1,0,6,0,1,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Johan Mojica,D,Getafe,90,6.9,0,0,0,0.0367274,0,0,0,15,1,0,0,46,0,2,0,5,1,3,1,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,David Soria,G,Getafe,90,7.3,0,0,0,0.00780193,0,0,0,42,0,0,0,47,0,0,0,0,0,0,0,0,0,2
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Orel Mangala,M,Getafe,89,6.3,0,0,0,0.00438953,0,0,0,15,0,0,0,24,0,0,4,1,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Martín Satriano,F,Getafe,73,7.6,1,0,0.2666,0.00477377,3,1,0,13,0,0,0,29,2,0,0,3,1,1,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Ivan Azón,F,Getafe,17,6.5,0,0,0,0.00026157,0,0,0,3,0,0,0,5,0,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Ramón Terrats,M,Getafe,89,6.6,0,0,0.1452,0.131691,2,0,0,19,0,0,1,34,0,1,0,4,3,2,1,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Zaid Romero,D,Getafe,67,5.8,0,0,0.0428,0.00449075,1,0,0,31,0,0,0,44,2,0,3,2,2,0,2,1,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Mario Martín,M,Getafe,90,6.6,0,0,0.069,0.00833132,2,1,0,24,0,0,0,40,0,2,1,4,0,1,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Sebastián Boselli,D,Getafe,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Andrés García,D,Getafe,82,6.8,0,0,0,0.0115946,0,0,0,23,1,0,0,47,2,2,2,4,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Celta Vigo,07/09/2026,Oscar Lopez,M,Getafe,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Gonçalo Guedes,M,Real Sociedad,58,6.6,0,0,0.0199,0.0499666,1,0,0,15,1,0,0,28,0,1,0,2,0,0,0,0,1,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Mikel Oyarzabal,F,Real Sociedad,70,6.9,0,0,0,0.0900472,0,0,0,22,0,0,0,29,0,1,0,3,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Carlos Soler,M,Real Sociedad,90,7,0,1,0,0.201707,0,0,0,38,2,1,0,52,0,0,1,2,1,2,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Igor Zubeldia,D,Real Sociedad,90,6.3,0,0,0,0.00137237,0,0,0,29,0,0,0,47,0,4,1,5,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Yangel Herrera,M,Real Sociedad,70,7.7,1,0,0.1286,0.0108634,3,1,0,35,0,0,0,42,1,0,0,4,0,1,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Sergio Gómez,D,Real Sociedad,90,6.8,0,0,0,0.0131203,0,0,0,51,1,0,0,74,0,3,1,4,0,1,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Jon Pacheco,D,Real Sociedad,20,6.6,0,0,0,0.00003049,0,0,0,3,0,0,0,8,0,1,0,1,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Luka Sučić,M,Real Sociedad,90,8.5,1,0,0.2155,0.0664586,4,2,0,36,1,0,0,55,3,4,0,10,0,1,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Unai Marrero,G,Real Sociedad,90,8.7,0,0,0,0.00290749,0,0,0,37,0,0,0,53,0,0,0,1,0,0,0,0,0,8
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Job Ochieng,M,Real Sociedad,90,8.3,1,2,0.189,0.0789827,4,2,0,16,3,0,0,42,0,1,0,4,2,1,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Jon Aramburu,D,Real Sociedad,90,6.7,0,0,0.0215,0.0094209,1,1,0,37,1,0,0,64,1,5,0,11,4,2,1,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Mamadou Sarr,D,Real Sociedad,58,7.1,0,0,0,0.00170227,0,0,0,30,0,0,0,38,0,1,0,2,0,1,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Jon Gorrotxategi,M,Real Sociedad,20,6.5,0,0,0,0.00318443,0,0,0,4,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Héctor Fort,D,Real Sociedad,9,6.8,0,0,0,0.00033777,0,0,0,1,0,0,0,6,0,1,1,1,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Jon Martin,D,Real Sociedad,6,4.4,0,0,0,0.0000426,0,0,0,3,0,0,0,3,0,0,0,0,1,0,0,1,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Alex Marchal,M,Real Sociedad,23,6.5,0,0,0,0.00012442,0,0,0,4,0,0,0,7,1,1,0,2,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Pedro Bigas,D,Elche,90,5.4,0,0,0.0187,0.0129684,1,1,0,69,0,0,0,76,0,0,0,1,1,1,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Thomas Lemar,M,Elche,35,8,1,0,0.1226,0.262836,3,1,0,28,1,1,0,40,0,3,0,3,1,0,1,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Ezequiel Ponce,F,Elche,55,6.4,0,0,0.1102,0.00275833,1,0,0,13,0,0,0,18,0,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Matías Dituro,G,Elche,90,5.8,0,0,0,0.00420575,0,0,0,41,0,0,0,51,0,0,0,0,0,0,0,0,0,3
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Tete Morente,F,Elche,90,6.3,0,1,0.0229,0.0547204,1,0,0,33,2,1,0,62,1,0,1,1,1,0,1,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Josan,M,Elche,9,6.9,0,0,0,0.372184,0,0,0,4,3,1,0,11,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Víctor Chust,D,Elche,90,6.6,0,1,0.2506,0.0286422,1,1,0,84,1,0,1,89,0,0,0,3,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Gonzalo Villar,M,Elche,70,6.9,0,0,0,0.0294476,0,0,0,46,1,0,0,57,1,3,0,6,2,1,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Germán Valera,M,Elche,81,7.1,0,0,0.0127,0.228586,1,0,0,25,3,0,0,56,3,0,0,6,0,3,1,0,1,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Fernando Niño,F,Elche,90,7.9,1,0,1.0817,0.137268,4,3,0,17,2,1,0,37,1,1,1,5,0,1,1,0,1,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Facundo Buonanotte,M,Elche,55,6.1,0,0,0.0985,0.124619,2,1,0,28,0,0,0,48,0,1,1,2,2,1,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Lucas Cepeda,M,Elche,20,7.4,0,0,0.0396,0.25308,2,2,0,28,2,1,0,36,0,1,1,1,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Roy Revivo,D,Elche,9,6.2,0,0,0.1188,0.00539899,1,0,0,6,0,0,1,19,0,1,1,1,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Abiel Osorio,F,Elche,35,6.1,0,0,0.5117,0.0371663,3,1,0,4,2,0,3,11,0,0,1,0,1,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Buba Sangaré,D,Elche,81,6.5,0,0,0,0.0106347,0,0,0,27,1,0,0,40,1,2,1,3,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Sociedad,07/09/2026,Javi Morcillo,M,Elche,90,6.5,0,0,0,0.0183932,0,0,0,43,0,0,0,51,0,2,2,3,1,0,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Stole Dimitrievski,G,Valencia,90,6.9,0,0,0,0.00315809,0,0,0,37,0,0,0,48,0,0,0,0,0,0,0,0,0,3
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,José Luis Gayà,D,Valencia,83,6.6,0,0,0,0.00601087,0,0,0,34,0,0,0,59,0,5,0,8,1,2,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Pablo Maffeo,D,Valencia,28,6.1,0,0,0,0.00006784,0,0,0,10,0,0,0,15,0,1,1,1,3,0,1,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Pepelu,M,Valencia,90,6.5,0,0,0,0.00721602,0,0,0,64,0,0,0,74,0,3,1,4,2,1,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Arnaut Danjuma,F,Valencia,90,6.2,0,0,0.0251,0.0283351,1,0,0,24,0,0,0,35,0,0,0,1,1,1,0,0,1,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Filip Ugrinić,M,Valencia,90,6.7,0,0,0,0.0497491,0,0,0,38,0,0,0,57,0,2,0,5,1,1,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Hugo Duro,F,Valencia,15,6.6,0,0,0,0.00002399,0,0,0,1,0,0,0,2,0,0,0,1,0,1,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Aliou Dieng,M,Valencia,90,7.2,0,0,0,0.0163167,0,0,0,51,1,0,0,73,0,7,0,10,1,0,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Harvey Elliott,M,Valencia,28,6.5,0,0,0,0.00601169,0,0,0,12,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,César Tárrega,D,Valencia,24,6.7,0,0,0,0.00367835,0,0,0,21,0,0,0,27,0,1,0,1,0,0,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Jesús Vázquez,D,Valencia,15,6.8,0,0,0,0.00218233,0,0,0,6,0,0,0,14,0,2,0,3,0,1,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Arnau Martínez,D,Valencia,62,6.7,0,0,0.0228,0.0197397,1,0,0,25,0,0,0,33,0,0,1,2,0,0,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Javier Guerra,M,Valencia,83,6.6,0,0,0,0.00465492,0,0,0,15,1,0,0,34,4,0,0,6,0,1,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Ryunosuke Sato,M,Valencia,62,6.1,0,0,0,0.0213572,0,0,0,27,0,0,0,35,0,0,0,0,2,0,1,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Iker Cordoba,D,Valencia,66,6.7,0,0,0,0.00187385,0,0,0,40,0,0,0,53,1,0,0,3,1,0,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,David Otorbi,F,Valencia,90,6.7,0,0,0.0541,0.0100631,1,0,1,22,0,0,0,39,1,1,1,3,0,0,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Odysseas Vlachodimos,G,Sevilla,90,6.7,0,0,0,0.00104079,0,0,0,12,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Jon Guridi,M,Sevilla,15,6.6,0,0,0,0.00570244,0,0,0,5,0,0,0,6,0,1,0,1,0,0,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Gabriel Suazo,D,Sevilla,90,7.8,0,0,0,0.17835,0,0,0,34,2,0,0,64,0,4,1,7,0,2,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Chidera Ejuke,F,Sevilla,27,6.2,0,0,0,0.002567,0,0,0,8,0,0,0,16,1,0,0,1,1,0,1,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Giorgi Kochorashvili,M,Sevilla,19,6.9,0,1,0.0132,0.15273,1,0,0,8,1,1,0,15,0,0,0,0,1,0,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Félix Correia,M,Sevilla,83,6.7,0,0,0,0.197671,0,0,0,26,3,0,0,39,2,0,0,4,0,1,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Youssouf Fofana,M,Sevilla,71,7.3,0,0,0.1754,0.050353,3,1,0,29,0,0,0,45,1,3,2,6,0,1,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Juan Iglesias,D,Sevilla,90,8.2,1,0,0.3211,0.0255833,1,1,0,41,0,0,0,72,1,2,2,5,1,0,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Lucien Agoumé,M,Sevilla,90,7.4,0,0,0.0354,0.0445618,2,0,0,46,0,0,0,59,1,1,2,3,0,0,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Isaac Romero,F,Sevilla,63,6.6,0,0,0.0749,0.0314127,1,0,0,23,1,0,0,42,0,2,0,7,1,2,0,0,1,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Kike Salas,D,Sevilla,90,7.1,0,0,0.0958,0.202073,2,1,0,43,0,0,0,60,0,3,0,4,4,0,0,0,1,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Lucas Stassin,F,Sevilla,83,6.4,0,0,0.0157,0.0131992,1,0,1,12,1,0,0,28,1,0,0,5,0,1,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Robbie Ure,F,Sevilla,27,6.4,0,0,0,0.0126706,0,0,0,6,1,0,0,15,0,0,0,1,0,1,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Julio Díaz,D,Sevilla,15,6.7,0,0,0,0.00160083,0,0,0,1,0,0,0,5,0,0,0,2,0,1,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Andrés Castrin,D,Sevilla,90,8,0,0,0.1562,0.0106146,1,1,0,38,0,0,0,51,0,2,1,3,0,1,0,0,0,0
+LaLiga,26_27,Sevilla vs Valencia,11/09/2026,Miguel Sierra,M,Sevilla,63,6.5,0,0,0.0486,0.0130815,1,0,0,16,0,0,0,30,0,0,0,2,0,1,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Sergio Canales,M,Real Racing Club,74,6.9,0,0,0.0238,0.159417,1,0,0,30,1,0,0,53,2,3,1,7,2,2,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Asier Villalibre,F,Real Racing Club,17,6.6,0,0,0,0.00013434,0,0,0,1,0,0,0,4,0,0,0,1,0,1,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Iñigo Vicente,M,Real Racing Club,84,8.3,0,1,0,0.696219,0,0,0,65,5,1,0,92,2,2,0,8,5,3,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,André Almeida,M,Real Racing Club,24,5.8,0,0,0,0.00226768,0,0,0,16,0,0,0,18,0,1,0,1,2,0,0,1,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Pablo Ramón,D,Real Racing Club,90,6.9,0,0,0,0.00220163,0,0,0,53,0,0,0,67,1,2,1,10,0,4,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Giorgi Guliashvili,F,Real Racing Club,15,6.5,0,0,0,0.0002322,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Iván Martín,M,Real Racing Club,90,6.9,0,0,0,0.01482,0,0,0,62,1,0,0,80,1,4,0,7,1,2,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Alvaro Mantilla,D,Real Racing Club,90,6.4,0,0,0,0.00580668,0,0,0,41,1,0,0,58,0,2,0,3,1,0,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Julen Agirrezabala,G,Real Racing Club,90,8.6,0,0,0,0.00023284,0,0,0,20,0,0,0,37,0,0,0,2,0,0,0,0,0,7
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Matteo Prati,M,Real Racing Club,84,6.7,0,0,0,0.00684909,0,0,0,34,0,0,0,47,0,4,0,6,1,2,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Jeanuël Belocian,D,Real Racing Club,90,6.7,0,0,0.0216,0.00214467,1,0,0,54,0,0,0,74,0,0,2,5,0,0,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Maguette Gueye,M,Real Racing Club,17,6.5,0,0,0,0.00001714,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Pedro Felipe,D,Real Racing Club,1,0,0,0,0,0.00010254,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Iker Luque,M,Real Racing Club,16,6.6,0,0,0.0488,0.00096921,1,0,0,3,0,0,0,9,1,0,0,1,0,0,0,0,1,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Yassir Zabiri,F,Real Racing Club,74,8.6,2,0,1.5057,0.0211701,5,3,0,16,1,0,0,27,0,1,0,2,2,1,1,0,1,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Jorge Salinas,D,Real Racing Club,90,7.4,0,1,0,0.671682,0,0,0,40,2,1,0,74,1,4,3,9,2,2,1,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Pablo García,M,Real Racing Club,65,6.5,0,0,0.4125,0.004986,3,1,0,14,0,0,0,25,2,0,0,2,0,0,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Denis Suárez,M,Deportivo Alavés,90,6.9,0,0,0,0.107546,0,0,0,44,2,0,0,62,1,2,0,6,0,3,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Mariano Díaz,F,Deportivo Alavés,67,6,0,0,0.6386,0.00264974,3,3,0,7,0,0,2,18,0,0,0,2,1,0,0,0,3,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Jonny Otto,D,Deportivo Alavés,90,7.3,0,0,0.0828,0.091857,1,1,0,47,1,0,0,74,2,3,1,8,0,2,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Antonio Sivera,G,Deportivo Alavés,90,7.2,0,0,0,0.0103345,0,0,0,26,0,0,0,33,0,0,0,0,0,0,0,0,0,2
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Carles Aleñá,M,Deportivo Alavés,23,6.5,0,0,0,0.00387829,0,0,0,10,0,0,0,14,1,1,0,2,0,0,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Lucas Boyé,F,Deportivo Alavés,90,6.2,0,0,0.1505,0.0319679,4,0,0,14,1,0,0,35,0,2,0,6,4,0,0,0,2,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Toni Martínez,F,Deportivo Alavés,23,7,0,0,0.0527,0.107599,1,0,0,3,1,0,0,11,0,1,0,5,0,2,0,0,1,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Antonio Blanco,M,Deportivo Alavés,67,6,0,0,0.0154,0.0077623,1,0,0,32,0,0,0,50,0,2,5,3,2,1,1,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Carlos Benavídez,D,Deportivo Alavés,45,6.2,0,0,0.0637,0.0131818,1,0,0,19,0,0,0,33,1,1,3,3,2,1,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Nahuel Tenaglia,D,Deportivo Alavés,45,6.9,0,0,0,0.261881,0,0,0,13,1,1,0,29,0,2,0,4,1,1,1,0,1,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Ville Koski,D,Deportivo Alavés,90,6.4,1,0,0.7752,0.0052149,1,1,0,30,0,0,0,43,0,0,0,1,2,0,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Miguel Rodríguez,M,Deportivo Alavés,1,0,0,0,0,0.00914884,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Abderrahman Rebbach,M,Deportivo Alavés,90,7.4,0,0,0.0643,0.0109377,2,2,0,23,0,0,0,49,2,5,0,10,1,2,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Pablo Ibáñez,M,Deportivo Alavés,45,6.2,0,0,0,0.00119101,0,0,0,12,0,0,0,25,1,0,0,3,3,2,1,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Nicolás Valentini,D,Deportivo Alavés,45,6.9,0,0,0,0.00694994,0,0,0,21,0,0,0,28,0,0,1,1,0,0,0,0,0,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Ángel Pérez,M,Deportivo Alavés,86,6.5,0,0,0.4533,0.195991,2,1,0,32,2,0,1,55,0,3,1,4,0,1,0,0,2,0
+LaLiga,26_27,Real Racing Club vs Deportivo Alavés,12/09/2026,Aitor Mañas,F,Deportivo Alavés,11,6.4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Leandro Cabrera,D,Espanyol,90,7.3,0,0,0,0.0712954,0,0,0,42,0,0,0,60,0,0,0,3,1,0,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Marko Dmitrović,G,Espanyol,90,8,0,0,0,0.00071445,0,0,0,33,0,0,0,56,0,0,0,1,0,1,0,0,0,4
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Pere Milla,M,Espanyol,10,6.6,0,0,0.022,0,1,0,0,1,0,0,0,6,0,1,0,3,0,1,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Edu Expósito,M,Espanyol,89,7.2,0,0,0.0458,0.148814,1,0,0,35,1,0,0,55,4,1,0,7,1,1,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Vanja Drkušić,D,Espanyol,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Tyrhys Dolan,M,Espanyol,66,6.5,0,0,0,0.157334,0,0,0,12,0,0,0,26,0,0,0,1,2,1,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Urko González,M,Espanyol,90,6.6,0,0,0,0.00357475,0,0,0,27,0,0,0,36,0,0,1,2,2,1,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Omar El Hilali,D,Espanyol,90,8.2,0,1,0,0.731349,0,0,0,33,1,1,0,64,1,5,1,7,6,0,1,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Bryan Zaragoza,F,Espanyol,10,6.7,0,0,0,0.0000037,0,0,0,3,0,0,0,5,1,0,0,2,0,1,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Clemens Riedel,D,Espanyol,90,6.7,0,0,0,0.00236284,0,0,0,44,0,0,0,60,0,2,2,5,3,0,1,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Álex Calatrava,M,Espanyol,24,6.5,0,0,0,0.00032584,0,0,0,4,0,0,0,12,1,1,1,2,1,0,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Marcos Fernández,F,Espanyol,66,7,0,1,0.053,0.402562,2,1,0,9,1,1,0,17,0,0,0,3,3,1,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Roberto Fernández,F,Espanyol,80,7.2,2,0,1.3134,0.153221,2,2,0,12,0,0,0,21,1,0,0,4,3,1,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Gabriel Moscardo,M,Espanyol,24,6.8,0,0,0,0.00101625,0,0,0,6,0,0,0,12,1,2,0,3,1,0,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Javier Hernández,M,Espanyol,80,6.9,0,0,0,0.0157235,0,0,0,21,0,0,0,49,3,3,1,6,0,0,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Roger Hinojo,D,Espanyol,90,6.9,0,0,0,0.00565569,0,0,0,43,0,0,0,63,0,1,0,4,1,1,1,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Ante Budimir,F,Osasuna,90,7.1,0,0,0.0739,0.0371762,1,0,0,18,0,0,0,29,1,0,0,7,2,2,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Rubén García,M,Osasuna,60,6.8,0,0,0.047,0.00767335,2,1,0,28,1,0,0,41,0,4,0,7,0,2,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Sergio Herrera,G,Osasuna,90,6.4,0,0,0,0.00042524,0,0,0,26,0,0,0,34,0,1,0,1,0,0,0,0,0,1
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Diego Rico,D,Osasuna,45,6.6,0,0,0,0.190784,0,0,0,21,0,0,0,40,0,2,0,6,0,3,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Kike Barja,F,Osasuna,60,6.5,0,0,0,0.211617,0,0,0,8,2,0,0,26,0,0,0,2,1,2,1,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Romain Del Castillo,M,Osasuna,19,6.9,0,0,0,0.0279792,0,0,0,8,0,0,0,13,0,1,0,3,0,1,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Alejandro Catena,D,Osasuna,90,7.1,0,0,0,0.0137243,0,0,0,77,0,0,0,92,0,5,1,12,2,3,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Jon Moncayola,M,Osasuna,90,6.8,0,0,0,0.0875592,0,0,0,54,1,0,0,68,0,2,0,3,1,0,1,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Raúl Moro,M,Osasuna,30,6.7,0,0,0.2395,0.0450103,3,1,0,10,1,0,0,26,3,0,0,3,0,0,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Raúl García de Haro,F,Osasuna,71,6.6,0,0,0.1226,0.00761242,2,0,0,13,0,0,0,23,1,0,0,5,0,3,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Abel Bretones,D,Osasuna,45,7.3,0,0,0,0.263571,0,0,0,36,1,1,0,52,1,1,0,3,1,1,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Jonathan Dubasin,M,Osasuna,30,6.6,0,0,0.5036,0.0166607,2,1,0,21,0,0,1,28,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Iker Muñoz,M,Osasuna,90,7.4,0,0,0.0596,0.0518621,1,1,0,66,0,0,0,84,1,0,0,7,0,3,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Asier Osambela,D,Osasuna,31,6.6,0,0,0,0.0125296,0,0,0,25,0,0,0,37,0,1,1,2,1,1,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Iñigo Arguibide,D,Osasuna,59,6.2,0,0,0,0.00492021,0,0,0,18,0,0,0,40,2,1,0,4,2,1,0,0,0,0
+LaLiga,26_27,Osasuna vs Espanyol,12/09/2026,Rockson Yeboah,D,Osasuna,90,7.3,0,0,0,0.0212706,0,0,0,65,1,0,0,80,2,2,1,6,0,0,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Yuri Berchiche,D,Athletic Club,90,7,0,0,0.1335,0.0481634,4,0,0,82,1,0,0,107,0,2,0,4,1,0,1,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Iñigo Ruiz de Galarreta,M,Athletic Club,65,7,0,0,0.0369,0.0268471,1,0,0,45,0,0,0,58,1,0,1,4,0,2,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Aymeric Laporte,D,Athletic Club,90,7.2,0,0,0,0.0309811,0,0,0,118,0,0,0,121,0,0,0,3,1,2,0,0,1,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Álex Berenguer,M,Athletic Club,18,7.5,0,0,0,0.0863285,0,0,0,8,1,0,0,14,0,0,0,1,1,1,1,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Iñaki Williams,M,Athletic Club,81,6.5,0,0,0.5318,0.00076411,3,0,0,6,0,0,1,22,1,1,0,3,1,1,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Unai Simón,G,Athletic Club,90,6.7,0,0,0,0.00353234,0,0,0,32,0,0,0,42,0,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Yeray Álvarez,D,Athletic Club,90,6.9,0,0,0,0.0135234,0,0,0,110,0,0,0,118,0,3,0,5,1,1,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Jesús Areso,D,Athletic Club,65,5.6,0,0,0,0.0189193,0,0,0,31,0,0,0,53,0,3,3,3,1,0,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Robert Navarro,M,Athletic Club,72,6.2,0,0,0.2942,0.113393,1,0,1,22,4,0,1,44,1,1,3,2,0,0,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Oihan Sancet,M,Athletic Club,90,7.1,0,0,0.2131,0.917394,4,0,0,30,3,1,0,47,0,0,0,2,0,2,0,0,1,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Nico Williams,M,Athletic Club,90,8.2,0,0,0.0972,1.05161,3,1,0,41,4,1,0,66,0,1,0,1,1,0,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Johaneko Louis Jean,D,Athletic Club,25,6.8,0,0,0,0.0043286,0,0,0,15,0,0,0,21,0,1,1,1,0,0,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Beñat Gerenabarrena,M,Athletic Club,90,6.1,0,0,0,0.0186752,0,0,0,47,0,0,0,56,0,1,1,3,4,1,1,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Mikel Jauregizar,M,Athletic Club,25,7.1,0,0,0,0.00869122,0,0,0,26,0,0,0,30,0,1,1,4,0,2,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Maroan Sannadi,F,Athletic Club,9,6.3,0,0,0.2984,0,2,1,0,1,0,0,1,3,0,0,0,1,0,0,0,0,2,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Thomas Lemar,M,Elche,21,6.4,0,0,0,0.00768083,0,0,0,10,0,0,0,14,0,0,0,0,2,0,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Matías Dituro,G,Elche,90,7,0,0,0,0.00108931,0,0,0,46,0,0,0,51,0,0,0,0,0,0,0,0,0,2
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Tete Morente,F,Elche,76,6.5,0,0,0,0.0100869,0,0,0,18,0,0,0,32,2,1,1,4,0,1,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Víctor Chust,D,Elche,90,6.7,0,0,0.0439,0.00164879,1,0,0,40,0,0,0,51,0,0,1,1,1,0,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Gonzalo Villar,M,Elche,83,7.3,0,0,0,0.0366631,0,0,0,38,0,0,0,52,3,2,1,7,1,2,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Germán Valera,M,Elche,82,6.7,0,0,0,0.0216415,0,0,0,17,0,0,0,33,0,0,2,2,0,2,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Fernando Niño,F,Elche,69,6.5,0,0,0,0.00392311,0,0,0,19,0,0,0,30,1,2,0,7,2,0,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Rubén Sánchez,D,Elche,14,6.1,0,0,0.0099,0.00014347,1,0,0,2,0,0,0,9,0,0,0,0,1,0,1,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Martim Neto,M,Elche,14,6.7,0,0,0,0.00941345,0,0,0,4,0,0,0,6,1,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Facundo Buonanotte,M,Elche,69,7,1,0,0.7884,0.00123008,1,1,0,14,0,0,0,28,0,2,1,2,1,0,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Federico Redondo,M,Elche,90,7.3,0,0,0,0.00150008,0,0,0,40,0,0,0,62,0,6,4,8,1,2,1,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Lucas Cepeda,M,Elche,8,6.4,0,0,0,0.00061085,0,0,0,3,0,0,0,4,0,0,0,0,0,0,0,0,1,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Roy Revivo,D,Elche,90,6.7,0,0,0,0.00262669,0,0,0,30,0,0,0,47,1,1,1,7,0,2,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Abiel Osorio,F,Elche,21,6.4,0,0,0,0.00000948,0,0,0,1,0,0,0,5,0,0,0,2,2,2,1,0,1,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Buba Sangaré,D,Elche,90,6.8,0,0,0,0.0122249,0,0,0,15,0,0,0,34,0,2,0,3,0,0,0,0,0,0
+LaLiga,26_27,Athletic Club vs Elche,12/09/2026,Javi Morcillo,M,Elche,90,6.9,0,0,0,0.00155229,0,0,0,20,0,0,0,33,0,4,2,4,1,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Florian Lejeune,D,Rayo Vallecano,90,5,0,0,0.0767,0.0130531,2,0,0,56,0,0,0,66,1,2,0,3,1,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Iván Balliu,D,Rayo Vallecano,9,6.1,0,0,0,0.00295626,0,0,0,8,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Emil Audero,G,Rayo Vallecano,90,6.6,0,0,0,0.00012201,0,0,0,27,0,0,0,43,0,0,0,0,0,0,0,0,0,7
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Álvaro García,M,Rayo Vallecano,90,6.2,0,0,0.0134,0.0706887,1,0,0,21,0,0,0,36,0,2,1,2,0,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Unai López,M,Rayo Vallecano,75,6.2,0,0,0.0293,0.0222538,1,0,0,58,1,0,0,71,0,1,0,1,2,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Giorgi Tsitaishvili,M,Rayo Vallecano,90,6.2,0,0,0.4701,0.0610778,3,2,0,12,1,0,1,26,0,1,0,1,0,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Óscar Valentín,M,Rayo Vallecano,23,6.9,0,0,0,0.0213666,0,0,0,18,1,0,0,21,0,1,0,3,0,2,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Pedro Díaz,M,Rayo Vallecano,67,6.4,0,0,0.1621,0.0148742,5,2,1,19,2,0,0,29,1,1,0,2,0,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Sergio Camello,F,Rayo Vallecano,75,7.8,1,0,0.1601,0.0158416,3,3,0,20,3,0,0,39,2,2,0,7,2,3,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Pathé Ismaël Ciss,M,Rayo Vallecano,90,6.8,0,0,0,0.0249897,0,0,0,56,0,0,0,73,0,1,4,1,1,0,1,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Adrià Pedrosa,D,Rayo Vallecano,85,6.4,0,0,0,0.576865,0,0,0,28,4,1,0,48,0,2,2,2,4,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Mujaid Sadick,D,Rayo Vallecano,15,6.4,0,0,0,0.00124381,0,0,0,10,0,0,0,11,0,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Andrei Rațiu,D,Rayo Vallecano,90,5.6,0,0,0,0.0389191,0,0,0,42,1,0,0,71,1,0,2,3,1,2,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Alemão,F,Rayo Vallecano,15,6.4,0,0,0.3001,0.00205174,3,0,0,4,0,0,0,11,0,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Rayane Belaid,M,Rayo Vallecano,23,6.6,0,0,0,0.00667016,0,0,0,5,0,0,0,9,0,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Gnangoro Bouaré,M,Rayo Vallecano,67,6.9,0,0,0,0.0169733,0,0,0,31,2,0,0,41,0,3,3,6,2,1,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Thibaut Courtois,G,Real Madrid,90,7.8,0,0,0,0.00152627,0,0,0,37,0,0,0,49,0,0,0,0,0,0,0,0,0,6
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Antonio Rüdiger,D,Real Madrid,90,7.3,0,0,0.0217,0.0111803,1,1,0,79,0,0,0,96,0,0,0,3,0,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Bernardo Silva,M,Real Madrid,69,6.8,0,0,0.1385,0.0398827,1,0,0,59,1,0,0,71,0,1,1,4,0,2,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Denzel Dumfries,M,Real Madrid,90,6.6,0,0,0.1322,0.0139526,1,1,1,28,1,0,1,48,0,3,1,5,0,1,0,0,1,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Marc Cucurella,D,Real Madrid,1,0,0,0,0,3.5e-7,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Ibrahima Konaté,D,Real Madrid,90,6.4,0,0,0.302,0.00434762,2,0,0,41,1,0,0,47,0,1,0,2,3,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Kylian Mbappé,F,Real Madrid,90,9.5,2,1,1.1245,0.315958,5,3,1,31,4,1,1,51,4,2,0,6,3,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Federico Valverde,M,Real Madrid,45,7,0,0,0.0745,0.0124407,2,0,0,36,0,0,0,39,0,1,0,1,0,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Aurélien Tchouaméni,M,Real Madrid,21,6.9,0,0,0.0266,0.0208951,1,0,0,21,1,0,0,25,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Vinícius Júnior,F,Real Madrid,89,7.8,0,1,0.1475,0.352603,4,2,0,37,2,0,0,51,1,3,0,6,0,2,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Eduardo Camavinga,M,Real Madrid,45,7.3,0,0,0,0.0210016,0,0,0,28,0,0,0,34,0,1,0,3,0,1,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Jude Bellingham,M,Real Madrid,90,8.1,1,0,0.4019,0.0640704,4,2,0,38,2,0,0,64,4,1,1,7,2,2,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Álvaro Carreras,D,Real Madrid,90,8.7,1,0,0.1908,0.182217,1,1,0,63,3,0,0,90,2,2,0,5,0,1,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Arda Güler,M,Real Madrid,18,7.8,0,1,0.0172,0.686011,1,1,0,18,5,2,0,31,2,0,0,2,0,0,0,0,0,0
+LaLiga,26_27,Real Madrid vs Rayo Vallecano,12/09/2026,Yan Diomande,F,Real Madrid,72,7.3,0,0,0.0388,0.0910179,1,0,0,26,2,0,0,46,3,3,2,9,1,3,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Iago Aspas,F,Celta Vigo,11,6.4,0,0,0.0393,0.00097951,1,0,0,5,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Marcos Alonso,D,Celta Vigo,90,6.8,0,0,0.0355,0.0137109,1,0,0,66,0,0,0,76,0,2,0,4,1,1,0,0,1,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Ionuț Radu,G,Celta Vigo,90,6.6,0,0,0,0.00351775,0,0,0,19,0,0,0,26,0,0,0,1,0,1,0,0,0,1
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Javi Galán,D,Celta Vigo,11,6.5,0,0,0,0.006317,0,0,0,8,0,0,0,16,0,0,0,0,0,0,0,0,1,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Sebastián Cáceres,D,Celta Vigo,90,7,0,0,0.0263,0.0195685,1,0,0,67,0,0,0,77,0,1,0,6,1,1,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Ferrán Jutglà,F,Celta Vigo,84,7.9,1,0,0.468,0.013862,3,2,0,17,1,0,0,31,2,0,0,3,1,1,0,0,1,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Ilaix Moriba,M,Celta Vigo,74,7.1,0,0,0.0331,0.0619065,1,0,0,40,1,1,0,50,1,1,0,3,1,1,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Hugo González,M,Celta Vigo,62,6.9,0,1,0.1231,0.106674,3,1,0,17,2,0,0,27,1,0,0,1,1,0,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Sergio Carreira,M,Celta Vigo,90,7,0,0,0.3612,0.0369596,1,1,0,41,0,0,1,55,2,1,0,3,0,0,0,0,1,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Javier Rueda,M,Celta Vigo,84,6.9,0,0,0,0.0762492,0,0,0,25,4,0,0,33,2,1,1,3,1,0,0,0,2,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Couhaib Driouech,F,Celta Vigo,16,6.5,0,0,0.0239,0.00514345,1,0,0,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Williot Swedberg,M,Celta Vigo,28,6.6,0,0,0.3919,0.0499231,1,1,0,14,2,0,1,19,0,1,0,1,2,0,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Yoel Lago,D,Celta Vigo,90,6.9,0,0,0,0.0183918,0,0,0,61,0,0,0,76,0,1,4,3,1,2,1,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Hugo Álvarez,M,Celta Vigo,74,6.7,0,0,0.1813,0.070731,1,0,0,19,1,0,0,25,0,0,1,2,0,2,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Miguel Román,M,Celta Vigo,90,7.5,0,0,0.0717,0.0986105,2,0,0,62,0,0,0,72,0,3,0,4,1,0,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Hugo Burcio,M,Celta Vigo,16,6.9,0,0,0.1455,0.0263374,1,0,0,18,0,0,0,26,1,1,0,4,0,1,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Alfonso Herrero,G,Málaga CF,90,8.1,0,0,0,0.0111971,0,0,0,63,0,0,0,79,0,0,0,1,0,1,0,0,0,4
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Einar Galilea,D,Málaga CF,45,6.6,0,0,0,0.00562975,0,0,0,64,0,0,0,67,0,0,1,0,0,0,1,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Juan Berrocal,D,Málaga CF,8,6.7,0,0,0,8.4e-7,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Joaquín Muñoz,M,Málaga CF,61,6.2,0,0,0.0269,0.016695,1,0,0,11,0,0,0,23,1,1,1,3,0,1,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Pablo Martínez,M,Málaga CF,90,6.9,0,1,0.0317,0.368175,2,1,0,49,5,0,0,65,0,1,3,2,2,0,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Juan Cruz,M,Málaga CF,29,7.1,0,0,0,0.00157778,0,0,0,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Ramón Enríquez,M,Málaga CF,45,7,0,0,0,0.0182448,0,0,0,43,0,0,0,50,0,0,0,1,0,1,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,David Larrubia,M,Málaga CF,90,6.6,0,0,0.0735,0.040437,2,0,0,28,1,0,0,42,1,1,2,3,0,1,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Jose Salinas,D,Málaga CF,87,6.5,0,0,0,0.0126705,0,0,0,50,1,0,0,60,0,2,2,2,1,0,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Ángel Recio,D,Málaga CF,90,6.5,0,0,0.069,0.0120401,2,0,0,67,0,0,0,75,0,0,2,2,1,0,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Carlos Puga,D,Málaga CF,23,7,0,0,0,0.00478393,0,0,0,11,0,0,0,26,2,1,0,3,1,0,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Adrián Niño,F,Málaga CF,23,7.6,1,0,0.1408,0.00150533,3,1,0,1,1,0,0,5,0,0,0,2,1,1,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Dani Lorenzo,M,Málaga CF,67,6,0,0,0,0.00903898,0,0,0,42,1,0,0,51,1,0,1,2,0,1,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Izan Merino,M,Málaga CF,67,6.5,0,0,0,0.0197222,0,0,0,54,0,0,0,58,0,0,0,1,1,1,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Rafa Garrido,D,Málaga CF,90,6.6,0,0,0,0.0180395,0,0,0,54,0,0,0,67,1,1,0,3,0,1,0,0,0,0
+LaLiga,26_27,Celta Vigo vs Málaga CF,13/09/2026,Chupete,F,Málaga CF,90,6.2,0,0,0.0838,0.0106831,2,0,0,16,1,0,0,26,0,0,1,6,3,2,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,João Cancelo,D,FC Barcelona,10,6.7,0,0,0,0.0089124,0,0,0,17,0,0,0,25,1,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Andreas Christensen,D,FC Barcelona,45,7.1,0,0,0,0.00666086,0,0,0,46,0,0,0,53,0,0,2,2,0,0,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Dani Olmo,M,FC Barcelona,24,6.2,0,0,0,0.0347914,0,0,0,25,0,0,0,31,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Rodri,M,FC Barcelona,90,7.9,0,0,0,0.0662392,0,0,0,117,0,0,0,131,1,3,2,7,0,2,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Raphinha,M,FC Barcelona,90,7.4,0,2,0.232,0.550826,2,1,0,38,3,1,0,54,2,1,0,3,0,0,0,0,1,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Eric García,D,FC Barcelona,90,6.7,0,0,0.0351,0.0238599,1,0,0,103,0,0,0,129,0,4,0,4,1,0,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Anthony Gordon,F,FC Barcelona,67,6.4,0,0,0,0.0280337,0,0,0,16,1,0,0,22,0,1,0,1,0,0,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Joan García,G,FC Barcelona,90,7.2,0,0,0,0.00014884,0,0,0,23,0,0,0,42,0,0,0,1,0,1,0,0,0,4
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Karim Adeyemi,F,FC Barcelona,23,7.9,1,0,0.648,0.0185168,4,2,0,12,0,0,0,25,1,2,0,3,0,0,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Pedri,M,FC Barcelona,66,6.9,0,0,0,0.186341,0,0,0,63,0,0,0,79,0,1,0,3,1,2,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Gerard Martín,D,FC Barcelona,45,6.8,0,0,0,0.00563377,0,0,0,48,0,0,0,57,1,1,2,4,2,1,1,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Fermín López,M,FC Barcelona,90,6.6,0,0,0.0124,0.103715,1,0,0,47,2,0,0,67,0,2,1,4,1,2,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Lamine Yamal,M,FC Barcelona,66,8.4,2,0,1.6035,0.0384776,3,2,0,36,0,0,0,56,3,1,0,5,2,1,0,0,1,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Pau Cubarsí,D,FC Barcelona,90,7.5,0,0,0,0.0194651,0,0,0,114,0,0,0,129,0,2,2,7,1,0,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Marc Bernal,M,FC Barcelona,24,6.7,0,1,0,0.0222997,0,0,0,24,2,1,0,26,0,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Xavi Espart,D,FC Barcelona,80,7.3,1,0,0.0517,0.00856814,1,1,0,51,0,0,0,75,0,6,0,9,3,2,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Aïssa Mandi,D,Levante UD,90,6.9,0,0,0,0.0144137,0,0,0,22,2,1,0,31,0,4,2,5,1,0,0,0,1,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Mathew Ryan,G,Levante UD,90,5.7,0,0,0,0.00209518,0,0,0,22,0,0,0,29,0,0,0,0,0,0,0,0,0,2
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Jeremy Toljan,D,Levante UD,90,5.7,0,0,0,0.00657578,0,0,0,25,0,0,0,44,0,1,0,1,0,0,0,0,2,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Oriol Rey,M,Levante UD,30,6.6,0,0,0,0.0284123,0,0,0,12,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Roger Brugué,M,Levante UD,90,7.1,1,0,0.7315,0.00366151,4,3,0,16,0,0,1,36,1,4,1,6,1,1,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Víctor García,M,Levante UD,90,6.1,0,0,0.1515,0.0911849,1,0,0,16,1,1,1,40,1,1,1,5,1,3,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Manuel Sánchez,D,Levante UD,71,6.8,0,0,0,0.00304077,0,0,0,23,0,0,0,44,1,4,0,6,0,1,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Enzo Bardeli,M,Levante UD,31,6.8,0,0,0,0.0500692,0,0,0,7,1,0,0,15,1,1,1,3,0,1,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Adrián de la Fuente,D,Levante UD,71,5.9,0,0,0.0342,0.17249,1,1,0,24,1,0,0,40,0,0,0,2,1,1,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Jon Ander Olasagasti,M,Levante UD,59,6.3,0,0,0.0149,0.0489638,1,0,0,16,0,0,0,33,4,0,0,4,1,0,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Iván Romero,F,Levante UD,31,8,1,0,1.3677,0.00002593,4,3,0,1,0,0,1,19,1,0,0,2,0,1,0,0,1,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Petar Ratkov,F,Levante UD,59,6.4,0,0,0.084,0.00089789,1,0,0,11,0,0,0,22,0,0,1,2,0,1,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Hugo Sotelo,M,Levante UD,60,6.4,0,0,0,0.0112532,0,0,0,16,0,0,0,21,0,1,0,1,1,0,1,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Daniel Requena,M,Levante UD,90,6.5,0,0,0.0324,0.00394654,1,0,0,18,0,0,0,31,1,3,0,5,5,1,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Ifeanyi Ndukwe,D,Levante UD,19,6.3,0,0,0,0.00009345,0,0,0,10,0,0,0,16,0,1,0,1,0,0,0,0,0,0
+LaLiga,26_27,Levante UD vs FC Barcelona,13/09/2026,Nacho Pérez,D,Levante UD,19,6.2,0,0,0,0.00093874,0,0,0,6,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Pierre-Emerick Aubameyang,F,Deportivo de A Coruña,90,7.8,1,0,0.1512,0.153565,1,1,0,17,2,0,0,28,0,1,1,2,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Ximo Navarro,D,Deportivo de A Coruña,90,6.1,0,0,0,0.00382463,0,0,0,45,0,0,0,72,0,3,0,4,1,1,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Adama Traoré,F,Deportivo de A Coruña,28,6.6,0,0,0,0.00287021,0,0,0,13,0,0,0,24,2,0,0,3,0,1,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,José María Giménez,D,Deportivo de A Coruña,90,6.9,0,0,0.1191,0.00829641,2,0,0,76,0,0,1,89,0,1,1,4,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Luismi Cruz,M,Deportivo de A Coruña,71,7,0,0,0.0602,0.184142,1,0,0,28,4,0,0,36,0,3,0,4,1,0,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Giacomo Quagliata,D,Deportivo de A Coruña,90,6.3,0,0,0.1907,0.0127452,3,1,0,36,1,0,0,58,0,1,2,5,0,3,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Zakaria Eddahchouri,F,Deportivo de A Coruña,19,6.5,0,0,0.0404,0.00145425,1,0,0,2,0,0,0,3,0,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Mario Soriano,M,Deportivo de A Coruña,90,6.9,0,0,0.2285,0.0571202,1,1,0,60,1,1,0,74,2,1,0,5,2,2,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Marc Casadó,M,Deportivo de A Coruña,62,7,0,0,0,0.0103372,0,0,0,52,0,0,0,61,0,0,1,4,0,3,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Yeremay Hernández,F,Deportivo de A Coruña,19,6.7,0,1,0,0.136351,0,0,0,15,1,1,0,21,0,0,1,0,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Lorenzo Amatucci,M,Deportivo de A Coruña,90,7,0,0,0,0.0106541,0,0,0,45,0,0,0,59,0,4,0,6,2,1,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Lucas Noubi,D,Deportivo de A Coruña,90,6.9,0,0,0,0.0277792,0,0,0,68,1,0,0,93,0,4,1,10,1,3,1,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Leo Román,G,Deportivo de A Coruña,90,6.9,0,0,0,0.00045734,0,0,0,44,0,0,0,55,0,0,0,1,0,0,0,0,0,3
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Bil Nsongo,F,Deportivo de A Coruña,71,6.3,0,0,0.0754,0.00321243,1,0,0,13,0,0,0,23,1,0,0,5,2,0,0,0,1,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Nemanja Gudelj,M,Getafe,90,6.5,0,0,0.0098,0.157312,1,0,0,18,1,1,0,23,0,0,0,2,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Djené,D,Getafe,90,7,0,0,0,0.0350921,0,0,0,38,1,0,0,60,0,2,2,5,0,1,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Enes Ünal,F,Getafe,90,6.3,0,0,0.0392,0.0285346,2,0,0,18,1,0,0,41,0,1,0,6,3,1,1,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Johan Mojica,D,Getafe,90,7.3,0,0,0.0271,0.225876,1,0,0,27,2,0,0,67,1,1,0,4,0,1,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,David Soria,G,Getafe,90,6.9,0,0,0,0.00604896,0,0,0,27,0,0,0,35,0,0,0,0,0,0,0,0,0,2
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Orel Mangala,M,Getafe,90,6.6,0,0,0,0.012497,0,0,0,28,1,0,0,35,0,0,1,0,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Martín Satriano,F,Getafe,89,6.4,0,0,0.0557,0.145369,3,1,0,20,3,0,0,36,1,2,1,4,1,0,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Francho Serrano,M,Getafe,14,6.4,0,0,0.0098,0.00100758,1,1,0,3,0,0,0,6,0,0,0,0,1,0,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Ivan Azón,F,Getafe,76,6.9,0,1,0.0761,0.208184,1,0,0,13,2,0,0,28,0,1,1,6,2,2,1,0,1,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Ramón Terrats,M,Getafe,84,8,1,0,0.3592,0.0201176,3,2,0,23,0,0,0,37,2,1,1,5,0,1,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Saba Sazonov,D,Getafe,13,6.7,0,0,0.0149,0.00001676,1,0,0,3,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Mario Martín,M,Getafe,90,6.2,0,0,0.1854,0.0112518,2,0,1,34,1,0,1,52,0,1,1,6,3,3,1,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Sebastián Boselli,D,Getafe,84,6.2,0,0,0,0.0369524,0,0,0,23,0,0,0,46,0,2,3,2,3,0,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,José Luis Pérez,F,Getafe,13,6.3,0,0,0,0.00029594,0,0,0,3,0,0,0,5,0,0,0,0,1,0,0,0,0,0
+LaLiga,26_27,Getafe vs Deportivo de A Coruña,13/09/2026,Davinchi,D,Getafe,8,6.7,0,0,0,0.00099113,0,0,0,4,0,0,0,6,0,0,0,1,0,0,0,0,1,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Gonçalo Guedes,M,Real Sociedad,72,6.7,0,0,0.0216,0.0283631,1,0,0,35,1,0,0,56,2,2,0,6,1,1,0,0,1,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Álex Remiro,G,Real Sociedad,90,6.4,0,0,0,0.0014334,0,0,0,35,0,0,0,45,0,0,0,0,0,0,0,0,0,2
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Mikel Oyarzabal,F,Real Sociedad,79,6.5,0,0,0.0366,0.037948,1,0,0,23,1,0,0,37,0,2,1,3,2,1,1,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Carlos Soler,M,Real Sociedad,78,6.5,0,0,0.0152,0.0245302,1,1,0,48,2,0,0,59,1,0,0,1,1,0,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Yangel Herrera,M,Real Sociedad,85,6.3,0,0,0,0.0201706,0,0,0,50,0,0,0,63,0,2,0,4,2,2,1,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Sergio Gómez,D,Real Sociedad,90,6.1,0,0,0.0557,0.0718355,1,1,0,59,0,0,0,90,1,2,0,3,0,0,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Takefusa Kubo,M,Real Sociedad,18,6.7,0,0,0,0.00993525,0,0,0,5,1,0,0,7,1,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Luka Sučić,M,Real Sociedad,90,7,0,0,0.0924,0.214729,2,1,0,44,0,0,1,51,1,0,1,1,0,0,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Ander Barrenetxea,M,Real Sociedad,72,6.9,0,0,0.0467,0.0207587,2,0,0,18,0,0,0,39,2,1,1,4,0,1,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Orri Óskarsson,F,Real Sociedad,11,6.4,0,0,0,0.00031359,0,0,0,4,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Arsen Zakharyan,M,Real Sociedad,11,6.5,0,0,0,0.0564661,0,0,0,13,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Job Ochieng,M,Real Sociedad,18,6,0,0,0,0.00085776,0,0,0,6,0,0,0,13,1,0,0,1,3,0,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Jon Aramburu,D,Real Sociedad,90,6.8,0,0,0,0.0107877,0,0,0,34,0,0,0,62,1,4,3,12,2,2,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Mamadou Sarr,D,Real Sociedad,90,6.6,0,0,0,0.0199188,0,0,0,68,0,0,0,78,1,3,1,6,1,1,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Jon Gorrotxategi,M,Real Sociedad,12,6.3,0,0,0,0.00775246,0,0,0,15,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Luken Beitia,D,Real Sociedad,90,6.4,0,0,0,0.127068,0,0,0,67,1,1,0,74,0,1,0,4,1,0,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Jan Oblak,G,Atlético Madrid,90,7.7,0,0,0,0.00051335,0,0,0,34,0,0,0,45,0,0,0,1,0,0,0,0,0,3
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Koke,M,Atlético Madrid,30,6.8,0,0,0,0.0561869,0,0,0,21,0,0,0,24,0,1,0,1,0,0,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Alejandro Grimaldo,M,Atlético Madrid,90,7.3,1,1,0.8419,0.0527343,2,2,0,47,1,1,0,70,1,2,0,4,1,0,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Marcos Llorente,D,Atlético Madrid,60,6.8,0,0,0,0.0268677,0,0,0,31,2,0,0,47,2,1,1,3,1,0,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Dávid Hancko,D,Atlético Madrid,90,7.1,0,1,0.0181,0.00612666,1,0,0,53,1,1,0,63,0,1,0,1,0,0,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Ademola Lookman,F,Atlético Madrid,76,6.2,0,0,0,0.040839,0,0,0,16,3,0,0,26,1,0,0,2,1,1,0,0,1,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Cristian Romero,D,Atlético Madrid,90,7.9,0,0,0,0.044591,0,0,0,54,0,0,0,72,0,1,0,5,0,2,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Morten Hjulmand,M,Atlético Madrid,90,7.3,0,0,0.1497,0.048767,2,0,0,53,0,0,0,67,1,0,2,5,1,3,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Alex Baena,M,Atlético Madrid,59,6.4,0,0,0.0485,0.0354447,2,0,0,27,0,0,0,36,0,1,3,3,3,1,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Kang-in Lee,M,Atlético Madrid,60,6.6,0,0,0.0435,0.0534244,1,0,0,22,1,0,0,34,0,1,0,4,0,1,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Jonathan David,F,Atlético Madrid,30,7.9,1,0,0.2584,0.0114715,2,2,0,8,1,0,0,12,1,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Johnny Cardoso,M,Atlético Madrid,31,6.5,0,0,0.0476,0.00427819,1,0,0,14,0,0,0,17,0,0,0,1,2,0,1,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Marc Pubill,D,Atlético Madrid,90,7.3,0,0,0,0.00790364,0,0,0,40,0,0,0,61,0,2,1,5,0,2,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Giuliano Simeone,M,Atlético Madrid,90,8,1,0,0.6425,0.0144026,2,1,0,38,0,0,0,61,1,3,1,8,0,1,0,0,0,0
+LaLiga,26_27,Real Sociedad vs Atlético Madrid,13/09/2026,Arnau Ortiz,M,Atlético Madrid,14,6.7,0,0,0,0.0287146,0,0,0,4,1,0,0,10,1,0,0,2,0,1,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Marc Bartra,D,Real Betis,90,6.9,0,0,0,0.00499245,0,0,0,24,0,0,0,37,1,2,0,4,0,0,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Isco,M,Real Betis,57,6.6,0,0,0.1248,0.135413,3,0,0,27,4,0,0,37,1,0,0,2,0,1,0,0,1,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Héctor Bellerín,D,Real Betis,90,7,0,0,0.4954,0.270408,3,2,0,26,2,0,1,50,0,1,1,2,1,0,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Dani Ceballos,M,Real Betis,33,7.2,0,0,0,0.00909007,0,0,0,20,1,0,0,31,0,4,1,6,1,2,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Giovani Lo Celso,M,Real Betis,10,6.6,0,0,0,0.00017858,0,0,0,3,0,0,0,8,0,1,1,2,0,1,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Pablo Fornals,M,Real Betis,84,6.6,0,0,0.1542,0.0755863,3,0,0,40,1,0,0,50,1,0,1,2,1,0,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Marc Roca,M,Real Betis,90,7.5,0,0,0,0.0157955,0,0,0,46,1,0,0,61,0,4,1,5,1,1,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Fran García,D,Real Betis,90,6.8,0,0,0,0.00474164,0,0,0,38,2,0,0,62,1,4,1,6,1,0,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Cucho Hernández,F,Real Betis,84,6.6,1,0,1.7169,0.0455977,4,3,0,21,1,1,2,39,1,0,0,4,1,1,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Antony,M,Real Betis,24,7,0,0,0.5535,0.00741686,4,3,0,13,1,1,1,21,2,0,0,2,1,0,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Álvaro Valles,G,Real Betis,90,9.9,0,0,0,0.00070025,0,0,0,29,0,0,0,48,0,0,0,1,0,0,0,0,0,7
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Rodrigo Riquelme,M,Real Betis,67,6.5,0,0,0.1264,0.0452298,2,0,0,15,1,0,0,29,1,0,1,1,0,0,0,0,1,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Abdessamad Ezzalzouli,M,Real Betis,66,7.1,0,0,0.1031,0.636618,3,1,0,21,3,1,0,40,2,1,0,4,1,1,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Natan,D,Real Betis,90,8.1,1,0,0.2144,0.00100267,1,1,0,41,0,0,0,60,1,5,0,7,0,0,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Nelson Deossa,M,Real Betis,23,7,0,0,0.31,0.178873,3,2,0,14,2,1,1,22,1,0,0,2,0,0,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Facundo Bernal,M,Real Betis,10,6.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Péter Gulácsi,G,Villarreal,90,9.6,0,0,0,0.00009039,0,0,0,18,0,0,0,38,0,0,0,1,0,0,0,0,0,10
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Gerard Moreno,F,Villarreal,62,8,1,0,0.5012,0.621816,1,1,0,29,3,1,0,40,1,0,0,1,0,0,0,0,1,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Ayoze Pérez,F,Villarreal,14,6.6,0,0,0,0.0085472,0,0,0,7,0,0,0,10,0,1,0,2,0,1,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Nicolas Pépé,F,Villarreal,76,7,0,0,0.1115,0.0620727,2,1,0,35,0,0,0,52,2,1,0,3,0,0,0,0,2,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Santi Comesaña,M,Villarreal,90,7.1,0,0,0.5685,0.0428476,1,1,1,70,1,0,1,89,1,2,3,4,2,1,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Pape Gueye,M,Villarreal,54,6.8,0,0,0,0.0332566,0,0,0,40,1,0,0,53,1,0,0,2,1,1,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Tajon Buchanan,M,Villarreal,55,6.5,0,0,0.0398,0.0495785,2,1,0,21,1,0,0,35,0,1,1,2,0,1,0,0,1,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Georges Mikautadze,F,Villarreal,90,6.4,0,0,0.5212,0.0342794,4,4,0,34,2,0,0,56,4,0,1,4,1,0,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Alberto Moleiro,M,Villarreal,35,6.8,0,0,0.1381,0.130369,2,0,0,24,2,0,0,33,0,1,0,1,0,0,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Renato Veiga,D,Villarreal,90,7.9,0,1,0,0.319121,0,0,0,91,1,1,0,103,0,1,1,2,0,0,1,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Nathan-Dylan Saliba,M,Villarreal,36,6.5,0,0,0,0.0253313,0,0,0,37,0,0,0,42,0,0,0,1,1,1,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Tani Oluwaseyi,F,Villarreal,28,6.8,0,0,0.0696,0.069885,1,0,0,12,2,0,0,22,0,3,1,4,0,0,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Alexander Freeman,D,Villarreal,14,6.9,0,0,0,0.0126633,0,0,0,18,0,0,0,23,0,0,0,2,0,1,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Carlos Romero,D,Villarreal,90,6.9,0,0,0.0367,0.0238616,1,0,0,60,0,0,0,75,1,1,1,2,0,0,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Santiago Mouriño,D,Villarreal,76,6.2,0,0,0,0.0209285,0,0,0,45,0,0,0,59,0,1,0,3,1,0,0,0,0,0
+LaLiga,26_27,Villarreal vs Real Betis,14/09/2026,Pau Navarro,D,Villarreal,90,7.4,0,0,0,0.0242432,0,0,0,84,0,0,0,96,0,2,1,5,1,0,0,0,1,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Leandro Cabrera,D,Espanyol,90,6,0,0,0.1658,0.0508644,1,0,0,50,0,0,0,64,0,0,3,6,2,0,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Marko Dmitrović,G,Espanyol,90,6.3,0,0,0,0.00247031,0,0,0,25,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Pol Lozano,M,Espanyol,15,6.5,0,0,0,0.0236731,0,0,0,7,1,0,0,9,0,0,0,0,1,0,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Edu Expósito,M,Espanyol,45,6.9,0,0,0.3802,0.216144,3,0,0,30,2,0,1,43,0,0,0,2,0,2,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Urko González,M,Espanyol,84,6.5,0,0,0.0092,0.0488958,1,0,0,30,0,0,0,43,0,0,2,2,2,1,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Omar El Hilali,D,Espanyol,90,7.1,0,0,0,0.0216653,0,0,0,22,1,0,0,50,0,0,0,7,4,3,0,1,1,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Bryan Zaragoza,F,Espanyol,45,6.8,0,0,0.0702,0.101179,2,1,0,18,2,0,0,29,0,0,1,2,0,2,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Clemens Riedel,D,Espanyol,90,6.4,0,0,0.0172,0.01989,1,1,0,45,0,0,0,57,0,0,0,2,1,1,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Álex Calatrava,M,Espanyol,16,6.4,0,0,0,0.00271636,0,0,0,5,0,0,0,10,0,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Marcos Fernández,F,Espanyol,45,6.7,0,0,0.2692,0.148145,3,1,0,9,1,1,0,15,1,0,0,2,1,0,1,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Quilindschy Hartman,D,Espanyol,90,7.1,0,0,0,0.0915938,0,0,0,48,3,0,0,69,0,5,1,6,1,0,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Roberto Fernández,F,Espanyol,90,7.6,1,0,0.2843,0.0446562,2,1,0,15,1,0,0,22,1,0,0,3,0,0,0,0,1,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Gabriel Moscardo,M,Espanyol,45,5.8,0,0,0.0811,0.00404608,1,0,0,8,0,0,0,19,0,0,0,1,1,0,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Javier Hernández,M,Espanyol,74,6.3,0,1,0.3039,0.190246,3,1,0,13,4,1,0,30,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Rafael Bauzà,M,Espanyol,45,6.1,0,0,0.0158,0.00298741,1,0,0,15,0,0,0,25,0,0,1,1,2,1,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Roger Hinojo,D,Espanyol,45,6.3,0,0,0.0573,0.00045408,1,0,0,8,0,0,0,18,0,3,0,3,0,0,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Florian Lejeune,D,Rayo Vallecano,90,6.9,0,0,0.0514,0.00154732,2,0,0,47,0,0,0,60,0,0,2,0,0,0,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Iván Balliu,D,Rayo Vallecano,15,6.7,0,0,0,0.00350137,0,0,0,1,0,0,0,3,0,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Emil Audero,G,Rayo Vallecano,90,7,0,0,0,0.00041256,0,0,0,49,0,0,0,62,0,0,0,0,0,0,0,0,0,3
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Álvaro García,M,Rayo Vallecano,84,8.1,1,1,0.6265,0.0538412,1,1,0,20,1,0,0,31,0,1,2,2,1,0,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Unai López,M,Rayo Vallecano,61,6.9,0,0,0.1235,0.117766,1,0,0,54,1,0,0,62,0,1,1,2,1,1,1,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Giorgi Tsitaishvili,M,Rayo Vallecano,76,6.4,0,0,0.1586,0.114898,3,0,0,10,1,1,0,23,0,0,0,0,1,0,1,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Óscar Valentín,M,Rayo Vallecano,29,7.3,0,0,0,0.00500487,0,0,0,14,0,0,0,19,0,2,1,5,0,0,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Pedro Díaz,M,Rayo Vallecano,90,6.7,0,0,0.2708,0.0171755,3,0,0,32,2,0,0,42,0,1,0,3,0,2,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Sergio Camello,F,Rayo Vallecano,76,7.2,0,0,0.3012,0.307092,2,0,1,22,1,0,1,38,2,0,0,4,2,2,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Pathé Ismaël Ciss,M,Rayo Vallecano,90,7.8,0,0,0,0.0112948,0,0,0,58,2,0,0,80,1,2,4,5,0,1,1,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Adrià Pedrosa,D,Rayo Vallecano,90,8.1,1,0,0.0847,0.0158389,2,1,0,28,0,0,0,54,2,1,0,6,1,1,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Mujaid Sadick,D,Rayo Vallecano,61,6.6,0,0,0,0.00158513,0,0,0,55,0,0,0,66,1,0,1,2,0,0,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Andrei Rațiu,D,Rayo Vallecano,90,6.8,0,0,0.0887,0.0354451,2,0,0,36,1,0,0,71,0,5,1,7,1,1,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Fran Pérez,M,Rayo Vallecano,14,6.6,0,0,0,0.0148868,0,0,0,7,0,0,0,14,1,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Alemão,F,Rayo Vallecano,14,6.8,0,0,0,0.00747595,0,0,0,7,0,0,0,15,0,1,0,5,1,3,1,0,0,0
+LaLiga,26_27,Rayo Vallecano vs Espanyol,15/09/2026,Gnangoro Bouaré,M,Rayo Vallecano,29,6.6,0,0,0,0.00316515,0,0,0,9,1,0,0,17,0,1,1,3,2,1,1,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Stole Dimitrievski,G,Valencia,90,7.4,0,0,0,0.00035317,0,0,0,32,1,0,0,45,0,0,0,1,0,0,0,0,0,3
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,José Luis Gayà,D,Valencia,90,7.1,0,0,0,0.0080409,0,0,0,49,0,0,0,74,1,5,0,6,2,0,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Guido Rodríguez,M,Valencia,70,7,0,0,0.0485,0.0246988,1,0,0,49,0,0,0,64,1,5,0,12,2,3,1,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Pablo Maffeo,D,Valencia,82,6.7,0,0,0.0453,0.0485918,1,1,0,41,0,0,0,66,0,0,2,1,1,0,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Pepelu,M,Valencia,90,7.4,0,0,0,0.00546428,0,0,0,70,0,0,0,92,0,1,3,1,1,0,1,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Arnaut Danjuma,F,Valencia,90,6.9,0,0,0.0266,0.151235,2,1,0,21,4,0,0,32,1,0,0,2,1,1,0,0,2,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Filip Ugrinić,M,Valencia,90,6.5,0,0,0,0.00594755,0,0,0,43,0,0,0,60,1,0,0,1,1,0,0,0,1,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Justin De Haas,D,Valencia,82,7,0,0,0,0.00332894,0,0,0,67,0,0,0,78,0,1,2,2,1,0,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Luis Rioja,M,Valencia,19,7.6,1,0,0.363,0.00626836,1,1,0,7,0,0,0,10,1,0,1,1,0,0,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Hugo Duro,F,Valencia,63,6.6,0,0,0.1376,0.00099414,2,0,0,7,0,0,0,19,0,1,0,5,0,2,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Jesús Vázquez,D,Valencia,8,6.5,0,0,0,0.00033675,0,0,0,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Arnau Martínez,D,Valencia,8,6.6,0,0,0,0.00002518,0,0,0,4,0,0,0,12,0,2,0,2,1,0,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Javier Guerra,M,Valencia,90,6.4,0,1,0.1159,0.239577,2,0,0,31,2,1,0,51,2,0,0,2,1,0,1,0,1,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Iker Cordoba,D,Valencia,8,6.8,0,0,0,0.00017259,0,0,0,4,0,0,0,8,0,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,David Otorbi,F,Valencia,20,6.7,0,0,0.0566,0.0431513,1,0,0,2,0,0,0,6,0,1,0,2,0,1,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Aaron Mayol,M,Valencia,90,6.7,0,0,0,0.017811,0,0,0,42,0,0,0,58,1,1,3,2,3,0,1,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Denis Suárez,M,Deportivo Alavés,67,7.2,0,0,0,0.207983,0,0,0,25,2,0,0,43,0,2,0,3,0,1,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Mariano Díaz,F,Deportivo Alavés,23,7.1,0,0,0,0.0803083,0,0,0,7,0,0,0,12,0,1,0,3,0,1,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Antonio Sivera,G,Deportivo Alavés,90,6.8,0,0,0,0.00185812,0,0,0,25,0,0,0,39,0,1,0,1,0,0,0,0,0,2
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Carles Aleñá,M,Deportivo Alavés,11,6.5,0,0,0,0.00646109,0,0,0,7,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Lucas Boyé,F,Deportivo Alavés,90,6.3,0,0,0.2017,0.0303665,4,1,0,17,1,0,0,43,1,3,0,5,2,0,0,0,1,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Toni Martínez,F,Deportivo Alavés,67,7.1,0,0,0.1819,0.00945507,3,0,0,11,0,0,0,22,0,1,0,8,0,3,0,0,1,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Antonio Blanco,M,Deportivo Alavés,85,6.6,0,0,0,0.00932827,0,0,0,37,0,0,0,46,0,3,0,4,0,1,1,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Ander Guevara,M,Deportivo Alavés,11,7,0,0,0,0.00763169,0,0,0,16,1,0,0,20,0,1,0,3,0,1,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Nahuel Tenaglia,D,Deportivo Alavés,90,6.6,0,0,0,0.0165866,0,0,0,27,1,0,0,50,0,1,1,2,0,1,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Ville Koski,D,Deportivo Alavés,90,6.9,0,0,0.1336,0.00796513,1,1,0,42,0,0,1,56,0,1,1,3,2,1,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Miguel Rodríguez,M,Deportivo Alavés,11,6.8,0,0,0,0.0171551,0,0,0,4,2,0,0,11,0,1,0,2,0,1,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Abderrahman Rebbach,M,Deportivo Alavés,85,6.5,0,0,0.0607,0.056638,1,0,0,27,0,0,0,46,1,0,1,2,1,1,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Pablo Ibáñez,M,Deportivo Alavés,90,6.9,0,0,0.3934,0.0357753,3,0,0,34,1,0,1,53,1,5,1,8,1,1,0,0,1,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Nicolás Valentini,D,Deportivo Alavés,90,6.9,0,0,0,0.0744953,0,0,0,43,1,0,0,59,0,1,0,3,0,1,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Youssef Enriquez,D,Deportivo Alavés,23,6.4,0,0,0.0182,0.00570435,1,0,0,5,0,0,0,19,1,0,0,2,1,0,0,0,0,0
+LaLiga,26_27,Deportivo Alavés vs Valencia,15/09/2026,Ángel Pérez,M,Deportivo Alavés,85,7.1,0,0,0.0565,0.162368,2,1,0,15,2,1,0,35,2,0,1,4,0,1,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Thibaut Courtois,G,Real Madrid,90,6.2,0,0,0,0.00030133,0,0,0,27,0,0,0,34,0,0,0,0,0,0,0,0,0,1
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Denzel Dumfries,M,Real Madrid,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Marc Cucurella,D,Real Madrid,90,5.8,0,0,0,0.0100492,0,0,0,44,0,0,0,58,0,2,1,3,0,1,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Trent Alexander-Arnold,D,Real Madrid,87,7.1,0,0,0.0436,0.314531,1,0,0,37,2,0,0,57,2,1,3,3,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Ibrahima Konaté,D,Real Madrid,90,6.9,0,0,0.0438,0.0246416,1,0,0,56,0,0,0,64,0,0,0,6,2,2,1,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Kylian Mbappé,F,Real Madrid,90,8.5,1,1,0.7396,0.922849,4,1,0,39,3,1,0,60,0,1,0,5,1,3,0,0,3,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Federico Valverde,M,Real Madrid,90,7,0,0,0,0.0636238,0,0,0,42,1,0,0,53,1,1,1,4,1,2,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Brahim Díaz,M,Real Madrid,22,6.3,0,0,0,0.0220042,0,0,0,8,1,0,0,13,1,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Aurélien Tchouaméni,M,Real Madrid,86,6.9,0,0,0,0.0725325,0,0,0,42,2,0,0,51,0,2,2,2,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Vinícius Júnior,F,Real Madrid,68,5.7,0,0,0.652,0.0302359,5,1,0,17,1,0,2,33,0,1,0,4,1,3,0,0,2,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Jude Bellingham,M,Real Madrid,22,6.8,0,0,0.0203,0.236235,1,0,0,10,2,0,0,20,2,0,0,4,0,2,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Arda Güler,M,Real Madrid,68,7.3,0,0,0.9075,0.353068,3,0,1,26,3,2,1,46,0,0,1,4,0,4,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Endrick,F,Real Madrid,10,6.4,0,0,0.1472,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Dean Huijsen,D,Real Madrid,90,6.5,0,0,0.1048,0.0127989,1,1,0,51,0,0,0,62,0,1,2,3,1,1,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Carlos Espí,F,Real Madrid,9,7.3,1,0,0.9644,0.0204876,2,1,0,2,0,0,0,7,1,0,1,1,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Yan Diomande,F,Real Madrid,89,7.3,0,1,0.0985,0.304319,1,0,0,29,3,1,0,54,7,2,1,12,2,3,1,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Thomas Lemar,M,Elche,32,7,0,0,0,0.0596596,0,0,0,32,1,0,0,42,1,2,1,3,2,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Matías Dituro,G,Elche,90,6.5,0,0,0,0.00061936,0,0,0,51,0,0,0,65,0,0,1,1,0,0,0,0,0,2
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Tete Morente,F,Elche,80,6.7,0,0,0.1072,0.129836,3,1,0,22,1,0,0,43,1,0,1,3,2,2,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Josan,M,Elche,10,6.5,0,1,0,0.036776,0,0,0,6,1,0,0,14,1,0,0,1,1,0,1,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Víctor Chust,D,Elche,90,6.2,0,0,0,0.010549,0,0,0,99,0,0,0,109,0,3,1,3,1,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Gonzalo Villar,M,Elche,90,6.8,0,0,0,0.0537744,0,0,0,61,1,0,0,77,1,4,0,9,2,2,1,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Germán Valera,M,Elche,58,6.8,0,0,0.0153,0.0775048,1,0,0,16,2,0,0,27,1,1,2,2,1,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Marc Aguado,M,Elche,58,6.3,0,0,0,0.00261341,0,0,0,30,0,0,0,37,0,1,2,1,3,0,1,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Fernando Niño,F,Elche,22,7.4,1,0,0.0503,0.00066503,1,1,0,5,0,0,0,8,0,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Rubén Sánchez,D,Elche,22,6.6,0,0,0,0.00344433,0,0,0,9,0,0,0,17,0,2,1,2,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Martim Neto,M,Elche,68,6.3,0,0,0.075,0.0487783,2,0,0,39,1,0,0,45,1,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Federico Redondo,M,Elche,90,7.2,0,0,0,0.13975,0,0,0,53,0,0,0,69,1,4,2,5,0,0,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Lucas Cepeda,M,Elche,32,7.1,0,1,0,0.3574,0,0,0,23,1,1,0,28,0,0,0,0,1,0,1,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Roy Revivo,D,Elche,90,6.1,0,0,0,0.144041,0,0,0,58,1,0,0,74,1,0,1,2,3,1,0,0,0,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Abiel Osorio,F,Elche,90,7,1,0,0.5368,0.00713569,4,1,0,17,0,0,0,28,0,0,1,3,3,2,0,0,1,0
+LaLiga,26_27,Elche vs Real Madrid,15/09/2026,Buba Sangaré,D,Elche,68,6.2,0,0,0,0.0595554,0,0,0,21,1,0,0,33,0,1,1,1,2,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Ante Budimir,F,Osasuna,30,6.7,0,0,0,0,0,0,0,1,0,0,0,6,0,0,0,1,0,1,0,0,1,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Aitor Fernández,G,Osasuna,90,7.8,0,0,0,0.00121117,0,0,0,36,0,0,0,50,0,0,0,0,0,0,0,0,0,7
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Lucas Torró,M,Osasuna,90,6.3,0,0,0,0.0161528,0,0,0,27,0,0,0,39,1,1,1,6,1,1,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Rubén García,M,Osasuna,31,6.3,0,0,0,0.059278,0,0,0,12,1,0,0,20,0,2,0,2,1,0,1,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Kike Barja,F,Osasuna,31,6.3,0,0,0,0.00111358,0,0,0,4,0,0,0,12,0,1,0,1,0,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Romain Del Castillo,M,Osasuna,16,6.6,0,0,0,0.00114718,0,0,0,6,0,0,0,8,0,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Jon Moncayola,M,Osasuna,19,6.7,0,0,0,0.069494,0,0,0,12,0,0,0,15,0,1,0,1,0,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Raúl Moro,M,Osasuna,59,6.3,0,0,0.0597,0.266369,1,0,0,10,1,1,0,20,0,0,0,0,1,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Raúl García de Haro,F,Osasuna,60,6.3,0,0,0.3772,0.0132359,1,1,0,13,0,0,1,23,0,0,0,1,1,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Abel Bretones,D,Osasuna,90,5,0,0,0,0.00198366,0,0,0,16,0,0,0,45,1,0,0,2,1,1,1,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Enzo Boyomo,D,Osasuna,90,6.9,0,0,0,0.0040798,0,0,0,48,1,0,0,59,0,1,0,1,0,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Jonathan Dubasin,M,Osasuna,59,6.1,0,0,0,0.0100752,0,0,0,26,0,0,0,39,0,0,1,1,0,1,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Asier Osambela,D,Osasuna,74,6.5,0,0,0,0.00604614,0,0,0,20,0,0,0,35,1,8,0,10,2,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Iñigo Arguibide,D,Osasuna,71,5.7,0,0,0,0.00174149,0,0,0,9,0,0,0,21,0,1,0,1,1,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Rockson Yeboah,D,Osasuna,90,6.4,0,0,0,0.00501549,0,0,0,32,0,0,0,52,0,4,3,5,1,1,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Unai Santos,D,Osasuna,90,6,0,0,0.0386,0.00418286,1,0,0,41,0,0,0,60,0,0,2,2,3,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Jan Oblak,G,Atlético Madrid,90,7.2,0,0,0,0.00014756,0,0,0,30,0,0,0,33,0,0,0,0,0,0,0,0,0,1
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Koke,M,Atlético Madrid,90,7.2,0,0,0,0.105931,0,0,0,87,1,0,0,105,0,5,1,5,1,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Alejandro Grimaldo,M,Atlético Madrid,85,8,0,0,0.3081,0.242093,2,0,0,54,2,1,1,86,3,2,1,7,0,2,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Marcos Llorente,D,Atlético Madrid,90,7.6,0,0,0,0.0664408,0,0,0,62,1,0,0,87,2,4,0,6,0,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Robin Le Normand,D,Atlético Madrid,90,8.3,1,0,0.0146,0.00687972,1,1,0,68,0,0,0,81,0,1,0,5,1,2,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Dávid Hancko,D,Atlético Madrid,9,6.7,0,0,0,0.00192331,0,0,0,9,0,0,0,15,1,0,1,1,1,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Ademola Lookman,F,Atlético Madrid,68,6.7,0,0,0.7464,0.195444,3,0,0,31,5,1,2,45,1,1,0,3,1,1,1,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Cristian Romero,D,Atlético Madrid,68,7.6,0,0,0.1119,0.0237292,2,1,0,60,0,0,0,73,1,3,0,8,1,1,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Morten Hjulmand,M,Atlético Madrid,9,6.7,0,0,0,0.00317973,0,0,0,11,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Alex Baena,M,Atlético Madrid,90,8.6,1,0,0.5648,0.447171,5,2,0,51,4,1,0,74,0,1,2,3,0,2,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Kang-in Lee,M,Atlético Madrid,90,9.1,1,0,0.7597,0.355827,6,4,1,51,3,1,1,71,2,2,1,6,1,1,0,0,1,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Jonathan David,F,Atlético Madrid,68,7.9,1,1,1.4628,0.360583,6,3,0,18,4,2,3,32,0,0,0,3,0,2,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Johnny Cardoso,M,Atlético Madrid,85,8.1,0,1,0.0123,0.322699,1,0,0,81,1,1,0,91,0,3,1,4,0,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Marc Pubill,D,Atlético Madrid,22,6.8,0,0,0,0.00123902,0,0,0,27,0,0,0,27,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Giuliano Simeone,M,Atlético Madrid,22,6.5,0,0,0,0.00429451,0,0,0,13,0,0,0,15,0,0,0,0,1,0,0,0,0,0
+LaLiga,26_27,Atlético Madrid vs Osasuna,16/09/2026,Arnau Ortiz,M,Atlético Madrid,22,6.4,0,0,0,0.00060552,0,0,0,4,0,0,0,8,1,0,0,2,1,1,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Pierre-Emerick Aubameyang,F,Deportivo de A Coruña,90,6.4,0,0,0,0.107973,0,0,0,18,3,0,0,24,1,0,0,1,2,0,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Adama Traoré,F,Deportivo de A Coruña,45,6.7,0,0,0,0.0105299,0,0,0,6,0,0,0,19,1,0,0,5,1,3,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,José María Giménez,D,Deportivo de A Coruña,83,6.5,0,0,0,0.00423082,0,0,0,64,0,0,0,76,0,1,2,3,1,0,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Miguel Loureiro,D,Deportivo de A Coruña,90,7.4,0,0,0,0.00923807,0,0,0,76,0,0,0,105,4,3,2,11,2,1,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Angeliño,M,Deportivo de A Coruña,59,5.5,0,0,0,0.0151983,0,0,0,30,0,0,0,61,0,1,1,3,2,2,0,1,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Riki Rodríguez,M,Deportivo de A Coruña,57,6.5,0,0,0,0.00742219,0,0,0,30,0,0,0,36,0,0,2,2,1,1,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Luismi Cruz,M,Deportivo de A Coruña,61,6.7,0,0,0,0.0389279,0,0,0,24,0,0,0,35,0,2,1,4,2,1,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Giacomo Quagliata,D,Deportivo de A Coruña,29,6.8,0,0,0,0.00203692,0,0,0,13,0,0,0,27,1,1,2,2,0,0,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Zakaria Eddahchouri,F,Deportivo de A Coruña,14,6.4,0,0,0,0.00285832,0,0,0,5,0,0,0,11,0,1,0,2,0,0,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Adrià Altimira,D,Deportivo de A Coruña,90,6.5,0,0,0,0.0188534,0,0,0,53,0,0,0,71,0,1,1,3,1,1,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Mario Soriano,M,Deportivo de A Coruña,33,7.2,0,0,0.0156,0.00485272,1,0,0,23,0,0,0,32,0,2,2,4,0,1,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Yeremay Hernández,F,Deportivo de A Coruña,57,6.4,0,0,0,0.027991,0,0,0,33,0,0,0,50,2,5,1,7,1,0,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Lorenzo Amatucci,M,Deportivo de A Coruña,90,7,0,0,0,0.0253784,0,0,0,66,0,0,0,80,1,1,0,8,2,4,1,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Leo Román,G,Deportivo de A Coruña,90,7.7,0,0,0,0.00183086,0,0,0,42,0,0,0,51,0,0,0,0,0,0,0,0,0,5
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Jonathan Asp Jensen,F,Deportivo de A Coruña,33,6.9,0,0,0.0793,0.00216575,2,2,0,9,0,0,0,16,0,2,0,3,0,1,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Bil Nsongo,F,Deportivo de A Coruña,45,6.8,0,0,0.0474,0.0195689,1,1,0,8,0,0,0,27,3,1,0,6,0,1,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Odysseas Vlachodimos,G,Sevilla,90,8.3,0,0,0,0.0015248,0,0,0,16,0,0,0,20,0,0,0,0,0,0,0,0,0,3
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Jon Guridi,M,Sevilla,81,6.7,0,0,0.0533,0.0112637,1,0,0,29,1,0,0,47,1,2,0,7,2,1,1,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Gabriel Suazo,D,Sevilla,90,7.2,0,0,0,0.0303867,0,0,0,36,1,0,0,54,0,3,0,7,2,4,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Giorgi Kochorashvili,M,Sevilla,9,6.6,0,0,0.0386,0.0323241,1,0,0,18,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Félix Correia,M,Sevilla,81,6.5,0,0,0.087,0.0300363,1,1,0,25,0,0,0,38,1,2,0,5,4,1,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Youssouf Fofana,M,Sevilla,90,6.8,0,0,0,0.0145243,0,0,0,37,1,0,0,48,1,3,0,4,0,0,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Juan Iglesias,D,Sevilla,90,7.2,0,0,0,0.0169646,0,0,0,44,0,0,0,77,2,2,2,7,1,1,1,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Lucien Agoumé,M,Sevilla,90,7.1,0,0,0.0239,0.0307277,1,0,0,65,1,1,0,77,1,4,0,5,1,0,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Isaac Romero,F,Sevilla,14,6.5,0,0,0,0.00221765,0,0,0,8,0,0,0,16,0,3,0,5,1,1,1,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Kike Salas,D,Sevilla,90,7,0,0,0.0177,0.00808649,1,1,0,50,1,0,0,57,0,1,0,4,1,0,1,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Lucas Stassin,F,Sevilla,76,7,0,0,0.3319,0.0217396,4,2,0,14,1,0,1,28,1,1,0,4,0,1,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Robbie Ure,F,Sevilla,1,0,0,0,0,0.0253186,0,0,0,4,0,0,0,5,0,0,0,0,1,0,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Julio Díaz,D,Sevilla,9,7,0,0,0,0.127689,0,0,0,6,0,0,0,7,0,0,0,1,0,1,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Andrés Castrin,D,Sevilla,90,7.7,0,0,0,0.00871362,0,0,0,57,0,0,0,75,0,2,2,6,1,2,0,0,0,0
+LaLiga,26_27,Deportivo de A Coruña vs Sevilla,16/09/2026,Miguel Sierra,M,Sevilla,89,7.1,1,0,0.1899,0.0911002,2,2,0,34,2,0,0,64,3,5,0,12,2,3,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Wojciech Szczęsny,G,FC Barcelona,45,5.8,0,0,0,0.00001706,0,0,0,4,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,João Cancelo,D,FC Barcelona,78,7.5,1,0,0.0901,0.0491895,3,1,0,62,1,0,0,78,1,0,2,2,2,0,1,0,1,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Andreas Christensen,D,FC Barcelona,90,6.2,0,0,0.2841,0.0122725,2,0,0,60,0,0,1,66,0,0,1,3,2,1,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Dani Olmo,M,FC Barcelona,90,8.8,0,1,0.261,0.677528,2,0,0,60,6,2,1,82,0,1,1,3,1,1,0,0,1,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Gabriel Jesus,F,FC Barcelona,21,7.4,1,0,0.1758,0.00205766,1,1,0,6,0,0,0,10,0,1,0,1,0,0,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Rodri,M,FC Barcelona,61,8.3,0,0,0.0576,0.32322,1,0,0,61,2,2,0,69,0,1,2,2,0,0,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Raphinha,M,FC Barcelona,69,10,3,0,2.3796,0.0248669,6,4,0,19,1,0,2,32,1,1,0,3,0,1,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Eric García,D,FC Barcelona,90,6.8,0,0,0,0.0787961,0,0,0,88,1,0,0,98,0,1,1,2,1,0,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Joan García,G,FC Barcelona,45,6.2,0,0,0,0.00169381,0,0,0,13,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Karim Adeyemi,F,FC Barcelona,90,8.1,0,1,1.8305,0.541187,8,1,0,42,4,3,3,74,6,0,0,12,2,4,1,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Pedri,M,FC Barcelona,61,7.1,0,0,0,0.402549,0,0,0,50,5,0,0,56,0,0,0,0,0,0,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Alejandro Balde,D,FC Barcelona,12,7,0,0,0,0.0954164,0,0,0,13,1,1,0,19,0,2,0,3,0,1,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Gerard Martín,D,FC Barcelona,90,7.6,0,0,0,0.0259939,0,0,0,69,0,0,0,78,0,0,1,2,1,1,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Gavi,M,FC Barcelona,29,6.8,0,0,0,0.0347558,0,0,0,27,1,0,0,29,0,0,1,1,0,0,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Lamine Yamal,M,FC Barcelona,90,9.1,1,2,1.6645,0.308369,7,2,1,53,3,2,1,84,6,0,0,9,1,3,1,0,1,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Marc Bernal,M,FC Barcelona,29,6.5,0,0,0,0.00844128,0,0,0,19,0,0,0,21,1,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Sergio Canales,M,Real Racing Club,90,5.9,0,0,0,0.00254788,0,0,0,47,0,0,0,54,0,1,0,3,1,2,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Asier Villalibre,F,Real Racing Club,59,6.4,0,1,0,0.00054847,0,0,0,7,1,1,0,12,0,0,0,3,0,1,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Iñigo Vicente,M,Real Racing Club,31,6.8,0,0,0,0.0307052,0,0,0,8,0,0,0,13,0,2,0,2,0,0,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Aarón Martín,M,Real Racing Club,90,4.7,0,0,0,0.0658551,0,0,0,20,1,0,0,34,1,1,2,4,2,2,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Manu Hernando,D,Real Racing Club,90,5.2,0,0,0,0.00069205,0,0,0,35,0,0,0,54,0,2,1,5,1,1,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Íñigo Sáinz-Maza,M,Real Racing Club,78,6.4,0,0,0,0.0447172,0,0,0,26,1,1,0,40,1,2,0,4,0,1,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Giorgi Guliashvili,F,Real Racing Club,12,6.6,0,0,0,0.00007096,0,0,0,3,0,0,0,4,1,0,0,1,0,0,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Julen Agirrezabala,G,Real Racing Club,90,6.2,0,0,0,0.00065401,0,0,0,25,0,0,0,38,0,0,0,0,0,0,0,0,0,3
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Juan Carlos Arana,F,Real Racing Club,59,6.5,0,0,0.3804,0.00085737,1,0,0,15,0,0,1,22,0,1,1,2,2,1,0,0,1,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Facundo González,D,Real Racing Club,86,6,0,0,0,0.00023119,0,0,0,27,0,0,0,43,0,2,2,2,1,0,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Matteo Prati,M,Real Racing Club,90,6.6,0,0,0,0.00161841,0,0,0,34,0,0,0,51,1,0,1,1,0,0,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Maguette Gueye,M,Real Racing Club,90,7.1,1,0,0.354,0.00814387,2,1,0,21,0,0,0,30,1,1,0,2,0,0,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Pedro Felipe,D,Real Racing Club,59,5.2,0,0,0,0.00005937,0,0,0,12,0,0,0,23,0,2,0,2,3,0,1,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Iker Luque,M,Real Racing Club,31,5.9,0,0,0,0.00009373,0,0,0,3,0,0,0,12,1,0,1,2,2,1,0,0,0,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Yassir Zabiri,F,Real Racing Club,31,7.9,1,0,1.2463,0.00094862,2,2,0,5,0,0,0,11,1,1,0,2,1,0,1,0,1,0
+LaLiga,26_27,FC Barcelona vs Real Racing Club,16/09/2026,Jorge Salinas,D,Real Racing Club,8,6.2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0

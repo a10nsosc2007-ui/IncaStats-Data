@@ -1468,312 +1468,707 @@ League One,26_27,Peterborough United vs Sheffield Wednesday,05/09/2026,James Dor
 League One,26_27,Peterborough United vs Sheffield Wednesday,05/09/2026,Harry Ashfield,M,Peterborough United,15,6.1,0,0,0.3645,0.0545125,3,1,0,13,1,0,0,20,0,1,0,1,0,0,0,0,0,0
 League One,26_27,Peterborough United vs Sheffield Wednesday,05/09/2026,Danny Ormerod,F,Peterborough United,27,6.9,0,0,0.0613,0.684934,2,0,0,4,3,0,0,10,0,0,0,0,0,0,0,0,0,0
 League One,26_27,Peterborough United vs Sheffield Wednesday,05/09/2026,Bolu Shofowoke,M,Peterborough United,90,6.2,0,0,0.1634,0.225199,1,0,0,18,1,0,0,45,1,2,0,5,1,1,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Oliver Norwood,M,Stockport County,63,7.5,0,0,0,0.128762,0,0,0,62,1,0,0,69,0,1,1,2,0,0,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Ben Osborn,M,Stockport County,71,7.4,0,0,0,0.300472,0,0,0,18,3,0,0,39,0,2,2,4,0,2,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Mikael Mandron,F,Stockport County,19,6.4,0,0,0,0.00381333,0,0,0,4,2,1,0,10,0,1,0,3,2,1,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Eoghan O'Connell,D,Stockport County,90,7.3,0,0,0.1714,0.00332052,1,0,0,62,0,0,0,69,0,1,0,4,1,1,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Kyle Wootton,F,Stockport County,71,7.1,1,0,0.2914,0.00375043,4,2,0,10,0,0,0,22,0,0,0,3,1,0,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Oliver Norwood,M,Stockport County,63,7.5,0,0,0,0.125158,0,0,0,62,1,0,0,69,0,1,1,2,0,0,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Ben Osborn,M,Stockport County,71,7.4,0,0,0,0.314733,0,0,0,18,3,0,0,39,0,2,2,4,0,2,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Mikael Mandron,F,Stockport County,19,6.4,0,0,0,0.00649685,0,0,0,4,2,1,0,11,0,1,0,3,2,1,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Eoghan O'Connell,D,Stockport County,90,7.3,0,0,0.1778,0.00321948,1,0,0,62,0,0,0,70,0,1,0,4,1,1,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Kyle Wootton,F,Stockport County,71,7.1,1,0,0.3354,0.00396167,4,2,0,10,0,0,0,23,0,0,0,3,1,0,0,0,0,0
 League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Josh Dacres-Cogley,D,Stockport County,19,6.8,0,0,0,0.0079456,0,0,0,6,0,0,0,7,0,0,0,1,1,1,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Jack Diamond,F,Stockport County,79,9,1,1,0.5781,0.325778,3,1,0,18,4,1,0,37,1,2,0,4,0,1,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Lewis Bate,M,Stockport County,90,7.4,0,1,0.0631,0.245148,1,0,0,61,2,1,0,66,0,1,1,1,0,0,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Lewis Fiorini,M,Stockport County,27,6.6,0,0,0,0.00672229,0,0,0,19,0,0,0,23,0,0,1,0,0,0,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Ryan Glover,M,Stockport County,90,7.4,1,0,0.166,0.00740976,1,1,0,31,0,0,0,53,0,4,1,5,0,0,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Kyron Gordon,D,Stockport County,90,7,0,0,0,0.0038924,0,0,0,54,0,0,0,70,1,1,1,5,1,0,1,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Harry Wood,F,Stockport County,63,7.4,1,0,0.5449,0.00162811,3,2,0,14,1,0,0,29,1,0,0,2,3,1,0,0,1,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Jack Diamond,F,Stockport County,79,9,1,1,0.6402,0.269383,3,1,0,18,4,1,0,38,1,2,0,4,0,1,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Lewis Bate,M,Stockport County,90,7.4,0,1,0.1031,0.241631,1,0,0,61,2,1,0,65,0,1,1,1,0,0,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Lewis Fiorini,M,Stockport County,27,6.6,0,0,0,0.00672199,0,0,0,19,0,0,0,23,0,0,1,0,0,0,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Ryan Glover,M,Stockport County,90,7.4,1,0,0.4075,0.00852484,1,1,0,31,0,0,0,54,0,4,1,5,0,0,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Kyron Gordon,D,Stockport County,90,7,0,0,0,0.00414921,0,0,0,54,0,0,0,70,1,1,1,5,1,0,1,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Harry Wood,F,Stockport County,63,7.4,1,0,0.5053,0.0020787,3,2,0,15,1,0,0,29,1,0,0,2,3,1,0,0,1,0
 League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Mamadou Jobe,D,Stockport County,11,6.5,0,0,0,0.00028715,0,0,0,7,0,0,0,9,0,0,1,0,1,0,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Ethan Pye,D,Stockport County,90,7.3,0,0,0,0.0152058,0,0,0,73,0,0,0,89,0,3,0,6,0,1,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Oliver Whatmuff,G,Stockport County,90,7.6,0,0,0,0.00400412,0,0,0,65,0,0,0,78,0,0,0,2,0,1,0,0,0,1
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Jason Adigun,M,Stockport County,27,7.3,0,0,0.376,0.00183992,3,2,1,7,0,0,1,14,2,0,0,3,0,1,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Max Power,M,Wigan Athletic,90,6.4,0,0,0,0.0789492,0,0,0,58,0,0,0,72,0,1,1,4,1,2,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Morgan Fox,D,Wigan Athletic,90,6.3,0,0,0,0.040388,0,0,0,87,0,0,0,102,0,3,0,6,0,0,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Fraser Murray,M,Wigan Athletic,45,6.9,0,0,0.1526,0.230499,1,0,0,8,1,0,1,17,0,0,0,0,0,0,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Jon Mellish,M,Wigan Athletic,21,6.2,0,0,0,0.0352864,0,0,0,17,1,0,0,20,0,0,0,1,0,0,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Connor Barrett,M,Wigan Athletic,45,5.9,0,0,0.0603,0.00177761,1,0,0,9,0,0,1,15,0,1,0,1,2,0,1,0,2,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Dara Costelloe,F,Wigan Athletic,69,6.1,0,0,0.1642,0.173566,1,0,0,3,1,1,0,11,1,0,0,1,2,0,0,0,2,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Finley Burns,D,Wigan Athletic,69,6.1,0,0,0,0.00424192,0,0,0,56,0,0,0,68,0,1,2,3,0,0,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,James Carragher,D,Wigan Athletic,90,6,0,0,0,0.0188987,0,0,0,65,0,0,0,94,0,0,2,0,2,0,1,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Joe Whitworth,G,Wigan Athletic,90,6.7,0,0,0,0.00046876,0,0,0,29,0,0,0,41,0,0,0,0,0,0,0,0,0,5
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Chris Sze,F,Wigan Athletic,45,7.1,0,0,0.0724,0.0331145,1,1,0,16,0,0,0,24,1,1,0,4,1,2,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Ethan Pye,D,Stockport County,90,7.3,0,0,0,0.0132613,0,0,0,73,0,0,0,89,0,3,0,6,0,1,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Oliver Whatmuff,G,Stockport County,90,7.6,0,0,0,0.00383557,0,0,0,65,0,0,0,79,0,0,0,2,0,1,0,0,0,1
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Jason Adigun,M,Stockport County,27,7.3,0,0,0.507,0.00220616,3,2,1,7,0,0,1,13,2,0,0,3,0,1,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Max Power,M,Wigan Athletic,90,6.4,0,0,0,0.0854394,0,0,0,58,0,0,0,72,0,1,1,4,1,2,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Morgan Fox,D,Wigan Athletic,90,6.3,0,0,0,0.0406769,0,0,0,87,0,0,0,102,0,3,0,6,0,0,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Fraser Murray,M,Wigan Athletic,45,6.9,0,0,0.1944,0.392313,1,0,0,8,1,0,1,17,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Jon Mellish,M,Wigan Athletic,21,6.2,0,0,0,0.0585161,0,0,0,17,1,0,0,20,0,0,0,1,0,0,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Connor Barrett,M,Wigan Athletic,45,5.9,0,0,0.0731,0.00177545,1,0,0,9,0,0,1,15,0,1,0,1,2,0,1,0,2,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Dara Costelloe,F,Wigan Athletic,69,6.1,0,0,0.1742,0.0978544,1,0,0,3,1,1,0,10,1,0,0,1,2,0,0,0,2,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Finley Burns,D,Wigan Athletic,69,6.1,0,0,0,0.00506227,0,0,0,56,0,0,0,68,0,1,2,3,0,0,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,James Carragher,D,Wigan Athletic,90,6,0,0,0,0.0181878,0,0,0,65,0,0,0,94,0,0,2,0,2,0,1,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Joe Whitworth,G,Wigan Athletic,90,6.7,0,0,0,0.00046936,0,0,0,29,0,0,0,41,0,0,0,0,0,0,0,0,0,5
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Chris Sze,F,Wigan Athletic,45,7.1,0,0,0.1068,0.0319597,1,1,0,16,0,0,0,24,1,1,0,4,1,2,0,0,0,0
 League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Sonny Perkins,F,Wigan Athletic,21,6.4,0,0,0,0.001871,0,0,0,9,0,0,0,9,0,0,0,0,1,0,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Charlie Gray,M,Wigan Athletic,45,6.4,0,0,0.0144,0.0267118,1,0,0,16,0,0,0,25,1,1,1,2,0,0,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Jensen Weir,M,Wigan Athletic,90,6.7,0,0,0.189,0.0416134,3,0,0,47,1,1,0,64,1,0,1,4,1,3,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Archie Harris,D,Wigan Athletic,90,5.6,0,0,0.0747,0.0655476,1,0,1,64,1,0,1,87,0,1,0,2,0,1,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Bradley Burrowes,M,Wigan Athletic,45,6.6,0,0,0,0.239104,0,0,0,11,1,1,0,22,1,2,0,3,0,0,0,0,0,0
-League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Reggie Walsh,M,Wigan Athletic,45,6.7,0,0,0,0.0233851,0,0,0,11,0,0,0,14,0,0,0,2,0,2,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,James Belshaw,G,Notts County,90,5.8,0,0,0,0.00017044,0,0,0,38,0,0,0,48,0,0,0,0,0,0,0,0,0,4
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Callum Roberts,M,Notts County,68,6.9,0,0,0.0456,0.0897019,1,1,0,12,3,0,0,26,0,1,0,6,0,3,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,James Gibbons,D,Notts County,56,7.4,0,0,0,0.00013158,0,0,0,23,0,0,0,37,0,4,0,5,0,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Jacob Bedeau,D,Notts County,90,6.5,0,0,0,0.00444503,0,0,0,37,1,0,0,62,0,1,1,4,0,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Oliver Cooper,M,Notts County,74,7.2,1,0,0.9373,0.00165944,2,1,0,9,0,0,0,19,0,0,0,0,5,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Jack Evans,M,Notts County,90,6.6,0,0,0,0.0024868,0,0,0,16,1,0,0,27,0,1,0,2,2,1,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Conor Grant,F,Notts County,16,6.6,0,0,0.0233,0.00408927,1,0,0,7,0,0,0,14,0,2,1,2,1,0,1,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Nick Tsaroulla,M,Notts County,74,6.5,0,0,0,0.00148083,0,0,0,19,0,0,0,24,0,2,0,2,0,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Lucas Ness,D,Notts County,90,7.6,0,0,0.0318,0.0010455,1,0,0,36,0,0,0,65,0,1,1,7,1,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Matthew Baker,D,Notts County,34,6.7,0,0,0,0.00265613,0,0,0,10,0,0,0,14,0,0,1,0,0,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Darius Lipsiuc,M,Notts County,90,6.3,0,0,0.0397,0.00182449,1,0,0,24,0,0,0,58,0,5,2,7,2,2,1,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Daniel Kanu,F,Notts County,68,6.1,0,0,0.0351,0,1,0,0,3,0,0,0,15,0,0,0,1,0,1,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Ishé Samuels-Smith,D,Notts County,16,6.8,0,0,0.0385,0.00881612,1,0,0,6,0,0,0,18,0,2,0,2,0,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Hindolo Mustapha,M,Notts County,22,6.8,0,0,0,0.0527912,0,0,0,3,2,0,0,10,1,1,0,3,1,1,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Rory Finneran,M,Notts County,90,6.9,0,0,0,0.0344542,0,0,0,21,0,0,0,40,2,3,1,7,2,1,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Luka Smyth,F,Notts County,22,6.1,0,0,0.0906,0.0268335,1,1,0,4,1,0,0,10,0,0,0,0,1,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Murray Wallace,D,Huddersfield Town,90,7.2,0,0,0,0.125136,0,0,0,75,1,1,0,83,0,2,1,7,0,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Ashley Fletcher,F,Huddersfield Town,63,6.6,0,0,0.3684,0.0089984,3,1,0,15,1,1,2,27,0,0,0,4,1,3,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Ryan Ledson,M,Huddersfield Town,90,6.7,0,0,0.0799,0.0721221,1,0,0,40,1,0,0,53,0,2,1,3,2,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Marcus Harness,M,Huddersfield Town,63,7.5,1,0,0.1558,0.150272,2,2,0,22,2,0,0,37,2,0,0,2,1,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Ilias Bronkhorst,D,Huddersfield Town,90,7.3,0,0,0.0212,0.0934621,1,0,0,41,2,0,0,78,0,1,2,10,2,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Bali Mumba,M,Huddersfield Town,8,6.9,0,0,0,0.00485128,0,0,0,11,0,0,0,16,0,2,0,2,0,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Radinio Balker,D,Huddersfield Town,90,7.1,0,0,0.0542,0.0604845,1,0,0,75,3,2,0,93,2,5,1,12,1,0,1,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Bojan Radulović,F,Huddersfield Town,27,6.5,0,0,0.1973,0.0151527,2,1,0,8,0,0,0,17,1,1,0,3,0,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Derensili Sanches Fernandes,M,Huddersfield Town,90,7.8,0,1,0.2938,0.733849,3,2,0,41,4,1,1,75,1,4,0,5,0,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Ibane Bowat,D,Huddersfield Town,82,6.8,0,0,0.1213,0.0876055,3,0,0,45,0,0,0,61,0,0,0,4,0,0,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Cameron Humphreys,M,Huddersfield Town,90,7.7,0,0,0,0.0280243,0,0,0,54,0,0,0,76,2,1,1,12,0,8,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Joe Taylor,F,Huddersfield Town,90,6.3,0,0,0.1176,0.0229166,2,1,0,15,0,0,2,28,0,0,0,3,1,1,0,0,0,0
-League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Matthew Young,G,Huddersfield Town,90,6.9,0,0,0,0.00401175,0,0,0,28,0,0,0,35,0,0,0,0,0,0,0,0,0,2
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Charlie Gray,M,Wigan Athletic,45,6.4,0,0,0.024,0.0267503,1,0,0,16,0,0,0,25,1,1,1,2,0,0,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Jensen Weir,M,Wigan Athletic,90,6.7,0,0,0.2122,0.126217,3,0,0,47,1,1,0,64,1,0,1,4,1,3,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Archie Harris,D,Wigan Athletic,90,5.6,0,0,0.1848,0.0665635,1,0,1,64,1,0,1,87,0,1,0,2,0,1,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Bradley Burrowes,M,Wigan Athletic,45,6.6,0,0,0,0.226231,0,0,0,11,1,1,0,22,1,2,0,3,0,0,0,0,0,0
+League One,26_27,Wigan Athletic vs Stockport County,05/09/2026,Reggie Walsh,M,Wigan Athletic,45,6.7,0,0,0,0.0184283,0,0,0,11,0,0,0,14,0,0,0,2,0,2,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,James Belshaw,G,Notts County,90,5.8,0,0,0,0.00013745,0,0,0,39,0,0,0,49,0,0,0,0,0,0,0,0,0,4
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Callum Roberts,M,Notts County,68,6.9,0,0,0.0853,0.0897458,1,1,0,12,3,0,0,26,0,1,0,6,0,3,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,James Gibbons,D,Notts County,56,7.4,0,0,0,0.00015889,0,0,0,26,0,0,0,40,0,4,0,6,0,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Jacob Bedeau,D,Notts County,90,6.5,0,0,0,0.00278689,0,0,0,41,1,0,0,63,0,2,1,5,0,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Oliver Cooper,M,Notts County,74,7.2,1,0,1.0913,0.181507,2,1,0,12,1,0,0,25,0,2,0,2,5,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Jack Evans,M,Notts County,90,6.6,0,0,0,0.00066747,0,0,0,16,0,0,0,28,0,0,0,1,2,1,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Conor Grant,F,Notts County,16,6.6,0,0,0.0276,0.00408927,1,0,0,7,0,0,0,14,0,1,1,1,1,0,1,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Nick Tsaroulla,M,Notts County,74,6.5,0,0,0,0.00148083,0,0,0,19,0,0,0,23,0,2,0,2,0,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Lucas Ness,D,Notts County,90,7.6,0,0,0.0252,0.00153807,1,0,0,38,0,0,0,69,0,1,1,11,1,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Matthew Baker,D,Notts County,34,6.7,0,0,0,0.00265613,0,0,0,10,0,0,0,14,0,0,1,1,0,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Darius Lipsiuc,M,Notts County,90,6.3,0,0,0.0389,0.00187437,1,0,0,28,0,0,0,61,0,5,3,9,2,2,1,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Daniel Kanu,F,Notts County,68,6.1,0,0,0.0277,0,1,0,0,2,0,0,0,16,0,0,0,2,0,2,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Ishé Samuels-Smith,D,Notts County,16,6.8,0,0,0.0278,0.00858378,1,0,0,7,0,0,0,19,0,2,0,2,0,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Hindolo Mustapha,M,Notts County,22,6.8,0,0,0,0.276623,0,0,0,3,2,0,0,10,1,2,0,4,1,1,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Rory Finneran,M,Notts County,90,6.9,0,0,0,0.0402817,0,0,0,22,0,0,0,42,2,3,1,7,2,1,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Luka Smyth,F,Notts County,22,6.1,0,0,0.1128,0.0357006,1,1,0,4,1,0,0,11,0,0,0,0,1,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Murray Wallace,D,Huddersfield Town,90,7.2,0,0,0,0.423962,0,0,0,76,1,1,0,85,0,2,0,7,0,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Ashley Fletcher,F,Huddersfield Town,63,6.6,0,0,0.5628,0.00862001,3,1,0,15,1,1,2,29,0,0,0,5,1,3,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Ryan Ledson,M,Huddersfield Town,90,6.7,0,0,0.0932,0.106724,1,0,0,41,1,0,0,54,0,1,1,3,3,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Marcus Harness,M,Huddersfield Town,63,7.5,1,0,0.1737,0.143626,2,2,0,22,2,0,0,37,2,0,0,2,1,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Ilias Bronkhorst,D,Huddersfield Town,90,7.3,0,0,0.0174,0.11267,1,0,0,41,2,0,0,75,0,1,2,7,2,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Bali Mumba,M,Huddersfield Town,8,6.9,0,0,0,0.00485128,0,0,0,10,0,0,0,15,0,2,0,2,0,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Radinio Balker,D,Huddersfield Town,90,7.1,0,0,0.0567,0.135594,1,0,0,75,3,0,0,94,2,3,1,10,1,0,1,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Bojan Radulović,F,Huddersfield Town,27,6.5,0,0,0.1726,0.0151527,2,1,0,9,0,0,0,17,1,1,0,2,0,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Derensili Sanches Fernandes,M,Huddersfield Town,90,7.8,0,1,0.2492,0.84687,3,2,0,39,4,1,1,74,1,3,0,4,0,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Ibane Bowat,D,Huddersfield Town,82,6.8,0,0,0.1247,0.0837051,3,0,0,47,0,0,0,64,0,0,0,3,0,0,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Cameron Humphreys,M,Huddersfield Town,90,7.7,0,0,0,0.0321244,0,0,0,57,0,0,0,78,2,1,1,12,0,8,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Joe Taylor,F,Huddersfield Town,90,6.3,0,0,0.1233,0.0223605,2,1,0,15,0,0,0,27,0,0,0,3,1,1,0,0,0,0
+League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Matthew Young,G,Huddersfield Town,90,6.9,0,0,0,0.00290935,0,0,0,30,0,0,0,37,0,0,0,0,0,0,0,0,0,2
 League One,26_27,Huddersfield Town vs Notts County,05/09/2026,Jay Smith-Sway,D,Huddersfield Town,27,6.7,0,0,0,0.0184013,0,0,0,9,0,0,0,19,1,0,0,3,1,2,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Nick Powell,M,Bradford City,19,6.7,0,0,0,0.0174498,0,0,0,8,1,0,0,11,0,0,0,4,2,2,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Antoni Sarcevic,F,Bradford City,65,7.7,1,0,0.2063,0.475407,2,2,0,24,2,1,0,36,1,1,0,3,4,0,1,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Kayden Jackson,F,Bradford City,24,6.7,0,0,0,0.0395153,0,0,0,9,1,0,0,13,0,2,0,2,1,0,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Matthew Pennington,D,Bradford City,90,7.3,0,0,0,0.00481195,0,0,0,45,0,0,0,58,0,1,2,7,0,4,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Jake Beesley,F,Bradford City,90,7,0,1,0,0.0854319,0,0,0,14,1,1,0,24,0,0,0,11,2,4,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Adam Phillips,M,Bradford City,66,6.5,0,0,0.3331,0.0207234,3,2,0,23,0,0,0,32,0,0,0,0,0,0,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Ibou Touray,M,Bradford City,89,7.4,0,0,0,0.206328,0,0,0,36,1,0,0,64,1,1,0,5,0,1,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Nick Powell,M,Bradford City,19,6.7,0,0,0,0.0174498,0,0,0,7,1,0,0,10,0,0,0,3,2,2,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Antoni Sarcevic,F,Bradford City,65,7.7,1,0,0.1846,0.551895,2,2,0,26,2,1,0,39,1,1,0,3,4,0,1,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Kayden Jackson,F,Bradford City,24,6.7,0,0,0,0.0395152,0,0,0,9,1,0,0,13,0,2,0,2,1,0,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Matthew Pennington,D,Bradford City,90,7.3,0,0,0,0.00407855,0,0,0,46,0,0,0,61,0,1,3,8,0,4,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Jake Beesley,F,Bradford City,90,7,0,1,0.0641,0.0857449,1,0,0,15,1,0,0,27,0,0,0,12,2,4,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Adam Phillips,M,Bradford City,66,6.5,0,0,0.3689,0.0192575,3,2,0,24,0,0,1,31,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Ibou Touray,M,Bradford City,89,7.4,0,0,0,0.191234,0,0,0,37,1,1,0,68,1,1,1,5,0,1,0,0,0,0
 League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Macauley Gillesphey,D,Bradford City,1,0,0,0,0,0.00002605,0,0,0,2,0,0,0,2,0,0,0,1,1,0,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Callum Connolly,D,Bradford City,90,6.9,0,0,0.0463,0.00908652,2,2,0,36,0,0,0,56,1,1,1,10,0,3,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Aden Baldwin,D,Bradford City,90,7.3,0,0,0,0.00611529,0,0,0,41,0,0,0,51,0,0,2,9,3,0,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Josh Neufville,M,Bradford City,90,7.8,0,0,0.0207,0.0916315,1,0,0,27,0,0,0,64,2,5,4,11,0,1,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Jon McCracken,G,Bradford City,90,7.1,0,0,0,0.00273756,0,0,0,23,0,0,0,34,0,0,0,1,0,1,0,0,0,2
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,George Pratt,D,Bradford City,90,6,0,0,0,0.00443617,0,0,0,31,0,0,0,36,0,0,0,3,1,1,1,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Henry Cartwright,M,Bradford City,25,6.6,0,0,0,0.00088809,0,0,0,12,0,0,0,16,0,0,0,1,1,0,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Bobby Pointon,F,Bradford City,71,6.9,0,0,0.4254,0.0871212,1,1,0,17,2,0,1,32,2,2,1,6,4,1,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,David McGoldrick,F,Mansfield Town,45,6.4,0,0,0.0357,0.0103688,1,0,0,13,0,0,0,16,0,0,0,2,0,2,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Michael Smith,F,Mansfield Town,80,6.8,0,0,0.1868,0.0218662,2,2,0,24,0,0,1,38,0,1,0,13,2,2,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Elliott Hewitt,D,Mansfield Town,26,6.8,0,0,0,0.00281545,0,0,0,14,0,0,0,20,1,0,0,4,1,1,1,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Rhys Oates,F,Mansfield Town,45,6.1,0,0,0,0.00473057,0,0,0,8,1,0,0,16,0,0,1,1,2,0,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Adedeji Oshilaja,D,Mansfield Town,90,6.8,0,0,0,0.00578544,0,0,0,46,0,0,0,62,1,1,1,8,2,3,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Louis Reed,M,Mansfield Town,66,6.6,0,0,0,0.0828967,0,0,0,43,0,0,0,50,2,0,0,2,2,0,1,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,George Maris,M,Mansfield Town,90,6.6,0,0,0,0.0508419,0,0,0,23,2,0,0,32,0,1,0,4,1,0,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Ryan Sweeney,D,Mansfield Town,90,6.5,0,0,0.0319,0.00297398,1,0,0,47,0,0,0,62,0,0,3,9,2,1,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Tyler Roberts,F,Mansfield Town,10,6.7,0,0,0.0311,0.0204232,1,0,0,5,0,0,0,9,0,1,0,1,0,0,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Kyle Knoyle,D,Mansfield Town,64,6.5,0,0,0,0.0497503,0,0,0,31,1,1,0,59,1,1,2,5,2,2,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Harry Lewis,G,Mansfield Town,90,9,0,0,0,0.00493846,0,0,0,35,0,0,0,48,0,0,0,0,0,0,0,0,0,6
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Regan Hendry,M,Mansfield Town,45,6,0,0,0,0.0126753,0,0,0,18,0,0,0,24,0,1,0,1,2,0,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Luke Bolton,M,Mansfield Town,24,7,0,0,0.0397,0.00154141,1,0,0,4,0,0,0,12,0,0,0,2,1,2,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Frazer Blake-Tracy,D,Mansfield Town,90,6.6,0,0,0.1545,0.0480125,2,0,0,35,0,0,0,65,0,0,0,5,0,1,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Liam Thompson,M,Mansfield Town,90,6.6,0,0,0,0.091036,0,0,0,39,3,0,0,60,0,4,0,7,1,3,0,0,0,0
-League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Nathan Moriah-Welsh,M,Mansfield Town,45,6.4,0,0,0,0.0468389,0,0,0,20,0,0,0,32,0,0,1,1,0,1,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Cameron McGeehan,M,Barnsley,75,7.1,1,0,0.7884,0.0132592,1,1,0,32,0,0,0,45,0,3,1,4,3,0,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Ziyad Larkeche,D,Barnsley,45,6.7,0,0,0,0.0491765,0,0,0,16,1,0,0,38,1,3,0,5,0,1,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Luca Connell,M,Barnsley,30,6.4,0,0,0.0518,0.213238,2,1,0,31,0,0,0,38,0,1,0,1,1,0,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Reyes Cleary,M,Barnsley,60,6.5,0,0,0.0519,0.05626,1,0,0,10,1,0,0,32,4,0,0,4,1,0,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Callum Connolly,D,Bradford City,90,6.9,0,0,0.0584,0.0091909,2,2,0,37,0,0,0,62,1,1,2,9,0,3,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Aden Baldwin,D,Bradford City,90,7.3,0,0,0,0.00610248,0,0,0,40,0,0,0,55,0,1,2,10,3,0,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Josh Neufville,M,Bradford City,90,7.8,0,0,0.0246,0.147066,1,0,0,29,1,0,0,65,2,4,3,12,0,1,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Jon McCracken,G,Bradford City,90,7.1,0,0,0,0.00285586,0,0,0,25,0,0,0,36,0,0,0,1,0,1,0,0,0,2
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,George Pratt,D,Bradford City,90,6,0,0,0,0.00441929,0,0,0,31,0,0,0,39,0,0,0,3,1,1,1,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Henry Cartwright,M,Bradford City,25,6.6,0,0,0,0.0009019,0,0,0,13,0,0,0,17,0,0,0,1,1,0,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Bobby Pointon,F,Bradford City,71,6.9,0,0,0.504,0.0871214,1,1,0,17,2,0,1,35,2,2,0,7,4,2,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,David McGoldrick,F,Mansfield Town,45,6.4,0,0,0.0351,0.0103688,1,0,0,13,0,0,0,16,0,0,0,2,0,2,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Michael Smith,F,Mansfield Town,80,6.8,0,0,0.2887,0.0185925,2,2,0,25,0,0,1,41,0,2,0,14,2,2,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Elliott Hewitt,D,Mansfield Town,26,6.8,0,0,0,0.00281537,0,0,0,14,0,0,0,20,1,0,0,4,1,1,1,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Rhys Oates,F,Mansfield Town,45,6.1,0,0,0,0.00473057,0,0,0,9,1,0,0,16,0,0,0,2,2,0,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Adedeji Oshilaja,D,Mansfield Town,90,6.8,0,0,0,0.00587394,0,0,0,42,0,0,0,64,0,2,1,8,2,3,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Louis Reed,M,Mansfield Town,66,6.6,0,0,0,0.0849412,0,0,0,45,0,0,0,52,2,0,0,2,2,0,1,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,George Maris,M,Mansfield Town,90,6.6,0,0,0,0.282278,0,0,0,24,2,1,0,32,0,1,1,4,1,0,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Ryan Sweeney,D,Mansfield Town,90,6.5,0,0,0,0.0503117,0,0,0,48,0,0,0,65,0,0,2,9,2,1,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Tyler Roberts,F,Mansfield Town,10,6.7,0,0,0,0.0204232,0,0,0,5,0,0,0,9,0,1,0,1,0,0,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Kyle Knoyle,D,Mansfield Town,64,6.5,0,0,0,0.049741,0,0,0,31,1,0,0,58,1,1,1,5,2,2,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Harry Lewis,G,Mansfield Town,90,9,0,0,0,0.00451443,0,0,0,35,0,0,0,48,0,0,0,0,0,0,0,0,0,6
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Regan Hendry,M,Mansfield Town,45,6,0,0,0,0.0126752,0,0,0,18,0,0,0,25,0,1,0,1,3,0,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Luke Bolton,M,Mansfield Town,24,7,0,0,0.0376,0.00154171,1,0,0,4,0,0,0,12,0,0,1,2,1,2,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Frazer Blake-Tracy,D,Mansfield Town,90,6.6,0,0,0.1331,0.0550784,2,0,0,35,0,0,0,70,0,0,1,4,0,1,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Liam Thompson,M,Mansfield Town,90,6.6,0,0,0,0.0910171,0,0,0,38,1,0,0,65,0,4,1,8,1,3,0,0,0,0
+League One,26_27,Bradford City vs Mansfield Town,05/09/2026,Nathan Moriah-Welsh,M,Mansfield Town,45,6.4,0,0,0,0.0471586,0,0,0,20,0,0,0,32,0,0,1,1,0,1,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Cameron McGeehan,M,Barnsley,75,7.1,1,0,0.7884,0.0121069,1,1,0,36,0,0,0,50,0,3,0,5,3,0,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Ziyad Larkeche,D,Barnsley,45,6.7,0,0,0,0.0491764,0,0,0,16,1,0,0,37,1,2,0,4,0,1,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Luca Connell,M,Barnsley,30,6.4,0,0,0.0518,0.21324,2,1,0,31,0,0,0,38,0,1,0,1,1,0,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Reyes Cleary,M,Barnsley,60,6.5,0,0,0.071,0.0564197,1,0,0,11,1,0,0,33,4,0,1,4,1,0,0,0,0,0
 League One,26_27,Barnsley vs Stevenage,05/09/2026,Amani Richards,F,Barnsley,45,6.3,0,0,0,0.0135336,0,0,0,5,1,0,0,11,0,0,0,1,1,1,0,0,2,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Patrick Kelly,M,Barnsley,90,6,0,0,0.1709,0.0382483,2,0,0,31,3,1,0,53,2,1,0,3,2,0,1,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Connor O'Riordan,D,Barnsley,90,5.4,0,0,0.0405,0.00211975,1,0,0,46,0,0,0,67,0,0,2,7,0,0,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Makenzie Kirk,F,Barnsley,45,6.5,0,0,0.021,0.0019409,1,0,0,7,0,0,0,13,1,0,0,2,0,1,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Sam Gale,D,Barnsley,90,5.3,0,0,0,0.0290019,0,0,0,66,0,0,0,81,0,1,1,6,2,2,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Clayton Taylor,M,Barnsley,15,6.4,0,0,0,0.00618908,0,0,0,6,1,0,0,10,0,0,0,0,0,0,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Tyrese Noslin,M,Barnsley,90,5.9,0,0,0.5105,0.0721331,7,1,0,36,2,0,1,67,1,1,3,4,5,2,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Jonathan Bland,M,Barnsley,60,6.2,0,0,0.1968,0.00456961,2,1,0,21,1,0,0,33,0,1,1,2,2,0,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Rogan Ravenhill,G,Barnsley,90,5.2,0,0,0,0.00003224,0,0,0,28,0,0,0,40,0,0,0,0,0,0,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Leo Farrell,F,Barnsley,45,6,0,0,0,0.00172666,0,0,0,3,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Patrick Kelly,M,Barnsley,90,6,0,0,0.1716,0.0382483,2,0,0,31,3,1,0,52,1,1,0,2,2,0,1,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Connor O'Riordan,D,Barnsley,90,5.4,0,0,0.0415,0.0021423,1,0,0,47,0,0,0,69,0,0,2,7,0,0,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Makenzie Kirk,F,Barnsley,45,6.5,0,0,0.021,0.00191885,1,0,0,7,0,0,0,13,1,0,0,2,0,1,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Sam Gale,D,Barnsley,90,5.3,0,0,0,0.0280807,0,0,0,65,0,0,0,81,0,1,1,5,1,2,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Clayton Taylor,M,Barnsley,15,6.4,0,0,0,0.00613862,0,0,0,6,1,0,0,10,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Tyrese Noslin,M,Barnsley,90,5.9,0,0,0.452,0.0719737,7,1,0,35,2,0,1,64,1,1,1,4,5,2,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Jonathan Bland,M,Barnsley,60,6.2,0,0,0.1926,0.00442168,2,1,0,20,1,0,0,34,0,2,1,3,3,0,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Rogan Ravenhill,G,Barnsley,90,5.2,0,0,0,0.0000451,0,0,0,29,0,0,0,43,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Leo Farrell,F,Barnsley,45,6,0,0,0,0.00172666,0,0,0,4,0,0,0,14,0,0,0,0,0,0,0,0,0,0
 League One,26_27,Barnsley vs Stevenage,05/09/2026,Luke Alker,F,Barnsley,30,6.4,0,0,0,0.00005009,0,0,0,3,0,0,0,10,0,0,0,0,1,0,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Arley Kay,D,Barnsley,90,5.6,0,0,0,0.0135425,0,0,0,48,0,0,0,77,0,2,1,5,0,1,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Josh Magennis,F,Stevenage,72,7.5,0,0,0.035,0.106314,1,0,0,11,1,1,0,28,1,0,0,10,0,1,0,0,2,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Carl Piergianni,D,Stevenage,90,6.9,0,0,0,0.22342,0,0,0,22,1,0,0,35,0,4,1,11,2,1,1,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Louis Thompson,M,Stevenage,67,7,0,0,0,0.0183002,0,0,0,24,0,0,0,41,0,4,2,8,1,4,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Jordan Roberts,M,Stevenage,85,6.7,0,1,0.0616,0.0147826,1,0,0,31,1,0,0,56,1,3,1,14,2,5,0,0,1,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Luther James-Wildin,D,Stevenage,90,7.4,0,0,0,0.104558,0,0,0,41,0,0,0,71,0,3,5,5,0,1,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Arley Kay,D,Barnsley,90,5.6,0,0,0,0.0144762,0,0,0,50,0,0,0,78,0,2,1,5,0,1,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Josh Magennis,F,Stevenage,72,7.5,0,0,0.0227,0.106314,1,0,0,12,1,1,0,29,1,0,0,11,0,1,0,0,2,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Carl Piergianni,D,Stevenage,90,6.9,0,0,0,0.223201,0,0,0,22,1,0,0,34,0,3,1,9,2,1,1,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Louis Thompson,M,Stevenage,67,7,0,0,0,0.0183002,0,0,0,24,0,0,0,39,0,3,2,7,1,4,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Jordan Roberts,M,Stevenage,85,6.7,0,1,0.1035,0.0147827,1,0,0,33,1,0,0,56,1,3,1,14,2,5,0,0,1,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Luther James-Wildin,D,Stevenage,90,7.4,0,0,0,0.105277,0,0,0,42,0,0,0,71,0,2,4,5,0,1,0,0,0,0
 League One,26_27,Barnsley vs Stevenage,05/09/2026,Jordan Houghton,M,Stevenage,9,6.5,0,0,0,0.00086939,0,0,0,6,0,0,0,7,0,0,0,0,0,0,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Lewis Freestone,D,Stevenage,90,7.5,0,0,0,0.0135117,0,0,0,25,0,0,0,55,0,2,2,6,0,2,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Daniel Kemp,M,Stevenage,90,9.8,2,1,0.2286,0.269532,2,2,0,18,3,0,0,40,2,2,0,4,1,0,0,0,1,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Terence Vancooten,D,Stevenage,90,8.7,1,0,0.0786,0.00492901,1,1,0,23,0,0,0,41,1,1,2,5,0,0,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Terry Taylor,M,Stevenage,23,6.5,0,0,0,0.0030383,0,0,0,8,0,0,0,11,0,1,0,1,0,0,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Saxon Earley,M,Stevenage,9,7.1,0,1,0,0.0427915,0,0,0,4,1,1,0,11,0,1,0,4,1,1,1,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Daniel Phillips,M,Stevenage,85,7.4,0,0,0,0.0168422,0,0,0,24,0,0,0,47,1,7,0,12,1,2,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Michael Mellon,F,Stevenage,18,7.5,1,0,0.6634,0.0266132,1,1,0,3,0,0,0,4,0,0,0,2,0,0,0,0,1,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Oliver Sanderson,F,Stevenage,72,6.4,1,0,0.864,0.00652628,4,1,1,18,0,0,1,30,0,1,0,6,1,0,0,0,0,0
-League One,26_27,Barnsley vs Stevenage,05/09/2026,Tommy Setford,G,Stevenage,90,7.3,0,0,0,0.00589156,0,0,0,37,0,0,0,47,1,0,0,1,0,0,0,0,0,2
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Lewis Freestone,D,Stevenage,90,7.5,0,0,0,0.0136047,0,0,0,26,0,0,0,54,0,3,1,6,0,1,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Daniel Kemp,M,Stevenage,90,9.8,2,1,0.119,0.269646,2,2,0,18,3,0,0,42,2,2,0,4,1,0,0,0,1,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Terence Vancooten,D,Stevenage,90,8.7,1,0,0.0786,0.00492901,1,1,0,24,0,0,0,41,1,1,2,5,0,0,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Terry Taylor,M,Stevenage,23,6.5,0,0,0,0.0865352,0,0,0,8,0,0,0,12,0,1,0,1,0,0,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Saxon Earley,M,Stevenage,9,7.1,0,1,0,0.0427916,0,0,0,4,1,1,0,11,0,1,0,4,1,1,1,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Daniel Phillips,M,Stevenage,85,7.4,0,0,0,0.0168392,0,0,0,24,0,0,0,47,2,7,0,13,1,2,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Michael Mellon,F,Stevenage,18,7.5,1,0,0.7205,0.0266132,1,1,0,3,0,0,0,4,0,0,0,2,0,0,0,0,1,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Oliver Sanderson,F,Stevenage,72,6.4,1,0,0.9311,0.00663052,4,1,1,20,0,0,1,33,0,1,0,7,1,1,0,0,0,0
+League One,26_27,Barnsley vs Stevenage,05/09/2026,Tommy Setford,G,Stevenage,90,7.3,0,0,0,0.00588967,0,0,0,38,0,0,0,46,1,0,0,1,0,0,0,0,0,2
 League One,26_27,Barnsley vs Stevenage,05/09/2026,Ben Broggio,M,Stevenage,18,6.6,0,0,0,0.00644398,0,0,0,10,0,0,0,15,1,0,0,2,0,0,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Julio Pleguezuelo,D,Plymouth Argyle,90,6.8,0,0,0,0.00209157,0,0,0,32,0,0,0,43,0,1,2,6,0,0,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Ronan Curtis,M,Plymouth Argyle,72,6.4,0,0,0.0563,0.0529758,1,0,0,22,0,0,0,41,0,0,0,6,0,4,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Tyreeq Bakinson,M,Plymouth Argyle,72,6.8,0,0,0.1847,0.0541565,1,1,0,26,0,0,0,40,1,1,0,3,1,0,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Julio Pleguezuelo,D,Plymouth Argyle,90,6.8,0,0,0,0.00237583,0,0,0,36,0,0,0,49,0,1,3,7,0,1,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Ronan Curtis,M,Plymouth Argyle,72,6.4,0,0,0.0481,0.0518349,1,0,0,25,0,0,0,44,0,0,0,8,0,4,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Tyreeq Bakinson,M,Plymouth Argyle,72,6.8,0,0,0.1031,0.0492381,1,1,0,26,0,0,0,40,1,1,0,3,1,0,0,0,0,0
 League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Alex Hartridge,D,Plymouth Argyle,8,6.2,0,0,0,0.00151225,0,0,0,6,0,0,0,9,0,0,0,2,1,0,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Wes Harding,D,Plymouth Argyle,90,5.8,0,0,0,0.0174089,0,0,0,23,0,0,0,52,0,0,1,3,3,1,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Matthew Sorinola,M,Plymouth Argyle,82,5.7,0,0,0,0.0354904,0,0,0,22,0,0,0,38,0,1,1,2,2,1,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Mathias Ross,D,Plymouth Argyle,8,6.4,0,0,0,0.0104712,0,0,0,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Harvey White,M,Plymouth Argyle,90,7.2,0,0,0.0704,0.114263,2,2,0,38,2,0,0,54,0,0,0,4,0,2,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Caleb Watts,M,Plymouth Argyle,27,8,1,1,0.2738,0.0407046,2,1,0,16,2,1,0,25,0,2,0,2,0,0,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Aribim Pepple,F,Plymouth Argyle,90,7.7,1,0,1.0767,0.0854898,6,2,0,13,2,0,1,43,0,2,0,5,2,3,0,0,1,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Will Evans,F,Plymouth Argyle,82,6.9,1,0,0.831,0.0317611,1,1,0,18,0,0,0,32,0,0,1,4,2,1,0,0,1,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Alex Mitchell,D,Plymouth Argyle,90,7,0,0,0.0071,0.0179931,1,1,0,43,0,0,0,63,0,3,2,6,0,0,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Bradley Ibrahim,M,Plymouth Argyle,18,6.7,0,0,0,0.161709,0,0,0,10,3,0,0,11,0,0,0,0,0,0,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Murphy Cooper,G,Plymouth Argyle,90,6.8,0,0,0,0.00626339,0,0,0,27,0,0,0,33,0,0,0,0,0,0,0,0,0,1
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Owen Oseni,F,Plymouth Argyle,18,6.4,0,0,0.0419,0.0263471,1,0,0,8,1,0,0,11,0,0,0,1,0,0,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Oliver Irow,F,Plymouth Argyle,63,6.1,0,0,0.1577,0.174095,2,1,0,11,1,1,0,23,0,0,0,0,0,0,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Neill Byrne,D,Doncaster Rovers,90,6.5,0,0,0,0.00272049,0,0,0,47,0,0,0,55,0,2,1,3,2,0,1,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Alfie May,F,Doncaster Rovers,90,7.3,1,0,0.9764,0.0318558,5,1,0,24,2,0,0,41,0,1,0,3,0,1,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Harry Clifton,M,Doncaster Rovers,11,6.3,0,0,0,0.00000895,0,0,0,2,0,0,0,6,0,0,0,1,1,1,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Brandon Hanlan,F,Doncaster Rovers,90,6.8,0,0,0.3352,0.0635266,3,0,0,15,1,0,1,29,1,1,0,8,1,3,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Jack Senior,D,Doncaster Rovers,90,6.4,0,0,0.0525,0.514611,1,0,0,32,4,0,0,58,1,2,1,11,5,0,1,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Owen Bailey,M,Doncaster Rovers,70,7.6,0,0,0,0.15676,0,0,0,30,1,0,0,42,0,3,0,10,1,2,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Isaac Hutchinson,M,Doncaster Rovers,90,6.4,0,0,0.1123,0.051796,2,0,0,26,1,0,0,42,0,3,0,3,1,0,1,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Robbie Gotts,M,Doncaster Rovers,79,7.1,0,0,0.0426,0.187557,2,0,0,36,1,1,0,50,0,1,1,2,0,1,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,George Broadbent,M,Doncaster Rovers,20,6.5,0,0,0,0.0296339,0,0,0,10,1,0,0,14,0,1,1,1,0,0,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Sean Grehan,D,Doncaster Rovers,90,7.3,1,0,0.5147,0.0319428,1,1,0,52,0,0,0,76,0,1,1,7,1,1,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Tommi O'Reilly,M,Doncaster Rovers,62,6.4,0,0,0.0163,0.0373536,1,1,0,19,0,0,0,34,0,1,0,4,0,1,0,0,1,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Tommy Simkin,G,Doncaster Rovers,90,7.6,0,0,0,0.00205449,0,0,0,37,0,0,0,51,0,0,0,0,0,0,0,0,0,6
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Bayley McCann,M,Doncaster Rovers,28,6.5,0,1,0.2806,0.343743,2,0,0,4,2,1,0,16,0,1,0,2,1,0,0,0,0,0
-League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Jay McGrath,D,Doncaster Rovers,79,6.8,0,0,0,0.129522,0,0,0,51,1,0,0,68,0,0,1,10,0,1,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Wes Harding,D,Plymouth Argyle,90,5.8,0,0,0,0.0164524,0,0,0,23,0,0,0,56,0,0,2,3,3,1,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Matthew Sorinola,M,Plymouth Argyle,82,5.7,0,0,0,0.0355345,0,0,0,21,0,0,0,39,0,0,1,1,2,1,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Mathias Ross,D,Plymouth Argyle,8,6.4,0,0,0,0.0104712,0,0,0,1,0,0,0,4,0,0,1,0,0,0,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Harvey White,M,Plymouth Argyle,90,7.2,0,0,0.0862,0.11815,2,2,0,39,2,0,0,56,0,0,0,4,0,2,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Caleb Watts,M,Plymouth Argyle,27,8,1,1,0.2577,0.0407046,2,1,0,16,2,1,0,26,0,2,0,2,0,0,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Aribim Pepple,F,Plymouth Argyle,90,7.7,1,0,0.9491,0.0896695,6,2,0,13,2,0,2,40,1,2,0,6,2,3,0,0,1,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Will Evans,F,Plymouth Argyle,82,6.9,1,0,0.7746,0.0345248,1,1,0,19,0,0,0,34,0,0,1,4,2,1,0,0,1,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Alex Mitchell,D,Plymouth Argyle,90,7,0,0,0.0081,0.0159274,1,1,0,40,0,0,0,62,0,2,2,6,0,0,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Bradley Ibrahim,M,Plymouth Argyle,18,6.7,0,0,0,0.16171,0,0,0,11,3,0,0,12,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Murphy Cooper,G,Plymouth Argyle,90,6.8,0,0,0,0.00638619,0,0,0,28,0,0,0,33,0,0,0,0,0,0,0,0,0,1
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Owen Oseni,F,Plymouth Argyle,18,6.4,0,0,0.0228,0.0263472,1,0,0,8,1,0,0,11,0,0,0,1,0,0,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Oliver Irow,F,Plymouth Argyle,63,6.1,0,0,0.1652,0.12452,2,1,0,12,1,1,0,24,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Neill Byrne,D,Doncaster Rovers,90,6.5,0,0,0,0.00346894,0,0,0,51,0,0,0,59,0,1,1,4,2,0,1,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Alfie May,F,Doncaster Rovers,90,7.3,1,0,1.0136,0.0352223,5,1,0,25,2,0,0,42,0,1,0,3,0,1,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Harry Clifton,M,Doncaster Rovers,11,6.3,0,0,0,0.00012282,0,0,0,2,0,0,0,8,1,0,0,2,1,1,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Brandon Hanlan,F,Doncaster Rovers,90,6.8,0,0,0.5114,0.0623843,3,0,0,14,1,0,1,30,1,1,1,7,1,3,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Jack Senior,D,Doncaster Rovers,90,6.4,0,0,0.0768,0.492134,1,0,0,31,3,0,0,59,1,2,1,9,5,0,1,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Owen Bailey,M,Doncaster Rovers,70,7.6,0,0,0,0.372038,0,0,0,30,1,0,0,40,0,3,0,10,1,2,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Isaac Hutchinson,M,Doncaster Rovers,90,6.4,0,0,0.2045,0.0523044,2,0,0,26,1,0,0,44,1,3,0,4,1,0,1,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Robbie Gotts,M,Doncaster Rovers,79,7.1,0,0,0.0424,0.336137,2,0,0,36,1,1,0,52,0,1,0,3,0,2,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,George Broadbent,M,Doncaster Rovers,20,6.5,0,0,0,0.0298203,0,0,0,11,1,0,0,15,0,1,1,1,0,0,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Sean Grehan,D,Doncaster Rovers,90,7.3,1,0,0.5147,0.190438,1,1,0,56,1,0,0,78,0,1,0,6,1,0,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Tommi O'Reilly,M,Doncaster Rovers,62,6.4,0,0,0.0146,0.0373707,1,1,0,19,0,0,0,36,0,1,0,4,1,1,0,0,1,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Tommy Simkin,G,Doncaster Rovers,90,7.6,0,0,0,0.00204681,0,0,0,38,0,0,0,52,0,1,0,1,0,0,0,0,0,6
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Bayley McCann,M,Doncaster Rovers,28,6.5,0,1,0.2484,0.343743,2,0,0,4,2,1,0,16,0,1,0,2,1,0,0,0,0,0
+League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Jay McGrath,D,Doncaster Rovers,79,6.8,0,0,0,0.129488,0,0,0,51,1,0,0,70,0,0,1,11,0,1,0,0,0,0
 League One,26_27,Doncaster Rovers vs Plymouth Argyle,05/09/2026,Leon Ayinde,F,Doncaster Rovers,11,6.5,0,0,0,0.00258197,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Nahki Wells,F,Luton Town,61,6.7,0,0,0.4754,0.00808667,4,3,0,4,0,0,1,17,0,1,0,3,0,1,0,0,1,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Kasey Palmer,M,Luton Town,29,6.8,0,0,0.0579,0.0721762,2,0,0,12,1,0,0,23,1,1,0,3,0,0,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Liam Walsh,M,Luton Town,61,6.3,0,0,0,0.00674576,0,0,0,26,0,0,0,37,0,0,0,2,3,1,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Hakeem Odofin,D,Luton Town,90,6.9,0,0,0.2169,0.00411904,3,1,1,43,0,0,1,71,0,0,0,9,1,2,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Mads Andersen,D,Luton Town,90,6.8,0,0,0,0.00129544,0,0,0,57,0,0,0,76,0,2,4,5,1,0,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,George Johnston,D,Luton Town,90,7.7,0,0,0,0.388805,0,0,0,87,1,0,0,112,0,2,1,9,0,1,1,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Josh Keeley,G,Luton Town,90,6,0,0,0,0.00491672,0,0,0,46,0,0,0,52,0,0,0,0,0,0,0,0,0,2
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Isaiah Jones,D,Luton Town,90,7.3,0,0,0,0.0870431,0,0,0,32,3,0,0,55,1,2,0,6,1,2,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Nahki Wells,F,Luton Town,61,6.7,0,0,0.4783,0.00808667,4,3,0,4,0,0,2,18,0,1,0,3,0,1,0,0,1,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Kasey Palmer,M,Luton Town,29,6.8,0,0,0.0573,0.0721762,2,0,0,12,1,0,0,23,1,1,0,3,0,0,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Liam Walsh,M,Luton Town,61,6.3,0,0,0,0.00677164,0,0,0,27,1,0,0,38,0,0,0,2,3,1,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Hakeem Odofin,D,Luton Town,90,6.9,0,0,0.1841,0.00411904,3,1,1,43,0,0,1,72,0,1,0,10,1,2,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Mads Andersen,D,Luton Town,90,6.8,0,0,0,0.00139134,0,0,0,60,0,0,0,79,0,2,4,5,1,0,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,George Johnston,D,Luton Town,90,7.7,0,0,0,0.388824,0,0,0,88,1,0,0,113,0,2,1,8,0,1,1,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Josh Keeley,G,Luton Town,90,6,0,0,0,0.00491724,0,0,0,47,0,0,0,52,0,0,0,0,0,0,0,0,0,2
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Isaiah Jones,D,Luton Town,90,7.3,0,0,0,0.0874973,0,0,0,32,4,0,0,56,1,2,0,6,1,2,0,0,0,0
 League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Harrison Ashby,D,Luton Town,21,6.6,0,0,0,0.00186133,0,0,0,1,0,0,0,4,0,1,0,1,0,0,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Daniel Gore,M,Luton Town,29,6.5,0,0,0.0564,0.0154003,1,0,0,25,1,0,0,32,0,1,1,1,1,0,1,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Jamie Donley,M,Luton Town,61,7.7,1,0,0.6271,0.412774,6,2,0,15,2,1,0,33,1,0,0,1,0,0,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Daniel Gore,M,Luton Town,29,6.5,0,0,0.0564,0.0154007,1,0,0,25,1,0,0,32,0,1,1,1,1,0,1,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Jamie Donley,M,Luton Town,61,7.7,1,0,0.5041,0.412774,7,2,0,14,2,1,0,34,1,1,0,2,0,0,0,0,0,0
 League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Tudor Mendel-Idowu,M,Luton Town,14,6.3,0,0,0,0.00087825,0,0,0,1,0,0,0,3,0,0,0,0,1,0,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Callum Marshall,F,Luton Town,29,6.4,0,0,0.2183,0.00725619,3,0,0,11,0,0,0,18,0,0,0,1,0,0,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Gideon Kodua,M,Luton Town,83,7.7,0,1,0.5686,0.433399,3,1,0,32,4,1,1,51,3,0,0,4,0,1,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Jake Richards,M,Luton Town,90,6.6,0,0,0.0429,0.00980321,1,0,0,43,0,0,0,61,1,1,2,4,1,2,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Harry Fox,D,Luton Town,69,6.5,0,0,0,0.00577611,0,0,0,32,1,0,0,46,0,1,0,4,0,1,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Isaac Hayden,M,Leyton Orient,76,6.7,0,0,0,0.0100099,0,0,0,37,0,0,0,48,0,3,0,4,1,0,1,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Demetri Mitchell,M,Leyton Orient,82,7.1,0,1,0.2361,0.0115271,2,0,0,26,1,0,1,39,0,2,0,4,0,2,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Sean Clare,M,Leyton Orient,14,6.9,0,0,0,0.0196891,0,0,0,13,0,0,0,16,0,0,0,2,0,1,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Nathan Baxter,G,Leyton Orient,90,6.5,0,0,0,0.00015276,0,0,0,29,0,0,0,49,0,0,0,1,0,0,0,0,0,5
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Theo Archibald,M,Leyton Orient,14,6.4,0,0,0.0571,0.00224997,1,0,0,4,0,0,0,9,0,0,0,0,1,0,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Jaze Kabia,F,Leyton Orient,76,7.3,1,0,0.2002,0.00047583,2,1,0,6,0,0,1,19,1,1,0,4,2,2,1,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Joseph Olowu,D,Leyton Orient,90,7.5,0,0,0,0.00408989,0,0,0,42,0,0,0,68,0,3,4,5,1,0,1,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Idris El Mizouni,M,Leyton Orient,90,7.2,0,0,0.0327,0.0238535,1,1,0,56,1,0,0,77,0,5,1,8,1,2,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Armando Dobra,M,Leyton Orient,14,6.4,0,0,0.036,0.00073795,1,1,0,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,William Forrester,D,Leyton Orient,90,8.2,0,0,0,0.00707715,0,0,0,57,0,0,0,72,1,1,0,8,0,1,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Charlie Wellens,M,Leyton Orient,90,6.1,0,0,0,0.0396661,0,0,0,38,1,0,0,55,0,0,0,1,0,0,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Fin Stevens,D,Leyton Orient,90,6.7,0,0,0,0.143309,0,0,0,61,1,1,0,91,1,3,1,5,0,0,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Tony Springett,F,Leyton Orient,8,6.3,0,0,0,0.0620622,0,0,0,3,1,0,0,7,0,0,0,1,0,0,0,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Yusuf Akhamrich,F,Leyton Orient,83,6.5,0,0,0,0.0471051,0,0,0,14,1,1,0,31,1,1,1,3,3,1,1,0,0,0
-League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Nicholas Oyekunle,F,Leyton Orient,14,6.4,0,0,0,0.00089235,0,0,0,2,0,0,0,7,1,0,0,1,1,0,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Callum Marshall,F,Luton Town,29,6.4,0,0,0.2183,0.00993911,3,0,0,12,0,0,0,18,0,0,0,1,0,0,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Gideon Kodua,M,Luton Town,83,7.7,0,1,0.6263,0.340707,4,2,0,33,4,2,1,54,3,0,0,4,0,1,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Jake Richards,M,Luton Town,90,6.6,0,0,0.0429,0.00981975,1,0,0,44,0,0,0,62,1,1,2,4,1,2,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Harry Fox,D,Luton Town,69,6.5,0,0,0,0.00577893,0,0,0,34,1,0,0,47,0,1,0,4,0,1,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Isaac Hayden,M,Leyton Orient,76,6.7,0,0,0,0.01001,0,0,0,37,0,0,0,48,0,3,0,4,1,0,1,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Demetri Mitchell,M,Leyton Orient,82,7.1,0,1,0.2732,0.0115271,2,0,0,26,1,0,1,39,0,2,0,4,0,2,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Sean Clare,M,Leyton Orient,14,6.9,0,0,0,0.019689,0,0,0,13,0,0,0,15,0,0,0,2,0,1,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Nathan Baxter,G,Leyton Orient,90,6.5,0,0,0,0.00015182,0,0,0,30,0,0,0,50,0,0,0,1,0,0,0,0,0,6
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Theo Archibald,M,Leyton Orient,14,6.4,0,0,0.0487,0.0022823,1,0,0,4,0,0,0,9,0,0,0,0,1,0,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Jaze Kabia,F,Leyton Orient,76,7.3,1,0,0.1834,0.00047583,2,1,0,6,0,0,1,19,1,1,0,4,2,2,1,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Joseph Olowu,D,Leyton Orient,90,7.5,0,0,0,0.00408989,0,0,0,42,0,0,0,67,0,2,4,4,1,0,1,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Idris El Mizouni,M,Leyton Orient,90,7.2,0,0,0.0518,0.0238533,1,1,0,56,1,0,0,79,0,5,1,8,1,2,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Armando Dobra,M,Leyton Orient,14,6.4,0,0,0.0202,0.00073795,1,1,0,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,William Forrester,D,Leyton Orient,90,8.2,0,0,0,0.00628766,0,0,0,56,0,0,0,73,1,1,0,8,0,1,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Charlie Wellens,M,Leyton Orient,90,6.1,0,0,0,0.0469021,0,0,0,38,1,0,0,55,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Fin Stevens,D,Leyton Orient,90,6.7,0,0,0,0.14356,0,0,0,61,1,1,0,92,1,4,1,7,0,0,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Tony Springett,F,Leyton Orient,8,6.3,0,0,0,0.0764504,0,0,0,4,1,0,0,8,0,0,0,2,0,0,0,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Yusuf Akhamrich,F,Leyton Orient,83,6.5,0,0,0,0.0698528,0,0,0,15,1,1,0,31,1,1,1,3,3,1,1,0,0,0
+League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Nicholas Oyekunle,F,Leyton Orient,14,6.4,0,0,0,0.00089235,0,0,0,2,0,0,0,8,1,0,0,1,1,0,0,0,0,0
 League One,26_27,Luton Town vs Leyton Orient,05/09/2026,Phillip Chinedu,D,Leyton Orient,83,6.1,0,0,0,0.0077848,0,0,0,26,0,0,0,43,0,1,0,1,2,0,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Curtis Nelson,D,Milton Keynes Dons,90,7.1,1,0,0.2223,0.0683716,1,1,0,34,1,0,0,60,0,1,4,4,3,0,0,0,1,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Gethin Jones,M,Milton Keynes Dons,90,6.1,0,0,0,0.0176744,0,0,0,20,1,0,0,45,1,2,0,5,1,0,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Callum Paterson,F,Milton Keynes Dons,45,7,1,1,0.4687,0.0127644,1,1,0,10,1,0,0,25,0,0,0,2,0,1,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Alex Gilbey,M,Milton Keynes Dons,73,6.6,0,0,0.1146,0.0125502,1,1,0,16,0,0,0,31,0,2,1,6,4,3,1,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Aaron Collins,F,Milton Keynes Dons,73,8.1,1,1,0.661,0.556896,5,1,0,16,2,0,1,34,1,1,0,4,1,0,1,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Ryan Wintle,M,Milton Keynes Dons,90,6.6,0,0,0,0.0111353,0,0,0,35,2,0,0,39,0,2,0,2,1,0,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Daniel Barlaser,M,Milton Keynes Dons,45,6.2,0,0,0,0.26679,0,0,0,25,1,1,0,33,1,0,1,2,0,1,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Dan Crowley,M,Milton Keynes Dons,45,6.6,0,1,0.0664,0.519519,1,0,0,14,1,1,0,30,0,0,1,0,0,0,0,0,1,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Ryan Barnett,M,Milton Keynes Dons,45,6.8,0,0,0,0.00741949,0,0,0,11,0,0,0,24,0,2,0,6,0,2,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Sam Nombe,F,Milton Keynes Dons,90,6.5,0,0,0.1167,0.291441,3,1,0,10,0,0,0,30,1,1,0,4,2,1,0,0,1,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Craig McGillivray,G,Milton Keynes Dons,90,6.6,0,0,0,0.0032916,0,0,0,38,0,0,0,50,0,0,0,0,0,0,0,0,0,4
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Cohen Bramall,D,Milton Keynes Dons,90,5.2,0,0,0,0.00639318,0,0,0,29,0,0,0,40,0,1,1,2,4,0,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Curtis Nelson,D,Milton Keynes Dons,90,7.1,1,0,0.366,0.113555,1,1,0,35,1,0,0,61,0,0,3,3,3,0,0,0,1,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Gethin Jones,M,Milton Keynes Dons,90,6.1,0,0,0,0.00589626,0,0,0,18,1,0,0,47,1,3,0,6,1,0,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Callum Paterson,F,Milton Keynes Dons,45,7,1,1,0.7917,0.0127644,1,1,0,10,1,0,0,25,0,0,0,2,0,1,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Alex Gilbey,M,Milton Keynes Dons,73,6.6,0,0,0.0674,0.022978,1,1,0,15,0,0,0,30,0,2,1,6,4,3,1,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Aaron Collins,F,Milton Keynes Dons,73,8.1,1,1,0.6306,0.597019,5,1,0,16,2,1,1,34,1,1,0,4,1,0,1,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Ryan Wintle,M,Milton Keynes Dons,90,6.6,0,0,0,0.0177882,0,0,0,35,2,0,0,40,0,2,0,2,1,0,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Daniel Barlaser,M,Milton Keynes Dons,45,6.2,0,0,0,0.266466,0,0,0,25,1,1,0,35,1,1,1,3,0,1,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Dan Crowley,M,Milton Keynes Dons,45,6.6,0,1,0.1021,0.584165,1,0,0,16,1,1,0,32,0,0,1,0,0,0,0,0,1,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Ryan Barnett,M,Milton Keynes Dons,45,6.8,0,0,0,0.00510011,0,0,0,11,0,0,0,23,0,2,0,6,0,2,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Sam Nombe,F,Milton Keynes Dons,90,6.5,0,0,0.1784,0.296445,3,1,0,12,0,0,0,30,0,1,0,3,2,1,0,0,1,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Craig McGillivray,G,Milton Keynes Dons,90,6.6,0,0,0,0.003233,0,0,0,39,0,0,0,51,0,0,0,0,0,0,0,0,0,4
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Cohen Bramall,D,Milton Keynes Dons,90,5.2,0,0,0,0.00745421,0,0,0,29,0,0,0,41,0,1,0,2,4,0,0,0,0,0
 League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Ben Wiles,M,Milton Keynes Dons,17,6.5,0,0,0,0.00687788,0,0,0,5,1,0,0,9,0,0,0,0,0,0,0,0,1,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Marvin Ekpiteta,D,Milton Keynes Dons,90,5.8,0,0,0,0.0015118,0,0,0,34,0,0,0,54,0,3,5,5,1,1,1,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Marvin Ekpiteta,D,Milton Keynes Dons,90,5.8,0,0,0,0.00152954,0,0,0,37,0,0,0,56,0,3,5,5,1,1,1,0,0,0
 League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Samuel Silvera,M,Milton Keynes Dons,17,6.5,0,0,0,0.00176961,0,0,0,6,0,0,0,9,0,1,0,1,1,0,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Cauley Woodrow,F,Wycombe Wanderers,79,6.5,0,0,0,0.0525707,0,0,0,22,1,0,0,30,0,1,0,2,0,1,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Josh Scowen,M,Wycombe Wanderers,11,6.7,0,0,0,0.00096842,0,0,0,11,0,0,0,12,1,0,0,2,0,0,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Fred Onyedinma,M,Wycombe Wanderers,90,6.9,0,0,0.1687,0.0160279,1,1,0,28,0,0,0,50,1,2,1,13,1,4,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Dan Casey,D,Wycombe Wanderers,90,8.4,1,0,0.3291,0.0167368,3,2,0,51,0,0,0,65,0,3,0,11,0,1,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Anders Hagelskjær,D,Wycombe Wanderers,90,6.4,0,0,0,0.0390375,0,0,0,31,0,0,0,57,0,2,1,6,2,0,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Conor Hazard,G,Wycombe Wanderers,90,5.8,0,0,0,0.00160978,0,0,0,43,0,0,0,54,0,0,0,1,0,0,0,0,0,2
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Ewan Henderson,M,Wycombe Wanderers,90,7.4,1,0,0.0844,0.192532,2,1,0,47,0,0,0,66,0,0,1,2,1,1,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Caolan Boyd-Munce,M,Wycombe Wanderers,90,7.4,0,1,0.0479,0.271413,1,1,0,30,4,1,0,48,0,3,0,6,1,2,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Jayden Wareham,F,Wycombe Wanderers,90,7.6,1,0,0.1313,0.0179473,1,1,0,16,0,0,0,28,2,1,0,5,2,1,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Connor Taylor,D,Wycombe Wanderers,90,6.7,0,0,0,0.00327133,0,0,0,45,0,0,0,74,0,2,1,7,1,0,0,0,1,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Malik Mothersille,F,Wycombe Wanderers,60,6.4,0,0,0.1328,0.313025,1,1,0,7,2,0,0,16,1,0,0,3,0,1,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Emre Tezgel,F,Wycombe Wanderers,17,6.3,0,0,0,0.00241616,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Silko Thomas,F,Wycombe Wanderers,30,6.8,0,1,0,0.117543,0,0,0,11,1,0,0,16,0,0,0,1,0,0,0,0,0,0
-League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Samuel Parker,D,Wycombe Wanderers,73,6.4,0,0,0,0.00789622,0,0,0,29,0,0,0,58,1,3,0,10,1,4,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Cauley Woodrow,F,Wycombe Wanderers,79,6.5,0,0,0,0.053726,0,0,0,24,1,0,0,32,0,1,0,2,0,1,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Josh Scowen,M,Wycombe Wanderers,11,6.7,0,0,0,0.00096801,0,0,0,11,0,0,0,12,1,0,0,2,0,0,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Fred Onyedinma,M,Wycombe Wanderers,90,6.9,0,0,0.2347,0.0189376,1,1,0,28,0,0,0,52,1,2,1,13,1,4,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Dan Casey,D,Wycombe Wanderers,90,8.4,1,0,0.2747,0.0167623,3,2,0,52,0,0,0,66,0,3,0,10,0,1,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Anders Hagelskjær,D,Wycombe Wanderers,90,6.4,0,0,0,0.0789125,0,0,0,31,1,1,0,57,0,2,1,5,2,0,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Conor Hazard,G,Wycombe Wanderers,90,5.8,0,0,0,0.00261103,0,0,0,45,0,0,0,56,0,0,0,1,0,0,0,0,0,2
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Ewan Henderson,M,Wycombe Wanderers,90,7.4,1,0,0.1142,0.193854,2,1,0,47,0,0,0,67,0,0,2,2,1,1,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Caolan Boyd-Munce,M,Wycombe Wanderers,90,7.4,0,1,0.0485,0.251919,1,1,0,29,4,1,0,49,0,3,2,6,1,2,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Jayden Wareham,F,Wycombe Wanderers,90,7.6,1,0,0.4182,0.0232721,2,1,0,17,0,0,1,31,1,1,0,4,2,1,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Connor Taylor,D,Wycombe Wanderers,90,6.7,0,0,0,0.00331969,0,0,0,48,0,0,0,77,0,2,1,8,1,0,0,0,1,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Malik Mothersille,F,Wycombe Wanderers,60,6.4,0,0,0.0792,0.31385,1,1,0,11,2,0,0,22,2,0,0,3,0,1,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Emre Tezgel,F,Wycombe Wanderers,18,6.3,0,0,0,0.00241616,0,0,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Silko Thomas,F,Wycombe Wanderers,30,6.8,0,1,0,0.12708,0,0,0,10,1,0,0,16,0,0,0,1,0,0,0,0,0,0
+League One,26_27,Wycombe Wanderers vs Milton Keynes Dons,05/09/2026,Samuel Parker,D,Wycombe Wanderers,72,6.4,0,0,0,0.0841735,0,0,0,30,0,0,0,59,1,3,0,10,1,4,0,0,0,0
 League One,26_27,Leicester City vs Oxford United,05/09/2026,Alex McCarthy,G,Leicester City,90,6.2,0,0,0,0.00014691,0,0,0,21,0,0,0,37,0,0,0,0,0,0,0,0,0,2
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Bobby De Cordova-Reid,M,Leicester City,45,6.7,0,0,0.0292,0.0216337,1,0,0,15,0,0,0,22,0,1,0,3,0,2,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Wes Burns,M,Leicester City,56,6.5,0,0,0.0407,0.0284833,1,0,0,21,0,0,0,30,1,0,0,2,2,1,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Harry Souttar,D,Leicester City,90,6.2,0,0,0.2193,0.0253177,1,1,0,100,0,0,1,106,0,0,0,1,0,0,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Emil Riis Jacobsen,F,Leicester City,69,6.2,0,0,0.0643,0.0269207,1,1,0,15,1,0,0,20,0,0,0,2,1,0,1,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Luke Thomas,D,Leicester City,90,6.8,0,0,0.0216,0.0532281,1,0,0,101,0,0,0,111,0,2,0,4,1,1,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Kamari Doyle,M,Leicester City,45,6.8,0,0,0.0311,0.0877604,1,0,0,8,0,0,0,21,1,0,0,3,0,2,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Admir Bristrić,F,Leicester City,21,6.3,0,0,0.0698,0.00540691,1,1,0,4,0,0,1,5,0,0,0,0,0,0,0,0,1,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Christian McFarlane,D,Leicester City,59,6.3,0,0,0,0.00155628,0,0,0,16,0,0,0,36,0,2,3,2,0,0,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Tom Watson,M,Leicester City,34,6.7,0,0,0.3003,0.164332,2,0,0,12,2,1,1,23,1,0,0,2,0,0,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Sammy Braybrooke,M,Leicester City,90,7,0,0,0,0.116797,0,0,0,44,1,0,0,54,0,1,0,2,1,1,0,0,1,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Jayden Joseph,M,Leicester City,90,6.3,0,0,0.0999,0.033829,3,2,0,58,0,0,0,84,2,5,1,9,1,1,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Olabade Aluko,D,Leicester City,31,6.4,0,0,0,0.010262,0,0,0,20,0,0,0,34,0,2,1,5,1,3,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Harry Howell,M,Leicester City,34,6.2,0,0,0.1537,0.00475804,2,0,0,12,0,0,0,27,0,0,0,2,0,1,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,William Alves,M,Leicester City,56,6.7,0,0,0,0.1778,0,0,0,7,2,0,0,18,1,0,0,2,1,1,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Louis Page,M,Leicester City,90,6.4,0,0,0,0.287257,0,0,0,67,1,1,0,90,0,0,2,3,3,3,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Bobby De Cordova-Reid,M,Leicester City,45,6.7,0,0,0.0446,0.0231764,1,0,0,18,0,0,0,22,0,0,0,2,0,2,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Wes Burns,M,Leicester City,56,6.5,0,0,0,0.0286613,0,0,0,23,0,0,0,31,1,0,0,2,2,1,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Harry Souttar,D,Leicester City,90,6.2,0,0,0.1555,0.0256725,1,1,0,104,0,0,1,110,0,0,0,1,0,0,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Emil Riis Jacobsen,F,Leicester City,69,6.2,0,0,0.0643,0.027325,1,1,0,16,1,0,1,21,0,0,0,1,1,0,1,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Luke Thomas,D,Leicester City,90,6.8,0,0,0.0134,0.0539864,1,0,0,104,0,0,0,114,0,2,0,4,1,1,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Kamari Doyle,M,Leicester City,45,6.8,0,0,0.0311,0.0902377,1,0,0,9,0,0,0,22,1,0,0,3,0,2,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Admir Bristrić,F,Leicester City,21,6.3,0,0,0.1167,0.00540691,1,1,0,4,0,0,0,5,0,0,0,0,0,0,0,0,1,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Christian McFarlane,D,Leicester City,59,6.3,0,0,0,0.00184022,0,0,0,19,0,0,0,39,0,1,3,2,0,1,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Tom Watson,M,Leicester City,34,6.7,0,0,0.3003,0.164332,2,0,0,12,2,0,1,23,1,0,0,2,0,0,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Sammy Braybrooke,M,Leicester City,90,7,0,0,0,0.117206,0,0,0,46,1,0,0,56,0,1,0,2,1,1,0,0,1,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Jayden Joseph,M,Leicester City,90,6.3,0,0,0.1117,0.033897,3,2,0,62,0,0,0,90,2,7,1,11,1,1,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Olabade Aluko,D,Leicester City,31,6.4,0,0,0,0.010262,0,0,0,20,0,0,0,32,0,2,0,5,1,3,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Harry Howell,M,Leicester City,34,6.2,0,0,0.1537,0.00447791,2,0,0,13,0,0,0,27,0,0,0,2,0,1,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,William Alves,M,Leicester City,56,6.7,0,0,0,0.178207,0,0,0,8,1,1,0,20,1,0,0,2,1,1,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Louis Page,M,Leicester City,90,6.4,0,0,0,0.287803,0,0,0,69,1,1,0,93,0,1,2,4,3,3,0,0,0,0
 League One,26_27,Leicester City vs Oxford United,05/09/2026,Simon Eastwood,G,Oxford United,90,7.5,0,0,0,0.00009964,0,0,0,33,0,0,0,43,0,0,0,0,0,0,0,0,0,4
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Michał Helik,D,Oxford United,90,7.2,0,0,0,0.00201313,0,0,0,32,1,0,0,49,0,0,2,3,0,2,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Cameron Brannagan,M,Oxford United,81,6.6,0,0,0.0478,0.0120591,2,1,0,32,1,0,0,47,0,0,3,0,1,0,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Siriki Dembélé,M,Oxford United,70,7.1,0,0,0.0992,0.294636,2,0,0,14,2,0,0,37,2,2,0,6,0,2,0,0,1,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Michał Helik,D,Oxford United,90,7.2,0,0,0,0.00201475,0,0,0,33,1,0,0,51,0,0,2,3,0,2,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Cameron Brannagan,M,Oxford United,81,6.6,0,0,0.0478,0.0122039,2,1,0,33,1,0,0,48,1,0,3,1,1,0,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Siriki Dembélé,M,Oxford United,70,7.1,0,0,0.059,0.294638,2,0,0,14,2,0,0,38,2,2,0,6,0,2,0,0,1,0
 League One,26_27,Leicester City vs Oxford United,05/09/2026,Louie Sibley,M,Oxford United,9,6.9,0,0,0,0.00000365,0,0,0,2,0,0,0,5,0,2,0,3,1,1,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Ciaron Brown,D,Oxford United,90,7,0,0,0,0.00473104,0,0,0,47,0,0,0,55,0,0,1,2,0,0,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Peter Kioso,D,Oxford United,81,7.5,0,0,0,0.0112237,0,0,0,22,0,0,0,37,0,2,1,5,0,1,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Tyler Goodrham,M,Oxford United,20,6.3,0,0,0.0169,0.00031479,1,1,0,5,0,0,0,9,0,1,0,1,1,0,0,0,1,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Mark Harris,F,Oxford United,70,8.9,2,0,0.7211,0.00096139,2,2,0,5,0,0,0,15,0,2,0,4,2,2,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Ciaron Brown,D,Oxford United,90,7,0,0,0,0.00289609,0,0,0,45,0,0,0,53,0,0,1,2,0,0,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Peter Kioso,D,Oxford United,81,7.5,0,0,0,0.0112291,0,0,0,23,0,0,0,39,0,2,2,5,1,1,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Tyler Goodrham,M,Oxford United,20,6.3,0,0,0.0169,0.00926828,1,1,0,6,0,0,0,10,0,1,0,1,1,0,0,0,1,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Mark Harris,F,Oxford United,70,8.9,2,0,0.7455,0.00096139,2,2,0,5,1,0,0,14,0,1,0,3,2,2,0,0,0,0
 League One,26_27,Leicester City vs Oxford United,05/09/2026,Gatlin O'Donkor,F,Oxford United,20,7.1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2,1,1,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Jack Currie,D,Oxford United,9,6.8,0,0,0,0.00007702,0,0,0,2,0,0,0,8,0,0,0,1,0,0,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Jamie McDonnell,M,Oxford United,90,8,1,0,0.4365,0.0166099,1,1,0,25,1,0,0,42,0,4,5,4,3,0,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Brodie Spencer,D,Oxford United,90,7.1,0,0,0,0.00319971,0,0,0,30,0,0,0,49,2,2,2,6,2,1,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Kai Andrews,M,Oxford United,90,7.5,0,2,0.1754,0.0651032,1,0,0,41,2,1,0,54,0,5,1,6,3,1,1,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Luka Lynch,M,Oxford United,29,7,0,1,0.1176,0.183132,1,0,0,7,1,1,0,17,0,1,0,2,1,0,0,0,0,0
-League One,26_27,Leicester City vs Oxford United,05/09/2026,Mo Missanga,F,Oxford United,61,9.1,1,1,0.6984,0.276756,2,1,0,10,2,1,0,29,1,2,0,3,1,0,0,0,1,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Jamie Reid,F,Reading,11,6.7,0,0,0,0.00118841,0,0,0,2,0,0,0,7,1,0,1,4,2,1,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Jack Marriott,F,Reading,70,6,0,0,0.8231,0.0419094,7,3,0,8,0,0,1,23,0,0,0,0,1,0,0,0,1,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Joel Pereira,G,Reading,90,6.5,0,0,0,0.00692485,0,0,0,28,0,0,0,38,0,0,0,0,0,0,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Paudie O’Connor,D,Reading,90,7,0,0,0.1295,0.00159812,1,0,0,39,0,0,1,59,0,1,3,7,1,1,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Jacob Brown,F,Reading,20,7.3,1,0,0.6624,0.00275114,1,1,0,3,1,0,0,8,0,0,0,2,0,0,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Andy Rinomhota,M,Reading,85,6.9,0,0,0,0.0104116,0,0,0,26,1,0,0,40,3,1,1,6,0,0,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Lewis Wing,M,Reading,90,7.1,0,0,0.0305,0.0321767,2,0,0,22,1,1,0,36,0,2,1,4,0,0,0,0,1,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Udoka Godwin-Malife,D,Reading,90,6.6,0,0,0,0.0252429,0,0,0,28,0,0,0,46,0,0,1,2,0,1,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Randell Williams,M,Reading,20,6.9,0,0,0.0141,0.219666,1,0,0,2,2,1,0,12,1,0,0,1,0,0,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Haydon Roberts,D,Reading,90,6.5,0,0,0.0298,0.146192,1,0,0,27,2,0,0,50,0,1,0,3,3,0,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Daniel Kyerewaa,M,Reading,14,7.1,0,1,0,0.307221,0,0,0,3,1,1,0,4,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Jack Currie,D,Oxford United,9,6.8,0,0,0,0.00007702,0,0,0,2,0,0,0,8,0,1,0,1,0,0,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Jamie McDonnell,M,Oxford United,90,8,1,0,0.4365,0.00936713,1,1,0,28,1,0,0,45,0,4,4,4,3,0,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Brodie Spencer,D,Oxford United,90,7.1,0,0,0,0.00328978,0,0,0,30,0,0,0,49,2,2,2,6,2,1,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Kai Andrews,M,Oxford United,90,7.5,0,2,0.1754,0.0650047,1,0,0,40,2,1,0,53,0,5,1,6,3,1,1,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Luka Lynch,M,Oxford United,29,7,0,1,0.0817,0.183131,1,0,0,7,1,1,0,16,0,1,0,2,1,0,0,0,0,0
+League One,26_27,Leicester City vs Oxford United,05/09/2026,Mo Missanga,F,Oxford United,61,9.1,1,1,0.685,0.277758,2,1,0,13,2,1,0,31,1,2,0,3,1,0,0,0,1,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Jamie Reid,F,Reading,11,6.7,0,0,0,0,0,0,0,1,0,0,0,5,1,0,0,4,2,1,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Jack Marriott,F,Reading,70,6,0,0,0.8805,0.0644913,6,3,0,10,0,0,1,24,0,0,0,0,1,0,0,0,1,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Joel Pereira,G,Reading,90,6.5,0,0,0,0.00631355,0,0,0,28,0,0,0,38,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Paudie O’Connor,D,Reading,90,7,0,0,0.0593,0.00165935,1,0,0,42,0,0,1,61,0,1,2,7,1,1,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Jacob Brown,F,Reading,20,7.3,1,0,0.6511,0.00275114,1,1,0,3,1,0,0,8,0,0,0,2,0,0,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Andy Rinomhota,M,Reading,85,6.9,0,0,0,0.0639673,0,0,0,29,1,0,0,42,3,2,1,7,0,0,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Lewis Wing,M,Reading,90,7.1,0,0,0.0485,0.0653836,2,0,0,22,1,1,0,36,0,1,1,3,0,0,0,0,1,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Udoka Godwin-Malife,D,Reading,90,6.6,0,0,0,0.0253935,0,0,0,29,0,0,0,46,0,0,0,2,0,1,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Randell Williams,M,Reading,20,6.9,0,0,0.044,0.192895,1,0,0,2,2,1,0,10,1,0,0,1,0,0,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Haydon Roberts,D,Reading,90,6.5,0,0,0.0309,0.0430423,1,0,0,28,2,0,0,55,0,3,1,4,3,0,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Daniel Kyerewaa,M,Reading,14,7.1,0,1,0,0.329234,0,0,0,3,1,1,0,4,0,0,0,0,0,0,0,0,0,0
 League One,26_27,Reading vs Blackpool,05/09/2026,Charlie Savage,M,Reading,11,6.7,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,2,0,1,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Paddy Lane,F,Reading,85,7,0,0,0,0.107557,0,0,0,24,3,1,0,37,0,0,2,8,0,2,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Benn Ward,D,Reading,90,7.2,0,0,0.302,0.244342,1,0,0,44,0,0,1,60,0,0,1,8,2,3,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,George Earthy,M,Reading,70,6.9,1,0,1.0472,0.0416973,3,1,0,13,3,0,1,21,0,0,0,0,0,0,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Kyreece Lisbie,M,Reading,76,8.4,1,1,0.5302,0.949784,2,1,0,8,3,2,1,18,1,0,0,3,3,1,0,0,2,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Ilmari Niskanen,M,Blackpool,31,6.5,0,0,0,0.009711,0,0,0,15,0,0,0,20,0,1,0,1,0,0,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Dion Charles,F,Blackpool,59,6.4,0,0,0.0488,0.00175141,1,0,0,8,0,0,0,11,0,1,0,1,2,0,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Jerry Yates,F,Blackpool,90,6.5,0,0,0.0227,0.0184756,1,0,0,19,1,0,0,28,0,1,0,5,2,2,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Jordan Lee Williams,D,Blackpool,90,5.6,0,0,0,0.0399463,0,0,0,88,0,0,0,102,0,1,0,4,1,0,1,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Bailey Peacock-Farrell,G,Blackpool,90,5.4,0,0,0,0.00375658,0,0,0,52,0,0,0,61,0,0,0,1,0,0,0,0,0,3
-League One,26_27,Reading vs Blackpool,05/09/2026,Josh Bowler,M,Blackpool,90,7,0,0,0.0126,0.18532,1,0,0,39,1,0,0,58,0,2,0,5,0,3,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Josh Earl,D,Blackpool,90,6.7,0,0,0.1303,0.00803478,1,0,0,90,0,0,0,107,0,2,0,5,0,1,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Albie Morgan,M,Blackpool,68,7,0,0,0.0164,0.0294507,1,0,0,57,0,0,0,68,1,1,0,5,0,1,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Leighton Clarkson,M,Blackpool,90,8.1,1,0,0.2167,0.288188,1,1,0,46,2,0,0,58,0,0,0,1,1,0,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Oliver Casey,D,Blackpool,90,7.4,0,0,0,0.00350682,0,0,0,75,0,0,0,94,0,4,1,11,0,1,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Jordan Brown,M,Blackpool,22,6.4,0,0,0,0.0110062,0,0,0,25,0,0,0,28,0,0,0,1,1,1,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Tom Bloxham,F,Blackpool,31,6.5,0,1,0,0.0425242,0,0,0,8,1,0,0,12,0,0,0,0,0,0,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Finley Munroe,M,Blackpool,59,6.2,0,0,0,0.00971369,0,0,0,27,1,0,0,39,1,2,0,6,2,2,0,0,0,0
-League One,26_27,Reading vs Blackpool,05/09/2026,Karoy Anderson,M,Blackpool,90,5.5,0,0,0.0654,0.0468804,2,0,0,37,1,0,0,63,1,2,1,5,2,1,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Dominic Ball,M,Cambridge United,90,6.5,0,0,0,0.0171185,0,0,0,32,0,0,0,46,0,5,2,6,3,1,1,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Paddy Lane,F,Reading,85,7,0,0,0,0.107489,0,0,0,24,3,0,0,37,0,0,2,8,0,2,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Benn Ward,D,Reading,90,7.2,0,0,0.2513,0.244407,1,0,0,48,0,0,1,63,0,0,1,9,2,3,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,George Earthy,M,Reading,70,6.9,1,0,1.1311,0.0596825,3,1,0,14,3,0,0,22,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Kyreece Lisbie,M,Reading,76,8.4,1,1,0.5081,0.948105,2,1,0,9,3,1,0,20,1,0,0,3,3,1,0,0,2,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Ilmari Niskanen,M,Blackpool,31,6.5,0,0,0,0.009711,0,0,0,15,0,0,0,19,0,1,0,1,0,0,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Dion Charles,F,Blackpool,59,6.4,0,0,0.0838,0.00175141,1,0,0,8,0,0,0,12,0,1,0,1,2,0,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Jerry Yates,F,Blackpool,90,6.5,0,0,0.0566,0.0184757,1,0,0,19,1,0,0,28,0,1,0,5,2,2,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Jordan Lee Williams,D,Blackpool,90,5.6,0,0,0,0.0421637,0,0,0,90,0,0,0,104,0,1,0,4,1,0,1,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Bailey Peacock-Farrell,G,Blackpool,90,5.4,0,0,0,0.00375669,0,0,0,52,0,0,0,61,0,0,0,1,0,0,0,0,0,3
+League One,26_27,Reading vs Blackpool,05/09/2026,Josh Bowler,M,Blackpool,90,7,0,0,0.0126,0.263288,1,0,0,39,1,0,0,61,1,2,0,6,0,3,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Josh Earl,D,Blackpool,90,6.7,0,0,0,0.00807391,0,0,0,93,0,0,0,108,0,2,0,5,0,1,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Albie Morgan,M,Blackpool,68,7,0,0,0.0156,0.0307561,1,0,0,60,0,0,0,70,1,1,0,5,0,1,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Leighton Clarkson,M,Blackpool,90,8.1,1,0,0.213,0.279609,1,1,0,48,1,0,0,61,0,0,0,1,1,0,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Oliver Casey,D,Blackpool,90,7.4,0,0,0,0.00350579,0,0,0,73,0,0,0,93,0,2,3,9,0,1,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Jordan Brown,M,Blackpool,22,6.4,0,0,0,0.0110063,0,0,0,25,0,0,0,29,0,0,0,1,1,1,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Tom Bloxham,F,Blackpool,31,6.5,0,1,0,0.0467467,0,0,0,7,1,1,0,12,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Finley Munroe,M,Blackpool,59,6.2,0,0,0,0.00971369,0,0,0,27,1,0,0,40,1,2,0,6,2,2,0,0,0,0
+League One,26_27,Reading vs Blackpool,05/09/2026,Karoy Anderson,M,Blackpool,90,5.5,0,0,0.1487,0.0581745,2,0,0,38,1,0,0,65,1,2,1,6,2,1,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Dominic Ball,M,Cambridge United,90,6.5,0,0,0,0.0171184,0,0,0,32,0,0,0,46,0,5,2,6,3,1,1,0,0,0
 League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Pelly Ruddock Mpanzu,M,Cambridge United,34,6.2,0,0,0,0.0190275,0,0,0,8,0,0,0,16,0,0,0,0,0,0,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Sullay Kaikai,F,Cambridge United,33,6.6,0,0,0.1201,0.105269,1,0,0,11,2,0,0,20,0,0,0,0,1,0,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Owen Moxon,M,Cambridge United,56,7.1,0,1,0.0299,0.310795,1,0,0,29,1,1,0,49,1,3,0,5,2,0,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Sullay Kaikai,F,Cambridge United,33,6.6,0,0,0.0899,0.173381,1,0,0,11,2,0,0,22,0,0,0,0,1,0,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Owen Moxon,M,Cambridge United,56,7.1,0,1,0.0299,0.28859,1,0,0,30,1,1,0,50,1,4,0,6,2,0,0,0,0,0
 League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Louis Appéré,F,Cambridge United,20,6.5,0,0,0,0.00017833,0,0,0,1,0,0,0,4,0,0,0,1,0,1,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Jake Eastwood,G,Cambridge United,90,6.7,0,0,0,0.00459315,0,0,0,27,0,0,0,34,0,0,0,2,0,0,0,0,0,1
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Kell Watts,D,Cambridge United,90,6.5,0,0,0,0.0148288,0,0,0,43,0,0,0,56,0,2,3,9,0,0,0,0,1,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Gassan Ahadme,F,Cambridge United,70,8.3,2,0,0.5191,0.00184086,2,2,0,8,1,0,0,24,1,0,0,6,2,2,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Ben Knight,F,Cambridge United,69,6,0,0,0.0845,0.0231855,1,0,0,16,0,0,0,31,0,0,1,1,3,1,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Liam Bennett,D,Cambridge United,90,6,0,0,0,0.0218634,0,0,0,25,0,0,0,51,0,0,1,3,0,1,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Cathal Heffernan,D,Cambridge United,90,5.9,0,0,0.0847,0.0423008,3,1,0,34,1,0,0,53,0,0,0,3,2,0,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Zak Bradshaw,D,Cambridge United,90,6.7,0,1,0.0593,0.47453,2,0,0,17,1,1,0,34,0,2,0,6,2,1,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Isaac Heath,M,Cambridge United,57,6.7,0,0,0,0.171758,0,0,0,11,0,0,0,23,0,2,0,4,0,2,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Callum Perry,D,Cambridge United,90,6.6,0,0,0,0.017736,0,0,0,34,0,0,0,57,0,1,2,3,1,2,1,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Raees Bangura-Williams,M,Cambridge United,21,5.7,0,0,0,0.00459018,0,0,0,6,0,0,0,14,0,0,0,1,2,0,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Corey Addai,G,Burton Albion,90,5.9,0,0,0,0.00221015,0,0,0,54,0,0,0,60,0,0,0,0,0,0,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Curtis Tilt,D,Burton Albion,90,7.7,1,0,1.0313,0.00812701,2,1,0,55,0,0,0,88,2,1,1,12,1,5,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Toby Sibbick,D,Burton Albion,90,6.6,0,0,0.0711,0.00670331,1,1,0,38,0,0,0,63,0,2,3,6,1,0,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Will Collar,M,Burton Albion,29,6.6,0,0,0,0.0012431,0,0,0,7,0,0,0,11,1,0,0,2,0,1,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Jake Eastwood,G,Cambridge United,90,6.7,0,0,0,0.00459315,0,0,0,27,0,0,0,35,0,0,0,1,0,0,0,0,0,2
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Kell Watts,D,Cambridge United,90,6.5,0,0,0,0.0148303,0,0,0,43,0,0,0,58,0,2,4,10,0,0,0,0,1,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Gassan Ahadme,F,Cambridge United,70,8.3,2,0,0.8108,0.00184064,2,2,0,8,1,0,0,23,1,0,0,6,2,2,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Ben Knight,F,Cambridge United,69,6,0,0,0.0845,0.0231854,1,0,0,16,0,0,0,31,0,0,1,1,3,1,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Liam Bennett,D,Cambridge United,90,6,0,0,0,0.0225523,0,0,0,26,0,0,0,54,0,0,1,5,0,1,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Cathal Heffernan,D,Cambridge United,90,5.9,0,0,0.207,0.0423008,3,1,0,35,1,0,0,54,0,0,0,4,2,0,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Zak Bradshaw,D,Cambridge United,90,6.7,0,1,0.0565,0.600678,2,0,0,17,1,1,0,34,0,2,0,6,2,1,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Isaac Heath,M,Cambridge United,57,6.7,0,0,0,0.171758,0,0,0,11,0,0,0,22,0,2,0,4,0,2,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Callum Perry,D,Cambridge United,90,6.6,0,0,0,0.0177361,0,0,0,34,0,0,0,56,0,1,2,3,1,2,1,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Raees Bangura-Williams,M,Cambridge United,21,5.7,0,0,0,0.0104912,0,0,0,7,0,0,0,16,0,1,0,2,2,0,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Corey Addai,G,Burton Albion,90,5.9,0,0,0,0.00221015,0,0,0,54,0,0,0,61,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Curtis Tilt,D,Burton Albion,90,7.7,1,0,1.0176,0.0079361,2,1,0,55,0,0,0,90,2,1,1,12,1,5,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Toby Sibbick,D,Burton Albion,90,6.6,0,0,0.0871,0.00664109,1,1,0,38,0,0,0,63,0,2,3,6,1,0,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Will Collar,M,Burton Albion,29,6.6,0,0,0,0.0687021,0,0,0,7,1,0,0,11,1,0,0,2,0,1,0,0,0,0
 League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Joe Lewis,D,Burton Albion,16,6.7,0,0,0,0.0130042,0,0,0,9,0,0,0,11,0,1,0,2,0,0,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Kyran Lofthouse,M,Burton Albion,90,6.5,0,1,0.0818,0.00489698,2,0,0,16,1,1,0,28,0,3,1,8,1,1,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Jack Armer,M,Burton Albion,90,6.5,0,0,0,0.114699,0,0,0,32,2,0,0,52,0,0,1,7,2,2,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Kgagelo Chauke,M,Burton Albion,90,7.5,0,0,0.0161,0.00909354,1,0,0,40,0,0,0,48,0,3,0,5,0,0,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Raphael Rodrigues,M,Burton Albion,60,6.4,0,0,0.1112,0.00161057,2,0,1,6,1,0,1,25,2,0,0,4,1,2,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Charlie Webster,M,Burton Albion,90,7.6,0,0,0.0581,0.240132,2,0,0,40,3,0,0,69,2,3,1,9,0,3,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Caylan Vickers,M,Burton Albion,74,7.1,0,0,0.0154,0.187305,1,0,0,31,1,1,0,40,1,2,0,4,3,0,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Finn Delap,D,Burton Albion,74,7.4,1,0,0.7466,0.0075962,1,1,0,33,0,0,0,54,0,1,1,7,2,1,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Kain Adom,M,Burton Albion,30,6.4,0,0,0.2083,0.00143072,1,0,0,8,0,0,0,16,0,0,0,4,0,1,0,0,0,0
-League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Sulyman Krubally,M,Burton Albion,61,6.4,0,0,0,0.00648195,0,0,0,20,1,0,0,31,0,3,1,4,1,1,1,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Kyran Lofthouse,M,Burton Albion,90,6.5,0,1,0.1569,0.00512363,2,0,0,16,1,1,0,29,0,3,1,8,1,1,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Jack Armer,M,Burton Albion,90,6.5,0,0,0,0.114741,0,0,0,33,2,0,0,52,0,0,1,7,2,2,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Kgagelo Chauke,M,Burton Albion,90,7.5,0,0,0.0175,0.00903439,1,0,0,40,0,0,0,48,0,3,0,5,0,0,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Raphael Rodrigues,M,Burton Albion,60,6.4,0,0,0.1353,0.00161057,2,0,1,6,1,0,1,25,2,0,0,4,1,2,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Charlie Webster,M,Burton Albion,90,7.6,0,0,0.1198,0.286115,3,0,0,39,3,0,0,71,2,3,1,9,0,3,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Caylan Vickers,M,Burton Albion,74,7.1,0,0,0.041,0.29435,1,0,0,31,1,1,0,40,1,1,0,3,3,0,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Finn Delap,D,Burton Albion,74,7.4,1,0,0.5631,0.00759547,1,1,0,33,0,0,0,53,0,1,1,7,2,1,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Kain Adom,M,Burton Albion,30,6.4,0,0,0.1082,0.00143072,1,1,0,8,0,0,0,15,0,0,0,2,0,1,0,0,0,0
+League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Sulyman Krubally,M,Burton Albion,61,6.4,0,0,0,0.00648195,0,0,0,19,1,0,0,31,0,3,1,4,1,1,1,0,0,0
 League One,26_27,Burton Albion vs Cambridge United,05/09/2026,Zac Scutt,F,Burton Albion,16,6.5,0,0,0,0.00434267,0,0,0,6,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,George Saville,M,Bromley,90,6.1,0,0,0.1505,0.324597,3,0,0,30,1,1,0,48,1,1,0,7,5,1,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Mitch Pinnock,M,Bromley,90,6.2,0,0,0,0.15587,0,0,0,24,2,0,0,51,0,0,0,2,3,1,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Michael Cheek,F,Bromley,68,6.8,0,0,0.2372,0.00601004,2,1,0,14,0,0,1,31,0,0,0,10,0,2,0,0,1,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Victor Adeboyejo,F,Bromley,22,6.4,0,0,0,0.00176193,0,0,0,4,2,0,0,8,0,1,0,1,1,0,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Omar Sowunmi,D,Bromley,90,6.8,0,0,0.0202,0.0561184,1,0,0,21,1,0,0,44,0,0,0,12,2,2,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Shamal George,G,Bromley,29,5.9,0,0,0,0.00250503,0,0,0,13,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Corey Whitely,M,Bromley,90,6.2,0,0,0,0.00611044,0,0,0,22,0,0,0,42,0,0,0,2,0,2,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Mickel Miller,M,Bromley,31,6.4,0,0,0,0.00239442,0,0,0,8,0,0,0,17,0,1,0,1,1,0,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,William Hondermarck,M,Bromley,68,6.5,0,0,0,0.00139159,0,0,0,6,0,0,0,12,0,1,0,2,0,0,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Richard Taylor,D,Bromley,59,6.4,0,0,0,0.00387898,0,0,0,24,0,0,0,46,0,2,3,6,1,2,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Marcus Ifill,D,Bromley,90,6.3,0,0,0,0.00585369,0,0,0,23,0,0,0,65,0,5,1,9,0,3,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,John Joshua Mckiernan,M,Bromley,22,6.3,0,0,0.0496,0.00320395,1,0,0,11,0,0,0,15,0,0,0,1,1,0,1,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Owen Mason,G,Bromley,61,6.8,0,0,0,0.00106507,0,0,0,20,0,0,0,23,0,0,0,0,0,0,0,0,0,2
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Kamil Conteh,M,Bromley,90,6.6,0,0,0.0915,0.00591106,2,1,0,17,0,0,0,31,0,5,1,7,2,1,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Kamarl Grant,D,Bromley,61,6.7,0,0,0,0.040401,0,0,0,20,0,0,0,37,0,0,0,4,0,2,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Deon Woodman,D,Bromley,29,6.1,0,0,0,0.00009825,0,0,0,6,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Jayden Stockley,F,AFC Wimbledon,87,8.1,1,1,0.2028,0.00977493,2,2,0,19,2,1,1,41,0,1,0,12,4,3,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Andy Yiadom,D,AFC Wimbledon,11,6.8,0,0,0,0,0,0,0,1,0,0,0,6,0,1,0,1,0,0,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Ryan Johnson,D,AFC Wimbledon,90,7.1,0,0,0,0.0073871,0,0,0,36,0,0,0,66,0,1,0,6,0,1,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Myles Hippolyte,M,AFC Wimbledon,89,7.6,1,0,0.4345,0.0846319,2,1,0,17,1,0,0,40,0,2,0,4,1,1,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,James Tilley,M,AFC Wimbledon,28,6.8,0,1,0,0.107002,0,0,0,5,1,1,0,9,0,1,0,2,1,1,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Callum Maycock,M,AFC Wimbledon,62,6.4,0,0,0,0.103244,0,0,0,14,1,0,0,33,1,1,1,3,1,1,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Dan Sweeney,D,AFC Wimbledon,90,7.3,0,0,0.5038,0.00157829,3,1,0,36,0,0,1,77,1,2,2,17,4,3,1,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Josef Bursik,G,AFC Wimbledon,90,7.5,0,0,0,0.00640798,0,0,0,40,0,0,0,44,0,0,0,0,0,0,0,0,0,2
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Steven Sessegnon,D,AFC Wimbledon,87,6.7,0,0,0.0641,0.0168493,1,0,0,19,0,0,0,43,1,1,0,2,0,0,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Steve Seddon,D,AFC Wimbledon,90,7.6,0,0,0.0165,0.321629,1,0,0,32,2,2,0,51,0,0,0,5,0,1,0,0,1,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Alistair Smith,M,AFC Wimbledon,90,7,0,0,0,0.0239609,0,0,0,31,1,0,0,44,0,3,1,6,2,1,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Isaac Ogundere,D,AFC Wimbledon,90,7.1,0,0,0,0.00259308,0,0,0,20,0,0,0,41,0,3,0,6,1,1,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Aron Sasu,F,AFC Wimbledon,11,6.2,0,0,0,0.00024899,0,0,0,2,0,0,0,4,0,0,0,0,1,0,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Zack Nelson,M,AFC Wimbledon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+League One,26_27,Bromley vs AFC Wimbledon,07/09/2026,Ollie Harrison,M,AFC Wimbledon,90,7,0,0,0,0.0488529,0,0,0,23,0,0,0,37,0,0,1,1,1,0,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Nahki Wells,F,Luton Town,24,6.2,0,0,0,0.00385692,0,0,0,8,0,0,0,12,0,1,0,1,0,0,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Kasey Palmer,M,Luton Town,32,6.4,0,1,0.1037,0.0366534,2,0,0,15,1,1,0,21,1,0,0,3,0,0,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Liam Walsh,M,Luton Town,90,7.9,0,0,0,0.184059,0,0,0,99,1,0,0,124,2,2,2,7,1,3,1,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Hakeem Odofin,D,Luton Town,84,6.6,0,0,0.0396,0.0656975,1,0,0,46,0,0,0,71,1,2,1,7,0,0,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Joe Johnson,D,Luton Town,90,6.1,0,0,0,0.0888211,0,0,0,43,1,0,0,79,0,4,0,7,1,2,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Mads Andersen,D,Luton Town,90,7.8,1,0,0.3341,0.017162,1,1,0,88,0,0,0,113,0,1,1,9,1,1,1,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,George Johnston,D,Luton Town,90,6.3,0,0,0,0.147105,0,0,0,115,1,1,0,132,0,2,0,4,0,0,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Josh Keeley,G,Luton Town,90,6.1,0,0,0,0.00007477,0,0,0,20,0,0,0,27,0,0,0,0,0,0,0,0,0,1
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Isaiah Jones,D,Luton Town,90,6.3,0,0,0,0.0172292,0,0,0,39,0,0,0,59,2,1,0,6,2,3,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Daniel Gore,M,Luton Town,90,6.6,0,0,0,0.0437893,0,0,0,74,0,0,0,82,1,0,0,3,2,0,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Jamie Donley,M,Luton Town,58,6.4,0,0,0.0602,0.0601308,2,0,0,17,1,0,0,32,0,0,0,2,0,2,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Tudor Mendel-Idowu,M,Luton Town,14,6.6,0,0,0,0.00311158,0,0,0,7,0,0,0,10,0,0,0,2,0,2,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Callum Marshall,F,Luton Town,66,6,0,0,0.1653,0.0127412,3,0,0,12,0,0,1,24,0,1,0,1,2,0,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Gideon Kodua,M,Luton Town,58,6.5,0,0,0.1859,0.125633,1,1,0,18,2,0,0,28,1,0,0,2,1,1,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Jake Richards,M,Luton Town,32,6.3,0,0,0,0.00514337,0,0,0,7,0,0,0,15,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Josh Magennis,F,Stevenage,76,6.8,1,0,1.0824,0.00060773,2,1,0,5,0,0,0,18,0,0,0,5,3,1,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Carl Piergianni,D,Stevenage,90,7.5,0,0,0.005,0.118093,1,0,0,23,1,0,0,40,1,2,1,7,0,0,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Louis Thompson,M,Stevenage,90,6.8,0,0,0,0.00861546,0,0,0,29,0,0,0,38,1,2,0,8,3,1,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Jordan Roberts,M,Stevenage,56,7.1,0,0,0,0.00579332,0,0,0,15,0,0,0,28,0,5,1,8,0,3,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Luther James-Wildin,D,Stevenage,90,7.3,0,0,0,0.171334,0,0,0,37,2,0,0,70,1,3,1,5,2,0,1,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Jordan Houghton,M,Stevenage,14,6.6,0,0,0.0162,0,1,0,0,2,0,0,0,7,0,2,1,3,0,0,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Lewis Freestone,D,Stevenage,90,7,0,0,0.0489,0.032824,1,0,0,22,0,0,0,49,0,0,1,5,1,1,1,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Daniel Kemp,M,Stevenage,76,7.5,1,0,0.1567,0.114084,3,1,0,18,2,0,0,38,0,1,0,2,1,1,1,0,1,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Terence Vancooten,D,Stevenage,90,6.9,0,0,0,0.0070886,0,0,0,28,0,0,0,46,0,2,2,6,0,2,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Matthew Smith,M,Stevenage,13,6.3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Saxon Earley,M,Stevenage,14,6.5,0,0,0,0.00021789,0,0,0,4,0,0,0,5,0,0,0,0,1,0,1,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Daniel Phillips,M,Stevenage,85,6.5,0,0,0,0.0100583,0,0,0,24,0,0,0,41,0,5,1,8,4,0,1,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Michael Mellon,F,Stevenage,14,6.2,0,0,0,0.00135719,0,0,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Oliver Sanderson,F,Stevenage,76,7.1,0,0,0,0.0187342,0,0,0,17,0,0,0,33,2,2,2,6,0,0,0,0,0,0
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Tommy Setford,G,Stevenage,90,6.2,0,0,0,0.00406462,0,0,0,24,0,0,0,29,0,0,0,0,0,0,0,0,0,1
+League One,26_27,Stevenage vs Luton Town,10/09/2026,Ben Broggio,M,Stevenage,34,6.7,0,0,0.0306,0.00915044,1,1,0,5,0,0,0,14,0,1,0,2,0,1,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Steve Cook,D,Wycombe Wanderers,90,7.1,0,0,0.0935,0.00899958,2,0,0,43,1,0,0,61,0,2,1,5,0,1,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Jack Grimmer,D,Wycombe Wanderers,90,6.1,0,0,0.2048,0.0119549,1,1,0,43,1,0,0,71,0,1,1,4,0,1,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Cauley Woodrow,F,Wycombe Wanderers,89,5.8,0,0,0,0.0102822,0,0,0,20,1,0,0,28,0,0,0,2,1,1,1,0,1,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Josh Scowen,M,Wycombe Wanderers,22,6.6,0,0,0,0.00259914,0,0,0,9,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Luke Leahy,M,Wycombe Wanderers,1,0,0,0,0,0.00055184,0,0,0,4,0,0,0,11,0,0,1,2,0,0,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Fred Onyedinma,M,Wycombe Wanderers,90,7.6,1,0,0.1997,0.0805903,2,1,0,26,2,0,0,47,1,2,1,5,2,1,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Daniel Harvie,D,Wycombe Wanderers,90,6.7,1,0,0.2491,0.0950974,3,1,0,34,1,0,0,52,1,2,0,5,3,1,1,0,1,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Anders Hagelskjær,D,Wycombe Wanderers,78,6.2,0,0,0,0.0483898,0,0,0,45,0,0,0,71,0,3,3,9,2,0,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Conor Hazard,G,Wycombe Wanderers,90,6.7,0,0,0,0.00161771,0,0,0,36,0,0,0,44,0,0,0,1,0,0,0,0,0,3
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Aaron Morley,M,Wycombe Wanderers,68,6.9,0,1,0.061,0.300483,1,1,0,35,4,0,0,42,0,0,1,0,2,0,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Ewan Henderson,M,Wycombe Wanderers,90,7.3,0,2,0.0136,0.284671,1,0,0,43,2,0,0,58,1,0,1,5,1,0,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Caolan Boyd-Munce,M,Wycombe Wanderers,90,6.6,0,0,0.0636,0.0514346,2,0,0,26,0,0,0,53,0,1,0,5,0,2,1,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Jayden Wareham,F,Wycombe Wanderers,90,6.9,1,0,0.2697,0.00597849,4,3,0,16,0,0,0,29,0,1,0,7,1,1,0,0,1,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Connor Taylor,D,Wycombe Wanderers,12,6.6,0,0,0,0.0003441,0,0,0,6,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Isaac Hayden,M,Leyton Orient,62,6.3,0,0,0.0376,0.00771598,1,0,0,39,0,0,0,48,1,0,1,7,0,1,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Demetri Mitchell,M,Leyton Orient,39,6.3,0,0,0,0.0259989,0,0,0,9,0,0,1,16,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Sean Clare,M,Leyton Orient,90,6.2,0,0,0,0.0139213,0,0,0,48,0,0,0,71,0,1,1,2,3,1,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Nathan Baxter,G,Leyton Orient,90,6.7,0,0,0,0.00009584,0,0,0,17,0,0,0,31,0,0,0,1,0,0,0,0,0,4
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Jaze Kabia,F,Leyton Orient,90,7.1,1,0,0.27,0.0202233,2,1,0,10,0,0,0,25,1,0,1,6,2,3,0,0,1,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Joseph Olowu,D,Leyton Orient,82,6.9,0,0,0.0975,0.00265739,3,1,0,44,1,0,0,61,0,0,1,11,0,1,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Idris El Mizouni,M,Leyton Orient,90,7.3,0,0,0.0332,0.464634,1,0,1,48,1,1,0,58,0,3,0,4,2,0,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Armando Dobra,M,Leyton Orient,51,6.8,0,0,0.1029,0.105817,2,1,0,9,1,0,0,19,0,1,0,3,1,2,0,0,1,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Dane Scarlett,F,Leyton Orient,8,6.4,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Alexander Gilbert,M,Leyton Orient,28,6.8,0,0,0,0.0772959,0,0,0,19,1,0,0,28,1,1,0,2,0,0,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,William Forrester,D,Leyton Orient,90,6.5,0,0,0.2942,0.00812182,2,0,0,37,0,0,1,56,0,1,2,9,0,1,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Charlie Wellens,M,Leyton Orient,90,7.1,0,0,0.0165,0.276112,1,1,0,26,5,1,0,46,0,2,0,2,0,0,0,0,1,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Fin Stevens,D,Leyton Orient,90,5.7,0,0,0,0.00677462,0,0,0,51,0,0,0,76,0,1,1,3,0,1,0,0,0,0
+League One,26_27,Leyton Orient vs Wycombe Wanderers,12/09/2026,Yusuf Akhamrich,F,Leyton Orient,90,7.3,0,1,0.0309,0.402898,1,0,0,22,1,1,0,53,5,0,0,7,0,2,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Nick Powell,M,Bradford City,22,6.4,0,0,0.0674,0.00049041,1,1,0,5,0,0,0,13,0,0,0,3,4,1,1,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Antoni Sarcevic,F,Bradford City,90,7.1,0,0,0.0297,0.0200528,1,1,0,37,2,0,0,57,2,4,1,11,3,2,1,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Kayden Jackson,F,Bradford City,49,6.5,0,0,0.1349,0.0254439,2,0,0,17,0,0,0,26,0,0,0,1,1,1,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Matthew Pennington,D,Bradford City,90,8.1,0,0,0,0.0189342,0,0,0,41,0,0,0,57,2,4,0,15,0,0,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Jake Beesley,F,Bradford City,68,6.3,0,0,0.1337,0.00995026,1,0,0,16,1,0,0,27,0,0,0,6,1,4,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Adam Phillips,M,Bradford City,41,6.5,0,0,0,0.0128146,0,0,0,22,0,0,0,25,0,0,0,2,0,0,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Ibou Touray,M,Bradford City,89,6.8,0,0,0,0.0438775,0,0,0,29,1,0,0,51,0,2,0,5,2,0,1,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Macauley Gillesphey,D,Bradford City,1,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Callum Connolly,D,Bradford City,90,7.1,0,0,0,0.0523562,0,0,0,36,1,0,0,49,0,1,0,1,2,0,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Aden Baldwin,D,Bradford City,90,7.6,0,0,0.0993,0.0155941,1,0,0,46,0,0,0,63,0,2,2,9,1,1,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Corey O'Keeffe,D,Bradford City,22,6.5,0,0,0,0.00284858,0,0,0,5,0,0,0,10,0,0,1,1,0,1,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Josh Neufville,M,Bradford City,90,6.9,0,0,0.022,0.161693,1,0,0,31,1,0,0,73,0,4,1,8,3,0,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Jon McCracken,G,Bradford City,90,6.6,0,0,0,0.00489938,0,0,0,29,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,George Pratt,D,Bradford City,90,7.8,1,0,0.0127,0.0135059,1,1,0,33,0,0,0,47,1,2,0,6,2,0,1,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Bobby Pointon,F,Bradford City,68,6.7,0,0,0,0.0424147,0,0,0,23,1,0,0,37,0,2,0,5,0,2,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,James Belshaw,G,Notts County,90,6.1,0,0,0,0.00092395,0,0,0,49,0,0,0,55,1,0,0,2,0,1,0,0,0,2
+League One,26_27,Notts County vs Bradford City,12/09/2026,Callum Roberts,M,Notts County,30,6.5,0,0,0,0.0488691,0,0,0,10,1,0,0,16,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,James Gibbons,D,Notts County,81,6.4,0,0,0,0.0155071,0,0,0,38,0,0,0,52,0,0,1,0,1,0,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Jacob Bedeau,D,Notts County,90,5.7,0,0,0,0.00551416,0,0,0,43,0,0,0,58,0,0,1,2,2,0,1,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Rosaire Longelo,M,Notts County,30,6.8,0,0,0,0.00667278,0,0,0,10,0,0,0,23,0,0,0,3,0,3,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Oliver Cooper,M,Notts County,90,7,0,0,0.0151,0.0197873,1,0,0,27,1,0,0,55,2,4,0,8,0,2,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Jack Evans,M,Notts County,60,6.3,0,0,0,0.0226951,0,0,0,21,0,0,0,29,0,0,1,0,1,0,1,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Conor Grant,F,Notts County,9,6.6,0,0,0,0.00069686,0,0,0,1,0,0,0,4,0,1,0,1,0,0,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Nick Tsaroulla,M,Notts County,90,6.5,0,0,0.1092,0.0195007,3,0,0,35,1,0,0,51,1,0,0,5,0,2,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Lucas Ness,D,Notts County,90,6.4,0,0,0.024,0.0133922,1,0,0,48,0,0,0,64,0,1,0,9,2,3,1,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Darius Lipsiuc,M,Notts County,60,7.4,0,0,0,0.021368,0,0,0,29,0,0,0,48,0,4,0,10,1,3,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Daniel Kanu,F,Notts County,30,6.3,0,0,0,0.0001006,0,0,0,5,0,0,0,11,1,0,0,1,3,0,1,0,1,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Hindolo Mustapha,M,Notts County,60,6.7,0,0,0.1976,0.0128054,1,1,0,12,1,0,1,30,2,1,0,5,0,1,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Rory Finneran,M,Notts County,90,6.7,0,0,0.0614,0.116731,2,0,0,44,0,0,0,68,0,2,0,6,1,3,0,0,0,0
+League One,26_27,Notts County vs Bradford City,12/09/2026,Luka Smyth,F,Notts County,90,5.9,0,0,0.0869,0.009349,1,0,0,16,1,0,0,27,0,0,0,4,1,1,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Neill Byrne,D,Doncaster Rovers,90,7,0,0,0,0.0812737,0,0,0,62,1,0,0,75,0,0,0,2,0,0,1,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Matty Pearson,D,Doncaster Rovers,6,0,0,0,0,0.00001102,0,0,0,2,0,0,0,5,0,0,0,1,0,1,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Alfie May,F,Doncaster Rovers,90,6.8,0,0,0.4682,0.0801668,7,2,0,31,2,0,0,45,0,0,0,2,0,2,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,James Husband,D,Doncaster Rovers,65,7.4,0,0,0,0.0381647,0,0,0,61,0,0,0,79,0,0,1,5,0,1,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Brandon Hanlan,F,Doncaster Rovers,90,6.9,0,0,0.1068,0.0625054,3,2,0,12,4,0,0,35,1,1,0,8,1,4,0,0,1,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Jack Senior,D,Doncaster Rovers,90,6.2,0,0,0.9571,0.0361522,4,3,0,43,0,0,2,65,1,0,1,2,0,1,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Owen Bailey,M,Doncaster Rovers,90,7.3,0,0,0.3001,0.0546387,1,1,0,22,1,0,0,40,0,1,0,8,1,1,1,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Isaac Hutchinson,M,Doncaster Rovers,32,6.6,0,0,0.1111,0.0164262,2,1,0,13,0,0,0,16,0,0,0,0,0,0,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Robbie Gotts,M,Doncaster Rovers,90,7.6,0,0,0.0412,0.0338213,1,0,0,59,0,0,0,75,0,1,0,3,1,2,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,George Broadbent,M,Doncaster Rovers,58,6.5,0,0,0.0273,0.0655483,1,0,0,32,0,0,0,34,0,0,0,0,0,0,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Sean Grehan,D,Doncaster Rovers,84,7,0,0,0,0.0622878,0,0,0,53,2,0,0,82,0,2,3,7,1,2,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Tommy Simkin,G,Doncaster Rovers,90,7,0,0,0,0.00763615,0,0,0,42,0,0,0,52,0,0,0,0,1,0,1,0,0,3
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Bayley McCann,M,Doncaster Rovers,25,6.8,0,0,0,0.0233917,0,0,0,5,0,0,0,17,0,0,0,0,0,0,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Leon Ayinde,F,Doncaster Rovers,65,7.1,0,0,0.1879,0.785733,1,0,0,13,4,2,0,24,1,2,1,5,1,1,1,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Jordan Thomas,M,Doncaster Rovers,25,6.5,0,0,0.2147,0.0266889,2,0,0,8,0,0,1,17,1,1,0,2,0,0,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Jayden Stockley,F,AFC Wimbledon,90,6.3,0,0,0.1795,0.0303122,3,0,0,26,2,0,0,47,1,1,1,9,4,1,1,0,1,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Andy Yiadom,D,AFC Wimbledon,20,7.3,0,0,0,0.00002967,0,0,0,4,0,0,0,10,0,1,0,1,0,0,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Ryan Johnson,D,AFC Wimbledon,90,7,0,0,0.1226,0.00487683,1,0,0,25,0,0,0,43,0,1,0,6,1,1,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Myles Hippolyte,M,AFC Wimbledon,90,7,1,0,0.1449,0.0159996,2,1,0,29,0,0,0,45,0,2,0,3,2,0,1,0,2,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Callum Maycock,M,AFC Wimbledon,90,7.4,0,0,0,0.205776,0,0,0,22,2,0,0,36,0,2,0,2,0,0,0,0,2,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Josef Bursik,G,AFC Wimbledon,90,10,0,0,0,0.00628263,0,0,0,35,0,0,0,52,0,0,0,1,0,0,0,0,0,9
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Steve Seddon,D,AFC Wimbledon,90,7.5,0,0,0.0545,0.318621,1,0,0,28,3,0,0,47,0,1,1,3,1,1,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Alistair Smith,M,AFC Wimbledon,90,7.2,0,0,0.0346,0.042609,1,0,0,37,0,0,0,49,1,1,1,3,0,1,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Isaac Ogundere,D,AFC Wimbledon,90,7.5,0,0,0,0.0652856,0,0,0,25,1,0,0,46,0,2,0,5,2,1,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Aron Sasu,F,AFC Wimbledon,64,6.6,0,0,0.0894,0.00770202,2,1,0,9,0,0,0,21,0,1,0,2,1,0,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Zack Nelson,M,AFC Wimbledon,26,6.7,0,0,0.1866,0.00000577,1,1,0,3,0,0,1,9,0,1,0,1,1,0,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Donnell McNeilly,F,AFC Wimbledon,26,7.3,0,0,0,0.0769473,0,0,0,9,2,1,0,12,1,0,0,2,0,1,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Freddie Simmonds,D,AFC Wimbledon,70,6.6,0,0,0,0.00169545,0,0,0,24,0,0,0,39,0,0,0,1,2,0,0,0,0,0
+League One,26_27,AFC Wimbledon vs Doncaster Rovers,12/09/2026,Ollie Harrison,M,AFC Wimbledon,64,6.8,0,0,0,0.00916338,0,0,0,23,0,0,0,37,0,0,0,1,1,0,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Dion Charles,F,Blackpool,63,6.3,0,0,0,0.00065963,0,0,0,3,0,0,0,8,1,0,0,1,1,0,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Jerry Yates,F,Blackpool,27,6,0,0,0,0.0265147,0,0,0,4,1,0,0,9,0,0,0,1,2,1,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Jordan Lee Williams,D,Blackpool,90,6.2,0,0,0,0.0709359,0,0,0,54,2,0,0,78,0,0,1,4,1,1,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Bailey Peacock-Farrell,G,Blackpool,90,8.4,0,0,0,0.00448585,0,0,0,37,0,0,0,51,0,0,0,3,0,2,0,0,0,7
+League One,26_27,Blackpool vs Bromley,12/09/2026,Josh Bowler,M,Blackpool,90,7.6,0,0,0.0961,0.124998,3,1,0,32,3,0,0,67,3,2,0,5,1,0,0,0,1,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Josh Earl,D,Blackpool,90,6.6,0,0,0.0331,0.0321548,1,0,0,61,0,0,0,78,0,0,0,3,0,1,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Albie Morgan,M,Blackpool,90,8.6,1,0,0.2144,0.105699,3,1,0,20,2,0,0,43,0,1,0,4,1,2,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Leighton Clarkson,M,Blackpool,15,6.6,0,0,0.1341,0.00376643,1,0,0,5,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Oliver Casey,D,Blackpool,90,6.4,0,0,0.084,0.00232343,2,0,0,69,0,0,0,93,0,1,1,9,2,0,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Jordan Brown,M,Blackpool,75,6.1,0,0,0.0509,0.0978026,2,0,0,52,1,0,0,63,0,0,2,1,1,1,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Tom Bloxham,F,Blackpool,90,7.1,1,0,0.3967,0.0598827,2,2,0,16,1,0,0,33,1,0,0,3,2,1,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Zachary Ashworth,D,Blackpool,16,6.9,0,0,0.0371,0.00071477,1,0,0,6,0,0,0,17,0,1,0,2,0,0,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Finley Munroe,M,Blackpool,74,7.6,0,1,0.0241,0.677456,1,0,0,22,2,1,0,44,2,2,1,6,0,2,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Karoy Anderson,M,Blackpool,90,6,0,0,0.0968,0.039838,1,0,0,36,2,0,0,65,0,3,1,9,2,3,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,George Saville,M,Bromley,90,7.2,0,1,0.0621,0.0471018,1,1,0,27,1,0,0,54,3,2,2,11,0,4,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Mitch Pinnock,M,Bromley,63,6.4,0,0,0.138,0.248528,3,1,0,19,3,1,0,44,0,1,0,1,2,0,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Michael Cheek,F,Bromley,16,6.6,0,0,0,0.00072832,0,0,0,3,0,0,0,7,0,0,0,2,1,0,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Victor Adeboyejo,F,Bromley,74,7.4,1,0,0.4449,0.00388551,4,2,0,7,0,0,0,30,1,1,0,6,2,2,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Omar Sowunmi,D,Bromley,90,6.5,0,1,0,0.412371,0,0,0,18,1,1,0,29,0,1,1,5,3,1,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Ben Thompson,M,Bromley,16,6.7,0,0,0,0.00051243,0,0,0,4,0,0,0,7,0,1,0,2,0,0,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Corey Whitely,M,Bromley,90,6.6,0,0,0,0.139046,0,0,0,19,2,1,0,28,0,1,0,1,0,0,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Mickel Miller,M,Bromley,27,6.9,0,0,0.0635,0.0152261,1,1,0,7,0,0,0,17,1,0,1,5,0,2,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Richard Taylor,D,Bromley,26,6.4,0,0,0.1888,0.00078714,2,1,1,5,0,0,2,12,1,0,1,2,0,0,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Marcus Ifill,D,Bromley,90,6,0,0,0.0606,0.102135,1,0,0,14,1,0,0,31,1,0,0,2,1,1,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,John Joshua Mckiernan,M,Bromley,74,6.2,1,0,0.1569,0.0100527,2,2,0,15,0,0,0,25,0,0,0,1,3,1,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Owen Mason,G,Bromley,90,5.7,0,0,0,0.00374924,0,0,0,33,0,0,0,36,0,0,0,1,0,1,1,0,0,2
+League One,26_27,Blackpool vs Bromley,12/09/2026,Kamil Conteh,M,Bromley,90,6.8,0,0,0,0.0172448,0,0,0,22,1,0,0,34,0,4,0,6,0,0,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Kamarl Grant,D,Bromley,90,7.1,0,0,0.266,0.00380986,1,1,0,21,0,0,1,44,0,4,0,6,1,1,0,0,0,0
+League One,26_27,Blackpool vs Bromley,12/09/2026,Chanse Headman,D,Bromley,64,6.5,0,0,0,0.0201496,0,0,0,14,0,0,0,40,0,5,2,7,1,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Jamie Reid,F,Reading,12,6.4,0,0,0,0.0084351,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Jack Marriott,F,Reading,72,7.4,1,0,0.1481,0.0118754,2,2,0,4,2,0,0,16,0,0,0,0,1,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Joel Pereira,G,Reading,90,6.5,0,0,0,0.00447917,0,0,0,31,0,0,0,41,0,0,0,1,0,0,0,0,0,3
+League One,26_27,Cambridge United vs Reading,12/09/2026,Paudie O’Connor,D,Reading,90,6.8,0,0,0,0.0096609,0,0,0,62,0,0,0,78,0,3,0,10,2,1,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Jacob Brown,F,Reading,18,6.3,0,0,0.0378,0.0115557,1,0,0,3,0,0,0,6,0,0,0,1,0,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Andy Rinomhota,M,Reading,78,6.3,0,0,0.0265,0.010069,1,0,0,22,2,0,0,35,0,1,0,1,1,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Lewis Wing,M,Reading,90,6.7,0,0,0.081,0.0798789,3,0,0,60,2,0,0,78,0,2,0,2,1,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Udoka Godwin-Malife,D,Reading,90,6.8,0,0,0.2271,0.152683,1,0,0,47,2,1,0,78,1,2,0,8,0,5,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Randell Williams,M,Reading,18,6.5,0,0,0.4101,0.101542,1,0,0,5,0,0,1,15,0,0,0,0,1,0,1,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Haydon Roberts,D,Reading,78,6.1,0,0,0,0.0149284,0,0,0,23,1,0,0,50,0,0,0,3,2,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Charlie Savage,M,Reading,12,7,0,0,0,0.0882088,0,0,0,13,0,0,0,19,0,2,0,2,0,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Paddy Lane,F,Reading,90,7.2,0,0,0.6595,0.24688,4,1,1,14,0,0,1,36,0,4,0,9,1,1,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Benn Ward,D,Reading,90,6.7,0,0,0,0.0041526,0,0,0,65,0,0,0,81,0,1,1,9,1,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,George Earthy,M,Reading,90,6.4,0,0,0.2866,0.0826935,4,1,0,50,1,0,0,66,1,0,0,2,0,1,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Kyreece Lisbie,M,Reading,72,6,0,0,0.1263,0.0612002,2,0,1,17,3,1,0,37,2,0,0,2,1,0,0,0,1,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Dominic Ball,M,Cambridge United,90,7.4,0,0,0,0.0201376,0,0,0,33,0,0,0,44,1,0,1,2,0,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Pelly Ruddock Mpanzu,M,Cambridge United,45,7,0,1,0,0.0515476,0,0,0,15,2,0,0,26,0,0,1,1,0,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Sullay Kaikai,F,Cambridge United,90,6.9,0,0,0.1813,0.0463979,3,1,0,30,0,0,0,60,1,4,2,6,2,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Owen Moxon,M,Cambridge United,45,7.2,0,0,0,0.109599,0,0,0,30,1,0,0,38,0,2,2,3,0,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Louis Appéré,F,Cambridge United,1,0,0,0,0,0.00108653,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Jake Eastwood,G,Cambridge United,90,6.5,0,0,0,0.00440231,0,0,0,28,0,0,0,35,0,0,0,0,0,0,0,0,0,3
+League One,26_27,Cambridge United vs Reading,12/09/2026,Shayne Lavery,F,Cambridge United,45,6.3,0,0,0.3063,0.00248418,3,2,0,10,0,0,0,29,1,0,1,3,0,1,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Kell Watts,D,Cambridge United,90,7.9,1,0,0.0249,0.0506682,1,1,0,46,0,0,0,59,0,1,0,4,0,1,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Gassan Ahadme,F,Cambridge United,85,6.8,0,0,0.0301,0.0502647,1,0,0,20,1,0,0,36,1,0,0,16,4,4,1,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Ben Knight,F,Cambridge United,89,6.5,0,0,0.3479,0.043282,1,0,0,26,1,0,1,46,0,1,1,3,0,2,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Liam Bennett,D,Cambridge United,90,7.4,1,0,0.0438,0.00942226,1,1,0,21,0,0,0,63,0,0,3,4,0,2,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Sam Curtis,D,Cambridge United,10,6.7,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,1,0,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Cathal Heffernan,D,Cambridge United,90,7,0,0,0.0345,0.136651,1,0,0,25,1,0,0,44,0,2,0,2,0,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Zak Bradshaw,D,Cambridge United,10,6.6,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Callum Perry,D,Cambridge United,85,7,0,1,0,0.0584785,0,0,0,35,2,0,0,57,0,3,1,4,1,0,1,0,0,0
+League One,26_27,Cambridge United vs Reading,12/09/2026,Raees Bangura-Williams,M,Cambridge United,45,6.5,0,0,0,0.00184016,0,0,0,5,1,0,0,14,0,1,0,1,1,0,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Murray Wallace,D,Huddersfield Town,90,7,0,0,0.0237,0.0159488,1,1,0,63,1,0,0,78,0,1,0,4,1,1,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Ashley Fletcher,F,Huddersfield Town,29,6.7,0,0,0.4494,0.45567,3,0,0,3,2,1,1,10,0,1,0,3,2,0,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Ryan Ledson,M,Huddersfield Town,38,7.1,0,0,0.0236,0.0121628,1,0,0,17,0,0,0,22,0,1,0,1,0,0,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Marcus Harness,M,Huddersfield Town,79,7.2,0,0,0.3557,0.292261,3,0,0,29,3,0,2,56,1,4,0,9,3,1,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Archie Collins,M,Huddersfield Town,52,6.7,0,0,0,0.148529,0,0,0,32,1,1,0,39,0,1,0,1,1,0,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Ilias Bronkhorst,D,Huddersfield Town,90,7,0,0,0.0677,0.0322863,2,0,0,63,0,0,0,102,0,0,0,6,0,1,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Bali Mumba,M,Huddersfield Town,29,6.9,0,0,0.0447,0.00811944,1,0,0,22,0,0,0,34,1,2,0,4,1,0,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Radinio Balker,D,Huddersfield Town,90,7,0,0,0,0.740059,0,0,0,69,2,0,0,83,0,2,1,4,1,2,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Bojan Radulović,F,Huddersfield Town,61,6.3,0,0,0.0342,0.00444577,1,0,0,8,0,0,0,14,0,1,0,2,1,0,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Derensili Sanches Fernandes,M,Huddersfield Town,90,6.7,0,0,0.016,0.0803132,1,0,0,34,2,0,0,60,2,1,3,4,0,1,0,0,1,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Ibane Bowat,D,Huddersfield Town,61,6.7,0,0,0,0.00559275,0,0,0,31,0,0,0,56,0,0,1,2,0,2,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Cameron Humphreys,M,Huddersfield Town,90,7.9,0,0,0.2488,0.189406,4,0,0,50,3,1,0,82,3,2,0,8,0,2,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Joe Taylor,F,Huddersfield Town,90,5.9,0,0,0.0971,0.00005881,2,1,0,3,0,0,0,20,0,1,0,1,4,0,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Matthew Young,G,Huddersfield Town,90,7,0,0,0,0.00509415,0,0,0,27,0,0,0,33,0,0,0,0,0,0,0,0,0,1
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Jay Smith-Sway,D,Huddersfield Town,11,6.7,0,0,0,0.00143747,0,0,0,2,0,0,0,6,0,1,0,1,0,0,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,David McGoldrick,F,Mansfield Town,54,6.9,0,0,0,0.00406286,0,0,0,13,0,0,0,30,0,4,0,7,2,2,0,0,2,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Lucas Akins,M,Mansfield Town,36,6.5,0,0,0.0317,0.00004572,1,1,0,7,0,0,0,21,1,1,1,2,1,0,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Stephen McLaughlin,D,Mansfield Town,45,6.7,0,0,0.0195,0.0228734,1,0,0,20,0,0,0,37,0,0,0,1,0,1,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Michael Smith,F,Mansfield Town,90,7.1,0,0,0.226,0.0515188,1,0,0,23,1,0,1,42,0,0,1,10,3,1,0,0,1,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Elliott Hewitt,D,Mansfield Town,74,7.7,0,0,0,0.0580803,0,0,0,38,0,0,0,70,0,2,0,7,0,0,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Rhys Oates,F,Mansfield Town,16,6.7,0,0,0,0.00003657,0,0,0,3,0,0,0,13,0,1,1,1,0,0,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Adedeji Oshilaja,D,Mansfield Town,90,7.8,0,0,0.065,0.00443884,1,0,0,31,0,0,0,53,0,2,1,4,0,2,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Louis Reed,M,Mansfield Town,90,7.9,0,0,0.033,0.234142,1,0,0,35,1,1,0,55,1,6,0,7,0,0,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,George Maris,M,Mansfield Town,66,7.3,0,0,0.0418,0.0477022,1,0,0,26,1,0,0,42,0,0,1,2,0,1,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Ryan Sweeney,D,Mansfield Town,90,8,0,0,0,0.00337686,0,0,0,35,0,0,0,58,0,2,2,6,0,2,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Kyle Knoyle,D,Mansfield Town,24,6.8,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,3,0,2,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Luke Bolton,M,Mansfield Town,36,6.9,0,0,0,0.00178001,0,0,0,7,0,0,0,18,1,2,0,5,1,1,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Liam Roberts,G,Mansfield Town,90,7,0,0,0,0.00171076,0,0,0,33,0,0,0,41,0,0,0,0,0,0,0,0,0,2
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Liam Thompson,M,Mansfield Town,90,6.4,0,0,0.4473,0.0147415,1,0,0,25,1,0,1,45,2,1,0,3,0,0,0,0,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Owen Dodgson,D,Mansfield Town,2,3.1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+League One,26_27,Mansfield Town vs Huddersfield Town,12/09/2026,Nathan Moriah-Welsh,M,Mansfield Town,54,7,0,0,0,0.193274,0,0,0,24,2,1,0,40,1,1,0,4,2,2,1,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Simon Eastwood,G,Oxford United,90,6.9,0,0,0,0.00796142,0,0,0,41,0,0,0,50,0,0,0,1,0,0,0,0,0,2
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Michał Helik,D,Oxford United,90,7.3,0,0,0,0.0334242,0,0,0,70,0,0,0,85,0,0,3,2,0,0,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Cameron Brannagan,M,Oxford United,90,7.6,0,0,0.074,0.223311,2,0,0,62,1,0,0,82,0,3,0,4,1,1,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Siriki Dembélé,M,Oxford United,90,8.5,1,1,0.5465,0.0237302,3,2,0,20,1,0,1,52,1,8,1,13,1,4,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Louie Sibley,M,Oxford United,10,7.5,1,0,0.049,0.00108173,1,1,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Ciaron Brown,D,Oxford United,90,6.8,0,0,0,0.0111271,0,0,0,68,0,0,0,77,0,0,0,2,0,0,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Peter Kioso,D,Oxford United,90,7.5,0,0,0.1049,0.0094494,1,0,0,50,1,0,0,75,0,1,1,9,0,4,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Tyler Goodrham,M,Oxford United,16,7.9,0,1,0,0.549535,0,0,0,13,2,2,0,15,1,0,0,2,0,1,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Mark Harris,F,Oxford United,86,6.1,0,0,0,0.00262255,0,0,0,13,0,0,0,19,0,0,0,1,1,1,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Gatlin O'Donkor,F,Oxford United,29,7.2,1,0,0.3761,0.0016611,2,1,1,2,0,0,1,13,0,1,0,3,1,1,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Jack Currie,D,Oxford United,29,7.2,0,0,0,0.00744278,0,0,0,10,0,0,0,27,0,3,0,6,1,0,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Jamie McDonnell,M,Oxford United,61,6.2,0,0,0,0.0327079,0,0,0,25,0,0,0,37,0,4,1,4,5,0,1,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Brodie Spencer,D,Oxford United,61,7.1,0,0,0,0.00330172,0,0,0,22,0,0,0,50,1,3,1,8,0,0,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Kai Andrews,M,Oxford United,74,6.4,0,0,0.0288,0.0101769,1,0,0,23,1,0,0,37,0,0,0,1,0,1,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Leo Snowden,F,Oxford United,9,6.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Mo Missanga,F,Oxford United,87,6.7,0,0,0.0306,0.529646,1,1,0,19,2,1,0,49,4,2,0,9,4,3,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Corey Addai,G,Burton Albion,90,5.8,0,0,0,0.00769601,0,0,0,25,1,0,0,30,1,0,0,1,0,0,0,0,0,2
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Curtis Tilt,D,Burton Albion,90,6.1,0,0,0,0.00513068,0,0,0,23,0,0,0,41,0,4,1,7,2,0,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Toby Sibbick,D,Burton Albion,90,6.7,0,0,0,0.0205471,0,0,0,18,1,0,0,57,1,7,2,11,1,2,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Will Collar,M,Burton Albion,62,6.7,0,0,0.0915,0.0226149,1,1,0,19,0,0,0,27,0,3,1,6,0,0,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Joe Lewis,D,Burton Albion,68,6.6,0,0,0,0.0023643,0,0,0,14,0,0,0,23,0,2,1,5,2,0,1,0,1,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Kyran Lofthouse,M,Burton Albion,90,6.4,0,0,0.0751,0.0319428,1,0,0,23,0,0,0,47,1,5,1,15,1,2,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Jack Armer,M,Burton Albion,45,6.4,0,0,0,0.00027792,0,0,0,7,0,0,0,20,0,2,0,4,1,1,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Kgagelo Chauke,M,Burton Albion,90,6.5,0,0,0,0.0116222,0,0,0,21,1,0,0,34,0,2,3,4,1,1,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Raphael Rodrigues,M,Burton Albion,90,6.6,0,0,0.1445,0.0917207,4,0,0,10,0,0,0,21,0,1,0,3,1,2,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Jason Sraha,D,Burton Albion,22,6,0,0,0,0.00011048,0,0,0,4,0,0,0,12,0,1,3,3,1,0,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Harvey Araujo,D,Burton Albion,45,6,0,0,0,0.00561081,0,0,0,10,0,0,0,26,0,4,0,5,2,1,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Charlie Webster,M,Burton Albion,90,7,0,0,0.0819,0.0215651,3,1,0,30,1,0,0,56,1,0,1,5,3,3,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Caylan Vickers,M,Burton Albion,62,6.1,0,0,0,0.0211587,0,0,0,14,0,0,0,29,1,0,0,1,1,0,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Kain Adom,M,Burton Albion,28,6.6,0,0,0.0742,0.00001262,1,0,0,1,0,0,0,9,0,1,0,2,0,1,0,0,0,0
+League One,26_27,Oxford United vs Burton Albion,12/09/2026,Sulyman Krubally,M,Burton Albion,28,6.6,0,0,0,0.00085306,0,0,0,9,1,0,0,14,0,1,0,3,0,1,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Cameron McGeehan,M,Barnsley,90,6.6,0,0,0.1806,0.048761,2,0,0,55,1,0,0,68,0,0,0,2,2,0,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Luca Connell,M,Barnsley,45,6.8,0,0,0.1082,0.033551,3,0,0,26,1,0,0,37,0,1,0,2,1,1,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Reyes Cleary,M,Barnsley,45,6.4,0,0,0.0426,0.0444897,1,0,0,7,1,0,0,15,1,0,0,1,0,0,0,0,1,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Amani Richards,F,Barnsley,45,6.3,0,0,0.0218,0.00035173,1,0,0,1,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Patrick Kelly,M,Barnsley,90,6.2,0,0,0.1445,0.170718,2,0,0,18,2,0,0,34,0,0,0,2,0,1,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Connor O'Riordan,D,Barnsley,90,6.4,0,0,0,0.00321886,0,0,0,49,0,0,0,65,1,3,0,6,2,1,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Makenzie Kirk,F,Barnsley,45,6.4,0,0,0,0.00011566,0,0,0,5,0,0,0,10,0,0,0,1,0,1,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Sam Gale,D,Barnsley,90,6.2,0,0,0.0778,0.00341716,1,0,0,51,1,0,0,71,2,3,2,10,1,3,1,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Clayton Taylor,M,Barnsley,19,6.5,0,0,0,0.0117859,0,0,0,5,1,0,0,9,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Tyrese Noslin,M,Barnsley,90,6.1,0,0,0.1891,0.0316079,4,0,0,28,2,0,0,77,2,1,0,7,3,4,1,0,1,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Ben Hamed Toure,F,Barnsley,45,6.6,0,0,0,0.0803326,0,0,0,9,2,0,0,13,1,0,0,2,0,0,0,0,3,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Jonathan Bland,M,Barnsley,45,6.7,0,0,0,0.018869,0,0,0,23,1,0,0,29,0,0,1,2,0,2,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Rogan Ravenhill,G,Barnsley,90,4.8,0,0,0,0.00015232,0,0,0,37,0,0,0,41,0,0,0,1,0,0,0,0,0,1
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Luke Alker,F,Barnsley,71,6.4,0,0,0,0.0829656,0,0,0,11,0,0,0,25,0,3,1,3,1,0,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Arley Kay,D,Barnsley,90,5.5,0,0,0.0094,0.0211347,1,0,0,50,0,0,0,84,0,1,3,4,2,0,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Joe Edwards,D,Plymouth Argyle,17,6.9,0,0,0,0.00345041,0,0,0,2,0,0,0,7,0,0,0,1,0,0,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Julio Pleguezuelo,D,Plymouth Argyle,90,7.3,0,1,0,0.00202753,0,0,0,17,1,0,0,34,0,2,3,4,1,0,0,0,1,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Ronan Curtis,M,Plymouth Argyle,63,7.6,1,0,0.6601,0.0346139,1,1,0,22,1,0,0,40,0,2,0,7,3,2,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Tyreeq Bakinson,M,Plymouth Argyle,73,7.1,0,0,0,0.0164637,0,0,0,17,0,0,0,28,0,2,4,2,0,0,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Wes Harding,D,Plymouth Argyle,90,6.9,0,0,0.0318,0.00192644,1,0,0,12,0,0,0,42,0,1,0,2,1,0,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Matthew Sorinola,M,Plymouth Argyle,73,6.9,0,0,0,0.0190455,0,0,0,17,0,0,0,36,0,2,3,5,3,2,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Mathias Ross,D,Plymouth Argyle,27,6.9,0,0,0,0.0007665,0,0,0,6,0,0,0,11,1,1,0,4,1,0,1,0,1,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Harvey White,M,Plymouth Argyle,90,7.6,0,1,0.0555,0.0401317,2,1,0,34,1,1,0,49,1,0,1,1,0,0,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Caleb Watts,M,Plymouth Argyle,10,6.7,0,0,0,0,0,0,0,1,0,0,0,5,0,2,0,3,1,1,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Aribim Pepple,F,Plymouth Argyle,90,7.9,1,0,0.2061,0.0131671,1,1,0,8,1,0,0,27,3,2,0,7,2,2,0,0,1,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Will Evans,F,Plymouth Argyle,90,6.9,0,0,0,0.0133824,0,0,0,15,0,0,0,34,0,5,0,9,1,2,1,0,2,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Alex Mitchell,D,Plymouth Argyle,63,7.1,0,0,0,0.00251285,0,0,0,11,0,0,0,20,0,1,0,2,0,0,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Bradley Ibrahim,M,Plymouth Argyle,17,6.7,0,0,0,0.00030654,0,0,0,2,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Murphy Cooper,G,Plymouth Argyle,90,6.1,0,0,0,0.00154386,0,0,0,35,0,0,0,37,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Owen Oseni,F,Plymouth Argyle,27,6.7,0,0,0,0.0102792,0,0,0,3,0,0,0,10,0,1,0,3,0,2,0,0,2,0
+League One,26_27,Plymouth Argyle vs Barnsley,12/09/2026,Oliver Irow,F,Plymouth Argyle,80,7.8,1,0,0.0376,0.0137502,2,1,0,17,0,0,0,31,0,1,1,2,0,1,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Curtis Nelson,D,Milton Keynes Dons,90,7.1,0,0,0.1608,0.0127018,3,0,0,27,0,0,0,56,0,0,1,4,2,0,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Gethin Jones,M,Milton Keynes Dons,60,6.6,0,0,0,0.00211488,0,0,0,11,0,0,0,21,0,1,1,2,0,1,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Callum Paterson,F,Milton Keynes Dons,90,6.7,0,0,0.0845,0.0955387,1,0,1,17,2,0,0,40,0,0,0,7,1,3,0,0,2,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Alex Gilbey,M,Milton Keynes Dons,90,6.4,0,0,0.1362,0.00148144,2,0,0,12,0,0,0,29,1,0,1,3,2,0,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Aaron Collins,F,Milton Keynes Dons,74,7.8,1,0,0.3316,0.00529112,3,1,0,15,0,0,0,32,1,4,0,6,1,0,0,0,1,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Rushian Hepburn-Murphy,F,Milton Keynes Dons,16,6.4,0,0,0,0.00140634,0,0,0,3,0,0,0,8,0,0,0,1,1,1,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Charlie Goode,D,Milton Keynes Dons,90,7.3,0,0,0,0.0116919,0,0,0,27,0,0,0,49,0,2,2,7,0,1,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Ryan Wintle,M,Milton Keynes Dons,90,6.8,0,0,0,0.0545325,0,0,0,34,1,0,0,51,0,3,2,3,1,0,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Dan Crowley,M,Milton Keynes Dons,73,7.6,0,0,0.4579,0.251706,3,1,0,31,5,0,1,53,3,0,0,4,0,0,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Sam Nombe,F,Milton Keynes Dons,90,7.3,0,0,0.0714,0.10199,1,0,0,18,2,1,0,34,2,1,0,7,2,1,0,0,1,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Cohen Bramall,D,Milton Keynes Dons,90,6.9,0,0,0,0.00777212,0,0,0,21,0,0,0,39,1,2,1,3,1,0,1,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Marvin Ekpiteta,D,Milton Keynes Dons,30,6.3,0,0,0,0.00240682,0,0,0,3,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Will Dennis,G,Milton Keynes Dons,90,6.6,0,0,0,0.00827247,0,0,0,41,0,0,0,48,0,0,0,0,0,0,0,0,0,2
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Jay Matete,M,Milton Keynes Dons,17,6.5,0,0,0,0.00274441,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Alex Bass,G,Peterborough United,90,7.2,0,0,0,0.00344494,0,0,0,46,0,0,0,63,0,0,0,1,0,0,0,0,0,1
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Liam Kelly,M,Peterborough United,78,6.5,0,0,0.0717,0.153665,2,0,0,65,1,0,0,72,0,0,0,0,2,0,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Evan Weir,D,Peterborough United,51,6.6,0,0,0.0858,0.00806224,2,1,0,20,0,0,0,37,0,2,0,6,1,2,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Chris Conn-Clarke,M,Peterborough United,12,7.9,1,0,0.0791,0.00675706,2,1,0,10,0,0,0,23,3,1,0,5,0,1,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Owura Edwards,M,Peterborough United,90,7.4,0,0,0.0735,0.686118,1,0,1,34,5,0,0,60,3,2,0,8,0,1,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Benjamin Woods,M,Peterborough United,51,6.5,0,0,0.0569,0.0374231,2,0,0,18,0,0,0,29,0,1,0,2,1,0,0,0,1,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,David Okagbue,D,Peterborough United,90,7.3,0,0,0,0.019322,0,0,0,71,0,0,0,92,0,1,2,6,0,0,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Josh Feeney,D,Peterborough United,90,7.6,0,0,0.0654,0.00793735,1,0,0,89,0,0,0,104,1,0,1,6,0,1,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Harry Leonard,F,Peterborough United,90,7,0,0,0.5626,0.0209636,3,1,0,9,0,0,0,21,1,1,0,6,1,2,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Brandon Khela,M,Peterborough United,39,6.5,0,0,0.1045,0.00486154,1,0,0,15,0,0,0,23,1,1,0,2,0,0,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Harrison Jones,M,Peterborough United,51,6.4,0,0,0,0.0186291,0,0,0,19,0,0,0,27,0,0,1,2,0,1,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Harley Mills,D,Peterborough United,39,6.9,0,0,0.0467,0.0217097,1,0,0,24,0,0,0,32,0,0,1,1,1,0,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,James Dornelly,D,Peterborough United,90,6.4,0,0,0,0.0686434,0,0,0,40,0,0,0,59,0,0,0,1,0,0,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Harry Ashfield,M,Peterborough United,39,7.1,0,0,0.0614,0.0395334,1,0,0,24,0,0,0,37,0,1,0,5,0,3,1,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Danny Ormerod,F,Peterborough United,33,6.8,0,0,0,0.0812647,0,0,0,9,3,0,0,15,1,0,0,3,0,0,0,0,0,0
+League One,26_27,Milton Keynes Dons vs Peterborough United,12/09/2026,Bolu Shofowoke,M,Peterborough United,57,6.1,0,0,0,0.0270572,0,0,0,10,2,0,0,20,0,0,0,0,1,0,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Liam Cooper,D,Sheffield Wednesday,90,7.5,0,0,0.0367,0.0164085,1,0,0,86,0,0,0,100,0,1,2,4,1,0,1,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Barry Bannan,M,Sheffield Wednesday,90,6.5,0,0,0.0383,0.00813884,1,0,0,28,1,0,0,40,0,0,3,1,0,1,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Liam Palmer,D,Sheffield Wednesday,28,7.1,0,0,0,0.0633885,0,0,0,31,1,0,0,39,0,2,0,4,0,1,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Jamal Lowe,F,Sheffield Wednesday,78,6.4,0,0,0.0726,0.00603391,1,0,0,12,0,0,0,21,0,1,1,1,2,0,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Reece James,D,Sheffield Wednesday,90,6.7,0,0,0,0.0159113,0,0,0,41,0,0,0,58,0,0,2,0,0,0,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Ricardo Santos,D,Sheffield Wednesday,74,8.3,0,0,0,0.0127293,0,0,0,65,1,0,0,73,0,2,1,4,0,0,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Joe Lumley,G,Sheffield Wednesday,90,7.2,0,0,0,0.00024837,0,0,0,22,0,0,0,33,0,0,0,2,0,1,0,0,0,2
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Yan Valery,D,Sheffield Wednesday,62,6.9,0,0,0.2308,0.035592,2,1,0,31,1,0,0,46,0,2,0,2,0,0,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Davis Keillor-Dunn,F,Sheffield Wednesday,28,6.6,0,0,0,0.0626597,0,0,0,5,1,0,0,10,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Callum Slattery,M,Sheffield Wednesday,62,6.8,0,0,0.0526,0.177139,1,0,0,25,2,0,0,44,1,0,1,3,2,2,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Billy Mitchell,M,Sheffield Wednesday,90,7.3,0,0,0,0.150388,0,0,0,70,2,0,0,83,0,2,0,4,0,0,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Ali Al-Hamadi,F,Sheffield Wednesday,28,6.5,0,0,0.0948,0.00060202,1,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Mason Burstow,F,Sheffield Wednesday,62,6.4,0,0,0.0145,0.00120763,1,0,1,8,0,0,0,13,0,0,1,1,1,0,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Kieran Morrison,M,Sheffield Wednesday,90,6.5,0,0,0.1328,0.0255383,3,2,0,38,0,0,0,68,1,2,0,3,0,0,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Gabriel Otegbayo,D,Sheffield Wednesday,16,7.5,0,0,0.014,0.00566242,1,0,0,25,0,0,0,32,0,1,1,4,0,0,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Harry Gray,F,Sheffield Wednesday,12,6.8,0,0,0.1294,0.00079821,1,0,0,3,0,0,0,11,0,0,0,3,1,3,1,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Scott Hogan,F,Wigan Athletic,20,6.3,0,0,0.0676,0.00178003,1,0,0,2,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Max Power,M,Wigan Athletic,90,7,0,0,0,0.0254788,0,0,0,42,3,0,0,61,0,1,0,2,0,1,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Morgan Fox,D,Wigan Athletic,90,6.9,0,0,0.2443,0.00349926,3,0,0,37,0,0,0,50,0,0,2,3,0,0,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Fraser Murray,M,Wigan Athletic,84,6.5,0,0,0,0.00162381,0,0,0,14,0,0,0,22,0,0,0,1,0,1,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Jon Mellish,M,Wigan Athletic,90,6.8,0,0,0.4521,0.0119457,3,1,0,23,1,0,0,53,0,2,1,3,1,0,0,0,1,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Connor Barrett,M,Wigan Athletic,15,6.6,0,0,0.0303,0.00000255,1,0,0,1,0,0,0,4,0,0,0,0,1,0,1,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Dara Costelloe,F,Wigan Athletic,20,6.6,0,0,0,0.0274043,0,0,0,12,1,0,0,20,1,1,0,4,0,0,1,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Finley Burns,D,Wigan Athletic,90,7.9,0,0,0,0.339625,0,0,0,40,1,0,0,53,0,0,0,7,0,2,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,James Carragher,D,Wigan Athletic,90,6.7,0,0,0,0.00642529,0,0,0,38,0,0,0,58,0,2,2,3,4,1,0,0,2,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Joe Whitworth,G,Wigan Athletic,90,7.4,0,0,0,0.00089557,0,0,0,30,0,0,0,39,0,0,0,0,0,0,0,0,0,3
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Sonny Perkins,F,Wigan Athletic,70,6.3,0,0,0,0.00244389,0,0,0,12,0,0,0,28,0,2,0,3,1,1,0,0,1,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Charlie Gray,M,Wigan Athletic,87,7.5,0,0,0,0.141001,0,0,0,41,1,0,0,58,1,2,1,5,0,1,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Jensen Weir,M,Wigan Athletic,90,6.5,0,0,0.0515,0.0235399,2,0,1,28,0,0,0,40,0,1,1,3,0,0,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Archie Harris,D,Wigan Athletic,12,6.7,0,0,0,0.00762104,0,0,0,2,1,0,0,3,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Sheffield Wednesday vs Wigan Athletic,12/09/2026,Reggie Walsh,M,Wigan Athletic,70,6.9,0,0,0.7591,0.180288,3,1,0,23,2,0,1,39,0,2,0,2,1,0,1,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Oliver Norwood,M,Stockport County,90,8.1,1,0,0.0964,0.346309,3,1,1,60,4,1,0,75,0,0,1,1,0,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Ben Osborn,M,Stockport County,90,7.2,0,0,0,0.310543,0,0,0,40,4,0,0,68,2,2,0,4,1,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Mikael Mandron,F,Stockport County,19,6.5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Eoghan O'Connell,D,Stockport County,79,6.2,0,0,0,0.00603636,0,0,0,58,0,0,0,65,0,0,1,3,1,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Kyle Wootton,F,Stockport County,90,7.4,1,0,0.5699,0.0375845,5,2,0,26,0,0,1,38,1,0,0,5,1,1,0,0,1,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Jack Diamond,F,Stockport County,87,8.1,1,0,0.1003,0.0393773,1,1,0,14,0,0,0,32,2,0,1,7,1,5,0,0,1,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Lewis Bate,M,Stockport County,71,6.6,0,1,0,0.0307876,0,0,0,42,1,0,0,46,0,0,0,1,0,1,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Ryan Glover,M,Stockport County,79,6.9,0,0,0.9602,0.143561,3,1,2,24,1,0,2,43,2,1,1,3,0,0,0,0,1,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Kyron Gordon,D,Stockport County,90,5.7,0,0,0.1943,0.00761646,4,0,0,56,1,1,0,76,0,3,1,8,1,0,1,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Harry Wood,F,Stockport County,71,6.5,0,0,0.0744,0.0190907,1,0,0,23,1,0,0,35,1,2,0,4,0,1,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Benoný Breki Andrésson,F,Stockport County,3,0,0,0,0.0805,0.0000339,1,0,0,2,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Mamadou Jobe,D,Stockport County,11,6.8,0,0,0,0.00528314,0,0,0,26,0,0,0,27,0,0,0,0,1,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Ethan Pye,D,Stockport County,90,6.4,0,0,0,0.029451,0,0,0,78,0,0,0,86,0,3,0,8,1,1,1,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Ethan Ennis,M,Stockport County,11,6.7,0,0,0,0.0558051,0,0,0,4,1,1,0,9,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Oliver Whatmuff,G,Stockport County,90,5.3,0,0,0,0.00750259,0,0,0,60,0,0,0,67,1,0,0,2,0,1,0,0,0,1
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Jason Adigun,M,Stockport County,19,6.3,0,0,0.2094,0.00515377,1,0,0,5,0,0,1,15,0,1,0,1,0,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Alex McCarthy,G,Leicester City,90,6.2,0,0,0,0.00059485,0,0,0,66,0,0,0,77,0,0,0,0,0,0,0,0,0,2
+League One,26_27,Stockport County vs Leicester City,12/09/2026,John Lundstram,M,Leicester City,90,7.4,1,0,0.2616,0.00810555,2,1,0,72,0,0,0,84,0,2,1,3,1,1,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Bobby De Cordova-Reid,M,Leicester City,20,6.6,0,0,0,0.00012225,0,0,0,4,0,0,0,9,0,0,0,1,0,1,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Wes Burns,M,Leicester City,8,6.3,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Harry Souttar,D,Leicester City,90,6.5,0,0,0,0.0192685,0,0,0,109,1,0,0,122,0,0,2,1,1,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Emil Riis Jacobsen,F,Leicester City,76,8,2,0,0.584,0.00107672,3,2,0,17,1,0,0,29,0,0,0,1,1,0,0,0,1,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Warren O'Hora,D,Leicester City,86,6.3,0,0,0,0.00199365,0,0,0,74,0,0,0,86,0,2,1,2,1,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Luke Thomas,D,Leicester City,90,6.3,0,0,0,0.00993105,0,0,0,48,0,0,0,67,0,3,0,5,3,1,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Liam Cullen,F,Leicester City,86,7.5,1,0,0.1085,0.0591177,1,1,0,10,0,0,0,23,0,4,0,7,0,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Tom Watson,M,Leicester City,14,6.7,0,0,0,0.00015813,0,0,0,4,0,0,0,7,0,1,0,1,0,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Sammy Braybrooke,M,Leicester City,70,6,0,0,0.0716,0.00161254,1,1,0,18,0,0,0,29,0,1,0,3,1,2,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Jayden Joseph,M,Leicester City,90,5.7,0,0,0,0.00394753,0,0,0,34,1,0,0,54,0,1,0,2,0,1,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Ilari Kangasniemi,D,Leicester City,8,6.9,0,0,0,0.00000231,0,0,0,1,0,0,0,3,0,1,0,1,0,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Olabade Aluko,D,Leicester City,8,6.6,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,William Alves,M,Leicester City,86,6.6,0,1,0,0.0109414,0,0,0,21,1,0,0,31,1,0,0,2,0,0,0,0,0,0
+League One,26_27,Stockport County vs Leicester City,12/09/2026,Louis Page,M,Leicester City,90,7.6,0,2,0.1834,0.330891,2,0,0,42,4,1,0,55,1,0,1,2,2,1,1,0,0,0
