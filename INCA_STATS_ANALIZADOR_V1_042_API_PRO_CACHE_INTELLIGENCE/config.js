@@ -1,7 +1,7 @@
 (() => {
   'use strict';
   window.INCA_ARCH = Object.freeze({
-    version: '1.042',
+    version: '1.043',
     dbName: 'inca-stats-pro-v5',
     dbVersion: 1,
     remoteTTL: 6 * 60 * 60 * 1000,

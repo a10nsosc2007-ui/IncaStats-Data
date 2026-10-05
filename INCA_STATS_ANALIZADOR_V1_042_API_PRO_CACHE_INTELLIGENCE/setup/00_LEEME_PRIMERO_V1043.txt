@@ -1,0 +1,55 @@
+INCASTATS V1.043 — PRIMERA INSTALACIÓN / ACTUALIZACIÓN
+=========================================================
+
+ESTA ES LA GUÍA ACTUAL. Los archivos V1.042 de esta carpeta quedan solo como histórico.
+NO ejecutes SUPABASE_V1042_API_PRO.sql para instalar V1.043.
+
+ORDEN OBLIGATORIO
+-----------------
+1) SUPABASE
+   SQL Editor -> New query -> pega TODO:
+   setup/SUPABASE_V1043_ORCHESTRATOR_BRIDGE.sql
+   -> Run.
+
+2) VERCEL / ENVIRONMENT VARIABLES
+   Ya deben existir:
+   API_FOOTBALL_KEY
+   API_FOOTBALL_KEY_1 ... API_FOOTBALL_KEY_9
+   SUPABASE_URL
+   SUPABASE_SERVICE_ROLE_KEY
+   CRON_SECRET
+
+   Añade/ajusta:
+   INCA_API_KEY_POOL_MODE=authorized
+   INCA_API_PER_KEY_MONTHLY_BUDGET=450
+   INCA_API_DAILY_BUDGET=140
+   INCA_API_RUN_BUDGET=70
+   INCA_TEAM_REFRESH_PER_RUN=6
+
+   Recomendado:
+   SUPABASE_PUBLISHABLE_KEY=<tu publishable key>
+
+   IMPORTANTE: usa pool_mode=authorized SOLO si el proveedor permite usar conjuntamente
+   esas diez claves/cuentas. Si no, usa INCA_API_KEY_POOL_MODE=single.
+
+3) THE ODDS API (si la vas a activar)
+   THE_ODDS_API_KEY=<tu clave>
+   INCA_ODDS_RUN_CREDIT_BUDGET=40
+
+4) REDEPLOY
+   Después de cambiar variables, crea un nuevo deployment en Vercel.
+
+5) PRIMERA CARGA
+   El cron hará sincronización incremental. Para una carga inicial manual, usa el endpoint
+   /api/admin-football-sync autenticado como admin. Empieza por mode=teams, luego fixtures,
+   odds y lineups. No expongas claves en el navegador.
+
+6) REGLA DE ARQUITECTURA
+   USUARIO -> backend/cache -> Supabase.
+   Las APIs externas las consume únicamente Vercel/Admin/Cron.
+
+NOTA SOBRE PREVIEW
+------------------
+En las capturas, API_FOOTBALL_KEY_1..9 están solo en Production.
+Eso es correcto para producción. Si pruebas el pool desde un Preview deployment, copia también
+esas variables a Preview; de lo contrario ese deployment verá solo las claves disponibles allí.

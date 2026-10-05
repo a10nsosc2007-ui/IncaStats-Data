@@ -1,0 +1,42 @@
+{
+  "version": "V1.043",
+  "build": "API_ORCHESTRATOR_BRIDGE",
+  "date": "2026-10-05",
+  "node_check": {
+    "files": 57,
+    "errors": 0
+  },
+  "json_check": {
+    "count": 34,
+    "errors": 0,
+    "bad": []
+  },
+  "html_check": {
+    "ids": 329,
+    "duplicate_ids": {},
+    "local_refs": 55,
+    "missing_local_refs": []
+  },
+  "frontend_direct_provider_file_refs": 0,
+  "pool_test": {
+    "configured_keys": 10,
+    "pool_mode": "authorized",
+    "per_key_monthly_budget": 450,
+    "daily_budget": 140,
+    "run_budget": 70
+  },
+  "bridge_test": {
+    "result": "PASS",
+    "confidence": 1.0,
+    "method": "TEAM_IDS+KICKOFF"
+  },
+  "supabase_backup_observation": {
+    "football_tables_found": 0,
+    "tables_seen": [
+      "profiles",
+      "user_devices"
+    ],
+    "requires_v1043_sql": true
+  },
+  "runtime_external_verification": "PENDING_DEPLOYMENT: no real API keys or live Supabase were used in local QA"
+}

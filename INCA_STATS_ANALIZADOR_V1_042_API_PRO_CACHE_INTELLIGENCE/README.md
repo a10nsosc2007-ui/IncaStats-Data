@@ -1,15 +1,19 @@
-# INCA STATS ANALIZADOR V1.023
+# INCA STATS ANALIZADOR V1.043
 
-## V1.023 · PLAYER STREAKS + MATCH UX PRO
+Versión actual basada directamente en V1.042, con la capa API corregida sin rehacer el producto.
 
-Base: V1.022. Cambios localizados en League Center Player Streaks, Player Analyzer y Match Center.
+## V1.043 · API ORCHESTRATOR + FIXTURE BRIDGE
 
-- Player Streaks rediseñado para desktop/iPhone/Android sin palabras verticales ni columnas comprimidas.
-- Player Analyzer prioriza el mercado abierto: después de MIN aparece la estadística seleccionada (Tackles, Tiros, Faltas, etc.).
-- Player Stats de un partido usa un menú único de mercado en lugar de una tira horizontal.
-- Forma & Comparador separa Últimos partidos y Comparador para reducir confusión.
-- No se cambia Player Picks, Analyzer principal, Historic, Leaderboards, Auth ni APIs.
+- Pool autorizado de hasta 10 keys API-Football en Vercel.
+- Presupuesto mensual por key + diario + por ejecución.
+- Supabase guarda contadores/alias, nunca secretos.
+- Bridge TITAN/Sofascore Event_ID ↔ API-Football Fixture_ID.
+- Match Center autenticado correctamente contra sus endpoints backend.
+- Alineaciones cacheadas corregidas.
+- Odds separadas por proveedor para evitar duplicados o mezclas.
+- Usuarios finales continúan en modo `CACHE_ONLY`: ningún click consume API externa.
 
-### Abrir en teléfono por Live Server
+### Antes del deploy
+Ejecuta `setup/SUPABASE_V1043_ORCHESTRATOR_BRIDGE.sql` y luego configura Vercel con `setup/ENV_VERCEL_V1043.txt`.
 
-`http://192.168.15.5:5500/INCA_STATS_ANALIZADOR_V1_023_PLAYER_STREAKS_MATCH_UX_PRO/index.html`
+Lee `README_V1_043_API_ORCHESTRATOR_BRIDGE.txt` para el orden exacto.

@@ -24,7 +24,7 @@
   async function local(action){
     const file=localFiles[action];
     if(!file)throw new Error('LOCAL_CACHE_UNAVAILABLE');
-    const r=await fetch(`${file}?v=1.042`,{cache:'no-store'});
+    const r=await fetch(`${file}?v=1.043`,{cache:'no-store'});
     if(!r.ok)throw new Error(`LOCAL_${r.status}`);
     return r.json();
   }

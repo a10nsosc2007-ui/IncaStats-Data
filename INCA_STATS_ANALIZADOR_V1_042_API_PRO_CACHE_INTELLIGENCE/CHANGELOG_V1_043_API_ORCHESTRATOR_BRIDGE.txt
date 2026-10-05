@@ -1,0 +1,16 @@
+V1.043 · API ORCHESTRATOR + FIXTURE BRIDGE
+
+[FIX] Bearer token en Match Center API y segundo proveedor de odds.
+[FIX] configured=true en lineups cacheadas.
+[FIX] fallback de fixtures normalizado al contrato del frontend.
+[FIX] source separado para API-FOOTBALL / THE-ODDS-API.
+[FIX] row_key source-aware para odds y player props.
+[NEW] Pool autorizado API_FOOTBALL_KEY + _1.._9.
+[NEW] Contabilidad mensual/día por alias en Supabase sin guardar secretos.
+[NEW] RPC atómico reserve_football_api_key.
+[NEW] Failover por 401/403/429/5xx con cooldown por alias.
+[NEW] TITAN fixture bridge event_id <-> API fixture_id.
+[NEW] football_fixture_bridge + sofascore_event_id en fixtures cache.
+[NEW] Status del pool sin exponer keys.
+[NEW] Migración consolidada de Supabase para instalaciones donde football_* todavía no existe.
+[SAFE] Frontend continúa CACHE_ONLY: ningún click de usuario consume API-Football.

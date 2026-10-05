@@ -262,17 +262,28 @@ function localApiUrl(action,extra={}){
   return url;
 }
 
+async function sessionToken(){
+  try{const s=await window.INCA_AUTH?.client?.auth?.getSession?.();return s?.data?.session?.access_token||'';}catch{return '';}
+}
+
 async function apiJSON(action,extra={},ttl=0){
   const staticDev=/^(localhost|127\.0\.0\.1)$/i.test(location.hostname) && !/^300\d$/.test(location.port||'');
   if(staticDev) throw new Error('LOCAL_STATIC_API_DISABLED');
   const key=`${action}|${JSON.stringify(extra)}`;
   const cached=state.liveCache.get(key);
   if(cached&&(!ttl||Date.now()-cached.time<ttl))return cached.data;
-  const res=await fetch(localApiUrl(action,extra),{cache:'no-store'});
+  const headers={accept:'application/json'},token=await sessionToken();if(token)headers.Authorization=`Bearer ${token}`;
+  const res=await fetch(localApiUrl(action,extra),{cache:'no-store',headers});
   if(!res.ok)throw new Error('LIVE_UNAVAILABLE');
   const data=await res.json();
   state.liveCache.set(key,{time:Date.now(),data});
   return data;
+}
+
+async function resolveFixtureBridge(fixture){
+  if(!fixture||Number(fixture.api_fixture_id))return Number(fixture?.api_fixture_id)||0;
+  const eventId=Number(fixture.sofascore_event_id||fixture.id)||0;if(!eventId)return 0;
+  try{const data=await apiJSON('bridge',{eventId},30*60*1000);const id=Number(data?.api_fixture_id||data?.bridge?.fixture_id)||0;if(id){fixture.api_fixture_id=id;fixture.bridge_confidence=Number(data?.bridge?.confidence)||null;}return id;}catch{return 0;}
 }
 
 async function loadFixtures(options={}){
@@ -450,7 +461,7 @@ async function selectFixture(id){
   target.innerHTML='<div class="fx-loading fx-detail-loading"><span></span> Preparando análisis TITAN…</div>';
   target.scrollIntoView({behavior:'smooth',block:'start'});
 
-  const jobs=[];
+  const jobs=[resolveFixtureBridge(fixture)];
   if(state.titanHome)jobs.push(CORE().teamHistory(state.titanHome.team_id).then(h=>state.historyHome=h).catch(()=>{}));
   if(state.titanAway)jobs.push(CORE().teamHistory(state.titanAway.team_id).then(h=>state.historyAway=h).catch(()=>{}));
   await Promise.all(jobs);
@@ -1433,7 +1444,8 @@ async function fetchSecondOdds(){
   url.searchParams.set('home',state.fixture.home?.name||'');
   url.searchParams.set('away',state.fixture.away?.name||'');
   url.searchParams.set('commenceTime',state.fixture.start_time||'');
-  const res=await fetch(url,{cache:'no-store'});
+  const headers={accept:'application/json'},token=await sessionToken();if(token)headers.Authorization=`Bearer ${token}`;
+  const res=await fetch(url,{cache:'no-store',headers});
   if(!res.ok)throw new Error('ODDS2');
   return res.json();
 }

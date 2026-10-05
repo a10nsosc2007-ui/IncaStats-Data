@@ -1,0 +1,40 @@
+INCA STATS V1.043 · VARIABLES DE VERCEL
+
+YA LAS TIENES SEGÚN TUS CAPTURAS (NO CAMBIES LOS VALORES):
+API_FOOTBALL_KEY=<secreto principal>
+API_FOOTBALL_KEY_1=<secreto>
+API_FOOTBALL_KEY_2=<secreto>
+API_FOOTBALL_KEY_3=<secreto>
+API_FOOTBALL_KEY_4=<secreto>
+API_FOOTBALL_KEY_5=<secreto>
+API_FOOTBALL_KEY_6=<secreto>
+API_FOOTBALL_KEY_7=<secreto>
+API_FOOTBALL_KEY_8=<secreto>
+API_FOOTBALL_KEY_9=<secreto>
+SUPABASE_URL=<tu URL de Supabase>
+SUPABASE_SERVICE_ROLE_KEY=<tu service role>
+CRON_SECRET=<tu secreto largo>
+
+AÑADIR / CAMBIAR PARA V1.043:
+INCA_API_KEY_POOL_MODE=authorized
+INCA_API_PER_KEY_MONTHLY_BUDGET=450
+INCA_API_DAILY_BUDGET=140
+INCA_API_RUN_BUDGET=70
+
+OPCIONAL · SEGUNDO PROVEEDOR DE CUOTAS:
+THE_ODDS_API_KEY=<tu key si la tienes>
+INCA_ODDS_RUN_CREDIT_BUDGET=40
+
+RECOMENDACIÓN DE SEGURIDAD
+- Las keys reales viven SOLO en Vercel.
+- Supabase guarda únicamente alias como API_FOOTBALL_KEY_4 + contadores + estado.
+- Nunca pongas API_FOOTBALL_KEY* ni SUPABASE_SERVICE_ROLE_KEY en config.js, index.html o GitHub.
+- Con 10 cuentas/keys que el proveedor te autorice a usar conjuntamente, 450 por key deja un margen de 50 sobre un límite de 500 declarado por cuenta.
+- DAILY=140 y RUN=70 limitan a 4,200 requests/30 días como techo operativo aunque el pool teórico seguro sea 4,500.
+- Si esas keys NO pueden agruparse según las condiciones de tu proveedor, usa INCA_API_KEY_POOL_MODE=single.
+
+# Opcional: cuántas ligas refrescar de equipos por ejecución (incremental)
+INCA_TEAM_REFRESH_PER_RUN=6
+
+# Recomendado para backend Auth (publishable/anon; NO es service role)
+SUPABASE_PUBLISHABLE_KEY=<tu publishable key de Supabase>
