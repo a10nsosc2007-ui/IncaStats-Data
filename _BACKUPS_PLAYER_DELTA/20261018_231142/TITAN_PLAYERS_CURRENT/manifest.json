@@ -1,0 +1,1073 @@
+{
+  "schema_version": "incastats.player_current_master.v2",
+  "provider": "sofascore",
+  "generated_at": "2026-09-24T17:58:44.173602Z",
+  "scope": "LEAGUE_ONLY_CURRENT_SEASON",
+  "merge_key": [
+    "Event_ID",
+    "Player_ID"
+  ],
+  "sources": [
+    {
+      "file": "INCASTATS_PLAYER_CURRENT_31_GENERAL_2026-08-18T16-56-54-509Z_46235_filas.zip",
+      "rows": 46235,
+      "note": "Extracción general; Liga 1 Perú quedó parcial por interrupción 403."
+    },
+    {
+      "file": "INCASTATS_PLAYER_CURRENT_31_GENERAL_2026-08-18T17-03-36-950Z_14876_filas.zip",
+      "rows": 14876,
+      "note": "Reextracción completa MLS + Liga 1 Perú; reemplaza duplicados de la primera fuente."
+    }
+  ],
+  "merge_policy": "PLAYER_DELTA_UPSERT_REPLACE_SAME_KEY",
+  "counts": {
+    "rows": 113810,
+    "unique_events": 3642,
+    "unique_players": 22349,
+    "competitions": 111
+  },
+  "leagues": [
+    {
+      "competition_id": 7,
+      "season_id": 96518,
+      "league": "UEFA Champions League",
+      "season": "UEFA_Champions_League_26_27",
+      "rows": 377,
+      "unique_events": 12,
+      "unique_players": 214
+    },
+    {
+      "competition_id": 8,
+      "season_id": 97268,
+      "league": "LaLiga",
+      "season": "LaLiga_26_27",
+      "rows": 1808,
+      "unique_events": 57,
+      "unique_players": 456
+    },
+    {
+      "competition_id": 9,
+      "season_id": 96912,
+      "league": "Challenger Pro League",
+      "season": "Challenger_Pro_League_26_27",
+      "rows": 401,
+      "unique_events": 13,
+      "unique_players": 231
+    },
+    {
+      "competition_id": 17,
+      "season_id": 96668,
+      "league": "Premier League",
+      "season": "Premier_League_26_27",
+      "rows": 1236,
+      "unique_events": 40,
+      "unique_players": 406
+    },
+    {
+      "competition_id": 18,
+      "season_id": 97037,
+      "league": "Championship",
+      "season": "26_27",
+      "rows": 2587,
+      "unique_events": 83,
+      "unique_players": 543
+    },
+    {
+      "competition_id": 20,
+      "season_id": 87809,
+      "league": "Eliteserien",
+      "season": "2026",
+      "rows": 4979,
+      "unique_events": 160,
+      "unique_players": 437
+    },
+    {
+      "competition_id": 21,
+      "season_id": 96185,
+      "league": "EFL Cup",
+      "season": "EFL_Cup_26_27",
+      "rows": 637,
+      "unique_events": 20,
+      "unique_players": 637
+    },
+    {
+      "competition_id": 23,
+      "season_id": 95836,
+      "league": "Serie A",
+      "season": "Serie_A_26_27",
+      "rows": 1274,
+      "unique_events": 40,
+      "unique_players": 437
+    },
+    {
+      "competition_id": 24,
+      "season_id": 97077,
+      "league": "League One",
+      "season": "26_27",
+      "rows": 2173,
+      "unique_events": 71,
+      "unique_players": 512
+    },
+    {
+      "competition_id": 25,
+      "season_id": 97078,
+      "league": "League Two",
+      "season": "26_27",
+      "rows": 2192,
+      "unique_events": 72,
+      "unique_players": 513
+    },
+    {
+      "competition_id": 34,
+      "season_id": 96127,
+      "league": "Ligue 1",
+      "season": "Ligue_1_26_27",
+      "rows": 1131,
+      "unique_events": 36,
+      "unique_players": 383
+    },
+    {
+      "competition_id": 35,
+      "season_id": 97464,
+      "league": "Bundesliga",
+      "season": "Bundesliga_26_27",
+      "rows": 854,
+      "unique_events": 27,
+      "unique_players": 357
+    },
+    {
+      "competition_id": 36,
+      "season_id": 96658,
+      "league": "Scottish Premiership",
+      "season": "Premiership_26_27",
+      "rows": 275,
+      "unique_events": 9,
+      "unique_players": 155
+    },
+    {
+      "competition_id": 37,
+      "season_id": 96143,
+      "league": "Eredivisie",
+      "season": "26_27",
+      "rows": 1697,
+      "unique_events": 54,
+      "unique_players": 404
+    },
+    {
+      "competition_id": 38,
+      "season_id": 96616,
+      "league": "Belgian Pro League",
+      "season": "26_27",
+      "rows": 1680,
+      "unique_events": 54,
+      "unique_players": 398
+    },
+    {
+      "competition_id": 39,
+      "season_id": 95785,
+      "league": "Danish Superliga",
+      "season": "26_27",
+      "rows": 1512,
+      "unique_events": 48,
+      "unique_players": 288
+    },
+    {
+      "competition_id": 40,
+      "season_id": 87925,
+      "league": "Allsvenskan",
+      "season": "2026",
+      "rows": 5157,
+      "unique_events": 168,
+      "unique_players": 452
+    },
+    {
+      "competition_id": 41,
+      "season_id": 87930,
+      "league": "Veikkausliiga",
+      "season": "2026",
+      "rows": 92,
+      "unique_events": 3,
+      "unique_players": 69
+    },
+    {
+      "competition_id": 44,
+      "season_id": 97406,
+      "league": "2. Bundesliga",
+      "season": "26_27",
+      "rows": 1408,
+      "unique_events": 45,
+      "unique_players": 380
+    },
+    {
+      "competition_id": 45,
+      "season_id": 97043,
+      "league": "Austrian Bundesliga",
+      "season": "26_27",
+      "rows": 1121,
+      "unique_events": 36,
+      "unique_players": 261
+    },
+    {
+      "competition_id": 46,
+      "season_id": 87924,
+      "league": "Superettan",
+      "season": "2026",
+      "rows": 93,
+      "unique_events": 3,
+      "unique_players": 63
+    },
+    {
+      "competition_id": 47,
+      "season_id": 96186,
+      "league": "Betinia Liga",
+      "season": "1._Division_26_27",
+      "rows": 218,
+      "unique_events": 7,
+      "unique_players": 166
+    },
+    {
+      "competition_id": 52,
+      "season_id": 98080,
+      "league": "Trendyol Süper Lig",
+      "season": "26_27",
+      "rows": 1404,
+      "unique_events": 45,
+      "unique_players": 394
+    },
+    {
+      "competition_id": 53,
+      "season_id": 99067,
+      "league": "Serie B",
+      "season": "Serie_B_26_27",
+      "rows": 1265,
+      "unique_events": 40,
+      "unique_players": 427
+    },
+    {
+      "competition_id": 54,
+      "season_id": 97280,
+      "league": "LaLiga 2",
+      "season": "26_27",
+      "rows": 1752,
+      "unique_events": 55,
+      "unique_players": 504
+    },
+    {
+      "competition_id": 91,
+      "season_id": 97085,
+      "league": "Russian Cup",
+      "season": "Russian_Cup_26_27",
+      "rows": 125,
+      "unique_events": 4,
+      "unique_players": 102
+    },
+    {
+      "competition_id": 98,
+      "season_id": 98149,
+      "league": "1. Lig",
+      "season": "26_27",
+      "rows": 2190,
+      "unique_events": 70,
+      "unique_players": 460
+    },
+    {
+      "competition_id": 131,
+      "season_id": 96187,
+      "league": "Eerste Divisie",
+      "season": "26_27",
+      "rows": 2003,
+      "unique_events": 64,
+      "unique_players": 465
+    },
+    {
+      "competition_id": 135,
+      "season_id": 97202,
+      "league": "2. Liga",
+      "season": "2._Liga_26_27",
+      "rows": 219,
+      "unique_events": 7,
+      "unique_players": 151
+    },
+    {
+      "competition_id": 152,
+      "season_id": 97124,
+      "league": "Liga I",
+      "season": "26_27",
+      "rows": 2196,
+      "unique_events": 71,
+      "unique_players": 384
+    },
+    {
+      "competition_id": 155,
+      "season_id": 87913,
+      "league": "Liga Profesional Argentina",
+      "season": "2026",
+      "rows": 11864,
+      "unique_events": 380,
+      "unique_players": 985
+    },
+    {
+      "competition_id": 170,
+      "season_id": 95727,
+      "league": "HNL",
+      "season": "HNL_26_27",
+      "rows": 223,
+      "unique_events": 7,
+      "unique_players": 161
+    },
+    {
+      "competition_id": 171,
+      "season_id": 99321,
+      "league": "Cyprus League by Stoiximan",
+      "season": "1st_Division_26_27",
+      "rows": 156,
+      "unique_events": 5,
+      "unique_players": 156
+    },
+    {
+      "competition_id": 172,
+      "season_id": 96966,
+      "league": "Czech First League",
+      "season": "1._Liga_26_27",
+      "rows": 190,
+      "unique_events": 6,
+      "unique_players": 123
+    },
+    {
+      "competition_id": 176,
+      "season_id": 98275,
+      "league": "National League North",
+      "season": "National_League_North_26_27",
+      "rows": 147,
+      "unique_events": 5,
+      "unique_players": 93
+    },
+    {
+      "competition_id": 182,
+      "season_id": 96109,
+      "league": "Ligue 2",
+      "season": "26_27",
+      "rows": 1687,
+      "unique_events": 54,
+      "unique_players": 400
+    },
+    {
+      "competition_id": 183,
+      "season_id": 97457,
+      "league": "Ligue 3",
+      "season": "Ligue_3_26_27",
+      "rows": 367,
+      "unique_events": 12,
+      "unique_players": 254
+    },
+    {
+      "competition_id": 185,
+      "season_id": 98659,
+      "league": "Stoiximan Super League",
+      "season": "Super_League_26_27",
+      "rows": 884,
+      "unique_events": 28,
+      "unique_players": 298
+    },
+    {
+      "competition_id": 187,
+      "season_id": 96914,
+      "league": "OTP Bank Liga",
+      "season": "NB_I_26_27",
+      "rows": 242,
+      "unique_events": 8,
+      "unique_players": 138
+    },
+    {
+      "competition_id": 196,
+      "season_id": 96370,
+      "league": "J1 League",
+      "season": "J1_League_26_27",
+      "rows": 663,
+      "unique_events": 21,
+      "unique_players": 320
+    },
+    {
+      "competition_id": 200,
+      "season_id": 97086,
+      "league": "NIFL Premiership",
+      "season": "Premiership_26_27",
+      "rows": 92,
+      "unique_events": 3,
+      "unique_players": 65
+    },
+    {
+      "competition_id": 202,
+      "season_id": 96144,
+      "league": "Ekstraklasa",
+      "season": "Ekstraklasa_26_27",
+      "rows": 563,
+      "unique_events": 18,
+      "unique_players": 311
+    },
+    {
+      "competition_id": 203,
+      "season_id": 97023,
+      "league": "Russian Premier League",
+      "season": "Premier_League_26_27",
+      "rows": 154,
+      "unique_events": 5,
+      "unique_players": 100
+    },
+    {
+      "competition_id": 210,
+      "season_id": 96249,
+      "league": "Mozzart Bet Superliga",
+      "season": "Superliga_26_27",
+      "rows": 219,
+      "unique_events": 7,
+      "unique_players": 111
+    },
+    {
+      "competition_id": 211,
+      "season_id": 96151,
+      "league": "Niké Liga",
+      "season": "Superliga_26_27",
+      "rows": 91,
+      "unique_events": 3,
+      "unique_players": 67
+    },
+    {
+      "competition_id": 212,
+      "season_id": 96864,
+      "league": "PrvaLiga",
+      "season": "PrvaLiga_26_27",
+      "rows": 89,
+      "unique_events": 3,
+      "unique_players": 60
+    },
+    {
+      "competition_id": 215,
+      "season_id": 96589,
+      "league": "Swiss Super League",
+      "season": "26_27",
+      "rows": 1510,
+      "unique_events": 48,
+      "unique_players": 288
+    },
+    {
+      "competition_id": 216,
+      "season_id": 96585,
+      "league": "Challenge League",
+      "season": "Challenge_League_26_27",
+      "rows": 154,
+      "unique_events": 5,
+      "unique_players": 87
+    },
+    {
+      "competition_id": 217,
+      "season_id": 95860,
+      "league": "DFB Pokal",
+      "season": "DFB_Pokal_26_27",
+      "rows": 1014,
+      "unique_events": 32,
+      "unique_players": 1014
+    },
+    {
+      "competition_id": 218,
+      "season_id": 97214,
+      "league": "Ukrainian Premier League",
+      "season": "Premier_League_26_27",
+      "rows": 64,
+      "unique_events": 2,
+      "unique_players": 53
+    },
+    {
+      "competition_id": 222,
+      "season_id": 97761,
+      "league": "WWIN Liga BiH",
+      "season": "Premijer_Liga_26_27",
+      "rows": 125,
+      "unique_events": 4,
+      "unique_players": 83
+    },
+    {
+      "competition_id": 229,
+      "season_id": 96773,
+      "league": "Betclic 1. Liga",
+      "season": "1._Liga_26_27",
+      "rows": 62,
+      "unique_events": 2,
+      "unique_players": 48
+    },
+    {
+      "competition_id": 238,
+      "season_id": 97436,
+      "league": "Liga Portugal",
+      "season": "26_27",
+      "rows": 1680,
+      "unique_events": 53,
+      "unique_players": 417
+    },
+    {
+      "competition_id": 239,
+      "season_id": 97470,
+      "league": "Liga Portugal 2",
+      "season": "26_27",
+      "rows": 1675,
+      "unique_events": 53,
+      "unique_players": 421
+    },
+    {
+      "competition_id": 240,
+      "season_id": 89674,
+      "league": "LigaPro Serie A",
+      "season": "2026",
+      "rows": 216,
+      "unique_events": 7,
+      "unique_players": 154
+    },
+    {
+      "competition_id": 242,
+      "season_id": 86668,
+      "league": "MLS",
+      "season": "2026",
+      "rows": 11470,
+      "unique_events": 372,
+      "unique_players": 827
+    },
+    {
+      "competition_id": 266,
+      "season_id": 96740,
+      "league": "Israeli Premier League",
+      "season": "Premier_League_26_27",
+      "rows": 192,
+      "unique_events": 6,
+      "unique_players": 124
+    },
+    {
+      "competition_id": 278,
+      "season_id": 89288,
+      "league": "Liga AUF Uruguaya",
+      "season": "2026",
+      "rows": 279,
+      "unique_events": 9,
+      "unique_players": 190
+    },
+    {
+      "competition_id": 307,
+      "season_id": 98977,
+      "league": "Hrvatski nogometni kup",
+      "season": "Croatian_Cup_26_27",
+      "rows": 31,
+      "unique_events": 1,
+      "unique_players": 31
+    },
+    {
+      "competition_id": 325,
+      "season_id": 87678,
+      "league": "Brasileirão Série A",
+      "season": "2026",
+      "rows": 8408,
+      "unique_events": 266,
+      "unique_players": 701
+    },
+    {
+      "competition_id": 328,
+      "season_id": 97028,
+      "league": "Coppa Italia",
+      "season": "Coppa_Italia_26_27",
+      "rows": 573,
+      "unique_events": 18,
+      "unique_players": 491
+    },
+    {
+      "competition_id": 334,
+      "season_id": 100688,
+      "league": "Football League Trophy",
+      "season": "EFL_Trophy_26_27",
+      "rows": 156,
+      "unique_events": 5,
+      "unique_players": 156
+    },
+    {
+      "competition_id": 339,
+      "season_id": 95812,
+      "league": "Trophée des Champions",
+      "season": "2026",
+      "rows": 32,
+      "unique_events": 1,
+      "unique_players": 32
+    },
+    {
+      "competition_id": 346,
+      "season_id": 95402,
+      "league": "Community Shield",
+      "season": "2026",
+      "rows": 34,
+      "unique_events": 1,
+      "unique_players": 34
+    },
+    {
+      "competition_id": 373,
+      "season_id": 89353,
+      "league": "Copa Betano do Brasil",
+      "season": "2026",
+      "rows": 256,
+      "unique_events": 8,
+      "unique_players": 152
+    },
+    {
+      "competition_id": 384,
+      "season_id": 87760,
+      "league": "CONMEBOL Libertadores",
+      "season": "2026",
+      "rows": 277,
+      "unique_events": 9,
+      "unique_players": 249
+    },
+    {
+      "competition_id": 390,
+      "season_id": 89840,
+      "league": "Brasileirão Série B",
+      "season": "2026",
+      "rows": 8927,
+      "unique_events": 280,
+      "unique_players": 721
+    },
+    {
+      "competition_id": 406,
+      "season_id": 88529,
+      "league": "Liga 1 Perú",
+      "season": "2026",
+      "rows": 7226,
+      "unique_events": 233,
+      "unique_players": 496
+    },
+    {
+      "competition_id": 480,
+      "season_id": 87770,
+      "league": "CONMEBOL Sudamericana",
+      "season": "2026",
+      "rows": 218,
+      "unique_events": 7,
+      "unique_players": 218
+    },
+    {
+      "competition_id": 491,
+      "season_id": 98012,
+      "league": "3. Liga",
+      "season": "3._Liga_26_27",
+      "rows": 316,
+      "unique_events": 10,
+      "unique_players": 211
+    },
+    {
+      "competition_id": 562,
+      "season_id": 99070,
+      "league": "Liga 2 Casa Pariurilor",
+      "season": "Liga_2_26_27",
+      "rows": 95,
+      "unique_events": 3,
+      "unique_players": 68
+    },
+    {
+      "competition_id": 671,
+      "season_id": 97573,
+      "league": "Armenian Premier League",
+      "season": "Premier_League_26_27",
+      "rows": 94,
+      "unique_events": 3,
+      "unique_players": 68
+    },
+    {
+      "competition_id": 682,
+      "season_id": 90730,
+      "league": "Kazakhstan Premier League",
+      "season": "2026",
+      "rows": 62,
+      "unique_events": 2,
+      "unique_players": 50
+    },
+    {
+      "competition_id": 709,
+      "season_id": 98718,
+      "league": "Misli Premier League",
+      "season": "Premier_League_26_27",
+      "rows": 62,
+      "unique_events": 2,
+      "unique_players": 49
+    },
+    {
+      "competition_id": 724,
+      "season_id": 96968,
+      "league": "1. NL",
+      "season": "Prva_NL_26_27",
+      "rows": 93,
+      "unique_events": 3,
+      "unique_players": 65
+    },
+    {
+      "competition_id": 799,
+      "season_id": 95403,
+      "league": "Franz Beckenbauer Supercup",
+      "season": "2026",
+      "rows": 30,
+      "unique_events": 1,
+      "unique_players": 30
+    },
+    {
+      "competition_id": 808,
+      "season_id": 100148,
+      "league": "Egyptian Premier League",
+      "season": "Premier_League_26_27",
+      "rows": 95,
+      "unique_events": 3,
+      "unique_players": 68
+    },
+    {
+      "competition_id": 824,
+      "season_id": 99790,
+      "league": "Coppa Italia Serie C",
+      "season": "Coppa_Italia_Serie_C_26_27",
+      "rows": 314,
+      "unique_events": 10,
+      "unique_players": 303
+    },
+    {
+      "competition_id": 825,
+      "season_id": 98742,
+      "league": "Stars League",
+      "season": "Stars_League_26_27",
+      "rows": 117,
+      "unique_events": 4,
+      "unique_players": 92
+    },
+    {
+      "competition_id": 955,
+      "season_id": 99275,
+      "league": "Saudi Pro League",
+      "season": "Saudi_Pro_League_26_27",
+      "rows": 374,
+      "unique_events": 12,
+      "unique_players": 211
+    },
+    {
+      "competition_id": 971,
+      "season_id": 97523,
+      "league": "UAE Pro League",
+      "season": "Arabian_Gulf_League_26_27",
+      "rows": 188,
+      "unique_events": 6,
+      "unique_players": 133
+    },
+    {
+      "competition_id": 1024,
+      "season_id": 88177,
+      "league": "Copa Argentina",
+      "season": "2026",
+      "rows": 126,
+      "unique_events": 4,
+      "unique_players": 126
+    },
+    {
+      "competition_id": 1240,
+      "season_id": 89007,
+      "league": "Liga de Ascenso",
+      "season": "2026",
+      "rows": 92,
+      "unique_events": 3,
+      "unique_players": 67
+    },
+    {
+      "competition_id": 1281,
+      "season_id": 90642,
+      "league": "Brasileirão Série C",
+      "season": "2026",
+      "rows": 155,
+      "unique_events": 5,
+      "unique_players": 112
+    },
+    {
+      "competition_id": 1786,
+      "season_id": 97074,
+      "league": "Australia Cup",
+      "season": "2026",
+      "rows": 30,
+      "unique_events": 1,
+      "unique_players": 30
+    },
+    {
+      "competition_id": 2058,
+      "season_id": 95444,
+      "league": "King's Cup",
+      "season": "Kings_Cup_26_27",
+      "rows": 125,
+      "unique_events": 4,
+      "unique_players": 125
+    },
+    {
+      "competition_id": 2120,
+      "season_id": 99452,
+      "league": "First Division League",
+      "season": "Division_1_26_27",
+      "rows": 79,
+      "unique_events": 3,
+      "unique_players": 56
+    },
+    {
+      "competition_id": 2292,
+      "season_id": 97201,
+      "league": "Campionato Primavera 1",
+      "season": "Primavera_1_26_27",
+      "rows": 599,
+      "unique_events": 19,
+      "unique_players": 364
+    },
+    {
+      "competition_id": 9230,
+      "season_id": 88838,
+      "league": "Canadian Championship",
+      "season": "2026",
+      "rows": 65,
+      "unique_events": 2,
+      "unique_players": 37
+    },
+    {
+      "competition_id": 9233,
+      "season_id": 89720,
+      "league": "U20 Campeonato Brasileiro",
+      "season": "2026",
+      "rows": 32,
+      "unique_events": 1,
+      "unique_players": 32
+    },
+    {
+      "competition_id": 10308,
+      "season_id": 94711,
+      "league": "U20 Paulista",
+      "season": "2026",
+      "rows": 140,
+      "unique_events": 4,
+      "unique_players": 127
+    },
+    {
+      "competition_id": 11445,
+      "season_id": 99662,
+      "league": "Serie C, Girone A",
+      "season": "Serie_C,_Group_A_26_27",
+      "rows": 122,
+      "unique_events": 4,
+      "unique_players": 97
+    },
+    {
+      "competition_id": 11446,
+      "season_id": 99663,
+      "league": "Serie C, Girone C",
+      "season": "Serie_C,_Group_C_26_27",
+      "rows": 219,
+      "unique_events": 7,
+      "unique_players": 167
+    },
+    {
+      "competition_id": 11447,
+      "season_id": 99668,
+      "league": "Serie C, Girone B",
+      "season": "Serie_C,_Group_B_26_27",
+      "rows": 497,
+      "unique_events": 16,
+      "unique_players": 328
+    },
+    {
+      "competition_id": 11539,
+      "season_id": 88503,
+      "league": "Primera A",
+      "season": "2026",
+      "rows": 157,
+      "unique_events": 5,
+      "unique_players": 102
+    },
+    {
+      "competition_id": 11541,
+      "season_id": 87613,
+      "league": "Primera División",
+      "season": "2026",
+      "rows": 350,
+      "unique_events": 11,
+      "unique_players": 211
+    },
+    {
+      "competition_id": 11611,
+      "season_id": 97948,
+      "league": "Liga de Expansión MX, Apertura",
+      "season": "Liga_de_Expansion_MX_26_27",
+      "rows": 64,
+      "unique_events": 2,
+      "unique_players": 51
+    },
+    {
+      "competition_id": 11617,
+      "season_id": 89299,
+      "league": "Ettan",
+      "season": "2026",
+      "rows": 96,
+      "unique_events": 3,
+      "unique_players": 65
+    },
+    {
+      "competition_id": 11653,
+      "season_id": 88493,
+      "league": "Liga de Primera",
+      "season": "2026",
+      "rows": 92,
+      "unique_events": 3,
+      "unique_players": 64
+    },
+    {
+      "competition_id": 13783,
+      "season_id": 91033,
+      "league": "Leagues Cup",
+      "season": "2026",
+      "rows": 63,
+      "unique_events": 2,
+      "unique_players": 63
+    },
+    {
+      "competition_id": 14627,
+      "season_id": 100868,
+      "league": "Qatar Cup",
+      "season": "2026",
+      "rows": 28,
+      "unique_events": 1,
+      "unique_players": 28
+    },
+    {
+      "competition_id": 15946,
+      "season_id": 99991,
+      "league": "NCAA",
+      "season": "2026",
+      "rows": 105,
+      "unique_events": 3,
+      "unique_players": 73
+    },
+    {
+      "competition_id": 16736,
+      "season_id": 92509,
+      "league": "División Profesional",
+      "season": "2026",
+      "rows": 96,
+      "unique_events": 3,
+      "unique_players": 67
+    },
+    {
+      "competition_id": 17015,
+      "season_id": 96529,
+      "league": "UEFA Conference League",
+      "season": "UEFA_Conference_League_26_27",
+      "rows": 1035,
+      "unique_events": 33,
+      "unique_players": 657
+    },
+    {
+      "competition_id": 17073,
+      "season_id": 97382,
+      "league": "Primera Federación",
+      "season": "Primera_Federacion_26_27",
+      "rows": 249,
+      "unique_events": 8,
+      "unique_players": 249
+    },
+    {
+      "competition_id": 17101,
+      "season_id": 98660,
+      "league": "Liga 3",
+      "season": "Liga_Portugal_3_26_27",
+      "rows": 62,
+      "unique_events": 2,
+      "unique_players": 50
+    },
+    {
+      "competition_id": 18641,
+      "season_id": 89065,
+      "league": "MLS Next Pro",
+      "season": "2026",
+      "rows": 719,
+      "unique_events": 23,
+      "unique_players": 318
+    },
+    {
+      "competition_id": 19891,
+      "season_id": 100356,
+      "league": "Copa Bolivia",
+      "season": "2026",
+      "rows": 64,
+      "unique_events": 2,
+      "unique_players": 57
+    },
+    {
+      "competition_id": 22794,
+      "season_id": 93853,
+      "league": "U17 Campeonato Brasileiro",
+      "season": "2026",
+      "rows": 192,
+      "unique_events": 6,
+      "unique_players": 147
+    },
+    {
+      "competition_id": 24849,
+      "season_id": 88003,
+      "league": "U20 Copa do Nordeste",
+      "season": "2026",
+      "rows": 31,
+      "unique_events": 1,
+      "unique_players": 31
+    },
+    {
+      "competition_id": 26771,
+      "season_id": 95985,
+      "league": "Bayerischer Totopokal",
+      "season": "Bayerischer_Totopokal_26_27",
+      "rows": 20,
+      "unique_events": 1,
+      "unique_players": 20
+    }
+  ],
+  "files": {
+    "extended": "MASTER/PLAYER_MATCH_STATS_CURRENT_EXTENDED.csv",
+    "legacy": "MASTER/PLAYER_MATCH_STATS_CURRENT_MASTER.csv",
+    "by_league": "BY_LEAGUE/"
+  },
+  "last_delta_manifest": {
+    "schema_version": "incastats.player_delta.v3",
+    "extractor_version": "3.0.0_PLAYERLIST_7395_DELTA_15D_SAFE",
+    "provider": "sofascore",
+    "created_at": "2026-09-04T07:20:27.445Z",
+    "architecture": "PLAYER_LIST_INPUT_EVENT_CENTRIC_15D_DUAL_CHECKPOINT",
+    "window": {
+      "requested_from": "2026-08-18T06:29:00.000Z",
+      "effective_from": "2026-08-15T06:29:00.000Z",
+      "requested_to": "2026-09-04T06:29:00.000Z",
+      "overlap_hours": 72
+    },
+    "counts": {
+      "selected_players": 7395,
+      "derived_search_clubs": 823,
+      "discovered_events": 1660,
+      "player_rows": 40209,
+      "unique_players": 19606,
+      "selected_players_with_rows": 5535,
+      "requests": 717,
+      "reused_search_blocks": 823,
+      "reused_events": 1204,
+      "audit_rows": 374
+    },
+    "merge_key": [
+      "Event_ID",
+      "ID_Jugador"
+    ],
+    "current_merge_key": [
+      "Event_ID",
+      "Player_ID"
+    ],
+    "operation": "UPSERT_REPLACE_SAME_KEY",
+    "targets": [
+      "TITAN_PLAYERS_MASTER_2025_PLUS",
+      "TITAN_PLAYERS_CURRENT"
+    ]
+  }
+}
