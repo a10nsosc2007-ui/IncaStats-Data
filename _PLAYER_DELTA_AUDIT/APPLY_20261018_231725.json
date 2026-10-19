@@ -1,0 +1,15 @@
+{
+  "applied_at": "2026-10-19T04:17:25.547641Z",
+  "delta_zip": "INCASTATS_PLAYER_DELTA_15D_PLAYERLIST_SAFE_V3_2026-10-19T02-31-00-000Z_103112_rows.zip",
+  "delta_sha256": "ca3cc0844dd49eecf9ce1a0502a846f9a00b1d0440384a80451a6149f3474ed3",
+  "delta_rows_master": 103112,
+  "delta_rows_current": 103112,
+  "affected_players": 29775,
+  "master_inserted": 0,
+  "master_replaced": 103112,
+  "current_inserted": 68337,
+  "current_replaced": 34775,
+  "master_rows_after": 444649,
+  "current_rows_after": 182147,
+  "backup": "C:\\Users\\MSI CYBORG\\OneDrive\\Documentos\\GitHub\\IncaStats-Data\\_BACKUPS_PLAYER_DELTA\\20261018_231642"
+}

@@ -1,8 +1,8 @@
 {
-  "schema_version": "incastats.player_current_master.v2",
+  "schema_version": "incastats.player_current_master.v3",
   "provider": "sofascore",
-  "generated_at": "2026-09-24T17:58:44.173602Z",
-  "scope": "LEAGUE_ONLY_CURRENT_SEASON",
+  "generated_at": "2026-10-19T04:17:25.547105Z",
+  "scope": "CURRENT_OVERLAY_ALL_OFFICIAL_DELTA",
   "merge_key": [
     "Event_ID",
     "Player_ID"
@@ -21,10 +21,10 @@
   ],
   "merge_policy": "PLAYER_DELTA_UPSERT_REPLACE_SAME_KEY",
   "counts": {
-    "rows": 113810,
-    "unique_events": 3642,
-    "unique_players": 22349,
-    "competitions": 111
+    "rows": 182147,
+    "unique_events": 5828,
+    "unique_players": 33124,
+    "competitions": 152
   },
   "leagues": [
     {
@@ -1034,27 +1034,27 @@
   },
   "last_delta_manifest": {
     "schema_version": "incastats.player_delta.v3",
-    "extractor_version": "3.0.0_PLAYERLIST_7395_DELTA_15D_SAFE",
+    "extractor_version": "5.0.0_PLAYERLIST_7395_DELTA_15D_TURBO_FULL",
     "provider": "sofascore",
-    "created_at": "2026-09-04T07:20:27.445Z",
-    "architecture": "PLAYER_LIST_INPUT_EVENT_CENTRIC_15D_DUAL_CHECKPOINT",
+    "created_at": "2026-10-19T04:06:58.308Z",
+    "architecture": "PLAYER_LIST_INPUT_EVENT_CENTRIC_15D_DUAL_CHECKPOINT_TURBO",
     "window": {
-      "requested_from": "2026-08-18T06:29:00.000Z",
-      "effective_from": "2026-08-15T06:29:00.000Z",
-      "requested_to": "2026-09-04T06:29:00.000Z",
+      "requested_from": "2026-08-30T06:29:00.000Z",
+      "effective_from": "2026-08-27T06:29:00.000Z",
+      "requested_to": "2026-10-19T02:31:00.000Z",
       "overlap_hours": 72
     },
     "counts": {
       "selected_players": 7395,
       "derived_search_clubs": 823,
-      "discovered_events": 1660,
-      "player_rows": 40209,
-      "unique_players": 19606,
-      "selected_players_with_rows": 5535,
-      "requests": 717,
+      "discovered_events": 4132,
+      "player_rows": 103112,
+      "unique_players": 29775,
+      "selected_players_with_rows": 6356,
+      "requests": 6772,
       "reused_search_blocks": 823,
-      "reused_events": 1204,
-      "audit_rows": 374
+      "reused_events": 389,
+      "audit_rows": 834
     },
     "merge_key": [
       "Event_ID",
