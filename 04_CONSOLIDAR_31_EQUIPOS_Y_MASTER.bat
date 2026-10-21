@@ -1,0 +1,337 @@
+@echo off & title INCASTATS - CONSOLIDADOR INTEGRAL V1 & py -3 -x "%~f0" & echo. & pause & exit /b
+# -*- coding: utf-8 -*-
+"""
+INCASTATS CONSOLIDADOR V1.
+A) verifies MASTER catalogs (782 teams / 8260 players, but never assumes counts)
+B) detects compatible per-team CSV stats under MASTER/EQUIPOS/STATS
+C) merges by Event_ID,Team_ID,Tiempo with nonblank UPSERT
+D) MOVE for truly new team CSV, not copy
+E) updates native TITAN teams.json only when the new team's CSV exists/valid
+F) creates lightweight CONTROL/INVENTARIO_INTEGRACION.json
+G) optional clean of harmless cache ONLY; large backups explicitly retained
+No external libraries, no API requests, no recursive exports.
+"""
+from __future__ import annotations
+import csv
+import datetime as dt
+import hashlib
+import io
+import json
+import os
+import re
+import shutil
+import sys
+from collections import Counter
+from pathlib import Path
+
+ROOT=Path(__file__).resolve().parent
+MASTER=ROOT/"INCA_BASE_MAESTRA"
+TEAMS=MASTER/"BASE_EQUIPOS_MASTER.json"
+PLAYERS=MASTER/"BASE_JUGADORES_MASTER.json"
+TITAN=ROOT/"TITAN_ALONSINHO_V1_GITHUB_READY"
+T_MAN=TITAN/"manifest"/"teams.json"
+NATIVE=TITAN/"data"/"teams_csv"
+LOGDIR=MASTER/"LOGOS"/"WEBP"
+CONTROL=MASTER/"CONTROL"
+STATS=MASTER/"EQUIPOS"/"STATS"
+KEY=("Event_ID","Team_ID","Tiempo")
+MAX_CSV=150*1024*1024
+NOW=dt.datetime.now(dt.timezone.utc).isoformat()
+
+def load(path):
+    with path.open("r",encoding="utf-8-sig") as f:return json.load(f)
+
+def atomic_bytes(path,blob):
+    """Atomic replacement, a temp file ONLY as big as changed target."""
+    tmp=path.with_name(path.name+".inca_work")
+    if tmp.exists():raise RuntimeError("Hay un .inca_work pendiente, revisalo: "+str(tmp))
+    with tmp.open("xb") as f:
+        f.write(blob);f.flush();os.fsync(f.fileno())
+    os.replace(tmp,path)
+
+def json_write_if_changed(path,data):
+    b=(json.dumps(data,ensure_ascii=False,indent=2)+"\n").encode("utf-8")
+    if path.is_file() and path.read_bytes()==b:return False
+    atomic_bytes(path,b)
+    return True
+
+def ids(records,field,title):
+    result={}
+    if not isinstance(records,list):raise ValueError(title+" debe ser una lista")
+    for row in records:
+        if not isinstance(row,dict) or not str(row.get(field,"")).strip():raise ValueError(title+" tiene un ID invalido")
+        idv=str(row[field]).strip()
+        if idv in result:raise ValueError(title+" contiene ID duplicado "+idv)
+        result[idv]=row
+    return result
+
+def read_cat():
+    for p in (TEAMS,PLAYERS,T_MAN):
+        if not p.is_file():raise RuntimeError("Falta archivo CRITICO: "+str(p))
+    t=load(TEAMS);p=load(PLAYERS);old=load(T_MAN)
+    if t.get("schema")!="incastats.master.teams.v1":raise ValueError("Schema de equipos desconocido")
+    if p.get("schema")!="incastats.master.players.v1":raise ValueError("Schema de jugadores desconocido")
+    if old.get("schema")!="titan.teams.v1":raise ValueError("Schema TITAN desconocido")
+    teams=ids(t.get("teams"),"team_id","Equipos MASTER")
+    players=ids(p.get("players"),"id","Jugadores MASTER")
+    native=ids(old.get("teams"),"team_id","Equipos TITAN")
+    if t.get("count")!=len(teams) or p.get("count")!=len(players) or old.get("count")!=len(native):
+        raise ValueError("count != cantidad de IDs, se bloquea operacion")
+    missing=[i for i in native if i not in teams]
+    if missing:raise ValueError("MASTER no contiene IDs TITAN existentes: "+",".join(missing[:10]))
+    return t,p,old,teams,players,native
+
+def collect_sources():
+    """Only scan known stats source folders; NEVER recrawl entire repo."""
+    folders=[STATS,MASTER/"EQUIPOS"/"ESTADISTICAS",MASTER/"EQUIPOS"/"HISTORICOS"]
+    by_id={}
+    ignored=[]
+    for folder in folders:
+        if not folder.is_dir():continue
+        for p in folder.rglob("*.csv"):
+            if p.is_symlink():continue
+            # Only filenames ID_anything.csv, ID.csv; no heuristics on names.
+            mat=re.match(r"^([0-9]+)(?:[_\-.].*)?\.csv$",p.name,re.I)
+            if not mat:
+                ignored.append(str(p.relative_to(ROOT)));continue
+            tid=str(int(mat.group(1)))
+            by_id.setdefault(tid,[]).append(p)
+    return by_id,ignored
+
+def rows_csv(path):
+    if path.stat().st_size>MAX_CSV:
+        raise ValueError("CSV muy grande, se omite: "+str(path))
+    with path.open("r",encoding="utf-8-sig",newline="") as f:
+        rd=csv.DictReader(f)
+        fields=list(rd.fieldnames or [])
+        if not fields or not all(k in fields for k in KEY):
+            raise ValueError("Columnas incompatibles Event_ID/Team_ID/Tiempo: "+str(path))
+        rows=list(rd)
+    if not rows:raise ValueError("CSV sin filas: "+str(path))
+    keys=set()
+    for j,r in enumerate(rows,2):
+        key=tuple(str(r.get(k,"")).strip() for k in KEY)
+        if not all(key):raise ValueError("Fila sin clave "+str(path)+" :"+str(j))
+        if key in keys:raise ValueError("Claves repetidas "+str(path)+" :"+str(key))
+        keys.add(key)
+        if r["Tiempo"].strip().upper() not in ("ALL","1ST","2ND"):
+            raise ValueError("Tiempo fuera de TITAN "+str(path))
+    return fields,rows
+
+def validate_source(p,tid):
+    fields,rows=rows_csv(p)
+    wrong={str(r["Team_ID"]).strip() for r in rows if str(r["Team_ID"]).strip()!=tid}
+    if wrong:raise ValueError("CSV "+str(p)+" mezcla Team_ID diferente: "+str(wrong)[:150])
+    # Require one ALL/1ST/2ND per event; incomplete isolated rows are rejected.
+    event={}
+    for r in rows:event.setdefault(r["Event_ID"].strip(),set()).add(r["Tiempo"].strip().upper())
+    missing=sum(v!={"ALL","1ST","2ND"} for v in event.values())
+    if missing:raise ValueError(str(p)+" contiene "+str(missing)+" eventos sin ALL/1ST/2ND")
+    return fields,rows,len(event)
+
+def dest_name(rec,tid):
+    # ASCII safe only, avoid Windows reserved path; basename ID guaranteed.
+    text=str(rec.get("name") or "Equipo").strip()
+    try:
+        import unicodedata
+        text=unicodedata.normalize("NFKD",text).encode("ascii","ignore").decode("ascii")
+    except Exception:pass
+    text=re.sub(r"[^A-Za-z0-9._-]+","_",text).strip("._")[:75] or "Equipo"
+    return tid+"_"+text+".csv"
+
+def merge_native(dest,source,tid,execute=False):
+    """Full historical union, validated before touching original file."""
+    sf,sr,sev=validate_source(source,tid)
+    df,dr=rows_csv(dest)
+    wrong={r.get("Team_ID") for r in dr if str(r.get("Team_ID","")).strip()!=tid}
+    if wrong:raise ValueError("Destino contiene Team_ID ajeno: "+str(dest))
+    old={tuple(str(r.get(k,"")).strip() for k in KEY):r for r in dr}
+    fields=list(df)
+    for f in sf:
+        if f not in fields:fields.append(f)
+    inserted=0;updated=0;final=list(dr)
+    indexes={tuple(str(r.get(k,"")).strip() for k in KEY):j for j,r in enumerate(final)}
+    for r in sr:
+        k=tuple(str(r.get(a,"")).strip() for a in KEY)
+        if k in indexes:
+            j=indexes[k];u=dict(final[j]);change=False
+            for f in fields:
+                nv=r.get(f,"")
+                if nv is not None and str(nv).strip()!="" and nv!=u.get(f,""):
+                    u[f]=nv;change=True
+            if change:final[j]=u;updated+=1
+        else:
+            final.append(dict(r));indexes[k]=len(final)-1;inserted+=1
+    if not set(old).issubset(indexes):raise RuntimeError("Registros anteriores perdidos")
+    if execute and (inserted or updated):
+        raw=dest.read_bytes()
+        newline="\r\n" if b"\r\n" in raw else "\n"
+        out=io.StringIO(newline="")
+        writer=csv.DictWriter(out,fieldnames=fields,extrasaction="ignore",lineterminator=newline)
+        writer.writeheader()
+        for r in final:writer.writerow(r)
+        blob=out.getvalue().encode("utf-8-sig" if raw.startswith(b"\xef\xbb\xbf") else "utf-8")
+        if not raw.endswith((b"\n",b"\r")):
+            if blob.endswith(newline.encode()):blob=blob[:-len(newline)]
+        atomic_bytes(dest,blob)
+        _,check=rows_csv(dest)
+        after={tuple(str(r.get(k,"")).strip() for k in KEY) for r in check}
+        if not set(old).issubset(after):raise RuntimeError("Fallo verificacion POST-ESCRITURA")
+    return {"nuevos_registros":inserted,"actualizados":updated,"historial_previo":len(dr),"salida":len(final),"eventos_entrada":sev}
+
+def webp_candidates(tid):
+    dirs=[LOGDIR,MASTER/"LOGOS"/"WebP",MASTER/"EQUIPOS"/"LOGOS_WEBP"]
+    for d in dirs:
+        if not d.exists():continue
+        for p in sorted(d.glob(tid+"*.webp")):
+            if p.is_file() and p.stat().st_size>0 and p.name.lower().startswith(tid):
+                yield p
+
+def one_plan(teams,native,by_id):
+    base_ids=set(native)
+    additions=[k for k in teams if k not in base_ids]
+    names_in_titan={k: v.get("file") for k,v in native.items()}
+    inventory=[]
+    for tid in additions:
+        sources=by_id.get(tid,[])
+        tgt=dest_name(teams[tid],tid)
+        entry={"team_id":tid,"name":teams[tid].get("name",""),"fuentes_csv":[str(x.relative_to(ROOT)) for x in sources],
+               "native_dest":"TITAN_ALONSINHO_V1_GITHUB_READY/data/teams_csv/"+tgt,
+               "webp":next((str(p.relative_to(ROOT)) for p in webp_candidates(tid)),""),
+               "status":"PENDIENTE"}
+        if not sources:entry["status"]="SIN_CSV_DE_ESTADISTICAS"
+        elif len(sources)>1:entry["status"]="VARIOS_CSV_REQUIERE_REVISION"
+        else:
+            try:
+                _,_,n=validate_source(sources[0],tid)
+                target=NATIVE/tgt
+                if target.exists():
+                    entry["status"]="DESTINO_YA_EXISTE_REVISAR"
+                else:
+                    entry["status"]="LISTO_PARA_MOVER";entry["eventos"]=n
+            except (ValueError,OSError) as e:entry["status"]="FORMATO_CSV_INCOMPATIBLE";entry["error"]=str(e)
+        inventory.append(entry)
+    return additions,inventory
+
+def print_overview(teams,players,native,sources,unknown,inventory):
+    print("\n"+"="*72)
+    print(" INCASTATS — DIAGNOSTICO REAL DEL REPOSITORIO LOCAL")
+    print("="*72)
+    print("  Equipos TITAN existentes:",len(native))
+    print("  Equipos catalogo MASTER:",len(teams))
+    print("  IDs nuevos en catalogo:",len(teams.keys()-native.keys()))
+    print("  Jugadores catalogo MASTER:",len(players))
+    print("  CSV localizados en EQUIPOS/STATS:",sum(len(v) for v in sources.values()))
+    print("  CSV sin ID de equipo en nombre:",len(unknown))
+    counts=Counter(r["status"] for r in inventory)
+    for s,n in counts.items():print("  ",s+":",n)
+    print("  ¡OJO! Catalogar equipos NO prueba que sus estadisticas existan.")
+    print("  Los 751 CSV antiguos NO se mueven ni se duplican.")
+
+def apply(teams,native,old_manifest,source_map,inventory):
+    if input("\n Para integrar SOLO archivos CSV compatibles escribe FUSIONAR: ").strip()!="FUSIONAR":
+        print(" Cancelado sin cambios.");return
+    moved=updated=skipped=0
+    report=[]
+    for item in inventory:
+        if item["status"]!="LISTO_PARA_MOVER":
+            skipped+=1;continue
+        tid=item["team_id"]
+        src=source_map[tid][0]
+        dest=ROOT/item["native_dest"]
+        try:
+            if not NATIVE.exists() or not src.exists() or dest.exists():
+                raise RuntimeError("Ruta no disponible / colision")
+            if src.stat().st_dev!=NATIVE.stat().st_dev:
+                raise RuntimeError("Volumen distinto; no se puede mover sin copiar")
+            _,rows,n=validate_source(src,tid)
+            src.rename(dest) # Windows same-volume atomic move, no data duplication
+            if src.exists() or not dest.is_file() or len(rows)!=len(rows_csv(dest)[1]):
+                raise RuntimeError("Comprobacion posterior al MOVE fallida")
+            rec=teams[tid]
+            native[tid]={
+                "team_id":int(tid),"name":rec.get("name") or tid,
+                "country":rec.get("country") or "",
+                "region":rec.get("region") or "",
+                "source_batch":"INCA_BASE_MAESTRA_EXPANSION",
+                "file":"data/teams_csv/"+dest.name,
+                "valid_matches":n,
+                "incomplete_matches":0,
+            }
+            item["status"]="MOVIDO_E_INTEGRADO"
+            moved+=1
+        except Exception as exc:
+            item["status"]="ERROR_SIN_CONFIRMAR"
+            item["error"]=str(exc)
+            skipped+=1
+        report.append(item)
+    if moved:
+        old_manifest["teams"]=list(native.values())
+        old_manifest["count"]=len(native)
+        json_write_if_changed(T_MAN,old_manifest)
+    print("\n [RESULTADO] Nuevos CSV trasladados:",moved)
+    print(" Nuevos registros en manifest TITAN:",moved)
+    print(" Pendientes / sin stats validas:",skipped)
+    print(" No se han borrado historicos ni movido los TITAN originales.")
+    return moved
+
+def cleanup():
+    print("\n LIMPIEZA SEGURA: SOLO CACHE PYTHON, NUNCA RESPALDOS NI STATS")
+    dirs=[ROOT/"__pycache__",ROOT/"INCA_BASE_MAESTRA"/"__pycache__"]
+    targets=[p for p in dirs if p.is_dir() and not p.is_symlink()]
+    for p in targets:print("  Eliminable:",p)
+    for p in (MASTER/"EXPORTACIONES",MASTER/"RESPALDOS",ROOT/"_BACKUPS_PLAYER_DELTA"):
+        if p.exists():
+            print("  CONSERVAR por seguridad:",p)
+    if not targets:print(" No hay cache temporal que eliminar.");return
+    if input(" Escribe LIMPIAR_CACHE para eliminar solo esas carpetas: ").strip()!="LIMPIAR_CACHE":
+        print(" Cancelado.");return
+    for p in targets:shutil.rmtree(p)
+    print(" [OK] Cache limpiada; NO se borraron datos ni ZIP históricos.")
+
+def main():
+    print("="*72,"\n INCA STATS — CONSOLIDADOR DE EQUIPOS / MASTER\n","="*72)
+    print(" RUTA:",ROOT)
+    if not (ROOT/".git").is_dir() or not TITAN.is_dir() or not MASTER.is_dir():
+        raise RuntimeError("Pon este BAT en la raiz local IncaStats-Data, con .git, TITAN y MASTER")
+    t,p,old,teams,players,native=read_cat()
+    sources,unknown=collect_sources()
+    additions,inventory=one_plan(teams,native,sources)
+    print_overview(teams,players,native,sources,unknown,inventory)
+    print("\n 1) Crear reporte y comprobar 31 equipos (SIN cambios nativos)")
+    print(" 2) Integrar automaticamente CSV nuevos VALIDADOS y actualizar manifest")
+    print(" 3) Limpiar SOLO __pycache__ sin tocar backups")
+    print(" 0) Salir")
+    opt=input("\n ELIGE 1, 2, 3 o 0: ").strip()
+    if opt=="0":return
+    if opt=="3":cleanup();return
+    if opt not in ("1","2"):return
+    moved=0
+    if opt=="2":
+        moved=apply(teams,native,old,sources,inventory) or 0
+    CONTROL.mkdir(parents=True,exist_ok=True)
+    report={
+        "schema":"incastats.integracion_master.v1",
+        "fecha_utc":NOW,
+        "catalogos":{"equipos":len(teams),"jugadores":len(players)},
+        "titan_equipos_post":len(native),
+        "ids_adicionales_vs_titan_original":len(additions),
+        "csv_nuevos_trasladados":moved,
+        "integracion_estadisticas_jugadores":"PENDIENTE_ADAPTADOR_NATIVO",
+        "integracion_estadisticas_arbitros":"PENDIENTE_ADAPTADOR_NATIVO",
+        "titan_viejo_intacto":True,
+        "equipos":inventory,
+        "archivos_no_asignados":unknown[:100],
+        "nota":"Los catálogos MASTER mantienen IDs; solo CSV por equipo compatibles se trasladan a TITAN sin copiar. No implica completa integración de datos de jugadores ni árbitros."
+    }
+    outfile=CONTROL/"INFORME_CONSOLIDACION_V1.json"
+    json_write_if_changed(outfile,report)
+    print("\n REPORTE:",outfile)
+    print(" [LISTO] No se ejecutaron solicitudes de API ni exportaciones ZIP.")
+    print(" El informe indica si faltan estadisticas reales de los equipos nuevos.")
+
+if __name__=="__main__":
+    try:main()
+    except Exception as e:
+        print("\n[ERROR CONTROLADO]",type(e).__name__,str(e))
+        sys.exit(1)
