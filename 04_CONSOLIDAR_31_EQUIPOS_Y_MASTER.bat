@@ -197,8 +197,10 @@ def webp_candidates(tid):
     dirs=[LOGDIR,MASTER/"LOGOS"/"WebP",MASTER/"EQUIPOS"/"LOGOS_WEBP"]
     for d in dirs:
         if not d.exists():continue
-        for p in sorted(d.glob(tid+"*.webp")):
-            if p.is_file() and p.stat().st_size>0 and p.name.lower().startswith(tid):
+        # Exact ID boundary: "1.webp" or "1_name.webp", not "123.webp".
+        pattern=re.compile(r"^"+re.escape(tid)+r"(?:[_.-].*)?\.webp$",re.I)
+        for p in sorted(d.glob("*.webp")):
+            if p.is_file() and not p.is_symlink() and p.stat().st_size>0 and pattern.fullmatch(p.name):
                 yield p
 
 def one_plan(teams,native,by_id):
