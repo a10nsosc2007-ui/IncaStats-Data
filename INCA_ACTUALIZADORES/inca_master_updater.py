@@ -151,10 +151,19 @@ def merge_record(old, delta, *, player=False):
             ans[key] = value
     return ans
 
+def canonical_key_value(key, val):
+    value = text_val(val)
+    if key in ("Event_ID", "Team_ID", "Player_ID", "ID_Jugador", "Arbitro_ID", "referee_id"):
+        if value.endswith(".0") and value[:-2].isdigit():
+            return value[:-2]
+    if key == "Tiempo":
+        return value.upper()
+    return value
+
 def csv_key(row, keys, label):
     parts = []
     for key in keys:
-        item = text_val(row.get(key))
+        item = canonical_key_value(key, row.get(key))
         if not item:
             die(label + ": fila sin " + key)
         parts.append(item)
@@ -268,9 +277,9 @@ def native_keys(paths, key_fields):
             if not rd.fieldnames or not {"Event_ID"}.issubset(rd.fieldnames):
                 die("Native CSV sin Event_ID: " + str(path))
             for row in rd:
-                event = text_val(row.get("Event_ID"))
-                entity = text_val(row.get(key_fields[1])) or (
-                    text_val(row.get("ID_Jugador")) if key_fields[1] == "Player_ID" else "")
+                event = canonical_key_value("Event_ID", row.get("Event_ID"))
+                entity = canonical_key_value(key_fields[1], row.get(key_fields[1])) or (
+                    canonical_key_value("ID_Jugador", row.get("ID_Jugador")) if key_fields[1] == "Player_ID" else "")
                 if event and entity:
                     keys.add((event, entity))
     return keys
@@ -397,7 +406,7 @@ def build_plan(mode, source):
                     die("Stats jugador sin ficha de catalogo: " + str(row["Player_ID"]))
             before_native = native_keys(NATIVE_PLAYER_FILES, ("Event_ID", "Player_ID"))
             old_fields, old_rows = read_csv_file(NEW_PLAYER_STATS)
-            kept = [r for r in player_stats if (text_val(r["Event_ID"]), text_val(r["Player_ID"])) not in before_native]
+            kept = [r for r in player_stats if csv_key(r, ("Event_ID", "Player_ID"), "Jugador entrada") not in before_native]
             skip = len(player_stats) - len(kept)
             if kept:
                 fields = list(dict.fromkeys(old_fields + [k for r in kept for k in r.keys()]))
@@ -410,7 +419,7 @@ def build_plan(mode, source):
         if ref_matches:
             before_native = native_keys([NATIVE_REF_MATCHES], ("Event_ID", "Arbitro_ID"))
             old_fields, old_rows = read_csv_file(NEW_REF_MATCHES)
-            kept = [r for r in ref_matches if (text_val(r["Event_ID"]), text_val(r["Arbitro_ID"])) not in before_native]
+            kept = [r for r in ref_matches if csv_key(r, ("Event_ID", "Arbitro_ID"), "Arbitro entrada") not in before_native]
             if kept:
                 fields = list(dict.fromkeys(old_fields + [k for r in kept for k in r]))
                 merged, a, u = merge_csv_rows(old_rows, kept, fields,
