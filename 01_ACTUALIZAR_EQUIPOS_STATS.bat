@@ -20,6 +20,7 @@ if not defined LOTE (
   echo Arrastra aqui el ZIP o carpeta de la extraccion NUEVA.
   set /p "LOTE=Ruta del lote: "
 )
+set "LOTE=%LOTE:"=%"
 if not defined LOTE (
   echo [CANCELADO] No se indico un lote.
   pause
