@@ -6,8 +6,8 @@
 
 ## Instalación — IMPORTANTE
 Estos scripts están en la rama de pruebas `incastats/organizador-master-seguro-v1`, no en `main`.
-Descarga los 4 archivos de esta carpeta raíz (3 BAT y un PY) y colócalos al lado de `.git` en tu **clon local** `IncaStats-Data`. No cambies de rama en GitHub Desktop si tienes archivos locales pendientes; puedes descargar los archivos individualmente desde GitHub > Raw.
-Requiere Python 3 y `py` disponible en Windows.
+**CORRECCIÓN 21/10/2026**: Los tres BAT ahora son autónomos: cada uno incorpora el motor Python dentro del propio `.bat`, por lo que **ya NO necesitas descargar `INCA_ACTUALIZAR_CATALOGOS_MASTER.py`**. Descarga solo el BAT que vayas a usar y colócalo en la raíz de tu **clon local** `IncaStats-Data`, junto a `.git`. No cambies de rama en GitHub Desktop si tienes archivos locales pendientes; puedes descargar los archivos individualmente desde GitHub > Raw.
+Requiere Python 3 y `py` disponible en Windows. Sustituye el BAT anterior por la versión actual de esta rama; así desaparecerá el error `Falta INCA_ACTUALIZAR_CATALOGOS_MASTER.py`. No hemos podido ejecutar una prueba de extremo a extremo en Windows.
 
 ## Orden de uso
 1. `03_AUDITAR_ACTUALIZADORES_MASTER.bat`: muestra conteos del catálogo actual, sin modificaciones.
