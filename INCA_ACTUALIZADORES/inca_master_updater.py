@@ -353,7 +353,7 @@ def build_plan(mode, source):
                 die("Hay stats del equipo " + tid + " pero no existe en catalogo. Falta su metadata.")
             dest = choose_team_path(tid, natives)
             old_fields, old_rows = read_csv_file(dest)
-            new_fields = list(incoming[0].keys())
+            new_fields = list(dict.fromkeys(k for row in incoming for k in row.keys()))
             all_fields = list(dict.fromkeys(old_fields + new_fields))
             merged, a, u = merge_csv_rows(old_rows, incoming, all_fields,
                                          ("Event_ID", "Team_ID", "Tiempo"), "Equipo " + tid)
@@ -413,15 +413,30 @@ def build_plan(mode, source):
             else:
                 plan.stat.append("[IGUAL] Partidos arbitrales ya en TITAN.")
         if ref_index:
-            old_fields, old_rows = read_csv_file(NEW_REF_INDEX)
-            fields = list(dict.fromkeys(old_fields + [k for r in ref_index for k in r]))
-            if "referee_id" not in fields:
-                die("Index arbitros sin referee_id")
-            merged, a, u = merge_csv_rows(old_rows, ref_index, fields,
-                                          ("referee_id",), "Catalogo arbitros")
-            # Solo guarda metadatos arbitrales nuevos/actualizados; no reemplaza el TITAN original.
-            plan.add(NEW_REF_INDEX, serialize_csv(fields, merged),
-                     f"Catalogo arbitros DELTA: +{a}, corregidos={u}")
+            _, natives = read_csv_file(NATIVE_REF_INDEX)
+            known = {text_val(r.get("referee_id")): r for r in natives if valid_id(r.get("referee_id"))}
+            # Evitar clonar el indice nativo; guardar solo nuevas fichas o cambios reales.
+            newer = []
+            skipped = 0
+            for row in ref_index:
+                refid = valid_id(row.get("referee_id"))
+                if not refid:
+                    die("Catalogo arbitros: referee_id invalido")
+                old_native = known.get(refid)
+                if old_native and not any(nonblank(v) and text_val(old_native.get(k)) != text_val(v)
+                                      for k, v in row.items() if k != "referee_id"):
+                    skipped += 1
+                    continue
+                newer.append(row)
+            if newer:
+                old_fields, old_rows = read_csv_file(NEW_REF_INDEX)
+                fields = list(dict.fromkeys(old_fields + [k for r in newer for k in r]))
+                merged, a, u = merge_csv_rows(old_rows, newer, fields,
+                                              ("referee_id",), "Catalogo arbitros")
+                plan.add(NEW_REF_INDEX, serialize_csv(fields, merged),
+                         f"Catalogo arbitros DELTA: +{a}, corregidos={u}, identicos al TITAN={skipped}")
+            else:
+                plan.stat.append("[IGUAL] Arbitros: todas las fichas identicas a TITAN.")
 
     if not (team_input or player_input or stats_seen):
         die("No se detectaron catalogos o CSV compatibles en esta entrada. No se aplico nada.")
