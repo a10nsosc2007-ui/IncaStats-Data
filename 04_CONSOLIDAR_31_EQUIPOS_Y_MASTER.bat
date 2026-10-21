@@ -362,6 +362,91 @@ def integrate_existing_team_csvs(native,source_map):
             "filas_actualizadas":updated_total,
             "errores":errors}
 
+def update_global_team_count(native):
+    """Critical: V2.x app rejects new teams if global.coverage.teams stays at 751."""
+    path=TITAN/"manifest"/"manifest_global.json"
+    if not path.is_file():
+        raise RuntimeError("Falta manifest_global.json, la app quedaria en 751")
+    obj=load(path)
+    coverage=obj.get("coverage")
+    if not isinstance(coverage,dict):
+        raise ValueError("coverage no valido en manifest_global.json")
+    before=coverage.get("teams")
+    coverage["teams"]=len(native)
+    change=json_write_if_changed(path,obj)
+    print(" [APP COMPAT] coverage.teams:",before,"->",len(native),"escrito:",change)
+    return change
+
+def native_players_catalog_sync(players):
+    """Add catalog-only players to existing TITAN index + manifest without fake stats.
+
+    Master JSON keeps player meta. No BY_PLAYER or CURRENT rows are fabricated.
+    Current-year data, CSV stats and referees remain untouched.
+    """
+    base=ROOT/"TITAN_PLAYERS_MASTER_2025_PLUS"
+    pindex=base/"INDEX"/"players.json"
+    pmanifest=base/"manifest.json"
+    if not pindex.is_file() or not pmanifest.is_file():
+        raise RuntimeError("Faltan indices nativos de jugadores")
+    orig_index=load(pindex)
+    manifest=load(pmanifest)
+    if not isinstance(orig_index,list) or not isinstance(manifest,dict):
+        raise ValueError("Esquema nativo de jugadores inesperado")
+    manifest_rows=manifest.get("players")
+    if not isinstance(manifest_rows,list):
+        raise ValueError("manifest.json no tiene arreglo players")
+    idx_map=ids(orig_index,"id","INDEX jugadores")
+    man_map=ids(manifest_rows,"id","MANIFEST jugadores")
+    before_index=len(idx_map);before_manifest=len(man_map)
+    byplayer=base/"BY_PLAYER"
+    added_idx=added_manifest=0
+    historical=0
+    for pid,row in players.items():
+        existing=idx_map.get(pid) or man_map.get(pid)
+        if existing:
+            if pid not in idx_map: idx_map[pid]=dict(existing);added_idx+=1
+            if pid not in man_map: man_map[pid]=dict(existing);added_manifest+=1
+            continue
+        target_rel="BY_PLAYER/"+str(int(pid)%100).zfill(2)+"/"+pid+".json" if pid.isdigit() else ""
+        history_file=(base/target_rel) if target_rel else None
+        has_history=bool(history_file and history_file.is_file())
+        # For missing history, file="" to avoid false promise and HTTP 404.
+        meta={
+            "id":pid,
+            "name":row.get("name") or ("Jugador "+pid),
+            "primary_team_id":str(row.get("team_id") or ""),
+            "primary_team":row.get("team") or "",
+            "primary_competition_id":str(row.get("competition_id") or ""),
+            "position":row.get("position") or "",
+            "photo":row.get("photo") or "",
+            "last_date":row.get("last_date") or "",
+            "matches":0,
+            "file":target_rel if has_history else "",
+            "source":"INCA_BASE_MAESTRA_CATALOG_ONLY" if not has_history else "INCA_BASE_MAESTRA_HISTORY",
+        }
+        if has_history:historical+=1
+        idx_map[pid]=meta;man_map[pid]=dict(meta)
+        added_idx+=1;added_manifest+=1
+    # Avoid rewriting large JSON files in pure no-op cases.
+    if added_idx:
+        json_write_if_changed(pindex,list(idx_map.values()))
+    if added_manifest:
+        manifest["players"]=list(man_map.values())
+        count_obj=manifest.get("counts")
+        if isinstance(count_obj,dict):
+            if "players" in count_obj: count_obj["players"]=len(man_map)
+            if "final_players" in count_obj: count_obj["final_players"]=len(man_map)
+            count_obj["catalog_only_players"]=sum(1 for p in man_map.values()
+                                                   if not p.get("file") and not int(p.get("matches") or 0))
+        json_write_if_changed(pmanifest,manifest)
+    print(" [APP PLAYERS] INDEX",before_index,"->",len(idx_map),
+          "| MANIFEST",before_manifest,"->",len(man_map))
+    print(" [APP PLAYERS] Nuevos sin historico NO reciben stats ficticias.")
+    return {"index_antes":before_index,"index_despues":len(idx_map),
+            "manifest_antes":before_manifest,"manifest_despues":len(man_map),
+            "alta_indice":added_idx,"alta_manifest":added_manifest,
+            "nuevos_con_historico_existente":historical}
+
 def cleanup():
     print("\n LIMPIEZA SEGURA: SOLO CACHE PYTHON, NUNCA RESPALDOS NI STATS")
     dirs=[ROOT/"__pycache__",ROOT/"INCA_BASE_MAESTRA"/"__pycache__"]
@@ -448,8 +533,14 @@ def main():
     if opt not in ("1","2"):return
     moved=0
     team_stats_result={"csv_actualizados_y_consumidos":0,"filas_nuevas":0,"filas_actualizadas":0,"errores":[]}
+    player_sync={"status":"NO_SOLICITADO"}
     if opt=="2":
         moved=apply(teams,native,old,sources,inventory) or 0
+        # Critical: the app loads global coverage and discards 782 teams
+        # if it still says 751. Update only after the teams manifest changes.
+        update_global_team_count(native)
+        # Add 865 newer players as CATALOG entries (never invent stats).
+        player_sync=native_players_catalog_sync(players)
         # After handling newly-added teams, merge incoming CSVs for old teams.
         # Never archive an incoming CSV as a second full copy.
         team_stats_result=integrate_existing_team_csvs(native,sources)
@@ -462,6 +553,7 @@ def main():
         "ids_adicionales_vs_titan_original":len(additions),
         "csv_nuevos_trasladados":moved,
         "upsert_equipos_existentes":team_stats_result,
+        "catalogo_jugadores_titan":player_sync,
         "integracion_estadisticas_jugadores":"PENDIENTE_ADAPTADOR_NATIVO",
         "integracion_estadisticas_arbitros":"PENDIENTE_ADAPTADOR_NATIVO",
         "titan_viejo_intacto":True,
