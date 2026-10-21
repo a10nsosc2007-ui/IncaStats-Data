@@ -72,5 +72,14 @@ except OSError as exc:
     print(exc)
     sys.exit(1)
 print("\n[OK] Instalacion de scripts completada.")
+print("\n[TEST] Ejecutando pruebas aisladas sin tocar datos reales...")
+import subprocess
+cmd = [sys.executable, "-B", "-m", "unittest", "discover",
+       "-s", str(ROOT / "INCA_ACTUALIZADORES"), "-p", "test_*.py", "-v"]
+test = subprocess.run(cmd, cwd=str(ROOT), check=False)
+if test.returncode != 0:
+    print("\n[ERROR] Las pruebas NO pasaron. NO uses los BAT de actualizacion aun.")
+    sys.exit(test.returncode)
+print("\n[OK] Pruebas locales completadas sin errores.")
 print("Puedes ejecutar 01_ACTUALIZAR_EQUIPOS_STATS.bat o 02_ACTUALIZAR_JUGADORES_ARBITROS.bat.")
 print("El instalador NO ha actualizado ningun equipo, jugador, estadistica ni arbitro.")
