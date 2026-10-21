@@ -92,9 +92,23 @@ def collect_sources():
             if p.is_symlink():continue
             # Only filenames ID_anything.csv, ID.csv; no heuristics on names.
             mat=re.match(r"^([0-9]+)(?:[_\-.].*)?\.csv$",p.name,re.I)
-            if not mat:
-                ignored.append(str(p.relative_to(ROOT)));continue
-            tid=str(int(mat.group(1)))
+            if mat:
+                tid=str(int(mat.group(1)))
+            else:
+                # Some extractors write team-name-only CSVs. Identify their
+                # SofaScore team id from the ACTUAL schema, never by fuzzy name.
+                try:
+                    if p.stat().st_size>MAX_CSV:raise ValueError("CSV demasiado grande")
+                    with p.open("r",encoding="utf-8-sig",newline="") as f:
+                        rd=csv.DictReader(f)
+                        if not rd.fieldnames or not all(k in rd.fieldnames for k in KEY):
+                            raise ValueError("No es CSV TITAN")
+                        row=next(rd,None)
+                        if not row or not str(row.get("Team_ID","")).strip().isdigit():
+                            raise ValueError("CSV no contiene ID numerico")
+                        tid=str(int(row["Team_ID"].strip()))
+                except (OSError,UnicodeError,ValueError,StopIteration):
+                    ignored.append(str(p.relative_to(ROOT)));continue
             by_id.setdefault(tid,[]).append(p)
     return by_id,ignored
 
