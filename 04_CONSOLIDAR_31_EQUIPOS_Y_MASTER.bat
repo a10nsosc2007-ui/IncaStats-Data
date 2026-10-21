@@ -325,6 +325,9 @@ def integrate_existing_team_csvs(native,source_map):
             errors.append({"id":tid,"status":"MULTIPLES_FUENTES","archivos":len(paths)})
             continue
         src=paths[0]
+        # This entry may have been moved to native in the immediately prior step.
+        if not src.exists():
+            continue
         rel=str(native[tid].get("file") or "").replace("\\","/").lstrip("/")
         dest=TITAN/rel
         try:
