@@ -199,13 +199,19 @@ def one_plan(teams,native,by_id):
                "native_dest":"TITAN_ALONSINHO_V1_GITHUB_READY/data/teams_csv/"+tgt,
                "webp":next((str(p.relative_to(ROOT)) for p in webp_candidates(tid)),""),
                "status":"PENDIENTE"}
-        if not sources:entry["status"]="SIN_CSV_DE_ESTADISTICAS"
+        native_target=NATIVE/tgt
+        if native_target.is_file() and not sources:
+            try:
+                _,_,n=validate_source(native_target,tid)
+                entry["status"]="RECUPERAR_CSV_YA_MOVIDO";entry["eventos"]=n
+            except (ValueError,OSError) as exc:
+                entry["status"]="DESTINO_HUERFANO_INVALIDO";entry["error"]=str(exc)
+        elif not sources:entry["status"]="SIN_CSV_DE_ESTADISTICAS"
         elif len(sources)>1:entry["status"]="VARIOS_CSV_REQUIERE_REVISION"
         else:
             try:
                 _,_,n=validate_source(sources[0],tid)
-                target=NATIVE/tgt
-                if target.exists():
+                if native_target.exists():
                     entry["status"]="DESTINO_YA_EXISTE_REVISAR"
                 else:
                     entry["status"]="LISTO_PARA_MOVER";entry["eventos"]=n
@@ -230,26 +236,31 @@ def print_overview(teams,players,native,sources,unknown,inventory):
 
 def apply(teams,native,old_manifest,source_map,inventory):
     if input("\n Para integrar SOLO archivos CSV compatibles escribe FUSIONAR: ").strip()!="FUSIONAR":
-        print(" Cancelado sin cambios.");return
-    moved=updated=skipped=0
-    report=[]
+        print(" Cancelado sin cambios.");return 0
+    moved=skipped=recovered=0
     for item in inventory:
-        if item["status"]!="LISTO_PARA_MOVER":
+        status=item["status"]
+        if status not in ("LISTO_PARA_MOVER","RECUPERAR_CSV_YA_MOVIDO"):
             skipped+=1;continue
         tid=item["team_id"]
-        src=source_map[tid][0]
+        src=source_map.get(tid,[None])[0]
         dest=ROOT/item["native_dest"]
+        did_move=False
         try:
-            if not NATIVE.exists() or not src.exists() or dest.exists():
-                raise RuntimeError("Ruta no disponible / colision")
-            if src.stat().st_dev!=NATIVE.stat().st_dev:
-                raise RuntimeError("Volumen distinto; no se puede mover sin copiar")
-            _,rows,n=validate_source(src,tid)
-            src.rename(dest) # Windows same-volume atomic move, no data duplication
-            if src.exists() or not dest.is_file() or len(rows)!=len(rows_csv(dest)[1]):
-                raise RuntimeError("Comprobacion posterior al MOVE fallida")
+            if not NATIVE.exists():raise RuntimeError("Carpeta TITAN ausente")
+            if status=="LISTO_PARA_MOVER":
+                if src is None or not src.is_file() or dest.exists():raise RuntimeError("Colision en destino")
+                if src.stat().st_dev!=NATIVE.stat().st_dev:
+                    raise RuntimeError("Volumen distinto: no se hara copia")
+                _,rows,n=validate_source(src,tid)
+                src.rename(dest)
+                did_move=True
+                if src.exists() or not dest.is_file() or len(rows)!=len(rows_csv(dest)[1]):
+                    raise RuntimeError("Verificacion posterior al MOVE fallida")
+            else:
+                _,rows,n=validate_source(dest,tid)
             rec=teams[tid]
-            native[tid]={
+            new_entry={
                 "team_id":int(tid),"name":rec.get("name") or tid,
                 "country":rec.get("country") or "",
                 "region":rec.get("region") or "",
@@ -258,22 +269,36 @@ def apply(teams,native,old_manifest,source_map,inventory):
                 "valid_matches":n,
                 "incomplete_matches":0,
             }
-            item["status"]="MOVIDO_E_INTEGRADO"
-            moved+=1
+            candidate=dict(native);candidate[tid]=new_entry
+            next_manifest=dict(old_manifest)
+            next_manifest["teams"]=list(candidate.values())
+            next_manifest["count"]=len(candidate)
+            # Commit manifest per successfully transferred team, so interruption
+            # never leaves ALL 31 CSV files moved without a manifest.
+            json_write_if_changed(T_MAN,next_manifest)
+            native.clear();native.update(candidate)
+            old_manifest.clear();old_manifest.update(next_manifest)
+            item["status"]="INTEGRADO_OK"
+            if did_move:moved+=1
+            else:recovered+=1
         except Exception as exc:
-            item["status"]="ERROR_SIN_CONFIRMAR"
+            if did_move and dest.is_file() and src is not None and not src.exists():
+                try:
+                    dest.rename(src) # rollback: no extra copy
+                    item["status"]="ERROR_REVERTIDO_SIN_PERDIDA"
+                except OSError as rollback_error:
+                    item["status"]="ERROR_REQUIERE_REVISION_MANUAL"
+                    item["rollback_error"]=str(rollback_error)
+            else:
+                item["status"]="ERROR_SIN_MODIFICAR"
             item["error"]=str(exc)
             skipped+=1
-        report.append(item)
-    if moved:
-        old_manifest["teams"]=list(native.values())
-        old_manifest["count"]=len(native)
-        json_write_if_changed(T_MAN,old_manifest)
-    print("\n [RESULTADO] Nuevos CSV trasladados:",moved)
-    print(" Nuevos registros en manifest TITAN:",moved)
-    print(" Pendientes / sin stats validas:",skipped)
-    print(" No se han borrado historicos ni movido los TITAN originales.")
-    return moved
+        print(" ",tid,item["name"],"=>",item["status"])
+    print("\n [RESULTADO] CSV nuevos trasladados:",moved)
+    print(" Orfanos anteriores recuperados:",recovered)
+    print(" Pendientes / sin estadisticas validas:",skipped)
+    print(" Ninguna carpeta TITAN historica fue movida ni duplicada.")
+    return moved+recovered
 
 def cleanup():
     print("\n LIMPIEZA SEGURA: SOLO CACHE PYTHON, NUNCA RESPALDOS NI STATS")
