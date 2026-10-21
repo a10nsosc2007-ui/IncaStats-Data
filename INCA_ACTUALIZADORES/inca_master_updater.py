@@ -188,12 +188,19 @@ def merge_csv_rows(existing, incoming, fields, keys, label):
         die(label + ": verificacion historica fallida")
     return list(out.values()), added, changed
 
-def serialize_csv(fields, rows):
+def serialize_csv(fields, rows, target=None):
+    # Respeta BOM, LF/CRLF y salto final del CSV de destino.
+    old = target.read_bytes() if target is not None and target.is_file() else None
+    eol = "\r\n" if old is not None and b"\r\n" in old else "\n"
     result = io.StringIO(newline="")
-    wr = csv.DictWriter(result, fields, extrasaction="ignore", lineterminator="\n")
+    wr = csv.DictWriter(result, fields, extrasaction="ignore", lineterminator=eol)
     wr.writeheader()
     wr.writerows(rows)
-    return result.getvalue().encode("utf-8-sig")
+    txt = result.getvalue()
+    if old is not None and old and not old.endswith((b"\r", b"\n")):
+        txt = txt[:-len(eol)]
+    encoding = "utf-8-sig" if old is None or old.startswith(b"\xef\xbb\xbf") else "utf-8"
+    return txt.encode(encoding)
 
 def serialize_json(obj):
     return (json.dumps(obj, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
@@ -357,7 +364,7 @@ def build_plan(mode, source):
             all_fields = list(dict.fromkeys(old_fields + new_fields))
             merged, a, u = merge_csv_rows(old_rows, incoming, all_fields,
                                          ("Event_ID", "Team_ID", "Tiempo"), "Equipo " + tid)
-            plan.add(dest, serialize_csv(all_fields, merged), f"Equipo {tid}: {a} partidos-periodos nuevos, {u} corregidos")
+            plan.add(dest, serialize_csv(all_fields, merged, dest), f"Equipo {tid}: {a} partidos-periodos nuevos, {u} corregidos")
 
     if mode in ("jugadores", "todo"):
         if not PLAYER_CATALOG.is_file():
@@ -396,7 +403,7 @@ def build_plan(mode, source):
                 fields = list(dict.fromkeys(old_fields + [k for r in kept for k in r.keys()]))
                 merged, a, u = merge_csv_rows(old_rows, kept, fields,
                                              ("Event_ID", "Player_ID"), "Jugador partido")
-                plan.add(NEW_PLAYER_STATS, serialize_csv(fields, merged),
+                plan.add(NEW_PLAYER_STATS, serialize_csv(fields, merged, NEW_PLAYER_STATS),
                          f"Delta jugadores: +{a}, corregidos={u}; omitidos nativos={skip}")
             else:
                 plan.stat.append(f"[IGUAL] Jugadores: {skip} eventos-jugador ya estan en TITAN nativo.")
@@ -408,7 +415,7 @@ def build_plan(mode, source):
                 fields = list(dict.fromkeys(old_fields + [k for r in kept for k in r]))
                 merged, a, u = merge_csv_rows(old_rows, kept, fields,
                                               ("Event_ID", "Arbitro_ID"), "Arbitros partido")
-                plan.add(NEW_REF_MATCHES, serialize_csv(fields, merged),
+                plan.add(NEW_REF_MATCHES, serialize_csv(fields, merged, NEW_REF_MATCHES),
                          f"Delta arbitros: +{a}, corregidos={u}; ya TITAN={len(ref_matches)-len(kept)}")
             else:
                 plan.stat.append("[IGUAL] Partidos arbitrales ya en TITAN.")
@@ -433,7 +440,7 @@ def build_plan(mode, source):
                 fields = list(dict.fromkeys(old_fields + [k for r in newer for k in r]))
                 merged, a, u = merge_csv_rows(old_rows, newer, fields,
                                               ("referee_id",), "Catalogo arbitros")
-                plan.add(NEW_REF_INDEX, serialize_csv(fields, merged),
+                plan.add(NEW_REF_INDEX, serialize_csv(fields, merged, NEW_REF_INDEX),
                          f"Catalogo arbitros DELTA: +{a}, corregidos={u}, identicos al TITAN={skipped}")
             else:
                 plan.stat.append("[IGUAL] Arbitros: todas las fichas identicas a TITAN.")
