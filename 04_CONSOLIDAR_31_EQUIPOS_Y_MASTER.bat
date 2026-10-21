@@ -328,6 +328,59 @@ def cleanup():
     for p in targets:shutil.rmtree(p)
     print(" [OK] Cache limpiada; NO se borraron datos ni ZIP históricos.")
 
+def make_runtime_routes(teams,players,native):
+    """Lightweight pointers only; no statistics or photos duplicated."""
+    team_paths={}
+    team_logo_count=0
+    team_stats_count=0
+    for tid, t in teams.items():
+        n=native.get(tid)
+        stat=""
+        if n and isinstance(n.get("file"),str):
+            rel=n["file"].replace("\\","/").lstrip("/")
+            path=TITAN/rel
+            if path.is_file() and path.resolve().is_relative_to(TITAN.resolve()):
+                stat="TITAN_ALONSINHO_V1_GITHUB_READY/"+rel
+                team_stats_count+=1
+        logo=next((str(x.relative_to(ROOT)).replace("\\","/") for x in webp_candidates(tid)),"")
+        if logo:team_logo_count+=1
+        team_paths[tid]={"stats_csv":stat,"logo_webp":logo}
+    player_paths={}
+    pcount=0
+    player_dir=ROOT/"TITAN_PLAYERS_MASTER_2025_PLUS"
+    for pid,record in players.items():
+        rel=str(record.get("source_file") or "").replace("\\","/").lstrip("/")
+        if rel and not Path(rel).is_absolute():
+            path=player_dir/rel
+            if path.is_file() and path.resolve().is_relative_to(player_dir.resolve()):
+                player_paths[pid]="TITAN_PLAYERS_MASTER_2025_PLUS/"+rel
+                pcount+=1
+    return {
+        "schema":"incastats.data_routes.v1",
+        "generated_at_utc":NOW,
+        "root":"IncaStats-Data/",
+        "catalogs":{
+            "teams":"INCA_BASE_MAESTRA/BASE_EQUIPOS_MASTER.json",
+            "players":"INCA_BASE_MAESTRA/BASE_JUGADORES_MASTER.json"
+        },
+        "datasets":{
+            "teams_manifest":"TITAN_ALONSINHO_V1_GITHUB_READY/manifest/teams.json",
+            "teams_dir":"TITAN_ALONSINHO_V1_GITHUB_READY/data/teams_csv/",
+            "player_current":"TITAN_PLAYERS_CURRENT/MASTER/PLAYER_MATCH_STATS_CURRENT_EXTENDED.csv",
+            "player_historical":"TITAN_PLAYERS_MASTER_2025_PLUS/MASTER/PLAYER_MATCH_STATS_2025_PLUS.csv",
+            "referees":"TITAN_REFEREES_CURRENT/referees_master.json",
+            "referees_matches":"TITAN_REFEREES_CURRENT/matches_master.csv"
+        },
+        "assets":{"teams":team_paths,"players_historical":player_paths,
+                  "referees_face_root":"TITAN_REFEREES_CURRENT/faces/"},
+        "coverage":{
+            "teams_catalog":len(teams),"teams_with_stats":team_stats_count,
+            "teams_with_local_logo_webp":team_logo_count,
+            "players_catalog":len(players),"players_with_history_json":pcount
+        },
+        "notes":"Relative to repository ROOT; app integration requires updating the app reader. Blank asset path means not validated, not unavailable from all sources."
+    }
+
 def main():
     print("="*72,"\n INCA STATS — CONSOLIDADOR DE EQUIPOS / MASTER\n","="*72)
     print(" RUTA:",ROOT)
@@ -365,7 +418,13 @@ def main():
     }
     outfile=CONTROL/"INFORME_CONSOLIDACION_V1.json"
     json_write_if_changed(outfile,report)
+    routes=CONTROL/"INCA_DATA_ROUTES.json"
+    pointers=make_runtime_routes(teams,players,native)
+    json_write_if_changed(routes,pointers)
     print("\n REPORTE:",outfile)
+    print(" RUTAS PARA LA APP:",routes)
+    print(" Equipos con CSV real:",pointers["coverage"]["teams_with_stats"],"de",len(teams))
+    print(" Historicos jugadores con JSON:",pointers["coverage"]["players_with_history_json"],"de",len(players))
     print(" [LISTO] No se ejecutaron solicitudes de API ni exportaciones ZIP.")
     print(" El informe indica si faltan estadisticas reales de los equipos nuevos.")
 
