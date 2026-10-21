@@ -314,6 +314,51 @@ def apply(teams,native,old_manifest,source_map,inventory):
     print(" Ninguna carpeta TITAN historica fue movida ni duplicada.")
     return moved+recovered
 
+def integrate_existing_team_csvs(native,source_map):
+    """Merge deltas for already-registered teams with strict key validation."""
+    inserted_total=updated_total=consumed=0
+    errors=[]
+    for tid,paths in sorted(source_map.items(),key=lambda x:int(x[0])):
+        if tid not in native:
+            continue
+        if len(paths)!=1:
+            errors.append({"id":tid,"status":"MULTIPLES_FUENTES","archivos":len(paths)})
+            continue
+        src=paths[0]
+        rel=str(native[tid].get("file") or "").replace("\\","/").lstrip("/")
+        dest=TITAN/rel
+        try:
+            if not rel or not dest.is_file() or not dest.resolve().is_relative_to(NATIVE.resolve()):
+                raise RuntimeError("Ruta TITAN invalida o destino inexistente")
+            if not src.is_file() or src.samefile(dest):
+                raise RuntimeError("Origen no valido o es mismo destino")
+            validate_source(src,tid)
+            result=merge_native(dest,src,tid,execute=True)
+            # Verify every incoming event/period key AND its nonblank fields
+            # are present in destination BEFORE removing consumed source.
+            incoming_fields,incoming_rows=rows_csv(src)
+            _,result_rows=rows_csv(dest)
+            dest_idx={tuple(str(r.get(k,"")).strip() for k in KEY):r for r in result_rows}
+            for r in incoming_rows:
+                k=tuple(str(r.get(a,"")).strip() for a in KEY)
+                out=dest_idx.get(k)
+                if out is None:raise RuntimeError("Registro entrante ausente despues del merge: "+str(k))
+                for name,value in r.items():
+                    if value is not None and str(value).strip() and str(out.get(name,"")).strip()!=str(value).strip():
+                        raise RuntimeError("Valor entrante no persistido: "+str(k)+" "+name)
+            src.unlink()  # Consumed and verified; do not retain duplicate CSV.
+            inserted_total+=result["nuevos_registros"]
+            updated_total+=result["actualizados"]
+            consumed+=1
+            print(" [UPSERT OK]",tid,"+",result["nuevos_registros"],"nuevos /",result["actualizados"],"actualizados")
+        except Exception as exc:
+            print(" [NO INTEGRADO]",tid,":",str(exc)[:140])
+            errors.append({"id":tid,"status":"PENDIENTE_REVISION","error":str(exc)[:400]})
+    return {"csv_actualizados_y_consumidos":consumed,
+            "filas_nuevas":inserted_total,
+            "filas_actualizadas":updated_total,
+            "errores":errors}
+
 def cleanup():
     print("\n LIMPIEZA SEGURA: SOLO CACHE PYTHON, NUNCA RESPALDOS NI STATS")
     dirs=[ROOT/"__pycache__",ROOT/"INCA_BASE_MAESTRA"/"__pycache__"]
@@ -399,8 +444,12 @@ def main():
     if opt=="3":cleanup();return
     if opt not in ("1","2"):return
     moved=0
+    team_stats_result={"csv_actualizados_y_consumidos":0,"filas_nuevas":0,"filas_actualizadas":0,"errores":[]}
     if opt=="2":
         moved=apply(teams,native,old,sources,inventory) or 0
+        # After handling newly-added teams, merge incoming CSVs for old teams.
+        # Never archive an incoming CSV as a second full copy.
+        team_stats_result=integrate_existing_team_csvs(native,sources)
     CONTROL.mkdir(parents=True,exist_ok=True)
     report={
         "schema":"incastats.integracion_master.v1",
@@ -409,6 +458,7 @@ def main():
         "titan_equipos_post":len(native),
         "ids_adicionales_vs_titan_original":len(additions),
         "csv_nuevos_trasladados":moved,
+        "upsert_equipos_existentes":team_stats_result,
         "integracion_estadisticas_jugadores":"PENDIENTE_ADAPTADOR_NATIVO",
         "integracion_estadisticas_arbitros":"PENDIENTE_ADAPTADOR_NATIVO",
         "titan_viejo_intacto":True,
