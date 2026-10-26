@@ -11,7 +11,15 @@
   const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   window.addEventListener('error',e=>{if(/inca|titan|streak|scan|odds|referee|player|analiz/i.test(String(e.filename||'')+' '+e.message))addError('js',e.message);});
   window.addEventListener('unhandledrejection',e=>addError('promise',e.reason));
+  function isGateClosed(){
+    if(document.documentElement.classList.contains('inca-auth-pending'))return false;
+    const gate=$('incaAuthGate');
+    if(!gate)return false; // Never invent auth state or bypass a missing gate.
+    const style=getComputedStyle(gate);
+    return gate.hidden||style.display==='none'||style.visibility==='hidden'||gate.getAttribute('aria-hidden')==='true';
+  }
   function scannerVisible(){
+    if(!isGateClosed())return false;
     const node=$('scannerView');if(!node)return false;
     const s=getComputedStyle(node);const rect=node.getBoundingClientRect();
     return !node.hidden && s.display!=='none' && s.visibility!=='hidden' && rect.width>0 && rect.height>20 &&
@@ -19,6 +27,7 @@
       !document.body.classList.contains('inca-auth-locked');
   }
   function rescueScanner(){
+    if(!isGateClosed()){addError('scanner','Auth gate visible: repair blocked');return false;}
     const node=$('scannerView'), shell=$('incaPortal');
     if(!node){addError('scanner','No existe #scannerView');return false;}
     try{
@@ -52,7 +61,7 @@
     // Do not interfere with the original handlers: this is a post-click safety net.
     clearTimeout(scanTimer);
     scanTimer=setTimeout(()=>{
-      if(!scannerVisible() && !document.querySelector('.inca-auth-overlay:not([hidden])')) {
+      if(isGateClosed()&&!scannerVisible()) {
         if(!rescueScanner())showScannerError();
       }
     },160);
@@ -103,7 +112,7 @@
     const status=await cacheStatus();
     return {version:VERSION,modules:{
       navigation:!!window.INCA_PORTAL_NAV,scanner:!!s,scannerVisible:scannerVisible(),
-      titan:!!window.INCA_TITAN,players:!!window.INCA_PLAYERS,
+      titan:!!window.INCA_TITAN,players:!!window.INCA_PLAYERS,authPassed:isGateClosed(),
       playerProps:!!window.INCA_PLAYER_PROPS,referees:!!window.INCA_REFEREES,
       streaks:!!window.INCA_STREAKS_PRO,fixtures:!!window.INCA_MATCH_CENTER,
       streaksPanel:!!p,playersPanel:!!q},
