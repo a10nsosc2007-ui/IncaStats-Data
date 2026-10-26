@@ -434,10 +434,32 @@ def integrate_player_history():
     if "final_players" in counts:counts["final_players"]=len(mi)
     savej(index_path,list(ix.values()))
     savej(manifest_path,manifest)
-    # The historical RECENT file stays unchanged if not reproducible from
-    # current compatible schema. Prevent false/stale recent picks by warning.
-    print(" [ATENCION] RECENT/recent20.json y CURRENT siguen sin reconstruir.")
-    print(" No consideres terminados los Player Picks hasta implementar ese overlay.")
+    # Rebuild RECENT based on verified merged historical rows (real data only).
+    recent_path=PLAYER/"RECENT"/"recent20.json"
+    rec_fields=[
+        "ID_Jugador","Jugador","Event_ID","Fecha","Competition_ID","Torneo",
+        "Season_ID","Season","Team_ID","Equipo","Rival","Condicion",
+        "Posicion","Minutos_Jugados","Rating","Goles","Asistencias",
+        "Tiros_Totales","Tiros_Al_Arco","Pases_Totales","Pases_Acertados",
+        "Atajadas","Faltas_Cometidas","Faltas_Recibidas",
+        "Entradas_Tackles","Tarjetas","Tarjetas_Amarillas",
+        "Tarjetas_Rojas","Offsides"]
+    groups=collections.defaultdict(list)
+    for row in packed:groups[str(row.get("ID_Jugador") or "")].append(row)
+    latest=[]
+    for pid,rows in groups.items():
+        rows.sort(key=lambda x:parse_date(x.get("Fecha")),reverse=True)
+        latest.extend(rows[:20])
+    latest.sort(key=lambda x:(str(x.get("ID_Jugador")),parse_date(x.get("Fecha"))))
+    if recent_path.is_file():
+        old_recent=readj(recent_path)
+        if old_recent.get("schema_version")!="incastats.player_recent20.v1":
+            raise RuntimeError("RECENT con schema inesperado: histórico ya integrado")
+    savej(recent_path,{"schema_version":"incastats.player_recent20.v1",
+                       "fields":rec_fields,
+                       "rows":[[x.get(k,"") for k in rec_fields] for x in latest]})
+    print(" [OK] RECENT reconstruido:",len(latest),"filas reales.")
+    print(" [ATENCION] CURRENT / PLAYER PROPS siguen usando overlay independiente.")
     print(" Origen DELTA conservado para verificaciones (6-7 MB, no gigas).")
 
 def cleanup():
@@ -457,6 +479,45 @@ def cleanup():
         print(" Cancelado.");return
     for p in caches:shutil.rmtree(p)
     print(" [LISTO] Cache eliminada. Ningun JSON/CSV/TITAN/backups tocado.")
+
+def purge_verified_old_backups():
+    """Only purge old redundant PLAYER_DELTA backups after independently verified
+    external whole-repo copy. Never silently delete history.
+    """
+    folder=ROOT/"_BACKUPS_PLAYER_DELTA"
+    if not folder.is_dir():
+        print(" No existen respaldos viejos que limpiar.");return
+    native_files=[
+        PLAYER/"MASTER"/"PLAYER_MATCH_STATS_2025_PLUS.csv",
+        ROOT/"TITAN_PLAYERS_CURRENT"/"MASTER"/"PLAYER_MATCH_STATS_CURRENT_EXTENDED.csv",
+        ROOT/"TITAN_REFEREES_CURRENT"/"referees_master.json",
+    ]
+    for p in native_files:
+        if not p.is_file():raise RuntimeError("Falta archivo nativo principal: "+str(p))
+    print("\n OPERACION IRREVERSIBLE: eliminar carpeta",folder)
+    print(" Se eliminan SOLO respaldos historicos _BACKUPS_PLAYER_DELTA")
+    print(" GitHub Desktop puede mostrar BORRADOS porque ya estan versionados.")
+    src=input(" Ruta de COPIA EXTERNA COMPLETA de IncaStats-Data: ").strip().strip('"')
+    if not src:return
+    backup=Path(src).expanduser().resolve()
+    if not backup.is_dir() or backup==ROOT or backup in ROOT.parents or ROOT in backup.parents:
+        raise RuntimeError("Copia externa invalida. No puede ser el repositorio original.")
+    import hashlib
+    def digest(path):
+        h=hashlib.sha256()
+        with path.open("rb") as fd:
+            for chunk in iter(lambda:fd.read(4*1024*1024),b""):h.update(chunk)
+        return h.hexdigest()
+    for source in native_files:
+        copy=backup/source.relative_to(ROOT)
+        if not copy.is_file() or copy.stat().st_size!=source.stat().st_size or digest(copy)!=digest(source):
+            raise RuntimeError("Copia EXTERNA incompleta o distinta: "+str(copy))
+    print(" [VERIFICADO] Historial jugadores, CURRENT y arbitros coinciden por SHA256.")
+    if input(" Escribe EXACTO BORRAR_SOLO_BACKUPS para eliminar _BACKUPS_PLAYER_DELTA: ").strip()!="BORRAR_SOLO_BACKUPS":
+        print(" Cancelado.");return
+    shutil.rmtree(folder)
+    print(" [LISTO] Backups DELTA antiguos eliminados. Master intacto.")
+    print(" En GitHub Desktop NO publiques por accidente otros archivos grandes.")
 
 def archive_old():
     candidates=[
@@ -496,6 +557,7 @@ def main():
     print(" 4 - INTEGRAR HISTORIAL PLAYER DELTA COMPATIBLE (MODIFICA DATOS)")
     print(" 5 - BORRAR SOLO CACHES __pycache__")
     print(" 6 - ARCHIVAR BATS ANTIGUOS SIN BORRARLOS")
+    print(" 7 - BORRAR RESPALDOS DELTA (SOLO CON COPIA EXTERNA VERIFICADA)")
     print(" 0 - SALIR")
     opt=input("\n ELIGE: ").strip()
     if opt=="1":inspect()
@@ -504,6 +566,7 @@ def main():
     elif opt=="4":integrate_player_history()
     elif opt=="5":cleanup()
     elif opt=="6":archive_old()
+    elif opt=="7":purge_verified_old_backups()
     else:print(" Sin cambios.")
 
 if __name__=="__main__":
