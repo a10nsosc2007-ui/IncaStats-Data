@@ -14,9 +14,9 @@ from pathlib import Path
 REPO=Path(__file__).resolve().parent
 TITAN=REPO/"TITAN_ALONSINHO_V1_GITHUB_READY"
 MASTER=REPO/"INCA_BASE_MAESTRA"
-PATCH_SHA="f477ff48998a6cdc2ad0a3ed6b3fc03ea1367d84"
+PATCH_SHA="a1698e8970ee153f6315576f8a40c982fe0cdd4e"
 RAW="https://raw.githubusercontent.com/a10nsosc2007-ui/IncaStats-Data/"+PATCH_SHA+"/APP_V3_PATCH/"
-FILES=("inca-v3-rescue.js","inca-v3-player-streaks.js","inca-v3-rescue.css")
+FILES=("inca-v3-rescue.js","inca-v3-player-streaks.js","inca-v3-referees.js","inca-v3-rescue.css")
 
 def load(p):
     with p.open("r",encoding="utf-8-sig") as f:return json.load(f)
@@ -164,10 +164,11 @@ def main():
     scripts=(
       '<script defer src="./inca-v3-rescue.js?v=3.0.0"></script>\n'
       '<script defer src="./inca-v3-player-streaks.js?v=3.0.0"></script>\n'
+      '<script defer src="./inca-v3-referees.js?v=3.0.0"></script>\n'
     )
     if 'inca-v3-rescue.css' not in html: html=re.sub(r"</head>",banner+"\n</head>",html,count=1,flags=re.I)
     if 'inca-v3-rescue.js' not in html: html=re.sub(r"</body>",scripts+"</body>",html,count=1,flags=re.I)
-    print("  Se instala recuperador del ANALIZADOR + Rachas de Jugadores.")
+    print("  Se instala recuperador ANALIZADOR + Rachas Jugadores + árbitros confirmados.")
     print("  No cambia tus claves, base SQL, ni el motor de cuotas original.")
     print("  Solo sincroniza indices JSON pequenos; NO copia CSV historicos.")
     if input("\n Escribe INSTALAR_V3 para aplicar en esta APP: ").strip()!="INSTALAR_V3":
