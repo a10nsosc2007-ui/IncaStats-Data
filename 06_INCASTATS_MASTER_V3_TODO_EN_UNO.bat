@@ -133,10 +133,11 @@ def check_team_rows(path, tid, pairs=None, events=None):
                 sid=str(row.get("Season_ID") or "").strip()
                 if cid.isdigit() and sid.isdigit():
                     key=(int(cid),int(sid))
-                    pair=pairs.setdefault(key,{"phases":set(),"stages":set(),"types":set(),"dates":[]})
+                    pair=pairs.setdefault(key,{"phases":set(),"stages":set(),"types":set(),"formats":set(),"dates":[]})
                     if row.get("Competition_Phase"):pair["phases"].add(row["Competition_Phase"])
                     if row.get("Competition_Stage"):pair["stages"].add(row["Competition_Stage"])
                     if row.get("Competition_Type"):pair["types"].add(row["Competition_Type"])
+                    if row.get("Season_Format"):pair["formats"].add(row["Season_Format"])
                     if row.get("Fecha") and len(pair["dates"])<2:pair["dates"].append(row["Fecha"])
     return count,len(ev)
 
@@ -270,9 +271,9 @@ def repair_metadata():
                 start,end=dates_range_from_label(label)
                 sm[sk]={"competition_id":cid,"season_id":sid,"label":label,
                         "start_year":start,"end_year":end,
-                        "season_format":"NORMAL" if start!=end else "CALENDAR",
+                        "season_format":sorted(info["formats"])[0] if info["formats"] else "",
                         "competition_type":kind or "UNKNOWN",
-                        "season_status":"FINISHED" if end and end<2026 else "UNKNOWN",
+                        "season_status":"UNKNOWN",
                         "season_status_basis":"INCA_V3_REAL_SOURCE_LABEL",
                         "phases":sorted(info["phases"]),
                         "stages":sorted(info["stages"]),"regions":[]}
@@ -282,8 +283,10 @@ def repair_metadata():
                 "season_id":sid,"season_label":label,
                 "start_year":sm.get(sk,{}).get("start_year",0),
                 "end_year":sm.get(sk,{}).get("end_year",0),
-                "competition_phase":sorted(info["phases"])[0] if info["phases"] else "",
-                "competition_stage":sorted(info["stages"])[0] if info["stages"] else "",
+                "competition_phase":next(iter(info["phases"])) if len(info["phases"])==1 else "",
+                "all_competition_phases":sorted(info["phases"]),
+                "competition_stage":next(iter(info["stages"])) if len(info["stages"])==1 else "",
+                "all_competition_stages":sorted(info["stages"]),
                 "competition_type":kind,
                 "season_format":sm.get(sk,{}).get("season_format",""),
             })
