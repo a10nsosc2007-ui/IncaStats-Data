@@ -14,7 +14,7 @@ from pathlib import Path
 REPO=Path(__file__).resolve().parent
 TITAN=REPO/"TITAN_ALONSINHO_V1_GITHUB_READY"
 MASTER=REPO/"INCA_BASE_MAESTRA"
-PATCH_SHA="fe28f13f2f757151719d2c474d29f0c74901045c"
+PATCH_SHA="f477ff48998a6cdc2ad0a3ed6b3fc03ea1367d84"
 RAW="https://raw.githubusercontent.com/a10nsosc2007-ui/IncaStats-Data/"+PATCH_SHA+"/APP_V3_PATCH/"
 FILES=("inca-v3-rescue.js","inca-v3-player-streaks.js","inca-v3-rescue.css")
 
