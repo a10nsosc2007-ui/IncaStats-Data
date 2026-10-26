@@ -81,7 +81,11 @@ function run(){
   const line=Number($('incaV3Line')?.value);
   if(!Number.isFinite(line)||line<0){output.textContent='Indica una línea válida.';return;}
   const rows=context(lastMatches);
-  const valid=rows.filter(x=>x[def[0]]!==undefined&&x[def[0]]!==null&&String(x[def[0]]).trim()!=='');
+  const valid=rows.filter(x=>{
+    const value=x[def[0]];
+    return value!==undefined&&value!==null&&String(value).trim()!==''&&
+      Number.isFinite(Number(String(value).replace(',','.')));
+  });
   const sample=valid.slice(0,limit);
   if(!sample.length){
     output.innerHTML='<div class="inca-v3-empty">Sin partidos con esta métrica y este filtro. No se completarán datos faltantes con ceros.</div>';
