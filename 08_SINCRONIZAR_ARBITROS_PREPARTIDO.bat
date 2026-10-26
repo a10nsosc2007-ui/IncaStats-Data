@@ -133,16 +133,17 @@ def main():
             old=json.loads(output.read_text(encoding="utf-8-sig"))
             if old.get("schema")==data["schema"]:
                 for x in old.get("events",[]):
-                    if x.get("referee_name") and x.get("referee_confirmed") and
-                       parse_date(x.get("kickoff_utc")) and parse_date(x["kickoff_utc"])>=now-dt.timedelta(hours=2):
+                    parsed_date=parse_date(x.get("kickoff_utc"))
+                    if (x.get("referee_name") and x.get("referee_confirmed") and
+                        parsed_date is not None and parsed_date>=now-dt.timedelta(hours=2)):
                         data["events"].append(x)
         except (OSError,ValueError):pass
     byid={str(x["event_id"]):x for x in data["events"]}
     for n,ev in enumerate(upcoming,1):
         try:
-            if ev["event_id"] in byid and
-               parse_date(byid[ev["event_id"]].get("verified_at_utc")) and
-               now-parse_date(byid[ev["event_id"]]["verified_at_utc"]) < dt.timedelta(minutes=30):
+            previous=byid.get(ev["event_id"])
+            previous_when=parse_date(previous.get("verified_at_utc")) if previous else None
+            if previous_when is not None and now-previous_when < dt.timedelta(minutes=30):
                 continue
             print(" Consultando",n,"/",len(upcoming),ev["event_id"])
             data["requests"]+=1
