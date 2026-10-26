@@ -1,0 +1,12 @@
+{
+  "schema": "incastats.central-import.v1",
+  "last_import_at": "2026-10-19T13:45:29-05:00",
+  "imported_sha256": [
+    "dcbea60dbf9df2693a07faab1bd0910376db287dbc61c2fefd63608c402950f9"
+  ],
+  "teams": 782,
+  "players": 8260,
+  "player_matches": 32595,
+  "source_input": "INCA_EXPANSION_UNIVERSAL_FINAL.zip",
+  "note": "Fuente central de datos; apps y directorios TITAN previos sin modificar."
+}

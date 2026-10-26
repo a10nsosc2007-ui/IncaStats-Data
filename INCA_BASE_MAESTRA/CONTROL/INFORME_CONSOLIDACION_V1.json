@@ -1,0 +1,26 @@
+{
+  "schema": "incastats.integracion_master.v1",
+  "fecha_utc": "2026-10-26T05:13:51.431511+00:00",
+  "catalogos": {
+    "equipos": 782,
+    "jugadores": 8260
+  },
+  "titan_equipos_post": 782,
+  "ids_adicionales_vs_titan_original": 0,
+  "csv_nuevos_trasladados": 0,
+  "upsert_equipos_existentes": {
+    "csv_actualizados_y_consumidos": 0,
+    "filas_nuevas": 0,
+    "filas_actualizadas": 0,
+    "errores": []
+  },
+  "catalogo_jugadores_titan": {
+    "status": "NO_SOLICITADO"
+  },
+  "integracion_estadisticas_jugadores": "PENDIENTE_ADAPTADOR_NATIVO",
+  "integracion_estadisticas_arbitros": "PENDIENTE_ADAPTADOR_NATIVO",
+  "titan_viejo_intacto": true,
+  "equipos": [],
+  "archivos_no_asignados": [],
+  "nota": "Los catálogos MASTER mantienen IDs; solo CSV por equipo compatibles se trasladan a TITAN sin copiar. No implica completa integración de datos de jugadores ni árbitros."
+}

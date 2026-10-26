@@ -1,0 +1,99 @@
+{
+  "schema": "incastats.organizador.audit.v1",
+  "generated_at_utc": "2026-10-21T07:14:59.804856+00:00",
+  "repo": "C:\\Users\\MSI CYBORG\\OneDrive\\Documentos\\GitHub\\IncaStats-Data",
+  "master_exists": true,
+  "master_teams_count": 782,
+  "legacy_teams_count": 751,
+  "new_team_ids_vs_legacy": [
+    "116312",
+    "126304",
+    "162368",
+    "171626",
+    "1925",
+    "2032",
+    "2036",
+    "2205",
+    "2216",
+    "2218",
+    "2244",
+    "2352",
+    "2353",
+    "2404",
+    "2413",
+    "262229",
+    "264619",
+    "267828",
+    "3121",
+    "3273",
+    "3275",
+    "3313",
+    "3395",
+    "37946",
+    "4502",
+    "5149",
+    "5172",
+    "5202",
+    "5235",
+    "7691",
+    "80741"
+  ],
+  "master_players_count": 8260,
+  "arbitros_manifest_count": 982,
+  "legacy_matches_count": 85035,
+  "files": {
+    "equipos": {
+      "exists": true,
+      "bytes": 205316
+    },
+    "equipos_manifest": {
+      "exists": true,
+      "bytes": 3829
+    },
+    "jugadores_current": {
+      "exists": true,
+      "bytes": 26347
+    },
+    "jugadores_historicos": {
+      "exists": true,
+      "bytes": 14553016
+    },
+    "arbitros": {
+      "exists": true,
+      "bytes": 970
+    },
+    "master_equipos": {
+      "exists": true,
+      "bytes": 98064
+    },
+    "master_jugadores": {
+      "exists": true,
+      "bytes": 2644330
+    }
+  },
+  "existing_heavy_folders": {
+    "exportaciones_viejas": {
+      "exists": true,
+      "bytes": 0,
+      "files": 0
+    },
+    "respaldos_master_viejos": {
+      "exists": true,
+      "bytes": 184594,
+      "files": 1
+    },
+    "respaldos_player_viejos": {
+      "exists": true,
+      "bytes": 720339750,
+      "files": 35
+    }
+  },
+  "native_data_will_not_move": [
+    "TITAN_ALONSINHO_V1_GITHUB_READY",
+    "TITAN_PLAYERS_CURRENT",
+    "TITAN_PLAYERS_MASTER_2025_PLUS",
+    "TITAN_REFEREES_CURRENT",
+    "TITAN_LOGOS_COMP"
+  ],
+  "policy": "No se copian, borran ni migran los TITAN; importaciones futuras solo se trasladan explicitamente."
+}

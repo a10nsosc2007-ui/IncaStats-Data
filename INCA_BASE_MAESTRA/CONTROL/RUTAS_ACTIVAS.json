@@ -1,0 +1,15 @@
+{
+  "schema": "incastats.rutas.central.v1",
+  "base": "INCA_BASE_MAESTRA",
+  "equipos_native": "TITAN_ALONSINHO_V1_GITHUB_READY",
+  "jugadores_current": "TITAN_PLAYERS_CURRENT",
+  "jugadores_historicos": "TITAN_PLAYERS_MASTER_2025_PLUS",
+  "arbitros_native": "TITAN_REFEREES_CURRENT",
+  "logos_competiciones": "TITAN_LOGOS_COMP",
+  "master_equipos": "INCA_BASE_MAESTRA/BASE_EQUIPOS_MASTER.json",
+  "master_jugadores": "INCA_BASE_MAESTRA/BASE_JUGADORES_MASTER.json",
+  "bandeja_equipos": "INCA_BASE_MAESTRA/ENTRADAS/EQUIPOS",
+  "bandeja_jugadores": "INCA_BASE_MAESTRA/ENTRADAS/JUGADORES",
+  "bandeja_arbitros": "INCA_BASE_MAESTRA/ENTRADAS/ARBITROS",
+  "warning": "Estas rutas registran las fuentes actuales; no cambian las rutas que consume la app."
+}

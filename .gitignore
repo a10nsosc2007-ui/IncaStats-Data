@@ -1,1 +1,9 @@
 IncaStats_Data_V5.csv
+
+# INCASTATS: temporales y respaldos antiguos (no se borran)
+/INCA_BASE_MAESTRA/EXPORTACIONES/
+/INCA_BASE_MAESTRA/RESPALDOS/
+/_BACKUPS_PLAYER_DELTA/
+/__pycache__/
+**/__pycache__/
+*.incatmp

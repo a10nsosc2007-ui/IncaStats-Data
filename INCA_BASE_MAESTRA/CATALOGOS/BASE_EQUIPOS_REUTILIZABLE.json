@@ -1,0 +1,4698 @@
+{
+  "teams": [
+    {
+      "team_id": 1,
+      "name": "Queens Park Rangers",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2,
+      "name": "Portsmouth",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3,
+      "name": "Wolverhampton",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 4,
+      "name": "Milton Keynes Dons",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5,
+      "name": "Bolton Wanderers",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6,
+      "name": "Burnley",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7,
+      "name": "Crystal Palace",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 8,
+      "name": "West Bromwich Albion",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 9,
+      "name": "Birmingham City",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 10,
+      "name": "Stockport County",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 11,
+      "name": "Coventry City",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 12,
+      "name": "Sheffield Wednesday",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 13,
+      "name": "Rotherham United",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 14,
+      "name": "Nottingham Forest",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 15,
+      "name": "Sheffield United",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 17,
+      "name": "Manchester City",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 18,
+      "name": "Grimsby Town",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 19,
+      "name": "Crewe Alexandra",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 20,
+      "name": "Gillingham",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 21,
+      "name": "Preston North End",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 22,
+      "name": "Bradford City",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 23,
+      "name": "Barnsley",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 24,
+      "name": "Watford",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 25,
+      "name": "Millwall",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 26,
+      "name": "Walsall",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 27,
+      "name": "Derby County",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 28,
+      "name": "Reading",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 29,
+      "name": "Stoke City",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 30,
+      "name": "Brighton & Hove Albion",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 31,
+      "name": "Leicester City",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 32,
+      "name": "Ipswich Town",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 33,
+      "name": "Tottenham Hotspur",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 34,
+      "name": "Leeds United",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 35,
+      "name": "Manchester United",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 36,
+      "name": "Middlesbrough",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 37,
+      "name": "West Ham United",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 38,
+      "name": "Chelsea",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 39,
+      "name": "Newcastle United",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 40,
+      "name": "Aston Villa",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 41,
+      "name": "Sunderland",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 42,
+      "name": "Arsenal",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 43,
+      "name": "Fulham",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 44,
+      "name": "Liverpool FC",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 45,
+      "name": "Southampton",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 46,
+      "name": "Blackburn Rovers",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 47,
+      "name": "Charlton Athletic",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 48,
+      "name": "Everton",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 49,
+      "name": "Wigan Athletic",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 50,
+      "name": "Brentford",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 51,
+      "name": "Tranmere Rovers",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 53,
+      "name": "Swindon Town",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 54,
+      "name": "Peterborough United",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 55,
+      "name": "Port Vale",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 56,
+      "name": "Notts County",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 57,
+      "name": "Northampton Town",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 58,
+      "name": "Bristol City",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 59,
+      "name": "Huddersfield Town",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 60,
+      "name": "Bournemouth",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 61,
+      "name": "Cardiff City",
+      "country": "Wales",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 62,
+      "name": "Wycombe Wanderers",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 63,
+      "name": "Cambridge United",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 64,
+      "name": "Wrexham",
+      "country": "Wales",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 65,
+      "name": "Oldham Athletic",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 66,
+      "name": "Colchester United",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 67,
+      "name": "Blackpool",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 68,
+      "name": "Chesterfield",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 69,
+      "name": "Cheltenham Town",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 70,
+      "name": "Mansfield Town",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 71,
+      "name": "Plymouth Argyle",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 72,
+      "name": "Luton Town",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 73,
+      "name": "York City",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 74,
+      "name": "Swansea City",
+      "country": "Wales",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 76,
+      "name": "Bristol Rovers",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 77,
+      "name": "Barnet",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 78,
+      "name": "Carlisle United",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 79,
+      "name": "Newport County",
+      "country": "Wales",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 81,
+      "name": "Morecambe",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 82,
+      "name": "Shrewsbury Town",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 83,
+      "name": "Leyton Orient",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 84,
+      "name": "Doncaster Rovers",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 85,
+      "name": "Scunthorpe United",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 86,
+      "name": "Exeter City",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 92,
+      "name": "Lincoln City",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 94,
+      "name": "Forest Green Rovers",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 95,
+      "name": "Oxford United",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 96,
+      "name": "Hull City",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 97,
+      "name": "Barrow AFC",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 101,
+      "name": "Hartlepool United",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 103,
+      "name": "Rochdale",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 133,
+      "name": "Stevenage",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 134,
+      "name": "Burton Albion",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 159,
+      "name": "Harrogate Town",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 180,
+      "name": "Bromley",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 187,
+      "name": "Accrington Stanley",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 263,
+      "name": "Norwich City",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 656,
+      "name": "Bodø/Glimt",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 657,
+      "name": "Lyn FK",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 659,
+      "name": "Odds BK",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 660,
+      "name": "Tromsø IL",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 661,
+      "name": "Molde FK",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 662,
+      "name": "Moss FK",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 663,
+      "name": "Bryne FK",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 664,
+      "name": "Lillestrøm SK",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 666,
+      "name": "HamKam",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 667,
+      "name": "IK Start",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 672,
+      "name": "Kongsvinger",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 673,
+      "name": "Haugesund",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 676,
+      "name": "Sandefjord Fotball",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 677,
+      "name": "Aalesunds FK",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 687,
+      "name": "Fredrikstad FK",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 708,
+      "name": "Ranheim IL",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 786,
+      "name": "KFUM Oslo",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 822,
+      "name": "Sarpsborg 08",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 862,
+      "name": "FK Jerv",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 903,
+      "name": "Mjøndalen IF",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 920,
+      "name": "Egersund",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 929,
+      "name": "Sandnes Ulf",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 957,
+      "name": "Kristiansund BK",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1159,
+      "name": "SK Brann",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1161,
+      "name": "Rosenborg BK",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1162,
+      "name": "Stabæk Fotball",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1163,
+      "name": "Strømsgodset",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1164,
+      "name": "Viking FK",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1165,
+      "name": "Vålerenga IF",
+      "country": "Norway",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1281,
+      "name": "Brøndby IF",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1284,
+      "name": "FC København",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1285,
+      "name": "Silkeborg IF",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1286,
+      "name": "Odense Boldklub",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1288,
+      "name": "Viborg FF",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1289,
+      "name": "FC Midtjylland",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1290,
+      "name": "AaB",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1291,
+      "name": "AGF",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1292,
+      "name": "FC Nordsjælland",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1295,
+      "name": "Sønderjyske Fodbold",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1297,
+      "name": "AC Horsens",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1301,
+      "name": "Randers FC",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1302,
+      "name": "FC Fredericia",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1305,
+      "name": "Hvidovre",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1641,
+      "name": "Olympique de Marseille",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1642,
+      "name": "Montpellier",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1643,
+      "name": "Lille",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1644,
+      "name": "Paris Saint-Germain",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1645,
+      "name": "Bordeaux",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1646,
+      "name": "Auxerre",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1647,
+      "name": "Nantes",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1648,
+      "name": "RC Lens",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1649,
+      "name": "Olympique Lyonnais",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1651,
+      "name": "Metz",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1652,
+      "name": "Troyes",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1653,
+      "name": "AS Monaco",
+      "country": "Monaco",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1654,
+      "name": "Guingamp",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1655,
+      "name": "Bastia",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1656,
+      "name": "Lorient",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1657,
+      "name": "Sochaux",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1658,
+      "name": "Stade Rennais",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1659,
+      "name": "RC Strasbourg",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1660,
+      "name": "Ajaccio",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1661,
+      "name": "Nice",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1662,
+      "name": "Le Havre",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1663,
+      "name": "Nîmes Olympique",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1664,
+      "name": "FC Martigues",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1665,
+      "name": "Chamois Niortais",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1667,
+      "name": "Stade Malherbe Caen",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1671,
+      "name": "Grenoble Foot 38",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1672,
+      "name": "Le Mans",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1673,
+      "name": "Stade Lavallois",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1675,
+      "name": "Nancy",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1676,
+      "name": "Amiens SC",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1678,
+      "name": "Saint-Étienne",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1680,
+      "name": "Clermont Foot",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1681,
+      "name": "Toulouse",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1682,
+      "name": "Stade de Reims",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1684,
+      "name": "Angers",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1685,
+      "name": "Pau FC",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1686,
+      "name": "Dijon",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1711,
+      "name": "US Boulogne Côte-d'Opale",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1715,
+      "name": "Stade Brestois",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1756,
+      "name": "Lyngby",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1758,
+      "name": "Hammarby IF",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1759,
+      "name": "Djurgårdens IF",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1760,
+      "name": "BK Häcken",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1761,
+      "name": "IFK Göteborg",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1762,
+      "name": "IF Elfsborg",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1763,
+      "name": "GIF Sundsvall",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1764,
+      "name": "AIK",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1766,
+      "name": "Örgryte IS",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1767,
+      "name": "Halmstads BK",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1768,
+      "name": "Örebro SK",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1769,
+      "name": "IFK Norrköping",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1772,
+      "name": "Landskrona BoIS",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1775,
+      "name": "Västerås SK",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1781,
+      "name": "Östers IF",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1783,
+      "name": "Mjällby AIF",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1786,
+      "name": "GAIS",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1787,
+      "name": "IF Brommapojkarna",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1793,
+      "name": "IK Sirius",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1807,
+      "name": "Degerfors IF",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1836,
+      "name": "Östersunds FK",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1842,
+      "name": "IFK Värnamo",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1890,
+      "name": "Helsingborgs IF",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1891,
+      "name": "Kalmar FF",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1892,
+      "name": "Malmö FF",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1925,
+      "name": "Ferencváros TC",
+      "country": "Hungary",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1954,
+      "name": "Cruzeiro",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1955,
+      "name": "Bahia",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1957,
+      "name": "Corinthians",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1958,
+      "name": "Botafogo",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1959,
+      "name": "Sport Recife",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1960,
+      "name": "Goiás",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1961,
+      "name": "Fluminense",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1962,
+      "name": "Vitória",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1963,
+      "name": "Palmeiras",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1966,
+      "name": "Internacional",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1967,
+      "name": "Athletico",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1968,
+      "name": "Santos",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1969,
+      "name": "Ponte Preta",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1972,
+      "name": "Guarani",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1973,
+      "name": "América Mineiro",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1974,
+      "name": "Vasco da Gama",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1977,
+      "name": "Atlético Mineiro",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1979,
+      "name": "Botafogo-SP",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1980,
+      "name": "Juventude",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1981,
+      "name": "São Paulo",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1982,
+      "name": "Coritiba",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1984,
+      "name": "Criciúma",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1986,
+      "name": "Grêmio Esportivo Brasil",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1997,
+      "name": "Paysandu SC",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1999,
+      "name": "Red Bull Bragantino",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2001,
+      "name": "Ceará",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2005,
+      "name": "Sampaio Corrêa",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2010,
+      "name": "CSA",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2011,
+      "name": "Náutico",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2012,
+      "name": "Remo",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2017,
+      "name": "Confiança",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2020,
+      "name": "Fortaleza",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2021,
+      "name": "Vila Nova FC",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2022,
+      "name": "Londrina",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2025,
+      "name": "Ituano",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2032,
+      "name": "GNK Dinamo Zagreb",
+      "country": "Croatia",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2036,
+      "name": "HNK Hajduk Split",
+      "country": "Croatia",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2046,
+      "name": "Red Bull Salzburg",
+      "country": "Austria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2049,
+      "name": "SV Ried",
+      "country": "Austria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2050,
+      "name": "Admira Wacker",
+      "country": "Austria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2051,
+      "name": "SK Sturm Graz",
+      "country": "Austria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2052,
+      "name": "Grazer AK 1902",
+      "country": "Austria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2055,
+      "name": "SK Rapid Wien",
+      "country": "Austria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2058,
+      "name": "LASK",
+      "country": "Austria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2062,
+      "name": "SC Austria Lustenau",
+      "country": "Austria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2075,
+      "name": "TSV Hartberg",
+      "country": "Austria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2076,
+      "name": "Wolfsberger AC",
+      "country": "Austria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2113,
+      "name": "FC Blau Weiss Linz",
+      "country": "Austria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2203,
+      "name": "FK Austria Wien",
+      "country": "Austria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2205,
+      "name": "FK Jablonec",
+      "country": "Czechia",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2216,
+      "name": "SK Slavia Praha",
+      "country": "Czechia",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2218,
+      "name": "AC Sparta Praha",
+      "country": "Czechia",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2244,
+      "name": "Kuopion Palloseura",
+      "country": "Finland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2301,
+      "name": "Cienciano",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2302,
+      "name": "Club Sporting Cristal",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2305,
+      "name": "Universitario de Deportes",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2307,
+      "name": "Alianza Atlético de Sullana",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2308,
+      "name": "Melgar",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2311,
+      "name": "Alianza Lima",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2312,
+      "name": "Sport Boys",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2352,
+      "name": "Celtic",
+      "country": "Scotland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2353,
+      "name": "Heart of Midlothian",
+      "country": "Scotland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2404,
+      "name": "ŠK Slovan Bratislava",
+      "country": "Slovakia",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2413,
+      "name": "NK Celje",
+      "country": "Slovenia",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2442,
+      "name": "FC St. Gallen 1879",
+      "country": "Switzerland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2443,
+      "name": "FC Lugano",
+      "country": "Switzerland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2445,
+      "name": "BSC Young Boys",
+      "country": "Switzerland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2446,
+      "name": "FC Lausanne-Sport",
+      "country": "Switzerland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2448,
+      "name": "Servette FC",
+      "country": "Switzerland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2449,
+      "name": "Grasshopper Club Zürich",
+      "country": "Switzerland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2450,
+      "name": "FC Zürich",
+      "country": "Switzerland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2452,
+      "name": "FC Sion",
+      "country": "Switzerland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2453,
+      "name": "FC Luzern",
+      "country": "Switzerland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2454,
+      "name": "FC Thun",
+      "country": "Switzerland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2458,
+      "name": "FC Winterthur",
+      "country": "Switzerland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2460,
+      "name": "Yverdon-Sport FC",
+      "country": "Switzerland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2463,
+      "name": "FC Vaduz",
+      "country": "Liechtenstein",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2501,
+      "name": "Basel",
+      "country": "Switzerland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2502,
+      "name": "DC United",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2504,
+      "name": "Columbus Crew",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2505,
+      "name": "Chicago Fire",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2506,
+      "name": "New York Red Bulls",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2508,
+      "name": "Houston Dynamo",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2509,
+      "name": "Sporting Kansas City",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2510,
+      "name": "Colorado Rapids",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2511,
+      "name": "New England Revolution",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2512,
+      "name": "FC Dallas",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2513,
+      "name": "LA Galaxy",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2523,
+      "name": "1. FC Nürnberg",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2524,
+      "name": "VfL Wolfsburg",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2526,
+      "name": "FC St. Pauli",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2527,
+      "name": "Borussia M'gladbach",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2528,
+      "name": "Hertha BSC",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2530,
+      "name": "FC Schalke 04",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2532,
+      "name": "Energie Cottbus",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2533,
+      "name": "FC Hansa Rostock",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2534,
+      "name": "SV Werder Bremen",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2538,
+      "name": "SC Freiburg",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2540,
+      "name": "Arminia Bielefeld",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2541,
+      "name": "Hannover 96",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2542,
+      "name": "VfL Bochum 1848",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2547,
+      "name": "1. FC Union Berlin",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2551,
+      "name": "SpVgg Greuther Fürth",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2553,
+      "name": "Karlsruher SC",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2556,
+      "name": "1. FSV Mainz 05",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2557,
+      "name": "Eintracht Braunschweig",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2561,
+      "name": "SC Paderborn 07",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2566,
+      "name": "Erzgebirge Aue",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2567,
+      "name": "SSV Jahn Regensburg",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2569,
+      "name": "TSG Hoffenheim",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2573,
+      "name": "Holstein Kiel",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2576,
+      "name": "Darmstadt 98",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2580,
+      "name": "SSV Ulm 1846",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2581,
+      "name": "VfL Osnabrück",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2588,
+      "name": "Fortuna Düsseldorf",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2590,
+      "name": "Preußen Münster",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2591,
+      "name": "1. FC Magdeburg",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2595,
+      "name": "SG Dynamo Dresden",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2597,
+      "name": "SV Wehen Wiesbaden",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2598,
+      "name": "SV 07 Elversberg",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2600,
+      "name": "FC Augsburg",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2671,
+      "name": "1. FC Köln",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2672,
+      "name": "FC Bayern München",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2673,
+      "name": "Borussia Dortmund",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2674,
+      "name": "Eintracht Frankfurt",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2675,
+      "name": "1. FC Kaiserslautern",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2676,
+      "name": "Hamburger SV",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2677,
+      "name": "VfB Stuttgart",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2681,
+      "name": "Bayer 04 Leverkusen",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2685,
+      "name": "Bologna",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2686,
+      "name": "Atalanta",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2687,
+      "name": "Juventus",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2688,
+      "name": "Venezia",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2689,
+      "name": "Lecce",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2690,
+      "name": "Parma",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2691,
+      "name": "Brescia",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2692,
+      "name": "AC Milan",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2693,
+      "name": "Fiorentina",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2695,
+      "name": "Udinese",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2696,
+      "name": "Torino",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2697,
+      "name": "Inter",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2698,
+      "name": "Perugia",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2699,
+      "name": "Lazio",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2701,
+      "name": "Hellas Verona",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2702,
+      "name": "AS Roma",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2704,
+      "name": "Como",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2705,
+      "name": "Empoli",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2706,
+      "name": "Modena",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2707,
+      "name": "Ascoli",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2708,
+      "name": "Ternana",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2710,
+      "name": "Us Salernitana 1919",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2711,
+      "name": "Sampdoria",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2712,
+      "name": "Bari",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2713,
+      "name": "Genoa",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2714,
+      "name": "SSC Napoli",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2715,
+      "name": "Palermo",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2716,
+      "name": "Cosenza",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2717,
+      "name": "Cittadella",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2718,
+      "name": "FC Crotone",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2719,
+      "name": "Cagliari",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2722,
+      "name": "L.R. Vicenza",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2729,
+      "name": "Monza",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2730,
+      "name": "US Avellino 1912",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2731,
+      "name": "Arezzo",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2735,
+      "name": "Spezia",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2737,
+      "name": "Pisa",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2741,
+      "name": "Padova",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2742,
+      "name": "Cesena",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2745,
+      "name": "Carrarese",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2759,
+      "name": "Benevento",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2760,
+      "name": "Südtirol",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2761,
+      "name": "Cremonese",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2770,
+      "name": "Mantova",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2793,
+      "name": "Sassuolo",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2796,
+      "name": "Catanzaro",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2801,
+      "name": "Frosinone",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2814,
+      "name": "Espanyol",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2815,
+      "name": "Real Zaragoza",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2816,
+      "name": "Real Betis",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2817,
+      "name": "FC Barcelona",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2818,
+      "name": "Rayo Vallecano",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2819,
+      "name": "Villarreal",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2820,
+      "name": "Osasuna",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2821,
+      "name": "Celta Vigo",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2822,
+      "name": "CD Tenerife",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2824,
+      "name": "Real Sociedad",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2825,
+      "name": "Athletic Club",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2826,
+      "name": "Mallorca",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2828,
+      "name": "Valencia",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2829,
+      "name": "Real Madrid",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2830,
+      "name": "Málaga CF",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2831,
+      "name": "Real Valladolid",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2832,
+      "name": "Deportivo de A Coruña",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2833,
+      "name": "Sevilla",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2835,
+      "name": "Real Racing Club",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2836,
+      "name": "Atlético Madrid",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2839,
+      "name": "Eibar",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2843,
+      "name": "Racing de Ferrol",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2845,
+      "name": "Leganés",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2846,
+      "name": "Elche",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2848,
+      "name": "Albacete Balompié",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2849,
+      "name": "Levante UD",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2850,
+      "name": "Córdoba",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2851,
+      "name": "Real Oviedo",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2852,
+      "name": "Sporting Gijón",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2854,
+      "name": "Burgos Club de Fútbol",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2858,
+      "name": "Almería",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2859,
+      "name": "Getafe",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2868,
+      "name": "Cultural Leonesa",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2869,
+      "name": "AD Ceuta",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2885,
+      "name": "Deportivo Alavés",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2888,
+      "name": "Club Brugge KV",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2889,
+      "name": "Royal Antwerp FC",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2890,
+      "name": "KRC Genk",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2893,
+      "name": "KVC Westerlo",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2895,
+      "name": "Sint-Truidense VV",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2898,
+      "name": "RC Sporting Charleroi",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2900,
+      "name": "RSC Anderlecht",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2901,
+      "name": "Standard Liège",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2903,
+      "name": "KAA Gent",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2918,
+      "name": "Oud-Heverlee Leuven",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2926,
+      "name": "KAS Eupen",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2929,
+      "name": "Cercle Brugge",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2933,
+      "name": "SV Zulte Waregem",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2947,
+      "name": "NAC Breda",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2948,
+      "name": "FC Utrecht",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2949,
+      "name": "De Graafschap",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2950,
+      "name": "AZ Alkmaar",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2951,
+      "name": "FC Groningen",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2952,
+      "name": "PSV Eindhoven",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2953,
+      "name": "AFC Ajax",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2954,
+      "name": "Roda JC Kerkrade",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2955,
+      "name": "FC Twente",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2956,
+      "name": "RKC Waalwijk",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2957,
+      "name": "Fortuna Sittard",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2958,
+      "name": "Vitesse",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2959,
+      "name": "Feyenoord",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2960,
+      "name": "Sparta Rotterdam",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2961,
+      "name": "Willem II Tilburg",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2962,
+      "name": "NEC Nijmegen",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2963,
+      "name": "FC Den Bosch",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2964,
+      "name": "SC Heerenveen",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2965,
+      "name": "FC Emmen",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2966,
+      "name": "ADO Den Haag",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2967,
+      "name": "Excelsior",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2968,
+      "name": "FC Volendam",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2970,
+      "name": "SC Cambuur",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2971,
+      "name": "PEC Zwolle",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2972,
+      "name": "SC Telstar",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2973,
+      "name": "FC Dordrecht",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2974,
+      "name": "Helmond Sport",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2976,
+      "name": "MVV Maastricht",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2977,
+      "name": "Heracles Almelo",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2978,
+      "name": "TOP Oss",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2979,
+      "name": "Go Ahead Eagles",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2980,
+      "name": "VVV-Venlo",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2990,
+      "name": "Almere City FC",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2994,
+      "name": "FC Eindhoven",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2995,
+      "name": "Boavista",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2998,
+      "name": "SC Farense",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 2999,
+      "name": "Sporting Braga",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3000,
+      "name": "União de Leiria",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3001,
+      "name": "Sporting CP",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3002,
+      "name": "FC Porto",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3003,
+      "name": "Paços de Ferreira",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3004,
+      "name": "B-SAD",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3005,
+      "name": "Varzim SC",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3006,
+      "name": "Benfica",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3007,
+      "name": "CS Marítimo",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3009,
+      "name": "Vitória SC",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3010,
+      "name": "Gil Vicente",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3011,
+      "name": "Santa Clara",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3013,
+      "name": "CD Nacional",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3014,
+      "name": "Moreirense",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3015,
+      "name": "Académica Coimbra",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3017,
+      "name": "Penafiel",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3018,
+      "name": "Leixões SC",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3022,
+      "name": "Académico Viseu FC",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3025,
+      "name": "Chaves",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3026,
+      "name": "Portimonense SAD",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3030,
+      "name": "Felgueiras",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3035,
+      "name": "CF Estrela Amadora",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3036,
+      "name": "Rio Ave",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3037,
+      "name": "SC Covilhã",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3050,
+      "name": "Beşiktaş JK",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3051,
+      "name": "Trabzonspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3052,
+      "name": "Fenerbahçe",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3053,
+      "name": "Samsunspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3054,
+      "name": "Göztepe",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3055,
+      "name": "Bursaspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3056,
+      "name": "Antalyaspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3061,
+      "name": "Galatasaray",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3064,
+      "name": "Çaykur Rizespor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3065,
+      "name": "Kocaelispor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3066,
+      "name": "İstanbulspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3070,
+      "name": "Altay",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3072,
+      "name": "Kayserispor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3076,
+      "name": "Sivasspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3085,
+      "name": "Konyaspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3086,
+      "name": "Başakşehir FK",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3091,
+      "name": "Hatayspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3099,
+      "name": "Batman Petrolspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3101,
+      "name": "Adana Demirspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3103,
+      "name": "MKE Ankaragücü",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3121,
+      "name": "Lech Poznań",
+      "country": "Poland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3201,
+      "name": "San Lorenzo",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3202,
+      "name": "Boca Juniors",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3203,
+      "name": "Club Atlético Belgrano",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3204,
+      "name": "Club Atlético Unión de Santa Fe",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3205,
+      "name": "Gimnasia y Esgrima",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3206,
+      "name": "Estudiantes de La Plata",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3207,
+      "name": "Club Atletico Colón",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3208,
+      "name": "Vélez Sarsfield",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3209,
+      "name": "CA Independiente",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3210,
+      "name": "CA Talleres",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3211,
+      "name": "River Plate",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3212,
+      "name": "Newell's Old Boys",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3215,
+      "name": "Racing Club",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3216,
+      "name": "Argentinos Juniors",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3217,
+      "name": "Rosario Central",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3218,
+      "name": "CA Lanús",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3219,
+      "name": "Banfield",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3221,
+      "name": "Arsenal de Sarandí",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3241,
+      "name": "OFI Crete",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3245,
+      "name": "Olympiacos FC",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3248,
+      "name": "Panathinaikos FC",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3249,
+      "name": "AO Ionikos Nikeas",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3250,
+      "name": "AEK Athens",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3251,
+      "name": "PAOK",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3252,
+      "name": "Aris Thessaloniki",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3255,
+      "name": "Athens Kallithea FC",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3265,
+      "name": "AEL Novibet",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3273,
+      "name": "Levski Sofia",
+      "country": "Bulgaria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3275,
+      "name": "CSKA Sofia",
+      "country": "Bulgaria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3291,
+      "name": "SC Oțelul Galați",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3292,
+      "name": "FC Dinamo București",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3294,
+      "name": "FCV Farul Constanța",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3301,
+      "name": "FCSB",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3313,
+      "name": "Shakhtar Donetsk",
+      "country": "Ukraine",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 3395,
+      "name": "Omonia Nicosia",
+      "country": "Cyprus",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 4488,
+      "name": "Cádiz",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 4494,
+      "name": "KV Oostende",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 4500,
+      "name": "Estoril Praia",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 4501,
+      "name": "Feirense",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 4502,
+      "name": "FC Viktoria Plzeň",
+      "country": "Czechia",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 4856,
+      "name": "SCR Altach",
+      "country": "Austria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 4858,
+      "name": "KV Kortrijk",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 4859,
+      "name": "SK Beveren",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 4860,
+      "name": "Royale Union Saint-Gilloise",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 4872,
+      "name": "Vejle",
+      "country": "Denmark",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 4875,
+      "name": "Crawley Town",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 4937,
+      "name": "Instituto De Córdoba",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 4952,
+      "name": "Sarıyer",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 4954,
+      "name": "Fatih Karagümrük",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5044,
+      "name": "KV Mechelen",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5046,
+      "name": "Lommel SK",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5061,
+      "name": "Valenciennes",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5062,
+      "name": "APS Atromitos Athinon",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5063,
+      "name": "APO Levadiakos",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5067,
+      "name": "CD Castellón",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5133,
+      "name": "Real Salt Lake",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5136,
+      "name": "Vizela",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5138,
+      "name": "Gaziantep FK",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5149,
+      "name": "FK Crvena zvezda",
+      "country": "Serbia",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5172,
+      "name": "FC Kairat Almaty",
+      "country": "Kazakhstan",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5202,
+      "name": "Hapoel Be'er Sheva",
+      "country": "Israel",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5235,
+      "name": "FK Borac Banja Luka",
+      "country": "Bosnia & Herzegovina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5281,
+      "name": "Universidad César Vallejo",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5282,
+      "name": "Deportivo USMP",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5287,
+      "name": "CFR 1907 Cluj",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5324,
+      "name": "Juve Stabia",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5405,
+      "name": "WSG Tirol",
+      "country": "Austria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5765,
+      "name": "Giresunspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5880,
+      "name": "FC Ingolstadt 04",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5885,
+      "name": "1. FC Heidenheim",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5926,
+      "name": "Grêmio",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 5981,
+      "name": "Flamengo",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6063,
+      "name": "Kasımpaşa",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6070,
+      "name": "Paris FC",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6074,
+      "name": "Godoy Cruz",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6154,
+      "name": "CD Trofense",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6157,
+      "name": "SV Sandhausen",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6195,
+      "name": "SD Ponferradina",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6339,
+      "name": "Sutton United",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6342,
+      "name": "Asteras Aktor",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6347,
+      "name": "MGS Panserraikos",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6349,
+      "name": "PAS Giannina",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6362,
+      "name": "Alanyaspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6366,
+      "name": "Keçiörengücü",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6414,
+      "name": "Boluspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6577,
+      "name": "UD Las Palmas",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6917,
+      "name": "US Concarneau",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6918,
+      "name": "USL Dunkerque",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6925,
+      "name": "Rodez AF",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6982,
+      "name": "Volta Redonda",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 6988,
+      "name": "GS Apollon Smyrnis",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7004,
+      "name": "GFS Panetolikos",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7031,
+      "name": "Deportivo Municipal",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7032,
+      "name": "Pendikspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7034,
+      "name": "Muğlaspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7040,
+      "name": "Eyüpspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7080,
+      "name": "Toronto FC",
+      "country": "Canada",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7101,
+      "name": "Varbergs BoIS",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7314,
+      "name": "Atlético Goianiense",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7315,
+      "name": "Avaí",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7536,
+      "name": "Utsiktens BK",
+      "country": "Sweden",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7628,
+      "name": "Tigre",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7629,
+      "name": "Huracán",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7691,
+      "name": "Jagiellonia Białystok",
+      "country": "Poland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7731,
+      "name": "CS Mioveni",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7732,
+      "name": "FC Gloria Buzău",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7734,
+      "name": "FC Universitatea Cluj",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7772,
+      "name": "San Martín de San Juan",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7802,
+      "name": "Gençlerbirliği",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7933,
+      "name": "Lecco",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 7935,
+      "name": "Pescara",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 21825,
+      "name": "San Jose Earthquakes",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 21831,
+      "name": "UD Oliveirense",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 21838,
+      "name": "ABC",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 21845,
+      "name": "Chapecoense",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 21884,
+      "name": "Brusque",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 21982,
+      "name": "Mirassol",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 22006,
+      "name": "CF Montréal",
+      "country": "Canada",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 22007,
+      "name": "Portland Timbers",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 22009,
+      "name": "Seattle Sounders FC",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 22010,
+      "name": "Vancouver Whitecaps",
+      "country": "Canada",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 22032,
+      "name": "Clube De Regatas Brasil",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 23575,
+      "name": "Gaz Metan Mediaș",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 23957,
+      "name": "AFC Wimbledon",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 23959,
+      "name": "Fleetwood Town",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 24264,
+      "name": "Girona FC",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 24265,
+      "name": "Huesca",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 24322,
+      "name": "AD Alcorcón",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 24329,
+      "name": "FC Cartagena",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 24332,
+      "name": "CD Lugo",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 24335,
+      "name": "CE Sabadell",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 24336,
+      "name": "Celta Fortuna",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 24338,
+      "name": "Villarreal B U23",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 24360,
+      "name": "Real Sociedad B",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 24368,
+      "name": "UD Ibiza",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 24516,
+      "name": "Reggiana",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 24750,
+      "name": "Vanspor FK",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 24759,
+      "name": "Yeni Malatyaspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 24798,
+      "name": "FC Botoșani",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 25155,
+      "name": "Alessandria",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 25777,
+      "name": "FC Arouca",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 25787,
+      "name": "Torreense",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 25856,
+      "name": "FC Petrolul Ploiești",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 33779,
+      "name": "Granada",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 33894,
+      "name": "Ayacucho",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 33895,
+      "name": "Sport Huancayo",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 35092,
+      "name": "Mirandés",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 35097,
+      "name": "CF Fuenlabrada",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 35162,
+      "name": "FC Stade-Lausanne-Ouchy",
+      "country": "Switzerland",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 35174,
+      "name": "Lusitânia Lourosa",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 35285,
+      "name": "Ferroviária",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 36360,
+      "name": "RB Leipzig",
+      "country": "Germany",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 36365,
+      "name": "Casa Pia",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 36833,
+      "name": "Atlético Tucumán",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 36836,
+      "name": "Aldosivi",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 36837,
+      "name": "Club Atlético Platense",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 36839,
+      "name": "Defensa y Justicia",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 36842,
+      "name": "Independiente Rivadavia",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 37173,
+      "name": "Feralpisalò",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 37946,
+      "name": "Inter Club d'Escaldes",
+      "country": "Andorra",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 37998,
+      "name": "Salford City",
+      "country": "England",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 38396,
+      "name": "Tondela",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 38744,
+      "name": "CD Mafra",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 39634,
+      "name": "Operário-PR",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 39833,
+      "name": "Philadelphia Union",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 41618,
+      "name": "Minnesota United",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 42338,
+      "name": "Sarmiento",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 43254,
+      "name": "Austria Klagenfurt",
+      "country": "Austria",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 43680,
+      "name": "Virtus Entella",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 43741,
+      "name": "Patronato",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 44255,
+      "name": "FC Voluntari",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 44259,
+      "name": "AFC Unirea 04 Slobozia",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 44319,
+      "name": "ACSM Politehnica Iași",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 44320,
+      "name": "Bandırmaspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 46160,
+      "name": "Jong Ajax",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 46161,
+      "name": "Jong AZ Alkmaar",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 46168,
+      "name": "Jong PSV Eindhoven",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 47321,
+      "name": "CD Eldense",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 47504,
+      "name": "São Bernardo",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 48431,
+      "name": "Unión Comercio",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 49202,
+      "name": "Cuiabá",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 49531,
+      "name": "Famalicão",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 52237,
+      "name": "Orlando City SC",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 52874,
+      "name": "Red Star FC",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 53067,
+      "name": "Jong FC Utrecht",
+      "country": "Netherlands",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 54103,
+      "name": "SD Amorebieta",
+      "country": "Spain",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 55603,
+      "name": "Erzurumspor FK",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 55625,
+      "name": "Ümraniyespor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 56127,
+      "name": "Chindia Târgoviște",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 63760,
+      "name": "Cusco FC",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 65668,
+      "name": "Barracas Central",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 65676,
+      "name": "Central Córdoba",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 74465,
+      "name": "SL Benfica B U21",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 74467,
+      "name": "Sporting CP B U21",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 74469,
+      "name": "FC Porto B",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 77629,
+      "name": "Çorum FK",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 79081,
+      "name": "FC Metaloglobus București",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 80741,
+      "name": "FK Kauno Žalgiris",
+      "country": "Lithuania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 81751,
+      "name": "POT Iraklis",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 81835,
+      "name": "Vilaverdense FC",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 87202,
+      "name": "Tombense",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 87854,
+      "name": "Universidad Técnica de Cajamarca",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 111205,
+      "name": "Pordenone",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 113755,
+      "name": "SPAL",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 116221,
+      "name": "FC Argeș Pitești",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 116223,
+      "name": "Universitatea Craiova",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 116312,
+      "name": "FC Iberia 1999",
+      "country": "Georgia",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 120154,
+      "name": "PAS Lamia 1964",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 120224,
+      "name": "AE Kifisia",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 126304,
+      "name": "Lincoln Red Imps",
+      "country": "Gibraltar",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 135514,
+      "name": "Grêmio Novorizontino",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 148278,
+      "name": "FC Corvinul Hunedoara",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 162368,
+      "name": "Riga FC",
+      "country": "Latvia",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 169260,
+      "name": "K. Beerschot V.A.",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 171626,
+      "name": "Pafos FC",
+      "country": "Cyprus",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 187643,
+      "name": "New York City FC",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 188441,
+      "name": "Gimnasia y Esgrima Mendoza",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 189723,
+      "name": "Deportivo Riestra",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 189789,
+      "name": "Sepsi OSK Sfântu Gheorghe",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 190328,
+      "name": "FC Alverca",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 202390,
+      "name": "Bodrum FK",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 202391,
+      "name": "Manisa FK",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 204219,
+      "name": "RWDM Brussels",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 204657,
+      "name": "UTA Arad",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 204712,
+      "name": "RFC Seraing",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 207011,
+      "name": "Amed Sportif Faaliyetler",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 207129,
+      "name": "UD Vilafranquense",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 207139,
+      "name": "Amarante FC",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 210099,
+      "name": "Quevilly - Rouen Métropole",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 210894,
+      "name": "Annecy FC",
+      "country": "France",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 213609,
+      "name": "Comerciantes Unidos",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 215167,
+      "name": "FC Cincinnati",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 243211,
+      "name": "Atlanta United",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 245083,
+      "name": "AD Cantolao",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 252245,
+      "name": "Carlos A. Mannucci",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 252254,
+      "name": "Los Chankas CYC",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 260356,
+      "name": "FC Hermannstadt",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 262229,
+      "name": "FC Ararat-Armenia",
+      "country": "Armenia",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 262480,
+      "name": "Esenler Erokspor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 264619,
+      "name": "KF Egnatia",
+      "country": "Albania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 266694,
+      "name": "Estudiantes de Río Cuarto",
+      "country": "Argentina",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 267459,
+      "name": "NPS Volos",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 267828,
+      "name": "Sabah FK",
+      "country": "Azerbaijan",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 274650,
+      "name": "Los Angeles FC",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 275839,
+      "name": "Deportivo Binacional",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 282538,
+      "name": "Club Atlético Grau",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 283972,
+      "name": "FK Csíkszereda Miercurea Ciuc",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 295403,
+      "name": "FC Rapid București",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 296730,
+      "name": "Mardin 1969 Spor",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 306660,
+      "name": "Alianza Universidad",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 312033,
+      "name": "FCU 1948 Craiova",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 324871,
+      "name": "FC Andorra",
+      "country": "Andorra",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 335037,
+      "name": "FC Carlos Stein",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 335557,
+      "name": "Asociación Deportiva Tarma",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 336664,
+      "name": "Amazonas FC",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 337602,
+      "name": "Inter Miami CF",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 337612,
+      "name": "Nashville SC",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 342775,
+      "name": "Athletic Club",
+      "country": "Brazil",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 368506,
+      "name": "RAAL La Louvière",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 370446,
+      "name": "C.F. Os Belenenses",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 377973,
+      "name": "Austin FC",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 388264,
+      "name": "Iğdır FK",
+      "country": "Türkiye",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 389232,
+      "name": "FCV Dender",
+      "country": "Belgium",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 404108,
+      "name": "Charlotte FC",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 407803,
+      "name": "St.Louis City",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 412056,
+      "name": "PS Kalamata",
+      "country": "Greece",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 448061,
+      "name": "ACS Inter Ilfov",
+      "country": "Romania",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 458584,
+      "name": "Deportivo Garcilaso",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 483088,
+      "name": "AVS - Futebol SAD",
+      "country": "Portugal",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 491246,
+      "name": "Reggina 1914",
+      "country": "Italy",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 492848,
+      "name": "CD Moquegua",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 511206,
+      "name": "CD Juan Pablo II",
+      "country": "Peru",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1043961,
+      "name": "San Diego FC",
+      "country": "USA",
+      "in_existing_inca": true
+    },
+    {
+      "team_id": 1082002,
+      "name": "FC Cajamarca",
+      "country": "Peru",
+      "in_existing_inca": true
+    }
+  ],
+  "count": 782,
+  "schema": "inca.f12.teams.v1"
+}

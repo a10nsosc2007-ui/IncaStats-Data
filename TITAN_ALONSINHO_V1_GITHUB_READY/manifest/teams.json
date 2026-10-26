@@ -1,6 +1,6 @@
 {
   "schema": "titan.teams.v1",
-  "count": 751,
+  "count": 782,
   "teams": [
     {
       "team_id": 5885,
@@ -7511,6 +7511,316 @@
       "file": "data/teams_csv/55625_Umraniyespor.csv",
       "valid_matches": 193,
       "incomplete_matches": 9
+    },
+    {
+      "team_id": 1925,
+      "name": "Ferencváros TC",
+      "country": "Hungary",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/1925_Ferencvaros_TC.csv",
+      "valid_matches": 88,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 2032,
+      "name": "GNK Dinamo Zagreb",
+      "country": "Croatia",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/2032_GNK_Dinamo_Zagreb.csv",
+      "valid_matches": 88,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 2036,
+      "name": "HNK Hajduk Split",
+      "country": "Croatia",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/2036_HNK_Hajduk_Split.csv",
+      "valid_matches": 90,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 2205,
+      "name": "FK Jablonec",
+      "country": "Czechia",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/2205_FK_Jablonec.csv",
+      "valid_matches": 86,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 2216,
+      "name": "SK Slavia Praha",
+      "country": "Czechia",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/2216_SK_Slavia_Praha.csv",
+      "valid_matches": 88,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 2218,
+      "name": "AC Sparta Praha",
+      "country": "Czechia",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/2218_AC_Sparta_Praha.csv",
+      "valid_matches": 86,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 2244,
+      "name": "Kuopion Palloseura",
+      "country": "Finland",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/2244_Kuopion_Palloseura.csv",
+      "valid_matches": 89,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 2352,
+      "name": "Celtic",
+      "country": "Scotland",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/2352_Celtic.csv",
+      "valid_matches": 86,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 2353,
+      "name": "Heart of Midlothian",
+      "country": "Scotland",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/2353_Heart_of_Midlothian.csv",
+      "valid_matches": 88,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 2404,
+      "name": "ŠK Slovan Bratislava",
+      "country": "Slovakia",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/2404_SK_Slovan_Bratislava.csv",
+      "valid_matches": 82,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 2413,
+      "name": "NK Celje",
+      "country": "Slovenia",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/2413_NK_Celje.csv",
+      "valid_matches": 85,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 3121,
+      "name": "Lech Poznań",
+      "country": "Poland",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/3121_Lech_Poznan.csv",
+      "valid_matches": 86,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 3273,
+      "name": "Levski Sofia",
+      "country": "Bulgaria",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/3273_Levski_Sofia.csv",
+      "valid_matches": 88,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 3275,
+      "name": "CSKA Sofia",
+      "country": "Bulgaria",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/3275_CSKA_Sofia.csv",
+      "valid_matches": 87,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 3313,
+      "name": "Shakhtar Donetsk",
+      "country": "Ukraine",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/3313_Shakhtar_Donetsk.csv",
+      "valid_matches": 86,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 3395,
+      "name": "Omonia Nicosia",
+      "country": "Cyprus",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/3395_Omonia_Nicosia.csv",
+      "valid_matches": 88,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 4502,
+      "name": "FC Viktoria Plzeň",
+      "country": "Czechia",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/4502_FC_Viktoria_Plzen.csv",
+      "valid_matches": 86,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 5149,
+      "name": "FK Crvena zvezda",
+      "country": "Serbia",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/5149_FK_Crvena_zvezda.csv",
+      "valid_matches": 114,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 5172,
+      "name": "FC Kairat Almaty",
+      "country": "Kazakhstan",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/5172_FC_Kairat_Almaty.csv",
+      "valid_matches": 85,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 5202,
+      "name": "Hapoel Be'er Sheva",
+      "country": "Israel",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/5202_Hapoel_Be_er_Sheva.csv",
+      "valid_matches": 81,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 5235,
+      "name": "FK Borac Banja Luka",
+      "country": "Bosnia & Herzegovina",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/5235_FK_Borac_Banja_Luka.csv",
+      "valid_matches": 110,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 7691,
+      "name": "Jagiellonia Białystok",
+      "country": "Poland",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/7691_Jagiellonia_Biaystok.csv",
+      "valid_matches": 83,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 37946,
+      "name": "Inter Club d'Escaldes",
+      "country": "Andorra",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/37946_Inter_Club_d_Escaldes.csv",
+      "valid_matches": 57,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 80741,
+      "name": "FK Kauno Žalgiris",
+      "country": "Lithuania",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/80741_FK_Kauno_Zalgiris.csv",
+      "valid_matches": 85,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 116312,
+      "name": "FC Iberia 1999",
+      "country": "Georgia",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/116312_FC_Iberia_1999.csv",
+      "valid_matches": 73,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 126304,
+      "name": "Lincoln Red Imps",
+      "country": "Gibraltar",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/126304_Lincoln_Red_Imps.csv",
+      "valid_matches": 53,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 162368,
+      "name": "Riga FC",
+      "country": "Latvia",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/162368_Riga_FC.csv",
+      "valid_matches": 87,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 171626,
+      "name": "Pafos FC",
+      "country": "Cyprus",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/171626_Pafos_FC.csv",
+      "valid_matches": 87,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 262229,
+      "name": "FC Ararat-Armenia",
+      "country": "Armenia",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/262229_FC_Ararat-Armenia.csv",
+      "valid_matches": 86,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 264619,
+      "name": "KF Egnatia",
+      "country": "Albania",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/264619_KF_Egnatia.csv",
+      "valid_matches": 90,
+      "incomplete_matches": 0
+    },
+    {
+      "team_id": 267828,
+      "name": "Sabah FK",
+      "country": "Azerbaijan",
+      "region": "",
+      "source_batch": "INCA_BASE_MAESTRA_EXPANSION",
+      "file": "data/teams_csv/267828_Sabah_FK.csv",
+      "valid_matches": 82,
+      "incomplete_matches": 0
     }
   ]
 }
