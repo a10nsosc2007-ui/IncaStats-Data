@@ -205,6 +205,23 @@ def player_competition_evidence():
 def repair_metadata():
     t,p,m,g,teams,players,nt,bad,_=inspect(full=False)
     if bad:raise RuntimeError("Hay CSV nativos ausentes; se bloquea reparacion")
+    # The 31 expansion clubs are UEFA associations. Their native imports had
+    # blank region despite real country metadata in MASTER: fix this without
+    # inventing a country or changing the identities of historical teams.
+    uefa={"Hungary","Croatia","Czechia","Finland","Scotland","Slovakia",
+          "Slovenia","Poland","Bulgaria","Ukraine","Cyprus","Serbia",
+          "Kazakhstan","Israel","Bosnia & Herzegovina","Andorra",
+          "Lithuania","Georgia","Gibraltar","Latvia","Armenia",
+          "Albania","Azerbaijan"}
+    fixed_geo=0
+    for tid,item in nt.items():
+        if item.get("source_batch")!="INCA_BASE_MAESTRA_EXPANSION":
+            continue
+        country=str(teams[tid].get("country") or item.get("country") or "").strip()
+        if country and not item.get("country"):
+            item["country"]=country;fixed_geo+=1
+        if country in uefa and not item.get("region"):
+            item["region"]="Europe";fixed_geo+=1
     # Read all known indices before writing any file.
     details=readj(DNAME);comps=readj(CNAME);seasons=readj(SNAME)
     detail_rows=valid_list(details,"teams")
@@ -289,14 +306,15 @@ def repair_metadata():
     g["counts"]["competition_seasons"]=len(season_rows)
     print("\n METADATA V3 -- PREVIA:")
     print(" team_details nuevos:",created_detail)
+    print(" campos pais/region de clubes UEFA restaurados:",fixed_geo)
     print(" competiciones con nombre verificado nuevas:",created_comp)
     print(" temporadas con etiqueta real nuevas:",created_season)
     print(" combinaciones SIN nombre/etiqueta corroborada:",len(missing_evidence))
     print(" partidos unicos reales:",len(all_events))
     print(" NO se fabricaran nombres de competiciones ni etiquetas de temporada.")
-    if input(" Escribe REPARAR_META para guardar estos 4 metadatos: ").strip()!="REPARAR_META":
+    if input(" Escribe REPARAR_META para guardar los metadatos validados: ").strip()!="REPARAR_META":
         print(" Cancelado; ningun archivo modificado.");return
-    paths=[(DNAME,details),(CNAME,comps),(SNAME,seasons),(GNAME,g)]
+    paths=[(DNAME,details),(CNAME,comps),(SNAME,seasons),(TNAME,m),(GNAME,g)]
     changed=0
     for path,obj in paths:
         result=savej(path,obj)
