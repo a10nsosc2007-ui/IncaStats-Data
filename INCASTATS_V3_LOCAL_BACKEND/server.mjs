@@ -178,11 +178,25 @@ async function sync() {
         quota_remaining:cache.billing.remaining, next_sync_hours:refreshMs/3600_000 });
   } finally { syncBusy = false; }
 }
-function safeJson(res, status, payload) {
+function allowedDevOrigin(origin) {
+  if (!origin) return "";
+  try {
+    const u = new URL(origin);
+    const host = u.hostname.toLowerCase();
+    if (u.protocol !== "http:") return "";
+    const local = host === "localhost" || host === "127.0.0.1" ||
+      /^192\.168\.\d{1,3}\.\d{1,3}$/.test(host) ||
+      /^10\.\d{1,3}\.\d{1,3}\.\d{1,3}$/.test(host);
+    return local ? origin : "";
+  } catch { return ""; }
+}
+function safeJson(req, res, status, payload) {
   const bytes = Buffer.from(JSON.stringify(payload));
+  const origin = allowedDevOrigin(req.headers.origin);
   res.writeHead(status, {
-    "Content-Type": "application/json; charset=utf-8", "Cache-Control":"no-store",
-    "Access-Control-Allow-Origin": "http://localhost:5500",
+    "Content-Type": "application/json; charset=utf-8",
+    "Cache-Control":"no-store",
+    ...(origin ? {"Access-Control-Allow-Origin":origin,"Vary":"Origin"} : {}),
     "X-Content-Type-Options": "nosniff"
   });
   res.end(bytes);
@@ -195,9 +209,20 @@ function flattened(type) {
 const server = http.createServer((req, res) => {
   let u;
   try { u = new URL(req.url, "http://127.0.0.1:" + port); }
-  catch { return safeJson(res, 400, { error:"Ruta inválida" }); }
-  if (req.method !== "GET") return safeJson(res, 405, {error:"Solo lectura"});
-  if (u.pathname === "/api/status") return safeJson(res, 200, {
+  catch { return safeJson(req, res, 400, { error:"Ruta inválida" }); }
+  if (req.method === "OPTIONS") {
+    const origin = allowedDevOrigin(req.headers.origin);
+    res.writeHead(204, {
+      ...(origin ? {"Access-Control-Allow-Origin":origin,"Vary":"Origin"} : {}),
+      "Access-Control-Allow-Methods":"GET, OPTIONS",
+      "Access-Control-Allow-Headers":"Content-Type",
+      "Access-Control-Max-Age":"600",
+      "Content-Length":"0"
+    });
+    return res.end();
+  }
+  if (req.method !== "GET") return safeJson(req, res, 405, {error:"Solo lectura"});
+  if (u.pathname === "/api/status") return safeJson(req, res, 200, {
     service: "inca-v3-local", configured_keys: keys.length,
     active_key_index: keys.length ? selected + 1 : null,
     active_key_valid: Boolean(apiKey),
@@ -207,22 +232,22 @@ const server = http.createServer((req, res) => {
     sync_busy:syncBusy, quota:cache.billing,
     errors:cache.errors
   });
-  if (u.pathname === "/api/fixtures") return safeJson(res, 200, {
+  if (u.pathname === "/api/fixtures") return safeJson(req, res, 200, {
     source:"the-odds-api-v4", cached_at:cache.updated_at,
     events:flattened("h2h").map(e => ({
       event_id:e.event_id,sport_key:e.sport_key,start_time:e.start_time,
       home_team:e.home_team,away_team:e.away_team
     }))
   });
-  if (u.pathname === "/api/odds") return safeJson(res, 200, {
+  if (u.pathname === "/api/odds") return safeJson(req, res, 200, {
     source:"the-odds-api-v4", cached_at:cache.updated_at,
     events:flattened("h2h")
   });
-  if (u.pathname === "/api/props") return safeJson(res, 200, {
+  if (u.pathname === "/api/props") return safeJson(req, res, 200, {
     source:"the-odds-api-v4", cached_at:cache.updated_at,
     events:flattened("props")
   });
-  return safeJson(res, 404, {error:"Endpoint inexistente"});
+  return safeJson(req, res, 404, {error:"Endpoint inexistente"});
 });
 server.listen(port, "127.0.0.1", () => {
   console.log("[INCA LOCAL] http://127.0.0.1:" + port + "/api/status");
