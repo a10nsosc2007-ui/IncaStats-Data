@@ -51,7 +51,7 @@ const cacheDir = path.join(HOME, "runtime");
 const cachePath = path.join(cacheDir, "cache.json");
 let syncBusy = false;
 let cache = { schema: "inca.v3.local.odds.v1", updated_at: null, sports: {},
-  errors: [], billing: { requests_used: 0, remaining: null, last: null } };
+  last_attempt_at:null, errors: [], billing: { requests_used: 0, remaining: null, last: null } };
 try {
   const previous = JSON.parse(fs.readFileSync(cachePath, "utf8"));
   if (previous?.schema === cache.schema) cache = previous;
@@ -93,8 +93,10 @@ async function upstream(sport, suffix, markets) {
       "Proveedor devolvió HTTP " + r.status +
       (typeof json.message === "string" ? ": " + json.message.slice(0, 180) : ""),
       r.status);
-    if (!Array.isArray(json)) throw httpError("Respuesta inesperada del proveedor", 502);
-    return json;
+    // H2H responde array de eventos; endpoint /events/{id}/odds devuelve objeto único.
+    if (Array.isArray(json)) return json;
+    if (suffix.includes("/events/") && json && typeof json === "object" && json.id) return [json];
+    throw httpError("Respuesta inesperada del proveedor", 502);
   } finally { clearTimeout(timer); }
 }
 function normalize(events, sport) {
@@ -128,9 +130,10 @@ function normalize(events, sport) {
 async function sync() {
   if (syncBusy) return;
   if (!apiKey || !sports.length) return;
-  const last = Date.parse(cache.updated_at || "");
+  const last = Date.parse(cache.last_attempt_at || cache.updated_at || "");
   if (Number.isFinite(last) && Date.now() - last < refreshMs) return;
   syncBusy = true;
+  cache.last_attempt_at = new Date().toISOString();
   budgetLeft = maxReq;
   const errors = [];
   let completed = 0;
@@ -185,8 +188,9 @@ function safeJson(res, status, payload) {
   res.end(bytes);
 }
 function flattened(type) {
+  const now = Date.now();
   return sports.flatMap(s => Array.isArray(cache.sports[s]?.[type])
-    ? cache.sports[s][type] : []);
+    ? cache.sports[s][type] : []).filter(e => Date.parse(e.start_time) > now);
 }
 const server = http.createServer((req, res) => {
   let u;
@@ -199,6 +203,7 @@ const server = http.createServer((req, res) => {
     active_key_valid: Boolean(apiKey),
     sports_configured:sports, cached_at:cache.updated_at,
     cached_sports:Object.keys(cache.sports),
+    last_attempt_at:cache.last_attempt_at,
     sync_busy:syncBusy, quota:cache.billing,
     errors:cache.errors
   });
