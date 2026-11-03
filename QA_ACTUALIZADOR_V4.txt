@@ -1,0 +1,17 @@
+INCASTATS V4 — QA LOCAL SIN RED
+Fecha: 2026-11-03
+11/11 pruebas aprobadas:
+1. Precheck válido sin escritura.
+2. Importación inicial del RAW V4.
+3. Catalogación de equipos, jugadores y árbitros.
+4. Reimportación sin duplicados ni modificación de archivos.
+5. Precheck de nueva ventana acumulada.
+6. Upsert e historial permanente.
+7. Creación de backup automático.
+8. Rechazo de SOLO STATS y formatos desconocidos.
+9. Rechazo de extracción incompleta.
+10. Rechazo de un Event_ID con clubes incompatibles.
+11. Protección de masters originales.
+
+Datos de prueba SINTÉTICOS. Sin peticiones a SofaScore. Sin verificación visual de IncaStats V3.
+El BAT escribe solo data/unified (el frontend V3 necesita adaptador/lector aparte).

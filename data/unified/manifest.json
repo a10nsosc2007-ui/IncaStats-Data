@@ -1,0 +1,28 @@
+{
+  "schema": "incastats.local.unified.v4",
+  "generated_at": "2026-11-03T22:12:16.833Z",
+  "source": "local_v4_sync",
+  "events_sha256": "53680b7fc12db2daf767c13577f14f596a13d6d4a6a71f5af7b606cdcf238e7c",
+  "master_sha256": "73ab4a9b14e08d792099d8f9",
+  "stats_file": "INCA_SOLO_STATS_MASTER_V4.json",
+  "raw_file": "INCA_UNIFICADO_STATS_MASTER_V4.json",
+  "counts": {
+    "events": 1396,
+    "finished": 1382,
+    "with_team_stats": 1378,
+    "with_player_stats": 1377,
+    "with_referee": 1219,
+    "missing_stats": 4,
+    "excluded_friendlies": 0,
+    "teams": 782,
+    "players": 14784,
+    "referees": 1026,
+    "team_stat_rows": 8272,
+    "player_stat_rows": 42993,
+    "cards": 6120,
+    "referee_assignments_unmatched": 0
+  },
+  "source_events": 1396,
+  "total_events": 1396,
+  "warning": "Estos archivos son una base INDEPENDIENTE. Las pantallas V3 existentes no consumen automáticamente data/unified; adaptar lector de la app por separado si se desea."
+}
