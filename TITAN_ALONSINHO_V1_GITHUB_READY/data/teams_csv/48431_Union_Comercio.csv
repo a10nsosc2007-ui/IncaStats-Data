@@ -1,4 +1,4 @@
-﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
 9866452,406,35813,CALENDAR,PLAYOFF,Semifinals,LEAGUE,48431,Unión Comercio,Local,ALL,09/10/2021,2,0,,,,10,1,5,12,,,17,0,0,5,,5,,,,,,,,,1,,19,,,,,,,,,,,,,,,,1,,,,,13
 9866452,406,35813,CALENDAR,PLAYOFF,Semifinals,LEAGUE,48431,Unión Comercio,Local,1ST,09/10/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9866452,406,35813,CALENDAR,PLAYOFF,Semifinals,LEAGUE,48431,Unión Comercio,Local,2ND,09/10/2021,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -563,3 +563,25 @@
 16494903,10297,91917,CALENDAR,GROUP,"Liga 2, Group A",LEAGUE,245083,AD Cantolao,Visita,ALL,07/08/2026,13,0,0%,,,,,0,10,,,11,2,0,1,0,7,0,,,,,,,,0,,17,,,,,,,,,,,,,,,,,,,,,14
 16494903,10297,91917,CALENDAR,GROUP,"Liga 2, Group A",LEAGUE,245083,AD Cantolao,Visita,1ST,07/08/2026,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 16494903,10297,91917,CALENDAR,GROUP,"Liga 2, Group A",LEAGUE,245083,AD Cantolao,Visita,2ND,07/08/2026,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17108608,10297,91917,,,,,33894,Ayacucho FC,Visita,ALL,12/10/2026,,0,78%,,,,,4,,,,16,3,0,0,,1,,,,,,,,,1,,12,,,,,,,,,,,,,,,,,,,,,11
+17108608,10297,91917,,,,,48431,Unión Comercio,Local,ALL,12/10/2026,,5,22%,,,,,4,,,,11,0,0,6,,4,,,,,,,,,1,,10,,,,,,,,,,,,,,,,,,,,,9
+17108607,10297,91917,,,,,33894,Ayacucho FC,Local,ALL,18/10/2026,,1,50%,,,,,5,,,,7,6,1,7,,9,,,,,,,,,4,,16,,,,,,,,,,,,,,,,,,,,,10
+17108607,10297,91917,,,,,48431,Unión Comercio,Visita,ALL,18/10/2026,,1,50%,,,,,3,,,,23,3,0,5,,7,,,,,,,,,1,,21,,,,,,,,,,,,,,,,,,,,,16
+16711069,10297,91917,,,,,308624,Pirata FC,Local,ALL,17/08/2026,,1,57%,,,,,3,10,,,14,4,0,2,,2,,,,,,,,,1,,30,,,,,,,,,,,,,,,,,,,,,
+16711069,10297,91917,,,,,48431,Unión Comercio,Visita,ALL,17/08/2026,,2,43%,,,,,3,13,,,11,2,0,4,,3,,,,,,,,,1,,25,,,,,,,,,,,,,,,,,,,,,
+17108601,10297,91917,,,,,308624,Pirata FC,Visita,ALL,27/09/2026,,0,41%,,,,,3,,,,0,0,0,0,,7,,,,,,,,,0,,0,,,,,,,,,,,,,,,,,,,,,2
+17108601,10297,91917,,,,,48431,Unión Comercio,Local,ALL,27/09/2026,,2,59%,,,,,6,,,,1,3,0,2,,15,,,,,,,,,0,,2,,,,,,,,,,,,,,,,,,,,,1
+17108611,10297,91917,,,,,308624,Pirata FC,Local,ALL,26/10/2026,,1,37%,,,,,4,,,,0,3,0,3,,7,,,,,,,,,0,,0,,,,,,,,,,,,,,,,,,,,,0
+17108611,10297,91917,,,,,48431,Unión Comercio,Visita,ALL,26/10/2026,,0,63%,,,,,4,,,,0,3,0,4,,9,,,,,,,,,0,,1,,,,,,,,,,,,,,,,,,,,,0
+17108605,10297,91917,,,,,1207303,Club Deportivo Unión Minas Centromin,Local,ALL,06/10/2026,,4,50%,,,,,11,,,,1,6,3,8,,3,,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,,,3
+17108605,10297,91917,,,,,48431,Unión Comercio,Visita,ALL,06/10/2026,,1,50%,,,,,1,,,,5,3,1,5,,6,,,,,,,,,0,,2,,,,,,,,,,,,,,,,,,,,,1
+17108609,10297,91917,,,,,1207303,Club Deportivo Unión Minas Centromin,Visita,ALL,31/10/2026,,3,40%,,,,,3,,,,5,2,1,3,,1,,,,,,,,,0,,5,,,,,,,,,,,,,,,,,,,,,5
+17108609,10297,91917,,,,,48431,Unión Comercio,Local,ALL,31/10/2026,,3,60%,,,,,4,,,,4,4,0,4,,8,,,,,,,,,1,,6,,,,,,,,,,,,,,,,,,,,,4
+16868047,10297,91917,,,,,5282,Universidad San Martín de Porres,Visita,ALL,06/09/2026,,0,50%,,,,,5,,,,,1,0,0,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16868047,10297,91917,,,,,48431,Unión Comercio,Local,ALL,06/09/2026,,1,50%,,,,,5,,,,,3,0,1,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16883031,10297,91917,,,,,511207,Asociación Deportiva Agropecuaria,Local,ALL,13/09/2026,,1,44%,,,,,7,,,,0,0,0,8,,14,,,,,,,,,2,,14,,,,,,,,,,,,,,,,,,,,,5
+16883031,10297,91917,,,,,48431,Unión Comercio,Visita,ALL,13/09/2026,,0,56%,,,,,2,,,,2,2,0,5,,3,,,,,,,,,4,,8,,,,,,,,,,,,,,,,,,,,,9
+16730384,10297,91917,,,,,252245,Carlos A. Mannucci,Visita,ALL,23/08/2026,,0,50%,,,,,6,,,,,1,0,0,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16730384,10297,91917,,,,,48431,Unión Comercio,Local,ALL,23/08/2026,,0,50%,,,,,4,,,,,2,1,0,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16801992,10297,91917,,,,,48431,Unión Comercio,Visita,ALL,30/08/2026,,1,43%,,,,,2,,,,,2,0,3,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+16801992,10297,91917,,,,,336011,Deportivo Llacuabamba,Local,ALL,30/08/2026,,1,57%,,,,,7,,,,,4,0,11,,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0

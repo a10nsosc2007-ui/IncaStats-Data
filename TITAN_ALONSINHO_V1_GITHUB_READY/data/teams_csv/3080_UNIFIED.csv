@@ -1,0 +1,13 @@
+Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+16525279,97,98395,,,,,297098,1461 Trabzon,Local,ALL,06/09/2026,,2,,,,,,7,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
+16525279,97,98395,,,,,3080,Sakaryaspor,Visita,ALL,06/09/2026,,3,,,,,,6,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9
+16525294,97,98395,,,,,3080,Sakaryaspor,Visita,ALL,20/09/2026,,3,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16525294,97,98395,,,,,825656,Kahramanmaraş İstiklalspor,Local,ALL,20/09/2026,,1,,,,,,,,,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16525282,97,98395,,,,,3080,Sakaryaspor,Local,ALL,27/09/2026,,2,,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16525282,97,98395,,,,,81445,Kütahyaspor Futbol SK,Visita,ALL,27/09/2026,,0,,,,,,1,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16525312,97,98395,,,,,3080,Sakaryaspor,Local,ALL,11/10/2026,,2,,,,,,5,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16525312,97,98395,,,,,170408,İskenderun A.Ş.,Visita,ALL,11/10/2026,,2,,,,,,3,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16525328,97,98395,,,,,3080,Sakaryaspor,Local,ALL,24/10/2026,,1,57%,,,,,5,,,,24,1,0,,,,,,,,,,,,5,,16,,,,,,,,,,,,,,,,,,,,,5
+16525328,97,98395,,,,,297101,Erzincan Spor Kulübü,Visita,ALL,24/10/2026,,3,43%,,,,,1,,,,18,3,0,,,,,,,,,,,,4,,14,,,,,,,,,,,,,,,,,,,,,14
+16525345,97,98395,,,,,3080,Sakaryaspor,Visita,ALL,08/11/2026,,1,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16525345,97,98395,,,,,262533,52 Orduspor,Local,ALL,08/11/2026,,2,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

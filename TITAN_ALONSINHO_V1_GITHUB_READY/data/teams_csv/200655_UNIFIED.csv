@@ -1,0 +1,23 @@
+Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+17264350,22434,89903,,,,,200653,Atlético Mineiro U20,Local,ALL,19/10/2026,,4,45%,,,,,3,,,,17,1,3,,,,,,,,,,,,0,,0,,,,,,,,,,,,,,,,,,,,,0
+17264350,22434,89903,,,,,200655,Cruzeiro U20,Visita,ALL,19/10/2026,,3,55%,,,,,7,,,,10,5,3,,,,,,,,,,,,0,,0,,,,,,,,,,,,,,,,,,,,,0
+17266236,22434,89903,,,,,200653,Atlético Mineiro U20,Visita,ALL,26/10/2026,,1,46%,,,,,3,,,,12,5,0,,,,,,,,,,,,0,,0,,,,,,,,,,,,,,,,,,,,,0
+17266236,22434,89903,,,,,200655,Cruzeiro U20,Local,ALL,26/10/2026,,1,54%,,,,,5,,,,13,4,0,,,,,,,,,,,,0,,1,,,,,,,,,,,,,,,,,,,,,0
+16461275,22434,89903,,,,,528237,Nacional de Muriaé U20,Local,ALL,15/08/2026,,2,36%,,,,,0,,,,0,1,0,,,,,,,,,,,,0,,2,,,,,,,,,,,,,,,,,,,,,0
+16461275,22434,89903,,,,,200655,Cruzeiro U20,Visita,ALL,15/08/2026,,2,64%,,,,,1,,,,1,3,0,,,,,,,,,,,,0,,1,,,,,,,,,,,,,,,,,,,,,1
+16461281,22434,89903,,,,,200655,Cruzeiro U20,Visita,ALL,22/08/2026,,2,,,,,,1,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16461281,22434,89903,,,,,383333,Betim Futebol U20,Local,ALL,22/08/2026,,1,,,,,,0,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16461286,22434,89903,,,,,200655,Cruzeiro U20,Local,ALL,29/08/2026,,7,65%,,,,,1,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16461286,22434,89903,,,,,1079977,Social FC U20,Visita,ALL,29/08/2026,,0,35%,,,,,0,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16469649,22434,89903,,,,,200655,Cruzeiro U20,Local,ALL,05/09/2026,,3,56%,,,,,7,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16469649,22434,89903,,,,,480544,Boston City U20,Visita,ALL,05/09/2026,,2,44%,,,,,4,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16897825,9491,101599,,,,,200655,Cruzeiro U20,Local,ALL,09/09/2026,,3,74%,,,,,7,8,,,17,0,0,4,,7,,,,,,,,,2,,26,,,,,,,,,,,,,,,,,,,,,0
+16897825,9491,101599,,,,,414090,Guanabara City U20,Visita,ALL,09/09/2026,,1,26%,,,,,0,17,,,11,0,1,1,,2,,,,,,,,,0,,20,,,,,,,,,,,,,,,,,,,,,0
+16461288,22434,89903,,,,,200655,Cruzeiro U20,Local,ALL,12/09/2026,,2,51%,,,,,0,,,,1,1,0,,,,,,,,,,,,0,,1,,,,,,,,,,,,,,,,,,,,,0
+16461288,22434,89903,,,,,287452,Coimbra FC Porto U20,Visita,ALL,12/09/2026,,1,49%,,,,,1,,,,0,1,0,,,,,,,,,,,,0,,0,,,,,,,,,,,,,,,,,,,,,1
+17155467,22434,89903,,,,,200655,Cruzeiro U20,Visita,ALL,27/09/2026,,1,,,,,,0,,,,3,0,1,,,,,,,,,,,,0,,0,,,,,,,,,,,,,,,,,,,,,0
+17155467,22434,89903,,,,,417154,Athletic Club U20,Local,ALL,27/09/2026,,2,,,,,,1,,,,2,0,0,,,,,,,,,,,,0,,1,,,,,,,,,,,,,,,,,,,,,0
+17154518,22434,89903,,,,,200655,Cruzeiro U20,Local,ALL,03/10/2026,,3,,,,,,8,,,,7,0,0,,,,,,,,,,,,1,,8,,,,,,,,,,,,,,,,,,,,,1
+17154518,22434,89903,,,,,417154,Athletic Club U20,Visita,ALL,03/10/2026,,0,,,,,,3,,,,6,0,1,,,,,,,,,,,,1,,6,,,,,,,,,,,,,,,,,,,,,4
+17163037,9491,101599,,,,,200655,Cruzeiro U20,Local,ALL,08/10/2026,,1,63%,,,,,1,6,,,12,1,0,7,,11,,,,,,,,,1,,39,,,,,,,,,,,,,,,,,,,,,10
+17163037,9491,101599,,,,,212060,Goiás U20,Visita,ALL,08/10/2026,,2,37%,,,,,2,12,,,7,3,0,7,,6,,,,,,,,,0,,21,,,,,,,,,,,,,,,,,,,,,18

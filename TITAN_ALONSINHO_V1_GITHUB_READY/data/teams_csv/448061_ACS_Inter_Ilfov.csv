@@ -1,4 +1,4 @@
-﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
 9605367,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,ALL,16/07/2021,1,2,,,,14,0,7,4,,,20,1,0,5,,9,0,,,,,,,,1,,29,,,,,,,,,,,,,,,,0,,,,,5
 9605367,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,1ST,16/07/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9605367,152,37234,NORMAL,REGULAR,Round 1,LEAGUE,189789,Sepsi OSK Sfântu Gheorghe,Local,2ND,16/07/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -323,3 +323,17 @@
 14505242,16787,80940,NORMAL,REGULAR,Round 11,LEAGUE,827450,ACS Academica Balș,Visita,ALL,31/10/2025,11,0,42%,,,,,2,,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14505242,16787,80940,NORMAL,REGULAR,Round 11,LEAGUE,827450,ACS Academica Balș,Visita,1ST,31/10/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14505242,16787,80940,NORMAL,REGULAR,Round 11,LEAGUE,827450,ACS Academica Balș,Visita,2ND,31/10/2025,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16878240,16787,101148,,,,,265708,AFC Progresul 1944 Spartac,Visita,ALL,30/10/2026,,2,60%,,,,,7,,,,10,3,0,,,,,,,,,,,,3,,0,,,,,,,,,,,,,,,,,,,,,0
+16878240,16787,101148,,,,,448061,ACS Inter Ilfov,Local,ALL,30/10/2026,,3,40%,,,,,6,,,,13,1,1,,,,,,,,,,,,2,,0,,,,,,,,,,,,,,,,,,,,,0
+16878179,16787,101148,,,,,456302,ACS Progresul Mogoșoaia,Local,ALL,10/10/2026,,2,53%,,,,,2,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16878179,16787,101148,,,,,448061,ACS Inter Ilfov,Visita,ALL,10/10/2026,,1,47%,,,,,1,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16876510,16787,101148,,,,,831451,ACS Omega Sport București,Local,ALL,29/08/2026,,1,,,,,,9,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5
+16876510,16787,101148,,,,,448061,ACS Inter Ilfov,Visita,ALL,29/08/2026,,1,,,,,,5,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5
+16878247,16787,101148,,,,,831451,ACS Omega Sport București,Visita,ALL,07/11/2026,,1,56%,,,,,3,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16878247,16787,101148,,,,,448061,ACS Inter Ilfov,Local,ALL,07/11/2026,,2,44%,,,,,6,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16878129,16787,101148,,,,,448061,ACS Inter Ilfov,Local,ALL,18/09/2026,,2,59%,,,,,8,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9
+16878129,16787,101148,,,,,509651,ACS AXI Arena,Visita,ALL,18/09/2026,,0,41%,,,,,1,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10
+16878145,16787,101148,,,,,448061,ACS Inter Ilfov,Visita,ALL,22/09/2026,,3,56%,,,,,8,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+16878145,16787,101148,,,,,205107,FC Voluntari II,Local,ALL,22/09/2026,,2,44%,,,,,2,,,,,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12
+16878215,16787,101148,,,,,448061,ACS Inter Ilfov,Local,ALL,16/10/2026,,3,,,,,,3,,,,15,1,0,,,,,,,,,,,,2,,28,,,,,,,,,,,,,,,,,,,,,6
+16878215,16787,101148,,,,,1263688,CS Oxigen București,Visita,ALL,16/10/2026,,1,,,,,,1,,,,20,2,0,,,,,,,,,,,,2,,34,,,,,,,,,,,,,,,,,,,,,10

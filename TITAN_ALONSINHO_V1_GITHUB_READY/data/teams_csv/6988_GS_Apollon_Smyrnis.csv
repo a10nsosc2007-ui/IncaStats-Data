@@ -1,4 +1,4 @@
-﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
 9764109,185,37707,NORMAL,REGULAR,Round 1,LEAGUE,3248,Panathinaikos FC,Local,ALL,11/09/2021,1,4,65%,,,9,4,1,12,,,20,3,0,6,,3,0,,,,,,,,2,,25,,,,,,,,,,,,,,,,4,,,,,6
 9764109,185,37707,NORMAL,REGULAR,Round 1,LEAGUE,3248,Panathinaikos FC,Local,1ST,11/09/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9764109,185,37707,NORMAL,REGULAR,Round 1,LEAGUE,3248,Panathinaikos FC,Local,2ND,11/09/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -347,3 +347,17 @@
 10906246,186,46716,NORMAL,GROUP,"Super League 2, Group B",LEAGUE,120224,AE Kifisia,Visita,ALL,18/06/2023,30,0,,,,,,3,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10906246,186,46716,NORMAL,GROUP,"Super League 2, Group B",LEAGUE,120224,AE Kifisia,Visita,1ST,18/06/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10906246,186,46716,NORMAL,GROUP,"Super League 2, Group B",LEAGUE,120224,AE Kifisia,Visita,2ND,18/06/2023,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16734766,20862,96074,,,,,6991,GS Diagoras Rodou,Local,ALL,27/09/2026,,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16734766,20862,96074,,,,,6988,GS Apollon Smyrnis,Visita,ALL,27/09/2026,,2,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16734784,20862,96074,,,,,6988,GS Apollon Smyrnis,Local,ALL,04/10/2026,,1,,,,,,,,,,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16734784,20862,96074,,,,,3256,AO Proodeftiki Neolea,Visita,ALL,04/10/2026,,0,,,,,,,,,,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16734799,20862,96074,,,,,6988,GS Apollon Smyrnis,Visita,ALL,11/10/2026,,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16734799,20862,96074,,,,,397399,AS Apollon Kalythion,Local,ALL,11/10/2026,,1,,,,,,,,,,,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16734809,20862,96074,,,,,6988,GS Apollon Smyrnis,Local,ALL,18/10/2026,,2,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16734809,20862,96074,,,,,207452,GAS Ialysos Rodou,Visita,ALL,18/10/2026,,1,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16734816,20862,96074,,,,,6988,GS Apollon Smyrnis,Local,ALL,25/10/2026,,3,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16734816,20862,96074,,,,,231950,OFPF Ethnikos,Visita,ALL,25/10/2026,,2,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16734824,20862,96074,,,,,6988,GS Apollon Smyrnis,Visita,ALL,01/11/2026,,4,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16734824,20862,96074,,,,,460696,APSE Amfiali,Local,ALL,01/11/2026,,1,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16734838,20862,96074,,,,,6988,GS Apollon Smyrnis,Local,ALL,08/11/2026,,3,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16734838,20862,96074,,,,,3244,AO Egaleo,Visita,ALL,08/11/2026,,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

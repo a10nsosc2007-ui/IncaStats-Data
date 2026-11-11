@@ -1,0 +1,19 @@
+Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+17163036,9491,101599,,,,,199296,Botafogo U20,Local,ALL,08/10/2026,,1,38%,,,,,2,20,,,13,4,1,4,,4,,,,,,,,,0,,23,,,,,,,,,,,,,,,,,,,,,17
+17163036,9491,101599,,,,,41824,Bahia U20,Visita,ALL,08/10/2026,,0,62%,,,,,6,15,,,19,4,2,3,,11,,,,,,,,,4,,17,,,,,,,,,,,,,,,,,,,,,6
+16600497,24849,88003,,,,,1091343,Liga de Miranda do Norte U20,Local,ALL,08/08/2026,,0,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16600497,24849,88003,,,,,41824,Bahia U20,Visita,ALL,08/08/2026,,6,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16600511,24849,88003,,,,,41824,Bahia U20,Local,ALL,15/08/2026,,4,,,,,,1,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16600511,24849,88003,,,,,233253,Santa Cruz U20,Visita,ALL,15/08/2026,,0,,,,,,0,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16896454,24849,88003,,,,,41824,Bahia U20,Local,ALL,22/08/2026,,3,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16896454,24849,88003,,,,,419981,Esporte de Patos U20,Visita,ALL,22/08/2026,,1,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16913687,24849,88003,,,,,41824,Bahia U20,Local,ALL,29/08/2026,,2,,,,,,0,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16913687,24849,88003,,,,,307188,CSA U20,Visita,ALL,29/08/2026,,0,,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16897818,9491,101599,,,,,41824,Bahia U20,Local,ALL,08/09/2026,,16,67%,,,,,6,10,,,8,,,21,,21,,,,,,,,,5,,20,,,,,,,,,,,,,,,,,,,,,
+16897818,9491,101599,,,,,385072,Atlético Alagoinhas U20,Visita,ALL,08/09/2026,,0,33%,,,,,0,6,,,16,,,0,,1,,,,,,,,,2,,16,,,,,,,,,,,,,,,,,,,,,
+17014079,24849,88003,,,,,41824,Bahia U20,Local,ALL,12/09/2026,,0,,,,,,11,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17014079,24849,88003,,,,,233246,Náutico U20,Visita,ALL,12/09/2026,,0,,,,,,5,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17103579,24849,88003,,,,,41824,Bahia U20,Visita,ALL,20/09/2026,,0,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17103579,24849,88003,,,,,238164,Fortaleza U20,Local,ALL,20/09/2026,,1,,,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17103603,24849,88003,,,,,41824,Bahia U20,Local,ALL,26/09/2026,,2,55%,,,,,1,,,,1,0,0,,,,,,,,,,,,0,,1,,,,,,,,,,,,,,,,,,,,,1
+17103603,24849,88003,,,,,238164,Fortaleza U20,Visita,ALL,26/09/2026,,0,45%,,,,,0,,,,1,0,0,,,,,,,,,,,,0,,4,,,,,,,,,,,,,,,,,,,,,1

@@ -1,0 +1,11 @@
+Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+16990410,2132,102576,,,,,43719,Borussia Dortmund U19,Local,ALL,08/09/2026,,2,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16990410,2132,102576,,,,,206355,Villarreal U19,Visita,ALL,08/09/2026,,3,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17068301,2132,102576,,,,,43719,Borussia Dortmund U19,Visita,ALL,14/10/2026,,5,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17068301,2132,102576,,,,,295469,Bodo/Glimt U19,Local,ALL,14/10/2026,,0,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17068312,2132,102576,,,,,43719,Borussia Dortmund U19,Visita,ALL,20/10/2026,,2,69%,,,,,14,5,,,7,2,0,6,,8,2,,,,,,,,2,,21,,,,,,,,,,,,,,,,,,,,,2
+17068312,2132,102576,,,,,931005,Sabah U19,Local,ALL,20/10/2026,,0,31%,,,,,2,6,,,11,2,0,0,,2,2,,,,,,,,2,,17,,,,,,,,,,,,,,,,,,,,,12
+17354913,11105,99450,,,,,43719,Borussia Dortmund U19,Visita,ALL,25/10/2026,,0,,,,,,0,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17354913,11105,99450,,,,,43708,FC Schalke 04 U19,Local,ALL,25/10/2026,,0,,,,,,1,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17063012,2132,102576,,,,,43719,Borussia Dortmund U19,Local,ALL,04/11/2026,,2,,1.36,,,,,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17063012,2132,102576,,,,,275789,Real Betis U19,Visita,ALL,04/11/2026,,2,,3.56,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

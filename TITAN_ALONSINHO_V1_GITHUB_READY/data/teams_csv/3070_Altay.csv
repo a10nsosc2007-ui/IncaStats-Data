@@ -1,4 +1,4 @@
-﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
 9643888,52,37466,NORMAL,REGULAR,Round 1,LEAGUE,3070,Altay,Local,ALL,14/08/2021,1,3,38%,0.00,4,16,3,2,15,356,25,9,0,,7,2,6,3,15,1,2,2,2,,0,2,261,20,67,,22/59 (37%),5/11 (45%),55%,7,42/75 (56%),12/24 (50%),8/12 (67%),64%,25,12,,21,,3,,,,,4
 9643888,52,37466,NORMAL,REGULAR,Round 1,LEAGUE,3070,Altay,Local,1ST,14/08/2021,1,2,33%,0.00,1,4,0,1,,147,13,2,0,,3,1,1,0,4,0,1,0,0,,0,0,100,14,21,,5/20 (25%),2/5 (40%),60%,3,18/32 (56%),7/10 (70%),3/4 (75%),62%,13,7,,12,,0,,,,,1
 9643888,52,37466,NORMAL,REGULAR,Round 1,LEAGUE,3070,Altay,Local,2ND,14/08/2021,1,,43%,0.00,3,12,3,1,,209,12,7,0,,4,1,5,3,11,1,1,2,2,,0,2,161,6,46,,17/39 (44%),3/6 (50%),51%,4,24/43 (56%),5/14 (36%),5/8 (63%),67%,12,5,,9,,3,,,,,3
@@ -737,3 +737,13 @@
 14196215,15938,78481,NORMAL,GROUP,"Nesine 3. Lig, Grup 4",LEAGUE,3070,Altay,Visita,ALL,15/02/2026,21,1,48%,,,,,3,8,,,13,2,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,
 14196215,15938,78481,NORMAL,GROUP,"Nesine 3. Lig, Grup 4",LEAGUE,3070,Altay,Visita,1ST,15/02/2026,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14196215,15938,78481,NORMAL,GROUP,"Nesine 3. Lig, Grup 4",LEAGUE,3070,Altay,Visita,2ND,15/02/2026,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16537616,16934,98506,,,,,4499,Karşıyaka,Local,ALL,12/09/2026,,1,,,,,,12,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9
+16537616,16934,98506,,,,,3070,Altay,Visita,ALL,12/09/2026,,1,,,,,,2,,,,,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14
+16537643,16934,98506,,,,,3070,Altay,Local,ALL,20/09/2026,,1,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9
+16537643,16934,98506,,,,,800178,Gemlik Sümerbey Futbol,Visita,ALL,20/09/2026,,2,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6
+16537669,16934,98506,,,,,3070,Altay,Visita,ALL,27/09/2026,,2,,,,,,1,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16537669,16934,98506,,,,,170434,Bucaspor 1928,Local,ALL,27/09/2026,,1,,,,,,0,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16537693,16934,98506,,,,,3070,Altay,Local,ALL,03/10/2026,,0,,,,,,5,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8
+16537693,16934,98506,,,,,362070,Alanya 1221 FK,Visita,ALL,03/10/2026,,0,,,,,,5,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
+16537803,16934,98506,,,,,3070,Altay,Local,ALL,31/10/2026,,1,,,,,,5,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16537803,16934,98506,,,,,825633,1922 Akşehir,Visita,ALL,31/10/2026,,1,,,,,,7,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

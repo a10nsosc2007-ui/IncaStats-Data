@@ -1,0 +1,17 @@
+Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+17219800,315,105057,,,,,3404,AEK Larnaca,Local,ALL,21/10/2026,,3,51%,5.20,,22,4,6,14,618,3,3,2,1,9,0,6,7,15,7,,,2,32,,3,519,26,,57/82 (70%),35/68 (51%),5/19 (26%),47%,11,72/153 (47%),17/36 (47%),13/26 (50%),,3,21,,21,5,4,,,1,,9
+17219800,315,105057,,,,,36398,Akritas Chlorakas,Visita,ALL,21/10/2026,,2,49%,2.05,,14,7,1,16,534,15,2,3,0,6,0,4,4,8,6,,,1,17,,1,430,18,,43/60 (72%),28/54 (51%),7/23 (30%),51%,8,82/156 (53%),16/33 (48%),21/30 (70%),,15,24,,24,8,7,,,0,,14
+16665217,692,99580,,,,,25527,Ermis Aradippou,Local,ALL,11/09/2026,,2,,,,,,2,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9
+16665217,692,99580,,,,,36398,Akritas Chlorakas,Visita,ALL,11/09/2026,,0,,,,,,4,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
+16924980,692,99580,,,,,36398,Akritas Chlorakas,Local,ALL,19/09/2026,,1,49%,,,,,6,,,,0,0,0,,,,,,,,,,,,0,,0,,,,,,,,,,,,,,,,,,,,,5
+16924980,692,99580,,,,,25532,ASIL Lysis,Visita,ALL,19/09/2026,,1,51%,,,,,4,,,,0,0,1,,,,,,,,,,,,1,,4,,,,,,,,,,,,,,,,,,,,,5
+16924985,692,99580,,,,,36398,Akritas Chlorakas,Visita,ALL,10/10/2026,,1,,,,,,1,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16924985,692,99580,,,,,25544,PAEEK Kyrenia,Local,ALL,10/10/2026,,2,,,,,,0,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16924999,692,99580,,,,,36398,Akritas Chlorakas,Local,ALL,17/10/2026,,0,63%,,,,,0,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16924999,692,99580,,,,,390312,Iraklis Gerolakkou,Visita,ALL,17/10/2026,,0,37%,,,,,1,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16925001,692,99580,,,,,36398,Akritas Chlorakas,Visita,ALL,24/10/2026,,2,43%,,,,,1,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16925001,692,99580,,,,,445352,AEP Polemidion,Local,ALL,24/10/2026,,0,57%,,,,,4,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16925022,692,99580,,,,,36398,Akritas Chlorakas,Local,ALL,31/10/2026,,0,,,,,,3,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16925022,692,99580,,,,,3405,Enosis Neon Paralimniou,Visita,ALL,31/10/2026,,1,,,,,,5,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16925015,692,99580,,,,,36398,Akritas Chlorakas,Visita,ALL,07/11/2026,,0,62%,,,,,6,,,,3,1,1,,,,,,,,,,,,0,,7,,,,,,,,,,,,,,,,,,,,,1
+16925015,692,99580,,,,,25536,MEAP Nisou,Local,ALL,07/11/2026,,0,38%,,,,,1,,,,6,2,0,,,,,,,,,,,,0,,4,,,,,,,,,,,,,,,,,,,,,1

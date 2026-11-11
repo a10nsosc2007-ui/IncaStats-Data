@@ -1,0 +1,32 @@
+{
+  "schema": "incastats.central-import.v1",
+  "modo": "install",
+  "destino": "C:\\Users\\MSI CYBORG\\OneDrive\\Documentos\\GitHub\\IncaStats-Data\\INCA_BASE_MAESTRA",
+  "archivo_fuente": "C:\\Users\\MSI CYBORG\\Downloads\\INCASTATS_IMPORTADOR_A_INCASTATS_DATA_RAIZ_CORREGIDO\\INCA_IMPORTADOR_CENTRAL_DATA\\EXTRACCION\\INCA_EXPANSION_UNIVERSAL_FINAL.zip",
+  "equipos_antes_en_master_central": 0,
+  "equipos_ahora": 782,
+  "equipos_incorporados_al_master_central": 782,
+  "jugadores_antes_en_master_central": 0,
+  "jugadores_ahora": 8260,
+  "jugadores_incorporados_al_master_central": 8260,
+  "estadisticas_jugadores": {
+    "old_unique": 0,
+    "new_unique": 32595,
+    "updated": 0,
+    "total_unique": 32595
+  },
+  "estadisticas_equipos_nuevas": 7950,
+  "estadisticas_equipos_actualizadas": 0,
+  "logos_webp_a_escribir": 31,
+  "fotos_webp_a_escribir": 865,
+  "archivos_a_escribir": 965,
+  "carpetas_originales_respetadas": [
+    "TITAN_PLAYERS_CURRENT",
+    "TITAN_PLAYERS_MASTER_2025_PLUS",
+    "TITAN_LOGOS_COMP",
+    "otras carpetas del repositorio"
+  ],
+  "no_se_modifican_apps": true,
+  "consume_apikeys": false,
+  "backup": "C:\\Users\\MSI CYBORG\\OneDrive\\Documentos\\GitHub\\IncaStats-Data\\INCA_BASE_MAESTRA\\RESPALDOS\\20261019_134529_451780"
+}

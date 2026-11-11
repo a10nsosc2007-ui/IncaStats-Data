@@ -1,4 +1,4 @@
-﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
 9393817,406,35813,CALENDAR,REGULAR,Round 2,LEAGUE,5282,Deportivo USMP,Local,ALL,20/03/2021,2,2,60%,0.00,1,6,3,1,15,529,12,12,3,,2,0,2,2,2,4,1,0,,,2,1,455,18,54,,47/71 (66%),2/10 (20%),48%,12,30/62 (48%),10/21 (48%),6/8 (75%),83%,12,12,,24,,3,,,,,16
 9393817,406,35813,CALENDAR,REGULAR,Round 2,LEAGUE,5282,Deportivo USMP,Local,1ST,20/03/2021,2,1,61%,0.00,1,4,0,1,,262,6,7,2,,1,0,1,2,1,3,1,0,,,0,1,231,9,23,,16/26 (62%),2/6 (33%),50%,5,15/28 (54%),4/10 (40%),2/2 (100%),67%,6,7,,9,,0,,,,,5
 9393817,406,35813,CALENDAR,REGULAR,Round 2,LEAGUE,5282,Deportivo USMP,Local,2ND,20/03/2021,2,,60%,0.00,0,2,3,0,,267,6,5,1,,1,0,1,0,1,1,0,0,,,2,0,224,9,31,,31/45 (69%),0/4 (0%),47%,7,15/34 (44%),6/11 (55%),4/6 (67%),100%,6,5,,15,,3,,,,,11
@@ -533,3 +533,21 @@
 16230442,35067,95197,CALENDAR,GROUP,"Copa de La Liga, Group I",CUP,5282,Deportivo USMP,Visita,ALL,20/06/2026,2,3,50%,,,,,2,14,,,24,4,0,4,,5,,,,,,,,,0,,15,,,,,,,,,,,,,,,,,,,,,6
 16230442,35067,95197,CALENDAR,GROUP,"Copa de La Liga, Group I",CUP,5282,Deportivo USMP,Visita,1ST,20/06/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 16230442,35067,95197,CALENDAR,GROUP,"Copa de La Liga, Group I",CUP,5282,Deportivo USMP,Visita,2ND,20/06/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16801991,10297,91917,,,,,5281,Universidad César Vallejo,Visita,ALL,29/08/2026,,0,50%,,,,,6,17,,,5,4,0,2,,6,,,,,,,,,3,,22,,,,,,,,,,,,,,,,,,,,,6
+16801991,10297,91917,,,,,5282,Universidad San Martín de Porres,Local,ALL,29/08/2026,,2,50%,,,,,5,5,,,20,1,0,5,,2,,,,,,,,,0,,13,,,,,,,,,,,,,,,,,,,,,11
+16765836,10297,91917,,,,,5282,Universidad San Martín de Porres,Local,ALL,16/08/2026,,3,38%,,,,,1,11,,,19,2,0,4,,1,,,,,,,,,2,,4,,,,,,,,,,,,,,,,,,,,,2
+16765836,10297,91917,,,,,511207,Asociación Deportiva Agropecuaria,Visita,ALL,16/08/2026,,1,62%,,,,,8,16,,,13,4,0,9,,6,,,,,,,,,3,,18,,,,,,,,,,,,,,,,,,,,,3
+16868047,10297,91917,,,,,5282,Universidad San Martín de Porres,Visita,ALL,06/09/2026,,0,50%,,,,,5,,,,,1,0,0,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16868047,10297,91917,,,,,48431,Unión Comercio,Local,ALL,06/09/2026,,1,50%,,,,,5,,,,,3,0,1,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16883039,10297,91917,,,,,5282,Universidad San Martín de Porres,Local,ALL,13/09/2026,,2,50%,,,,,3,11,,,13,1,0,7,,7,,,,,,,,,1,,18,,,,,,,,,,,,,,,,,,,,,8
+16883039,10297,91917,,,,,245083,Academia Deportiva Cantolao,Visita,ALL,13/09/2026,,2,50%,,,,,2,8,,,12,2,0,5,,4,,,,,,,,,5,,19,,,,,,,,,,,,,,,,,,,,,8
+17108632,10297,91917,,,,,5282,Universidad San Martín de Porres,Visita,ALL,25/09/2026,,0,50%,,,,,2,6,,,12,1,0,4,,1,,,,,,,,,0,,8,,,,,,,,,,,,,,,,,,,,,8
+17108632,10297,91917,,,,,252245,Carlos A. Mannucci,Local,ALL,25/09/2026,,7,50%,,,,,5,11,,,6,1,0,9,,5,,,,,,,,,1,,16,,,,,,,,,,,,,,,,,,,,,10
+17108625,10297,91917,,,,,5282,Universidad San Martín de Porres,Local,ALL,06/10/2026,,2,50%,,,,,4,15,,,14,5,0,3,,3,,,,,,,,,0,,12,,,,,,,,,,,,,,,,,,,,,9
+17108625,10297,91917,,,,,306660,Alianza Universidad,Visita,ALL,06/10/2026,,1,50%,,,,,6,11,,,16,3,0,6,,5,,,,,,,,,1,,26,,,,,,,,,,,,,,,,,,,,,5
+17108626,10297,91917,,,,,5282,Universidad San Martín de Porres,Local,ALL,11/10/2026,,2,57%,,,,,5,12,,,11,0,0,7,,5,,,,,,,,,1,,15,,,,,,,,,,,,,,,,,,,,,7
+17108626,10297,91917,,,,,1082001,Bentín Tacna Heroica,Visita,ALL,11/10/2026,,0,43%,,,,,4,11,,,13,1,0,1,,3,,,,,,,,,0,,13,,,,,,,,,,,,,,,,,,,,,9
+17108621,10297,91917,,,,,5282,Universidad San Martín de Porres,Local,ALL,25/10/2026,,1,38%,,,,,1,7,,,13,2,1,1,,5,,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,,,
+17108621,10297,91917,,,,,252245,Carlos A. Mannucci,Visita,ALL,25/10/2026,,2,62%,,,,,7,12,,,8,5,1,7,,4,,,,,,,,,1,,0,,,,,,,,,,,,,,,,,,,,,
+17108630,10297,91917,,,,,5282,Universidad San Martín de Porres,Visita,ALL,31/10/2026,,1,49%,,,,,11,,,,4,2,1,4,,10,,,,,,,,,0,,8,,,,,,,,,,,,,,,,,,,,,2
+17108630,10297,91917,,,,,306660,Alianza Universidad,Local,ALL,31/10/2026,,0,51%,,,,,5,,,,3,2,0,3,,7,,,,,,,,,4,,4,,,,,,,,,,,,,,,,,,,,,10

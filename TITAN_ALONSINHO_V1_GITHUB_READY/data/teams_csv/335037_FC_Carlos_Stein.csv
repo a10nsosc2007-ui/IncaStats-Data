@@ -1,4 +1,4 @@
-﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
 9392799,406,35813,CALENDAR,REGULAR,Round 1,LEAGUE,2307,Alianza Atlético de Sullana,Local,ALL,15/03/2021,1,0,46%,,,6,4,4,16,,,25,1,1,0,,6,,,,,,,,,0,,22,,,,,,,,,,,,,,,,4,,,,,11
 9392799,406,35813,CALENDAR,REGULAR,Round 1,LEAGUE,2307,Alianza Atlético de Sullana,Local,1ST,15/03/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9392799,406,35813,CALENDAR,REGULAR,Round 1,LEAGUE,2307,Alianza Atlético de Sullana,Local,2ND,15/03/2021,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -395,3 +395,17 @@
 16678504,29030,95006,CALENDAR,REGULAR,Round 8,LEAGUE,335037,FC Carlos Stein,Visita,ALL,03/08/2026,8,0,,,,,,,,,,,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 16678504,29030,95006,CALENDAR,REGULAR,Round 8,LEAGUE,335037,FC Carlos Stein,Visita,1ST,03/08/2026,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 16678504,29030,95006,CALENDAR,REGULAR,Round 8,LEAGUE,335037,FC Carlos Stein,Visita,2ND,03/08/2026,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16851960,29030,95006,,,,,1121504,Juventud Cautivo,Local,ALL,09/08/2026,,7,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16851960,29030,95006,,,,,335037,FC Carlos Stein,Visita,ALL,09/08/2026,,1,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16852062,29030,95006,,,,,335037,FC Carlos Stein,Local,ALL,16/08/2026,,0,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16852062,29030,95006,,,,,492853,Unión Santo Domingo,Visita,ALL,16/08/2026,,1,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16864685,29030,95006,,,,,335037,FC Carlos Stein,Visita,ALL,23/08/2026,,1,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16864685,29030,95006,,,,,2303,Juan Aurich,Local,ALL,23/08/2026,,2,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17201889,29030,95006,,,,,335037,FC Carlos Stein,Local,ALL,30/09/2026,,6,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17201889,29030,95006,,,,,1043173,CSD Juventud Santo Domingo,Visita,ALL,30/09/2026,,2,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17201957,29030,95006,,,,,335037,FC Carlos Stein,Local,ALL,05/10/2026,,0,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17201957,29030,95006,,,,,1121503,Deportivo Lute,Visita,ALL,05/10/2026,,0,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17201980,29030,95006,,,,,335037,FC Carlos Stein,Local,ALL,14/10/2026,,2,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17201980,29030,95006,,,,,1096253,CDC Volante,Visita,ALL,14/10/2026,,1,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17408139,29030,95006,,,,,335037,FC Carlos Stein,Local,ALL,17/10/2026,,4,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17408139,29030,95006,,,,,195793,Universidad César Vallejo Reserve,Visita,ALL,17/10/2026,,2,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

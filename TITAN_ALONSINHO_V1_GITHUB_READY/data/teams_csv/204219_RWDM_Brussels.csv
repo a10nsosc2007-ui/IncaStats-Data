@@ -1,4 +1,4 @@
-﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
 10247517,38,36894,NORMAL,PLAYOFF,Qualification round 1,LEAGUE,204219,RWDM Brussels,Local,ALL,23/04/2022,1,0,43%,,,5,5,5,8,,,8,0,0,1,,4,,,,,,,,,4,,20,,,,,,,,,,,,,,,,5,,,,,13
 10247517,38,36894,NORMAL,PLAYOFF,Qualification round 1,LEAGUE,204219,RWDM Brussels,Local,1ST,23/04/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10247517,38,36894,NORMAL,PLAYOFF,Qualification round 1,LEAGUE,204219,RWDM Brussels,Local,2ND,23/04/2022,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -725,3 +725,23 @@
 14117910,9,77849,NORMAL,REGULAR,Round 34,LEAGUE,204219,RWDM Brussels,Visita,ALL,17/04/2026,34,1,44%,0.47,0,8,5,6,14,362,19,9,3,,4,0,3,1,4,4,,0,0,23,4,2,308,26,54,104/136 (76%),26/43 (60%),2/21 (10%),43%,11,40/95 (42%),8/16 (50%),12/27 (44%),63%,19,15,49,19,,5,-1.25,2,1,,8
 14117910,9,77849,NORMAL,REGULAR,Round 34,LEAGUE,204219,RWDM Brussels,Visita,1ST,17/04/2026,34,1,42%,0.22,0,4,0,2,6,182,13,6,0,,2,0,1,1,2,2,,0,0,,2,1,152,13,28,,17/29 (59%),1/10 (10%),46%,6,23/51 (45%),5/10 (50%),4/12 (33%),54%,13,6,25,9,,0,,,,,3
 14117910,9,77849,NORMAL,REGULAR,Round 34,LEAGUE,204219,RWDM Brussels,Visita,2ND,17/04/2026,34,0,47%,0.25,0,4,5,4,8,180,6,3,3,,2,0,2,0,2,2,,0,0,,2,1,156,13,26,,9/14 (64%),1/11 (9%),40%,5,17/44 (39%),3/6 (50%),8/15 (53%),83%,6,9,24,10,,5,,,,,5
+16896467,25282,97715,,,,,490614,RSC Habay,Local,ALL,26/08/2026,,1,59%,,,,,9,10,,,11,2,0,5,,11,,,,,,,,,3,,44,,,,,,,,,,,,,,,,,,,,,
+16896467,25282,97715,,,,,204219,RWDM Brussels,Visita,ALL,26/08/2026,,2,41%,,,,,4,10,,,13,3,1,5,,6,,,,,,,,,1,,27,,,,,,,,,,,,,,,,,,,,,
+16455062,25282,97715,,,,,204219,RWDM Brussels,Local,ALL,12/09/2026,,1,48%,,,,,3,11,,,16,1,0,4,,6,,,,,,,,,4,,27,,,,,,,,,,,,,,,,,,,,,
+16455062,25282,97715,,,,,525259,Sporting Charleroi U23,Visita,ALL,12/09/2026,,0,52%,,,,,3,14,,,15,3,1,2,,1,,,,,,,,,1,,15,,,,,,,,,,,,,,,,,,,,,
+16455078,25282,97715,,,,,204219,RWDM Brussels,Visita,ALL,19/09/2026,,1,47%,,,,,1,21,,,14,,,3,,2,,,,,,,,,1,,25,,,,,,,,,,,,,,,,,,,,,11
+16455078,25282,97715,,,,,204217,RFC Meux,Local,ALL,19/09/2026,,0,53%,,,,,7,12,,,22,,,5,,9,,,,,,,,,2,,27,,,,,,,,,,,,,,,,,,,,,6
+16977613,25282,97715,,,,,204219,RWDM Brussels,Local,ALL,30/09/2026,,1,48%,,,,,5,9,,,16,4,0,4,,4,,,,,,,,,1,,20,,,,,,,,,,,,,,,,,,,,,4
+16977613,25282,97715,,,,,385759,Union Rochefortoise,Visita,ALL,30/09/2026,,1,52%,,,,,5,11,,,11,4,0,6,,2,,,,,,,,,5,,32,,,,,,,,,,,,,,,,,,,,,6
+16455095,25282,97715,,,,,204219,RWDM Brussels,Visita,ALL,03/10/2026,,2,56%,,,,,1,1,,,1,2,0,4,,4,,,,,,,,,1,,2,,,,,,,,,,,,,,,,,,,,,10
+16455095,25282,97715,,,,,527029,Union Saint-Gilloise U23,Local,ALL,03/10/2026,,4,44%,,,,,2,1,,,2,3,0,5,,8,,,,,,,,,0,,2,,,,,,,,,,,,,,,,,,,,,6
+16455099,25282,97715,,,,,204219,RWDM Brussels,Local,ALL,10/10/2026,,2,41%,,,,,4,21,,,18,3,0,3,,4,,,,,,,,,1,,22,,,,,,,,,,,,,,,,,,,,,
+16455099,25282,97715,,,,,2909,Royale Union Tubize-Braine,Visita,ALL,10/10/2026,,1,59%,,,,,5,14,,,22,2,0,1,,3,,,,,,,,,4,,25,,,,,,,,,,,,,,,,,,,,,
+16455108,25282,97715,,,,,204219,RWDM Brussels,Visita,ALL,17/10/2026,,1,50%,,,,,7,16,,,22,2,0,2,,5,,,,,,,,,3,,38,,,,,,,,,,,,,,,,,,,,,
+16455108,25282,97715,,,,,7735,OC Charleroi,Local,ALL,17/10/2026,,3,50%,,,,,2,19,,,19,1,0,8,,4,,,,,,,,,3,,21,,,,,,,,,,,,,,,,,,,,,
+16455113,25282,97715,,,,,204219,RWDM Brussels,Local,ALL,24/10/2026,,1,53%,,,,,5,0,,,20,3,0,0,,0,,,,,,,,,4,,15,,,,,,,,,,,,,,,,,,,,,11
+16455113,25282,97715,,,,,549294,RAEC Mons,Visita,ALL,24/10/2026,,2,47%,,,,,3,1,,,27,2,0,0,,0,,,,,,,,,2,,17,,,,,,,,,,,,,,,,,,,,,10
+16455122,25282,97715,,,,,204219,RWDM Brussels,Visita,ALL,01/11/2026,,1,50%,,,,,1,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16455122,25282,97715,,,,,421123,SL16 Football Campus U23,Local,ALL,01/11/2026,,1,50%,,,,,7,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16455128,25282,97715,,,,,204219,RWDM Brussels,Local,ALL,07/11/2026,,0,58%,,,,,7,0,,,14,5,0,1,,0,,,,,,,,,3,,27,,,,,,,,,,,,,,,,,,,,,3
+16455128,25282,97715,,,,,204217,RFC Meux,Visita,ALL,07/11/2026,,1,42%,,,,,4,1,,,21,1,0,0,,0,,,,,,,,,3,,31,,,,,,,,,,,,,,,,,,,,,2

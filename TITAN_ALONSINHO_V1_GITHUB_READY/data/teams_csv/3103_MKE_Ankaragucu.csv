@@ -1,4 +1,4 @@
-﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
 9646837,98,37482,NORMAL,REGULAR,Round 1,LEAGUE,117198,Beykoz Anadolu Spor A.Ş.,Local,ALL,15/08/2021,1,1,54%,0.00,5,16,2,4,14,496,14,10,0,,3,2,11,2,13,3,1,4,,,2,0,410,14,52,,46/75 (61%),8/23 (35%),41%,11,32/81 (40%),13/30 (43%),8/14 (57%),71%,14,9,,7,,2,,,,,6
 9646837,98,37482,NORMAL,REGULAR,Round 1,LEAGUE,117198,Beykoz Anadolu Spor A.Ş.,Local,1ST,15/08/2021,1,1,53%,0.00,2,6,0,2,,246,9,4,0,,1,1,5,0,4,2,1,1,,,0,0,206,9,21,,23/34 (68%),2/9 (22%),41%,7,18/45 (40%),5/11 (45%),5/9 (56%),67%,9,4,,5,,0,,,,,2
 9646837,98,37482,NORMAL,REGULAR,Round 1,LEAGUE,117198,Beykoz Anadolu Spor A.Ş.,Local,2ND,15/08/2021,1,0,56%,0.00,3,10,2,2,,250,5,6,0,,2,1,6,2,9,1,0,3,,,2,0,204,5,31,,23/41 (56%),6/14 (43%),40%,4,14/36 (39%),8/19 (42%),3/5 (60%),80%,5,5,,2,,2,,,,,4
@@ -1139,3 +1139,21 @@
 14162263,97,78237,NORMAL,REGULAR,Round 36,LEAGUE,5764,İnegölspor,Visita,ALL,12/04/2026,36,2,46%,,,,,5,,,,,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14162263,97,78237,NORMAL,REGULAR,Round 36,LEAGUE,5764,İnegölspor,Visita,1ST,12/04/2026,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14162263,97,78237,NORMAL,REGULAR,Round 36,LEAGUE,5764,İnegölspor,Visita,2ND,12/04/2026,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16525325,97,98395,,,,,297098,1461 Trabzon,Visita,ALL,24/10/2026,,2,49%,,,,,8,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16525325,97,98395,,,,,3103,MKE Ankaragücü,Local,ALL,24/10/2026,,2,51%,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16525270,97,98395,,,,,3103,MKE Ankaragücü,Local,ALL,06/09/2026,,0,,,,,,0,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+16525270,97,98395,,,,,35191,Ankara Demirspor,Visita,ALL,06/09/2026,,1,,,,,,0,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+16525288,97,98395,,,,,3103,MKE Ankaragücü,Visita,ALL,13/09/2026,,0,,,,,,4,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6
+16525288,97,98395,,,,,174114,12 Bingölspor,Local,ALL,13/09/2026,,1,,,,,,4,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12
+16525273,97,98395,,,,,3103,MKE Ankaragücü,Local,ALL,19/09/2026,,1,,,,,,2,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5
+16525273,97,98395,,,,,297102,Serikspor A.Ş.,Visita,ALL,19/09/2026,,1,,,,,,5,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5
+16525289,97,98395,,,,,3103,MKE Ankaragücü,Visita,ALL,27/09/2026,,4,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16525289,97,98395,,,,,55611,Karacabey Belediye Spor,Local,ALL,27/09/2026,,1,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16525301,97,98395,,,,,3103,MKE Ankaragücü,Local,ALL,04/10/2026,,4,,,,,,7,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
+16525301,97,98395,,,,,5764,İnegölspor,Visita,ALL,04/10/2026,,1,,,,,,2,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8
+16525322,97,98395,,,,,3103,MKE Ankaragücü,Visita,ALL,17/10/2026,,2,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16525322,97,98395,,,,,7041,Fethiyespor,Local,ALL,17/10/2026,,2,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16525336,97,98395,,,,,3103,MKE Ankaragücü,Visita,ALL,01/11/2026,,1,57%,,,,,10,,,,12,3,0,,,,,,,,,,,,0,,23,,,,,,,,,,,,,,,,,,,,,7
+16525336,97,98395,,,,,485451,Adana 01 FK,Local,ALL,01/11/2026,,1,43%,,,,,2,,,,10,2,0,,,,,,,,,,,,3,,21,,,,,,,,,,,,,,,,,,,,,11
+16525347,97,98395,,,,,3103,MKE Ankaragücü,Local,ALL,07/11/2026,,1,40%,,,,,6,,,,0,4,1,,,,,,,,,,,,0,,0,,,,,,,,,,,,,,,,,,,,,0
+16525347,97,98395,,,,,825656,Kahramanmaraş İstiklalspor,Visita,ALL,07/11/2026,,3,60%,,,,,8,,,,0,1,0,,,,,,,,,,,,0,,0,,,,,,,,,,,,,,,,,,,,,0

@@ -1,4 +1,4 @@
-﻿Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
+Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_Stage,Competition_Type,Team_ID,Equipo,Condicion,Tiempo,Fecha,Jornada,Goals,Ball possession,Expected goals,Big chances,Total shots,Goalkeeper saves,Corner kicks,Fouls,Passes,Tackles,Free kicks,Yellow cards,Red cards,Shots on target,Hit woodwork,Shots off target,Blocked shots,Shots inside box,Shots outside box,Big chances scored,Big chances missed,Through balls,Touches in penalty area,Fouled in final third,Offsides,Accurate passes,Throw-ins,Final third entries,Final third phase,Long balls,Crosses,Duels,Dispossessed,Ground duels,Aerial duels,Dribbles,Tackles won,Total tackles,Interceptions,Recoveries,Clearances,Errors lead to a shot,Total saves,Goals prevented,Big saves,High claims,Punches,Goal kicks
 9388554,384,35576,CALENDAR,REGULAR,Qualification round 2,INTERNATIONAL,5926,Grêmio,Local,ALL,10/03/2021,15,6,64%,0.00,7,27,2,11,10,592,8,11,1,,14,1,6,7,21,6,4,3,1,,7,3,516,15,71,,21/34 (62%),5/27 (19%),57%,8,49/85 (58%),27/49 (55%),30/42 (71%),75%,8,14,,17,,2,,,,,3
 9388554,384,35576,CALENDAR,REGULAR,Qualification round 2,INTERNATIONAL,5926,Grêmio,Local,1ST,10/03/2021,15,4,64%,0.00,5,13,1,5,,282,3,4,0,,8,0,2,3,11,2,3,2,1,,4,3,238,9,33,,7/15 (47%),2/11 (18%),55%,5,20/37 (54%),14/25 (56%),13/19 (68%),67%,3,8,,7,,1,,,,,3
 9388554,384,35576,CALENDAR,REGULAR,Qualification round 2,INTERNATIONAL,5926,Grêmio,Local,2ND,10/03/2021,15,,64%,0.00,2,14,1,6,,310,5,7,1,,6,1,4,4,10,4,1,1,0,,3,0,278,6,38,,14/19 (74%),3/16 (19%),58%,3,29/48 (60%),13/24 (54%),17/23 (74%),80%,5,6,,10,,1,,,,,0
@@ -653,9 +653,27 @@
 16230441,35067,95197,CALENDAR,GROUP,"Copa de La Liga, Group G",CUP,33894,Ayacucho,Visita,ALL,21/06/2026,2,1,42%,,,,,1,19,,,17,3,0,1,,5,,,,,,,,,4,,16,,,,,,,,,,,,,,,,,,,,,0
 16230441,35067,95197,CALENDAR,GROUP,"Copa de La Liga, Group G",CUP,33894,Ayacucho,Visita,1ST,21/06/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 16230441,35067,95197,CALENDAR,GROUP,"Copa de La Liga, Group G",CUP,33894,Ayacucho,Visita,2ND,21/06/2026,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-16494906,10297,91917,CALENDAR,GROUP,"Liga 2, Group B",LEAGUE,33894,Ayacucho,Local,ALL,09/08/2026,13,1,0%,,,,,6,12,,,5,4,0,4,0,4,3,,,,,,,,1,,14,,,,,,,,,,,,,,,,,,,,,6
+16494906,10297,91917,CALENDAR,GROUP,"Liga 2, Group B",LEAGUE,33894,Ayacucho FC,Local,ALL,09/08/2026,13,1,0%,,,,,6,12,,,5,4,0,4,0,4,3,,,,,,,,1,,14,,,,,,,,,,,,,,,,,,,,,6
 16494906,10297,91917,CALENDAR,GROUP,"Liga 2, Group B",LEAGUE,33894,Ayacucho,Local,1ST,09/08/2026,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 16494906,10297,91917,CALENDAR,GROUP,"Liga 2, Group B",LEAGUE,33894,Ayacucho,Local,2ND,09/08/2026,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 16494906,10297,91917,CALENDAR,GROUP,"Liga 2, Group B",LEAGUE,1093205,CD Estudiantil CNI,Visita,ALL,09/08/2026,13,0,0%,,,,,4,5,,,13,2,0,1,0,4,1,,,,,,,,0,,7,,,,,,,,,,,,,,,,,,,,,14
 16494906,10297,91917,CALENDAR,GROUP,"Liga 2, Group B",LEAGUE,1093205,CD Estudiantil CNI,Visita,1ST,09/08/2026,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 16494906,10297,91917,CALENDAR,GROUP,"Liga 2, Group B",LEAGUE,1093205,CD Estudiantil CNI,Visita,2ND,09/08/2026,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16758617,10297,91917,,,,,33894,Ayacucho FC,Visita,ALL,15/08/2026,,1,56%,,,,,2,,,,,3,1,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16758617,10297,91917,,,,,1207303,Club Deportivo Unión Minas Centromin,Local,ALL,15/08/2026,,3,44%,,,,,5,,,,,1,1,3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16730387,10297,91917,,,,,33894,Ayacucho FC,Local,ALL,22/08/2026,,7,50%,,,,,0,,,,,2,0,0,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16730387,10297,91917,,,,,275839,Deportivo Binacional,Visita,ALL,22/08/2026,,1,50%,,,,,0,,,,,4,0,0,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16868051,10297,91917,,,,,33894,Ayacucho FC,Visita,ALL,04/09/2026,,1,50%,,,,,3,,,,21,3,1,1,,1,,,,,,,,,1,,17,,,,,,,,,,,,,,,,,,,,,11
+16868051,10297,91917,,,,,467733,Comerciantes FC,Local,ALL,04/09/2026,,5,50%,,,,,7,,,,10,2,0,6,,6,,,,,,,,,3,,18,,,,,,,,,,,,,,,,,,,,,3
+16883040,10297,91917,,,,,33894,Ayacucho FC,Local,ALL,12/09/2026,,0,67%,,,,,8,6,,,10,3,0,12,,7,,,,,,,,,1,,32,,,,,,,,,,,,,,,,,,,,,
+16883040,10297,91917,,,,,195790,Sport Huancayo Reserve,Visita,ALL,12/09/2026,,2,33%,,,,,3,10,,,7,1,0,6,,3,,,,,,,,,0,,19,,,,,,,,,,,,,,,,,,,,,
+17108600,10297,91917,,,,,33894,Ayacucho FC,Local,ALL,26/09/2026,,1,53%,,,,,7,12,,,14,1,0,5,,8,,,,,,,,,5,,23,,,,,,,,,,,,,,,,,,,,,1
+17108600,10297,91917,,,,,1207303,Club Deportivo Unión Minas Centromin,Visita,ALL,26/09/2026,,0,47%,,,,,3,10,,,18,1,1,2,,2,,,,,,,,,3,,23,,,,,,,,,,,,,,,,,,,,,1
+17108610,10297,91917,,,,,33894,Ayacucho FC,Visita,ALL,06/10/2026,,0,49%,,,,,6,,,,15,5,1,3,,6,,,,,,,,,1,,27,,,,,,,,,,,,,,,,,,,,,14
+17108610,10297,91917,,,,,308624,Pirata FC,Local,ALL,06/10/2026,,2,51%,,,,,6,,,,17,2,0,4,,3,,,,,,,,,6,,24,,,,,,,,,,,,,,,,,,,,,8
+17108608,10297,91917,,,,,33894,Ayacucho FC,Visita,ALL,12/10/2026,,0,78%,,,,,4,,,,16,3,0,0,,1,,,,,,,,,1,,12,,,,,,,,,,,,,,,,,,,,,11
+17108608,10297,91917,,,,,48431,Unión Comercio,Local,ALL,12/10/2026,,5,22%,,,,,4,,,,11,0,0,6,,4,,,,,,,,,1,,10,,,,,,,,,,,,,,,,,,,,,9
+17108607,10297,91917,,,,,33894,Ayacucho FC,Local,ALL,18/10/2026,,1,50%,,,,,5,,,,7,6,1,7,,9,,,,,,,,,4,,16,,,,,,,,,,,,,,,,,,,,,10
+17108607,10297,91917,,,,,48431,Unión Comercio,Visita,ALL,18/10/2026,,1,50%,,,,,3,,,,23,3,0,5,,7,,,,,,,,,1,,21,,,,,,,,,,,,,,,,,,,,,16
+17108606,10297,91917,,,,,33894,Ayacucho FC,Visita,ALL,24/10/2026,,2,50%,,,,,5,,,,,2,0,7,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17108606,10297,91917,,,,,1207303,Club Deportivo Unión Minas Centromin,Local,ALL,24/10/2026,,1,50%,,,,,9,,,,,1,0,12,,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
