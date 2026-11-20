@@ -1716,7 +1716,7 @@ Event_ID,Player_ID,Team_ID,Competition_ID,Season_ID,Season_Label,Start_Timestamp
 16317286,959506,1305,47,96186,1. Division 26/27,,Local,,sofascore_csv_v7,Betinia Liga,1. Division 26/27,Hvidovre vs Aarhus Fremad,09/11/2026,Malte Kiilerich,D,Hvidovre,90,7.5,,1,,,,,,32,25,1,,,,,3,,5,1,,,,,
 16317286,1143592,1305,47,96186,1. Division 26/27,,Local,,sofascore_csv_v7,Betinia Liga,1. Division 26/27,Hvidovre vs Aarhus Fremad,09/11/2026,Nicolai Clausen,D,Hvidovre,90,7,,,0.33,,1,1,,26,21,,,,,,1,,1,1,,,,,
 16317286,1030510,1305,47,96186,1. Division 26/27,,Local,,sofascore_csv_v7,Betinia Liga,1. Division 26/27,Hvidovre vs Aarhus Fremad,09/11/2026,Oliver Juul Jensen,D,Hvidovre,90,7.2,,,0.4,,2,,,37,30,,,,,,2,3,6,,,,,,
-16317286,976127,1305,47,96186,1. Division 26/27,,Local,,sofascore_csv_v7,Betinia Liga,1. Division 26/27,Hvidovre vs Aarhus Fremad,09/11/2026,Louka Prip,F,Hvidovre,90,8.3,1,,0.54,,3,2,,39,32,,,,,,5,,7,,2,,,,
+16317286,976127,1305,47,96186,26/27,1794247200,Local,1,sofascore_lineups_unified,Betinia Liga,26/27,Hvidovre vs Aarhus Fremad,09/11/2026,Louka Prip,F,Hvidovre,90,8.3,1,0,0.54,0.33,3,2,0,39,32,,0,0,61,0,5,0,7,0,2,0,0,0,0
 16317286,1003994,1305,47,96186,1. Division 26/27,,Local,,sofascore_csv_v7,Betinia Liga,1. Division 26/27,Hvidovre vs Aarhus Fremad,09/11/2026,Oliver Jensen,M,Hvidovre,90,6.8,,,,,,,,40,33,1,,,,,2,2,2,3,,,,1,
 16317286,862374,1305,47,96186,1. Division 26/27,,Local,,sofascore_csv_v7,Betinia Liga,1. Division 26/27,Hvidovre vs Aarhus Fremad,09/11/2026,Oliver Kjærgaard,M,Hvidovre,74,7.2,,2,0.07,,1,,,23,18,2,1,,,,,,1,,,,,,
 16317286,1388593,1305,47,96186,1. Division 26/27,,Local,,sofascore_csv_v7,Betinia Liga,1. Division 26/27,Hvidovre vs Aarhus Fremad,09/11/2026,Nathan Huygevelde,M,Hvidovre,58,6.6,,,0.09,,2,,,22,17,1,,,,,,,1,1,,,,,

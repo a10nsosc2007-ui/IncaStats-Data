@@ -2193,7 +2193,7 @@ Event_ID,Player_ID,Team_ID,Competition_ID,Season_ID,Season_Label,Start_Timestamp
 16610854,308672,1655,183,97457,Ligue 3 26/27,,Visita,,sofascore_csv_v7,Ligue 3,Ligue 3 26/27,FC Rouen vs Bastia,07/11/2026,Joachim Eickmayer,M,Bastia,90,6.1,0,0,,,1,,,42,35,,,,,,,1,2,,,,,,
 16610854,2197164,1655,183,97457,Ligue 3 26/27,,Visita,,sofascore_csv_v7,Ligue 3,Ligue 3 26/27,FC Rouen vs Bastia,07/11/2026,Alexandre Zaouai,M,Bastia,63,6.2,0,0,0.11,,1,,,30,24,,,,,,,2,5,,2,,,,
 16610854,2450581,1655,183,97457,Ligue 3 26/27,,Visita,,sofascore_csv_v7,Ligue 3,Ligue 3 26/27,FC Rouen vs Bastia,07/11/2026,Ruben Beliandjou,F,Bastia,63,6.5,0,0,0.1,,1,1,,10,8,,,,,,,,3,1,1,,,,
-16610854,1597197,1655,183,97457,Ligue 3 26/27,,Visita,,sofascore_csv_v7,Ligue 3,Ligue 3 26/27,FC Rouen vs Bastia,07/11/2026,Hamidou Makalou,M,Bastia,27,6.5,0,0,,,1,,,13,8,2,,,,,,1,2,,,,,,
+16610854,1597197,1655,183,97457,26/27,1794059100,Visita,0,sofascore_lineups_unified,Ligue 3,26/27,FC Rouen vs Bastia,07/11/2026,Hamidou Makalou,M,Bastia,27,6.5,0,0,0,0.15,1,0,,13,8,2,,,23,1,0,1,2,0,0,0,0,0,
 16610854,2648931,1655,183,97457,Ligue 3 26/27,,Visita,,sofascore_csv_v7,Ligue 3,Ligue 3 26/27,FC Rouen vs Bastia,07/11/2026,Daouda Tamba,F,Bastia,27,6.5,0,0,0.04,,1,,,6,4,,,,,,,2,3,2,1,,,,
 16610854,1823075,1655,183,97457,Ligue 3 26/27,,Visita,,sofascore_csv_v7,Ligue 3,Ligue 3 26/27,FC Rouen vs Bastia,07/11/2026,Mohamed Amine Boumaaoui,F,Bastia,27,6,0,0,0.16,,2,1,,7,6,,,,,,,,1,1,,,,,
 16610854,2198401,1655,183,97457,Ligue 3 26/27,,Visita,,sofascore_csv_v7,Ligue 3,Ligue 3 26/27,FC Rouen vs Bastia,07/11/2026,Isaac Monnier,D,Bastia,18,7.3,0,0,,,1,,,10,8,,,,,,,,9,,5,,,,

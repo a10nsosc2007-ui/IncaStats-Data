@@ -585,3 +585,5 @@ Event_ID,Competition_ID,Season_ID,Season_Format,Competition_Phase,Competition_St
 16730384,10297,91917,,,,,48431,Unión Comercio,Local,ALL,23/08/2026,,0,50%,,,,,4,,,,,2,1,0,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 16801992,10297,91917,,,,,48431,Unión Comercio,Visita,ALL,30/08/2026,,1,43%,,,,,2,,,,,2,0,3,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 16801992,10297,91917,,,,,336011,Deportivo Llacuabamba,Local,ALL,30/08/2026,,1,57%,,,,,7,,,,,4,0,11,,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+17499812,10297,91917,CALENDAR,PLAYOFF,Semifinals,LEAGUE,5282,Universidad San Martín de Porres,Local,ALL,15/11/2026,28,1,58%,,,,,2,7,,,8,2,0,2,,5,,,,,,,,,1,,17,,,,,,,,,,,,,,,,,,,,,2
+17499812,10297,91917,CALENDAR,PLAYOFF,Semifinals,LEAGUE,48431,Unión Comercio,Visita,ALL,15/11/2026,28,1,42%,,,,,4,4,,,11,2,0,4,,1,,,,,,,,,2,,19,,,,,,,,,,,,,,,,,,,,,6
